@@ -258,8 +258,6 @@ function addClusterLayers(map, cfg, opacityMultiplier) {
       paint: { 'text-color': '#ffffff' },
     });
   }
-
-  const pointId = `${LAYER_PREFIX}${cfg.id}-point`;
 }
 
 export function addOperationalLayer(map, cfg, opacityMultiplier, zoom) {
@@ -292,19 +290,21 @@ export function addOperationalLayer(map, cfg, opacityMultiplier, zoom) {
 export function setOperationalLayerVisibility(map, cfg, visible, zoom) {
   const clusterBelow = cfg.performance?.clusterBelowZoom;
   const useCluster = clusterBelow && cfg.geometryType === 'point' && zoom < clusterBelow;
+  const aboveMinZoom = zoom + 0.01 >= (cfg.minzoom ?? 0);
+  const showBase = visible && aboveMinZoom;
 
   for (const id of subLayerIds(cfg.id)) {
     if (!map.getLayer(id)) continue;
 
     if (id.endsWith('-cluster') || id.endsWith('-cluster-count')) {
-      map.setLayoutProperty(id, 'visibility', visible && useCluster ? 'visible' : 'none');
+      map.setLayoutProperty(id, 'visibility', showBase && useCluster ? 'visible' : 'none');
     } else if (id.endsWith('-symbol')) {
-      map.setLayoutProperty(id, 'visibility', visible ? 'visible' : 'none');
+      map.setLayoutProperty(id, 'visibility', showBase ? 'visible' : 'none');
     } else if (id.endsWith('-point') && clusterBelow) {
-      const show = visible && !useCluster;
+      const show = showBase && !useCluster;
       map.setLayoutProperty(id, 'visibility', show ? 'visible' : 'none');
     } else {
-      map.setLayoutProperty(id, 'visibility', visible ? 'visible' : 'none');
+      map.setLayoutProperty(id, 'visibility', showBase ? 'visible' : 'none');
     }
   }
 }

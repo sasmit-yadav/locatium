@@ -1,13 +1,43 @@
-import { useState } from 'react';
-import { IconClose, IconSearch, IconMapPin } from './UiIcons';
+import { useEffect, useState } from 'react';
+import {
+  Hospital,
+  Landmark,
+  MapPin,
+  Navigation,
+  TrainFront,
+  Zap,
+} from 'lucide-react';
+import { Modal } from './ui/Modal';
+import { Card } from './ui/Card';
+import { Slider } from './ui/Slider';
+import { colors, layout } from '../design-system/tokens';
+import { getMapsApiOrigin } from '../config/api';
 
 const FACILITY_TYPES = [
-  { id: 'social-infrastructure', label: 'Hospital/School', icon: '🏥' },
-  { id: 'transportation', label: 'Transportation', icon: '🚂' },
-  { id: 'utilities', label: 'Utilities', icon: '⚡' },
-  { id: 'administrative', label: 'Administrative', icon: '🏛️' },
-  { id: 'all', label: 'Any Facility', icon: '📍' },
+  { id: 'social-infrastructure', label: 'Hospital / school', icon: Hospital },
+  { id: 'transportation', label: 'Transportation', icon: TrainFront },
+  { id: 'utilities', label: 'Utilities', icon: Zap },
+  { id: 'administrative', label: 'Administrative', icon: Landmark },
+  { id: 'all', label: 'Any facility', icon: MapPin },
 ];
+
+function normalizeFacility(raw) {
+  if (!raw || typeof raw !== 'object') return null;
+  const coordinates =
+    raw.coordinates ||
+    raw.geometry?.coordinates ||
+    (raw.properties?.longitude != null && raw.properties?.latitude != null
+      ? [Number(raw.properties.longitude), Number(raw.properties.latitude)]
+      : null);
+  const distanceKm = Number(raw.distanceKm);
+  return {
+    ...raw,
+    name: raw.name || raw.properties?.school_name || raw.properties?.hospital_name || 'Nearest facility',
+    type: raw.type || raw.layerId || 'facility',
+    coordinates,
+    distanceKm: Number.isFinite(distanceKm) ? distanceKm : null,
+  };
+}
 
 export function NearbyFacilityFinder({ open, onClose, onLocationSelect, currentView }) {
   const [selectedType, setSelectedType] = useState('social-infrastructure');
@@ -16,17 +46,23 @@ export function NearbyFacilityFinder({ open, onClose, onLocationSelect, currentV
   const [result, setResult] = useState(null);
   const [error, setError] = useState(null);
 
+  useEffect(() => {
+    if (!open) {
+      setResult(null);
+      setError(null);
+    }
+  }, [open]);
+
   const handleFind = async () => {
     setLoading(true);
     setError(null);
     setResult(null);
 
     try {
-      // Use current map center as search location
       const lat = currentView?.lat || 28.48;
       const lng = currentView?.lng || 76.98;
 
-      const response = await fetch('http://localhost:3001/api/features/nearest-facility', {
+      const response = await fetch(`${getMapsApiOrigin()}/api/features/nearest-facility`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
@@ -37,141 +73,116 @@ export function NearbyFacilityFinder({ open, onClose, onLocationSelect, currentV
         }),
       });
 
-      const data = await response.json();
-      
+      const data = await response.json().catch(() => ({}));
+      if (!response.ok) {
+        throw new Error(data.message || data.error || `Search failed (${response.status})`);
+      }
+
       if (data.found) {
-        setResult(data.facility);
-        // Notify parent to fly to location
-        if (onLocationSelect && data.facility.coordinates) {
-          onLocationSelect(data.facility.coordinates);
+        const facility = normalizeFacility(data.facility);
+        setResult(facility);
+        if (onLocationSelect && Array.isArray(facility?.coordinates) && facility.coordinates.length >= 2) {
+          onLocationSelect(facility.coordinates);
         }
       } else {
-        setError(data.message || 'No facility found');
+        setError(data.message || "Couldn't find a facility nearby — try a larger radius.");
       }
     } catch (err) {
-      setError('Failed to find facility. Please try again.');
+      setError(err?.message || "Couldn't find facility — check your connection and retry.");
     } finally {
       setLoading(false);
     }
   };
 
   return (
-    <>
-      {open ? (
-        <div className="fixed inset-0 z-[20000] flex items-center justify-center bg-black/60 backdrop-blur-sm p-4">
-          <div className="w-full max-w-md rounded-2xl border border-white/15 bg-[#1c1c1f] shadow-2xl">
-            {/* Header */}
-            <div className="flex items-center justify-between border-b border-white/10 px-5 py-4">
-              <div className="flex items-center gap-3">
-                <div className="flex h-10 w-10 items-center justify-center rounded-full bg-nf-red/20">
-                  <IconSearch className="h-5 w-5 text-nf-red" />
-                </div>
-                <div>
-                  <h3 className="font-display text-base font-bold text-white">Find Closest Facility</h3>
-                  <p className="text-xs text-white/50">Search from map center</p>
-                </div>
-              </div>
-              <button
-                type="button"
-                onClick={onClose}
-                className="rounded-full p-2 text-white/55 transition hover:bg-white/10 hover:text-white"
-              >
-                <IconClose className="h-5 w-5" />
-              </button>
-            </div>
+    <Modal
+      open={open}
+      onClose={onClose}
+      size="sm"
+      title="Find nearest facility"
+      footer={
+        <button
+          type="button"
+          onClick={handleFind}
+          disabled={loading}
+          className="h-9 rounded-ds-sm bg-ds-accent px-ds-4 text-ds-body-med text-ds-text-inverse transition hover:bg-ds-accent-hover disabled:cursor-not-allowed disabled:opacity-50 focus-visible:outline-none focus-visible:shadow-ds-focus"
+        >
+          {loading ? 'Searching…' : 'Find nearest facility'}
+        </button>
+      }
+    >
+      <div className="space-y-ds-4">
+        <Card padding="sm" className="bg-ds-surface-sunken">
+          <p className="text-ds-caption uppercase tracking-wide text-ds-text-tertiary">Search from</p>
+          <p className="mt-ds-1 font-mono text-ds-small text-ds-text-primary">
+            {currentView?.lat?.toFixed(4)}°, {currentView?.lng?.toFixed(4)}°
+          </p>
+          <p className="mt-ds-1 text-ds-small text-ds-text-secondary">Current map center</p>
+        </Card>
 
-            {/* Content */}
-            <div className="px-5 py-4">
-              {/* Search Location Info */}
-              <div className="mb-4 rounded-lg border border-white/10 bg-[#1a1a1d] px-3 py-2">
-                <p className="text-[10px] text-white/50 uppercase tracking-wider">Search Location</p>
-                <p className="text-xs text-white/80">
-                  {currentView?.lat?.toFixed(4)}°, {currentView?.lng?.toFixed(4)}°
-                </p>
-                <p className="text-[10px] text-white/40 mt-1">Using current map center</p>
-              </div>
-
-              {/* Facility Type Selection */}
-              <div className="mb-4">
-                <label className="mb-2 block text-xs font-semibold uppercase tracking-wider text-kp-teal">
-                  Facility Type
-                </label>
-                <div className="grid grid-cols-2 gap-2">
-                  {FACILITY_TYPES.map((type) => (
-                    <button
-                      key={type.id}
-                      type="button"
-                      onClick={() => setSelectedType(type.id)}
-                      className={`flex items-center gap-2 rounded-lg border px-3 py-2.5 text-left text-sm transition ${
-                        selectedType === type.id
-                          ? 'border-nf-red bg-nf-red/10 text-white'
-                          : 'border-white/10 bg-[#1a1a1d] text-white/70 hover:border-white/20 hover:text-white'
-                      }`}
-                    >
-                      <span className="text-lg">{type.icon}</span>
-                      <span>{type.label}</span>
-                    </button>
-                  ))}
-                </div>
-              </div>
-
-              {/* Distance Range */}
-              <div className="mb-4">
-                <label className="mb-2 block text-xs font-semibold uppercase tracking-wider text-kp-teal">
-                  Search Radius: {maxDistance} km
-                </label>
-                <input
-                  type="range"
-                  min="1"
-                  max="20"
-                  value={maxDistance}
-                  onChange={(e) => setMaxDistance(Number(e.target.value))}
-                  className="h-2 w-full accent-nf-red"
-                />
-                <div className="mt-1 flex justify-between text-[10px] text-white/40">
-                  <span>1 km</span>
-                  <span>20 km</span>
-                </div>
-              </div>
-
-              {/* Error Message */}
-              {error && (
-                <div className="mb-4 rounded-lg border border-red-500/30 bg-red-500/10 px-3 py-2 text-xs text-red-200">
-                  {error}
-                </div>
-              )}
-
-              {/* Result */}
-              {result && (
-                <div className="mb-4 rounded-lg border border-green-500/30 bg-green-500/10 px-4 py-3">
-                  <div className="flex items-start gap-3">
-                    <div className="flex h-8 w-8 items-center justify-center rounded-full bg-green-500/20">
-                      <IconMapPin className="h-4 w-4 text-green-400" />
-                    </div>
-                    <div className="flex-1">
-                      <p className="text-sm font-semibold text-white">{result.name}</p>
-                      <p className="text-xs text-white/60 capitalize">{result.type}</p>
-                      <p className="mt-1 text-xs text-green-300">
-                        {result.distanceKm.toFixed(2)} km away
-                      </p>
-                    </div>
+        <div>
+          <p className="mb-ds-2 text-ds-caption uppercase tracking-wide text-ds-text-tertiary">Facility type</p>
+          <div className="grid grid-cols-1 gap-ds-2">
+            {FACILITY_TYPES.map((type) => {
+              const Icon = type.icon;
+              const selected = selectedType === type.id;
+              return (
+                <Card
+                  key={type.id}
+                  interactive
+                  selected={selected}
+                  padding="sm"
+                  onClick={() => setSelectedType(type.id)}
+                >
+                  <div className="flex items-center gap-ds-2">
+                    <Icon size={layout.iconButtonGlyph} style={{ color: selected ? colors.accent.default : colors.text.secondary }} />
+                    <span className="text-ds-body-med text-ds-text-primary">{type.label}</span>
                   </div>
-                </div>
-              )}
-
-              {/* Action Button */}
-              <button
-                type="button"
-                onClick={handleFind}
-                disabled={loading}
-                className="w-full rounded-xl bg-nf-red px-4 py-3 text-sm font-bold text-white transition hover:bg-nf-red/90 disabled:cursor-not-allowed disabled:opacity-50"
-              >
-                {loading ? 'Searching...' : 'Find Closest Facility'}
-              </button>
-            </div>
+                </Card>
+              );
+            })}
           </div>
         </div>
-      ) : null}
-    </>
+
+        <Slider
+          label={`Search radius: ${maxDistance} km`}
+          min={1}
+          max={20}
+          value={maxDistance}
+          onChange={setMaxDistance}
+        />
+
+        {error ? (
+          <div className="rounded-ds-sm border border-ds-danger/30 bg-ds-danger-subtle p-ds-3 text-ds-body text-ds-danger">
+            {error}
+          </div>
+        ) : null}
+
+        {result ? (
+          <Card padding="md" className="border-ds-success/30 bg-ds-success-subtle">
+            <div className="flex items-start gap-ds-3">
+              <Navigation size={layout.iconButtonGlyph} className="text-ds-success" />
+              <div>
+                <p className="text-ds-subtitle text-ds-text-primary">{result.name}</p>
+                <p className="text-ds-body capitalize text-ds-text-secondary">{result.type}</p>
+                {result.distanceKm != null ? (
+                  <p className="mt-ds-1 text-ds-body text-ds-success">{result.distanceKm.toFixed(2)} km away</p>
+                ) : null}
+                {Array.isArray(result.coordinates) && result.coordinates.length >= 2 ? (
+                  <a
+                    className="mt-ds-2 inline-block text-ds-body-med text-ds-accent-text hover:underline"
+                    href={`https://www.google.com/maps/dir/?api=1&destination=${result.coordinates[1]},${result.coordinates[0]}`}
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    Get directions
+                  </a>
+                ) : null}
+              </div>
+            </div>
+          </Card>
+        ) : null}
+      </div>
+    </Modal>
   );
 }

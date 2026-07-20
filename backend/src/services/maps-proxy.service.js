@@ -11,6 +11,29 @@ const {
 } = require('../config');
 const { AppError } = require('../middleware/error.middleware');
 
+const MVT_STATEMENT_TIMEOUT_MS = Number(process.env.MVT_STATEMENT_TIMEOUT_MS) || 8000;
+const MAX_CONCURRENT_MVT = Number(process.env.MVT_MAX_CONCURRENT) || 4;
+let activeMvtJobs = 0;
+const mvtWaitQueue = [];
+
+function acquireMvtSlot() {
+  if (activeMvtJobs < MAX_CONCURRENT_MVT) {
+    activeMvtJobs += 1;
+    return Promise.resolve();
+  }
+  return new Promise((resolve) => {
+    mvtWaitQueue.push(resolve);
+  }).then(() => {
+    activeMvtJobs += 1;
+  });
+}
+
+function releaseMvtSlot() {
+  activeMvtJobs = Math.max(0, activeMvtJobs - 1);
+  const next = mvtWaitQueue.shift();
+  if (next) next();
+}
+
 /**
  * Validate that a table name is safe to use in SQL queries.
  * Only allows alphanumeric characters and underscores.
@@ -175,11 +198,16 @@ function simplifyToleranceForZoom(zi, heavy = false) {
 }
 
 function featureLimitForTile(zi, heavy = false) {
-  if (!heavy) return null;
-  if (zi >= 15) return 12000;
-  if (zi >= 13) return 8000;
-  if (zi >= 11) return 5000;
-  return 3000;
+  if (heavy) {
+    if (zi >= 15) return 12000;
+    if (zi >= 13) return 8000;
+    if (zi >= 11) return 5000;
+    return 3000;
+  }
+  if (zi >= 14) return 12000;
+  if (zi >= 12) return 8000;
+  if (zi >= 10) return 6000;
+  return 4000;
 }
 
 async function generateMvtForTable(tableId, zi, xi, yi) {
@@ -195,8 +223,9 @@ async function generateMvtForTable(tableId, zi, xi, yi) {
   const heavy = Boolean(cfg?.heavy);
   const tol = simplifyToleranceForZoom(zi, heavy);
   const geomExpr = tol > 0 ? `ST_SimplifyPreserveTopology(t.geom, ${tol})` : 't.geom';
-  const limit = featureLimitForTile(zi, heavy);
-  const limitClause = limit ? `LIMIT ${limit}` : '';
+  // Always cap features so a dense tile cannot stall the pool / browser.
+  const limit = featureLimitForTile(zi, heavy) || (heavy ? 3000 : 8000);
+  const limitClause = `LIMIT ${limit}`;
 
   const sql = `WITH bounds AS (
     SELECT ST_Transform(ST_MakeEnvelope(${bbox3857.minX}, ${bbox3857.minY}, ${bbox3857.maxX}, ${bbox3857.maxY}, 3857), 4326) AS geom4326
@@ -204,14 +233,36 @@ async function generateMvtForTable(tableId, zi, xi, yi) {
     SELECT (to_jsonb(t) - 'geom') as properties,
            ST_AsMVTGeom(${geomExpr}, bounds.geom4326, 4096, 64, true) as geom
     FROM ${safeTbl} t, bounds
-    WHERE ST_Intersects(t.geom, bounds.geom4326)
+    WHERE t.geom && bounds.geom4326
+      AND ST_Intersects(t.geom, bounds.geom4326)
     ${limitClause}
   ), q AS (
     SELECT properties, geom FROM candidates WHERE geom IS NOT NULL
   ) SELECT ST_AsMVT(q, 'data', 4096, 'geom') as mvt FROM q;`;
 
-  const { rows } = await pool.query(sql);
-  return rows[0] && rows[0].mvt ? rows[0].mvt : Buffer.from([]);
+  await acquireMvtSlot();
+  const client = await pool.connect();
+  try {
+    await client.query(`SET LOCAL statement_timeout = ${MVT_STATEMENT_TIMEOUT_MS}`);
+    const { rows } = await client.query(sql);
+    return rows[0] && rows[0].mvt ? rows[0].mvt : Buffer.from([]);
+  } catch (err) {
+    const msg = String(err.message || err);
+    if (
+      msg.includes('statement timeout') ||
+      msg.includes('canceling statement') ||
+      msg.includes('coordinates') ||
+      msg.includes('ST_Transform') ||
+      msg.includes('envelope')
+    ) {
+      console.warn(`[maps-proxy] MVT skipped for ${tableId} at z${zi}:`, msg);
+      return Buffer.from([]);
+    }
+    throw err;
+  } finally {
+    client.release();
+    releaseMvtSlot();
+  }
 }
 
 async function getTilePng(layerSlug, z, x, y) {

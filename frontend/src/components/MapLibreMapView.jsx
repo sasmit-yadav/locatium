@@ -9,6 +9,11 @@ import {
   syncOperationalLayers,
 } from '../map/operationalLayers';
 import { attachMapDebugHandlers } from '../map/mapDebug';
+import { colors } from '../design-system/tokens';
+
+const HIGHLIGHT_SOURCE = 'selection-highlight';
+const HIGHLIGHT_FILL = 'selection-highlight-fill';
+const HIGHLIGHT_RING = 'selection-highlight-ring';
 
 export function MapLibreMapView({
   basemapId,
@@ -18,6 +23,7 @@ export function MapLibreMapView({
   onTileStatusChange,
   goToRequest,
   onMapReady,
+  highlightFeature = null,
 }) {
   const containerRef = useRef(null);
   const mapRef = useRef(null);
@@ -126,7 +132,11 @@ export function MapLibreMapView({
       if (disposed) return;
       onStyleReady(map);
       emitViewChange();
-      detachDebug = attachMapDebugHandlers(map, import.meta.env.DEV ? setDebugInfo : null);
+      detachDebug = attachMapDebugHandlers(
+        map,
+        import.meta.env.DEV ? setDebugInfo : null,
+        () => visibilityRef.current
+      );
       onMapReadyRef.current?.(map);
     });
 
@@ -146,7 +156,7 @@ export function MapLibreMapView({
     });
 
     map.on('error', (e) => {
-      console.error('[LOCATIUM] map error:', e?.error || e);
+      console.error('[LOCATIUM] map error:', e?.error?.message || e?.message || e?.error || e);
       const sourceId = e?.sourceId || e?.error?.sourceId;
       if (!sourceId || sourceId === 'basemap') {
         emitTileStatus({
@@ -270,6 +280,77 @@ export function MapLibreMapView({
       essential: true,
     });
   }, [goToRequest]);
+
+  // Static 2px accent ring on the selected/highlighted feature center (ui_enhance §5).
+  useEffect(() => {
+    const map = mapRef.current;
+    if (!map || map._removed || !styleReadyRef.current) return undefined;
+
+    const lng =
+      highlightFeature?.center?.lng ??
+      (typeof highlightFeature?.lng === 'number' ? highlightFeature.lng : null);
+    const lat =
+      highlightFeature?.center?.lat ??
+      (typeof highlightFeature?.lat === 'number' ? highlightFeature.lat : null);
+
+    const clearHighlight = () => {
+      if (map.getLayer(HIGHLIGHT_RING)) map.removeLayer(HIGHLIGHT_RING);
+      if (map.getLayer(HIGHLIGHT_FILL)) map.removeLayer(HIGHLIGHT_FILL);
+      if (map.getSource(HIGHLIGHT_SOURCE)) map.removeSource(HIGHLIGHT_SOURCE);
+    };
+
+    if (typeof lng !== 'number' || typeof lat !== 'number' || Number.isNaN(lng) || Number.isNaN(lat)) {
+      clearHighlight();
+      return undefined;
+    }
+
+    const geojson = {
+      type: 'FeatureCollection',
+      features: [
+        {
+          type: 'Feature',
+          geometry: { type: 'Point', coordinates: [lng, lat] },
+          properties: {},
+        },
+      ],
+    };
+
+    if (!map.getSource(HIGHLIGHT_SOURCE)) {
+      map.addSource(HIGHLIGHT_SOURCE, { type: 'geojson', data: geojson });
+    } else {
+      map.getSource(HIGHLIGHT_SOURCE).setData(geojson);
+    }
+
+    if (!map.getLayer(HIGHLIGHT_FILL)) {
+      map.addLayer({
+        id: HIGHLIGHT_FILL,
+        type: 'circle',
+        source: HIGHLIGHT_SOURCE,
+        paint: {
+          'circle-radius': 6,
+          'circle-color': colors.accent.default,
+          'circle-opacity': 0.9,
+        },
+      });
+    }
+
+    if (!map.getLayer(HIGHLIGHT_RING)) {
+      map.addLayer({
+        id: HIGHLIGHT_RING,
+        type: 'circle',
+        source: HIGHLIGHT_SOURCE,
+        paint: {
+          'circle-radius': 10,
+          'circle-color': 'transparent',
+          'circle-stroke-width': 2,
+          'circle-stroke-color': colors.accent.default,
+          'circle-opacity': 1,
+        },
+      });
+    }
+
+    return undefined;
+  }, [highlightFeature, basemapId]);
 
   return (
     <div className="relative h-full w-full">

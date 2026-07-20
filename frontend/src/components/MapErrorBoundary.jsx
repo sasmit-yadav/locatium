@@ -13,12 +13,12 @@ export class MapErrorBoundary extends Component {
   render() {
     if (this.state.error) {
       return (
-        <div className="absolute inset-0 flex flex-col items-center justify-center gap-3 bg-[#1a1a1e] p-6 text-center">
-          <p className="font-display text-sm font-bold uppercase tracking-wider text-nf-red">Map failed to load</p>
-          <p className="max-w-md text-sm text-white/70">{this.state.error.message}</p>
+        <div className="absolute inset-0 flex flex-col items-center justify-center gap-ds-3 bg-ds-surface-sunken p-ds-6 text-center">
+          <p className="text-ds-title text-ds-danger">Map failed to load</p>
+          <p className="max-w-md text-ds-body text-ds-text-secondary">{this.state.error.message}</p>
           <button
             type="button"
-            className="rounded-xl bg-nf-red px-4 py-2 text-xs font-bold uppercase tracking-wide text-white"
+            className="rounded-ds-md bg-ds-accent px-ds-4 py-ds-2 text-ds-body-med text-ds-text-inverse transition hover:bg-ds-accent-hover focus-visible:outline-none focus-visible:shadow-ds-focus"
             onClick={() => window.location.reload()}
           >
             Try again

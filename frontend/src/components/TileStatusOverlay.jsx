@@ -2,32 +2,35 @@ export function TileStatusOverlay({ loading, error, onDismissError }) {
   if (!loading && !error) return null;
 
   return (
-    <div className="pointer-events-none absolute inset-x-0 top-3 z-[1100] flex justify-center px-3 sm:top-4">
+    <div className="pointer-events-none absolute inset-x-0 top-ds-3 z-ds-map-controls flex justify-center px-ds-3 sm:top-ds-4">
       {loading ? (
         <div
-          className="pointer-events-auto flex items-center gap-2 rounded-full border border-white/12 bg-black/75 px-3 py-1.5 text-xs text-white/85 shadow-lg backdrop-blur-sm"
+          className="pointer-events-auto flex items-center gap-ds-2 rounded-ds-full border border-ds-border bg-ds-surface-raised px-ds-3 py-ds-1.5 text-ds-small text-ds-text-secondary shadow-ds-sm"
           role="status"
           aria-live="polite"
         >
-          <span className="inline-block h-3.5 w-3.5 animate-spin rounded-full border-2 border-kp-teal/30 border-t-kp-teal" />
+          <span
+            className="inline-block h-3.5 w-3.5 animate-spin rounded-full border-2 border-ds-border-strong border-t-ds-accent"
+            aria-hidden
+          />
           Loading map tiles…
         </div>
       ) : null}
 
       {error ? (
         <div
-          className="pointer-events-auto flex max-w-md items-start gap-2 rounded-xl border border-amber-500/35 bg-amber-950/90 px-3 py-2 text-xs text-amber-50 shadow-lg"
+          className="pointer-events-auto flex max-w-md items-start gap-ds-2 rounded-ds-md border border-ds-warning/40 bg-ds-warning-subtle px-ds-3 py-ds-2 text-ds-small text-ds-warning shadow-ds-sm"
           role="alert"
         >
           <span className="min-w-0 flex-1 leading-relaxed">
-            <strong className="font-semibold">Tile load issue. </strong>
+            <strong className="font-medium text-ds-text-primary">Tile load issue. </strong>
             {error}
           </span>
           {onDismissError ? (
             <button
               type="button"
               onClick={onDismissError}
-              className="shrink-0 rounded-lg px-2 py-0.5 text-[10px] font-bold uppercase tracking-wider text-amber-100/90 transition hover:bg-amber-500/15"
+              className="shrink-0 rounded-ds-sm px-ds-2 py-0.5 text-ds-caption text-ds-warning transition hover:bg-ds-surface-raised focus-visible:outline-none focus-visible:shadow-ds-focus"
             >
               Dismiss
             </button>

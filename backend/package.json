@@ -11,7 +11,9 @@
     "start": "node src/server.js",
     "dev": "node --watch src/server.js",
     "db:migrate": "node db/migrate.js",
-    "verify": "node scripts/verify-setup.js"
+    "verify": "node scripts/verify-setup.js",
+    "test:portal": "node scripts/test-portal.js",
+    "test:smoke": "node scripts/test-api-smoke.js"
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
@@ -21,6 +23,8 @@
     "express-rate-limit": "^7.5.0",
     "ioredis": "^5.4.2",
     "jsonwebtoken": "^9.0.2",
+    "nodemailer": "^9.0.3",
+    "pdfkit": "^0.19.1",
     "pg": "^8.13.1"
   }
 }

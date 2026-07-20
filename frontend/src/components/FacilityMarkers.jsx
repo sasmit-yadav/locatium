@@ -1,10 +1,13 @@
-import { useEffect, useRef } from 'react';
+import { useCallback, useEffect, useRef } from 'react';
 import maplibregl from 'maplibre-gl';
+import { colors } from '../design-system/tokens';
+
+const [c0, c1, c2, c3] = colors.dataCategorical;
 
 const LAYER_COLORS = {
-  'social-infrastructure': '#ef4444',
-  'transportation': '#3b82f6',
-  'utilities': '#eab308',
+  'social-infrastructure': c3,
+  transportation: c0,
+  utilities: c2,
 };
 
 const LAYER_LABELS = {
@@ -16,19 +19,19 @@ const LAYER_LABELS = {
 /**
  * Component to display facility markers on the map from HARSAC query results
  */
-export function FacilityMarkers({ 
-  map, 
-  results, 
+export function FacilityMarkers({
+  map,
+  results,
   center,
   visible = true,
-  onMarkerClick 
+  onMarkerClick,
+  selectedId = null,
 }) {
   const markersRef = useRef([]);
   const sourceRef = useRef(null);
-  const layerRef = useRef(null);
 
   // Clear existing markers
-  const clearMarkers = () => {
+  const clearMarkers = useCallback(() => {
     markersRef.current.forEach(marker => marker.remove());
     markersRef.current = [];
 
@@ -45,7 +48,7 @@ export function FacilityMarkers({
       map.removeSource('facility-markers');
       sourceRef.current = null;
     }
-  };
+  }, [map]);
 
   // Add markers for each facility
   useEffect(() => {
@@ -62,7 +65,7 @@ export function FacilityMarkers({
           layerData.features.forEach(feature => {
             allFeatures.push({
               ...feature,
-              layerColor: LAYER_COLORS[layerId] || '#8b5cf6',
+              layerColor: LAYER_COLORS[layerId] || colors.dataCategorical[4],
               layerLabel: LAYER_LABELS[layerId] || layerId
             });
           });
@@ -107,38 +110,48 @@ export function FacilityMarkers({
       map.getSource('facility-markers').setData(geojson);
     }
 
-    // Add glow layer (outer circle)
-    if (!map.getLayer('facility-markers-glow')) {
-      map.addLayer({
-        id: 'facility-markers-glow',
-        type: 'circle',
-        source: 'facility-markers',
-        paint: {
-          'circle-radius': 12,
-          'circle-color': [
-            'get', 'layerColor'
-          ],
-          'circle-opacity': 0.3,
-          'circle-blur': 0.5
-        }
-      });
-    }
-
-    // Add fill layer (inner circle)
+    // Static fill + stroke (no glow / pulse). Selected marker gets 2px accent ring.
     if (!map.getLayer('facility-markers-fill')) {
       map.addLayer({
         id: 'facility-markers-fill',
         type: 'circle',
         source: 'facility-markers',
         paint: {
-          'circle-radius': 6,
-          'circle-color': [
-            'get', 'layerColor'
+          'circle-radius': [
+            'case',
+            ['==', ['to-string', ['get', 'id']], String(selectedId ?? '')],
+            8,
+            6,
           ],
+          'circle-color': ['get', 'layerColor'],
           'circle-stroke-width': 2,
-          'circle-stroke-color': '#ffffff'
-        }
+          'circle-stroke-color': [
+            'case',
+            ['==', ['to-string', ['get', 'id']], String(selectedId ?? '')],
+            colors.accent.default,
+            colors.surface.raised,
+          ],
+          'circle-opacity': 1,
+        },
       });
+    } else {
+      map.setPaintProperty('facility-markers-fill', 'circle-radius', [
+        'case',
+        ['==', ['to-string', ['get', 'id']], String(selectedId ?? '')],
+        8,
+        6,
+      ]);
+      map.setPaintProperty('facility-markers-fill', 'circle-stroke-color', [
+        'case',
+        ['==', ['to-string', ['get', 'id']], String(selectedId ?? '')],
+        colors.accent.default,
+        colors.surface.raised,
+      ]);
+    }
+
+    // Soft one-time presence: no continuous pulse layer
+    if (map.getLayer('facility-markers-glow')) {
+      map.removeLayer('facility-markers-glow');
     }
 
     // Add labels layer
@@ -156,8 +169,8 @@ export function FacilityMarkers({
           'text-optional': true
         },
         paint: {
-          'text-color': '#ffffff',
-          'text-halo-color': '#000000',
+          'text-color': colors.text.primary,
+          'text-halo-color': colors.surface.raised,
           'text-halo-width': 1
         }
       });
@@ -180,9 +193,9 @@ export function FacilityMarkers({
         .setLngLat(coordinates)
         .setHTML(`
           <div class="p-2 max-w-xs">
-            <h3 class="font-bold text-sm text-gray-900">${properties.name || 'Unnamed Facility'}</h3>
+            <h3 class="font-medium text-sm text-gray-900">${properties.name || 'Unnamed facility'}</h3>
             <p class="text-xs text-gray-600 mt-1">${properties.layerLabel}</p>
-            ${properties.distanceKm !== null ? `<p class="text-xs text-gray-600 mt-1">📍 ${properties.distanceKm} km away</p>` : ''}
+            ${properties.distanceKm !== null ? `<p class="text-xs text-gray-600 mt-1">${properties.distanceKm} km away</p>` : ''}
             <div class="mt-2 text-[10px] text-gray-500">
               <p><strong>ID:</strong> ${properties.id}</p>
             </div>
@@ -244,8 +257,8 @@ export function FacilityMarkers({
           type: 'fill',
           source: 'search-radius',
           paint: {
-            'fill-color': '#ef4444',
-            'fill-opacity': 0.1
+            'fill-color': colors.accent.default,
+            'fill-opacity': 0.08
           }
         });
       }
@@ -256,7 +269,7 @@ export function FacilityMarkers({
           type: 'line',
           source: 'search-radius',
           paint: {
-            'line-color': '#ef4444',
+            'line-color': colors.accent.default,
             'line-width': 2,
             'line-dasharray': [2, 2]
           }
@@ -269,7 +282,7 @@ export function FacilityMarkers({
       map.off('mouseenter', 'facility-markers-fill');
       map.off('mouseleave', 'facility-markers-fill');
     };
-  }, [map, results, center, visible, onMarkerClick]);
+  }, [map, results, center, visible, onMarkerClick, clearMarkers, selectedId]);
 
   // Toggle visibility
   useEffect(() => {

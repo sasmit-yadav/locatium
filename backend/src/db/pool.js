@@ -13,8 +13,10 @@ function getPool() {
   if (!pool) {
     pool = new Pool({
       connectionString: process.env.DATABASE_URL,
-      max: Number(process.env.PG_POOL_MAX) || 10,
+      max: Number(process.env.PG_POOL_MAX) || 12,
       idleTimeoutMillis: 30000,
+      statement_timeout: Number(process.env.PG_STATEMENT_TIMEOUT_MS) || 15000,
+      query_timeout: Number(process.env.PG_QUERY_TIMEOUT_MS) || 20000,
     });
   }
   return pool;

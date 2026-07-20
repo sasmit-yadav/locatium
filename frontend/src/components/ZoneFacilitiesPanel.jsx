@@ -1,110 +1,159 @@
-import { useState } from 'react';
-import { IconClose, IconBuilding, IconMapPin, IconUsers } from './UiIcons';
+import { useEffect, useState } from 'react';
+import {
+  ArrowLeft,
+  Building2,
+  Hospital,
+  Landmark,
+  MapPin,
+  TrainFront,
+  TreePine,
+  Vote,
+  Zap,
+} from 'lucide-react';
+import { Panel } from './ui/Panel';
+import { StatCard } from './ui/StatCard';
+import { Card } from './ui/Card';
+import { Tabs } from './ui/Tabs';
+import { EmptyState } from './ui/EmptyState';
+import { Skeleton } from './ui/Skeleton';
+import { colors, layout } from '../design-system/tokens';
+import { getMapsApiOrigin } from '../config/api';
 
 const FACILITY_ICONS = {
-  'social-infrastructure': '🏥',
-  'transportation': '🚂',
-  'utilities': '⚡',
-  'administrative': '🏛️',
-  'environmental': '🌳',
-  'cadastral': '📋',
-  'constituencies': '🗳️',
+  'social-infrastructure': Hospital,
+  transportation: TrainFront,
+  utilities: Zap,
+  administrative: Landmark,
+  environmental: TreePine,
+  cadastral: Building2,
+  constituencies: Vote,
 };
 
-export function ZoneFacilitiesPanel({ open, onClose, zoneId, zoneName }) {
+const [c0, c1, c2, c3, c4, c5] = colors.dataCategorical;
+
+const FACILITY_COLORS = {
+  'social-infrastructure': c3,
+  transportation: c0,
+  utilities: c2,
+  administrative: c4,
+  environmental: c1,
+  cadastral: c5,
+  constituencies: c4,
+};
+
+export function ZoneFacilitiesPanel({ open, onClose, zoneId, zoneName, lng, lat }) {
   const [loading, setLoading] = useState(false);
   const [summary, setSummary] = useState(null);
   const [selectedFacilityType, setSelectedFacilityType] = useState(null);
   const [facilitiesList, setFacilitiesList] = useState(null);
   const [error, setError] = useState(null);
+  const [tab, setTab] = useState('nearby');
 
-  const fetchSummary = async () => {
-    if (!zoneId) return;
-    
-    setLoading(true);
-    setError(null);
-    
-    try {
-      const response = await fetch(`http://localhost:3001/api/features/zone-facilities-summary?zoneId=${zoneId}`);
-      const data = await response.json();
-      setSummary(data);
-    } catch (err) {
-      setError('Failed to load facilities summary');
-    } finally {
-      setLoading(false);
+  function buildQuery() {
+    const params = new URLSearchParams();
+    if (zoneId) params.set('zoneId', zoneId);
+    if (lng != null && lat != null) {
+      params.set('lng', String(lng));
+      params.set('lat', String(lat));
     }
-  };
+    return params.toString();
+  }
+
+  useEffect(() => {
+    if (!open || (!zoneId && (lng == null || lat == null))) return undefined;
+    let cancelled = false;
+
+    async function fetchSummary() {
+      setLoading(true);
+      setError(null);
+      try {
+        const qs = buildQuery();
+        const response = await fetch(`${getMapsApiOrigin()}/api/features/zone-facilities-summary?${qs}`);
+        const data = await response.json().catch(() => ({}));
+        if (!response.ok) {
+          throw new Error(data.message || data.error || data.details || "Couldn't load facilities summary");
+        }
+        if (!cancelled) setSummary(data);
+      } catch (err) {
+        if (!cancelled) setError(err.message || "Couldn't load facilities summary — check your connection and retry.");
+      } finally {
+        if (!cancelled) setLoading(false);
+      }
+    }
+
+    setSummary(null);
+    setSelectedFacilityType(null);
+    setFacilitiesList(null);
+    fetchSummary();
+    return () => {
+      cancelled = true;
+    };
+  }, [open, zoneId, lng, lat]);
 
   const fetchFacilitiesByType = async (facilityType) => {
     setLoading(true);
     setError(null);
-    
     try {
-      const response = await fetch(`http://localhost:3001/api/features/zone-facilities/${zoneId}/${facilityType}?sort=distance&limit=20`);
-      const data = await response.json();
+      const qs = buildQuery();
+      const pathZone = encodeURIComponent(zoneId || 'point');
+      const response = await fetch(
+        `${getMapsApiOrigin()}/api/features/zone-facilities/${pathZone}/${facilityType}?sort=distance&limit=20&${qs}`
+      );
+      const data = await response.json().catch(() => ({}));
+      if (!response.ok) {
+        throw new Error(data.message || data.error || data.details || "Couldn't load facilities");
+      }
       setFacilitiesList(data);
       setSelectedFacilityType(facilityType);
     } catch (err) {
-      setError('Failed to load facilities');
+      setError(err.message || "Couldn't load facilities — check your connection and retry.");
     } finally {
       setLoading(false);
     }
   };
 
-  // Fetch summary when panel opens
-  if (open && !summary && !loading) {
-    fetchSummary();
-  }
-
   if (!open) return null;
 
   return (
-    <div className="fixed bottom-0 right-0 top-16 z-[20000] flex w-full flex-col border-l border-white/15 bg-[#1c1c1f] sm:max-w-[400px] sm:top-16 sm:rounded-l-3xl sm:border-t">
-      {/* Header */}
-      <div className="flex items-center justify-between border-b border-white/10 px-4 py-3">
-        <div className="flex items-center gap-3">
-          <div className="flex h-9 w-9 items-center justify-center rounded-full bg-nf-red/20">
-            <IconBuilding className="h-5 w-5 text-nf-red" />
-          </div>
-          <div>
-            <h3 className="font-display text-sm font-bold text-white">Nearby Facilities</h3>
-            <p className="text-xs text-white/50">{zoneName || 'Selected Zone'}</p>
-          </div>
+    <div className="fixed bottom-0 right-0 top-[52px] z-ds-floating-panel w-full md:w-ds-panel">
+      <Panel
+        title="Nearby facilities"
+        icon={Building2}
+        onClose={onClose}
+        anchor="bottom-sheet"
+        className="h-full max-h-none rounded-none border-l border-ds-border md:rounded-none"
+        width={layout.panelWidth}
+      >
+        <div className="border-b border-ds-border-subtle px-ds-4 py-ds-2">
+          <p className="text-ds-small text-ds-text-secondary">{zoneName || 'Selected zone'}</p>
+          <Tabs
+            className="mt-ds-2"
+            value={tab}
+            onChange={setTab}
+            tabs={[{ id: 'nearby', label: 'Nearby facilities' }]}
+          />
         </div>
-        <button
-          type="button"
-          onClick={onClose}
-          className="rounded-full p-2 text-white/55 transition hover:bg-white/10 hover:text-white"
-        >
-          <IconClose className="h-5 w-5" />
-        </button>
-      </div>
 
-      {/* Content */}
-      <div className="flex-1 overflow-y-auto px-4 py-4">
-        {loading && !summary ? (
-          <div className="flex items-center justify-center py-8 text-white/50">
-            <div className="text-sm">Loading facilities...</div>
-          </div>
-        ) : error ? (
-          <div className="rounded-lg border border-red-500/30 bg-red-500/10 px-3 py-2 text-xs text-red-200">
-            {error}
-          </div>
-        ) : selectedFacilityType ? (
-          // Facilities List View
-          <FacilitiesListView
-            facilities={facilitiesList}
-            facilityType={selectedFacilityType}
-            onBack={() => setSelectedFacilityType(null)}
-          />
-        ) : summary ? (
-          // Summary Cards View
-          <SummaryView
-            summary={summary}
-            onFacilityTypeClick={fetchFacilitiesByType}
-          />
-        ) : null}
-      </div>
+        <div className="scrollbar-thin min-h-0 flex-1 overflow-y-auto px-ds-4 py-ds-4">
+          {loading && !summary ? <Skeleton variant="card" count={3} /> : null}
+
+          {error ? (
+            <div className="rounded-ds-sm border border-ds-danger/30 bg-ds-danger-subtle p-ds-3 text-ds-body text-ds-danger">
+              {error}
+            </div>
+          ) : null}
+
+          {selectedFacilityType ? (
+            <FacilitiesListView
+              facilities={facilitiesList}
+              facilityType={selectedFacilityType}
+              onBack={() => setSelectedFacilityType(null)}
+            />
+          ) : summary ? (
+            <SummaryView summary={summary} onFacilityTypeClick={fetchFacilitiesByType} />
+          ) : null}
+        </div>
+      </Panel>
     </div>
   );
 }
@@ -114,40 +163,30 @@ function SummaryView({ summary, onFacilityTypeClick }) {
 
   if (facilityTypes.length === 0) {
     return (
-      <div className="text-center py-8 text-white/50">
-        <IconMapPin className="mx-auto h-12 w-12 mb-3 opacity-50" />
-        <p className="text-sm">No facilities found nearby</p>
-      </div>
+      <EmptyState
+        icon={MapPin}
+        title="No facilities nearby"
+        description="Try another zone or expand your search radius from Find nearest facility."
+      />
     );
   }
 
   return (
-    <div className="space-y-3">
-      <p className="text-xs text-white/40">Click a category to see details</p>
-      
+    <div className="grid grid-cols-2 gap-ds-2">
       {facilityTypes.map((type) => {
         const counts = summary.facilitiesCount[type];
-        const icon = FACILITY_ICONS[type] || '📍';
-        const label = type.replace('-', ' ').replace(/\b\w/g, l => l.toUpperCase());
-        
+        const Icon = FACILITY_ICONS[type] || MapPin;
+        const label = type.replace(/-/g, ' ').replace(/\b\w/g, (l) => l.toUpperCase());
+        const value = `${counts['2km'] ?? 0}`;
         return (
-          <button
-            key={type}
-            type="button"
-            onClick={() => onFacilityTypeClick(type)}
-            className="w-full rounded-xl border border-white/10 bg-[#1a1a1d] p-4 text-left transition hover:border-kp-teal/40 hover:bg-[#222225]"
-          >
-            <div className="flex items-center gap-3">
-              <span className="text-2xl">{icon}</span>
-              <div className="flex-1">
-                <p className="text-sm font-medium text-white">{label}</p>
-                <div className="mt-1 flex gap-4 text-xs text-white/60">
-                  <span>📍 2km: <strong className="text-white">{counts['2km']}</strong></span>
-                  <span>📍 5km: <strong className="text-white">{counts['5km']}</strong></span>
-                </div>
-              </div>
-              <IconUsers className="h-4 w-4 text-white/30" />
-            </div>
+          <button key={type} type="button" onClick={() => onFacilityTypeClick(type)} className="text-left">
+            <StatCard
+              icon={Icon}
+              value={value}
+              label={`${label} · ${counts['5km'] ?? 0} in 5 km`}
+              accentColor={FACILITY_COLORS[type] || colors.dataCategorical[0]}
+              className="transition hover:border-ds-accent"
+            />
           </button>
         );
       })}
@@ -156,61 +195,43 @@ function SummaryView({ summary, onFacilityTypeClick }) {
 }
 
 function FacilitiesListView({ facilities, facilityType, onBack }) {
-  if (!facilities || facilities.facilities.length === 0) {
-    return (
-      <div className="space-y-3">
-        <button
-          type="button"
-          onClick={onBack}
-          className="text-xs text-kp-teal hover:text-kp-teal/80"
-        >
-          ← Back to summary
-        </button>
-        <div className="text-center py-8 text-white/50">
-          <p className="text-sm">No facilities found</p>
-        </div>
-      </div>
-    );
-  }
-
-  const icon = FACILITY_ICONS[facilityType] || '📍';
-  const label = facilityType.replace('-', ' ').replace(/\b\w/g, l => l.toUpperCase());
+  const Icon = FACILITY_ICONS[facilityType] || MapPin;
+  const label = facilityType.replace(/-/g, ' ').replace(/\b\w/g, (l) => l.toUpperCase());
 
   return (
-    <div className="space-y-3">
+    <div className="space-y-ds-3">
       <button
         type="button"
         onClick={onBack}
-        className="text-xs text-kp-teal hover:text-kp-teal/80"
+        className="inline-flex items-center gap-ds-1 text-ds-body-med text-ds-accent-text hover:underline focus-visible:outline-none focus-visible:shadow-ds-focus"
       >
-        ← Back to summary
+        <ArrowLeft size={layout.iconInline} /> Back to summary
       </button>
-      
-      <div className="flex items-center gap-2 pb-2 border-b border-white/10">
-        <span className="text-xl">{icon}</span>
+
+      <div className="flex items-center gap-ds-2 border-b border-ds-border-subtle pb-ds-2">
+        <Icon size={layout.iconButtonGlyph} style={{ color: FACILITY_COLORS[facilityType] || colors.accent.default }} />
         <div>
-          <p className="text-sm font-semibold text-white">{label}</p>
-          <p className="text-xs text-white/50">{facilities.count} facilities nearby</p>
+          <p className="text-ds-subtitle text-ds-text-primary">{label}</p>
+          <p className="text-ds-small text-ds-text-secondary">
+            {facilities?.count ?? 0} facilities nearby
+          </p>
         </div>
       </div>
 
-      <div className="space-y-2">
-        {facilities.facilities.map((facility) => (
-          <div
-            key={facility.id}
-            className="rounded-lg border border-white/10 bg-[#1a1a1d] p-3"
-          >
-            <div className="flex items-start justify-between gap-2">
-              <div className="flex-1 min-w-0">
-                <p className="text-sm font-medium text-white truncate">{facility.name}</p>
-                <p className="text-xs text-white/50 mt-1">
-                  {facility.distanceFromZoneKm.toFixed(2)} km away
-                </p>
-              </div>
-            </div>
-          </div>
-        ))}
-      </div>
+      {!facilities?.facilities?.length ? (
+        <EmptyState title="No facilities found" description="Try another category from the summary." />
+      ) : (
+        <div className="space-y-ds-2">
+          {facilities.facilities.map((facility) => (
+            <Card key={facility.id} interactive padding="sm">
+              <p className="truncate text-ds-body-med text-ds-text-primary">{facility.name}</p>
+              <p className="mt-ds-1 text-ds-small text-ds-text-secondary">
+                {facility.distanceFromZoneKm.toFixed(2)} km away
+              </p>
+            </Card>
+          ))}
+        </div>
+      )}
     </div>
   );
 }

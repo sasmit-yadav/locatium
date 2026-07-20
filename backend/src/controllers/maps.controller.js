@@ -12,7 +12,7 @@ const TRANSPARENT_PNG = Buffer.from(
 
 async function getTile(req, res) {
   const { layer, z, x, y } = req.params;
-  const yClean = String(y).replace(/\.png$/i, '');
+  const yClean = String(y).replace(/\.(png|pbf)$/i, '');
 
   try {
     const { buffer, cacheHit, cacheLayer, contentType } = await mapsProxy.getTilePng(layer, z, x, yClean);

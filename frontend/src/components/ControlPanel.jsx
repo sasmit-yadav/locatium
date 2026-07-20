@@ -21,19 +21,19 @@ export function ControlPanel({
         <button
           type="button"
           aria-label="Close panel"
-          className="fixed inset-0 top-14 z-[19900] bg-black/50 backdrop-blur-[1px] sm:hidden"
+          className="fixed inset-0 top-14 z-[19900] bg-ds-surface-overlay backdrop-blur-[1px] sm:hidden"
           onClick={onClose}
         />
       ) : null}
     <aside
-      className={`control-panel-shell fixed bottom-0 right-0 top-14 z-[20000] flex w-full flex-col border-l border-white/15 transition-transform duration-300 ease-out sm:top-16 sm:max-w-[400px] sm:rounded-l-3xl sm:border-t sm:border-white/15 md:w-[400px] ${
+      className={`control-panel-shell fixed bottom-0 right-0 top-14 z-[20000] flex w-full flex-col border-l border-ds-border transition-transform duration-300 ease-out sm:top-16 sm:max-w-[400px] sm:rounded-l-3xl sm:border-t sm:border-ds-border md:w-[400px] ${
         open ? 'translate-x-0 pointer-events-auto' : 'pointer-events-none translate-x-full'
       }`}
       style={{ backgroundColor: 'rgb(18, 18, 20)' }}
       aria-hidden={!open}
     >
-      <div className="control-panel-section flex items-center gap-2 border-b border-white/10 px-3 py-3 sm:rounded-tl-3xl">
-        <nav className="flex flex-1 gap-1 rounded-xl bg-black/45 p-1" role="tablist">
+      <div className="control-panel-section flex items-center gap-2 border-b border-ds-border px-3 py-3 sm:rounded-tl-3xl">
+        <nav className="flex flex-1 gap-1 rounded-xl bg-ds-surface-sunken p-1" role="tablist">
           <button
             type="button"
             role="tab"
@@ -41,8 +41,8 @@ export function ControlPanel({
             onClick={() => onTabChange('layers')}
             className={`flex-1 rounded-lg py-2 text-center text-xs font-bold uppercase tracking-wider transition ${
               tab === 'layers'
-                ? 'bg-nf-red text-white shadow-md shadow-nf-red/30'
-                : 'text-white/45 hover:text-white/80'
+                ? 'bg-ds-accent text-ds-text-primary shadow-md shadow-ds-sm'
+                : 'text-ds-text-tertiary hover:text-ds-text-primary/80'
             }`}
           >
             Layers
@@ -54,8 +54,8 @@ export function ControlPanel({
             onClick={() => onTabChange('basemap')}
             className={`flex-1 rounded-lg py-2 text-center text-xs font-bold uppercase tracking-wider transition ${
               tab === 'basemap'
-                ? 'bg-nf-red text-white shadow-md shadow-nf-red/30'
-                : 'text-white/45 hover:text-white/80'
+                ? 'bg-ds-accent text-ds-text-primary shadow-md shadow-ds-sm'
+                : 'text-ds-text-tertiary hover:text-ds-text-primary/80'
             }`}
           >
             Basemap
@@ -64,20 +64,20 @@ export function ControlPanel({
         <button
           type="button"
           onClick={onClose}
-          className="shrink-0 rounded-full p-2 text-white/55 transition hover:bg-white/10 hover:text-white"
+          className="shrink-0 rounded-full p-2 text-ds-text-tertiary transition hover:bg-ds-surface-sunken hover:text-ds-text-primary"
         >
           <IconClose className="h-5 w-5" />
         </button>
       </div>
 
-      <div className="control-panel-section border-b border-white/10 px-4 py-4">
-        <p className="font-display text-[10px] uppercase tracking-[0.22em] text-kp-teal">
+      <div className="control-panel-section border-b border-ds-border px-4 py-4">
+        <p className="font-display text-[10px] uppercase tracking-[0.22em] text-ds-accent-text">
           {tab === 'layers' ? 'Official layers' : 'Basemap'}
         </p>
-        <h2 className="mt-1 font-display text-lg font-bold tracking-tight text-white sm:text-xl">
+        <h2 className="mt-1 font-display text-lg font-bold tracking-tight text-ds-text-primary sm:text-xl">
           {tab === 'layers' ? 'Official data layers' : 'Background map'}
         </h2>
-        <p className="mt-1 text-xs leading-relaxed text-nf-muted">
+        <p className="mt-1 text-xs leading-relaxed text-ds-text-secondary">
           {tab === 'layers'
             ? 'Overlays load as cached map tiles (fast after the first view). Turn on one or two layers at a time for best speed. Zoom in for cadastral detail. Click the map to identify features.'
             : 'Carto / OpenStreetMap backgrounds under the official PostGIS overlays. Pick one if the map looks blank.'}
@@ -112,19 +112,19 @@ function LayersSection({ visibility, currentZoom = 0, onZoomToLayer, onToggle, o
         return (
           <li
             key={layer.id}
-            className="rounded-2xl border border-white/10 bg-[#1c1c1f] px-3 py-3 transition hover:border-kp-teal/40"
+            className="rounded-2xl border border-ds-border bg-ds-surface-raised px-3 py-3 transition hover:border-ds-accent"
           >
             <label className="flex cursor-pointer items-start gap-3">
               <input
                 type="checkbox"
-                className="mt-0.5 h-4 w-4 rounded border-white/20 bg-black/50 text-nf-red focus:ring-nf-red focus:ring-offset-0"
+                className="mt-0.5 h-4 w-4 rounded border-ds-border bg-ds-surface-overlay text-ds-accent focus:ring-ds-accent focus:ring-offset-0"
                 checked={state.visible}
                 onChange={(e) => onToggle(layer.id, e.target.checked)}
               />
-              <span className="flex-1 text-sm font-medium leading-snug text-white/95">
+              <span className="flex-1 text-sm font-medium leading-snug text-ds-text-primary">
                 {layer.label}
                 {minZoom > 0 ? (
-                  <span className="ml-2 align-middle text-[10px] font-semibold uppercase tracking-wider text-white/38">
+                  <span className="ml-2 align-middle text-[10px] font-semibold uppercase tracking-wider text-ds-text-tertiary">
                     z{minZoom}+
                   </span>
                 ) : null}
@@ -144,7 +144,7 @@ function LayersSection({ visibility, currentZoom = 0, onZoomToLayer, onToggle, o
             ) : null}
             {state.visible ? (
               <div className="mt-3 flex items-center gap-3 pl-7">
-                <span className="w-14 shrink-0 text-[10px] font-semibold uppercase tracking-wider text-kp-teal">
+                <span className="w-14 shrink-0 text-[10px] font-semibold uppercase tracking-wider text-ds-accent-text">
                   Mix
                 </span>
                 <input
@@ -153,9 +153,9 @@ function LayersSection({ visibility, currentZoom = 0, onZoomToLayer, onToggle, o
                   max={100}
                   value={Math.round(state.opacity * 100)}
                   onChange={(e) => onOpacity(layer.id, Number(e.target.value) / 100)}
-                  className="h-1 flex-1 accent-kp-teal"
+                  className="h-1 flex-1 accent-ds-accent"
                 />
-                <span className="w-9 tabular-nums text-xs text-white/70">{Math.round(state.opacity * 100)}%</span>
+                <span className="w-9 tabular-nums text-xs text-ds-text-secondary">{Math.round(state.opacity * 100)}%</span>
               </div>
             ) : null}
           </li>
@@ -173,8 +173,8 @@ function BasemapSection({ basemapId, onBasemapChange }) {
           key={bm.id}
           className={`cursor-pointer rounded-2xl border p-3 transition ${
             basemapId === bm.id
-              ? 'border-nf-red bg-nf-red/10 shadow-lg shadow-nf-red/20'
-              : 'border-white/12 bg-[#1a1a1d] hover:border-white/28'
+              ? 'border-ds-accent bg-ds-accent-subtle shadow-lg shadow-ds-sm'
+              : 'border-ds-border bg-ds-surface-sunken hover:border-ds-border-strong'
           }`}
         >
           <input
@@ -185,10 +185,10 @@ function BasemapSection({ basemapId, onBasemapChange }) {
             onChange={() => onBasemapChange(bm.id)}
           />
           <span
-            className="mb-2 block aspect-[16/10] w-full rounded-lg bg-cover ring-1 ring-white/10"
+            className="mb-2 block aspect-[16/10] w-full rounded-lg bg-cover ring-1 ring-ds-border"
             style={{ background: bm.thumbnail }}
           />
-          <span className="block text-center text-[11px] font-semibold leading-tight text-white/90">{bm.label}</span>
+          <span className="block text-center text-[11px] font-semibold leading-tight text-ds-text-primary">{bm.label}</span>
         </label>
       ))}
     </div>

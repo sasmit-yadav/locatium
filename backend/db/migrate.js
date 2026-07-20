@@ -23,6 +23,18 @@ async function migrate() {
   try {
     await pool.query(sql);
     console.log('Migration applied:', sqlPath);
+
+    // Seed default user if users table is empty
+    const { rows } = await pool.query('SELECT COUNT(*)::int AS count FROM users');
+    if (rows[0].count === 0) {
+      const bcrypt = require('bcryptjs');
+      const passwordHash = await bcrypt.hash('sas@123456789', 10);
+      await pool.query(
+        'INSERT INTO users (email, password_hash, role) VALUES ($1, $2, $3)',
+        ['analyst@locatium.in', passwordHash, 'admin']
+      );
+      console.log('Seeded default analyst user: analyst@locatium.in / sas@123456789');
+    }
   } finally {
     await pool.end();
   }

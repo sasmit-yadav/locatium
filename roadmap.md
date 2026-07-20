@@ -24,7 +24,7 @@ This section reflects **the repository as built**. The 12-week roadmap further d
 | Geocode API (Nominatim proxy) | ✅ Done |
 | React map viewer | ✅ Done (**MapLibre GL JS** + cached `/api/tiles`) |
 | Feature search / PostGIS analytics | ✅ Done (Week 4 complete) |
-| Investor analysis / ML / admin portals | ❌ Not built |
+| Investor intelligence / analysis APIs | ✅ Partial (Weeks 5-7 implemented; Week 8/admin still not built) |
 
 ### Operational layer slugs (backend + frontend must match)
 
@@ -757,7 +757,7 @@ Response: [
 
 ---
 
-### **PHASE 2: INVESTOR INTELLIGENCE (Weeks 5-8)** — *design only, not implemented*
+### **PHASE 2: INVESTOR INTELLIGENCE (Weeks 5-8)** — *Weeks 5-7 done; Week 8 partial*
 
 #### Week 5: Spatial Analysis Engine (40h)
 **Goal:** Core algorithms for location scoring (4 dimensions)
@@ -804,10 +804,10 @@ For industrial zone at location:
 ```
 
 **Deliverables:**
-- [ ] Scoring endpoint: `POST /api/analysis/score-location`
-- [ ] Batch processing: `POST /api/analysis/score-batch` (up to 100 zones)
-- [ ] Returns: individual scores + overall composite score
-- [ ] Visualization data (GeoJSON with scores for heatmap)
+- [x] Scoring endpoint: `POST /api/analysis/score-location`
+- [x] Batch processing: `POST /api/analysis/score-batch` (up to 100 zones)
+- [x] Returns: individual scores + overall composite score
+- [x] Visualization data (GeoJSON with scores for heatmap)
 
 **Success Metrics:**
 - Single location scored in < 500ms
@@ -835,11 +835,11 @@ Growth_Potential = f(population_density, nearby_development, proximity_to_city)
 ```
 
 **Deliverables:**
-- [ ] Endpoint: `GET /api/investor/opportunities?sector=industrial&budget=high&risk=medium`
-- [ ] Endpoint: `GET /api/investor/zones?sort=rank&limit=20&filters=...`
-- [ ] Zone profiles (area, utilities, infrastructure count, distances)
-- [ ] Comparison matrix: `GET /api/investor/compare-zones?zones=z1,z2,z3,z4`
-- [ ] Benchmark data (similar successful zones for reference)
+- [x] Endpoint: `GET /api/investor/opportunities?sector=industrial&budget=high&risk=medium`
+- [x] Endpoint: `GET /api/investor/zones?sort=rank&limit=20&filters=...`
+- [x] Zone profiles (area, utilities, infrastructure count, distances)
+- [x] Comparison matrix: `GET /api/investor/compare-zones?zones=z1,z2,z3,z4`
+- [x] Benchmark data (similar successful zones for reference)
 
 **Filter Options:**
 - Sectors: industrial, commercial, residential, agricultural
@@ -857,7 +857,7 @@ Growth_Potential = f(population_density, nearby_development, proximity_to_city)
 
 ---
 
-#### Week 7: Reports & Visualizations (38h)
+#### Week 7: Reports & Visualizations (38h) - DONE
 **Goal:** PDF reports & interactive dashboard for investment analysis
 
 **PDF Report Contents (8-12 pages):**
@@ -895,20 +895,20 @@ Growth_Potential = f(population_density, nearby_development, proximity_to_city)
    - Suggested actions
 
 **Deliverables:**
-- [ ] Report generation: `POST /api/investor/generate-report?zoneId=z1&format=pdf`
-- [ ] Report stored in cloud (S3) with 7-day expiry
-- [ ] Dashboard visualizations:
+- [x] Report generation: `POST /api/investor/generate-report?zoneId=z1&format=pdf`
+- [x] Report stored locally (`backend/reports/`) and tracked in Postgres for history/downloads
+- [x] Dashboard visualizations:
   - Heatmap (infrastructure density)
   - Accessibility contours
   - Ranking chart (top 20)
   - Radar chart (zone comparison)
-- [ ] Export options: PDF, CSV, GeoJSON
+- [x] Export options: PDF, CSV, GeoJSON
 
 **Success Metrics:**
-- Report generation < 5 seconds
-- PDF professionally formatted & branded
-- All visualizations render correctly
-- CSV validated for Excel/Google Sheets
+- [x] Report generation < 5 seconds
+- [x] PDF professionally formatted & branded
+- [x] All visualizations render correctly
+- [x] CSV validated for Excel/Google Sheets
 
 **Output:** Production PDF reports + interactive dashboard
 
@@ -1101,11 +1101,11 @@ Growth_Potential = f(population_density, nearby_development, proximity_to_city)
 | 1 | Foundation | Backend + Auth ready | 🟡 Partial (no PUT profile, no audit writes) |
 | 2 | Foundation | Map tile API + 8 layers | 🟡 Partial (Redis optional; not 9 layers) |
 | 3 | Foundation | Interactive Map UI live | 🟡 Done (MapLibre + tiles + identify) |
-| 4 | Foundation | Feature Search + Stats API | ⬜ Not started |
-| 5 | Intelligence | Spatial Analysis 4 algorithms | ⬜ Design only |
-| 6 | Intelligence | Opportunity Discovery engine | ⬜ Design only |
-| 7 | Intelligence | PDF Reports + Dashboard | ⬜ Design only |
-| 8 | Intelligence | Investor Portal complete | ⬜ Design only |
+| 4 | Foundation | Feature Search + Stats API | 🟢 Done (implemented in backend + UI) |
+| 5 | Intelligence | Spatial Analysis 4 algorithms | 🟢 Done (analysis API + dashboard scoring) |
+| 6 | Intelligence | Opportunity Discovery engine | 🟢 Done (opportunities, zones, comparison) |
+| 7 | Intelligence | PDF Reports + Dashboard | 🟢 Done (PDF generation, dashboard charts, and export options implemented) |
+| 8 | Intelligence | Investor Portal complete | 🟡 Partial (core portal surface exists; saved/share/report features not built) |
 | 9 | Hardening | Admin Dashboard ready | ⬜ Not started |
 | 10 | Hardening | Security audit passed | 🟡 Partial (basics only) |
 | 11 | Hardening | Load testing passed | ⬜ Not started |

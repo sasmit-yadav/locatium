@@ -51,3 +51,70 @@ CREATE TABLE IF NOT EXISTS features (
 
 CREATE INDEX IF NOT EXISTS idx_features_layer ON features (layer_id);
 CREATE INDEX IF NOT EXISTS idx_features_geom ON features USING GIST (geom);
+
+CREATE TABLE IF NOT EXISTS investor_reports (
+  id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+  zone_id TEXT NOT NULL,
+  zone_name TEXT NOT NULL,
+  sector TEXT NOT NULL DEFAULT 'industrial',
+  recommendation TEXT NOT NULL,
+  opportunity_score INTEGER NOT NULL,
+  filename TEXT NOT NULL,
+  storage_name TEXT NOT NULL,
+  storage_path TEXT NOT NULL,
+  file_size_bytes INTEGER NOT NULL,
+  generated_at TIMESTAMPTZ NOT NULL DEFAULT now()
+);
+
+CREATE INDEX IF NOT EXISTS idx_investor_reports_zone ON investor_reports (zone_id);
+CREATE INDEX IF NOT EXISTS idx_investor_reports_generated ON investor_reports (generated_at DESC);
+
+-- Saved Searches table (Week 8)
+CREATE TABLE IF NOT EXISTS saved_searches (
+  id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+  user_id UUID NOT NULL REFERENCES users (id) ON DELETE CASCADE,
+  name TEXT NOT NULL,
+  filters JSONB NOT NULL DEFAULT '{}'::jsonb,
+  created_at TIMESTAMPTZ NOT NULL DEFAULT now()
+);
+CREATE INDEX IF NOT EXISTS idx_saved_searches_user ON saved_searches (user_id);
+
+-- Bookmarks/Favorites table (Week 8)
+CREATE TABLE IF NOT EXISTS favorites (
+  id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+  user_id UUID NOT NULL REFERENCES users (id) ON DELETE CASCADE,
+  zone_id TEXT NOT NULL,
+  notes TEXT,
+  created_at TIMESTAMPTZ NOT NULL DEFAULT now()
+);
+CREATE INDEX IF NOT EXISTS idx_favorites_user ON favorites (user_id);
+CREATE INDEX IF NOT EXISTS idx_favorites_zone ON favorites (zone_id);
+
+-- Shared Snapshots table (Week 8 sharing)
+CREATE TABLE IF NOT EXISTS shared_snapshots (
+  id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+  token TEXT NOT NULL UNIQUE,
+  center_lng DOUBLE PRECISION NOT NULL,
+  center_lat DOUBLE PRECISION NOT NULL,
+  zoom DOUBLE PRECISION NOT NULL,
+  active_layers TEXT[] NOT NULL,
+  selected_zone_id TEXT,
+  created_at TIMESTAMPTZ NOT NULL DEFAULT now(),
+  expires_at TIMESTAMPTZ
+);
+CREATE INDEX IF NOT EXISTS idx_shared_snapshots_token ON shared_snapshots (token);
+
+-- Analysis History table (Week 8)
+CREATE TABLE IF NOT EXISTS analysis_history (
+  id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+  user_id UUID NOT NULL REFERENCES users (id) ON DELETE CASCADE,
+  label TEXT NOT NULL,
+  lat DOUBLE PRECISION NOT NULL,
+  lng DOUBLE PRECISION NOT NULL,
+  sector TEXT NOT NULL DEFAULT 'industrial',
+  overall_score INTEGER,
+  scores JSONB NOT NULL DEFAULT '{}'::jsonb,
+  created_at TIMESTAMPTZ NOT NULL DEFAULT now()
+);
+CREATE INDEX IF NOT EXISTS idx_analysis_history_user ON analysis_history (user_id, created_at DESC);
+

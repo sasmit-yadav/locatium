@@ -1,5 +1,10 @@
-import { IconClose } from './UiIcons';
+import { Crosshair } from 'lucide-react';
 import { TABLE_LABEL_BY_ID } from '../config/layer-legend';
+import { Panel } from './ui/Panel';
+import { Card } from './ui/Card';
+import { Skeleton } from './ui/Skeleton';
+import { EmptyState } from './ui/EmptyState';
+import { layout } from '../design-system/tokens';
 
 function formatCoord(n) {
   if (typeof n !== 'number' || Number.isNaN(n)) return '—';
@@ -8,106 +13,105 @@ function formatCoord(n) {
 
 function AttributeTable({ attrs }) {
   const entries = Object.entries(attrs).filter(([k]) => k !== 'geometry');
-  if (entries.length === 0) return <p className="text-xs text-nf-muted">No attributes returned.</p>;
+  if (entries.length === 0) {
+    return <p className="text-ds-small text-ds-text-secondary">No attributes returned for this feature.</p>;
+  }
   return (
-    <dl className="mt-2 grid max-h-36 grid-cols-[minmax(0,38%)_1fr] gap-x-2 gap-y-1 overflow-y-auto text-[11px] scrollbar-thin">
+    <dl className="mt-ds-2 max-h-36 overflow-y-auto scrollbar-thin">
       {entries.map(([k, v]) => (
-        <div key={k} className="contents">
-          <dt className="truncate font-semibold uppercase tracking-wide text-white/45" title={k}>
+        <div key={k} className="grid grid-cols-[minmax(0,38%)_1fr] gap-x-ds-2 border-b border-ds-border-subtle py-ds-1 last:border-b-0">
+          <dt className="truncate text-ds-small text-ds-text-secondary" title={k}>
             {k}
           </dt>
-          <dd className="break-words text-white/85">{v === null || v === undefined || v === '' ? '—' : String(v)}</dd>
+          <dd className="break-words text-ds-body text-ds-text-primary">
+            {v === null || v === undefined || v === '' ? '—' : String(v)}
+          </dd>
         </div>
       ))}
     </dl>
   );
 }
 
-export function IdentifyPanel({ open, loading, error, skip, skipMessage, lng, lat, layers, layerLabels, onClose, onShowNearbyFacilities }) {
+export function IdentifyPanel({
+  open,
+  loading,
+  error,
+  skip,
+  skipMessage,
+  lng,
+  lat,
+  layers,
+  layerLabels,
+  onClose,
+  onShowNearbyFacilities,
+}) {
   if (!open) return null;
 
   const hasHits =
-    Array.isArray(layers) &&
-    layers.some((L) => L.ok && Array.isArray(L.hits) && L.hits.length > 0);
+    Array.isArray(layers) && layers.some((L) => L.ok && Array.isArray(L.hits) && L.hits.length > 0);
 
   return (
     <>
-      <button
-        type="button"
-        aria-label="Dismiss location details"
-        className="fixed inset-0 z-[18800] bg-transparent"
-        onClick={onClose}
-      />
-      <aside
-        className="control-panel-shell fixed bottom-0 left-3 right-3 z-[18900] flex max-h-[min(46vh,420px)] flex-col rounded-t-2xl border border-white/15 shadow-dock sm:left-auto sm:right-4 sm:w-[min(100vw-2rem,440px)]"
-        style={{ backgroundColor: 'rgb(18, 18, 20)' }}
-      >
-        <div className="control-panel-section flex shrink-0 items-start justify-between gap-2 border-b border-white/10 px-4 py-3">
-          <div>
-            <p className="font-display text-[10px] font-semibold uppercase tracking-[0.2em] text-kp-teal">
-              Feature inspection
-            </p>
-            <h2 className="mt-1 font-display text-base font-bold text-white">What&apos;s here?</h2>
-            <p className="mt-1 text-[11px] text-white/45">
-              Parallel identify on every visible layer (boundaries, cadastral, utilities, transport, etc.).
+      <button type="button" aria-label="Dismiss location details" className="fixed inset-0 z-ds-floating-panel bg-transparent" onClick={onClose} />
+      <div className="fixed bottom-0 left-0 right-0 z-ds-floating-panel p-0 md:bottom-auto md:left-auto md:right-ds-4 md:top-20 md:w-ds-panel md:p-0">
+        <Panel
+          title="What's here?"
+          icon={Crosshair}
+          onClose={onClose}
+          anchor="bottom-sheet"
+          className="relative max-h-[min(46vh,420px)] w-full md:max-h-[min(70vh,560px)] md:!rounded-ds-md"
+          width={layout.panelWidth}
+        >
+          <div className="space-y-ds-3 px-ds-4 py-ds-3">
+            <p className="text-ds-small text-ds-text-secondary">
+              Features under this point across visible layers.
             </p>
             {!skip && lng != null && lat != null ? (
-              <p className="mt-1 font-mono text-[11px] text-white/55">
+              <p className="font-mono text-ds-small text-ds-text-tertiary">
                 {formatCoord(lng)}°, {formatCoord(lat)}°
               </p>
             ) : null}
-          </div>
-          <button
-            type="button"
-            onClick={onClose}
-            className="shrink-0 rounded-full p-2 text-white/55 transition hover:bg-white/10 hover:text-white"
-          >
-            <IconClose className="h-5 w-5" />
-          </button>
-        </div>
 
-        <div className="control-panel-body scrollbar-thin min-h-0 flex-1 overflow-y-auto px-4 pb-4 pt-3">
-          {loading ? (
-            <div className="flex items-center gap-2 text-sm text-white/70" role="status" aria-live="polite">
-              <span className="inline-block h-4 w-4 animate-spin rounded-full border-2 border-kp-teal/30 border-t-kp-teal" />
-              Querying visible layers…
-            </div>
-          ) : null}
+            {loading ? <Skeleton variant="row" count={3} /> : null}
 
-          {skip ? (
-            <p className="text-sm leading-relaxed text-nf-muted">{skipMessage}</p>
-          ) : null}
+            {skip ? <p className="text-ds-body text-ds-text-secondary">{skipMessage}</p> : null}
 
-          {!loading && error ? (
-            <p className="text-sm text-nf-red">{error}</p>
-          ) : null}
+            {!loading && error ? (
+              <p className="rounded-ds-sm border border-ds-danger/30 bg-ds-danger-subtle p-ds-3 text-ds-body text-ds-danger">
+                {error.includes('retry') || error.includes('connection')
+                  ? error
+                  : `Couldn't inspect this location — ${error}. Check your connection and retry.`}
+              </p>
+            ) : null}
 
-          {!loading && !skip && !error && !hasHits ? (
-            <p className="text-sm text-nf-muted">
-              No features returned for visible layers at this spot. Zoom in, enable more layers, click closer to linework
-              or symbols, or raise tolerance (`MAP_IDENTIFY_TOLERANCE_PX` on the API).
-            </p>
-          ) : null}
+            {!loading && !skip && !error && !hasHits ? (
+              <EmptyState
+                icon={Crosshair}
+                title="No features here"
+                description="Zoom in, enable more layers, or click closer to boundaries and symbols."
+              />
+            ) : null}
 
-          {!loading && !skip && Array.isArray(layers)
-            ? layers.map((block) => {
-                const title = layerLabels[block.layerKey] || block.layerKey;
-                if (!block.ok) {
+            {!loading && !skip && Array.isArray(layers)
+              ? layers.map((block) => {
+                  const title = layerLabels[block.layerKey] || block.layerKey;
+                  if (!block.ok) {
+                    return (
+                      <Card key={block.layerKey} padding="sm" className="border-ds-warning/40 bg-ds-warning-subtle">
+                        <p className="text-ds-body-med text-ds-warning">{title}</p>
+                        <p className="mt-ds-1 text-ds-small text-ds-text-secondary">
+                          {block.error || "Couldn't query this layer — retry"}
+                        </p>
+                      </Card>
+                    );
+                  }
+                  if (!block.hits?.length) return null;
                   return (
-                    <section key={block.layerKey} className="mb-4 rounded-xl border border-amber-500/25 bg-amber-500/10 px-3 py-2">
-                      <p className="text-xs font-bold text-amber-200/95">{title}</p>
-                      <p className="mt-1 text-[11px] text-amber-100/80">{block.error || 'Layer query failed'}</p>
-                    </section>
-                  );
-                }
-                if (!block.hits?.length) return null;
-                return (
-                  <section key={block.layerKey} className="mb-4 rounded-xl border border-white/10 bg-[#1c1c1f] px-3 py-3">
-                    <p className="text-[11px] font-bold uppercase tracking-wide text-kp-teal">{title}</p>
-                    <ul className="mt-2 space-y-3">
+                    <div key={block.layerKey} className="space-y-ds-2">
+                      <div className="text-ds-caption uppercase tracking-wide text-ds-text-tertiary">{title}</div>
                       {block.hits.map((hit, idx) => (
-                        <li key={`${block.layerKey}-${hit.layerId}-${idx}`} className="border-t border-white/5 pt-3 first:border-t-0 first:pt-0">
-                          <p className="text-sm font-semibold text-white">
+                        <Card key={`${block.layerKey}-${hit.layerId}-${idx}`} padding="sm">
+                          <p className="text-ds-subtitle text-ds-text-primary">
                             {hit.value ||
                               TABLE_LABEL_BY_ID[hit.layerName] ||
                               TABLE_LABEL_BY_ID[hit.layerId] ||
@@ -115,33 +119,42 @@ export function IdentifyPanel({ open, loading, error, skip, skipMessage, lng, la
                               `Feature (${hit.layerId})`}
                           </p>
                           {(hit.layerName || hit.layerId) && hit.value ? (
-                            <p className="text-[11px] text-white/50">
+                            <p className="text-ds-small text-ds-text-secondary">
                               {TABLE_LABEL_BY_ID[hit.layerName] || TABLE_LABEL_BY_ID[hit.layerId] || hit.layerName}
                             </p>
                           ) : null}
                           <AttributeTable attrs={hit.attributes} />
-                          {onShowNearbyFacilities && hit.layerId ? (
+                          {onShowNearbyFacilities ? (
                             <button
                               type="button"
-                              onClick={() => onShowNearbyFacilities({
-                                id: hit.layerId,
-                                name: hit.value || hit.layerName || `Feature ${hit.layerId}`,
-                                layerKey: block.layerKey
-                              })}
-                              className="mt-2 text-xs text-kp-teal hover:text-kp-teal/80 transition"
+                              onClick={() => {
+                                const attrs = hit.attributes || {};
+                                const featureId = attrs.id ?? attrs.objectid ?? attrs.gid ?? null;
+                                const tableId = hit.layerName || hit.layerId;
+                                const zoneRef =
+                                  tableId && featureId != null ? `${tableId}:${featureId}` : featureId != null ? String(featureId) : null;
+                                onShowNearbyFacilities({
+                                  id: zoneRef,
+                                  name: hit.value || hit.layerName || `Feature ${hit.layerId}`,
+                                  layerKey: block.layerKey,
+                                  lng,
+                                  lat,
+                                });
+                              }}
+                              className="mt-ds-2 text-ds-body-med text-ds-accent-text hover:underline focus-visible:outline-none focus-visible:shadow-ds-focus"
                             >
-                              View nearby facilities →
+                              View nearby facilities
                             </button>
                           ) : null}
-                        </li>
+                        </Card>
                       ))}
-                    </ul>
-                  </section>
-                );
-              })
-            : null}
-        </div>
-      </aside>
+                    </div>
+                  );
+                })
+              : null}
+          </div>
+        </Panel>
+      </div>
     </>
   );
 }

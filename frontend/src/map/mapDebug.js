@@ -1,12 +1,14 @@
 import { LAYER_CONFIGS } from '../config/layer-registry';
+import { DATA_LAYERS } from '../config/layers';
 
 const SOURCE_PREFIX = 'operational-src-';
 
 /**
  * Inspect operational map sources/layers and log warnings for common issues.
+ * Only checks layers for currently visible categories (avoids false "source missing").
  * @returns {object} debug snapshot
  */
-export function inspectOperationalMap(map) {
+export function inspectOperationalMap(map, visibility = null) {
   if (!map || map._removed) return { ok: false, reason: 'map_removed' };
 
   const zoom = map.getZoom();
@@ -19,7 +21,26 @@ export function inspectOperationalMap(map) {
     visibleFeatures: 0,
   };
 
+  const visibleCategoryIds = new Set(
+    DATA_LAYERS.filter((cat) => visibility?.[cat.id]?.visible).map((cat) => cat.id)
+  );
+
+  const configsToCheck =
+    visibleCategoryIds.size > 0
+      ? LAYER_CONFIGS.filter((cfg) => visibleCategoryIds.has(cfg.category))
+      : [];
+
+  // Also include any operational layers already present on the style (leftovers).
+  const presentIds = new Set(configsToCheck.map((c) => c.id));
   for (const cfg of LAYER_CONFIGS) {
+    if (presentIds.has(cfg.id)) continue;
+    const hasLayer = ['fill', 'line', 'point', 'symbol'].some((suffix) =>
+      map.getLayer(`operational-lyr-${cfg.id}-${suffix}`)
+    );
+    if (hasLayer) configsToCheck.push(cfg);
+  }
+
+  for (const cfg of configsToCheck) {
     const srcId = `${SOURCE_PREFIX}${cfg.id}`;
     const src = map.getSource(srcId);
     const pointLayer = `operational-lyr-${cfg.id}-point`;
@@ -37,7 +58,12 @@ export function inspectOperationalMap(map) {
     };
     report.sources.push(entry);
 
-    if (!src && zoom >= cfg.minzoom) {
+    const categoryOn = visibleCategoryIds.has(cfg.category);
+    const clusterBelow = cfg.performance?.clusterBelowZoom;
+    const deferVectorForCluster =
+      clusterBelow && cfg.geometryType === 'point' && zoom < clusterBelow;
+
+    if (categoryOn && !src && zoom >= cfg.minzoom && !deferVectorForCluster) {
       report.warnings.push(`[LOCATIUM] source missing: ${srcId} (expected at z${cfg.minzoom}+)`);
     }
     if (entry.belowMinZoom && entry.layers.length > 0) {
@@ -58,9 +84,6 @@ export function inspectOperationalMap(map) {
   try {
     const rendered = map.queryRenderedFeatures({ layers: report.layers.map((l) => l.id) });
     report.visibleFeatures = rendered.length;
-    if (zoom >= 8 && rendered.length === 0) {
-      report.warnings.push('[LOCATIUM] no rendered operational features in viewport (check zoom/category toggles)');
-    }
   } catch {
     /* queryRenderedFeatures can fail during style churn */
   }
@@ -72,7 +95,7 @@ export function inspectOperationalMap(map) {
   return report;
 }
 
-export function attachMapDebugHandlers(map, onReport) {
+export function attachMapDebugHandlers(map, onReport, getVisibility) {
   if (!map || !import.meta.env.DEV) return () => {};
 
   let tileLoads = 0;
@@ -82,7 +105,8 @@ export function attachMapDebugHandlers(map, onReport) {
     }
   };
   const onIdle = () => {
-    const report = inspectOperationalMap(map);
+    const visibility = typeof getVisibility === 'function' ? getVisibility() : null;
+    const report = inspectOperationalMap(map, visibility);
     report.tileLoads = tileLoads;
     if (onReport) onReport(report);
   };

@@ -1,12 +1,27 @@
 const authService = require('../services/auth.service');
+const auditService = require('../services/audit.service');
 
 async function register(req, res) {
   const result = await authService.register(req.body || {});
+  await auditService.writeAuditFromRequest(req, {
+    userId: result.user.id,
+    action: 'auth.register',
+    resourceType: 'user',
+    resourceId: result.user.id,
+    metadata: { email: result.user.email },
+  });
   res.status(201).json(result);
 }
 
 async function login(req, res) {
   const result = await authService.login(req.body || {});
+  await auditService.writeAuditFromRequest(req, {
+    userId: result.user.id,
+    action: 'auth.login',
+    resourceType: 'user',
+    resourceId: result.user.id,
+    metadata: { email: result.user.email },
+  });
   res.json(result);
 }
 

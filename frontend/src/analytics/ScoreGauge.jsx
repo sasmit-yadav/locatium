@@ -1,0 +1,44 @@
+import { colors } from '../design-system/tokens';
+
+/**
+ * Horizontal score bar — preferred over radial gauges (ui_enhance.md §6.3).
+ * Uses dataSequential bands: 0–40 needs improvement, 40–70 mid, 70–100 strong.
+ */
+export function ScoreGauge({ label, value = 0, kind = 'infrastructure', suffix = '/100' }) {
+  const pct = Math.max(0, Math.min(100, Number(value) || 0));
+  const band =
+    pct >= 70 ? 'Strong' : pct >= 40 ? 'Moderate' : 'Needs improvement';
+  const fill =
+    pct >= 70
+      ? colors.dataSequential.high
+      : pct >= 40
+        ? colors.dataSequential.mid
+        : colors.dataSequential.low;
+
+  return (
+    <div className="rounded-ds-md border border-ds-border-subtle bg-ds-surface-raised p-ds-3">
+      <div className="flex items-center justify-between gap-ds-2">
+        <div className="text-ds-caption uppercase tracking-wide text-ds-text-tertiary">{label}</div>
+        <div className="text-ds-small text-ds-text-secondary">{band}</div>
+      </div>
+      <div className="mt-ds-2 flex items-baseline gap-ds-1">
+        <span className="text-ds-stat text-ds-text-primary">{Math.round(pct)}</span>
+        <span className="text-ds-small text-ds-text-secondary">{suffix}</span>
+      </div>
+      <div
+        className="mt-ds-2 h-1.5 w-full overflow-hidden rounded-ds-full"
+        style={{ backgroundColor: colors.border.subtle }}
+        role="meter"
+        aria-label={label}
+        aria-valuenow={Math.round(pct)}
+        aria-valuemin={0}
+        aria-valuemax={100}
+      >
+        <div
+          className="h-full rounded-ds-full transition-[width] duration-ds-base ease-ds"
+          style={{ width: `${pct}%`, backgroundColor: fill === colors.dataSequential.low ? colors.text.tertiary : fill }}
+        />
+      </div>
+    </div>
+  );
+}

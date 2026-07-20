@@ -1,0 +1,33 @@
+/**
+ * CSS custom properties mirroring design-system/tokens.js.
+ * Keep in sync with tokens.js — JS remains the source of truth for React/Tailwind.
+ */
+:root {
+  --ds-surface-base: #ffffff;
+  --ds-surface-raised: #ffffff;
+  --ds-surface-sunken: #f5f6f7;
+  --ds-surface-overlay: rgba(20, 22, 26, 0.4);
+
+  --ds-border-default: #e5e7ea;
+  --ds-border-subtle: #eef0f2;
+  --ds-border-strong: #d1d5db;
+
+  --ds-text-primary: #14161a;
+  --ds-text-secondary: #6b7280;
+  --ds-text-tertiary: #9ca3af;
+  --ds-text-inverse: #ffffff;
+  --ds-text-disabled: #c4c8cd;
+
+  --ds-accent: #2563eb;
+  --ds-accent-hover: #1d4ed8;
+  --ds-accent-subtle: #eff4ff;
+  --ds-accent-text: #1d4ed8;
+
+  --ds-success: #16a34a;
+  --ds-warning: #d97706;
+  --ds-danger: #dc2626;
+
+  --ds-shadow-xs: 0 1px 2px rgba(16, 24, 40, 0.05);
+  --ds-motion-base: 180ms;
+  --ds-motion-easing: cubic-bezier(0.4, 0, 0.2, 1);
+}
