@@ -89,15 +89,27 @@ function verifyBackendConfig() {
     process.env.JWT_ACCESS_SECRET !== process.env.JWT_REFRESH_SECRET,
     'Should be different values');
   
-  // HARSAC MapServer config
+  // HARSAC MapServer config (optional for the current core product)
+  // The UI uses cached PostGIS-backed `/api/tiles` by default. HARSAC credentials are only needed for the optional ArcGIS proxy features.
   const hasToken = !!process.env.MAP_SERVER_TOKEN;
   const hasCredentials = !!process.env.MAP_SERVER_USERNAME && !!process.env.MAP_SERVER_PASSWORD;
-  check('HARSAC MapServer configured', hasToken || hasCredentials, 
-    hasToken ? 'Token configured' : hasCredentials ? 'Credentials configured' : 'Not configured - tiles may not work');
+  check(
+    'HARSAC MapServer configured (optional)',
+    true,
+    hasToken ? 'Token configured (optional)' : hasCredentials ? 'Credentials configured (optional)' : 'Not configured — core tiles use PostGIS'
+  );
   
   // Redis (optional)
   const redisUrl = process.env.REDIS_URL;
-  check('Redis configured', !!redisUrl, redisUrl ? 'Enabled' : 'Disabled (optional)');
+  check(
+    'Redis configured (optional)',
+    true,
+    redisUrl ? 'Enabled (tile/query cache)' : 'Disabled (optional — core tiles still work)'
+  );
+
+  // ML service (optional — scoring falls back to heuristic when unavailable)
+  const mlUrl = (process.env.ML_SERVICE_URL || 'http://localhost:8000').replace(/\/$/, '');
+  check('ML_SERVICE_URL configured (optional)', true, mlUrl);
 }
 
 function verifyFrontendConfig() {
@@ -140,8 +152,26 @@ async function verifyServices() {
     server.listen(port);
   });
   
-  check(`Port ${port} available`, isPortAvailable, 
-    isPortAvailable ? 'Ready for backend' : 'Port in use - change PORT in .env');
+  // If the port is in use, confirm it's our API by checking /api/health.
+  let isOurApi = false;
+  if (!isPortAvailable) {
+    try {
+      const controller = new AbortController();
+      const t = setTimeout(() => controller.abort(), 2000);
+      const r = await fetch(`http://localhost:${port}/api/health`, { signal: controller.signal });
+      clearTimeout(t);
+      isOurApi = r.ok;
+    } catch {
+      isOurApi = false;
+    }
+  }
+
+  const backendOk = isPortAvailable || isOurApi;
+  check(
+    `Backend port ${port} ready`,
+    backendOk,
+    backendOk ? (isPortAvailable ? 'Port free' : 'API already running') : 'Port in use but API not responding to /api/health'
+  );
   
   // Check if frontend port is available
   const frontendPort = 5173;
@@ -155,8 +185,48 @@ async function verifyServices() {
     server.listen(frontendPort);
   });
   
-  check(`Port ${frontendPort} available`, isFrontendPortAvailable,
-    isFrontendPortAvailable ? 'Ready for frontend' : 'Port in use - Vite will auto-select another');
+  // If frontend port is taken, treat it as OK if something responds.
+  let frontendResponds = false;
+  if (!isFrontendPortAvailable) {
+    try {
+      const controller = new AbortController();
+      const t = setTimeout(() => controller.abort(), 2000);
+      const r = await fetch(`http://localhost:${frontendPort}/`, { signal: controller.signal });
+      clearTimeout(t);
+      frontendResponds = r.ok || r.status === 404;
+    } catch {
+      frontendResponds = false;
+    }
+  }
+
+  const frontendOk = isFrontendPortAvailable || frontendResponds;
+  check(
+    `Frontend port ${frontendPort} ready`,
+    frontendOk,
+    frontendOk ? (isFrontendPortAvailable ? 'Port free' : 'Something is already serving') : 'Port in use but no server responding'
+  );
+
+  const mlUrl = (process.env.ML_SERVICE_URL || 'http://localhost:8000').replace(/\/$/, '');
+  let mlOk = false;
+  try {
+    const controller = new AbortController();
+    const t = setTimeout(() => controller.abort(), 2000);
+    const [healthRes, versionRes] = await Promise.all([
+      fetch(`${mlUrl}/health`, { signal: controller.signal }),
+      fetch(`${mlUrl}/version`, { signal: controller.signal }),
+    ]);
+    clearTimeout(t);
+    const healthBody = await healthRes.json().catch(() => ({}));
+    const versionBody = await versionRes.json().catch(() => ({}));
+    mlOk = healthRes.ok && healthBody.status === 'ok' && versionRes.ok && versionBody.service === 'locatium-ml';
+  } catch {
+    mlOk = false;
+  }
+  check(
+    'ML service reachable (optional)',
+    true,
+    mlOk ? 'locatium-ml responding' : 'Not running — scoring uses heuristic fallback'
+  );
 }
 
 async function runVerification() {

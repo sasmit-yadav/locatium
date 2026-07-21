@@ -1,0 +1,18 @@
+services:
+  ml-service:
+    build:
+      context: ./ml-service
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      GIT_SHA: ${GIT_SHA:-dev}
+      LOG_LEVEL: ${ML_LOG_LEVEL:-info}
+      DATABASE_URL: ${DATABASE_URL:-}
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/health')"]
+      interval: 15s
+      timeout: 5s
+      retries: 3
+      start_period: 10s
+    restart: unless-stopped

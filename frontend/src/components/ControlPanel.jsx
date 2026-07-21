@@ -80,7 +80,7 @@ export function ControlPanel({
         <p className="mt-1 text-xs leading-relaxed text-ds-text-secondary">
           {tab === 'layers'
             ? 'Overlays load as cached map tiles (fast after the first view). Turn on one or two layers at a time for best speed. Zoom in for cadastral detail. Click the map to identify features.'
-            : 'Carto / OpenStreetMap backgrounds under the official PostGIS overlays. Pick one if the map looks blank.'}
+            : 'Map backgrounds under official Haryana data layers. Pick one if the map looks blank.'}
         </p>
       </div>
 

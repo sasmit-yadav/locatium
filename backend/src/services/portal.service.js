@@ -317,11 +317,12 @@ async function clearAnalysisHistory(userId) {
 
 async function getWorkspaceStats(userId) {
   const pool = ensurePool();
-  const [searches, favorites, analyses, reports] = await Promise.all([
+  const [searches, favorites, analyses, reports, pipeline] = await Promise.all([
     pool.query(`SELECT COUNT(*)::int AS count FROM saved_searches WHERE user_id = $1`, [userId]),
     pool.query(`SELECT COUNT(*)::int AS count FROM favorites WHERE user_id = $1`, [userId]),
     pool.query(`SELECT COUNT(*)::int AS count FROM analysis_history WHERE user_id = $1`, [userId]),
     pool.query(`SELECT COUNT(*)::int AS count FROM investor_reports`),
+    pool.query(`SELECT COUNT(*)::int AS count FROM investor_pipeline WHERE user_id = $1`, [userId]).catch(() => ({ rows: [{ count: 0 }] })),
   ]);
 
   return {
@@ -330,7 +331,145 @@ async function getWorkspaceStats(userId) {
     favorites: favorites.rows[0].count,
     analyses: analyses.rows[0].count,
     reportsGenerated: reports.rows[0].count,
+    pipelineItems: pipeline.rows[0].count,
   };
+}
+
+const PIPELINE_STAGES = ['discovered', 'shortlisted', 'due_diligence', 'negotiation', 'closed', 'passed'];
+
+async function listPipeline(userId) {
+  const pool = ensurePool();
+  const { rows } = await pool.query(
+    `
+      SELECT id, zone_id AS "zoneId", stage, notes, created_at AS "createdAt", updated_at AS "updatedAt"
+      FROM investor_pipeline
+      WHERE user_id = $1
+      ORDER BY updated_at DESC
+    `,
+    [userId]
+  );
+  return rows;
+}
+
+async function upsertPipelineItem(userId, zoneId, stage, notes) {
+  const pool = ensurePool();
+  if (!zoneId || typeof zoneId !== 'string' || !zoneId.trim()) {
+    throw AppError.badRequest('zoneId is required');
+  }
+  const normalizedStage = String(stage || 'discovered').toLowerCase();
+  if (!PIPELINE_STAGES.includes(normalizedStage)) {
+    throw AppError.badRequest(`stage must be one of: ${PIPELINE_STAGES.join(', ')}`);
+  }
+
+  const { rows } = await pool.query(
+    `
+      INSERT INTO investor_pipeline (user_id, zone_id, stage, notes)
+      VALUES ($1, $2, $3, $4)
+      ON CONFLICT (user_id, zone_id)
+      DO UPDATE SET stage = EXCLUDED.stage, notes = EXCLUDED.notes, updated_at = now()
+      RETURNING id, zone_id AS "zoneId", stage, notes, created_at AS "createdAt", updated_at AS "updatedAt"
+    `,
+    [userId, zoneId.trim(), normalizedStage, notes || null]
+  );
+  return rows[0];
+}
+
+async function deletePipelineItem(userId, id) {
+  const pool = ensurePool();
+  const { rowCount } = await pool.query(
+    `DELETE FROM investor_pipeline WHERE id = $1 AND user_id = $2`,
+    [id, userId]
+  );
+  if (rowCount === 0) throw AppError.notFound('Pipeline item not found or unauthorized');
+  return { success: true };
+}
+
+async function listPortfolios(userId) {
+  const pool = ensurePool();
+  const { rows } = await pool.query(
+    `SELECT id, name, zone_ids AS "zoneIds", notes, share_token AS "shareToken", created_at AS "createdAt", updated_at AS "updatedAt"
+     FROM investor_portfolios WHERE user_id = $1 ORDER BY updated_at DESC`,
+    [userId]
+  );
+  return rows;
+}
+
+async function upsertPortfolio(userId, { id, name, zoneIds, notes }) {
+  const pool = ensurePool();
+  if (!name?.trim()) throw AppError.badRequest('Portfolio name is required');
+  const zones = Array.isArray(zoneIds) ? zoneIds.filter(Boolean) : [];
+  if (id) {
+    const { rows } = await pool.query(
+      `UPDATE investor_portfolios SET name = $1, zone_ids = $2, notes = $3, updated_at = now()
+       WHERE id = $4 AND user_id = $5
+       RETURNING id, name, zone_ids AS "zoneIds", notes, share_token AS "shareToken", created_at AS "createdAt", updated_at AS "updatedAt"`,
+      [name.trim(), zones, notes || null, id, userId]
+    );
+    if (!rows[0]) throw AppError.notFound('Portfolio not found');
+    return rows[0];
+  }
+  const shareToken = crypto.randomBytes(16).toString('hex');
+  const { rows } = await pool.query(
+    `INSERT INTO investor_portfolios (user_id, name, zone_ids, notes, share_token)
+     VALUES ($1, $2, $3, $4, $5)
+     RETURNING id, name, zone_ids AS "zoneIds", notes, share_token AS "shareToken", created_at AS "createdAt", updated_at AS "updatedAt"`,
+    [userId, name.trim(), zones, notes || null, shareToken]
+  );
+  return rows[0];
+}
+
+async function subscribeSearchAlert(userId, { savedSearchId, email, minScoreDelta = 5 }) {
+  const pool = ensurePool();
+  if (!email?.trim()) throw AppError.badRequest('email is required');
+  try {
+    const { rows } = await pool.query(
+      `INSERT INTO investor_search_alerts (user_id, saved_search_id, email, min_score_delta)
+       VALUES ($1, $2, $3, $4)
+       RETURNING id, saved_search_id AS "savedSearchId", email, min_score_delta AS "minScoreDelta", active, created_at AS "createdAt"`,
+      [userId, savedSearchId || null, email.trim(), minScoreDelta]
+    );
+    return {
+      ...rows[0],
+      jobStatus: 'registered',
+      note:
+        process.env.INVESTOR_ALERTS_ENABLED === 'true'
+          ? 'Alert subscription active — background job checks hourly.'
+          : 'Subscription saved. Set INVESTOR_ALERTS_ENABLED=true on the server to enable hourly checks.',
+    };
+  } catch (err) {
+    if (err.code === '42P01') {
+      return { jobStatus: 'unavailable', note: 'Run db:migrate to enable search alerts.' };
+    }
+    throw err;
+  }
+}
+
+async function deletePortfolio(userId, id) {
+  const pool = ensurePool();
+  const { rowCount } = await pool.query(`DELETE FROM investor_portfolios WHERE id = $1 AND user_id = $2`, [id, userId]);
+  if (!rowCount) throw AppError.notFound('Portfolio not found');
+  return { success: true };
+}
+
+async function getPortfolioByShareToken(token) {
+  const pool = ensurePool();
+  const { rows } = await pool.query(
+    `SELECT id, name, zone_ids AS "zoneIds", notes, share_token AS "shareToken", created_at AS "createdAt", updated_at AS "updatedAt"
+     FROM investor_portfolios WHERE share_token = $1 LIMIT 1`,
+    [token]
+  );
+  if (!rows[0]) throw AppError.notFound('Portfolio not found');
+  return rows[0];
+}
+
+async function listSearchAlerts(userId) {
+  const alertService = require('./investor-alert.service');
+  return alertService.listAlerts(userId);
+}
+
+async function deleteSearchAlert(userId, alertId) {
+  const alertService = require('./investor-alert.service');
+  return alertService.deleteAlert(userId, alertId);
 }
 
 module.exports = {
@@ -347,4 +486,15 @@ module.exports = {
   listAnalysisHistory,
   clearAnalysisHistory,
   getWorkspaceStats,
+  listPipeline,
+  upsertPipelineItem,
+  deletePipelineItem,
+  PIPELINE_STAGES,
+  listPortfolios,
+  upsertPortfolio,
+  subscribeSearchAlert,
+  deletePortfolio,
+  getPortfolioByShareToken,
+  listSearchAlerts,
+  deleteSearchAlert,
 };

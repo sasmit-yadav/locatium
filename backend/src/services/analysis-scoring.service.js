@@ -1,5 +1,17 @@
 const { getPool } = require('../db/pool');
 const { AppError } = require('../middleware/error.middleware');
+const { nearestStationAqi } = require('./aqi.service');
+const { gatherZoningContext } = require('./zoning-context.service');
+const {
+  SCORING_VERSION,
+  normalizeSector,
+  computeInfrastructureScore,
+  computeAccessibilityScore,
+  computeEnvironmentalScore,
+  computeZoneCompatibilityScore,
+  computeOverallScore,
+  buildScoreBreakdown,
+} = require('./scoring-engine');
 
 const LOCATION_LIMITS = {
   minLat: 27.3,
@@ -9,7 +21,13 @@ const LOCATION_LIMITS = {
 };
 
 const DEFAULT_SECTOR = 'industrial';
-const BATCH_CONCURRENCY = 8;
+const BATCH_CONCURRENCY = Number(process.env.SCORE_BATCH_CONCURRENCY) || 12;
+
+const SCHOOL_TABLES = ['govt_school', 'pm_shri_and_sanskriti_school', 'haryana_police_public_schools_point'];
+const CIVIC_TABLES = ['electric_station', 'distribution_transformer'];
+const METRO_STATION_TABLES = ['rapid_metro_station', 'delhi_metro_station', 'proposed_metro_station'];
+const POWER_ASSET_TABLES = ['electric_station', 'distribution_transformer', 'hv_transformer'];
+const UTILITY_LINE_TABLES = ['water_network', 'sewerage_line', 'sec_oh_electric_line', 'hvpnl_line'];
 
 function ensurePool() {
   const pool = getPool();
@@ -34,22 +52,8 @@ function assertValidLocation(input) {
   return {
     lat,
     lng,
-    sector: typeof input.sector === 'string' && input.sector.trim() ? input.sector.trim().toLowerCase() : DEFAULT_SECTOR,
+    sector: normalizeSector(typeof input.sector === 'string' && input.sector.trim() ? input.sector.trim() : DEFAULT_SECTOR),
   };
-}
-
-function clampScore(value) {
-  return Math.max(0, Math.min(100, Math.round(value)));
-}
-
-function proximityScore(distanceKm, maxKm) {
-  if (distanceKm === null || distanceKm === undefined) return 0;
-  return clampScore((1 - Math.min(distanceKm / maxKm, 1)) * 100);
-}
-
-function riskFromDistance(distanceKm, maxKm) {
-  if (distanceKm === null || distanceKm === undefined) return 0;
-  return clampScore((1 - Math.min(distanceKm / maxKm, 1)) * 100);
 }
 
 function tablePointSql() {
@@ -120,108 +124,69 @@ async function safeMinDistanceKm(pool, table, location, maxRadiusM) {
   }
 }
 
-async function scoreInfrastructure(pool, location) {
-  const [hospitals, schools, offices] = await Promise.all([
+async function gatherLocationFeatures(pool, location) {
+  const [
+    hospitals,
+    schools,
+    civicFacilities,
+    iti,
+    highwayKm,
+    railKm,
+    airportKm,
+    urbanKm,
+    metroKm,
+    busStops,
+    forestKm,
+    lowLyingKm,
+    waterBodyKm,
+    industrialKm,
+    licensedColonyKm,
+    waterNetwork,
+    utilityLines,
+    powerAssets,
+    roads,
+  ] = await Promise.all([
     safeCountWithin(pool, 'hospitals', location, 5000),
-    totalCountWithin(pool, ['govt_school', 'pm_shri_and_sanskriti_school', 'haryana_police_public_schools_point'], location, 5000),
-    totalCountWithin(pool, ['jails_point'], location, 5000),
-  ]);
-
-  const raw = hospitals * 15 + schools * 10 + offices * 5;
-
-  return {
-    score: clampScore(raw),
-    metrics: {
-      radiusKm: 5,
-      hospitals,
-      schools,
-      governmentOffices: offices,
-      formula: 'min(100, hospitals*15 + schools*10 + offices*5)',
-    },
-  };
-}
-
-async function scoreAccessibility(pool, location) {
-  const [highwayKm, railKm, airportKm, urbanKm] = await Promise.all([
+    totalCountWithin(pool, SCHOOL_TABLES, location, 5000),
+    totalCountWithin(pool, CIVIC_TABLES, location, 5000),
+    safeCountWithin(pool, 'iti', location, 5000),
     safeMinDistanceKm(pool, 'roads_line', location, 20000),
     safeMinDistanceKm(pool, 'rail_network', location, 30000),
     safeMinDistanceKm(pool, 'airports', location, 60000),
     safeMinDistanceKm(pool, 'municipal_boundary', location, 50000),
-  ]);
-
-  const highwayScore = proximityScore(highwayKm, 20);
-  const railScore = proximityScore(railKm, 30);
-  const airportScore = proximityScore(airportKm, 60);
-  const urbanScore = proximityScore(urbanKm, 50);
-
-  const score = highwayScore * 0.3 + railScore * 0.25 + airportScore * 0.25 + urbanScore * 0.2;
-
-  return {
-    score: clampScore(score),
-    metrics: {
-      nearestRoadKm: highwayKm,
-      nearestRailKm: railKm,
-      nearestAirportKm: airportKm,
-      nearestMunicipalBoundaryKm: urbanKm,
-      formula: '0.3*highway + 0.25*rail + 0.25*airport + 0.2*urban',
-    },
-  };
-}
-
-async function scoreEnvironmentalRisk(pool, location) {
-  const [forestKm, lowLyingKm, waterBodyKm] = await Promise.all([
+    nearestDistanceKm(pool, METRO_STATION_TABLES, location, 25000),
+    safeCountWithin(pool, 'bus_stops', location, 2000),
     safeMinDistanceKm(pool, 'forest_area', location, 10000),
     safeMinDistanceKm(pool, 'low_lying_area', location, 10000),
     nearestDistanceKm(pool, ['haryana_rivers', 'ponds', 'wetlands'], location, 5000),
-  ]);
-
-  const forestRisk = riskFromDistance(forestKm, 10);
-  const floodRisk = riskFromDistance(lowLyingKm, 10);
-  const waterRisk = riskFromDistance(waterBodyKm, 5);
-  const airQualityRisk = 0;
-  const risk = forestRisk * 0.4 + floodRisk * 0.3 + waterRisk * 0.2 + airQualityRisk * 0.1;
-
-  return {
-    score: clampScore(100 - risk),
-    risk: clampScore(risk),
-    metrics: {
-      nearestForestKm: forestKm,
-      nearestLowLyingAreaKm: lowLyingKm,
-      nearestWaterBodyKm: waterBodyKm,
-      airQualityRisk,
-      formula: '100 - min(100, forest*0.4 + flood*0.3 + water*0.2 + air*0.1)',
-    },
-  };
-}
-
-async function scoreZoneCompatibility(pool, location, sector, environmentalRiskResult = null) {
-  const environmentalRiskPromise = environmentalRiskResult ? Promise.resolve(environmentalRiskResult) : scoreEnvironmentalRisk(pool, location);
-  const [industrialKm, licensedColonyKm, utilities, roads, environmentalRisk] = await Promise.all([
     safeMinDistanceKm(pool, 'hsiidc_boundary', location, 10000),
     safeMinDistanceKm(pool, 'licensed_colony', location, 2000),
     safeCountWithin(pool, 'water_network', location, 2000),
+    totalCountWithin(pool, UTILITY_LINE_TABLES, location, 2000),
+    totalCountWithin(pool, POWER_ASSET_TABLES, location, 3000),
     safeCountWithin(pool, 'roads_line', location, 3000),
-    environmentalRiskPromise,
   ]);
 
-  let raw = 50;
-  if (sector === 'industrial' && industrialKm !== null) raw += 10;
-  if (licensedColonyKm !== null) raw -= 15;
-  if (utilities > 0) raw += 20;
-  if (roads > 0) raw += 15;
-  if (environmentalRisk.risk >= 50) raw -= 25;
-
   return {
-    score: clampScore(raw),
-    metrics: {
-      sector,
-      nearestIndustrialZoneKm: industrialKm,
-      nearestLicensedColonyKm: licensedColonyKm,
-      waterNetworkWithin2Km: utilities,
-      roadsWithin3Km: roads,
-      environmentalRisk: environmentalRisk.risk,
-      formula: 'base 50 + industrial cluster 10 - residential 15 + utilities 20 + transport 15 - constraints 25',
-    },
+    hospitals,
+    schools,
+    civicFacilities,
+    iti,
+    highwayKm,
+    railKm,
+    airportKm,
+    urbanKm,
+    metroKm,
+    busStops,
+    forestKm,
+    lowLyingKm,
+    waterBodyKm,
+    industrialKm,
+    licensedColonyKm,
+    waterNetwork,
+    utilityLines,
+    powerAssets,
+    roads,
   };
 }
 
@@ -243,20 +208,61 @@ function buildScoreFeature(location, overallScore, scores) {
 async function scoreLocation(input) {
   const location = assertValidLocation(input || {});
   const pool = ensurePool();
-
-  const [infrastructure, accessibility, environmentalRisk] = await Promise.all([
-    scoreInfrastructure(pool, location),
-    scoreAccessibility(pool, location),
-    scoreEnvironmentalRisk(pool, location),
+  const [features, aqiStation, zoning] = await Promise.all([
+    gatherLocationFeatures(pool, location),
+    nearestStationAqi(location),
+    gatherZoningContext(pool, location),
   ]);
-  const zoneCompatibility = await scoreZoneCompatibility(pool, location, location.sector, environmentalRisk);
 
-  const overallScore = clampScore(
-    infrastructure.score * 0.3 +
-      accessibility.score * 0.3 +
-      environmentalRisk.score * 0.2 +
-      zoneCompatibility.score * 0.2
-  );
+  const infrastructure = computeInfrastructureScore({
+    hospitals: features.hospitals,
+    schools: features.schools,
+    civicFacilities: features.civicFacilities,
+    iti: features.iti,
+  });
+
+  const accessibility = computeAccessibilityScore({
+    nearestRoadKm: features.highwayKm,
+    nearestRailKm: features.railKm,
+    nearestAirportKm: features.airportKm,
+    nearestMunicipalBoundaryKm: features.urbanKm,
+    nearestMetroKm: features.metroKm,
+    busStopsWithin2Km: features.busStops,
+    sector: location.sector,
+  });
+
+  const environmentalRisk = computeEnvironmentalScore({
+    nearestForestKm: features.forestKm,
+    nearestLowLyingAreaKm: features.lowLyingKm,
+    nearestWaterBodyKm: features.waterBodyKm,
+    nearestMunicipalBoundaryKm: features.urbanKm,
+    nearestIndustrialZoneKm: features.industrialKm,
+    roadsWithin3Km: features.roads,
+    stationAqi: aqiStation?.aqi ?? null,
+  });
+
+  if (aqiStation && environmentalRisk.metrics) {
+    environmentalRisk.metrics.aqiStation = aqiStation.stationName;
+    environmentalRisk.metrics.aqiDistanceKm = aqiStation.distanceKm;
+  }
+
+  const zoneCompatibility = computeZoneCompatibilityScore({
+    sector: location.sector,
+    nearestIndustrialZoneKm: features.industrialKm,
+    nearestLicensedColonyKm: features.licensedColonyKm,
+    waterNetworkWithin2Km: features.waterNetwork + features.utilityLines,
+    powerAssetsWithin3Km: features.powerAssets,
+    roadsWithin3Km: features.roads,
+    environmentalRisk: environmentalRisk.risk,
+    nearestMetroKm: features.metroKm,
+    hospitalsWithin5Km: features.hospitals,
+    schoolsWithin5Km: features.schools,
+    nearestWaterBodyKm: features.waterBodyKm,
+    insideHsiidc: zoning.insideHsiidc,
+    landUseClass: zoning.landUseClass,
+    controlledAreaKm: zoning.controlledAreaKm,
+    developmentPlanKm: zoning.developmentPlanKm,
+  });
 
   const scores = {
     infrastructure: infrastructure.score,
@@ -265,23 +271,26 @@ async function scoreLocation(input) {
     zoneCompatibility: zoneCompatibility.score,
   };
 
+  const { overallScore, weights } = computeOverallScore(scores, location.sector);
+
+  const details = {
+    infrastructure,
+    accessibility,
+    environmentalRisk,
+    zoneCompatibility,
+  };
+
   return {
     location,
     overallScore,
     scores,
-    details: {
-      infrastructure,
-      accessibility,
-      environmentalRisk,
-      zoneCompatibility,
-    },
+    details,
+    zoning,
+    aqiStation,
     visualization: buildScoreFeature(location, overallScore, scores),
-    weights: {
-      infrastructure: 0.3,
-      accessibility: 0.3,
-      environmentalRisk: 0.2,
-      zoneCompatibility: 0.2,
-    },
+    weights,
+    scoringVersion: SCORING_VERSION,
+    scoreBreakdown: buildScoreBreakdown({ scores, details, weights, sector: location.sector }),
   };
 }
 
@@ -298,24 +307,26 @@ async function scoreBatch(input) {
   for (let offset = 0; offset < locations.length; offset += BATCH_CONCURRENCY) {
     const chunk = locations.slice(offset, offset + BATCH_CONCURRENCY);
     const chunkResults = await Promise.all(
-      chunk.map(async (location, chunkIndex) => {
+      chunk.map(async (loc, chunkIndex) => {
         const index = offset + chunkIndex;
-        const result = await scoreLocation({ ...location, sector: location.sector || input.sector });
+        const result = await scoreLocation({ ...loc, sector: loc.sector || input.sector });
         return { index, ...result };
       })
     );
     results.push(...chunkResults);
   }
 
-  const averageScore = clampScore(results.reduce((sum, item) => sum + item.overallScore, 0) / results.length);
+  const averageScore = Math.round(results.reduce((sum, item) => sum + item.overallScore, 0) / results.length);
   return {
     count: results.length,
     averageScore,
     results,
+    scoringVersion: SCORING_VERSION,
   };
 }
 
 module.exports = {
   scoreLocation,
   scoreBatch,
+  gatherLocationFeatures,
 };

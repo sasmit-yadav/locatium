@@ -61,6 +61,12 @@ const mapServerReferer =
 const mapServerExchangeUrl =
   (process.env.MAP_SERVER_EXCHANGE_URL || '').trim() || 'https://hsacggm.in/host';
 
+/** ML service base URL (Phase 4 — optional; scoring falls back when unreachable) */
+const mlServiceUrl = (process.env.ML_SERVICE_URL || 'http://localhost:8000').replace(/\/$/, '');
+
+/** ML client HTTP timeout (ms) — roadmap default 2500 */
+const mlServiceTimeoutMs = Number(process.env.ML_SERVICE_TIMEOUT_MS) || 2500;
+
 module.exports = {
   PORT,
   corsOrigins,
@@ -83,4 +89,6 @@ module.exports = {
   mapServerTokenUrl,
   mapServerReferer,
   mapServerExchangeUrl,
+  mlServiceUrl,
+  mlServiceTimeoutMs,
 };

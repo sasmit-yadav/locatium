@@ -7,6 +7,11 @@ async function getOpportunities(req, res) {
   res.json(result);
 }
 
+async function listDistricts(req, res) {
+  const result = await investorOpportunities.listDistricts();
+  res.json(result);
+}
+
 async function getZones(req, res) {
   const result = await investorOpportunities.getZones(req.query || {});
   res.json(result);
@@ -81,12 +86,33 @@ async function emailReport(req, res) {
   res.json(result);
 }
 
+async function getPlotInventory(req, res) {
+  const result = await investorOpportunities.getPlotInventory(req.params.zoneId, req.query || {});
+  res.json(result);
+}
+
+async function generatePortfolioReport(req, res) {
+  const { zoneIds, sector, portfolioName } = req.body || req.query || {};
+  const ids = Array.isArray(zoneIds) ? zoneIds : String(zoneIds || '').split(',').filter(Boolean);
+  const report = await investorReports.generatePortfolioReport({
+    zoneIds: ids,
+    sector: sector || 'industrial',
+    portfolioName: portfolioName || 'Investor portfolio',
+  });
+  res.setHeader('Content-Type', 'application/pdf');
+  res.setHeader('Content-Disposition', `attachment; filename="${report.filename}"`);
+  res.send(report.buffer);
+}
+
 module.exports = {
   getOpportunities,
+  listDistricts,
   getZones,
   getZoneAnalysis,
   compareZones,
+  getPlotInventory,
   generateReport,
+  generatePortfolioReport,
   listReports,
   downloadReport,
   emailReport,

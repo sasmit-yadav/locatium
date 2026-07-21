@@ -36,6 +36,7 @@ export function DashboardMapPage() {
   const toggleLeft = useDashboardStore((s) => s.toggleLeft);
   const toggleRight = useDashboardStore((s) => s.toggleRight);
   const toggleLayer = useDashboardStore((s) => s.toggleLayer);
+  const investorHighlights = useDashboardStore((s) => s.investorHighlights);
 
   const [identify, setIdentify] = useState({
     open: false,
@@ -224,6 +225,7 @@ export function DashboardMapPage() {
               goToRequest={goToRequest}
               onMapReady={setMapInstance}
               highlightFeature={highlightFeature}
+              investorHighlights={investorHighlights}
             />
           </MapErrorBoundary>
 

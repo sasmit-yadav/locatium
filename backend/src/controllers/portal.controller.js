@@ -94,6 +94,61 @@ async function getStats(req, res) {
   res.json(stats);
 }
 
+async function listPipeline(req, res) {
+  const userId = req.user.id;
+  const items = await portalService.listPipeline(userId);
+  res.json({ count: items.length, stages: portalService.PIPELINE_STAGES, items });
+}
+
+async function upsertPipelineItem(req, res) {
+  const userId = req.user.id;
+  const { zoneId, stage, notes } = req.body || {};
+  const item = await portalService.upsertPipelineItem(userId, zoneId, stage, notes);
+  res.status(201).json(item);
+}
+
+async function deletePipelineItem(req, res) {
+  const userId = req.user.id;
+  const { id } = req.params;
+  const result = await portalService.deletePipelineItem(userId, id);
+  res.json(result);
+}
+
+async function listPortfolios(req, res) {
+  const items = await portalService.listPortfolios(req.user.id);
+  res.json({ count: items.length, portfolios: items });
+}
+
+async function upsertPortfolio(req, res) {
+  const item = await portalService.upsertPortfolio(req.user.id, req.body || {});
+  res.status(201).json(item);
+}
+
+async function subscribeSearchAlert(req, res) {
+  const result = await portalService.subscribeSearchAlert(req.user.id, req.body || {});
+  res.status(201).json(result);
+}
+
+async function listSearchAlerts(req, res) {
+  const alerts = await portalService.listSearchAlerts(req.user.id);
+  res.json({ count: alerts.length, alerts });
+}
+
+async function deleteSearchAlert(req, res) {
+  const result = await portalService.deleteSearchAlert(req.user.id, req.params.id);
+  res.json(result);
+}
+
+async function deletePortfolio(req, res) {
+  const result = await portalService.deletePortfolio(req.user.id, req.params.id);
+  res.json(result);
+}
+
+async function getSharedPortfolio(req, res) {
+  const portfolio = await portalService.getPortfolioByShareToken(req.params.token);
+  res.json(portfolio);
+}
+
 module.exports = {
   saveSearch,
   listSearches,
@@ -108,4 +163,14 @@ module.exports = {
   listAnalysisHistory,
   clearAnalysisHistory,
   getStats,
+  listPipeline,
+  upsertPipelineItem,
+  deletePipelineItem,
+  listPortfolios,
+  upsertPortfolio,
+  deletePortfolio,
+  getSharedPortfolio,
+  subscribeSearchAlert,
+  listSearchAlerts,
+  deleteSearchAlert,
 };

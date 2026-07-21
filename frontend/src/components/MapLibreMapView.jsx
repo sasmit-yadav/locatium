@@ -14,6 +14,57 @@ import { colors } from '../design-system/tokens';
 const HIGHLIGHT_SOURCE = 'selection-highlight';
 const HIGHLIGHT_FILL = 'selection-highlight-fill';
 const HIGHLIGHT_RING = 'selection-highlight-ring';
+const INVESTOR_OPP_SOURCE = 'investor-opportunity-highlights';
+const INVESTOR_ZONE_FILL = 'investor-zone-fill';
+const INVESTOR_ZONE_LINE = 'investor-zone-outline';
+const INVESTOR_ZONE_MARKER = 'investor-zone-marker';
+const INVESTOR_ZONE_LABEL = 'investor-zone-label';
+
+const SCORE_COLOR_EXPR = [
+  'interpolate',
+  ['linear'],
+  ['get', 'score'],
+  0,
+  colors.dataSequential.low,
+  55,
+  colors.dataSequential.mid,
+  75,
+  colors.dataSequential.high,
+];
+
+/** Zone polygons + centroid markers/labels so users read “zones”, not dots. */
+function toInvestorZoneGeoJson(features = []) {
+  const out = [];
+  for (const feature of features) {
+    const props = feature.properties || {};
+    const geometry = feature.geometry;
+    const lng =
+      props.centerLng ??
+      (geometry?.type === 'Point' ? geometry.coordinates?.[0] : null);
+    const lat =
+      props.centerLat ??
+      (geometry?.type === 'Point' ? geometry.coordinates?.[1] : null);
+    const label = props.label || `#${props.rank ?? '?'} · ${props.score ?? '—'}`;
+    const shared = { ...props, label };
+
+    if (geometry?.type === 'Polygon' || geometry?.type === 'MultiPolygon') {
+      out.push({
+        type: 'Feature',
+        geometry,
+        properties: { ...shared, featureRole: 'boundary' },
+      });
+    }
+
+    if (Number.isFinite(lng) && Number.isFinite(lat)) {
+      out.push({
+        type: 'Feature',
+        geometry: { type: 'Point', coordinates: [lng, lat] },
+        properties: { ...shared, featureRole: 'marker' },
+      });
+    }
+  }
+  return { type: 'FeatureCollection', features: out };
+}
 
 export function MapLibreMapView({
   basemapId,
@@ -24,6 +75,7 @@ export function MapLibreMapView({
   goToRequest,
   onMapReady,
   highlightFeature = null,
+  investorHighlights = null,
 }) {
   const containerRef = useRef(null);
   const mapRef = useRef(null);
@@ -169,7 +221,7 @@ export function MapLibreMapView({
         tileLoadingRef.current = false;
         emitTileStatus({
           loading: false,
-          error: 'Some overlay tiles could not load. Check backend + PostGIS import.',
+          error: 'Some map layers could not load. Try refreshing or check your connection.',
         });
       }
     });
@@ -352,9 +404,124 @@ export function MapLibreMapView({
     return undefined;
   }, [highlightFeature, basemapId]);
 
+  useEffect(() => {
+    const map = mapRef.current;
+    if (!map || map._removed || !styleReadyRef.current) return undefined;
+
+    const layerIds = [INVESTOR_ZONE_LABEL, INVESTOR_ZONE_MARKER, INVESTOR_ZONE_LINE, INVESTOR_ZONE_FILL];
+    const clearInvestorLayers = () => {
+      for (const id of layerIds) {
+        if (map.getLayer(id)) map.removeLayer(id);
+      }
+      if (map.getSource(INVESTOR_OPP_SOURCE)) map.removeSource(INVESTOR_OPP_SOURCE);
+    };
+
+    const features = investorHighlights?.features || [];
+    if (!features.length) {
+      clearInvestorLayers();
+      return undefined;
+    }
+
+    const geojson = toInvestorZoneGeoJson(features);
+    if (!map.getSource(INVESTOR_OPP_SOURCE)) {
+      map.addSource(INVESTOR_OPP_SOURCE, { type: 'geojson', data: geojson });
+    } else {
+      map.getSource(INVESTOR_OPP_SOURCE).setData(geojson);
+    }
+
+    if (!map.getLayer(INVESTOR_ZONE_FILL)) {
+      map.addLayer({
+        id: INVESTOR_ZONE_FILL,
+        type: 'fill',
+        source: INVESTOR_OPP_SOURCE,
+        filter: ['==', ['get', 'featureRole'], 'boundary'],
+        paint: {
+          'fill-color': SCORE_COLOR_EXPR,
+          'fill-opacity': 0.28,
+        },
+      });
+    }
+
+    if (!map.getLayer(INVESTOR_ZONE_LINE)) {
+      map.addLayer({
+        id: INVESTOR_ZONE_LINE,
+        type: 'line',
+        source: INVESTOR_OPP_SOURCE,
+        filter: ['==', ['get', 'featureRole'], 'boundary'],
+        paint: {
+          'line-color': colors.accent.default,
+          'line-width': ['interpolate', ['linear'], ['get', 'rank'], 1, 3.5, 5, 2],
+          'line-opacity': 0.95,
+        },
+      });
+    }
+
+    if (!map.getLayer(INVESTOR_ZONE_MARKER)) {
+      map.addLayer({
+        id: INVESTOR_ZONE_MARKER,
+        type: 'circle',
+        source: INVESTOR_OPP_SOURCE,
+        filter: ['==', ['get', 'featureRole'], 'marker'],
+        paint: {
+          'circle-radius': ['interpolate', ['linear'], ['get', 'rank'], 1, 11, 5, 7],
+          'circle-color': SCORE_COLOR_EXPR,
+          'circle-opacity': 0.95,
+          'circle-stroke-width': 2,
+          'circle-stroke-color': '#FFFFFF',
+        },
+      });
+    }
+
+    if (!map.getLayer(INVESTOR_ZONE_LABEL)) {
+      map.addLayer({
+        id: INVESTOR_ZONE_LABEL,
+        type: 'symbol',
+        source: INVESTOR_OPP_SOURCE,
+        filter: ['==', ['get', 'featureRole'], 'marker'],
+        layout: {
+          'text-field': ['get', 'label'],
+          'text-size': 11,
+          'text-font': ['Open Sans Semibold', 'Arial Unicode MS Regular'],
+          'text-offset': [0, 1.35],
+          'text-anchor': 'top',
+          'text-allow-overlap': true,
+          'text-max-width': 14,
+        },
+        paint: {
+          'text-color': colors.text.primary,
+          'text-halo-color': '#FFFFFF',
+          'text-halo-width': 1.6,
+        },
+      });
+    }
+
+    return undefined;
+  }, [investorHighlights, basemapId]);
+
+  const highlightCount = investorHighlights?.features?.length || 0;
+
   return (
     <div className="relative h-full w-full">
       <div ref={containerRef} className="maplibre-map-container h-full w-full" aria-label="Map" />
+      {highlightCount > 0 ? (
+        <div className="pointer-events-none absolute bottom-14 left-3 z-[1050] max-w-[240px] rounded-lg border border-ds-border bg-ds-surface-raised/95 p-3 shadow-ds-sm backdrop-blur-sm">
+          <div className="text-[10px] font-bold uppercase tracking-[0.14em] text-ds-accent">Top investment zones</div>
+          <p className="mt-1 text-[11px] leading-4 text-ds-text-secondary">
+            Shaded boundaries = ranked zones from the Investor list. Color = opportunity score. Click a row in the list to fly here.
+          </p>
+          <div className="mt-2 flex items-center gap-2 text-[10px] text-ds-text-tertiary">
+            <span className="inline-block h-2.5 w-5 rounded-sm" style={{ background: colors.dataSequential.low }} />
+            Low
+            <span className="inline-block h-2.5 w-5 rounded-sm" style={{ background: colors.dataSequential.mid }} />
+            Mid
+            <span className="inline-block h-2.5 w-5 rounded-sm" style={{ background: colors.dataSequential.high }} />
+            High
+          </div>
+          <div className="mt-1 text-[10px] font-semibold text-ds-text-secondary">
+            Showing {highlightCount} top zone{highlightCount === 1 ? '' : 's'}
+          </div>
+        </div>
+      ) : null}
       {import.meta.env.DEV && debugInfo ? (
         <div className="pointer-events-none absolute bottom-3 left-3 z-[1050] rounded-lg border border-white/10 bg-black/75 px-2 py-1 font-mono text-[10px] text-white/70">
           z{debugInfo.zoom} · layers {debugInfo.layers?.length ?? 0} · features {debugInfo.visibleFeatures ?? 0}

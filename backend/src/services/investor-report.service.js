@@ -241,7 +241,7 @@ function renderSummaryBlock(doc, analysis) {
   sectionTitle(doc, 'Executive Summary');
   paragraph(
     doc,
-    `This report evaluates ${analysis.zone.name} in ${analysis.zone.district} for the ${analysis.sector} sector using verified PostGIS scoring and local infrastructure context. The current recommendation is ${recommendation.verdict.toUpperCase()}, driven by an opportunity score of ${analysis.opportunity.opportunityScore} and the underlying location scores shown below.`
+    `This report evaluates ${analysis.zone.name} in ${analysis.zone.district} for the ${analysis.sector} sector using verified location scoring and local infrastructure context. The current recommendation is ${recommendation.verdict.toUpperCase()}, driven by an opportunity score of ${analysis.opportunity.opportunityScore} and the underlying location scores shown below.`
   );
   doc.moveDown(0.4);
 
@@ -358,7 +358,7 @@ function renderEnvironmentalPage(doc, analysis) {
   sectionTitle(doc, 'Methodology');
   paragraph(
     doc,
-    'This report is generated from the live analysis API. Scores are derived from verified local PostGIS layers and the current recommendation logic in the application backend. It should be used for screening and comparison, not as a legal or regulatory substitute.'
+    'This report is generated from the live analysis API. Scores are derived from verified local map layers and the current recommendation logic. It should be used for screening and comparison, not as a legal or regulatory substitute.'
   );
 }
 
@@ -383,6 +383,108 @@ function renderClosingPage(doc, analysis, generatedAtIso) {
   doc.moveDown(0.4);
   sectionTitle(doc, 'Disclaimer');
   paragraph(doc, 'LOCATIUM reports summarize currently available spatial data. They do not replace legal due diligence, site visits, title verification, environmental clearance, or sector-specific approvals.');
+}
+
+function renderExtendedSections(doc, analysis) {
+  if (analysis.regulatoryChecklist?.length) {
+    doc.addPage();
+    drawHeader(doc, analysis.zone.name, 'Regulatory checklist');
+    drawFooter(doc, doc.bufferedPageRange()?.count || 6);
+    doc.y = 92;
+    sectionTitle(doc, 'Regulatory & compliance checklist');
+    bulletList(
+      doc,
+      analysis.regulatoryChecklist.map((item) => `${item.label}: ${item.status} — ${item.note}`)
+    );
+  }
+
+  if (analysis.financialPreview) {
+    doc.addPage();
+    drawHeader(doc, analysis.zone.name, 'Financial preview');
+    drawFooter(doc, doc.bufferedPageRange()?.count || 7);
+    doc.y = 92;
+    sectionTitle(doc, 'Illustrative investment model');
+    const fp = analysis.financialPreview;
+    bulletList(doc, [
+      `Land cost: ₹${formatNumber(fp.landCostInr)}`,
+      `Build cost: ₹${formatNumber(fp.buildCostInr)}`,
+      `Total capex: ₹${formatNumber(fp.totalCapexInr)}`,
+      `Simple ROI (base): ${fp.scenarios?.[1]?.roiPct ?? 'N/A'}%`,
+      `Payback (years): ${fp.paybackYears ?? 'N/A'}`,
+      fp.disclaimer,
+    ]);
+  }
+
+  if (analysis.plotInventory?.plots?.length) {
+    doc.addPage();
+    drawHeader(doc, analysis.zone.name, 'Plot inventory');
+    drawFooter(doc, doc.bufferedPageRange()?.count || 8);
+    doc.y = 92;
+    sectionTitle(doc, `Plot inventory (${analysis.plotInventory.count} parcels)`);
+    bulletList(
+      doc,
+      analysis.plotInventory.plots.slice(0, 20).map(
+        (p) => `${p.name} · ${p.statusLabel || p.status} · ${p.areaAcres ? formatAcres(p.areaAcres) : 'area N/A'}`
+      )
+    );
+    if (analysis.plotInventory.policyLinks?.length) {
+      doc.moveDown(0.3);
+      sectionTitle(doc, 'Policy references');
+      bulletList(doc, analysis.plotInventory.policyLinks.map((p) => `${p.title} — ${p.citation || ''}`));
+    }
+  }
+
+  if (analysis.analysis?.narrative?.summary) {
+    doc.addPage();
+    drawHeader(doc, analysis.zone.name, 'AI narrative brief');
+    drawFooter(doc, doc.bufferedPageRange()?.count || 9);
+    doc.y = 92;
+    sectionTitle(doc, 'Location intelligence narrative');
+    paragraph(doc, analysis.analysis.narrative.summary);
+  }
+}
+
+async function generatePortfolioReport({ zoneIds, sector = 'industrial', portfolioName = 'Portfolio' }) {
+  if (!Array.isArray(zoneIds) || zoneIds.length < 1) {
+    throw AppError.badRequest('zoneIds must be a non-empty array');
+  }
+
+  const analyses = [];
+  for (const zoneId of zoneIds.slice(0, 12)) {
+    analyses.push(await investorOpportunities.getZoneAnalysis(zoneId, { sector, includeGeometry: 'false' }));
+  }
+
+  const doc = new PDFDocument({ size: 'A4', margin: 42, autoFirstPage: false });
+  const bufferPromise = collectPdfBuffer(doc);
+
+  doc.addPage();
+  drawHeader(doc, portfolioName, `Portfolio comparison · ${analyses.length} zones`);
+  drawFooter(doc, 1);
+  doc.y = 104;
+  sectionTitle(doc, 'Zone ranking summary');
+  bulletList(
+    doc,
+    analyses
+      .sort((a, b) => (b.opportunity?.opportunityScore || 0) - (a.opportunity?.opportunityScore || 0))
+      .map(
+        (a, i) =>
+          `#${i + 1} ${a.zone.name} (${a.zone.district}) — score ${a.opportunity?.opportunityScore} · ${a.recommendation?.verdict}`
+      )
+  );
+
+  for (const analysis of analyses) {
+    doc.addPage();
+    drawHeader(doc, analysis.zone.name, `${analysis.zone.district} · portfolio member`);
+    drawFooter(doc, doc.bufferedPageRange()?.count || 2);
+    doc.y = 92;
+    renderSummaryBlock(doc, analysis);
+    drawScoreBars(doc, analysis.analysis.scores);
+  }
+
+  doc.end();
+  const buffer = await bufferPromise;
+  const filename = `${slugifyFilename(portfolioName)}-portfolio-report.pdf`;
+  return { buffer, filename, zoneCount: analyses.length };
 }
 
 async function generateReport(zoneId, query = {}) {
@@ -416,6 +518,7 @@ async function generateReport(zoneId, query = {}) {
   renderOverviewPage(doc, analysis);
   renderInfrastructurePage(doc, analysis);
   renderEnvironmentalPage(doc, analysis);
+  renderExtendedSections(doc, analysis);
   renderClosingPage(doc, analysis, generatedAt);
 
   doc.end();
@@ -544,6 +647,7 @@ async function emailReport({ to, zoneId, reportId, message, query = {} }) {
 
 module.exports = {
   generateReport,
+  generatePortfolioReport,
   listReports,
   getReportById,
   emailReport,

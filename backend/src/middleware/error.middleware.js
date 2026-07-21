@@ -31,14 +31,16 @@ function notFoundHandler(_req, res, _next) {
   res.status(404).json({ error: 'Not found' });
 }
 
-function errorHandler(err, _req, res, _next) {
+function errorHandler(err, req, res, _next) {
   if (err instanceof AppError) {
     const body = { error: err.message };
+    if (req?.requestId) body.requestId = req.requestId;
     if (err.details !== undefined) body.details = err.details;
     res.status(err.statusCode).json(body);
     return;
   }
-  console.error(err);
+  if (req?.requestId) console.error(`[${req.requestId}]`, err);
+  else console.error(err);
   res.status(500).json({ error: 'Internal server error' });
 }
 

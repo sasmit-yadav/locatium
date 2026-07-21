@@ -55,14 +55,14 @@ export function facilityBarOption(details = {}) {
   const values = [
     infrastructure.hospitals || 0,
     infrastructure.schools || 0,
-    infrastructure.governmentOffices || 0,
+    (infrastructure.civicFacilities || 0) + (infrastructure.iti || 0),
   ];
   return {
     backgroundColor: 'transparent',
     grid: { left: 28, right: 8, top: 20, bottom: 30 },
     xAxis: {
       type: 'category',
-      data: ['Hospitals', 'Schools', 'Offices'],
+      data: ['Hospitals', 'Schools', 'Civic/ITI'],
       axisLabel: axisLabel(),
       axisLine: axisLine(),
     },
@@ -89,7 +89,7 @@ export function infrastructureHeatmapOption(details = {}) {
   const rows = [
     ['Hospitals', infrastructure.hospitals || 0],
     ['Schools', infrastructure.schools || 0],
-    ['Govt offices', infrastructure.governmentOffices || 0],
+    ['Civic / ITI', (infrastructure.civicFacilities || 0) + (infrastructure.iti || 0)],
     ['Water lines', utilities.waterLinesWithin2Km || 0],
     ['Electric assets', utilities.electricAssetsWithin2Km || 0],
     ['Roads', transport.roadsWithin3Km || 0],
@@ -146,7 +146,7 @@ export function accessibilityContourOption(details = {}) {
     ['Road', transport.nearestRoadKm, 20],
     ['Rail', transport.nearestRailKm, 30],
     ['Airport', transport.nearestAirportKm, 60],
-    ['Bus', transport.nearestBusStopKm, 15],
+    ['Metro', transport.nearestMetroKm, 25],
   ];
 
   const normalized = points.map(([, distance, cap]) => {

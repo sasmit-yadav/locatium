@@ -53,7 +53,9 @@ async function run() {
   });
   assert.equal(score.res.status, 200);
   assert.ok(score.body.overallScore >= 0, 'overall score');
-  console.log(`✅ POST /api/analysis/score-location (overall=${score.body.overallScore})`);
+  assert.equal(score.body.method, 'heuristic', 'scoring method');
+  assert.ok(score.body.model_version, 'model version');
+  console.log(`✅ POST /api/analysis/score-location (overall=${score.body.overallScore}, method=${score.body.method})`);
 
   // Investor
   const opp = await json('/api/investor/opportunities?sector=industrial&limit=3');

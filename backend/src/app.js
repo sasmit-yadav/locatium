@@ -14,6 +14,14 @@ const adminRoutes = require('./routes/admin.routes');
 const mapsController = require('./controllers/maps.controller');
 const { proxyMapService } = require('./controllers/mapservice-proxy.controller');
 const { mapsRateLimiter } = require('./middleware/maps-rate-limit.middleware');
+const {
+  authLimiter,
+  portalLimiter,
+  investorLimiter,
+  analysisLimiter,
+  adminLimiter,
+} = require('./middleware/general-rate-limit.middleware');
+const { requestId } = require('./middleware/request-id.middleware');
 const { notFoundHandler, errorHandler } = require('./middleware/error.middleware');
 const asyncHandler = require('./middleware/async-handler');
 
@@ -21,6 +29,8 @@ function createApp() {
   const app = express();
 
   app.disable('x-powered-by');
+
+  app.use(requestId);
 
   app.use(
     cors({
@@ -36,16 +46,16 @@ function createApp() {
   app.get('/ready', asyncHandler(healthReady));
   app.get('/api/ready', asyncHandler(healthReady));
 
-  app.use('/api/auth', authRoutes);
+  app.use('/api/auth', authLimiter, authRoutes);
 
   app.use('/api', mapsRateLimiter, geocodeRoutes);
   app.use('/api', mapsRateLimiter, mapsRoutes);
   app.use('/api/features', mapsRateLimiter, featuresRoutes);
   app.use('/api/harsac', mapsRateLimiter, harsacRoutes);
-  app.use('/api/analysis', mapsRateLimiter, analysisRoutes);
-  app.use('/api/investor', mapsRateLimiter, investorRoutes);
-  app.use('/api/portal', mapsRateLimiter, portalRoutes);
-  app.use('/api/admin', mapsRateLimiter, adminRoutes);
+  app.use('/api/analysis', analysisLimiter, analysisRoutes);
+  app.use('/api/investor', investorLimiter, investorRoutes);
+  app.use('/api/portal', portalLimiter, portalRoutes);
+  app.use('/api/admin', adminLimiter, adminRoutes);
 
   /** Optional ArcGIS MapServer REST proxy (legacy / tools). Frontend uses cached `/api/tiles` instead. */
   app.use('/api/mapservice', mapsRateLimiter, asyncHandler(proxyMapService));

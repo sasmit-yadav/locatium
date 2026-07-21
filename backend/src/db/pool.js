@@ -18,6 +18,9 @@ function getPool() {
       statement_timeout: Number(process.env.PG_STATEMENT_TIMEOUT_MS) || 15000,
       query_timeout: Number(process.env.PG_QUERY_TIMEOUT_MS) || 20000,
     });
+    pool.on('error', (err) => {
+      console.error('[pg pool] idle client error:', err.message);
+    });
   }
   return pool;
 }

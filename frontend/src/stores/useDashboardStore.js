@@ -34,6 +34,7 @@ export const useDashboardStore = create((set) => ({
   isInspectorPinned: false,
   apiLatencyMs: null,
   tileStatus: { loading: false, error: null },
+  investorHighlights: null,
   setActiveWorkspace: (activeWorkspace) => set({ activeWorkspace }),
   setActiveLeftTab: (activeLeftTab) => set({ activeLeftTab }),
   setCommandPaletteOpen: (isCommandPaletteOpen) => set({ isCommandPaletteOpen }),
@@ -45,6 +46,7 @@ export const useDashboardStore = create((set) => ({
   setMapInstance: (mapInstance) => set({ mapInstance }),
   setTileStatus: (patch) => set((state) => ({ tileStatus: { ...state.tileStatus, ...patch } })),
   setApiLatencyMs: (apiLatencyMs) => set({ apiLatencyMs }),
+  setInvestorHighlights: (investorHighlights) => set({ investorHighlights }),
   setSelectedLocation: (selectedLocation) => set({ selectedLocation }),
   setSelectedFeature: (selectedFeature) => set({ selectedFeature }),
   flyTo: ({ lng, lat, zoom = 12, name, type, feature }) =>

@@ -9,7 +9,23 @@ async function parseJsonResponse(res, fallbackMessage) {
   return json;
 }
 
-export async function getInvestorOpportunities({ sector = 'industrial', budget = '', risk = 'medium', zoneType = '', district = '', limit = 6 } = {}) {
+export async function getInvestorDistricts() {
+  const res = await fetch(`${getMapsApiOrigin()}/api/investor/districts`);
+  const data = await parseJsonResponse(res, 'Investor districts failed');
+  return data.districts || [];
+}
+
+export async function getInvestorOpportunities({
+  sector = 'industrial',
+  budget = '',
+  risk = 'medium',
+  zoneType = '',
+  district = '',
+  limit = 6,
+  nearLat = null,
+  nearLng = null,
+  nearRadiusKm = 25,
+} = {}) {
   const params = new URLSearchParams();
   params.set('sector', sector);
   params.set('risk', risk);
@@ -17,6 +33,11 @@ export async function getInvestorOpportunities({ sector = 'industrial', budget =
   if (budget) params.set('budget', budget);
   if (zoneType) params.set('zoneType', zoneType);
   if (district) params.set('district', district);
+  if (nearLat != null && nearLng != null) {
+    params.set('nearLat', String(nearLat));
+    params.set('nearLng', String(nearLng));
+    params.set('nearRadiusKm', String(nearRadiusKm));
+  }
 
   const res = await fetch(`${getMapsApiOrigin()}/api/investor/opportunities?${params.toString()}`);
   return parseJsonResponse(res, 'Investor opportunities failed');
@@ -97,4 +118,23 @@ export async function emailInvestorReport({ to, zoneId, reportId, sector = 'indu
     body: JSON.stringify({ to, zoneId, reportId, sector, message }),
   });
   return parseJsonResponse(res, 'Failed to email report');
+}
+
+export async function getPlotInventory(zoneId, sector = 'industrial') {
+  const params = new URLSearchParams({ sector });
+  const res = await fetch(`${getMapsApiOrigin()}/api/investor/plots/${encodeURIComponent(zoneId)}?${params}`);
+  return parseJsonResponse(res, 'Failed to load plot inventory');
+}
+
+export async function downloadPortfolioReport({ zoneIds, sector = 'industrial', portfolioName = 'Portfolio' }) {
+  const res = await authFetch(`${getMapsApiOrigin()}/api/investor/portfolio-report`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ zoneIds, sector, portfolioName }),
+  });
+  if (!res.ok) throw new Error(`Portfolio PDF failed (${res.status})`);
+  const blob = await res.blob();
+  const disposition = res.headers.get('content-disposition') || '';
+  const match = disposition.match(/filename="?([^";]+)"?/i);
+  return { blob, filename: match?.[1] || 'portfolio-report.pdf' };
 }

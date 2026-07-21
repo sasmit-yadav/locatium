@@ -12,8 +12,16 @@
     "dev": "node --watch src/server.js",
     "db:migrate": "node db/migrate.js",
     "verify": "node scripts/verify-setup.js",
+    "test": "node --test tests/scoring-engine.test.js tests/scoring-orchestrator.test.js tests/investor-opportunity.engine.test.js",
     "test:portal": "node scripts/test-portal.js",
-    "test:smoke": "node scripts/test-api-smoke.js"
+    "test:investor": "node scripts/test-investor-api.js",
+    "test:investor-portal": "node scripts/test-investor-portal.js",
+    "warm:investor": "node scripts/warm-investor-cache.js",
+    "test:smoke": "node scripts/test-api-smoke.js",
+    "test:ml": "node scripts/test-ml-integration.js",
+    "train:ml": "cd ../ml-service && python scripts/train_investment_model.py",
+    "refresh:zone-features": "node scripts/refresh-zone-features.js",
+    "alerts:run": "node scripts/run-investor-alerts.js"
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",

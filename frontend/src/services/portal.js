@@ -123,3 +123,84 @@ export async function getWorkspaceStats() {
   const res = await authFetch(`${origin}/api/portal/stats`);
   return parseJsonResponse(res, 'Failed to load workspace stats');
 }
+
+// === INVESTOR PIPELINE ===
+
+export async function getPipelineBoard() {
+  const origin = getMapsApiOrigin();
+  const res = await authFetch(`${origin}/api/portal/pipeline`);
+  return parseJsonResponse(res, 'Failed to list pipeline');
+}
+
+export async function listPipeline() {
+  const data = await getPipelineBoard();
+  return data.items || [];
+}
+
+export async function upsertPipelineItem({ zoneId, stage, notes }) {
+  const origin = getMapsApiOrigin();
+  const res = await authFetch(`${origin}/api/portal/pipeline`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ zoneId, stage, notes }),
+  });
+  return parseJsonResponse(res, 'Failed to update pipeline');
+}
+
+export async function deletePipelineItem(id) {
+  const origin = getMapsApiOrigin();
+  const res = await authFetch(`${origin}/api/portal/pipeline/${id}`, { method: 'DELETE' });
+  return parseJsonResponse(res, 'Failed to remove pipeline item');
+}
+
+export async function listPortfolios() {
+  const origin = getMapsApiOrigin();
+  const res = await authFetch(`${origin}/api/portal/portfolios`);
+  const data = await parseJsonResponse(res, 'Failed to list portfolios');
+  return data.portfolios || [];
+}
+
+export async function upsertPortfolio(payload) {
+  const origin = getMapsApiOrigin();
+  const res = await authFetch(`${origin}/api/portal/portfolios`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify(payload),
+  });
+  return parseJsonResponse(res, 'Failed to save portfolio');
+}
+
+export async function subscribeSearchAlert({ savedSearchId, email, minScoreDelta = 5 }) {
+  const origin = getMapsApiOrigin();
+  const res = await authFetch(`${origin}/api/portal/search-alerts`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ savedSearchId, email, minScoreDelta }),
+  });
+  return parseJsonResponse(res, 'Failed to subscribe to alerts');
+}
+
+export async function listSearchAlerts() {
+  const origin = getMapsApiOrigin();
+  const res = await authFetch(`${origin}/api/portal/search-alerts`);
+  const data = await parseJsonResponse(res, 'Failed to list alerts');
+  return data.alerts || [];
+}
+
+export async function deleteSearchAlert(id) {
+  const origin = getMapsApiOrigin();
+  const res = await authFetch(`${origin}/api/portal/search-alerts/${id}`, { method: 'DELETE' });
+  return parseJsonResponse(res, 'Failed to delete alert');
+}
+
+export async function deletePortfolio(id) {
+  const origin = getMapsApiOrigin();
+  const res = await authFetch(`${origin}/api/portal/portfolios/${id}`, { method: 'DELETE' });
+  return parseJsonResponse(res, 'Failed to delete portfolio');
+}
+
+export async function getSharedPortfolio(token) {
+  const origin = getMapsApiOrigin();
+  const res = await fetch(`${origin}/api/portal/portfolios/share/${token}`);
+  return parseJsonResponse(res, 'Failed to load shared portfolio');
+}

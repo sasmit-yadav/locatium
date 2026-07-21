@@ -1,0 +1,103 @@
+/**
+ * Live investor API verification — run with backend up:
+ *   node scripts/test-investor-api.js
+ */
+
+const BASE = process.env.API_URL || 'http://localhost:3002';
+
+async function get(path) {
+  const res = await fetch(`${BASE}${path}`);
+  const json = await res.json().catch(() => ({}));
+  return { ok: res.ok, status: res.status, json };
+}
+
+function check(label, pass, detail = '') {
+  const icon = pass ? 'PASS' : 'FAIL';
+  console.log(`${icon}  ${label}${detail ? ` — ${detail}` : ''}`);
+  return pass;
+}
+
+async function main() {
+  console.log(`\nInvestor API live test → ${BASE}\n`);
+
+  const health = await get('/api/health');
+  if (!check('Health', health.ok, health.status)) {
+    console.error('\nBackend not running. Start: cd backend && npm run dev\n');
+    process.exit(1);
+  }
+
+  const t0 = Date.now();
+  const opp = await get('/api/investor/opportunities?sector=industrial&district=Gurugram&limit=5');
+  const elapsed = Date.now() - t0;
+
+  check('GET /opportunities', opp.ok, `${opp.status}`);
+  const data = opp.json;
+  const zones = data?.opportunities || [];
+  check('opportunityVersion present', Boolean(data?.opportunityVersion), data?.opportunityVersion);
+  check('zones returned', zones.length > 0, `count=${zones.length}`);
+  check('elapsedMs in response', typeof data?.elapsedMs === 'number', `${data?.elapsedMs}ms (wall ${elapsed}ms)`);
+  check('mapHighlights', Array.isArray(data?.mapHighlights) && data.mapHighlights.length > 0, `${data?.mapHighlights?.length} highlights`);
+
+  const z = zones[0] || {};
+  check('#1 v3 scoreBreakdown', Array.isArray(z.scoreBreakdown) && z.scoreBreakdown.length > 0, `${z.scoreBreakdown?.length} rows`);
+  check('#1 v3Scores', z.v3Scores && typeof z.v3Scores.infrastructure === 'number');
+  check('#2 land cost / budget fields', z.components?.estimatedLandCostInr != null || z.landValue?.estimatedPerSqYardInr != null);
+  check('#2 investable area (not full estate)', z.investableArea?.acres != null && z.investableArea.acres <= 25, `${z.investableArea?.acres} ac (${z.investableArea?.source})`);
+  check('#2 capex realistic', z.financialPreview?.totalCapexInr != null && z.financialPreview.totalCapexInr < 500_000_000, `₹${((z.financialPreview?.totalCapexInr || 0) / 1e7).toFixed(1)} cr`);
+  check('#10 availability', Boolean(z.availability?.label));
+  check('#10 keyRisk', Boolean(z.keyRisk));
+  check('#10 verdict', Boolean(z.verdict));
+  check('#11 plotInventory', z.plotInventory != null, `plots=${z.plotInventory?.count ?? 0} mode=${z.plotInventory?.matchMode ?? 'n/a'}`);
+  check('#12 CLU score', z.components?.cluScore != null, String(z.components?.cluScore));
+  check('#13 utility', z.utilityReadiness != null, z.utilityReadiness);
+  check('#14 regulatoryChecklist', Array.isArray(z.regulatoryChecklist) && z.regulatoryChecklist.length > 0);
+  check('#15 financialPreview', z.financialPreview != null, `capex=${z.financialPreview?.totalCapexInr ?? 'n/a'}`);
+  check('#16 ML fields', z.mlScore != null || z.mlMethod != null, `ml=${z.mlScore} method=${z.mlMethod}`);
+  const hsiidcZones = await get('/api/investor/opportunities?sector=industrial&district=Gurugram&limit=20');
+  const hsiidc = (hsiidcZones.json?.opportunities || []).find((r) => r.tableId === 'hsiidc_boundary');
+  check(
+    '#16 ML rank for HSIIDC',
+    Boolean(hsiidc && (hsiidc.mlMethod === 'ml' || hsiidc.mlMethod === 'zone_outcomes')),
+    hsiidc ? `${hsiidc.name} method=${hsiidc.mlMethod} mlScore=${hsiidc.mlScore}` : 'no HSIIDC zone'
+  );
+  check('#17 benchmark/comparables', Boolean(z.benchmark?.message || z.benchmark?.comparableMessage || z.benchmark?.districtAverage != null));
+  check('#18 opportunityBreakdown', Array.isArray(z.opportunityBreakdown) && z.opportunityBreakdown.length > 0);
+  check('#19 dataSource', Boolean(z.dataSource?.geometry && z.dataSource?.scores));
+
+  const budgetMedium = await get('/api/investor/opportunities?sector=industrial&district=Gurugram&budget=medium&limit=5');
+  check('#2 budget=medium returns zones', budgetMedium.ok && (budgetMedium.json?.opportunities || []).length > 0, `count=${budgetMedium.json?.opportunities?.length ?? 0}`);
+
+  const near = await get('/api/investor/opportunities?sector=industrial&nearLat=28.45&nearLng=76.9&nearRadiusKm=25&limit=5');
+  check('#3 near-me filter', near.ok && (near.json?.opportunities || []).some((r) => r.distanceKm != null));
+
+  if (zones.length >= 2) {
+    const ids = zones.slice(0, 2).map((x) => x.id).join(',');
+    const cmp = await get(`/api/investor/compare-zones?zones=${encodeURIComponent(ids)}&sector=industrial`);
+    const matrix = cmp.json?.matrix || [];
+    check('#4 compare matrix', cmp.ok && matrix.length >= 2, `${matrix.length} rows`);
+    check('#4 matrix has land/env/clu', matrix[0]?.landPerSqYard != null || matrix[0]?.environmentalSuitability != null);
+  }
+
+  if (z.id) {
+    const plots = await get(`/api/investor/plots/${encodeURIComponent(z.id)}?sector=industrial`);
+    check('#11 plots endpoint', plots.ok, `count=${plots.json?.count ?? 0} mode=${plots.json?.matchMode ?? 'n/a'}`);
+
+    const analysis = await get(`/api/investor/zone-analysis/${encodeURIComponent(z.id)}?sector=industrial&includeGeometry=false`);
+    check('zone-analysis', analysis.ok);
+    check('#14 analysis regulatory', Array.isArray(analysis.json?.regulatoryChecklist));
+    check('#15 analysis financial', analysis.json?.financialPreview != null);
+    check('#20 analysis narrative', Boolean(analysis.json?.analysis?.narrative?.summary || analysis.json?.analysis?.insights?.summary));
+  }
+
+  const t1 = Date.now();
+  const cached = await get('/api/investor/opportunities?sector=industrial&district=Gurugram&limit=5');
+  const cacheElapsed = Date.now() - t1;
+  check('#6 cache speed (2nd request)', cached.ok && cacheElapsed < 2000, `wall ${cacheElapsed}ms`);
+
+  console.log('\nDone.\n');
+}
+
+main().catch((err) => {
+  console.error(err);
+  process.exit(1);
+});
