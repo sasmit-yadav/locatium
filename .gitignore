@@ -9,7 +9,6 @@ node_modules/
 .env
 .env.local
 .env.*
-!.env.example
 
 # Logs & OS Clutter
 *.log
@@ -40,4 +39,7 @@ backend/reports/
 # Tooling & IDE Clutter
 .vscode/
 .idea/
-.codex/
+.codex/
+tmp/
+*.dump
+

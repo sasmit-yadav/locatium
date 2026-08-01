@@ -8,8 +8,8 @@ const { warmInvestorCache } = require('./services/investor-cache-warm.service');
 
 const app = createApp();
 
-app.listen(PORT, () => {
-  console.log(`LOCATIUM API listening on http://localhost:${PORT}`);
+app.listen(PORT, '0.0.0.0', () => {
+  console.log(`LOCATIUM API listening on http://0.0.0.0:${PORT}`);
   console.log(`Health: http://localhost:${PORT}/health  (liveness — no DB check)`);
   console.log(`Ready:  http://localhost:${PORT}/ready   (PostgreSQL)`);
   console.log(`Auth:   POST http://localhost:${PORT}/api/auth/register | login | refresh | logout`);
@@ -24,7 +24,7 @@ app.listen(PORT, () => {
     else console.warn('Database: not configured or unreachable');
   })();
   startInvestorAlertJob();
-  if (process.env.INVESTOR_CACHE_WARM !== 'false') {
+  if (process.env.INVESTOR_CACHE_WARM === 'true') {
     warmInvestorCache()
       .then((r) => console.log(`Investor cache warm: ${r.success}/${r.queries} queries`))
       .catch((err) => console.warn('Investor cache warm skipped:', err.message));

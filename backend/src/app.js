@@ -34,9 +34,26 @@ function createApp() {
 
   app.use(requestId);
 
+  const allowAllCors = corsOrigins.includes('*');
   app.use(
     cors({
-      origin: corsOrigins.length ? corsOrigins : true,
+      origin(origin, callback) {
+        // No Origin (same-origin / server-to-server) or explicit *
+        if (!origin || allowAllCors || corsOrigins.length === 0) {
+          callback(null, true);
+          return;
+        }
+        if (corsOrigins.includes(origin)) {
+          callback(null, true);
+          return;
+        }
+        // Resume / preview deploys on any *.vercel.app
+        if (/\.vercel\.app$/i.test(origin)) {
+          callback(null, true);
+          return;
+        }
+        callback(new Error(`Not allowed by CORS: ${origin}`));
+      },
       credentials: true,
     })
   );
