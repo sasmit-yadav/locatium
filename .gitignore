@@ -1,18 +1,43 @@
+# Markdown Files (Ignored as requested)
+*.md
+**/*.md
+
 # Dependencies
 node_modules/
 
-# Environment (secrets)
+# Environment & Secrets
 .env
 .env.local
-.env.*.local
+.env.*
+!.env.example
 
-# Logs & OS
+# Logs & OS Clutter
 *.log
 npm-debug.log*
+yarn-debug.log*
+dev.err.log
+dev.out.log
 .DS_Store
 Thumbs.db
 
-backend/email-outbox/
+# Python & ML Caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
 
-docs/
-roadmap.md
+# Build & Dist Outputs
+dist/
+build/
+.vite/
+
+# Temporary & Generated Project Files
+backend/email-outbox/
+backend/reports/
+*.sqlite
+*.db
+
+# Tooling & IDE Clutter
+.vscode/
+.idea/
+.codex/
