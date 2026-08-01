@@ -1,0 +1,200 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Rewari,Dahina,Olat,MT Road,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Olat,Olat,agricultural,545.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Olat,Olat,agricultural,693.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Olat,Olat,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Olat,Olat,commercial,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Olat,Up to 2 killa depth from road,agricultural,693.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Kawali,MT Road,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Kawali,Kawali,agricultural,570.25,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Kawali,Kawali,agricultural,627.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Kawali,Kawali,agricultural,545.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Kawali,Kawali,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Kawali,Kawali,commercial,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Kawali,Up to 2 killa depth from road,agricultural,627.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Kahari,METALAD ROAD,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Kahari,Kahari,agricultural,545.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Kahari,Kahari,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Kahari,Kahari,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Kahari,Kahari,commercial,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Kahari,Up to 2 killa depth from road,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Kumroda,METALAD ROAD,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Kumroda,Kumroda,agricultural,545.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Kumroda,Kumroda,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Kumroda,Kumroda,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Kumroda,Kumroda,commercial,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Kumroda,Up to 2 killa depth from road,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Khaleta,METALAD ROAD,agricultural,636.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Khaleta,Khaleta,agricultural,590.91,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Khaleta,Khaleta,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Khaleta,Khaleta,commercial,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Khaleta,Up to 2 killa depth from road,agricultural,636.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Khushpura,METALAD ROAD,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Khushpura,Khushpura,agricultural,545.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Khushpura,Khushpura,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Khushpura,Khushpura,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Khushpura,Khushpura,commercial,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Khushpura,Up to 2 killa depth from road,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,GothraTappaDahina,METALAD ROAD,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,GothraTappaDahina,Gothra Tappa Dahina,agricultural,545.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,GothraTappaDahina,Gothra Tappa Dahina,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,GothraTappaDahina,Gothra Tappa Dahina,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,GothraTappaDahina,Gothra Tappa Dahina,commercial,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,GothraTappaDahina,Up to 2 killa depth from road,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Dahina,MT Road,agricultural,727.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Dahina,Dahina,agricultural,659.09,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Dahina,Dahina,agricultural,784.09,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Dahina,Dahina,residential,5500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Dahina,Dahina,commercial,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Dahina,Up to 2 killa depth from road,agricultural,784.09,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,ChowkiNo.2,METALAD ROAD,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,ChowkiNo.2,Chowki No. 2,agricultural,545.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,ChowkiNo.2,Chowki No. 2,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,ChowkiNo.2,Chowki No. 2,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,ChowkiNo.2,Chowki No. 2,commercial,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,ChowkiNo.2,Up to 2 killa depth from road,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Jainabad,MT Road,agricultural,727.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Jainabad,Jainabad,agricultural,689.05,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Jainabad,Jainabad,agricultural,819.73,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Jainabad,Jainabad,agricultural,659.09,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Jainabad,Jainabad,residential,5500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Jainabad,Jainabad,commercial,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Jainabad,Up to 2 killa depth from road,agricultural,819.73,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,DhaniThatharBath,METALAD ROAD,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,DhaniThatharBath,Dhani Thathar Bath,agricultural,545.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,DhaniThatharBath,Dhani Thathar Bath,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,DhaniThatharBath,Dhani Thathar Bath,commercial,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,DhaniThatharBath,Up to 2 killa depth from road,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Daleni,METALAD ROAD,agricultural,636.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Daleni,Daleni,agricultural,590.91,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Daleni,Daleni,agricultural,636.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Daleni,Daleni,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Daleni,Daleni,commercial,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Daleni,Up to 2 killa depth from road,agricultural,636.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Didoli,MT Road,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Didoli,Didoli,agricultural,545.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Didoli,Didoli,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Didoli,Didoli,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Didoli,Didoli,commercial,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Didoli,Up to 2 killa depth from road,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Dhawana,METALAD ROAD,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Dhawana,Dhawana,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Dhawana,Dhawana,agricultural,545.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Dhawana,Dhawana,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Dhawana,Dhawana,commercial,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Dhawana,Up to 2 killa depth from road,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,NangalMundi,MT Road,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,NangalMundi,Nangal Mundi,agricultural,693.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,NangalMundi,Nangal Mundi,agricultural,545.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,NangalMundi,Nangal Mundi,residential,3300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,NangalMundi,Nangal Mundi,commercial,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,NangalMundi,Up to 2 killa depth from road,agricultural,693.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Nimoth,METALAD ROAD,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Nimoth,Nimoth,agricultural,545.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Nimoth,Nimoth,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Nimoth,Nimoth,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Nimoth,Nimoth,commercial,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Nimoth,Up to 2 killa depth from road,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,FatehpuriTappaDahina,METALAD ROAD,agricultural,636.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,FatehpuriTappaDahina,Fatehpuri Tappa Dahina,agricultural,590.91,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,FatehpuriTappaDahina,Fatehpuri Tappa Dahina,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,FatehpuriTappaDahina,Fatehpuri Tappa Dahina,commercial,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,FatehpuriTappaDahina,Up to 2 killa depth from road,agricultural,636.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,BaldhanKalan,METALAD ROAD,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,BaldhanKalan,Baldhan Kalan,agricultural,595.04,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,BaldhanKalan,Baldhan Kalan,agricultural,654.55,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,BaldhanKalan,Baldhan Kalan,agricultural,545.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,BaldhanKalan,Baldhan Kalan,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,BaldhanKalan,Baldhan Kalan,commercial,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,BaldhanKalan,Up to 2 killa depth from road,agricultural,654.55,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,BaldhanKhurd,METALAD ROAD,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,BaldhanKhurd,Baldhan Khurd,agricultural,570.25,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,BaldhanKhurd,Baldhan Khurd,agricultural,627.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,BaldhanKhurd,Baldhan Khurd,agricultural,545.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,BaldhanKhurd,Baldhan Khurd,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,BaldhanKhurd,Baldhan Khurd,commercial,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,BaldhanKhurd,Up to 2 killa depth from road,agricultural,627.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Bitodi,METALAD ROAD,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Bitodi,Bitodi,agricultural,545.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Bitodi,Bitodi,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Bitodi,Bitodi,commercial,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Bitodi,Up to 2 killa depth from road,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Budoli,MT Road,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Budoli,Budoli,agricultural,545.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Budoli,Budoli,agricultural,693.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Budoli,Budoli,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Budoli,Budoli,commercial,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Budoli,Up to 2 killa depth from road,agricultural,693.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Bohka,METALAD ROAD,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Bohka,Bohka,agricultural,545.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Bohka,Bohka,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Bohka,Bohka,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Bohka,Bohka,commercial,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Bohka,Up to 2 killa depth from road,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Mandola,METALAD ROAD,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Mandola,Mandola,agricultural,545.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Mandola,Mandola,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Mandola,Mandola,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Mandola,Mandola,commercial,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Mandola,Up to 2 killa depth from road,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Masit,METALAD ROAD,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Masit,Masit,agricultural,545.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Masit,Masit,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Masit,Masit,commercial,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Masit,Up to 2 killa depth from road,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Mayan,METALAD ROAD,agricultural,636.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Mayan,Mayan,agricultural,590.91,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Mayan,Mayan,agricultural,636.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Mayan,Mayan,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Mayan,Mayan,commercial,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Mayan,Up to 2 killa depth from road,agricultural,636.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Mundi,MT Road,agricultural,636.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Mundi,Mundi,agricultural,590.91,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Mundi,Mundi,agricultural,693.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Mundi,Mundi,residential,4400,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Mundi,Mundi,commercial,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Mundi,Up to 2 killa depth from road,agricultural,693.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,MotlaKalan,METALAD ROAD,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,MotlaKalan,Motla Kalan,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,MotlaKalan,Motla Kalan,agricultural,545.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,MotlaKalan,Motla Kalan,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,MotlaKalan,Motla Kalan,commercial,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,MotlaKalan,Up to 2 killa depth from road,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,MotlaKhurd,METALAD ROAD,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,MotlaKhurd,Motla Khurd,agricultural,545.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,MotlaKhurd,Motla Khurd,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,MotlaKhurd,Motla Khurd,commercial,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,MotlaKhurd,Up to 2 killa depth from road,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Rampuri,METALAD ROAD,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Rampuri,Rampuri,agricultural,545.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Rampuri,Rampuri,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Rampuri,Rampuri,commercial,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Rampuri,Up to 2 killa depth from road,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Lisan,METALAD ROAD,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Lisan,Lisan,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Lisan,Lisan,agricultural,545.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Lisan,Lisan,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Lisan,Lisan,commercial,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Lisan,Up to 2 killa depth from road,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Lohana,METALAD ROAD,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Lohana,Lohana,agricultural,595.04,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Lohana,Lohana,agricultural,545.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Lohana,Lohana,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Lohana,Lohana,commercial,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Lohana,Up to 2 killa depth from road,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,ShriNagar,METALAD ROAD,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,ShriNagar,Shri Nagar,agricultural,545.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,ShriNagar,Shri Nagar,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,ShriNagar,Shri Nagar,commercial,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,ShriNagar,Up to 2 killa depth from road,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Siha,MT Road,agricultural,727.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Siha,Siha,agricultural,659.09,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Siha,Siha,agricultural,784.09,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Siha,Siha,residential,4400,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Siha,Siha,commercial,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Siha,Up to 2 killa depth from road,agricultural,784.09,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Dahina,Built-up Category A,residential,10800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Dahina,Built-up Category B,residential,8100,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Dahina,Built-up Category C,residential,6300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Dahina,Plot under 1 marla commercial,commercial,8000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Dahina,Dahina,State Highway Rewari-Mahendragarh non-agricultural,commercial,8000,2026-04-01,rewari_gov_in_dc_notification

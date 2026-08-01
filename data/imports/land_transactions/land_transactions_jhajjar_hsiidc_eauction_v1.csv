@@ -1,0 +1,3 @@
+district,tehsil,village,sector_type,price_per_sq_yard_inr,area_sq_yards,lat,lng,transaction_date,source,deed_id,consideration_inr,area_unit,notes
+Jhajjar,Bahadurgarh,IE Bahadurgarh,industrial,35493.59,2152.78,28.6912,76.93144,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-bahadurgarh-1800,76410000,sqm,HSIIDC FY24-25 reserve (IE Bahadurgarh); reserve ₹42450/sqm
+Jhajjar,Bahadurgarh,IE Bahadurgarh,industrial,35493.59,7175.94,28.692,76.932,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-bahadurgarh-6000,254700000,sqm,HSIIDC FY24-25 reserve (IE Bahadurgarh); reserve ₹42450/sqm

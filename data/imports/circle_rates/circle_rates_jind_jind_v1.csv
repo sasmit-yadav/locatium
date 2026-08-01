@@ -1,0 +1,633 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Jind,Jind,Anupgarh,along National Highway,agricultural,1800.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Anupgarh,Anoopgarh,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Anupgarh,Anoopgarh,residential,2783,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Anupgarh,Anoopgarh to shamlo khurd on road,agricultural,1006.25,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Anupgarh,Jind Rohtak road sadak bhoomi,agricultural,1336.36,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Amarheri,Agricultural land along the road,agricultural,2835.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Amarheri,Agricultural land in Hadud,agricultural,2835.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Amarheri,amarheri,agricultural,2756.25,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Amarheri,amarheri,residential,5946,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Amarheri,AMARHERI OUT OF MC,agricultural,2756.25,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Amarheri,Commercial land on the main road on both the national highways,commercial,16896,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Amarheri,gupta colony amarheri road,residential,8096,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Amarheri,HANUMAN NAGAR AMARHERI,residential,8855,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Amarheri,In MC Limit On Road,agricultural,2835.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Amarheri,In MC Limit with road,agricultural,2835.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Amarheri,In MC Limit sadak se peeche,agricultural,2835.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Amarheri,jwahar nagar jind,residential,8855,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Amarheri,om nagar jind,residential,8855,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Amarheri,raj nagar jind,residential,8050,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Amarheri,shiv ya shitalpuri colony,residential,8050,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Amarheri,kaiyal road apollo road se seema tak,commercial,28248,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Amarheri,harit nagar amarheri,residential,7337,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Ashrafgarh,Agricultural land along the road,agricultural,1254.55,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Ashrafgarh,Ashrafgarh,agricultural,926.65,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Ashrafgarh,Road along National Highway,agricultural,1890.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Ashrafgarh,Road along National Highway,commercial,16896,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Ashrafgarh,krishi jameen sadak ke sath,agricultural,1254.55,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Ashrafgarh,Ashrafgarh,residential,5946,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Ahirka,Ahirka,agricultural,1811.25,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Ahirka,Ahirka,agricultural,1732.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Ahirka,Ahirka,residential,5946,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Ahirka,Ahirka ander Hadud,agricultural,2835.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Ahirka,Apolo Road se chungi tak,commercial,28248,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Ahirka,HANUMAN NAGAR AHIRKA,residential,8855,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Ahirka,Harijan Colony,residential,8750,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Ahirka,In MC Limit On Road,agricultural,2835.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Ahirka,Jind kaithal Narwana Road sadak bhoomi,agricultural,2835.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Ahirka,Krishi Bhoomi Hadud Ke ander,agricultural,2835.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Ahirka,Nagar Parishad se bahar sadak ke sath,agricultural,1890.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Ahirka,National Highway ke pass Vyaparik,commercial,16896,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Ahirka,Raj Nagar Jind,residential,8050,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Ahirka,Shivpuri Colony,residential,8050,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Asan,agriculture land with road,agricultural,926.65,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Asan,Assan,agricultural,540.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Asan,Assan,residential,2783,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Ikkas,Hansi Road on Main Street,agricultural,1375.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Ikkas,Ikkas,agricultural,784.09,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Ikkas,Ikkas,residential,2783,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Ikkas,ikkas to jalalpur kalan now bypass,agricultural,1320.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Ikkas,ikkas to jalalpur kalan road,agricultural,1320.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Igrah,Igrah,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Igrah,Igrah,residential,2783,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Igrah,krishi sadak ke sath bhoomi,agricultural,776.25,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,IntalKalan,Barwala Road on Main Road,agricultural,718.75,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,IntalKalan,Intal Kalan,agricultural,575.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,IntalKalan,Intal Kalan,residential,2783,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,IntalKhurd,Agricultural land along the road,agricultural,750.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,IntalKhurd,Barwala Road main sadak,agricultural,750.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,IntalKhurd,From Rajpura to Jajwan road,agricultural,687.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,IntalKhurd,intalkhurd,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,IntalKhurd,intalkhurd,residential,2783,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Kandela,agriculture land with road,agricultural,1200.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Kandela,From Kandela to Shirag Road,agricultural,1100.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Kandela,Kandela,agricultural,625.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Kandela,Kandela,residential,2783,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Kishanpura,hadud andar kishanpura,agricultural,2698.98,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Kishanpura,jind rohtak road on main road,agricultural,2233.64,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Kishanpura,kishanpura,agricultural,988.64,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Kishanpura,kishanpura,residential,5693,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Kishanpura,Naitonal highway ke sath main sadak,agricultural,2233.64,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Kishanpura,Naitonal highway ke sath main sadak,commercial,16896,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Kishanpura,Raghu Nagar,residential,6900,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Kishanpura,rohtak road bypass to new anaj mandi,commercial,29040,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Kishanpura,Rohtak road new anaj mandi samne ke piche,residential,53383,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Kishanpura,nagar parishad se bahar sadak ke sath,agricultural,1159.09,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Kishanpura,rohtak road se petrol pump tak anaj mandi,commercial,29040,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Kairkheri,Kairkheri,agricultural,600.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Kairkheri,Kairkheri,residential,2783,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Kairkheri,Krishi jameen sadak ke sath,agricultural,747.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Kharakramji,Kharakramji,agricultural,510.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Kharakramji,Kharakramji,residential,2783,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Kharakramji,Kharakramji to assan on road,agricultural,690.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Kharakramji,Kharakramji to brah kalan on road,agricultural,690.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Kharakramji,Kharakramji to chabri on road,agricultural,690.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Kharakramji,Kharakramji to sindhavikhera on road,agricultural,690.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,KheriTaloda,Kheri Taloda,agricultural,625.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,KheriTaloda,Kheri Taloda,residential,3509,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,KheriTaloda,Sadak ke sath lagte,agricultural,1031.25,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Khokhari,Khokhari,agricultural,625.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Khokhari,Khokhari,residential,2783,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Khokhari,Khokhari se Bohatwala sadak,agricultural,1100.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Khokhari,Khokhari se Haibatpur sadak pr,agricultural,1100.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Khokhari,Khokhari se Mando Kheri sadak pr,agricultural,1100.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Khokhari,Khokhari se Nirjan sadak HP,agricultural,1100.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Khokhari,Krishi Jameen sadak ke sath,agricultural,1100.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Gulkani,Agricultural land along the road,agricultural,690.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Gulkani,Gunkali,agricultural,517.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Gulkani,Gunkali,residential,2783,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Govindpura,aasharm basti jind,residential,6325,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Govindpura,Aatma Nagar Govindpura,residential,7337,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Govindpura,Aatma Nagar Govindpura,commercial,19140,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Govindpura,Agricultural land along the road,agricultural,2362.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Govindpura,Ajmer Basti,residential,10450,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Govindpura,Ajmer Basti,commercial,19140,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Govindpura,Bhupender Nagar Jind,residential,10863,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Govindpura,Bhupender Nagar Jind,commercial,19140,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Govindpura,Budha Baba Basti Jind,residential,6325,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Govindpura,Bypaas bhiwani road ke sath,agricultural,2362.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Govindpura,Durga Colony Jind,residential,9775,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Govindpura,Govindpura,agricultural,1260.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Govindpura,Govindpura,residential,5946,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Govindpura,Gupta Colony Jind,residential,9152,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Govindpura,Gupta Colony Jind,commercial,15312,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Govindpura,IN MC on Govindpura Bhiwani Road,agricultural,2362.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Govindpura,IN MC on Govindpura Rohtak Road,agricultural,2362.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Govindpura,KHEM NAGAR GOVINDPURA,residential,10350,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Govindpura,KHEM NAGAR GOVINDPURA,commercial,19140,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Govindpura,N. P. me bypaas pr 50 feet tk,commercial,16896,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Govindpura,New Sharma Nagar,residential,9614,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Govindpura,New Sharma Nagar,commercial,19140,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Govindpura,NEW VISHWAKARMA COLONY ROHTAK ROAD,residential,8096,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Govindpura,Raghunagar,residential,6900,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Govindpura,Rajbaha se rohtak road bypaas,commercial,38148,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Govindpura,Ram Nagar Jind,residential,8855,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Govindpura,Ram Nagar Jind,commercial,26358,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Govindpura,Rohtak Raod se bhiwani road bypaas,commercial,26004,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Govindpura,Rohtak Road Bypass to New Anaj Mandi,commercial,29040,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Govindpura,The faatak se sima tk,commercial,24012,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Govindpura,Vikas Nagar Jind,residential,8855,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Govindpura,Vikas Nagar Jind,commercial,16104,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Dhimana,Ghimana,agricultural,600.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Dhimana,Ghimana,residential,3669,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Dhimana,Ghimana Bhiwani road ke sath,agricultural,1320.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Dhimana,Krishi Jameen sadak ke sath,agricultural,1320.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Dhimana,Dhimana Prime Khasra,agricultural,1320.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Chabri,agriculture land with road,agricultural,750.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Chabri,Chabri,agricultural,575.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Chabri,Chabri,residential,2783,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Chabri,Chabri se assan road ke sath,agricultural,750.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Chabri,Chabri to kharakramji with road,agricultural,750.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Chabri,Chabri to Nidana with road,agricultural,750.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,JalalpurKalan,Agricultural land along the road,agricultural,1312.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,JalalpurKalan,Agricultural land in Hadud,agricultural,1312.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,JalalpurKalan,Jalalpur Kalan,agricultural,1000.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,JalalpurKalan,Jalalpur Kalan,residential,5946,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,JalalpurKalan,Sohlu Colony,residential,6325,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,JalalpurKhurd,Agricultural land in Hadud,agricultural,2088.07,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,JalalpurKhurd,Hansi Road Rajbaha to Canal Square,commercial,21384,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,JalalpurKhurd,In MC Limit On Road,agricultural,2275.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,JalalpurKhurd,Jalalpur Khurd outside of Municipality,agricultural,1193.18,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,JalalpurKhurd,Jalalpur Khurd outside of Municipality,residential,5946,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,JalalpurKhurd,jalalpur khurd under nagar palika,agricultural,2088.07,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,JalalpurKhurd,Loco Colony Jind,residential,6900,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,JalalpurKhurd,Loco Colony Jind,commercial,24420,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,JalalpurKhurd,Neta Ji Colony Jind,residential,6900,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,JalalpurKhurd,railway crossing to rajwaha hansi road,commercial,26928,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,JalalpurKhurd,Rattan Colony,residential,6325,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,JalalpurKhurd,Rattan Colony,commercial,10032,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,JalalpurKhurd,With a road outside the municipality,agricultural,1400.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,JalalpurKhurd,jogindra nagar jalalpur khurd,residential,6900,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jajwan,Agricultural land with the road,agricultural,687.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jajwan,jajwan,agricultural,562.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jajwan,jajwan,residential,2783,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jeetgarh,Jeetgarh,agricultural,510.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jeetgarh,Jeetgarh,residential,2783,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jeetgarh,Jeetgarh se Roopgarh Sadak pr,agricultural,660.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jeetgarh,Jeetgarh se Shahpur sadak pr,agricultural,660.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jeetgarh,Krishi Jameen sadak ke sath,agricultural,660.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,in front of new anaj mandi rohtak road,commercial,32076,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,aadarsh nagar,residential,8855,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,Aara road ramrai gate to jhanjh gate,commercial,42768,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,aasharm basti,residential,6325,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,aatma nagar,residential,7337,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,aatma nagar,commercial,19140,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,Agricultural land behind the road outside the municipal council,agricultural,2835.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,Agricultural land in Hadud,agricultural,3465.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,agriculture land behind road,agricultural,3087.36,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,agriculture land behind road,residential,7717,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,ajmer basti and Bhupindra nagar,residential,9614,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,ajmer basti and Bhupindra nagar,commercial,19140,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,akta nagar model town,residential,8096,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,akta nagar model town,commercial,32890,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,amarheri road jwar mala road to water works,residential,8855,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,amarheri road jwar mala road to water works,commercial,16008,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,anand nagar near gurudwara,residential,5946,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,Apollo Road Narwana Road to Station,commercial,40524,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,apollo road to narwana road chungi commercial,commercial,28248,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,Asri Gate to Old Court Road,commercial,40524,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,bakhshi mohalla and kajiyan mohalla,residential,8464,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,basant vihar,residential,9654,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,basti on kila,residential,8096,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,batakh chowk to purani sabji mandi commercial,commercial,51084,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,behind new anaj mandi rohtak road,residential,53383,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,behind new and old sabji mandi,commercial,53460,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,bhagat singh colony behind mini sect.,residential,8050,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,bharat cinema to kanya pathshala commercial,commercial,53460,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,bharat nagar,residential,8096,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,bhatnagar colony,residential,9775,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,bhatnagar colony,commercial,19932,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,bhiwani road railway line crossing to hansi road railway line commercial,commercial,42768,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,bhiwani road sadak ke sath,agricultural,3465.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,bishambhar nagar,residential,8476,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,bishambhar nagar,commercial,26004,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,both side of van vibhag office tenris commercial,commercial,27456,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,budha baba basti bhiwani road,residential,6325,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,bulbul hotel to new sabji mandi commercial,commercial,71760,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,Bypass Gohana Road to Rohtak Road,commercial,16008,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,Bypass Rohtak Road to Bhiwani Road 30 feet,commercial,26004,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,chabri colony,residential,8050,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,chandar lok sohlu colony,residential,6325,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,chandar lok sohlu colony,commercial,10032,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,chauri gali rohtak road,residential,38836,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,colony behind bus stand,residential,14674,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,"defence colony, sector 10-11",residential,27720,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,"defence colony, sector 10-11",commercial,59532,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,delhi railway line crossing to nagar parishad boundary bhiwani road commercial,commercial,22968,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,devi lal auto market to main road commercial,commercial,42768,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,durga colony rohtak road,residential,9775,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,dyal bagh colony and om nagar,residential,8855,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,dyal bagh colony and om nagar,commercial,18850,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,Employees Colony Behind Court,residential,7475,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,Employees Colony with Bypass,residential,8050,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,fuwara chowk to city police station,commercial,108108,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,fuwara chowk to ramrai gate,commercial,73260,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,gandhi gali,commercial,99132,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,gandhi nagar rohtak road,residential,8855,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,gandhi nagar rohtak road,commercial,19932,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,gohana road bypass to nagar palika Boundary including pindara rakba of both sides of road commercial,commercial,26796,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,gohana road sadak ke sath,agricultural,3465.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,Gohana Road so Bal Bhawan Arjun Stadium ki side,commercial,64152,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,gopal nagar rohtak or bhiwani road,residential,13156,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,gopal nagar rohtak or bhiwani road,commercial,28380,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,govt college to both side of road of rani talab commercial,commercial,87665,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,gupta colony amarheri road,residential,8832,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,gupta colony amarheri road,commercial,15312,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,gupta colony vikas nagar bhiwani road,residential,8096,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,gupta colony vikas nagar bhiwani road,commercial,15312,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,gurudwara colony,residential,10063,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,gurudwara colony,commercial,19932,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,hakikat nagar ranbir or rambir colony,residential,9235,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,hakikat nagar ranbir or rambir colony,commercial,15312,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,hansi road sadak ke sath,agricultural,3465.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,Hanuman Gali ki aur se Dedhraj mohalla Kedi market,residential,27071,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,hanuman nagar jind,residential,8625,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,hargobindrai market chimangir ki pati towards hanuman gali and dedhraj mohala candy mrkt commercial,commercial,56496,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,Hargovind Rai Market,commercial,56496,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,hari nagar krishna colony,residential,8855,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,hari nagar krishna colony,commercial,15950,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,harijan colony,residential,8050,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,Hooda Market in front of DRDA,commercial,63106,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,housing board and old urban estate,residential,31878,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,housing board and old urban estate,commercial,59532,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,housing board residential,residential,27720,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,in middle of old city and old city,residential,23925,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,indra and janta bazar commercial,commercial,95810,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,indra colony and saini colony,residential,8096,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,indra colony and saini colony,commercial,15312,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,INDUSTRIAL AREA COMMERCIAL,commercial,12276,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,inside devilal auto market commercial,commercial,26004,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,ishwar nagar,residential,7717,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,ishwar nagar,commercial,18348,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,jain girls school to jayanti mandir,commercial,16104,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,Jhanjh gate to purani sabji mandi,commercial,78276,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,jogendra nagar hansi road,residential,6900,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,junction road,residential,8855,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,junction road,commercial,15312,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,kaithal road apollo road to nagar parishad,commercial,29532,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,kaithal road sadak ke sath,agricultural,3465.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,Kathmandi to aara ramrai gate,commercial,42768,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,kaushik nagar murba number 55 and 56,residential,23403,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,kaushik nagar murba number 55 and 56,commercial,44208,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,khatak basti,residential,8476,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,khatak basti,commercial,13728,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,khatikan moholla in front of milk plant,residential,5946,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,khatikan moholla in front of milk plant,commercial,10032,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,Khem Nagar,residential,10350,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,Khem Nagar,commercial,19140,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,kidar nagar behind sainik board,residential,11765,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,laxmi market bhiwani road,commercial,44220,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,laxmi nagar bhagwan nagar ram nagar,residential,8855,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,laxmi nagar bhagwan nagar ram nagar,commercial,26358,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,loco colony,residential,6900,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,loco colony,commercial,24420,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,main bazar mukhya gali hanuman gali tanga chowk and punjabi bazar commercial,commercial,103263,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,market to railway crossing excluding anaj mandi,commercial,44220,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,mini secretariat to both side of road of gohana road bypass commercial,commercial,42768,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,mini secretariat to both side of road of govt college commercial,commercial,57948,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,narwana road sadak ke sath,agricultural,3465.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,National Highway gohana road pull to Safidon road pull,commercial,30492,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,nehr colony railway road,residential,8855,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,nehr colony railway road,commercial,15312,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,netaji colony hansi road,residential,6900,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,New Anaj Mandi Commercial,commercial,55704,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,new jawahar nagar,residential,11500,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,new krishna colony rohtak road,residential,6900,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,new krishna colony rohtak road,commercial,22440,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,new market commercial,commercial,90024,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,new sabji mandi and in front of it commercial,commercial,44550,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,new sharma nagar colony bhiwani road,residential,8360,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,new sharma nagar colony bhiwani road,commercial,15950,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,new viswkarma,residential,7040,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,old anaj mandi and kathmandi commercial,commercial,61050,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,old city agarwal market shastri nagar,commercial,19140,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,"Old Court Road, Diwanakhana market",commercial,75020,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,outside boundary behind road,agricultural,2362.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,outside boundary behind road,residential,6710,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,panipat railway line crossing to delhi railway line crossing bhiwani road commercial,commercial,44550,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,park to Apollo road kaithal road commercial,commercial,34980,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,park to narwana road raja wali road apollo road commercial,commercial,31790,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,patiala chowk to narwana road kaithal road both side of park commercial,commercial,53460,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,patiala chowk to hansi road railway crossing commercial,commercial,35640,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,patiala chowk to station commercial,commercial,40040,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,prem nagar daya basti,residential,8096,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,pyare lal cloth market commercial area,residential,24541,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,pyare lal cloth market commercial area,commercial,68640,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,radha nagar jwahar nagar,residential,8855,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,radha nagar jwahar nagar,commercial,15312,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,raghubir sarup rohtal road,residential,14674,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,raghubir sarup rohtal road,commercial,26004,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,railway crossing to hansi road railway line commercial,commercial,42768,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,railway crossing to hansi road rajvaha commercial,commercial,28248,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,railway crossing to rajwaha rohtak road commercial,commercial,45804,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,railway line to van vibhag office commercial,commercial,26004,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,railway maal godaam road,residential,6452,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,raj nagar madan colony,residential,8050,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,rajbaha shiv colony,residential,14674,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,rajbaha to safidon road bypass,commercial,45804,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,rajendra nagar shanti nagar,residential,9235,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,rajendra nagar shanti nagar,commercial,15312,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,rajvaha to river choraha commercial,commercial,21384,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,rajvaha to rohtak road bypass,commercial,38148,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,ram colony school basti,residential,8050,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,rambakhsh colony and jain nagar,residential,8096,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,rambakhsh colony and jain nagar,commercial,15312,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,ranbir colony basant vihar,residential,9235,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,ranbir colony basant vihar,commercial,15312,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,rani talab to main market commercial,commercial,76296,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,rani talab to old sabji mandi jhanjh gate purani anaj mandi and kathmandi all plots of inner city,commercial,22968,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,rattan colony julani crosssing,residential,6900,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,rattan colony julani crosssing,commercial,10032,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,river to patiala chowk commercial,commercial,55890,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,rohtak road bypass to new anaj mandi commercial,commercial,29040,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,rohtak road khem nagar,residential,10350,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,rohtak road khem nagar,commercial,19140,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,rohtak road sadak ke sath,agricultural,3465.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,sadak ke sath safidon road,agricultural,3465.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,Safidon bypass to new bypass,commercial,38170,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,safidon gate to both side of road of rajbaha,commercial,53460,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,Safidon Road Bypass to Habatpur Road,commercial,21010,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,safidon road rajvaha to chungi,commercial,23280,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,SANKALP CITY SECTOR -15A- JIND,residential,25410,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,SANKALP CITY SECTOR -15A- JIND,commercial,49610,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,sant nagar,residential,7700,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,savitri nagar,residential,7700,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,savitri nagar,commercial,13860,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,scheme no 19 and with rajbaha,residential,38170,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,scheme no 19 and with rajbaha,commercial,82610,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,scheme no 5 and 6 residential,residential,40700,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,scheme no 5 commercial,commercial,63580,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,scheme no 6 commercial,residential,40700,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,scheme no 6 commercial,commercial,63580,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,scheme number 19,residential,38170,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,scheme number 19,commercial,82610,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,Scheme Number 4,commercial,33770,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,Sector 6 to 11,residential,25410,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,Sector 6 to 11,commercial,62013,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,SECTOR- 6 TO 11 FLOORWISE,residential,27720,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,sharma nagar behind state bank of patiala commercial,commercial,57948,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,sharma nagar behind state bank of patiala residential,residential,23403,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,shiv colony,residential,14674,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,shiv colony,commercial,38836,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,shiv or sheetal puri colony narwana road,residential,8050,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,shyam nagar patel nagar hansi road,residential,8855,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,shyam nagar patel nagar hansi road,commercial,16632,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,sourangr mohalla and roop nagar,residential,8096,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,subhash nagar rohtak road,residential,14674,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,subhash nagar rohtak road,commercial,40524,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,sunder nagar jumna nagar,residential,8855,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,sunder nagar jumna nagar,commercial,15312,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,SWARN CITY SECTOR - 4 B JIND,residential,27720,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,SWARN CITY SECTOR - 4 B JIND,commercial,59532,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,syoran colony,residential,8832,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,syoran colony near civil hospital,residential,8832,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,tapriwas colony hansi road,residential,4934,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,towards hanuman gali to dedhraj mohala candy mrkt residential,commercial,56496,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,urban estate A block,residential,27720,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,urban estate A block,commercial,59532,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,"urban estate A,B,C,D block",residential,27720,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,"urban estate A,B,C,D block",commercial,59532,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,urban estate B block defence colony,residential,27720,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,urban estate B block defence colony,commercial,59532,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,urban estate C D E block,residential,27720,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,urban estate C D E block,commercial,59532,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,uttam nagar,residential,8096,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,ved nagar prem nagar,residential,8800,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,ved nagar prem nagar,commercial,15312,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,vidhapith marg,residential,10247,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,vidhapith marg kumharan mohlla,residential,11583,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,vidhapith marg kumharan mohlla,commercial,46255,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,vijay nagar near urban estate,residential,10247,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,Agrawal Market Shastri Nagar,commercial,22968,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,apollo chowk narwana road se kaithal road tak vyaparik,commercial,40524,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,adarsh nagar safidon road,residential,8096,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,arya samaj road,commercial,40524,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,asri gate se ra.pra.school purani kachehri road,commercial,40524,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,kaithal road apollo road se MC sima tak,commercial,28248,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,geeta colony,residential,8096,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,chimanagir ki pati,commercial,56496,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,ch Devi Lal rajbaha nai sabji mandi,residential,8096,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,ch Devi Lal rajbaha se nai mandi,residential,8096,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,jain girls school se vishwakarma colony,residential,8096,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,dalamwala area se nai sabji mandi,commercial,29040,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,tanga chowk v punjabi bazar,commercial,99132,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,dayan basti,residential,7337,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,devilal market ke peeche,residential,4934,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,nai anaj mandi rathi v riha,residential,46420,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,nai anaj mandi rathi v riha,commercial,46420,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,nahar colony,residential,7700,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,parivahan workshop ke sath shiv,residential,12760,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,palika bazar ke dono main road ki dukano ko chhodkar,commercial,63580,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,palika bazar vyaparik palika bazar ke dono taraf main road ki dukano ko chhodkar,commercial,63580,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,purane shahar ki galiyon ke vyaparik,commercial,33350,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,bharat nagar jind nivasiya,residential,7040,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,raghbir swaroop colony,commercial,22660,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,"rajendra nagar 66//87/1,89//31",residential,7700,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,"rajendra nagar 66//87/1,89//31",commercial,12760,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,railway line ke beech ki colony,residential,4290,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,rohtak road se bypass pindara sima tak,commercial,24200,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,shakti nagar,residential,7700,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,shakti nagar,commercial,12760,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,scheme no 10 bhagat singh market tehsil road,commercial,55704,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Jind,hansi road par nai durbhash v aaspaas ka kshetra,residential,4934,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Julani,Chander Lok Colony Jind,residential,6325,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Julani,Chander Lok Colony Jind,commercial,10032,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Julani,Julani,agricultural,781.25,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Julani,Julani,residential,6325,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Julani,Julani Jind sima se railway faatak sadak bhoomi,agricultural,1650.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Julani,Julani railway faatak se village tk,agricultural,1650.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Julani,Julani se daryawala or Sangtpura Road,agricultural,1650.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Julani,Julani sima se village tk sadak se piche,agricultural,781.25,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,JhanjhKalan,Agriculture land with road,agricultural,990.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,JhanjhKalan,Jhanjh Kalan,agricultural,600.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,JhanjhKalan,Jhanjh Kalan,residential,2783,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,JhanjhKhurd,Agriculture land with road,agricultural,900.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,JhanjhKhurd,Jhanjh khurd,agricultural,600.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,JhanjhKhurd,Jhanjh khurd,residential,2783,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,DhandaKheri,Agricultural land beside the road,agricultural,750.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,DhandaKheri,dhanda kheri,agricultural,600.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,DhandaKheri,dhanda kheri,residential,2783,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Taloda,On the road to Sewaha,agricultural,750.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Taloda,Taloda,agricultural,600.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Taloda,Taloda,residential,2783,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Tegbahadurpur,Kaithal Road pr bhoomi,agricultural,1000.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Tegbahadurpur,Tegbahadurpur,agricultural,750.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Tegbahadurpur,Tegbahadurpur,residential,2783,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Dariyawala,Agricultural land beside the road,agricultural,750.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Dariyawala,dariyawala,agricultural,600.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Dariyawala,dariyawala,residential,2783,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Nidani,agriculture land with road,agricultural,962.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Nidani,Gohana Road along Main Road,agricultural,962.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Nidani,Nidani,agricultural,552.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Nidani,Nidani,residential,2783,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Nidani,With road from Gohana road to Padana,agricultural,962.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Nirjan,Jind to Nirjan Safidon Road,agricultural,3320.62,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Nirjan,Krishi Bhoomi Hadud ke ander,agricultural,3458.09,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Nirjan,Krishi Bhoomi Hadud ke ander,agricultural,2858.92,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Nirjan,National Highway dono aur main road commercial,commercial,16896,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Nirjan,New Jawahar Nagar,residential,11500,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Nirjan,NEW JAWAHAR NAGAR NIRJAN,residential,11500,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Nirjan,Nirjan,agricultural,1311.57,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Nirjan,Nirjan,residential,4301,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Nirjan,Nirjan Bypaas Bhoomi,agricultural,3478.75,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Nirjan,Safidon Bypaas se New bypass nirjan ki jameen,commercial,45804,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Nirjan,nirjan ki sampada me vikasit nai v purani Licenced Colonies,commercial,59532,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Nirjan,nirjan pindara road se manoharpur tak safidon road par vyaparik,commercial,7920,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Pindara,Bharat Nagar Pindara,residential,8096,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Pindara,Bypaas gohana road se sima tk,commercial,26796,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Pindara,Hadud ander nagar parishad pr,agricultural,3320.62,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Pindara,Krishi Bhoomi Hadud ander,agricultural,3320.62,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Pindara,National Highway both side Commercial,commercial,16896,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Pindara,outside boundary per acre,agricultural,1945.97,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Pindara,PANDIT HARNAM CITY SECTOR -11- PINDARA,residential,27720,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Pindara,PANDIT HARNAM CITY SECTOR -11- PINDARA,commercial,59532,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Pindara,Parastawit bypaas ke sath,agricultural,3465.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Pindara,Pindara,agricultural,1945.97,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Pindara,Pindara,residential,5946,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Pindara,"Ram Colony, Chabri Colony Jind",residential,8050,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Pindara,School Basti Near Ram Nagar Jind,residential,8050,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Pindara,Vijay Nagar Jind,residential,10247,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Pindara,dhaga mill colony pindara,residential,8050,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Pindara,pindara ki sampada me vikasit nai v purani Licenced Colonies,commercial,59532,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,PohkarKheri,Agricultural land along the road,agricultural,690.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,PohkarKheri,Pohkarkheri,agricultural,570.25,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,PohkarKheri,Pohkarkheri,residential,2783,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Barodi,Agriculture land with road,agricultural,750.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Barodi,Barodi,agricultural,600.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Barodi,Barodi,residential,2783,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Barsana,Barsana,agricultural,517.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Barsana,Barsana,residential,5775,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Barsana,Barsana se Dalamwala sadak ke,agricultural,690.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Barsana,Barsana se Lohchab sadak ke sath,agricultural,690.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Barsana,Barsana se Manoharpur sadak ke,agricultural,690.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Barsana,Krishi jameen sadak ke sath,agricultural,690.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Barsola,Agricultural land along the road,agricultural,690.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Barsola,barsola,agricultural,517.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Barsola,barsola,residential,2783,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Brahkalan,Brahkalan,agricultural,531.25,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Brahkalan,Brahkalan,residential,2783,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Brahkalan,Brahkalan kharakramji sadak ke sath,agricultural,840.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Brahkalan,Brahkalan khurd sadak ke sath,agricultural,840.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Brahkalan,Brahkalan lakhmirwala sadak,agricultural,840.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Brahkalan,Brahkalan manoharpur sadak ke sath,agricultural,840.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Brahkalan,Brahkalan siwaha sadak ke sath,agricultural,840.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Brahkalan,Krishi Jameen sadak ke sath,agricultural,840.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,BrahKhurd,agriculture land with road,agricultural,840.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,BrahKhurd,Brah khurd,agricultural,510.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,BrahKhurd,Brah khurd,agricultural,552.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,BrahKhurd,Brah khurd,residential,2783,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Bahbalpur,Bahbalpur,agricultural,540.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Bahbalpur,Bahbalpur,residential,2783,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Bahbalpur,Krishi jameen sadak ke sath,agricultural,690.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Baganwala,Agricultural land along the road,agricultural,690.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Baganwala,Baganwala,agricultural,540.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Baganwala,Baganwala,residential,2783,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Baroli,Agriculture land with road,agricultural,937.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Baroli,Baroli,agricultural,739.15,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Baroli,Baroli,residential,4175,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Baroli,National Highway ke sath main sadak,agricultural,1875.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Bishanpura,agriculture land with road,agricultural,1890.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Bishanpura,Bishanpura,agricultural,835.23,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Bishanpura,Bishanpura,residential,4175,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Bishanpura,in front of new anaj mandi Rohtak road,residential,53383,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Bishanpura,in front of new anaj mandi Rohtak road,commercial,55704,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Bishanpura,National Highway ke sath main sadak,agricultural,1890.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Birbaraban,Agricultural land along the road,agricultural,2205.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Birbaraban,Birbaraban,agricultural,1575.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Birbaraban,Birbaraban,residential,2783,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Bibipur,Bibipur,agricultural,600.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Bibipur,Bibipur,residential,2783,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Bibipur,Krishi jameen sadak ke sath,agricultural,840.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Manoharpur,Main sadak ke sath,agricultural,1468.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Manoharpur,Manoharpur,agricultural,830.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Manoharpur,Manoharpur,residential,2783,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Manoharpur,Manoharpur se Barsana sadak ke sath,agricultural,1155.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Manoharpur,Manoharpur se Brah kalan sadak ke sath,agricultural,1155.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,MandoKheri,Krishi jameen sadak ke sath,agricultural,977.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,MandoKheri,Mando Kheri,agricultural,675.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,MandoKheri,Mando Kheri,residential,2783,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Radhana,land with gohana main road,agricultural,1443.75,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Radhana,Radhana,agricultural,855.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Radhana,Radhana,residential,2783,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Radhana,Radhana to Shamlo khurd main road,agricultural,1072.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Radhana,Radhana to Gohana main road,agricultural,1443.75,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Rajpura,Along Barwala Main Road,agricultural,780.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Rajpura,Along Hansi Main Road,agricultural,780.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Rajpura,Along the road from Raipur to Mirzapur,agricultural,690.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Rajpura,From Rajpura with Gulkani Road,agricultural,690.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Rajpura,rajpura,agricultural,575.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Rajpura,rajpura,residential,2783,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Rajpura,rajpura to hansi main road bus stand,agricultural,780.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Rajpura,With intel Khurd road from Rajpura,agricultural,690.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Rajpura,With the Road,agricultural,690.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Ramgarh,Krishi jameen sadak ke sath,agricultural,1125.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Ramgarh,Ramgarh,agricultural,500.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Ramgarh,Ramgarh,residential,2420,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Ramrai,Bhiwani Road Bypass to Barwala Road,agricultural,1000.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Ramrai,ramrai,agricultural,681.82,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Ramrai,ramrai,residential,2420,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Roopgarh,Roopgarh,agricultural,475.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Roopgarh,Roopgarh,residential,2420,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Roopgarh,krishi jameen sadak ke sath lagti,agricultural,525.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Lakhmirwala,Krishi Jameen sadak ke sath,agricultural,525.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Lakhmirwala,Lakhmirwala,agricultural,425.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Lakhmirwala,Lakhmirwala,residential,2420,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Lohchab,agriculture land with road,agricultural,825.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Lohchab,agriculture land with road,agricultural,1155.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Lohchab,Lohchab,agricultural,723.14,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Lohchab,Lohchab,residential,2783,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Lohchab,Lohchab to khunga Kothi along the road,agricultural,990.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Lohchab,with main road,agricultural,1155.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Sangatpura,Agricultural land beside the road,agricultural,781.25,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Sangatpura,sangatpura,agricultural,575.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Sangatpura,sangatpura,residential,2783,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,SindhaviKhera,agriculture land with road,agricultural,990.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,SindhaviKhera,Sindhavi Khera,agricultural,552.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,SindhaviKhera,Sindhavi Khera,residential,2910,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Siwaha,agriculture land with road,agricultural,920.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Siwaha,Siwaha,agricultural,570.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Siwaha,Siwaha,residential,2783,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Siwaha,main road se siwaha ki taraf,agricultural,690.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Haibatpur,1 MADHUKARA REAL ESTATE HIGHWAY GREEN CITY SEC 26A LC 113 OF 2023,residential,27720,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Haibatpur,1 MADHUKARA REAL ESTATE HIGHWAY GREEN CITY SEC 26A LC 113 OF 2023,commercial,59532,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Haibatpur,GREEN VAILLY SECTOR -11- HAIBATPUR,residential,27720,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Haibatpur,GREEN VAILLY SECTOR -11- HAIBATPUR,commercial,59532,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Haibatpur,Haibatpur,agricultural,1868.52,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Haibatpur,Haibatpur,residential,11438,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Haibatpur,Haibatpur Amarheri Bypaas ke sath,agricultural,3606.82,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Haibatpur,Haibatpur Khokhari sadak bhoomi,agricultural,3018.75,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Haibatpur,Jawahar Nagar Jind,residential,11500,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Haibatpur,Jind Haibatpur road sadak bhoomi,agricultural,3412.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Haibatpur,JInd Safidon road sadak bhoomi,agricultural,3567.61,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Haibatpur,Jind to Amarheri Outside MC,agricultural,1980.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Haibatpur,Madhukara developers green city FLAT sector 26A 42,commercial,59532,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Haibatpur,Madhukara developers green city sector 26A 41,residential,27720,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Haibatpur,Madhukara developers green city sector 26A 41,commercial,59532,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Haibatpur,Madhukara developers green city sector 26A 42,residential,27720,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Haibatpur,Madhukara developers green city sector 26A 42,commercial,59532,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Haibatpur,MADHUKARA REAL ESTATE HIGHWAY GREEN CITY SEC. 26A LC-113 OF 2023,commercial,59532,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Haibatpur,Madhukara Real Estate highway Green sec 26A L-N 167-2022,commercial,56628,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Haibatpur,Madhukara Real Estate L-N 167-2022,commercial,59532,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Haibatpur,National Highway dono aur main road commercial,commercial,17664,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Haibatpur,Ram Colony Jind,residential,8050,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Haibatpur,Safidon Bypaas se New bypaas,commercial,45804,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Haibatpur,SECTOR -26 - FORT ASIA HAIBATPUR,residential,27720,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Haibatpur,SECTOR -26 - FORT ASIA HAIBATPUR,commercial,59532,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Haibatpur,Shree Dham Nager Sector 7A Lic 2,residential,27720,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Haibatpur,Shree Dham Nager Sector 7A Lic 2,commercial,59532,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Haibatpur,Shree Dham Nager Sector 7A Lic 3,residential,27720,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Haibatpur,Shree Dham Nager Sector 7A Lic 3,commercial,59532,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Haibatpur,Smart City Sector 26A,residential,27720,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Haibatpur,Smart City Sector 26A,commercial,59532,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Haibatpur,Under MC Limit,agricultural,3567.61,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Haibatpur,Vijay Nagar Jind,residential,10247,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Haibatpur,haibatpur ki sampada me vikasit nai v purani Licenced Colonies,commercial,59532,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Amarheri,ROYAL GREEN CITY JIND Sector 5 JIND,residential,18000,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Amarheri,ROYAL GREEN CITY JIND Sector 5 JIND,commercial,35000,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,BrahKhurd,JIND TO SONIPAT NATIONAL HIGHWAY KE SATH JAMIN,agricultural,1859.50413,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Chabri,JIND TO SONIPAT NATIONAL HIGHWAY KE SATH JAMIN,agricultural,1446.28099,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Kharakramji,JIND TO SONIPAT NATIONAL HIGHWAY KE SATH JAMIN,agricultural,1652.89256,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Lakhmirwala,JIND TO SONIPAT NATIONAL HIGHWAY KE SATH JAMIN,agricultural,2272.72727,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Nirjan,JIND TO SONIPAT NATIONAL HIGHWAY KE SATH JAMIN,agricultural,3320.625,2026-04-01,jind_gov_in_dc_notification
+Jind,Jind,Pindara,JIND TO SONIPAT NATIONAL HIGHWAY KE SATH JAMIN,agricultural,3320.625,2026-04-01,jind_gov_in_dc_notification

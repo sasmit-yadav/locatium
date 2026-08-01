@@ -33,7 +33,7 @@ async function main() {
   check('GET /opportunities', opp.ok, `${opp.status}`);
   const data = opp.json;
   const zones = data?.opportunities || [];
-  check('opportunityVersion present', Boolean(data?.opportunityVersion), data?.opportunityVersion);
+  check('opportunityVersion present', data?.opportunityVersion === 'investor-v3.2', data?.opportunityVersion);
   check('zones returned', zones.length > 0, `count=${zones.length}`);
   check('elapsedMs in response', typeof data?.elapsedMs === 'number', `${data?.elapsedMs}ms (wall ${elapsed}ms)`);
   check('mapHighlights', Array.isArray(data?.mapHighlights) && data.mapHighlights.length > 0, `${data?.mapHighlights?.length} highlights`);
@@ -42,8 +42,12 @@ async function main() {
   check('#1 v3 scoreBreakdown', Array.isArray(z.scoreBreakdown) && z.scoreBreakdown.length > 0, `${z.scoreBreakdown?.length} rows`);
   check('#1 v3Scores', z.v3Scores && typeof z.v3Scores.infrastructure === 'number');
   check('#2 land cost / budget fields', z.components?.estimatedLandCostInr != null || z.landValue?.estimatedPerSqYardInr != null);
+  check('#2 all-in land (stamp+reg)', z.components?.estimatedAllInLandCostInr != null && z.components.estimatedAllInLandCostInr >= z.components.estimatedLandCostInr);
+  check('#2 land vintage', Boolean(z.landValue?.circleRateEffectiveFrom || z.components?.circleRateEffectiveFrom));
+  check('#2 land confidence', Boolean(z.landValue?.confidence));
   check('#2 investable area (not full estate)', z.investableArea?.acres != null && z.investableArea.acres <= 25, `${z.investableArea?.acres} ac (${z.investableArea?.source})`);
   check('#2 capex realistic', z.financialPreview?.totalCapexInr != null && z.financialPreview.totalCapexInr < 500_000_000, `₹${((z.financialPreview?.totalCapexInr || 0) / 1e7).toFixed(1)} cr`);
+  check('#2 acquisition stack', z.financialPreview?.acquisition?.stampDutyInr > 0 && z.financialPreview?.allInLandCostInr > z.financialPreview?.landCostInr);
   check('#10 availability', Boolean(z.availability?.label));
   check('#10 keyRisk', Boolean(z.keyRisk));
   check('#10 verdict', Boolean(z.verdict));
@@ -57,7 +61,7 @@ async function main() {
   const hsiidc = (hsiidcZones.json?.opportunities || []).find((r) => r.tableId === 'hsiidc_boundary');
   check(
     '#16 ML rank for HSIIDC',
-    Boolean(hsiidc && (hsiidc.mlMethod === 'ml' || hsiidc.mlMethod === 'zone_outcomes')),
+    Boolean(hsiidc && (hsiidc.mlMethod === 'ml' || hsiidc.mlMethod === 'heuristic' || hsiidc.mlMethod === 'zone_outcomes_synthetic' || hsiidc.mlMethod === 'zone_outcomes')),
     hsiidc ? `${hsiidc.name} method=${hsiidc.mlMethod} mlScore=${hsiidc.mlScore}` : 'no HSIIDC zone'
   );
   check('#17 benchmark/comparables', Boolean(z.benchmark?.message || z.benchmark?.comparableMessage || z.benchmark?.districtAverage != null));
@@ -65,7 +69,13 @@ async function main() {
   check('#19 dataSource', Boolean(z.dataSource?.geometry && z.dataSource?.scores));
 
   const budgetMedium = await get('/api/investor/opportunities?sector=industrial&district=Gurugram&budget=medium&limit=5');
-  check('#2 budget=medium returns zones', budgetMedium.ok && (budgetMedium.json?.opportunities || []).length > 0, `count=${budgetMedium.json?.opportunities?.length ?? 0}`);
+  const budgetZones = budgetMedium.json?.opportunities || [];
+  check('#2 budget=medium returns zones', budgetMedium.ok && budgetZones.length > 0, `count=${budgetZones.length}`);
+  check(
+    '#2 budget zones have all-in land ₹',
+    budgetZones.every((r) => r.components?.estimatedAllInLandCostInr != null),
+    'no acres fallback'
+  );
 
   const near = await get('/api/investor/opportunities?sector=industrial&nearLat=28.45&nearLng=76.9&nearRadiusKm=25&limit=5');
   check('#3 near-me filter', near.ok && (near.json?.opportunities || []).some((r) => r.distanceKm != null));

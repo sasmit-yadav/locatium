@@ -1,0 +1,279 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Gurugram,Wazirabad,Chakkarpur,Chakkarpur,agricultural,11781.82,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Chakkarpur,Chakkarpur,agricultural,10800.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Chakkarpur,Chakkarpur,residential,59600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Chakkarpur,Chakkarpur,commercial,73250,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Nathupur,Nathupur,agricultural,15741.82,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Nathupur,Nathupur,agricultural,11100.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Nathupur,Nathupur,residential,103400,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Nathupur,Nathupur,commercial,146100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Salokhera,Chandan Nagar,residential,64100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Salokhera,Chandan Nagar,commercial,75900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Salokhera,saini khera,residential,58650,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Salokhera,saini khera,commercial,61650,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Salokhera,Silokhera,agricultural,19500.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Salokhera,Silokhera,residential,62500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Salokhera,Silokhera,commercial,83490,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Salokhera,Vijay Vihar,residential,64100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Salokhera,Vijay Vihar,commercial,69600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Sikandarpur Ghosi,Sikanderpur Ghosi,agricultural,18900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Sikandarpur Ghosi,Sikanderpur Ghosi,residential,127300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Sikandarpur Ghosi,Sikanderpur Ghosi,commercial,135750,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Adampur,Adampur,agricultural,10500.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Adampur,Adampur,residential,35900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Adampur,Adampur,commercial,64000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Ullawas,Agri open pub utility,agricultural,5236.36,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Ullawas,Agri open pub utility,residential,19300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Ullawas,Agri open pub utility,commercial,37000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Ullawas,Sector-58,residential,74250,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Ullawas,Sector-58,commercial,201840,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Ullawas,Sector-59,residential,93960,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Ullawas,Sector-59,commercial,211000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Ullawas,Sector-60,residential,113400,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Ullawas,Sector-60,commercial,265650,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Ullawas,Sector-62,residential,81000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Ullawas,Sector-62,commercial,189150,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Ullawas,Sector-62,institutional,35500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Ullawas,Sector-63,residential,93960,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Ullawas,Sector-63,commercial,253440,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Ullawas,Sector-63A,residential,74520,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Ullawas,Sector-63A,commercial,197340,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Ullawas,Ullahwas,agricultural,18743.8,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Ullawas,Ullahwas,agricultural,19300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Ullawas,Ullahwas,agricultural,5236.36,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Ullawas,Ullahwas,residential,29900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Ullawas,Ullahwas,commercial,84600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Kanhai,Kanhai,agricultural,10800.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Kanhai,Kanhai,agricultural,28700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Kanhai,Kanhai,residential,52500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Kanhai,Kanhai,commercial,58600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Kadarpur,Agri open pub utility,agricultural,5880.68,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Kadarpur,Agri open pub utility,residential,14000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Kadarpur,Agri open pub utility,commercial,24700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Kadarpur,Kadarpur,agricultural,14969.01,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Kadarpur,Kadarpur,agricultural,8181.82,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Kadarpur,Kadarpur,residential,17500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Kadarpur,Kadarpur,commercial,24700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Kadarpur,R Zone Com Ind Inst.,agricultural,8181.82,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Kadarpur,R Zone Com Ind Inst.,agricultural,8181.82,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Kadarpur,Sector-63A,residential,81000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Kadarpur,Sector-63A,commercial,166400,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Gwal Pahari,Agri open pub utility,agricultural,5750.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Gwal Pahari,Agri open pub utility,agricultural,5390.62,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Gwal Pahari,Agri open pub utility,agricultural,1375.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Gwal Pahari,Agri open pub utility,residential,12700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Gwal Pahari,Agri open pub utility,commercial,30000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Gwal Pahari,Gwal Pahari,agricultural,13214.07,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Gwal Pahari,Gwal Pahari,agricultural,7425.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Gwal Pahari,Gwal Pahari,agricultural,14880.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Gwal Pahari,Gwal Pahari,agricultural,1375.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Gwal Pahari,Gwal Pahari,agricultural,7425.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Gwal Pahari,Gwal Pahari,residential,34000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Gwal Pahari,Gwal Pahari,commercial,45400,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Ghata,Agri open pub utility,agricultural,6000.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Ghata,Agri open pub utility,residential,19300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Ghata,Agri open pub utility,commercial,40600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Ghata,Ghata,agricultural,18900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Ghata,Ghata,agricultural,19300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Ghata,Ghata,residential,36900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Ghata,Ghata,commercial,57590,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Ghata,Pioneer Park Sec-61,commercial,64960,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Jharsa,Civil Line Jharsa,residential,84500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Jharsa,Civil Line Jharsa,commercial,124600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Jharsa,Civil Lines Backside,residential,64000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Jharsa,Civil Lines Backside,commercial,115500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Jharsa,Friends Colony Jharsa,residential,55700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Jharsa,Friends Colony Jharsa,commercial,107200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Jharsa,Jharsa,agricultural,11781.82,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Jharsa,Jharsa,agricultural,10800.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Jharsa,Jharsa,agricultural,10800.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Jharsa,Jharsa,residential,40900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Jharsa,Jharsa,commercial,55700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Jharsa,Kirti Nagar Jharsa,residential,70000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Jharsa,Kirti Nagar Jharsa,commercial,65500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Jharsa,Patel Nagar Jharsa,residential,61200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Jharsa,Patel Nagar Jharsa,commercial,99220,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Jharsa,Prem Puri Jharsa,residential,31000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Jharsa,Prem Puri Jharsa,commercial,55660,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,DLF Colony,DLF Phase 1 Villa,residential,120000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,DLF Colony,DLF Phase I,residential,198360,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,DLF Colony,DLF Phase I,commercial,418200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,DLF Colony,DLF Phase II,residential,208800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,DLF Colony,DLF Phase II,commercial,498960,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,DLF Colony,DLF Phase III,residential,179400,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,DLF Colony,DLF Phase III,commercial,325600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,DLF Colony,DLF Phase III,institutional,33900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,DLF Colony,DLF Phase III,institutional,33900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,DLF Colony,DLF Phase III,institutional,33900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,DLF Colony,DLF Phase IV,residential,208800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,DLF Colony,DLF Phase IV,commercial,498960,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,DLF Colony,DLF Phase V,residential,252000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,DLF Colony,DLF Phase V,commercial,250500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Tigra,Tigra,agricultural,10800.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Tigra,Tigra,residential,50200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Tigra,Tigra,commercial,102550,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Fatehpur,Fatehpur,agricultural,10500.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Fatehpur,Fatehpur,residential,33000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Fatehpur,Fatehpur,commercial,64300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Bandwari,Bandwari,agricultural,7500.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Bandwari,Bandwari,agricultural,6187.5,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Bandwari,Bandwari,agricultural,8525.21,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Bandwari,Bandwari,agricultural,1375.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Bandwari,Bandwari,agricultural,6187.5,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Bandwari,Bandwari,residential,22750,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Bandwari,Bandwari,commercial,33300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Bahrampur,Agri open pub utility,agricultural,4400.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Bahrampur,Agri open pub utility,agricultural,4125.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Bahrampur,Agri open pub utility,agricultural,12700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Bahrampur,Agri open pub utility,agricultural,1375.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Bahrampur,Agri open pub utility,residential,12700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Bahrampur,Agri open pub utility,commercial,30000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Bahrampur,Bairampur,agricultural,21000.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Bahrampur,Bairampur,agricultural,6875.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Bahrampur,Bairampur,agricultural,20000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Bahrampur,Bairampur,agricultural,1375.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Bahrampur,Bairampur,agricultural,12031.25,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Bahrampur,Bairampur,agricultural,15950.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Bahrampur,Bairampur,residential,28500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Bahrampur,Bairampur,commercial,33300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Bahrampur,R Zone Com Ind Inst.,agricultural,6875.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Balula,Balula,agricultural,9409.09,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Balula,Balula,agricultural,11500.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Balula,Balula,agricultural,21300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Balula,Balula,agricultural,1375.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Balula,Balula,agricultural,9000.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Balula,Balula,agricultural,10421.9,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Balula,Balula,residential,23200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Balula,Balula,commercial,33300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Bindapur,Bindapur,agricultural,10500.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Bindapur,Bindapur,residential,31300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Bindapur,Bindapur,commercial,57300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,License Colony,Ardee City,residential,115750,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,License Colony,Ardee City,commercial,233000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,License Colony,Dispensary Site-South City II,commercial,33900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,License Colony,Garden Estate,residential,189000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,License Colony,Garden Estate,commercial,219700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,License Colony,Global Business Park,commercial,1028700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,License Colony,Global Gateway,commercial,1179360,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,License Colony,Greenwood City,residential,158100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,License Colony,Greenwood City,commercial,287000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,License Colony,Mayfield Garden,residential,125580,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,License Colony,Mayfield Garden,commercial,221760,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,License Colony,Mayfield Garden,institutional,33900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,License Colony,National Media Centre,residential,123420,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,License Colony,National Media Centre,commercial,219700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,License Colony,Nirvana,residential,211680,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,License Colony,Nirvana,commercial,299500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,License Colony,Rosewood City,residential,99200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,License Colony,Rosewood City,commercial,230000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,License Colony,School -Institute,commercial,33900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,License Colony,Sec-58 and new sectors,residential,113400,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,License Colony,Sec-58 and new sectors,commercial,265650,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,License Colony,Sector 58,residential,93960,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,License Colony,Sector 58,commercial,254600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,License Colony,Sector-50,residential,99200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,License Colony,South city 1,residential,192000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,License Colony,South city 1,commercial,458300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,License Colony,Southcity-II,residential,143800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,License Colony,Southcity-II,commercial,326700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,License Colony,Suncity,residential,165600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,License Colony,Suncity,commercial,363200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,License Colony,Sushant Lok,residential,157050,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,License Colony,Villa Palm Springs,residential,121000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,License Colony,Villa Rest of Tehsil Wazirabad,residential,115000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Wazirabad,Indra Colony,residential,33500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Wazirabad,Indra Colony,commercial,61300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Wazirabad,Saraswati Kunj,residential,39000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Wazirabad,Saraswati Kunj,commercial,81000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Wazirabad,Wazirabad,agricultural,22336.36,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Wazirabad,Wazirabad,residential,54800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Wazirabad,Wazirabad,commercial,116900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Samaspur,Samaspur,agricultural,10800.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Samaspur,Samaspur,agricultural,28700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Samaspur,Samaspur,residential,52360,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Samaspur,Samaspur,commercial,102550,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Sushant Lok,School and Institutional Land,commercial,33900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Sushant Lok,Sushan Lok-I,residential,163410,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Sushant Lok,Sushan Lok-I,commercial,339800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Sushant Lok,Sushant Lok-II,residential,120300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Sushant Lok,Sushant Lok-III,residential,120750,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Sushant Lok,Sushant Lok-III,commercial,294800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Sushant Lok,Sushant Lok-III,institutional,33900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Housing Board Colony,HBC-Jharsa Road,residential,144000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Housing Board Colony,HBC-Saraswati Vihar,residential,99360,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Housing Board Colony,HBC-Sec 40,residential,117000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Housing Board Colony,HBC-Sec 42,residential,163800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Housing Board Colony,HBC-Sec-28,residential,130000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Housing Board Colony,HBC-Sec-28,residential,82300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Housing Board Colony,HBC-Sec-28,commercial,219700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Housing Board Colony,HBC-Sec-39,residential,125280,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Housing Board Colony,HBC-Sec-43,residential,117000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Housing Board Colony,HBC-Sector 31-32A,residential,121680,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Housing Board Colony,HBC-Sector 51,residential,102060,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Housing Board Colony,HBC-Sector-47,residential,98100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Housing Board Colony,HBC-Sector-52,residential,151200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Housing Board Colony,HBC-Sector-57,residential,102060,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,HBC-Sec-51,residential,84600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,National Media Center,residential,195200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,National Media Center,commercial,220000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,New Huda Sector,residential,103950,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,School Land,institutional,33900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-15,residential,149600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-15,commercial,325600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-15,institutional,33900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-24,institutional,50400,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-25,commercial,244000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-27,residential,135720,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-27,commercial,325600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-28,residential,116610,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-28,commercial,313100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-29,commercial,400800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-29,institutional,33900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-30,residential,135720,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-30,commercial,348480,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-31-32A,residential,121400,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-31-32A,commercial,339820,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-32,commercial,40320,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-32,institutional,54240,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-39,residential,103200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-39,commercial,275540,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-40,residential,121680,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-40,commercial,264040,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-41,residential,135720,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-41,commercial,186400,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-42,residential,149760,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-42,commercial,288000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-43,residential,135720,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-43,commercial,363200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-43,institutional,59300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-44,commercial,250470,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-44,institutional,33900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-44,institutional,84700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-45,residential,107640,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-45,commercial,239600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-46,residential,120060,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-46,commercial,327000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-46,institutional,40320,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-47,residential,115000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-47,commercial,400800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-47,institutional,36960,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-47,institutional,38900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-50,residential,112320,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-50,commercial,261360,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-52,residential,107640,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-52,commercial,363200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-53,residential,149760,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-53,commercial,418200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-54,residential,149760,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-54,commercial,325650,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-55,residential,120060,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-55,commercial,285610,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-56,residential,115000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-56,commercial,438300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-56,institutional,53600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-57,residential,103200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-57,commercial,339800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Huda Sector,Sec-61 ghata,residential,28000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Haidarpur Viran,Haidarpur Viran,agricultural,10800.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Haidarpur Viran,Haidarpur Viran,residential,54600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Wazirabad,Haidarpur Viran,Haidarpur Viran,commercial,63250,2026-04-01,gurugram_gov_in_dc_notification

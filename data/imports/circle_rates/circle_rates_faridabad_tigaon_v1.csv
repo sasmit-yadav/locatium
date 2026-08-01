@@ -1,0 +1,245 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Faridabad,Tigaon,Amipur,Amipur,agricultural,1136.36,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Amipur,Amipur,agricultural,1420.45,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Amipur,Amipur,agricultural,1007.23,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Amipur,Amipur,agricultural,1235.54,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Amipur,Amipur,residential,7700,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Amipur,Amipur,commercial,16500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,KabulpurKhadarPattiParvarish,Kabulpur Khadar Patti Parvarish,agricultural,2066.12,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,KabulpurKhadarPattiParvarish,Kabulpur Khadar Patti Parvarish,agricultural,2582.64,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,KabulpurKhadarPattiParvarish,Kabulpur Khadar Patti Parvarish,agricultural,1211.78,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,KabulpurKhadarPattiParvarish,Kabulpur Khadar Patti Parvarish,agricultural,1520.66,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,KabulpurKhadarPattiParvarish,Kabulpur Khadar Patti Parvarish,residential,7700,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,KabulpurKhadarPattiParvarish,Kabulpur Khadar Patti Parvarish,commercial,16500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,KabulpurKhadarPattiMahtab,Kabulpur Khadar Patti Mahtab,agricultural,1425.62,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,KabulpurKhadarPattiMahtab,Kabulpur Khadar Patti Mahtab,agricultural,1782.02,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,KabulpurKhadarPattiMahtab,Kabulpur Khadar Patti Mahtab,agricultural,805.79,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,KabulpurKhadarPattiMahtab,Kabulpur Khadar Patti Mahtab,agricultural,991.74,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,KabulpurKhadarPattiMahtab,Kabulpur Khadar Patti Mahtab,residential,7700,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,KabulpurKhadarPattiMahtab,Kabulpur Khadar Patti Mahtab,commercial,16500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Kanwara,Kanwara,agricultural,1859.5,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Kanwara,Kanwara,agricultural,2324.38,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Kanwara,Kanwara,residential,9000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Kanwara,Kanwara,commercial,18000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Kanwara,Kanwara,industrial,25000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Chirsi,Chirsi,agricultural,1570.25,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Chirsi,Chirsi,agricultural,1962.81,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Chirsi,Chirsi,residential,7700,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Chirsi,Chirsi,commercial,16500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Jasana,Jasana,agricultural,2582.64,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Jasana,Jasana,agricultural,3228.31,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Jasana,Jasana,residential,9500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Jasana,Jasana,commercial,18000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Dungarpur,Dungarpur,agricultural,1805.79,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Dungarpur,Dungarpur,agricultural,2257.23,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Dungarpur,Dungarpur,residential,7700,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Dungarpur,Dungarpur,commercial,16500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Dhankaula,Dhankaula,agricultural,2512.4,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Dhankaula,Dhankaula,agricultural,3140.5,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Dhankaula,Dhankaula,residential,7700,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Dhankaula,Dhankaula,commercial,16500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Tajpur,Tajpur,agricultural,1570.25,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Tajpur,Tajpur,agricultural,1962.81,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Tajpur,Tajpur,residential,7700,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Tajpur,Tajpur,commercial,16500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Tigaon,Tigaon,agricultural,4628.1,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Tigaon,Tigaon,agricultural,5785.12,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Tigaon,Tigaon,residential,13750,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Tigaon,Tigaon,commercial,20000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Tigaon,Hosp-Inst-Edu-Ind 1 Acre- 2 Acre,industrial,13500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Tigaon,Hosp-Inst-Edu-Ind 1001-2000 SqYds,industrial,19000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Tigaon,Hosp-Inst-Edu-Ind 2001 SqYds- Less 1 Acre,industrial,16000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Tigaon,Hosp-Inst-Edu-Ind above 2 Acre,industrial,10000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Tigaon,Hosp-Inst-Edu-Ind upto 1000,industrial,20000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Tigaon,Industrial Plots in Other Village,industrial,10000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Tigaon,Tigaon Anaj Mandi Shop Booth,commercial,28750,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,TiloriKhadar,Tilori Khadar,agricultural,1342.98,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,TiloriKhadar,Tilori Khadar,agricultural,1694.21,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,TiloriKhadar,Tilori Khadar,residential,7700,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,TiloriKhadar,Tilori Khadar,commercial,16500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Neemka,Neemka,agricultural,5165.29,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Neemka,Neemka,agricultural,6456.61,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Neemka,Neemka,residential,31500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Neemka,Neemka,commercial,40000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Fatupura,Fatupura,agricultural,2066.12,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Fatupura,Fatupura,agricultural,2582.64,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Fatupura,Fatupura,residential,8500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Fatupura,Fatupura,commercial,18000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Faridpur,Faridpur,agricultural,5940.08,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Faridpur,Faridpur,agricultural,7425.1,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Faridpur,Faridpur,residential,31500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Faridpur,Faridpur,commercial,40000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FejjupurMajraNeemka,Fejjupur Majra Neemka,agricultural,5165.29,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FejjupurMajraNeemka,Fejjupur Majra Neemka,agricultural,6456.61,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FejjupurMajraNeemka,Fejjupur Majra Neemka,residential,31500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FejjupurMajraNeemka,Fejjupur Majra Neemka,commercial,40000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Bhuapur,Bhuapur,agricultural,1900.83,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Bhuapur,Bhuapur,agricultural,2376.03,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Bhuapur,Bhuapur,residential,7700,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Bhuapur,Bhuapur,commercial,16500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Mahmudpur,Mahmudpur,agricultural,1652.89,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Mahmudpur,Mahmudpur,agricultural,2066.12,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Mahmudpur,Mahmudpur,residential,7700,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Mahmudpur,Mahmudpur,commercial,16500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,RajpurKalan,Rajpur Kalan,agricultural,1446.28,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,RajpurKalan,Rajpur Kalan,agricultural,1807.85,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,RajpurKalan,Rajpur Kalan,agricultural,929.75,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,RajpurKalan,Rajpur Kalan,agricultural,1177.69,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,RajpurKalan,Rajpur Kalan,residential,7700,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,RajpurKalan,Rajpur Kalan,commercial,16500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Shahbad,Shahbad,agricultural,1652.89,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Shahbad,Shahbad,agricultural,2066.12,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Shahbad,Shahbad,residential,7700,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Shahbad,Shahbad,commercial,16500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Shikargah,Shikargah,agricultural,1330.58,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Shikargah,Shikargah,agricultural,1663.22,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Shikargah,Shikargah,agricultural,774.79,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Shikargah,Shikargah,agricultural,950.41,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Shikargah,Shikargah,residential,7700,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Shikargah,Shikargah,commercial,16500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Sadpura,Sadpura,agricultural,5423.55,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Sadpura,Sadpura,agricultural,6779.44,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Sadpura,Sadpura,residential,8500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Sadpura,Sadpura,commercial,20000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Sahravak,Sahravak,agricultural,2747.93,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Sahravak,Sahravak,agricultural,3434.92,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Sahravak,Sahravak,residential,7700,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Sahravak,Sahravak,commercial,16500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Sidhola,Sidhola,agricultural,2041.32,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Sidhola,Sidhola,agricultural,2551.65,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Sidhola,Sidhola,residential,7700,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Sidhola,Sidhola,commercial,16500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Phulera,Phulera,agricultural,1446.28,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Phulera,Phulera,agricultural,1807.85,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Phulera,Phulera,residential,7700,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Phulera,Phulera,commercial,16500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Mirjapur,Mirjapur,agricultural,5165.29,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Mirjapur,Mirjapur,agricultural,6456.61,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Mirjapur,Mirjapur,residential,28800,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Mirjapur,Mirjapur,commercial,40000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,NeemkaSec717277,1ST FLOOR HUDA SEC,residential,9625,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,NeemkaSec717277,1ST FLOOR LIC CLY,residential,6325,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,NeemkaSec717277,2ND FLOOR HUDA SEC,residential,9625,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,NeemkaSec717277,2ND FLOOR LIC CLY,residential,6875,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,NeemkaSec717277,3RD FLOOR HUDA SEC,residential,9625,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,NeemkaSec717277,3RD FLOOR LIC CLY,residential,8800,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,NeemkaSec717277,4TH FLOOR HUDA SEC,residential,5500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,NeemkaSec717277,4TH FLOOR LIC CLY,residential,7150,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,NeemkaSec717277,COMM. COMPLEX 1ST FLOOR,commercial,7000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,NeemkaSec717277,COMM. COMPLEX 2ND FLOOR,commercial,6500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,NeemkaSec717277,COMM. COMPLEX 3RD FLOOR,commercial,6000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,NeemkaSec717277,COMM. COMPLEX BASEMENT,commercial,6000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,NeemkaSec717277,COMM. COMPLEX G.F.,commercial,11600,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,NeemkaSec717277,COMM. PLOTS IN LIC AREA,commercial,50000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,NeemkaSec717277,FLATS IN LIC AREA,residential,5200,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,NeemkaSec717277,GROUND FLOOR HUDA SEC,residential,9625,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,NeemkaSec717277,GROUND FLOOR LIC CLY,residential,6875,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,NeemkaSec717277,GROUP HOUSING CO-OP SOCIETY,residential,5000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,NeemkaSec717277,HOUSING BOARD,residential,4500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,NeemkaSec717277,HUDA Res. Plot,residential,46800,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,NeemkaSec717277,INDUSTRIAL PLOT IN SECTOR,industrial,17400,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,NeemkaSec717277,INST 1001-2000 SQYDS,industrial,19000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,NeemkaSec717277,INST Above 1Acre-2Acre,industrial,14000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,NeemkaSec717277,INST upto 1000 SQYDS,industrial,20000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,NeemkaSec717277,R.Zone,agricultural,5165.29,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,NeemkaSec717277,RES. PLOTS LIC AREA,residential,53750,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,MirjapurSec737475,1ST FLOOR HUDA SEC,residential,5500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,MirjapurSec737475,1ST FLOOR LIC CLY,residential,6325,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,MirjapurSec737475,2ND FLOOR HUDA SEC,residential,5500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,MirjapurSec737475,2ND FLOOR LIC CLY,residential,6875,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,MirjapurSec737475,3RD FLOOR HUDA SEC,residential,5500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,MirjapurSec737475,3RD FLOOR LIC CLY,residential,6875,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,MirjapurSec737475,4TH FLOOR HUDA SEC,residential,5500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,MirjapurSec737475,4TH FLOOR LIC CLY,residential,5500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,MirjapurSec737475,COMM. COMPLEX 1ST FLOOR,commercial,7000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,MirjapurSec737475,COMM. COMPLEX 2ND FLOOR,commercial,6500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,MirjapurSec737475,COMM. COMPLEX 3RD FLOOR,commercial,6000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,MirjapurSec737475,COMM. COMPLEX BASEMENT,commercial,6000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,MirjapurSec737475,COMM. COMPLEX G.F.,commercial,14000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,MirjapurSec737475,COMM. PLOTS IN LIC AREA,commercial,72500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,MirjapurSec737475,FLATS LIC AREA,residential,5200,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,MirjapurSec737475,GROUND FLOOR HUDA SEC,residential,5500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,MirjapurSec737475,GROUND FLOOR LIC CLY,residential,7975,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,MirjapurSec737475,GROUP HOUSING CO-OP SOC.,residential,5100,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,MirjapurSec737475,HOUSING BOARD,residential,4500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,MirjapurSec737475,HUDA Res. Plot,residential,52200,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,MirjapurSec737475,INDUSTRIAL PLOT IN SECTOR,industrial,12000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,MirjapurSec737475,R.Zone,agricultural,8496.9,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,MirjapurSec737475,RES. PLOTS LIC AREA,residential,53750,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,MirjapurSec737475,INST-HOSP-EDU-upto 1000 sqyds,industrial,20000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FNeemkaSec76,1ST FLOOR HUDA SEC,residential,9625,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FNeemkaSec76,1ST FLOOR LIC CLY,residential,9625,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FNeemkaSec76,2ND FLOOR HUDA SEC,residential,9625,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FNeemkaSec76,2ND FLOOR LIC CLY,residential,6325,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FNeemkaSec76,3RD FLOOR HUDA SEC,residential,5500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FNeemkaSec76,3RD FLOOR LIC CLY,residential,5500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FNeemkaSec76,4TH FLOOR HUDA SEC,residential,9625,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FNeemkaSec76,4TH FLOOR LIC CLY,residential,6875,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FNeemkaSec76,COMM. COMPLEX 1ST FLOOR,commercial,7000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FNeemkaSec76,COMM. COMPLEX 2ND FLOOR,commercial,6500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FNeemkaSec76,COMM. COMPLEX 3RD FLOOR,commercial,6000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FNeemkaSec76,COMM. COMPLEX BASEMENT,commercial,6000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FNeemkaSec76,COMM. COMPLEX G.F.,commercial,8000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FNeemkaSec76,COMM. PLOTS IN LIC AREA,commercial,50000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FNeemkaSec76,FLATS IN LIC AREA,residential,5200,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FNeemkaSec76,GROUND FLOOR HUDA SEC,residential,5500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FNeemkaSec76,GROUND FLOOR LIC CLY,residential,9625,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FNeemkaSec76,GROUP HOUSING CO-OP SOC.,residential,5000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FNeemkaSec76,HOUSING BOARD,residential,4500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FNeemkaSec76,HUDA Res. Plot,residential,46800,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FNeemkaSec76,INDUSTRIAL PLOT IN SEC,industrial,17400,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FNeemkaSec76,RES. PLOTS LIC AREA,residential,53750,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FaridpurSec78,COMM. COMPLEX G.F.,commercial,8000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FaridpurSec78,RES. PLOTS LIC AREA,residential,53750,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FaridpurSec78,1ST FLOOR HUDA SEC,residential,5500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FaridpurSec78,1ST FLOOR LIC CLY,residential,5500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FaridpurSec78,2ND FLOOR HUDA SEC,residential,9625,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FaridpurSec78,2ND FLOOR LIC CLY,residential,5500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FaridpurSec78,3RD FLOOR HUDA SEC,residential,5500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FaridpurSec78,3RD FLOOR LIC CLY,residential,5500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FaridpurSec78,4TH FLOOR HUDA SEC,residential,5500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FaridpurSec78,4TH FLOOR LIC CLY,residential,5500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FaridpurSec78,COMM. COMPLEX 1ST FLOOR,commercial,7000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FaridpurSec78,COMM. COMPLEX 2ND FLOOR,commercial,6500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FaridpurSec78,COMM. COMPLEX 3RD FLOOR,commercial,6000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FaridpurSec78,COMM. COMPLEX BASEMENT,commercial,6000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FaridpurSec78,COMM. PLOTS IN LIC AREA,commercial,50000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FaridpurSec78,FLATS IN LIC AREA,residential,5980,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FaridpurSec78,GROUND FLOOR HUDA SEC,residential,5500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FaridpurSec78,GROUND FLOOR LIC CLY,residential,5500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FaridpurSec78,GROUP HOUSINGH CO-OP SOC.,residential,5000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FaridpurSec78,HOUSING BOARD,residential,4500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FaridpurSec78,HUDA Res. Plot,residential,46800,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,FaridpurSec78,INDUSTRIAL PLOT IN SEC.,industrial,12000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,TigaonSec104,COMM. COMPLEX G.F.,commercial,8000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,TigaonSec104,RES. PLOTS LIC AREA,residential,53750,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,TigaonSec104,1ST FLOOR HUDA SEC,residential,5500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,TigaonSec104,1ST FLOOR LIC CLY,residential,5500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,TigaonSec104,2ND FLOOR HUDA SEC,residential,9625,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,TigaonSec104,2ND FLOOR LIC CLY,residential,5500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,TigaonSec104,3RD FLOOR HUDA SEC,residential,5500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,TigaonSec104,3RD FLOOR LIC CLY,residential,5500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,TigaonSec104,4TH FLOOR HUDA SEC,residential,5500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,TigaonSec104,4TH FLOOR LIC CLY,residential,5500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,TigaonSec104,COMM. COMPLEX 1ST FLOOR,commercial,7000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,TigaonSec104,COMM. COMPLEX 2ND FLOOR,commercial,6500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,TigaonSec104,COMM. COMPLEX 3RD FLOOR,commercial,6000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,TigaonSec104,COMM. COMPLEX BASEMENT,commercial,6000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,TigaonSec104,COMM. PLOTS IN LIC AREA,commercial,50000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,TigaonSec104,FLATS IN LIC AREA,residential,5980,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,TigaonSec104,GROUND FLOOR HUDA SEC,residential,5500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,TigaonSec104,GROUND FLOOR LIC CLY,residential,5500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,TigaonSec104,GROUP HOUSINGH CO-OP SOC.,residential,5000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,TigaonSec104,HOUSING BOARD,residential,4500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,TigaonSec104,HUDA Res. Plot,residential,46800,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,TigaonSec104,INDUSTRIAL PLOT IN SEC.,industrial,12000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,LicenceAreaOther,All Floors Licence Colony other than sectors,residential,5500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,LicenceAreaOther,All Flats Licence Area other than sectors,residential,5980,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,LicenceAreaOther,All Residential Plots other than sectors in Licence Area,residential,51500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,LicenceAreaOther,ALL Comm. Plots other than sectors in Licence Area,commercial,50000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,LicenceAreaOther,ALL Comm. Complex other than sectors in Licence Area,commercial,6500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Tigaon,Residential Covered Area,residential,1500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Tigaon,Commercial Covered Area,commercial,1300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,Tigaon,Industrial / Ware Houses,industrial,1300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,RestOfVillages,Hospital/Institutional,industrial,10000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Tigaon,RestOfVillages,Industrial,industrial,10000,2026-04-01,faridabad_gov_in_dc_notification

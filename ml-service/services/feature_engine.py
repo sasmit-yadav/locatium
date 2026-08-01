@@ -121,7 +121,132 @@ async def _count_schools(conn: asyncpg.Connection, lng: float, lat: float, radiu
         return 0
 
 
-async def extract_location_features(lat: float, lng: float) -> dict[str, Any]:
+async def _resolve_district(conn: asyncpg.Connection, lng: float, lat: float) -> str | None:
+    sql = """
+      SELECT COALESCE(NULLIF(TRIM(n_d_name), ''), NULLIF(TRIM(dis_abb), '')) AS district
+      FROM district_boundary
+      WHERE geom IS NOT NULL
+        AND ST_Contains(geom, ST_SetSRID(ST_MakePoint($1, $2), 4326))
+      LIMIT 1
+    """
+    try:
+        return await conn.fetchval(sql, lng, lat)
+    except Exception:
+        return None
+
+
+def _district_aliases(district: str | None) -> list[str]:
+    if not district:
+        return []
+    key = district.strip().lower()
+    aliases = {
+        "gurugram": ["Gurugram", "Gurgaon"],
+        "gurgaon": ["Gurugram", "Gurgaon"],
+        "nuh": ["Nuh", "Mewat"],
+        "mewat": ["Nuh", "Mewat"],
+        "mahendragarh": ["Mahendragarh", "Mahendergarh"],
+        "mahendergarh": ["Mahendragarh", "Mahendergarh"],
+        "hisar": ["Hisar", "HISAR"],
+    }
+    return aliases.get(key, [district.strip()])
+
+
+async def extract_land_features(
+    conn: asyncpg.Connection, lat: float, lng: float, sector: str = "industrial"
+) -> dict[str, Any]:
+    """Gov circle-rate floor + attributable market comps near the point."""
+    sector = (sector or "industrial").strip().lower()
+    district = await _resolve_district(conn, lng, lat)
+    names = _district_aliases(district)
+    empty = {
+        "district": district,
+        "circle_rate_median_inr": None,
+        "circle_rate_sample_count": 0,
+        "comps_median_inr": None,
+        "comps_count": 0,
+        "market_premium_vs_floor": None,
+        "has_gov_floor": 0.0,
+    }
+    if not names:
+        return empty
+
+    try:
+        vintage = await conn.fetchval(
+            """
+            SELECT MAX(effective_from)
+            FROM circle_rates
+            WHERE sector_type = $2
+              AND source <> 'haryana_seed'
+              AND LOWER(TRIM(district)) = ANY (
+                SELECT LOWER(TRIM(x)) FROM unnest($1::text[]) AS x
+              )
+            """,
+            names,
+            sector,
+        )
+        circle_row = None
+        if vintage is not None:
+            circle_row = await conn.fetchrow(
+                """
+                SELECT
+                  PERCENTILE_CONT(0.5) WITHIN GROUP (ORDER BY rate_per_sq_yard_inr::float8) AS median_rate,
+                  COUNT(*)::int AS sample_count
+                FROM circle_rates
+                WHERE sector_type = $2
+                  AND source <> 'haryana_seed'
+                  AND effective_from = $3
+                  AND LOWER(TRIM(district)) = ANY (
+                    SELECT LOWER(TRIM(x)) FROM unnest($1::text[]) AS x
+                  )
+                """,
+                names,
+                sector,
+                vintage,
+            )
+
+        comps = await conn.fetchrow(
+            """
+            SELECT
+              PERCENTILE_CONT(0.5) WITHIN GROUP (ORDER BY price_per_sq_yard_inr::float8) AS median_price,
+              COUNT(*)::int AS sample_count
+            FROM land_transactions
+            WHERE geom IS NOT NULL
+              AND sector_type = $3
+              AND source <> 'seed_comparable'
+              AND transaction_date >= (CURRENT_DATE - INTERVAL '36 months')
+              AND ST_DWithin(
+                    geom::geography,
+                    ST_SetSRID(ST_MakePoint($1, $2), 4326)::geography,
+                    10000
+                  )
+            """,
+            lng,
+            lat,
+            sector,
+        )
+    except Exception:
+        return empty
+
+    circle_median = float(circle_row["median_rate"]) if circle_row and circle_row["median_rate"] is not None else None
+    circle_n = int(circle_row["sample_count"] or 0) if circle_row else 0
+    comps_median = float(comps["median_price"]) if comps and comps["median_price"] is not None else None
+    comps_n = int(comps["sample_count"] or 0) if comps else 0
+    premium = None
+    if circle_median and comps_median and circle_median > 0:
+        premium = (comps_median - circle_median) / circle_median
+
+    return {
+        "district": district,
+        "circle_rate_median_inr": circle_median,
+        "circle_rate_sample_count": circle_n,
+        "comps_median_inr": comps_median,
+        "comps_count": comps_n,
+        "market_premium_vs_floor": premium,
+        "has_gov_floor": 1.0 if circle_median else 0.0,
+    }
+
+
+async def extract_location_features(lat: float, lng: float, sector: str = "industrial") -> dict[str, Any]:
     pool = await get_pool()
     async with pool.acquire() as conn:
         (
@@ -165,6 +290,8 @@ async def extract_location_features(lat: float, lng: float) -> dict[str, Any]:
             _count_power_assets(conn, lng, lat, 3000),
             _count_within(conn, "roads_line", lng, lat, 3000),
         )
+        # Land queries share this connection — run after spatial gather (asyncpg is not concurrent-safe per conn).
+        land = await extract_land_features(conn, lat, lng, sector)
 
     return {
         "hospitals_5km": hospitals,
@@ -185,6 +312,7 @@ async def extract_location_features(lat: float, lng: float) -> dict[str, Any]:
         "utilities_2km": water_network + utility_lines,
         "power_assets_3km": power_assets,
         "roads_3km": roads,
+        **land,
     }
 
 
@@ -193,8 +321,15 @@ async def district_row_count(district: str | None = None) -> int:
     async with pool.acquire() as conn:
         try:
             if district:
-                sql = "SELECT COUNT(*)::int FROM zone_outcomes WHERE district = $1"
-                return int(await conn.fetchval(sql, district) or 0)
+                names = _district_aliases(district)
+                sql = """
+                  SELECT COUNT(*)::int
+                  FROM zone_outcomes
+                  WHERE LOWER(TRIM(district)) = ANY (
+                    SELECT LOWER(TRIM(x)) FROM unnest($1::text[]) AS x
+                  )
+                """
+                return int(await conn.fetchval(sql, names) or 0)
             return int(await conn.fetchval("SELECT COUNT(*)::int FROM zone_outcomes") or 0)
         except Exception:
             return 0

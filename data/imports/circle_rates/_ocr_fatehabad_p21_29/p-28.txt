@@ -1,0 +1,34 @@
+Increase/ | 2023 | 2 | Increase/
+2023 | 2024
+Decrease%
+2024 | 2025-2026
+Decrease
+%
+6600f | 7000 | 6.6
+Second Floor
+5500 | 6000 f
+Third Floor
+13.6
+4400uf
+5000
+Forth Floor
+6000  | 10 | 5500
+Basement 1
+10000
+4.1
+3243.9.1011R | 9600f
+Ground Floor
+9000 f | 8.3 | 8400 
+First Floor
+7500f | 4.6 | 7200
+Second Floor
+6000f
+6000f | 0
+Third Floor
+4800f | 5000f | 4.1
+Forth Floor
+6000 | 6000f
+0
+Basement1
+Sub Registrar, Fatehabad EO Fatehabad | SDO(C)Fatehabd
+Collector Fatehabad

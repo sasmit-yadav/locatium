@@ -1,0 +1,508 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Karnal,Gharaunda,AmritpurKalan,Abadi Gair Mumkin,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,AmritpurKalan,Abadi Gair Mumkin,commercial,8000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,AmritpurKalan,Agricultural land Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,AmritpurKalan,Paved road up to 2 acres Chahi Prime,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,AmritpurKalan,Inside bandh gair mumkin sand and river,agricultural,206.61,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,AmritpurKalan,Inside bandh agricultural and sailab land,agricultural,309.92,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,AmritpurKhurd,Abadi Gair Mumkin,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,AmritpurKhurd,Abadi Gair Mumkin,commercial,8000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,AmritpurKhurd,Agricultural land Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,AmritpurKhurd,Paved road up to 2 acres Chahi Prime,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,AmritpurKhurd,Inside bandh agricultural and sailab land,agricultural,309.92,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,AmritpurKhurd,Inside bandh gair mumkin sand and river,agricultural,206.61,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,AraiPura,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,AraiPura,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,AraiPura,Village land Chahi,agricultural,661.16,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,AraiPura,Paved road up to 2 acres Chahi,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,AraiPura,Remaining cultivated land Chahi,agricultural,661.16,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,AlipurKhalsa,Abadi Gair Mumkin,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,AlipurKhalsa,Abadi Gair Mumkin,commercial,8000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,AlipurKhalsa,Village land Chahi,agricultural,1136.36,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,AlipurKhalsa,Paved road land Chahi,agricultural,1446.28,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,UnchaSamana,Land up to 2 acres Chahi Prime,agricultural,1446.28,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,UnchaSamana,Remaining cultivated land Chahi,agricultural,1136.36,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,UnchaSamana,Abadi Gair Mumkin,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,UnchaSamana,Abadi Gair Mumkin,commercial,8000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,UnchaSamana,Other agricultural land Chahi,agricultural,1342.98,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,UnchaSamana,GT Road up to 2 acres agricultural land Chahi,agricultural,3512.4,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,UnchaSamana,Link Road up to 2 acres agricultural land Chahi,agricultural,1652.89,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,UnchaSamana,GT Road 3-5 acres agricultural land Chahi,agricultural,1652.89,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Upli,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Upli,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Upli,Village land Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Upli,Paved road up to 2 acres Chahi,agricultural,1033.06,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Upli,Remaining cultivated land Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Kalri,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Kalri,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Kalri,Village land Chahi,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Kalri,Paved road up to 2 acres Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Kalri,Inside bandh agricultural and sailab land,agricultural,309.92,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Kalri,Inside bandh gair mumkin sand,agricultural,206.61,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Kalheri,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Kalheri,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Kalheri,Remaining cultivated land Chahi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Kapron,Paved road up to 2 acres Chahi Prime,agricultural,1033.06,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Kapron,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Kapron,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Kapron,Remaining cultivated land Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Kalron,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Kalron,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Kalron,Paved road up to 2 acres Chahi Prime,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Kalron,Remaining cultivated land Chahi,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Kutel,Abadi Gair Mumkin,residential,5000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Kutel,Abadi Gair Mumkin,commercial,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Kutel,GT Road 3-5 acres agricultural land Chahi,agricultural,2066.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Kutel,GT Road up to 2 acres agricultural land Chahi,agricultural,3512.4,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Kutel,Other agricultural land Chahi,agricultural,1549.59,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Kutel,Link Road up to 2 acres agricultural land Chahi,agricultural,2066.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Keharwali,Abadi Gair Mumkin,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Keharwali,Abadi Gair Mumkin,commercial,8000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Keharwali,Chakmushtarka,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Keharwali,Chakmushtarka,commercial,8000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Keharwali,Paved road up to 2 acres Chahi,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Keharwali,Remaining cultivated land Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Keharwali,Inside bandh agricultural and sailab land,agricultural,309.92,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Kaimla,Inside bandh gair mumkin sand and river,agricultural,206.61,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Kaimla,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Kaimla,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Kaimla,Paved road up to 2 acres Chahi Prime,agricultural,1136.36,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Kaimla,Remaining cultivated land Chahi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Kohand,Unnat Industrial Park,commercial,20000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Kohand,Unnat Industrial Park,residential,14000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Kohand,Abadi Gair Mumkin,residential,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Kohand,Abadi Gair Mumkin,commercial,16000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Kohand,GT Road 3-5 acres agricultural land Chahi,agricultural,2272.73,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Kohand,GT Road up to 2 acres Chahi Prime,agricultural,3719.01,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Kohand,Gate to GT Road,residential,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Kohand,Gate to GT Road,commercial,16000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Kohand,Paved road up to 2 acres Chahi Prime,agricultural,1549.59,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Kohand,Remaining cultivated land Chahi,agricultural,1033.06,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Kharkali,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Kharkali,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Kharkali,Paved road up to 2 acres Chahi Prime,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Kharkali,Remaining cultivated land Chahi,agricultural,516.53,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Khawajpura,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Khawajpura,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Khawajpura,Inside bandh,agricultural,206.61,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Khawajpura,Inside bandh gair mumkin sand and river,agricultural,206.61,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Khawajpura,Paved road up to 2 acres Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Khawajpura,Inside bandh agricultural and sailab land,agricultural,309.92,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Khawajpura,Remaining cultivated land Chahi,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,KhoraKheri,Abadi Gair Mumkin,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,KhoraKheri,Abadi Gair Mumkin,commercial,8000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,KhoraKheri,Paved road up to 2 acres Chahi Prime,agricultural,1033.06,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,KhoraKheri,Remaining cultivated land Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Khojgipur,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Khojgipur,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Khojgipur,Remaining cultivated land Chahi,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Khojgipur,Inside bandh gair mumkin sand,agricultural,206.61,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Khojgipur,Paved road up to 2 acres Chahi Prime,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Khojgipur,Inside bandh agricultural and sailab land,agricultural,309.92,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gagsina,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gagsina,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gagsina,Paved road up to 2 acres Chahi Prime,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gagsina,Remaining cultivated land Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,GarhiKhajur,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,GarhiKhajur,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,GarhiKhajur,Paved road up to 2 acres Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,GarhiKhajur,Remaining cultivated land Chahi,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,GarhiBhalal,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,GarhiBhalal,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,GarhiBhalal,Remaining cultivated land Chahi,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,GarhiBhalal,Inside bandh gair mumkin sand and river,agricultural,206.61,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,GarhiBhalal,Paved road up to 2 acres Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,GarhiBhalal,Inside bandh agricultural and sailab land,agricultural,309.92,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,GarhiMultan,NYSA Panipat Industrial Park,commercial,20000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,GarhiMultan,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,GarhiMultan,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,GarhiMultan,GT Road 3-5 acres agricultural land Chahi,agricultural,2272.73,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,GarhiMultan,GT Road up to 2 acres Chahi Prime,agricultural,3512.4,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,GarhiMultan,Paved road up to 2 acres Chahi,agricultural,1136.36,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,GarhiMultan,Remaining cultivated land Chahi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gudha,Abadi Gair Mumkin,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gudha,Abadi Gair Mumkin,commercial,8000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gudha,Paved road up to 2 acres Chahi,agricultural,1033.06,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gudha,Remaining cultivated land Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Agrawal Colony,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Agrawal Colony,commercial,30000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Aggrasen Colony,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Aggrasen Colony,commercial,30000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Anokh Singh Colony,residential,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Anokh Singh Colony,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Araipura Road,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Araipura Road,commercial,30000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Ashok Nagar,residential,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Ashok Nagar,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Adarsh Colony,residential,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Adarsh Colony,commercial,30000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Army Land,residential,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Army Land,commercial,30000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Arya School Colony,residential,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Arya School Colony,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Arya Nagar,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Arya Nagar,commercial,30000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Indo Steel Farm,residential,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Indo Steel Farm,commercial,30000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Rishikul School Colony,residential,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Rishikul School Colony,commercial,30000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,SD Mandir Bazar,residential,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,SD Mandir Bazar,commercial,70000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Karan Vihar,residential,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Karan Vihar,commercial,30000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Karmveer Colony,residential,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Karmveer Colony,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Karmali Mohalla,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Karmali Mohalla,commercial,45000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Kutiya Colony,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Kutiya Colony,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,GT Road 3-5 acres agricultural land Chahi,agricultural,2582.64,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Kaimla Road,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Kaimla Road,commercial,25000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Kotia Colony,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Kotia Colony,commercial,25000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Crown City,residential,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Crown City,commercial,30000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Khurana Colony,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Khurana Colony,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Gadariya Mohalla,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Gadariya Mohalla,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Gurukul Colony,residential,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Gurukul Colony,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Outside MC less than 2 kanal agricultural land,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Outside MC less than 2 kanal agricultural land,commercial,25000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Inside municipal limits agricultural land Chahi Normal,agricultural,2685.95,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Inside municipal limits agricultural land Chahi Prime,agricultural,3719.01,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Agricultural land Chahi within NP boundary Normal,agricultural,2685.95,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Agricultural land Chahi within NP boundary Prime,agricultural,3719.01,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Inside NP less than 2 kanal agricultural land,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Inside NP less than 2 kanal agricultural land,commercial,25000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,GT Road up to 2 acres agricultural land Chahi,agricultural,3719.01,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Jal Singh Colony,residential,8000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Jal Singh Colony,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Other than GT Road Chahi,agricultural,2685.95,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Other than GT Road Nahri,agricultural,2685.95,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,GT Road both sides inside MC,commercial,60000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Tower Colony,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Tower Colony,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Defence Zone Colony,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Defence Zone Colony,commercial,25000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Dingar Majra Road,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Dingar Majra Road,commercial,25000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Telu Singh Colony alias Teluram,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Telu Singh Colony alias Teluram,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Durga Colony,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Durga Colony,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Durga Colony Extension,residential,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Durga Colony Extension,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Devi Mandir to GT Road,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Devi Mandir to GT Road,commercial,70000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Dharambir Colony,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Dharambir Colony,commercial,30000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Outside MC,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,GT Road shops,commercial,25000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Outside MC agricultural land Chahi,agricultural,1306.82,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,New Grain Market shops,commercial,60000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Naseeb Vihar,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Naseeb Vihar,commercial,25000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Patwari Mohalla,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Patwari Mohalla,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Patel Market,residential,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Patel Market,commercial,70000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Pannodi Road,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Pannodi Road,commercial,30000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Pasi Colony,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Pasi Colony,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Bajaj Colony,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Bajaj Colony,commercial,30000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Barsat Road,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Barsat Road,commercial,25000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Balaji Colony,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Balaji Colony,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Bali Nagar,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Bali Nagar,commercial,30000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Bhagat Ram Colony,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Bhagat Ram Colony,commercial,30000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Bhatta Colony,residential,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Bhatta Colony,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Bhishma Marg,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Bhishma Marg,commercial,30000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Bhola Colony,residential,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Bhola Colony,commercial,30000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Mandi Mani Ram,residential,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Mandi Mani Ram,commercial,70000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Malikpur Road,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Malikpur Road,commercial,25000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Meghraj Colony,residential,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Meghraj Colony,commercial,30000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Main Bazar,residential,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Main Bazar,commercial,50000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Raghuvir Vihar,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Raghuvir Vihar,commercial,35000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Rajput Mohalla,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Rajput Mohalla,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Rajiv Balmiki Colony,residential,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Rajiv Balmiki Colony,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Rana Bagh Colony,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Rana Bagh Colony,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Radha Swami Colony,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Radha Swami Colony,commercial,25000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Rani Das Mandir,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Rani Das Mandir,commercial,45000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Ramnagar,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Ramnagar,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Railway Road,residential,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Railway Road,commercial,70000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Railway Line Paar,residential,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Railway Line Paar,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Girls School ke saath Takiya,residential,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Girls School ke saath Takiya,commercial,70000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Watan Singh Colony,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Watan Singh Colony,commercial,25000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Mandi Deepchand others,residential,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Mandi Deepchand others,commercial,45000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Ward 16,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Ward 16,commercial,35000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Ward 10,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Ward 10,commercial,30000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Ward 11,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Ward 11,commercial,30000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Ward 12,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Ward 12,commercial,30000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Ward 14,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Ward 14,commercial,45000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Ward 2,residential,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Ward 2,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Ward 3,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Ward 3,commercial,30000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Ward 4,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Ward 4,commercial,30000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Ward 5,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Ward 5,commercial,25000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Ward 7,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Ward 7,commercial,45000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Ward 9,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Ward 9,commercial,30000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Ward 1,residential,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Ward 1,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Ward 6,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Ward 6,commercial,30000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Vig Colony,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Vig Colony,commercial,30000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Veer Rice Mills Colony,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Veer Rice Mills Colony,commercial,25000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Shanishchar Colony,residential,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Shanishchar Colony,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Shaheed Malkhan Singh Colony,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Shaheed Malkhan Singh Colony,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Shastri Nagar,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Shastri Nagar,commercial,30000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Shiv Colony,residential,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Shiv Colony,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Santu Bhagat,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Santu Bhagat,commercial,45000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Sabji Mandi shops,commercial,60000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Colony behind Government School,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Colony behind Government School,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Singla Lane,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Singla Lane,commercial,30000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Sikligar Mohalla,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Sikligar Mohalla,commercial,45000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Serial 1 to 15 excluding 2,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Serial 1 to 15 excluding 2,commercial,25000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Sita Nagar,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Sita Nagar,commercial,30000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Sector 9 plots on three roads,residential,30000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Sector 9 plots on two roads,residential,25000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Sector 9 commercial plots,commercial,50000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Sector 9 plots on single road,residential,20000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Century School Indo Israel,residential,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Century School Indo Israel,commercial,30000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Hanuman Mandir Colony,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Hanuman Mandir Colony,commercial,30000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Harijan Mohalla,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Harijan Mohalla,commercial,45000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Haripura Mohalla,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gharaunda,Haripura Mohalla,commercial,30000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Chaura,Abadi Gair Mumkin,residential,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Chaura,Abadi Gair Mumkin,commercial,16000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Chaura,Village chowk bazaar,residential,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Chaura,Village chowk bazaar,commercial,16000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Chaura,Paved road up to 2 acres Chahi Prime,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Chaura,Remaining cultivated land Chahi,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Jadauli,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Jadauli,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Jadauli,Paved road up to 2 acres Chahi Prime,agricultural,1363.64,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Jadauli,Remaining cultivated land Chahi,agricultural,1033.06,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Jamalpur,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Jamalpur,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Jamalpur,Paved road up to 2 acres Chahi Prime,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Jamalpur,Remaining cultivated land Chahi,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gyanpura,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gyanpura,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gyanpura,Paved road up to 2 acres Chahi Prime,agricultural,1033.06,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Gyanpura,Remaining cultivated land Chahi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,JhinwarHeri,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,JhinwarHeri,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,JhinwarHeri,Paved road up to 2 acres Chahi,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,JhinwarHeri,Remaining cultivated land Chahi,agricultural,516.53,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,DingarMajra,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,DingarMajra,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,DingarMajra,Paved road up to 2 acres Chahi Prime,agricultural,1033.06,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,DingarMajra,Remaining cultivated land Chahi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,DaralmaTatarpur,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,DaralmaTatarpur,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,DaralmaTatarpur,Paved road up to 2 acres Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,DaralmaTatarpur,Remaining cultivated land Chahi,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Panaudi,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Panaudi,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Panaudi,Paved road up to 2 acres Chahi,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Panaudi,Remaining cultivated land Chahi,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Pipalwali,Abadi Gair Mumkin,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Pipalwali,Abadi Gair Mumkin,commercial,8000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Pipalwali,Paved road up to 2 acres Chahi Prime,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Pipalwali,Remaining agricultural land Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,PeerBadauli,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,PeerBadauli,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,PeerBadauli,Inside bandh gair mumkin sand and river,agricultural,206.61,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,PeerBadauli,Paved road up to 2 acres Chahi Prime,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,PeerBadauli,Inside bandh agricultural and sailab land,agricultural,309.92,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,PeerBadauli,Village land Chahi,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Pundri,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Pundri,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Pundri,Paved road up to 2 acres Chahi,agricultural,1033.06,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Pundri,Remaining cultivated land Chahi,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Faridpur,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Faridpur,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Faridpur,Paved road up to 2 acres Chahi Prime,agricultural,1033.06,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Faridpur,Mining marked land Chahi,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Faridpur,Remaining cultivated land Chahi,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Phurlak,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Phurlak,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Phurlak,Paved road up to 2 acres Chahi Prime,agricultural,1033.06,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Phurlak,Remaining cultivated land Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,FaizaliPurMajra,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,FaizaliPurMajra,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,FaizaliPurMajra,Paved road up to 2 acres Chahi Prime,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,FaizaliPurMajra,Remaining cultivated land Chahi,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Mohri,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Mohri,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Mohri,Paved road up to 2 acres Chahi Prime,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Mohri,Remaining cultivated land Chahi,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Barsat,Abadi Gair Mumkin,residential,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Barsat,Abadi Gair Mumkin,commercial,16000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Barsat,Paved road up to 2 acres Chahi,agricultural,1033.06,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Barsat,Remaining cultivated land Chahi,agricultural,867.77,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Barsat,Village chowk,residential,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Barsat,Village chowk,commercial,16000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Balheda,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Balheda,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Balheda,Inside bandh gair mumkin sand and river,agricultural,206.61,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Balheda,Paved road up to 2 acres Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Balheda,Inside bandh agricultural and sailab land,agricultural,309.92,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Balheda,Remaining cultivated land Chahi,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,BasiAkbarpur,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,BasiAkbarpur,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,BasiAkbarpur,Paved road up to 2 acres Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,BasiAkbarpur,Remaining cultivated land Chahi,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Bastara,Abadi Gair Mumkin,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Bastara,Abadi Gair Mumkin,commercial,8000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Bastara,GT Road 3-5 acres agricultural land Chahi,agricultural,2272.73,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Bastara,Paved road up to 2 acres Chahi,agricultural,1549.59,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Bastara,Village land Chahi,agricultural,1033.06,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Bastara,GT Road up to 2 acres Chahi Prime,agricultural,3512.4,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Bahlolpur,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Bahlolpur,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Bahlolpur,Paved road up to 2 acres Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Bahlolpur,Remaining cultivated land Chahi,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Badshahpur,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Badshahpur,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Badshahpur,Paved road up to 2 acres Chahi,agricultural,1033.06,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Badshahpur,Remaining cultivated land Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Beejna,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Beejna,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Beejna,Paved road up to 2 acres Chahi,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Beejna,Remaining cultivated land Chahi,agricultural,516.53,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Budhanpur,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Budhanpur,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Budhanpur,Paved road up to 2 acres Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Budhanpur,Remaining cultivated land Chahi,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Begampur,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Begampur,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Begampur,Paved road up to 2 acres Chahi,agricultural,1033.06,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Begampur,Remaining cultivated land Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,BahuMajra,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,BahuMajra,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,BahuMajra,Inside bandh gair mumkin sand and river,agricultural,206.61,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,BahuMajra,Paved road up to 2 acres Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,BahuMajra,Inside bandh agricultural and sailab land,agricultural,309.92,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,BahuMajra,Remaining cultivated land Chahi,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,MangloraKadim,Abadi Gair Mumkin,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,MangloraKadim,Abadi Gair Mumkin,commercial,8000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,MangloraKadim,Inside bandh gair mumkin sand and river,agricultural,206.61,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,MangloraKadim,Inside bandh agricultural and sailab land,agricultural,309.92,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,MangloraKadim,Remaining cultivated land Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Malikpur,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Malikpur,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Malikpur,GT Road 3-5 acres agricultural land Chahi,agricultural,2272.73,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Malikpur,Paved road up to 2 acres Chahi,agricultural,1033.06,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Malikpur,GT Road up to 2 acres Chahi,agricultural,3512.4,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Malikpur,Remaining cultivated land Chahi,agricultural,991.74,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,MalikpurGadiyan,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,MalikpurGadiyan,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,MalikpurGadiyan,Paved road up to 2 acres Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,MalikpurGadiyan,Remaining cultivated land Chahi,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,MundiGarhi,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,MundiGarhi,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,MundiGarhi,Inside bandh gair mumkin sand and river,agricultural,206.61,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,MundiGarhi,Paved road up to 2 acres Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,MundiGarhi,Inside bandh agricultural and sailab land,agricultural,309.92,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,MundiGarhi,Village land Chahi,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Mubarakabad,Abadi Gair Mumkin,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Mubarakabad,Abadi Gair Mumkin,commercial,8000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Mubarakabad,Paved road up to 2 acres Chahi,agricultural,1033.06,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Mubarakabad,Remaining agricultural land Chahi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Raseen,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Raseen,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Raseen,Paved road up to 2 acres Chahi,agricultural,1033.06,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Raseen,Remaining cultivated land Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,RaipurJatan,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,RaipurJatan,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,RaipurJatan,Paved road up to 2 acres Chahi,agricultural,1033.06,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,RaipurJatan,Remaining cultivated land Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,LaluPura,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,LaluPura,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,LaluPura,Inside bandh gair mumkin sand and river,agricultural,206.61,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,LaluPura,Paved road up to 2 acres Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,LaluPura,Inside bandh agricultural and sailab land,agricultural,309.92,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,LaluPura,Remaining cultivated land Chahi,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Shahjahanpur,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Shahjahanpur,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Shahjahanpur,Paved road up to 2 acres Chahi,agricultural,1033.06,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Shahjahanpur,Remaining cultivated land Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,SheikhPura,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,SheikhPura,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,SheikhPura,Paved road up to 2 acres Chahi,agricultural,1033.06,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,SheikhPura,Remaining cultivated land Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Sadarpur,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Sadarpur,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Sadarpur,Inside bandh gair mumkin sand and river,agricultural,206.61,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Sadarpur,Paved road up to 2 acres Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Sadarpur,Inside bandh agricultural and sailab land,agricultural,309.92,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Sadarpur,Remaining cultivated land Chahi,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Samalkha,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Samalkha,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Samalkha,Paved road up to 2 acres Chahi,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Samalkha,Remaining cultivated land Chahi,agricultural,516.53,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Staundi,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Staundi,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Staundi,Paved road up to 2 acres Chahi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Staundi,Remaining cultivated land Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,HarsinghPura,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,HarsinghPura,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,HarsinghPura,Paved road up to 2 acres Chahi,agricultural,1033.06,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,HarsinghPura,Remaining cultivated land Chahi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Hasanpur,Abadi Gair Mumkin,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Hasanpur,Abadi Gair Mumkin,commercial,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Hasanpur,Paved road up to 2 acres Chahi Prime,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Gharaunda,Hasanpur,Remaining cultivated land Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification

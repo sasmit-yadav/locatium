@@ -1,0 +1,720 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Jhajjar,Jhajjar,Jhajjar,Authorized colonies outside MC,commercial,13000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Authorized colonies outside MC,residential,8000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,HSVP school college hospital industrial,industrial,14000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Inside MC Jhajjar industrial,industrial,11000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Outside MC industrial,industrial,7000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Amadalpur,Amadalpur to Ahri,agricultural,1869.32,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Amadalpur,Amadalpur to Ahri,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Amadalpur,NH 71,agricultural,2943.18,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Amadalpur,NH 71,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Amadalpur,Amadalpur,agricultural,1471.59,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Amadalpur,Amadalpur,agricultural,1869.32,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Amadalpur,Amadalpur,residential,3680,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,AsadpurKhera,Link Road,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,AsadpurKhera,AsadpurKhera,agricultural,625.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,AsadpurKhera,AsadpurKhera,agricultural,800.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,AsadpurKhera,AsadpurKhera,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Ahri,Link Road,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Ahri,Ahri,agricultural,909.09,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Ahri,Ahri,agricultural,1163.64,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Ahri,Ahri,agricultural,994.32,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Ahri,Ahri,agricultural,1272.73,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Ahri,Ahri,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Ishwarheri,Ishwarheri,agricultural,659.09,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Ishwarheri,Ishwarheri,agricultural,790.91,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Ishwarheri,Ishwarheri,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Untlodha,Link Road,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Untlodha,Untlodha,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Untlodha,Untlodha,agricultural,795.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Untlodha,Untlodha,agricultural,994.32,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Untlodha,Untlodha,residential,4160,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Ukhalchana,Link Road,agricultural,2187.5,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Ukhalchana,Ukhalchana,agricultural,1278.41,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Ukhalchana,Ukhalchana,agricultural,1562.5,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Ukhalchana,Ukhalchana,agricultural,2187.5,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Ukhalchana,Ukhalchana,agricultural,1789.77,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Ukhalchana,Ukhalchana,agricultural,7700,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kadauda,Kadauda,residential,4950,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kadauda,Kadauda,agricultural,795.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kadauda,Kadauda,agricultural,994.32,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kadauda,Kadauda,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kanhwa,Kanhwa,agricultural,500.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kanhwa,Kanhwa,agricultural,625.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kanhwa,Kanhwa,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kablana,Jhajjar to Kablana,agricultural,2068.18,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kablana,Jhajjar to Kablana,agricultural,1392.05,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kablana,Jhajjar to Kablana,agricultural,1735.54,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kablana,Jhajjar to Kablana,agricultural,1740.06,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kablana,Kablana,agricultural,1272.73,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kablana,Kablana,agricultural,1586.78,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kablana,Kablana,agricultural,1392.05,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kablana,Kablana,agricultural,1740.06,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kablana,Kablana,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kaloi,Kaloi,agricultural,1278.41,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kaloi,Kaloi,residential,4950,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kasni,Hasanpur to Fatehpuri,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kasni,Kasni to Jhajjar,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kasni,Kasni to Subana,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kasni,Kasni,agricultural,738.64,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kasni,Kasni,agricultural,1107.95,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kasni,Kasni,agricultural,994.32,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kasni,Kasni,agricultural,1491.48,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kasni,Kasni,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kasni,Dusre Road,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kahri,Link Road,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kahri,Kahri,agricultural,568.18,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kahri,Kahri,agricultural,710.23,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kahri,Kahri,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kilahlod,Link Road,agricultural,710.23,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kilahlod,Kilahlod,agricultural,659.09,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kilahlod,Kilahlod,agricultural,823.86,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kilahlod,Kilahlod,agricultural,795.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kilahlod,Kilahlod,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kuniyan,Link Road,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kunjia,Kunjia,agricultural,795.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kunjia,Kunjia,agricultural,994.32,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kunjia,Kunjia,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kulana,Kulana to Ahri,agricultural,2386.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kulana,Kulana to Ahri,agricultural,2982.95,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kulana,NH 71,agricultural,4772.73,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kulana,NH 71,residential,4950,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kulana,Kulana,agricultural,2386.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kulana,Kulana,agricultural,2982.95,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kulana,Kulana,residential,5175,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kulana,Kulana,commercial,9200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kulana,Kulana,industrial,8855,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kemalgarh,Jhajjar to Bahadurgarh,residential,4950,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kemalgarh,Kemalgarh,residential,4950,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kemalgarh,Kemalgarh,agricultural,1988.64,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kemalgarh,Kemalgarh,agricultural,2485.8,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kemalgarh,Kemalgarh,residential,5850,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Kemalgarh,Kemalgarh Link Road,residential,5850,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Koka,Link Road,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Koka,Koka,agricultural,1153.41,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Koka,Koka,agricultural,1438.02,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Koka,Koka,agricultural,1441.76,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Koka,Koka,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Khakhana,NH 71,agricultural,2097.73,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Khakhana,NH 71,residential,3630,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Khakhana,Rewari to Khakhana,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Khakhana,Khakhana,agricultural,886.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Khakhana,Khakhana,agricultural,1107.95,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Khakhana,Khakhana,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Khatiwas,Khatiwas,agricultural,1193.18,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Khatiwas,Khatiwas,agricultural,1491.48,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Khudan,Link Road,residential,4950,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Khudan,Link Road,agricultural,1000.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Khudan,Khudan,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Khudan,Khudan,agricultural,800.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Khudan,Khudan,agricultural,1000.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Khudan,Khudan,agricultural,875.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Khudan,Khudan,agricultural,1491.48,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Khudan,Khudan,agricultural,1093.75,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,KheriAsra,KheriAsra,agricultural,681.82,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,KheriAsra,KheriAsra,agricultural,909.09,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,KheriAsra,KheriAsra,agricultural,954.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,KheriAsra,KheriAsra,agricultural,1272.73,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,KheriAsra,KheriAsra,residential,4000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,KheriAsra,KheriAsra,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Patoda,Patoda,agricultural,1272.73,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Patoda,Patoda,agricultural,1586.78,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,KheriTaluka,KheriTaluka Patoda,agricultural,1272.73,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Patoda,Patoda,agricultural,1590.91,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Patoda,Patoda,agricultural,1392.05,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Patoda,Patoda,agricultural,1735.54,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Patoda,Patoda,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,KheriHoshiarpur,KheriHoshiarpur,agricultural,568.18,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,KheriHoshiarpur,KheriHoshiarpur,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,KheriKhummar,Dhaur to Kheri,residential,6600,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,KheriKhummar,KheriKhummar,residential,6600,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,KheriKhummar,Jhajjar to KheriKhummar,residential,6600,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,KheriKhummar,KheriKhummar,agricultural,1562.5,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,KheriKhummar,KheriKhummar,agricultural,1953.12,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,KheriKhummar,KheriKhummar,agricultural,2187.5,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,KheriKhummar,KheriKhummar,agricultural,2729.86,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Gijarod,Link Road,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Gijarod,Gijarod,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Gijarod,Gijarod,agricultural,1113.64,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Gijarod,Gijarod,agricultural,1392.05,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Dingardharpur,Link Road,agricultural,994.32,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Dingardharpur,Dingardharpur,agricultural,795.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Dingardharpur,Dingardharpur,agricultural,994.32,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Dingardharpur,Dingardharpur,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Girawar,Link Road,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Girawar,Girawar,agricultural,1084.71,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Girawar,Girawar,agricultural,1355.89,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Girawar,Girawar,agricultural,3062.5,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Girawar,Girawar,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Girawar,Chhara Road,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Guda,Guda,agricultural,1812.5,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Guda,Guda,agricultural,2264.88,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Guda,Guda,agricultural,2265.62,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Guda,Guda,agricultural,2187.5,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Guda,Guda,agricultural,2733.47,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Guda,Guda,residential,4950,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Guda,Dusre Road,residential,4950,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Guda,Rohtak Road,residential,4950,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Gwaliyar,Approach Road Khatiwas,agricultural,909.09,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Gwaliyar,Approach Road Khatiwas,agricultural,1163.64,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Gwaliyar,Gwaliyar,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Gwaliyar,Jhajjar to Chuchakwas,agricultural,909.09,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Gwaliyar,Jhajjar to Chuchakwas,agricultural,1363.64,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Gwaliyar,Kheri Hoshiarpur Road,agricultural,1163.64,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Gwaliyar,Kheri Hoshiarpur Road,agricultural,909.09,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Gwaliyar,Kheri Hoshiarpur Road,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Gwaliyar,Gwaliyar,agricultural,909.09,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Gwaliyar,Gwaliyar,agricultural,1363.64,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Gwaliyar,Gwaliyar,agricultural,994.32,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,ChandpuriViran,Link Road,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,ChandpuriViran,ChandpuriViran,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,ChandpuriViran,ChandpuriViran,agricultural,522.73,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,ChandpuriViran,ChandpuriViran,agricultural,653.41,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,ChandpuriViran,ChandpuriViran,agricultural,795.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,ChandpuriViran,ChandpuriViran,agricultural,994.32,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Chandpur,Chandpur,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Chandpur,NH 71,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Chandpur,Chandpur,agricultural,750.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Chandpur,Chandpur,agricultural,1772.73,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Chandpur,Chandpur,agricultural,1775.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Chandaut,Link Road,agricultural,681.82,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Chandaut,Link Road,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Chandaut,Chandaut,agricultural,545.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Chandaut,Chandaut,agricultural,681.82,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Chandaut,Chandaut,agricultural,795.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Chandaut,Chandaut,agricultural,994.32,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Chandaut,Chandaut,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Chhapar,Link Road,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Chhapar,Link Road,agricultural,522.73,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Chhapar,Chhapar,agricultural,653.41,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Chhapar,Chhapar,agricultural,522.73,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Chhapar,Chhapar,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jondhi,Jondhi Road,agricultural,3480.11,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jondhi,Jondhi,agricultural,2784.09,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jondhi,Jondhi,agricultural,3480.11,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jondhi,Jondhi,residential,10500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jondhi,Jondhi,commercial,6655,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jondhi,Birdhana Road,residential,6600,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jondhi,Birdhana Road,commercial,6600,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jatwara,Jhajjar to Kosli,agricultural,1630.68,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jatwara,Jatwara,agricultural,795.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jatwara,Jatwara,agricultural,1690.34,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jatwara,Jatwara,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jahidpur,Jahidpur,agricultural,994.32,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jahidpur,Jahidpur,agricultural,795.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jahidpur,Jahidpur,residential,5120,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jaitpur,Link Road,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jaitpur,Jaitpur,agricultural,568.18,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jaitpur,Jaitpur,agricultural,710.23,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jaitpur,Jaitpur,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Adharsh Nagar1,residential,26125,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Adharsh Nagar1,commercial,39875,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Amar Colony,residential,16940,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Amar Colony,commercial,24200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Balmiki Basti Chhara Chungi,residential,16940,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Balmiki Basti Chhara Chungi,commercial,43560,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Beri Gate 1,residential,19250,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Beri Gate 1,commercial,25300,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Bhathi Gate,residential,16940,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Bhathi Gate,commercial,43560,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Chipiyan Mohalla,residential,16940,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Chipiyan Mohalla,commercial,43560,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Chopta Mohalla,residential,18700,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Chopta Mohalla,commercial,47300,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Choudharyan Mohalla,residential,17710,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Choudharyan Mohalla,commercial,51480,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Damdama Mohalla,residential,19250,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Damdama Mohalla,commercial,51480,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Dilli Gate,residential,16940,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Dilli Gate,commercial,43560,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Dimond Chowk Main Bazar,residential,24200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Dimond Chowk Main Bazar,commercial,87120,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Diwan Gate,residential,17710,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Diwan Gate,commercial,47520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Durga Mohalla,residential,16940,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Durga Mohalla,commercial,43560,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Friends Colony,residential,16940,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Friends Colony,commercial,24200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Goshyan Mohalla,residential,17710,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Goshyan Mohalla,commercial,47520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Government Colony,residential,18150,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Government Colony,commercial,24200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Govt Polotechnical Jhajjar College,residential,18150,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Govt Polotechnical Jhajjar College,commercial,24200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Gurgaon Road,agricultural,6250.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Gurukul 1,residential,14520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Gurukul 1,commercial,17545,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Gurukul 2,residential,12100,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Gurukul 2,commercial,17545,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Haripura Mohalla,residential,21250,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Haripura Mohalla,commercial,69120,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Jain Gali,residential,16940,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Jain Gali,commercial,43560,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Jama Masjid Mohalla,residential,16940,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Jama Masjid Mohalla,commercial,43560,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Jatia Colony,residential,22100,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Jatia Colony,commercial,42000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Jatia Mohalla,residential,24650,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Jatia Mohalla,commercial,53750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Jhajjar Badli Road,residential,16940,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Jhajjar Badli Road,commercial,31460,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Kanungo Mohalla,residential,16940,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Kanungo Mohalla,commercial,43560,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Kanwar Singh Khari Kui Mohalla,residential,27500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Kanwar Singh Khari Kui Mohalla,commercial,19250,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Kodan Mohalla,residential,18480,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Kodan Mohalla,commercial,51480,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Lakhania Mohalla,residential,16940,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Lakhania Mohalla,commercial,43560,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Link Road,agricultural,2840.91,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Mandi Mohalla,residential,16940,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Mandi Mohalla,commercial,43560,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Mohalla Bastiram,residential,18480,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Mohalla Bastiram,commercial,49500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Nayieo Wala Mohalla,residential,16940,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Nayieo Wala Mohalla,commercial,43560,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Nehru Colony,residential,18150,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Nehru Colony,commercial,24200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,New Bus Stand,residential,18150,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,New Bus Stand,commercial,31460,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Other Coloy,residential,16940,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Other Coloy,commercial,24200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Palika Bazar,residential,24200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Palika Bazar,commercial,87120,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Police Station Jhajjar,residential,24200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Police Station Jhajjar,commercial,91080,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Post Office Jhajjar,residential,24200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Post Office Jhajjar,commercial,87120,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Power House,residential,18150,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Power House,commercial,33880,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Radha Swami Colony,residential,18150,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Radha Swami Colony,commercial,31460,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Rishi Colony,residential,21780,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Rishi Colony,commercial,26620,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Sampla Road Najdeek BayPass,residential,16940,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Sampla Road Najdeek BayPass,commercial,24200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Sector 10,residential,30250,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Sector 10,commercial,60500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Sector 7,residential,29040,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Sector 7,commercial,56870,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Sector 8,residential,29040,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Sector 8,commercial,60500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Sewarage Triatment Plant,residential,16940,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Sewarage Triatment Plant,commercial,24200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Silani Gate Colony,residential,20400,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Silani Gate Colony,commercial,33800,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Sita Ram Gate,residential,16940,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Sita Ram Gate,commercial,43560,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Starshine Jhajjar 7 DDJ- APHP,residential,25410,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Starshine Jhajjar 7 DDJ- APHP,commercial,56870,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Suman Villa Jhajjar 8 RGH,residential,29040,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Suman Villa Jhajjar 8 RGH,commercial,60500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Teen Murti Mandir Najideek Yadav,residential,16940,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Teen Murti Mandir Najideek Yadav,commercial,43560,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Tibri Mohalla,residential,19250,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Tibri Mohalla,commercial,51480,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Tilla Mohalla,residential,19250,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Tilla Mohalla,commercial,45540,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Vijaylaxmi Jhajjar 29 DDJ-APHP,residential,30250,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Vijaylaxmi Jhajjar 29 DDJ-APHP,commercial,55660,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Yadav Colony 1,residential,20900,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Yadav Colony 1,commercial,26400,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Yadav Colony 2,residential,20900,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Yadav Colony 2,commercial,26400,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Aggarwal bad se license colony,residential,15125,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Aggarwal bad se license colony,commercial,26620,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Aggarwal license,residential,53240,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Aggarwal license,commercial,35090,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Adarsh Nagar,residential,22990,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Adarsh Nagar,commercial,19360,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Officer Colony 1,residential,19360,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Officer Colony 1,commercial,24200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Officer Colony 2,residential,19360,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Officer Colony 2,commercial,24200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Officer Colony 3,residential,19360,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Officer Colony 3,commercial,24200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Officer Colony 4,residential,19360,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Officer Colony 4,commercial,24200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Azad Nagar,residential,26125,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Azad Nagar,commercial,41470,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,A D M Developers,residential,26620,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,A D M Developers,commercial,35090,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Kanwar Singh Colony,residential,16940,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Kanwar Singh Colony,commercial,24200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Kila Colony,residential,17820,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Kila Colony,commercial,23200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Gazi Kamal,residential,17710,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Gazi Kamal,commercial,26400,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Chhawni Mohalla,residential,16560,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Chhawni Mohalla,commercial,26400,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Chhoturam Colony,residential,19360,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Chhoturam Colony,commercial,19938,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Jai Hind Colony,residential,16940,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Jai Hind Colony,commercial,24200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Jhajjar Kasba,commercial,25300,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Jhajjar Kasba,agricultural,5681.82,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Jhajjar Kasba,agricultural,6250.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Jhajjar Kasba,agricultural,2090.91,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Jhajjar Kasba,agricultural,3136.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Jhajjar Kasba,agricultural,7102.27,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Jhajjar Kasba Krishi Bhumi,residential,15125,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Jhajjar Kasba Krishi Bhumi,agricultural,2272.73,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Jhajjar Kasba Krishi Bhumi,agricultural,2840.91,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Dev Colony,residential,16940,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Dev Colony,commercial,24200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Deshwal Colony,residential,25300,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Deshwal Colony,commercial,95040,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Dhandhu Colony,residential,12100,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Dhandhu Colony,commercial,24200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Naya Gaon,residential,14520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Naya Gaon,commercial,17545,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Pajawa Colony,residential,16940,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Pajawa Colony,commercial,24200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Bandh ke andar Krishi Bhumi,agricultural,6250.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Bandh ke andar Krishi Bhumi,agricultural,5750.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Bandh ke andar Krishi Bhumi,agricultural,7102.27,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Beri Gate Colony 2,residential,18480,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Beri Gate Colony 2,commercial,28600,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Mandi Samarth Dukan,residential,79200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Mandi Samarth Dukan,commercial,82500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Adda,industrial,85800,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Model Town,residential,24200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Model Town,commercial,44770,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Market Committee Dukan,commercial,82500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Market Committee Dukan,commercial,7938,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Yadav Colony,residential,20900,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Yadav Colony,commercial,26400,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Ronia Colony,residential,20790,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Ronia Colony,commercial,31900,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Ram Nagar,residential,17710,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Ram Nagar,commercial,26400,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Rampura,residential,14520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Rampura,commercial,16940,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Lal Dora,residential,17710,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Lal Dora,commercial,49500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Lal Singh Colony,residential,16940,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Lal Singh Colony,commercial,25300,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Vikasit Farm House,residential,9680,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Vikas Nagar,residential,16940,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Vikas Nagar,commercial,27500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Shiv Colony,residential,16940,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Shiv Colony,commercial,24200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Silani Gate Colony,commercial,32500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Subhash Nagar,residential,27500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Subhash Nagar,commercial,35750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Suman City,residential,24200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Suman City,commercial,33880,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Hadda Dukan Najdeek Ladhu,commercial,72600,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Sector 6 HUDA,residential,35420,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Sector 6 HUDA,commercial,79200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Sector 9 HUDA,residential,33880,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Jhajjar,Sector 9 HUDA,commercial,60500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Dawla,Dawla to Babra,residential,4950,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Dawla,Dawla to Karodha,agricultural,945.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Dawla,Dawla to Karodha,agricultural,1181.82,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Dawla,Dawla to Karodha,residential,4950,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Dawla,Dawla to Rankhanda,residential,4950,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Dawla,Jhajjar to Kosli,residential,4950,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Dawla,Talao to Dawla,residential,4950,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Dawla,Dawla,agricultural,945.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Dawla,Dawla,agricultural,1270.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Dawla,Dawla,agricultural,1272.73,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Dawla,Dawla,agricultural,1710.23,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Dawla,Dawla,residential,4950,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Dhakla,Dhakla,agricultural,627.27,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Dhakla,Dhakla,agricultural,797.16,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Dhakla,Dhakla,agricultural,954.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Dhakla,Dhakla,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Talav,Talav,agricultural,2000.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Talav,Talav,agricultural,2500.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Talav,Talav,agricultural,2187.5,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Talav,Talav,residential,4950,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Tatarpur,Tatarpur,agricultural,767.11,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Tatarpur,Tatarpur,agricultural,958.88,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Tamaspura,Link Road,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Tamaspura,Tamaspura,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Tamaspura,Tamaspura,agricultural,550.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Tamaspura,Tamaspura,agricultural,687.5,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Dubahedi,Dubahedi,agricultural,659.09,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Dubahedi,Dubahedi,agricultural,823.86,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Dubahedi,Dubahedi,agricultural,795.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Dubahedi,Dubahedi,agricultural,994.32,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Dubahedi,Dubahedi,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Dubahedi,Link Road,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Dadanpur,Dadanpur,agricultural,1053.98,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Dadanpur,Dadanpur,agricultural,2982.95,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Dadanpur,Dadanpur,agricultural,662.5,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Dadanpur,Dadanpur,agricultural,1875.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Dadanpur,Dadanpur,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Dulina,Aurangpur Road,agricultural,1875.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Dulina,Aurangpur Road,residential,6600,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Dulina,Aurangpur Road,residential,6655,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Dulina,Gurgaon Road,agricultural,2250.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Dulina,Gurgaon Road,residential,6600,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Dulina,Dulina,agricultural,1500.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Dulina,Dulina,agricultural,1875.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Dulina,Dulina,residential,6900,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Dharoli,Dharoli Link Road,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Dharoli,Dharoli,agricultural,522.73,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Dharoli,Dharoli,agricultural,653.41,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Dharoli,Dharoli,agricultural,795.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Dharoli,Dharoli,agricultural,994.32,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Dharoli,Dharoli,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Nangli,Bahadurgarh,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Nangli,Jhajjar to Bahadurgarh,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Nangli,Nangli,agricultural,1125.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Nangli,Nangli,agricultural,1406.25,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Nangli,Nangli,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Nyola,Nyola,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Nyola,Nyola,agricultural,500.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Nyola,Nyola,agricultural,625.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Nyola,Nyola,agricultural,795.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Nyola,Nyola,agricultural,994.32,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Nyola,Link Road,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Patasni,Patasni,agricultural,710.23,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Patasni,Patasni,agricultural,568.18,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Patasni,Patasni,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Patauda,Kulana to Heli M0,residential,4950,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Patauda,Patauda I,agricultural,2181.82,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Patauda,Patauda I,agricultural,2727.27,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Patauda,Patauda I,agricultural,2386.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Patauda,Patauda I,agricultural,2982.95,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Patauda,Patauda I,residential,4950,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Fatehpuri,Fatehpuri,agricultural,5000.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Fatehpuri,Fatehpuri,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Fatehpuri,Link Road,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Fatehpuri,Fatehpuri,agricultural,590.91,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Fatehpuri,Fatehpuri,agricultural,738.64,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Photpura,Photpura,agricultural,575.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Photpura,Photpura,agricultural,718.75,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Photpura,Photpura,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Babra,Babra to Dawla,residential,4950,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Babra,Babra to Jhajjar,agricultural,1636.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Babra,Babra to Jhajjar,residential,4950,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Babra,Babra to Silani,residential,4950,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Babra,Babra to Sulodha,agricultural,1309.09,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Babra,Babra to Sulodha,residential,4950,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Babra,Babra,agricultural,981.82,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Babra,Babra,agricultural,1309.09,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Babra,Babra,agricultural,1073.86,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Babra,Babra,agricultural,1431.82,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Babra,Babra,residential,4950,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Babepur,Babepur,agricultural,590.91,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Babepur,Babepur,agricultural,1255.68,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Babepur,Babepur,agricultural,795.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Babepur,Babepur,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Birdhana,Link Road,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Birdhana,Link Road,agricultural,1090.91,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Birdhana,Link Road,agricultural,1363.64,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Birdhana,Birdhana,agricultural,1090.91,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Birdhana,Birdhana,agricultural,1363.64,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Birdhana,Birdhana,agricultural,1193.18,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Birdhana,Birdhana,agricultural,1491.48,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Birdhana,Birdhana,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,BeedSunarwala,Kaimalgarh to Bhadani,residential,4950,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,BeedSunarwala,Beed Sunarwala,agricultural,1250.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,BeedSunarwala,Beed Sunarwala,agricultural,1562.5,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,BeedSunarwala,Beed Sunarwala,residential,7875,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Bodia,Jhajjar to Badli,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Bodia,Link Road,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Bodia,Bodia,agricultural,10340.91,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Bodia,Bodia,agricultural,1829.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Bodia,Bodia,agricultural,1034.09,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Bodia,Bodia,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Bhatehra,Link Road,agricultural,823.86,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Bhatehra,Link Road,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Bhatehra,Bhatehra,agricultural,659.09,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Bhatehra,Bhatehra,agricultural,823.86,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Bhadani,Bhadani,agricultural,1242.9,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Bhadani,Bhadani,agricultural,1029.83,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Bhadani,Bhadani,agricultural,823.86,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Bhadani,Bhadani,agricultural,994.32,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Bhadani,Bhadani,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,BhikhanpurViran,Bhikhanpur Viran,agricultural,500.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,BhikhanpurViran,Bhikhanpur Viran,agricultural,625.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,BhikhanpurViran,Bhikhanpur Viran,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Maharana,Dujana to Chhara,agricultural,1065.34,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Maharana,Dujana to Chhara,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Maharana,Link Road,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Maharana,Link Road,commercial,6050,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Maharana,Maharana,agricultural,852.27,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Maharana,Maharana,agricultural,1065.34,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Maharana,Maharana,agricultural,1193.18,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Maharana,Maharana,agricultural,1355.89,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Maharana,Maharana,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Machhrauli,Link Road,agricultural,1670.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Machhrauli,Link Road,agricultural,2088.07,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Machhrauli,Link Road,agricultural,4950,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Machhrauli,Link Road,residential,4950,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Machhrauli,NH 71,agricultural,3340.91,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Machhrauli,NH 71,agricultural,4840,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Machhrauli,NH 71,residential,4950,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Machhrauli,NH 71,commercial,8800,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Machhrauli,NH 71,commercial,4950,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Machhrauli,Jhajjar to Machhrauli,agricultural,3340.91,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Machhrauli,Jhajjar to Machhrauli,agricultural,4950,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Machhrauli,Jhajjar to Machhrauli,residential,4950,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Machhrauli,Machhrauli,agricultural,1670.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Machhrauli,Machhrauli,agricultural,2863.64,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Machhrauli,Machhrauli,agricultural,7875,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Machhrauli,Machhrauli,residential,4950,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Machhrauli,Machhrauli,commercial,8800,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Mubarakpur,Link Road,agricultural,795.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Mubarakpur,Link Road,agricultural,994.32,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Mubarakpur,Link Road,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Mubarakpur,Link Road,commercial,6050,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Mubarakpur,Gudiani road to Barampur,agricultural,994.32,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Mubarakpur,Mubarakpur,agricultural,994.32,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Mubarakpur,Mubarakpur,agricultural,795.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Mubarakpur,Mubarakpur,agricultural,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Mubarakpur,Mubarakpur,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Mubarakpur,Mubarakpur,commercial,6050,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Raiya,Jhajjar to Kosli,agricultural,1418.18,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Raiya,Jhajjar to Kosli,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Raiya,Raiya to Kunjia,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Raiya,Raiya to Sulodha,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Raiya,Raiya,agricultural,945.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Raiya,Raiya,agricultural,1181.82,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Raiya,Raiya,agricultural,1272.73,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Raiya,Raiya,agricultural,1590.91,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Rankhanda,Rankhanda,agricultural,522.73,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Rankhanda,Rankhanda,agricultural,653.41,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Rankhanda,Rankhanda,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Raipur,NH 71,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Raipur,Raipur,agricultural,1090.91,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Raipur,Raipur,agricultural,2563.64,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Raipur,Raipur,residential,5600,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Chhuhari,Chhuhari,agricultural,2386.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Chhuhari,Chhuhari,agricultural,2982.95,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Chhuhari,Chhuhari,agricultural,7700,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Chhuhari,Chhuhari,residential,5175,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Chhuhari,Heli Mandi Road,agricultural,2982.95,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Chhuhari,Heli Mandi Road,residential,4950,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,BajitpurTapa,Badli Road,residential,4950,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,BajitpurTapa,Haveli,residential,4950,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,BajitpurTapa,Bajitpur Tapa Haveli,agricultural,945.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,BajitpurTapa,Bajitpur Tapa Haveli,agricultural,1359.09,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,BajitpurTapa,Bajitpur Tapa Haveli,residential,4950,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,ShekhpurJat,Dusre Road,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,ShekhpurJat,Shekhpur Jat,agricultural,679.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,ShekhpurJat,Shekhpur Jat,agricultural,1058.52,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,ShekhpurJat,Shekhpur Jat,agricultural,1034.09,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,ShekhpurJat,Shekhpur Jat,agricultural,1610.8,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,ShekhpurJat,Shekhpur Jat,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Saboli,Link Road,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Saboli,Saboli,agricultural,795.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Saboli,Saboli,agricultural,994.32,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Saboli,Saboli,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,SamaspurMajra,Jhajjar to Kosli,agricultural,784.09,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,SamaspurMajra,Jhajjar to Kosli,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,SamaspurMajra,Link Road,agricultural,784.09,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,SamaspurMajra,Link Road,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,SamaspurMajra,Samaspur Majra,agricultural,522.73,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,SamaspurMajra,Samaspur Majra,agricultural,1110.8,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,SamaspurMajra,Samaspur Majra,agricultural,1690.34,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,SamaspurMajra,Samaspur Majra,agricultural,795.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,SamaspurMajra,Samaspur Majra,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Saroli,Link Road,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Saroli,Saroli,agricultural,994.32,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Saroli,Saroli,agricultural,795.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Saroli,Saroli,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Salidha,Link Road,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Salidha,Salidha,agricultural,994.32,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Salidha,Salidha,agricultural,795.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Salidha,Salidha,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Sikandarpur,Jhajjar Road,residential,4950,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Sikandarpur,Jhajjar Road,agricultural,1818.18,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Sikandarpur,Sikandarpur,agricultural,2272.73,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Sikandarpur,Sikandarpur,agricultural,1818.18,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Sikandarpur,Sikandarpur,agricultural,1988.64,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Sikandarpur,Sikandarpur,agricultural,2485.8,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Silana,Silana to Utlodha,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Silana,Silana,agricultural,1193.18,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Silana,Silana,agricultural,1531.25,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Silana,Silana,agricultural,1789.77,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Silana,Silana,agricultural,1090.91,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Silana,Silana,agricultural,2545.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Silana,Silana,residential,4000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,SilaniPanaKesho,Jhajjar to Rewari,agricultural,3409.09,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,SilaniPanaKesho,Silani Pana Kesho,residential,4950,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,SilaniPanaKesho,Main Bazar to Gurgaon,agricultural,2130.68,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,SilaniPanaKesho,Main Bazar to Gurgaon,residential,4950,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,SilaniPanaKesho,Silana Road,agricultural,2130.68,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,SilaniPanaKesho,Silana Road,residential,4950,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,SilaniPanaKesho,Silani Pana Kesho,agricultural,1704.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,SilaniPanaKesho,Silani Pana Kesho,agricultural,2130.68,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,SilaniPanaKesho,Silani Pana Kesho,agricultural,2386.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,SilaniPanaKesho,Silani Pana Kesho,agricultural,2982.95,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,SilaniPanaKesho,Silani Pana,residential,4950,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,SilaniPanaKesho,Babra Road,agricultural,2130.68,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,SilaniPanaKesho,Babra Road,residential,4950,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,SilaniPanaKesho,Jhajjar to Gurgaon,agricultural,2556.82,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,SilaniPanaKesho,Jhajjar to Rewari,agricultural,2556.82,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,SilaniPanaKesho,Jhajjar to Rewari,residential,4950,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,SilaniPanaKesho,Silani to Gurukul,residential,4950,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,SilaniPanaKesho,Silani Pana Kesho,agricultural,2443.18,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,SilaniPanaKesho,Silani Pana Kesho,agricultural,2181.82,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Subana,Subana to Babepur,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Subana,Subana to Jatwara,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Subana,Subana,agricultural,709.09,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Subana,Subana,agricultural,975.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Subana,Subana,agricultural,954.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Subana,Subana,agricultural,1312.5,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Subana,Subana,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Surheti,Jhajjar to Kosli,agricultural,1789.77,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Surheti,Jhajjar to Kosli,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Surheti,Link Road,agricultural,1193.18,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Surheti,Link Road,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Surheti,Link Road,agricultural,954.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Surheti,Surheti,agricultural,1193.18,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Surheti,Surheti,agricultural,954.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Surheti,Surheti,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,SukhanpurTappaHaveli,Link Road,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,SukhanpurTappaHaveli,Sukhanpur Tappa Haveli,agricultural,750.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,SukhanpurTappaHaveli,Sukhanpur Tappa Haveli,agricultural,937.5,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,SukhanpurTappaHaveli,Sukhanpur Tappa Haveli,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,SurkhpurViran,Surkhpur Viran,agricultural,568.18,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,SurkhpurViran,Surkhpur Viran,agricultural,710.23,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,SurkhpurViran,Surkhpur Viran,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Suhra,Dusre Road,agricultural,1392.05,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Suhra,Dusre Road,agricultural,1113.64,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Suhra,Dusre Road,agricultural,1411.93,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Suhra,Suhra,agricultural,700.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Suhra,Suhra,residential,7875,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Hasanpur,Hasanpur to Kunjiya,agricultural,975.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Hasanpur,Jhajjar to Kosli,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Hasanpur,Hasanpur,agricultural,768.18,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Hasanpur,Hasanpur,agricultural,1255.68,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Shahjahanpur,Shahjahanpur,agricultural,373.97,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Shahjahanpur,Shahjahanpur,agricultural,397.73,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Shahjahanpur,Shahjahanpur,agricultural,497.16,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Shahjahanpur,Shahjahanpur,agricultural,4000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Bhindawas,Bhindawas,residential,2800,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Bhindawas,Bhindawas,commercial,5600,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Bhindawas,Bhindawas,agricultural,702.48,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Bhindawas,Bhindawas,agricultural,847.11,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Bilochpura,Bilochpura,residential,3600,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Bilochpura,Bilochpura,commercial,6400,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Bilochpura,Bilochpura,agricultural,826.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Bilochpura,Bilochpura,agricultural,1012.4,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Bhadani,Bhadani,residential,4500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Bhadani,Bhadani,commercial,5600,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Bhadani,Bhadani abadi 500m,residential,3300,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Bhadani,Bhadani abadi 500m,commercial,4500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Bhadani,Bhadani,agricultural,909.09,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Bhadani,Bhadani,agricultural,681.82,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,BhikhanpurViran,Bhikhanpur Viran,residential,3300,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,BhikhanpurViran,Bhikhanpur Viran,commercial,4400,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,BhikhanpurViran,Bhikhanpur Viran abadi 500m,residential,2800,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,BhikhanpurViran,Bhikhanpur Viran abadi 500m,commercial,3800,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,BhikhanpurViran,Bhikhanpur Viran,agricultural,681.82,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,BhikhanpurViran,Bhikhanpur Viran,agricultural,454.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Bhindawas,Bhindawas,residential,2200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Bhindawas,Bhindawas,commercial,3300,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Bhindawas,Bhindawas abadi 500m,residential,1600,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Bhindawas,Bhindawas abadi 500m,commercial,2800,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Bhindawas,Bhindawas,agricultural,785.12,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Bhindawas,Bhindawas,agricultural,568.18,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Hasanpur,Hasanpur,agricultural,1034.09,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Hasanpur,Hasanpur,agricultural,1690.34,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Jhajjar,Hasanpur,Hasanpur,residential,3520,2026-04-01,jhajjar_gov_in_dc_notification

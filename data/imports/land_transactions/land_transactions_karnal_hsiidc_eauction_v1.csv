@@ -1,0 +1,4 @@
+district,tehsil,village,sector_type,price_per_sq_yard_inr,area_sq_yards,lat,lng,transaction_date,source,deed_id,consideration_inr,area_unit,notes
+Karnal,Karnal,IE Karnal Sector-37,industrial,18311.18,1210.94,29.6694,76.98568,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-karnal-1012.5,22173750,sqm,HSIIDC FY24-25 reserve (IE Karnal Sector-37 Phase-IV); reserve ₹21900/sqm
+Karnal,Karnal,IE Karnal Sector-37,industrial,18311.18,2810.58,29.6646,76.98232,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-karnal-2350,51465000,sqm,HSIIDC FY24-25 reserve (IE Karnal Sector-37 Phase-IV); reserve ₹21900/sqm
+Karnal,Karnal,IE Karnal Sector-37,industrial,18311.18,3946.77,29.6654,76.98288,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-karnal-3300,72270000,sqm,HSIIDC FY24-25 reserve (IE Karnal Sector-37 Phase-IV); reserve ₹21900/sqm

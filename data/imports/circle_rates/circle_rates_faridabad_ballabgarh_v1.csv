@@ -1,0 +1,422 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Faridabad,Ballabgarh,AdarshnagarUG,AdarshnagarUG,residential,31700,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,AdarshnagarUG,AdarshnagarUG,commercial,47190,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,AryanagarUG,AryanagarUG,residential,30300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,AryanagarUG,AryanagarUG,commercial,36300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BhatiaColony,BhatiaColony,residential,36300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BhatiaColony,BhatiaColony,commercial,39625,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Bhimsaincolony,Bhimsaincolony,residential,36455,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Bhimsaincolony,Bhimsaincolony,commercial,41745,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Bhuduttcolony,Bhuduttcolony,residential,31700,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Bhuduttcolony,Bhuduttcolony,commercial,36300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,HARIVIHAR,HARIVIHAR,residential,30300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,HARIVIHAR,HARIVIHAR,commercial,36300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,ind,ind. 1acreaboveandless than 2 acre,industrial,12100,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,KundanColony,KundanColony,residential,39625,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,KundanColony,KundanColony,commercial,45375,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Mahavircolony,Mahavircolony,residential,30300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Mahavircolony,Mahavircolony,commercial,47190,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Raocolony,Raocolony,residential,30300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Raocolony,Raocolony,commercial,36300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Saininagar,Saininagar,residential,30300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Saininagar,Saininagar,commercial,36300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,subhashcolony,subhashcolony,residential,43935,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,subhashcolony,subhashcolony,commercial,57420,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Takiyacolony,Takiyacolony,residential,30300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Takiyacolony,Takiyacolony,commercial,36300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,TwoAcreToFourAcre,TwoAcreToFourAcre Above,industrial,10000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,UGind,UGind. 1000to2500sq.yd,industrial,18200,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,UnchaGaon,UnchaGaon,agricultural,4250.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,UnchaGaon,UnchaGaon Prime,agricultural,5950.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,UnchaGaon,UnchaGaon,residential,36455,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,UnchaGaon,UnchaGaon,commercial,45375,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,UnchaGaon,UnchaGaon INDLUPTo1000SqYds,industrial,30300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,UnchaGaon,UnchaGaon2500SqToOne Acre,industrial,14600,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,UnchaGaon,UnchaGaonAbove2Acre,industrial,10000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Vijaynagar,Vijaynagar,residential,34845,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Vijaynagar,Vijaynagar,commercial,36300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,YadavColony,YadavColony,residential,30300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,YadavColony,YadavColony,commercial,41745,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,kailgaon,kailgaon canal,agricultural,4000.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,kailgaon,kailgaon tubewell,agricultural,5600.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,kailgaon,kailgaon,residential,14600,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,kailgaon,kailgaon,commercial,24200,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,kailgaon,KailGaon-INDL-1000to2500,industrial,12100,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,kailgaon,KailGaon-INDL-1AcreTo2Acre,industrial,8500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,kailgaon,KailGaon-INDL-2500TO1Acre,industrial,9700,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,kailgaon,KailGaon-INDL-Above2Acre,industrial,7300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,kailgaon,upto1000 sq.yd,industrial,18200,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,khandawali,khandawali canal,agricultural,3593.75,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,khandawali,khandawali tubewell P,agricultural,5031.25,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,khandawali,khandawali tubewell N,agricultural,4375.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,khandawali,khandawali,residential,14600,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,khandawali,Khandawali-INDL-1AcreTo2Acre,industrial,8500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,khandawali,Khandawali-INDL-2500TO1Acre,industrial,10000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,khandawali,Khandawali-INDL-Above2 Acre,industrial,8500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,khandawali,Khansawali-INDL-1000TO2500Sq-,industrial,12100,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,khandawali,upto1000 sq.yd,industrial,18200,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Chandawali,Chandawali,residential,24200,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Chandawali,ChandawalinehartoGaon Side,agricultural,4431.82,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Chandawali,Chandawali,residential,24200,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Chandawali,Chandawali,commercial,33000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Jajru,Jajru,agricultural,3125.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Jajru,Jajru Prime,agricultural,4375.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Jajru,Jajru,residential,14600,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Jajru,Jajru,commercial,22000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Jharsaintly,Jharsaintly,agricultural,4809.09,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Jharsaintly,Jharsaintly Prime,agricultural,6732.73,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Jharsaintly,Jharsaintly,residential,30300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Jharsaintly,Jharsaintly,commercial,44200,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,RajivColony,RajivColony,residential,30300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,RajivColony,RajivColony,commercial,36300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Deeg,Deeg,agricultural,3125.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Deeg,Deeg Prime,agricultural,4375.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Deeg,Deeg,residential,8500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,NaglaJogiyan,NaglaJogiyan,agricultural,3181.82,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,NaglaJogiyan,NaglaJogiyan Prime,agricultural,4454.55,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,NaglaJogiyan,NaglaJogiyan,residential,6400,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,NaglaJogiyan,NaglaJogiyan,commercial,18150,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,NawadaTigaon,NawadaTigaon,agricultural,3693.18,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,NawadaTigaon,NawadaTigaon Prime,agricultural,4136.36,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,NawadaTigaon,NawadaTigaon,residential,13200,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,NawadaTigaon,NawadaTigaon,commercial,22000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,PanheraKalan,PanheraKalan,agricultural,2000.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,PanheraKalan,PanheraKalan Prime,agricultural,2800.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,PanheraKalan,PanheraKalan,residential,5000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,PehladpurmajraDeeg,PehladpurmajraDeeg,agricultural,2500.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,PehladpurmajraDeeg,PehladpurmajraDeeg Prime,agricultural,3500.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,PehladpurmajraDeeg,PehladpurmajraDeeg,residential,6100,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Piala,Piala,agricultural,4417.05,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Piala,Piala Prime,agricultural,6183.86,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Piala,Piala,residential,11000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Piala,Piala,commercial,18200,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,FatehpurBilloch,FatehpurBilloch,agricultural,3125.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,FatehpurBilloch,FatehpurBilloch Prime,agricultural,4375.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,FatehpurBilloch,FatehpurBilloch,residential,12100,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,FatehpurBilloch,FatehpurBilloch,commercial,24200,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,100FootRoadChawla Colony,residential,38500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,100FootRoadChawla Colony,commercial,48400,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,1AcreAboveupto2Acre,commercial,12100,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,"4AcreAndAboveSec4,5,6,24,25",commercial,17000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,AdarshNagarBLB,AdarshNagarBLB,residential,31300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,AdarshNagarBLB,AdarshNagarBLB,commercial,36300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,Agar.ChowkToGuptaHotel MohnaRd,commercial,48400,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,AgarsainChowkToChandawaliGate,commercial,48400,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,AgarsainChowkToSihiGate,commercial,48400,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Ahirwara,Ahirwara,residential,30300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Ahirwara,Ahirwara,commercial,42900,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,AjjiColonyBLB,AjjiColonyBLB,residential,33000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,AjjiColonyBLB,AjjiColonyBLB,commercial,36300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,AllGroupHousing Society,residential,8625,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,AllLicensedColony,residential,8625,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,ALL HSVP FLOOR,residential,8625,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,AllLicensedColony,commercial,17325,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,Ambedkarchowkto Agarsain Chowk,commercial,63480,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,ANAJ MANDI,commercial,59800,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,AzadNagarChamarWara,AzadNagarChamarWara,residential,39390,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,AzadNagarChamarWara,AzadNagarChamarWara,commercial,47190,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,BallabgarhCity,residential,38500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,BallabgarhCity,commercial,70180,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,BallabgarhINDL.Area 1 TO 500 SQ YDS,industrial,38500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Ballabgarh,Ballabgarh,agricultural,4250.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Ballabgarh,Ballabgarh Prime,agricultural,5950.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BaniyaWara,BaniyaWara,residential,39625,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BaniyaWara,BaniyaWara,commercial,69000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BaniyaWara,BaniyaWara,residential,41250,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BaniyaWara,BaniyaWara,commercial,55100,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BGarh2500SqToOneAcre,BGarh2500SqToOne Acre,commercial,16000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BGarhOneAcreAboveTwoAcre,BGarh One Acre AboveTwoAcre,commercial,12000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BhagatSinghNearKhuilluColony,BhagatSinghNearKhuillu Colony,residential,39625,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BhagatSinghNearKhuilluColony,BhagatSinghNearKhuillu Colony,commercial,45375,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BhagatsinghColonyNearShyamColony,BhagatsinghColonyNear Shyam Colony,residential,39625,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BhagatsinghColonyNearShyamColony,BhagatsinghColonyNear Shyam Colony,commercial,45375,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BhikamColony,BhikamColony,residential,47850,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BhikamColony,BhikamColony,commercial,60030,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BhuduttColony,BhuduttColony,residential,31700,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BhuduttColony,BhuduttColony,commercial,36300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,blbind.2500 to 1ACRE,industrial,14700,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,blbind.500 sq yds upto1000 sq.yd,industrial,30300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,blbindustrial1ACRE2Acre,industrial,12100,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,blb.ind.above2 acre,industrial,10000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,bldind.1000 SQ YDS TO to 2500 SQ YDS,industrial,19000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BrahamanWara,BrahamanWara,residential,33200,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BrahamanWara,BrahamanWara,commercial,40000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,C.colony100ftuptoPatwari Chowk,commercial,48400,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,ChawlaColony,ChawlaColony,residential,48125,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,ChawlaColony,ChawlaColony,commercial,65780,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,ComComplexIIIrdFloor,commercial,7000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,Com.ComplexF.Floor,commercial,9000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,Com.ComplexIIndFloor,commercial,9000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,Com.Comp.Basement,commercial,9000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,Com.ComplexG.Floor,commercial,9000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,"Comm.Area 3,4,6,7,8,24,25",commercial,57000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,D.P.DoorsTo Malerna,commercial,48400,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,DELHI MATHURA ROAD,commercial,55000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,ALL DLF FLOOR,residential,8625,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,ALL DLF FLOOR,commercial,95881,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,EastChawlaColony,EastChawlaColony,residential,40375,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,EastChawlaColony,EastChawlaColony,commercial,45375,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,FriendsColony,FriendsColony,residential,45375,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,GargColony,GargColony,residential,38000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,GargColony,GargColony,commercial,41400,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,GovardharColony,GovardharColony,residential,46000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,GovardharColony,GovardharColony,commercial,32000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,GovardharColony,GovardharColony,residential,36300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,GuptaHotelToUnchaGaon Chungi,commercial,48400,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,HospNurEduInstt2000To 1 Acre,commercial,17000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,HospNurEduInstt2000To 1 Acre,agricultural,29750,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,HospitalNursingEdu Instut,commercial,22990,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,HospitalNursinghome schoolInstt1000to2000,commercial,29826,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,Hospital Nursinghome schoolInstt1AcreAbove,commercial,14520,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,HospitalNursinghome,commercial,10890,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,HospitalNursinghome schoolInstt2AcreAbove,commercial,18000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,HospitalRoadBallabgarh,commercial,48400,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,HousingBoardColony,HousingBoardColony SQ FEET,residential,8625,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,HousingBoardColony,HousingBoardColony,commercial,59400,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,IMT,IMT1000TO2500SQYDS,industrial,35000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,IMT,IMT1000TO2500SQYDS,industrial,41400,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,IMT,IMT2500SQYDSTOONE ACRE,industrial,36000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,IMT,IMT2500SQYDSTOONE ACRE,industrial,28000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,IMT,IMTABOVETWOACRE,industrial,23000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,IMT,IMTONEACRETOTWO ACRE,industrial,24200,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,IMT,IMTSEC70,residential,51562,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,IMT,IMTSEC70,commercial,8625,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,IMT,IMTSEC7OLICCLY,residential,9000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,IMT,IMTTWOACRETOFOUR ACRE,industrial,21800,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,IMT,IMTUPTO1000SQYDS,industrial,45000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,IMT,IMTUPTO1000SQYDS,industrial,43700,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,IMT,IMTSEC70500SQYDS AND ABOVE,residential,30500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,InstEduHospNHome1-1000 sy ydas,commercial,47520,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,JagdishColony,JagdishColony,residential,33000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,JagdishColony,JagdishColony,commercial,92750,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,JainColony,JainColony,residential,34845,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,JainColony,JainColony,commercial,41745,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,KhcheduColony,KhcheduColony,residential,34845,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,KhcheduColony,KhcheduColony,commercial,41745,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,KhilluColony,KhilluColony,residential,30300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,KhilluColony,KhilluColony,commercial,36300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,KumharWara,KumharWara,residential,46875,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,KumharWara,KumharWara,commercial,50000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,LaxmanColony,LaxmanColony,residential,30300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,LaxmanColony,LaxmanColony,commercial,36300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,"M.PlantRd,Chand.GateTo MohnaRd",commercial,48400,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,MahavirColony,MahavirColony,residential,30300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,MahavirColony,MahavirColony,commercial,36300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,MalernaRoadupto D.P.Door,commercial,48400,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,MathuraRd.ToAmbedkarChowk,commercial,66000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,MohnaRduptoGuptaHotel,commercial,48400,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,MoreThan2AcreOnMathuraRd,commercial,30800,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,MukeshColony,MukeshColony,residential,41400,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,MukeshColony,MukeshColony,commercial,45000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,NathuColony,NathuColony,residential,50050,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,NathuColony,NathuColony,commercial,71500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,NavluColony,NavluColony,residential,39390,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,OldCapitalBusStand,OldCapitalBusStand,residential,55250,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,OldCapitalBusStand,OldCapitalBusStand,commercial,58190,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,Other and DLFFloor,residential,8625,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,PanchayatBhawanRoad,residential,48400,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,PathwariMandirColony,PathwariMandirColony,residential,45500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,PathwariMandirColony,PathwariMandirColony,commercial,50600,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,PathwariChowktoBohra P.School,commercial,48400,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,PunjabiMohalla,PunjabiMohalla,residential,31700,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,PunjabiMohalla,PunjabiMohalla,commercial,36300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,RadhaColony,RadhaColony,residential,45000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,RadhaColony,RadhaColony,commercial,50000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,RaghbirColony,RaghbirColony,residential,30300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,RaghbirColony,RaghbirColony,commercial,36300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,RajivColonyAjjiColony,RajivColonyAjjiColony,residential,32000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,RajivColonyAjjiColony,RajivColonyAjjiColony,commercial,36300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,RaoColony,RaoColony,residential,31300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,RaoColony,RaoColony,commercial,36300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,RishiNagar,RishiNagar,residential,48125,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,RishiNagar,RishiNagar,commercial,60375,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,SabziMandi,commercial,77740,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,SainiNagar,SainiNagar,residential,30300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,SainiNagar,SainiNagar,commercial,36300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,SanjayColony,SanjayColony,residential,30300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,SanjayColony,SanjayColony,commercial,42350,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,"SEC8,500SQYDSAND ABOVE",residential,54000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,Sec10,residential,67600,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,Sec10,commercial,85800,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,Sec11,residential,82800,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,Sec11,commercial,121800,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,SEC2500SQYDSAND ABOVE,residential,37812,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,Sec3,residential,61100,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,Sec3,commercial,115200,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,SEC3500SQYDSAND ABOVE,residential,33396,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,Sec4,residential,51750,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,Sec4,commercial,55775,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,SEC4500SQYDSAND ABOVE,residential,29040,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,"Sec4,5,6,24,25Upto 1000Sq Yrds",commercial,33000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,SEC52500SQYDSAND ABOVE,residential,24200,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,SEC58TPTNAGAR500 SQ YDS AND ABOVE,commercial,24200,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,sec59LM1ACRE2ACRE,commercial,17000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,sec59LM1000to2500,commercial,21120,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,sec59LM2500to1Acre,commercial,18500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,sec59LM2500to1Acre,industrial,18500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,sec59LMabove2ACRE,commercial,16000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,SEC 59 LOHA MANDI500SQYDSANDABOVE,commercial,29095,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,sec59lohamandiupto 1000,commercial,39650,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,SEC62500SQYDSAND ABOVE,residential,31625,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,SEC63500SQYDSAND ABOVE,residential,30300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,SEC64500SQYDSAND ABOVE,residential,37875,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,SEC65500SQYDSAND ABOVE,residential,40000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,SEC65500SQYDSAND ABOVE,commercial,36000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,"SEC7,500SQYDSAND ABOVE",residential,53000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,SEC74MIRJAPUR500SQ YDS AND ABOVE,residential,21000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,Sec9,residential,82800,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,Sec9,commercial,146160,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,"SEC9,500SQYDSAND ABOVE",residential,70200,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,SEC9INST 1Acre-Above,commercial,15000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,Sec11500SqYdsAnd Above,residential,52000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,Sec-3MoreToAgarCanal,commercial,48400,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,"Sec4,5,6,24,25Ind1000to 2500",industrial,33750,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,"Sec4,5,6,24,25Ind1000to 2500",industrial,31050,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,"Sec4,5,6,24,25Ind1Acr.to2 Acr",industrial,22000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,"Sec4,5,6,24,25Ind1Acr.to2 Acr",industrial,22000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,"Sec4,5,6,24.25,Ind2500to 1Acr.",industrial,26200,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,"sec-57,58,601000to 2500",industrial,25875,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,"sec-57,58,601000to 2500",industrial,22500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,BallabgarhCity,"sec-57,58,602500toacre",industrial,19000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Ballabgarh,Sec-58,residential,28000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Ballabgarh,Sec-58,commercial,60375,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Ballabgarh,Sec-58IndustrialArea,commercial,21500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Ballabgarh,Sec-58IndustrialArea,industrial,30937,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Ballabgarh,Sec-59,residential,35000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Ballabgarh,Sec-59,commercial,41375,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Ballabgarh,Sec-59Ind.Area,commercial,29900,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Ballabgarh,Sec-59Ind.Area,industrial,40250,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Ballabgarh,Sec-74MirjaPurRoad,residential,23500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Ballabgarh,Sec-74MirjaPurRoad,commercial,30300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Ballabgarh,Sec-8,residential,72000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Ballabgarh,Sec-8,commercial,101400,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Ballabgarh,secto5758601acre2acre,commercial,23140,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Ballabgarh,Sector10500SqYdsAndAbove,residential,50000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Ballabgarh,Sector45624252AcreTo4Acre,commercial,21850,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Ballabgarh,Sector45624252AcreAbove,industrial,15730,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Ballabgarh,sector575860above2acre,commercial,15800,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Ballabgarh,Sector575860Indupto1000,commercial,32500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Ballabgarh,Sector575860Indupto1000,industrial,31200,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Ballabgarh,Sector62,residential,51875,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Ballabgarh,Sector62,commercial,94500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Ballabgarh,Sector62,agricultural,32500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Ballabgarh,SECTOR-63,residential,49500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Ballabgarh,SECTOR-63,commercial,51800,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Ballabgarh,Sector64,residential,56250,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Ballabgarh,Sector64,commercial,60000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Ballabgarh,Sector-2,residential,67500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Ballabgarh,Sector-2,commercial,110250,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Ballabgarh,SECTOR-52,residential,36800,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Ballabgarh,SECTOR-52,commercial,58000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Ballabgarh,Sector-65,residential,49400,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Ballabgarh,Sector-65,commercial,94500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Ballabgarh,SECTOR-7,residential,67500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Ballabgarh,SECTOR-7,commercial,112500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,ShivColony,ShivColony,residential,34845,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,ShivColony,ShivColony,commercial,41745,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,ShyamColony,ShyamColony,residential,36455,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,ShyamColony,ShyamColony,commercial,74375,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,SohnaRoad,SohnaRoad.upto1000sq.yd,commercial,18500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,SohnaRoad,SohnaRoad-INDL-1000TO2500Sq,industrial,12100,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,SohnaRoad,SohnaRoad-INDL-1AcreTo2Acre,industrial,8500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,SohnaRoad,SohnaRoad-INDL-2500SqTO1Acre,industrial,10000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,SohnaRoad,SohnaRoad-INDL-Above2Acre,industrial,7500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Subhashcolony,Subhashcolony,residential,43935,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Subhashcolony,Subhashcolony,commercial,57420,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,VishnuColony,VishnuColony,residential,30300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,VishnuColony,VishnuColony,commercial,36300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Behbalpur,Behbalpur,agricultural,2500.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Behbalpur,Behbalpur,agricultural,3500.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Behbalpur,Behbalpur,residential,5000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Malerna,Malerna,agricultural,3927.88,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Malerna,Malerna,agricultural,5499.03,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Malerna,Malerna,agricultural,5499.03,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Malerna,Malerna,residential,12100,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Malerna,Malerna,commercial,36300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Mujeri,Mujeri,agricultural,3750.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Mujeri,Mujeri,agricultural,5250.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Mujeri,Mujeri,residential,20000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Mohala,Mohala,agricultural,2500.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Mohala,Mohala,agricultural,3500.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Mohala,Mohala,agricultural,2500.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Mohala,Mohala,residential,10000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Mohala,Mohala,commercial,20600,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Runhera,AJJICOLONYRunhera,residential,32000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Runhera,AJJICOLONYRunhera,commercial,36300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Runhera,RunheraKheda,agricultural,3750.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Runhera,RunheraKheda,agricultural,5250.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Runhera,RunheraKheda,residential,30300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Runhera,RunheraKheda,commercial,34500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Ladoli,Ladoli,agricultural,2500.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Ladoli,Ladoli,agricultural,3500.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Ladoli,Ladoli,agricultural,2500.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Ladoli,Ladoli,residential,5000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,ShahpurKalan,ShahpurKalan,agricultural,4943.18,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,ShahpurKalan,ShahpurKalan,agricultural,6920.45,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,ShahpurKalan,ShahpurKalan,agricultural,4943.18,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,ShahpurKalan,ShahpurKalan,residential,8500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,ShahpurKalan,ShahpurKalan,commercial,22000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,ShahpurKhurd,ShahpurKhurd,agricultural,2875.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,ShahpurKhurd,ShahpurKhurd,agricultural,4025.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,ShahpurKhurd,ShahpurKhurd,residential,7000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sameypur,Sameypur,agricultural,4235.54,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sameypur,Sameypur,agricultural,5880.68,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sameypur,Sameypur,agricultural,8232.95,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sameypur,Sameypur,residential,18200,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sameypur,Sameypur,commercial,24200,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sameypur,SameyPur-INDL-1AcreTo2Acre,industrial,12100,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sameypur,SameyPur-INDL-2500SqTO1Acre,industrial,14600,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sameypur,SameyPur-INDL-TwoAcre,industrial,10000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sameypur,SameyPur-INDL-Upto1000To2500Sq,industrial,18200,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sameypur,uptto1000 sq.yd,industrial,23000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sagarpur,Sagarpur,agricultural,3977.27,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sagarpur,Sagarpur,agricultural,5568.18,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sagarpur,Sagarpur,residential,12100,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sagarpur,Sagarpur,commercial,22000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sahupura,Sahupura,agricultural,4098.66,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sahupura,Sahupura,agricultural,5738.12,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sahupura,Sahupura,agricultural,4098.66,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sahupura,Sahupura,residential,15000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sahupura,Sahupura,commercial,24200,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sikri,NationalHighwayless than 2 Acre,agricultural,4669.42,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sikri,NationalHighwayless than 2 Acre,agricultural,6528.93,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sikri,NationalHighwayless than 2 Acre,agricultural,4645.14,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sikri,Sikri,residential,20930,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sikri,Sikri,commercial,42350,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sikri,NationalHighwayUpto2 Acre,agricultural,5250.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sikri,NationalHighwayUpto2 Acre,agricultural,5250.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sikri,Sikri-INDL-1000TO2500,industrial,18150,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sikri,Sikri-INDL-1AcreTO2Acre,industrial,12100,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sikri,Sikri-INDL-2500TO1Acre,industrial,14600,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sikri,Sikri-INDL-Above2Acre,industrial,10000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sikri,upto1000 sq.yd,industrial,23000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sikri,upto1000 sq.yd,industrial,25000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sikri,1 Acreaboveandlessthan 2 acre,industrial,12100,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sikri,JaildarColony,residential,30300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sikri,JaildarColony,commercial,36300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sikri,RajaNaharSinghColony,residential,39675,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sihi,Sihi,commercial,48875,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sihi,Sihi,agricultural,10603.05,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sihi,Sihi,agricultural,14844.27,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sihi,Sihi,residential,39675,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sihi,Sihi,commercial,56160,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sihi,SIHIUPTo1000SqTo 2500Sq,industrial,18200,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sihi,SIHI-INDL.2500TO 1ACRE,industrial,14600,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sihi,SIHI-INDL-Above2Acre,industrial,10000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sihi,SUBEDARCOLONY,residential,30300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sihi,SUBEDARCOLONY,commercial,36300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sihi,TirkhaColony,residential,39675,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sihi,TirkhaColony,commercial,41745,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sihi,upto1000sq.yd,industrial,23000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sunper,Sunper,agricultural,6508.26,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sunper,Sunper,agricultural,9111.57,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sunper,Sunper,residential,14600,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sunper,Sunper,commercial,22000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sotai,Sotai,agricultural,5000.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sotai,Sotai,agricultural,7000.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sotai,Sotai,agricultural,3125.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sotai,Sotai,residential,10000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Sotai,Sotai,commercial,18200,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Harphala,Harphala,agricultural,2500.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Harphala,Harphala,agricultural,3500.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Ballabgarh,Harphala,Harphala,residential,10000,2026-04-01,faridabad_gov_in_dc_notification

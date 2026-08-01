@@ -1,0 +1,993 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Bhiwani,Bhiwani,Manheru,Nehri,agricultural,302.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Manheru,Nehri,agricultural,377.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Ajitpur,Nehri,agricultural,302.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Ajitpur,Chahi,agricultural,302.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Ajitpur,Nehri,agricultural,377.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Ajitpur,Gair Mumkin,agricultural,465.91,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Ajitpur,Tibba,agricultural,247.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Ajitpur,Tal,agricultural,315.91,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Ajitpur,Tal,agricultural,302.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Ajitpur,Ajitpur,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,AazadNagar,Aazad Nagar,commercial,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,AazadNagar,Chahi,agricultural,247.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,AazadNagar,Nehri,agricultural,247.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,AazadNagar,Nehri,agricultural,322.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,AazadNagar,Gair Mumkin,agricultural,302.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,AazadNagar,Raiya,agricultural,193.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,AazadNagar,Raiya,agricultural,267.05,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,AsalwasDubia,Tal,agricultural,219.32,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,AsalwasDubia,Asalwas Dubia,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,AsalwasDubia,Asalwas Dubia,commercial,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,AsalwasDubia,Chahi,agricultural,247.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,AsalwasDubia,Nehri,agricultural,247.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,AsalwasDubia,Nehri,agricultural,322.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,AsalwasDubia,Gair Mumkin,agricultural,302.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,AsalwasDubia,Tibba,agricultural,193.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,AsalwasDubia,Tibba,agricultural,261.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,AsalwasDubia,Tal,agricultural,220.45,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,AsalwasMarehta,Chahi,agricultural,247.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,AsalwasMarehta,Nehri,agricultural,247.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,AsalwasMarehta,Nehri,agricultural,322.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,AsalwasMarehta,Gair Mumkin,agricultural,302.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,AsalwasMarehta,Tibba,agricultural,193.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,AsalwasMarehta,Tal,agricultural,220.45,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,AsalwasMarehta,Asalwas Marehta,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,AsalwasMarehta,Asalwas Marehta,commercial,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Umrawat,Chahi,agricultural,439.77,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kayla,Nehri,agricultural,439.77,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kayla,Nehri,agricultural,514.77,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kayla,Gair Mumkin,agricultural,522.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kayla,Raiya,agricultural,357.95,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kayla,Raiya,agricultural,431.82,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kayla,Tal,agricultural,357.95,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kayla,Tal,agricultural,426.14,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kayla,Kayla,residential,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kayla,Kayla,commercial,2420,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,GausalatoCommitteeHadud-1,Chahi,agricultural,247.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,GausalatoCommitteeHadud-1,Nehri,agricultural,247.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,GausalatoCommitteeHadud-1,Gair Mumkin,agricultural,468.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,GausalatoCommitteeHadud-1,Raiya,agricultural,247.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,GausalatoCommitteeHadud-1,Tal,agricultural,247.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,GausalatoCommitteeHadud-1,Gausala to Committee Hadud-1,residential,1265,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,GausalatoCommitteeHadud-1,Gausala to Committee Hadud-1,residential,7260,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,GausalatoCommitteeHadud-1,Gausala to Committee Hadud-1,commercial,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,GausalatoCommitteeHadud-1,Gausala to Committee Hadud-1,commercial,23100,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kaluwas,Chahi,agricultural,495.45,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kaluwas,Nehri,agricultural,495.45,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kaluwas,Nehri,agricultural,570.45,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kitlana,Gair Mumkin,agricultural,549.59,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kitlana,Raiya,agricultural,375.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kitlana,Kitlana,residential,2200,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kitlana,Kitlana,commercial,2750,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,VidyaNagarChotuRamColonyNaiBasti79K,Vidya Nagar Chotu Ram Colony Nai Basti 79 K,residential,16800,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,VidyaNagarChotuRamColonyNaiBasti79K,Vidya Nagar Chotu Ram Colony Nai Basti 79 K,commercial,43200,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kusumbi,Chahi,agricultural,302.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kusumbi,Nehri,agricultural,302.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kusumbi,Tal,agricultural,302.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kusumbi,Kusumbi,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kusumbi,Kusumbi,commercial,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kelanga,Chahi,agricultural,357.95,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kelanga,Nehri,agricultural,357.95,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kelanga,Nehri,agricultural,431.82,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kelanga,Gair Mumkin,agricultural,468.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kelanga,Tibba,agricultural,247.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kelanga,Tal,agricultural,275.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kelanga,Kelanga,residential,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kelanga,Kelanga,commercial,2420,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kount,Chahi,agricultural,605.68,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kount,Nehri,agricultural,605.68,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kount,Nehri,agricultural,673.86,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kount,Gair Mumkin,agricultural,825.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kount,Tibba,agricultural,495.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kount,Tibba,agricultural,1223.86,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kount,Tal,agricultural,495.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kount,Kount,residential,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kount,Kount,commercial,2420,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kohar,Chahi,agricultural,302.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kohar,Nehri,agricultural,302.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kohar,Nehri,agricultural,377.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kohar,Gair Mumkin,agricultural,495.45,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kohar,Tibba,agricultural,220.45,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,KharakKalan,Tibba,agricultural,295.45,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,KharakKalan,Tal,agricultural,247.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,KharakKalan,Tal,agricultural,322.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,KharakKalan,Kharak Kalan,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,KharakKalan,Kharak Kalan,commercial,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,KharakKalan,Chahi,agricultural,439.77,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,KharakKalan,Nehri,agricultural,439.77,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,KharakKalan,Nehri,agricultural,514.77,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,KharakKalan,Gair Mumkin,agricultural,468.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,KharakKalan,Tibba,agricultural,357.95,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,KharakKalan,Tal,agricultural,357.95,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,KharakKalan,Kharak Kalan,residential,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,KharakKalan,Kharak Kalan,commercial,2420,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,KharakKhurd,Chahi,agricultural,439.77,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,KharakKhurd,Nehri,agricultural,439.77,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,KharakKhurd,Nehri,agricultural,514.77,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,KharakKhurd,Gair Mumkin,agricultural,468.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,KharakKhurd,Tibba,agricultural,357.95,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,KharakKhurd,Tal,agricultural,357.95,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,KharakKhurd,Tal,agricultural,431.82,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,KharakKhurd,Kharak Khurd,residential,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,KharakKhurd,Kharak Khurd,commercial,2420,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Gujrani,Chahi,agricultural,468.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Gujrani,Nehri,agricultural,468.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Gujrani,Nehri,agricultural,543.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Gujrani,Gair Mumkin,agricultural,605.68,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Gujrani,Gair Mumkin,agricultural,679.55,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Gujrani,Tibba,agricultural,329.55,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Gujrani,Tal,agricultural,385.11,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Gujrani,Tal,agricultural,460.23,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Gujrani,Gujrani,residential,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Gujrani,Gujrani,commercial,2420,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Golagarh,Chahi,agricultural,247.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Golagarh,Chahi,agricultural,322.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Golagarh,Nehri,agricultural,247.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Golagarh,Nehri,agricultural,322.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Golagarh,Golagarh,commercial,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Golagarh,Gair Mumkin,agricultural,302.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Golagarh,Tibba,agricultural,193.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Golagarh,Tibba,agricultural,267.05,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Golagarh,Tal,agricultural,220.45,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Golagarh,Golagarh,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Gouripur,Chahi,agricultural,302.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Gouripur,Nehri,agricultural,302.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Ghuskani,Nehri,agricultural,377.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Ghuskani,Gair Mumkin,agricultural,468.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Ghuskani,Tibba,agricultural,247.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Ghuskani,Tal,agricultural,302.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Ghuskani,Ghuskani,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Ghuskani,Ghuskani,commercial,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Ghuskani,Chahi,agricultural,357.95,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Ghuskani,Nehri,agricultural,431.82,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Chandawas,Chahi,agricultural,275.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Chandawas,Nehri,agricultural,275.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Chandawas,Nehri,agricultural,350.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Chandawas,Gair Mumkin,agricultural,329.55,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Chandawas,Tibba,agricultural,220.45,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Chandawas,Tal,agricultural,220.45,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Chandawas,Chandawas,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Chandawas,Chandawas,commercial,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Chang,Chahi,agricultural,357.95,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Chang,Nehri,agricultural,374.23,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Chang,Tal,agricultural,451.45,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Chang,Gair Mumkin,agricultural,494.32,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Chang,Tibba,agricultural,247.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Chang,Tal,agricultural,302.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Chang,Tal,agricultural,377.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Chang,Chang,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Chang,Chang,commercial,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Jatai,Tal,agricultural,288.64,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Jatai,Jatai,residential,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Jatai,Jatai,commercial,2420,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Jatai,Chahi,agricultural,357.95,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Jatai,Nehri,agricultural,357.95,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Jatai,Nehri,agricultural,431.82,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Jatai,Gair Mumkin,agricultural,468.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Jatai,Tibba,agricultural,261.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,JitwanBaas,Chahi,agricultural,272.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,JitwanBaas,Nehri,agricultural,272.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,JitwanBaas,Nehri,agricultural,350.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,JitwanBaas,Gair Mumkin,agricultural,329.55,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,JitwanBaas,Tibba,agricultural,220.45,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,JitwanBaas,Tibba,agricultural,295.45,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,JitwanBaas,Tal,agricultural,220.45,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,JitwanBaas,Tal,agricultural,295.45,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,JitwanBaas,Jitwan Baas,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,JitwanBaas,Jitwan Baas,commercial,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,JuiKhurd,Chahi,agricultural,247.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,JuiKhurd,Nehri,agricultural,247.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,JuiKhurd,Tibba,agricultural,247.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,JuiKhurd,Gair Mumkin,agricultural,302.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,JuiKhurd,Tal,agricultural,193.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,JuiKhurd,Tibba,agricultural,220.45,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,JuiKhurd,Jui Khurd,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,JuiKhurd,Jui Khurd,commercial,1897,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,JuiKalan,Chahi,agricultural,247.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,JuiKalan,Nehri,agricultural,247.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,JuiKalan,Tibba,agricultural,247.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,JuiKalan,Gair Mumkin,agricultural,302.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,JuiKalan,Tibba,agricultural,193.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,JuiKalan,Tal,agricultural,220.45,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,JuiKalan,Jui Kalan,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,JuiKalan,Jui Kalan,commercial,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Jhundawas,Jhundawas,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Jhundawas,Jhundawas,commercial,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Jhundawas,Nehri,agricultural,247.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Jhundawas,Nehri,agricultural,322.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Jhundawas,Gair Mumkin,agricultural,302.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Jhundawas,Tibba,agricultural,193.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Jhundawas,Tal,agricultural,220.45,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Titani,Chahi,agricultural,247.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Titani,Tibba,agricultural,337.4,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Titani,Tal,agricultural,302.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Titani,Titani,residential,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Titani,Titani,commercial,2420,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Titani,Chahi,agricultural,302.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Titani,Nehri,agricultural,377.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Titani,Nehri,agricultural,302.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Titani,Gair Mumkin,agricultural,468.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Dhangar,Chahi,agricultural,258.99,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Dhangar,Chahi,agricultural,322.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Dhangar,Nehri,agricultural,247.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Dhangar,Nehri,agricultural,322.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Dhangar,Gair Mumkin,agricultural,302.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Dhangar,Tibba,agricultural,193.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Dhangar,Tal,agricultural,220.45,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Dhangar,Dhangar,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,DhanaNarsan,Dhana Narsan,commercial,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,DhanaNarsan,Chahi,agricultural,522.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,DhanaNarsan,Nehri,agricultural,522.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,DhanaNarsan,Nehri,agricultural,597.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,DhanaNarsan,Gair Mumkin,agricultural,743.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,DhanaNarsan,Tibba,agricultural,439.77,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,DhanaNarsan,Tal,agricultural,514.77,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,DhanaLadanpur,Dhana Ladanpur,commercial,2420,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,DhanaLadanpur,Dhana Ladanpur,residential,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,DhanaLadanpur,Tal,agricultural,494.32,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,DhanaLadanpur,Tal,agricultural,568.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,DhanaLadanpur,Chahi,agricultural,605.68,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,DhanaLadanpur,Nehri,agricultural,605.68,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,DhanaLadanpur,Nehri,agricultural,679.55,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,DhanaLadanpur,Gair Mumkin,agricultural,825.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,DhanaLadanpur,Tibba,agricultural,495.45,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,DhanaLadanpur,Tibba,agricultural,568.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,DhanaLadanpur,Chahi,agricultural,247.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,DhanaLadanpur,Nehri,agricultural,247.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,DhaniBrahamanan,Nehri,agricultural,322.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,DhaniBrahamanan,Gair Mumkin,agricultural,302.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,DhaniBrahamanan,Tibba,agricultural,193.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,DhaniBrahamanan,Tal,agricultural,220.45,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,DhaniBrahamanan,Dhani Brahamanan,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,DhaniBrahamanan,Dhani Brahamanan,commercial,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,DhabDhani,Chahi,agricultural,247.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,DhabDhani,Nehri,agricultural,247.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,DhabDhani,Dhab Dhani,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,DhabDhani,Dhab Dhani,commercial,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,DhabDhani,Nehri,agricultural,322.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,DhabDhani,Gair Mumkin,agricultural,302.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,DhabDhani,Tibba,agricultural,193.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,DhabDhani,Tal,agricultural,261.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,DhabDhani,Tal,agricultural,220.45,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Talu,Chahi,agricultural,295.45,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Talu,Chahi,agricultural,357.95,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Talu,Nehri,agricultural,357.95,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Talu,Nehri,agricultural,431.82,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Tigrana,Gair Mumkin,agricultural,467.05,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Tigrana,Tibba,agricultural,261.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Tigrana,Tal,agricultural,288.64,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Tigrana,Tal,agricultural,363.64,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Tigrana,Tigrana,residential,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Tigrana,Tigrana,commercial,2420,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Tigrana,Tal,agricultural,494.32,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Tigrana,Chahi,agricultural,604.55,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Tigrana,Nehri,agricultural,604.55,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Tigrana,Nehri,agricultural,679.55,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Tigrana,Gair Mumkin,agricultural,550.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Tigrana,Gair Mumkin,agricultural,625.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Tigri,Tibba,agricultural,412.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Tigri,Tal,agricultural,450.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Tigri,Tal,agricultural,531.82,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Tigri,Nehri,agricultural,514.77,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Tigri,Gair Mumkin,agricultural,495.45,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Tigri,Tibba,agricultural,275.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Tigri,Tal,agricultural,302.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Tigri,Tigri,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Tigri,Tigri,commercial,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Dinod,Chahi,agricultural,439.77,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Dinod,Nehri,agricultural,439.77,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Dinod,Gair Mumkin,agricultural,494.32,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Devsar,Chahi,agricultural,604.55,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Devsar,Devsar,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Devsar,Devsar,commercial,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Dhanana,Tibba,agricultural,261.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Dhareru,Tal,agricultural,288.64,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Dhareru,Dhareru,residential,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Dhareru,Dhareru,commercial,2420,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Dhareru,Chahi,agricultural,357.95,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Dhareru,Nehri,agricultural,357.95,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Dhareru,Gair Mumkin,agricultural,431.82,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,DhiranaKalan,Chahi,agricultural,302.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,DhiranaKalan,Nehri,agricultural,302.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,DhiranaKalan,Tal,agricultural,302.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,DhiranaKalan,Dhirana Kalan,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Nangla,Chahi,agricultural,247.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Nangla,Nehri,agricultural,247.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Nangla,Gair Mumkin,agricultural,302.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Nangla,Tibba,agricultural,193.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Nangla,Tal,agricultural,220.45,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Nangla,Nangla,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Nandgaon,Chahi,agricultural,302.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Nandgaon,Nehri,agricultural,302.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Nandgaon,Nehri,agricultural,370.45,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Nandgaon,Gair Mumkin,agricultural,468.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Nandgaon,Tibba,agricultural,247.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Nandgaon,Tal,agricultural,302.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Nandgaon,Nandgaon,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Nandgaon,Nandgaon,commercial,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Nangal,Chahi,agricultural,302.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Nangal,Nehri,agricultural,302.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Nangal,Nehri,agricultural,377.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Nangal,Gair Mumkin,agricultural,468.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Nangal,Tibba,agricultural,247.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Nangal,Tal,agricultural,302.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Nangal,Tal,agricultural,377.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Nangal,Nangal,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Nathuwas,Nathuwas,commercial,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Nathuwas,Chahi,agricultural,495.45,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Nathuwas,Nehri,agricultural,495.45,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Nathuwas,Gair Mumkin,agricultural,604.55,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Nathuwas,Tal,agricultural,412.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Nathuwas,Tibba,agricultural,412.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Nathuwas,Nathuwas,residential,2420,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Nathuwas,Nathuwas,commercial,3025,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Ninan,Chahi,agricultural,604.55,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Ninan,Nehri,agricultural,604.55,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Ninan,Nehri,agricultural,679.55,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Ninan,Gair Mumkin,agricultural,604.55,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Ninan,Tibba,agricultural,412.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Ninan,Tal,agricultural,495.45,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Ninan,Tal,agricultural,568.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Ninan,Ninan,residential,3025,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Ninan,Ninan,commercial,3025,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Nimriwali,Chahi,agricultural,302.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Nimriwali,Nehri,agricultural,302.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Nimriwali,Gair Mumkin,agricultural,468.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Nimriwali,Tibba,agricultural,247.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Nimriwali,Tal,agricultural,302.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Norangabad,Norangabad,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Norangabad,Norangabad,commercial,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Norangabad,Chahi,agricultural,439.77,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Norangabad,Nehri,agricultural,439.77,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Norangabad,Nehri,agricultural,514.77,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Norangabad,Gair Mumkin,agricultural,546.49,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Norangabad,Gair Mumkin,agricultural,624.79,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Norangabad,Tibba,agricultural,357.95,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Norangabad,Tal,agricultural,374.23,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Norangabad,Tal,agricultural,451.45,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Pahladgarh,Pahladgarh,residential,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Pahladgarh,Pahladgarh,commercial,2420,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Pahladgarh,Tibba,agricultural,302.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Pahladgarh,Tal,agricultural,357.95,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Pahladgarh,Tal,agricultural,431.82,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Pahladgarh,Pahladgarh,residential,2420,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Pahladgarh,Pahladgarh,commercial,3025,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Pahladgarh,Chahi,agricultural,439.77,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Pahladgarh,Nehri,agricultural,439.77,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Pahladgarh,Nehri,agricultural,514.77,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Pahladgarh,Gair Mumkin,agricultural,522.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Paluwas,Bank Colony-1,residential,15400,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Paluwas,Bank Colony-1,commercial,66000,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Bharat Nagar New Bharat Nagar-1,residential,12500,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Bharat Nagar New Bharat Nagar-1,commercial,44000,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Gausala to Committee Hadud-1,residential,6500,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,New Bus Stand to Hunnamal Ki Pyau-1,residential,14000,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Paluwas,Chahi,agricultural,875.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Paluwas,Nehri,agricultural,875.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Paluwas,Gair Mumkin,agricultural,943.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Public Health Office to Gausala-1,agricultural,710.43,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Public Health Office to Gausala-1,residential,4400,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Sabji Mandi-1,commercial,10560,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Sector 26-21 HUDA-1,commercial,10560,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Tosham Bypass-1,residential,4400,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Vidya Nagar Chotu Ram Colony Nai Basti 79,residential,16800,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Vikas Nagar-1,commercial,64350,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Pohkarwas,Tal,agricultural,288.64,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Pohkarwas,Nehri,agricultural,322.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Pohkarwas,Pohkarwas,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Premnagar,Tibba,agricultural,193.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Premnagar,Chahi,agricultural,687.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Premnagar,Nehri,agricultural,687.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Premnagar,Gair Mumkin,agricultural,604.55,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Phulpura,Tal,agricultural,495.45,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Phulpura,Phulpura,residential,1870,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Phulpura,Phulpura,commercial,2750,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Badala,Chahi,agricultural,302.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Badala,Nehri,agricultural,302.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Badala,Tibba,agricultural,247.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Badesra,Badesra,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Badesra,Badesra,commercial,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Badesra,Chahi,agricultural,330.68,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Badesra,Nehri,agricultural,330.68,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Badesra,Gair Mumkin,agricultural,468.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Badesra,Tibba,agricultural,258.99,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Badesra,Tal,agricultural,275.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Badesra,Badesra,commercial,1870,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Badesra,Tal,agricultural,350.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bapora,Bapora,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bapora,Bapora,commercial,1870,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bapora,Bapora,commercial,2420,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bapora,Nehri,agricultural,509.66,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bapora,Gair Mumkin,agricultural,660.74,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bapora,Tibba,agricultural,330.68,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bapora,Tal,agricultural,405.68,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bapora,Tal,agricultural,357.95,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bapora,Tal,agricultural,432.95,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Babarwas,Chahi,agricultural,412.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Babarwas,Nehri,agricultural,431.25,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Babarwas,Chahi,agricultural,275.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bamla,Nehri,agricultural,275.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bamla,Gair Mumkin,agricultural,330.68,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bamla,Tibba,agricultural,220.45,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bamla,Bamla,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bamla,Bamla,commercial,1870,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Biran,Nehri,agricultural,302.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Biran,Chahi,agricultural,357.95,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhakra,Tal,agricultural,322.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhakra,Bhakra,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhakra,Bhakra,commercial,1870,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhakra,Chahi,agricultural,247.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhakra,Nehri,agricultural,247.73,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhangarh,Tibba,agricultural,193.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhangarh,Bhangarh,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,BhiwaniJonpal,Bhiwani Jonpal,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,BhiwaniLohar,Nehri,agricultural,1568.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,BhiwaniLohar,Gair Mumkin,agricultural,1650.83,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,BhiwaniLohar,Gair Mumkin,agricultural,1712.81,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,BhiwaniLohar,Tibba,agricultural,1568.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,BhiwaniLohar,Tal,agricultural,1568.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Devsar,Chahi,agricultural,1018.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Devsar,Nehri,agricultural,1018.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Devsar,Gair Mumkin,agricultural,1100.83,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Devsar,Gair Mumkin,agricultural,1162.81,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Devsar,Tibba,agricultural,1018.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Devsar,Tal,agricultural,1018.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,DhanaLadanpur,Chahi,agricultural,1155.68,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,DhanaLadanpur,Nehri,agricultural,1155.68,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,DhanaLadanpur,Gair Mumkin,agricultural,1238.33,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,DhanaLadanpur,Gair Mumkin,agricultural,1300.31,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,DhanaLadanpur,Tibba,agricultural,1155.68,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,DhanaLadanpur,Tal,agricultural,1155.68,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Halwas,Chahi,agricultural,1155.68,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Halwas,Nehri,agricultural,1155.68,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Halwas,Gair Mumkin,agricultural,1238.33,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Halwas,Gair Mumkin,agricultural,1300.31,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Halwas,Tibba,agricultural,1155.68,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Halwas,Tal,agricultural,1155.68,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kaluwas,Chahi,agricultural,1155.68,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kaluwas,Nehri,agricultural,1155.68,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kaluwas,Gair Mumkin,agricultural,1238.33,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kaluwas,Gair Mumkin,agricultural,1300.31,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kaluwas,Tibba,agricultural,1155.68,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kaluwas,Tal,agricultural,1155.68,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kaunt,Chahi,agricultural,1155.68,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kaunt,Nehri,agricultural,1155.68,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kaunt,Gair Mumkin,agricultural,1238.33,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kaunt,Gair Mumkin,agricultural,1300.31,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kaunt,Tibba,agricultural,1155.68,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Kaunt,Tal,agricultural,1155.68,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Ninan,Chahi,agricultural,1293.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Ninan,Nehri,agricultural,1293.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Ninan,Gair Mumkin,agricultural,1375.83,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Ninan,Gair Mumkin,agricultural,1437.81,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Ninan,Tibba,agricultural,1293.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Ninan,Tal,agricultural,1293.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Palwas,Chahi,agricultural,1430.68,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Palwas,Nehri,agricultural,1430.68,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Palwas,Gair Mumkin,agricultural,1513.33,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Palwas,Gair Mumkin,agricultural,1575.31,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Palwas,Tibba,agricultural,1430.68,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Palwas,Tal,agricultural,1430.68,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Rajpura,Chahi,agricultural,1155.68,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Rajpura,Nehri,agricultural,1155.68,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Rajpura,Gair Mumkin,agricultural,1238.33,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Rajpura,Gair Mumkin,agricultural,1300.31,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Rajpura,Tibba,agricultural,1155.68,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Rajpura,Tal,agricultural,1155.68,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Tigrana,Chahi,agricultural,1018.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Tigrana,Nehri,agricultural,1018.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Tigrana,Gair Mumkin,agricultural,1100.83,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Tigrana,Gair Mumkin,agricultural,1162.81,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Tigrana,Tibba,agricultural,1018.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Tigrana,Tal,agricultural,1018.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Aadresh Nagar-1,residential,33000,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Aadresh Nagar-1,commercial,105050,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Aggarsain Chowk to MC Colony chowk Bajrang bali Colony-1,residential,26400,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Aggarsain Chowk to MC Colony,commercial,107800,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Baba Nagar to G.M.C. to Sachiwalya-1,residential,22550,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Baba Nagar to G.M.C. to Sachiwalya-1,commercial,56100,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Baba Nagar-1,residential,34100,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Baba Nagar-1,commercial,80300,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Bank Colony-1,residential,15400,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Bank Colony-1,commercial,66000,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Bharat Nagar New Bharat Nagar-1,residential,13750,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Bharat Nagar New Bharat Nagar-1,commercial,48400,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,BhiwaniLohar,Chahi,agricultural,687.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,BhiwaniLohar,Nehri,agricultural,718.75,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,BhiwaniLohar,Gair Mumkin,agricultural,750.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,BhiwaniLohar,Gair Mumkin,agricultural,831.82,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,BhiwaniLohar,Tibba,agricultural,605.68,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,BhiwaniLohar,Tal,agricultural,605.68,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,BhiwaniLohar,Bhiwani Lohar,residential,5500,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,BhiwaniLohar,Bhiwani Lohar,commercial,6050,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,BTM Chowk to New Bijli Ghar Leber Colony Chiranjiv Colony BL,residential,22550,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,BTM Chowk to New Bijli Ghar Leber Colony Chiranjiv Colony BL,commercial,42350,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,City center near Hudda park-1,commercial,84700,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,D.C. colony Hansi road and Bijli board ke sath wali colony-1,residential,14300,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,D.C. colony Hansi road and Bijli board ke sath wali colony-1,commercial,31900,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Dadri gate to Rohtak gate Kokra wala bagh Colony-1,residential,22550,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Dadri gate to Rohtak gate Kokra wala bagh Colony-1,commercial,83600,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Friends Colony-1,residential,14300,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Friends Colony-1,commercial,31350,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Gausala to Committee Hadud-1,residential,7700,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Gausala to Committee Hadud-1,commercial,21450,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Hansi gate to Ganta Ghar-1,residential,30800,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Hansi gate to Ganta Ghar-1,commercial,160050,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Hansi gate to vijay nagar to Rest house-1,residential,42350,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Hansi gate to vijay nagar to Rest house-1,commercial,128700,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Housing board old L.I.G. Housing board old M.I.G. L.I.G.-1,residential,25300,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Housing board old L.I.G. Housing board old M.I.G. L.I.G.-1,commercial,56650,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Hudda Sector-13-1,residential,42000,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Hudda Sector-13-1,commercial,87000,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Hudda Sector-23-1,residential,37800,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Hudda Sector-23-1,commercial,79800,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Hunnamal ki pyau to Hadud Nagar palika-1,residential,12540,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Hunnamal ki pyau to Hadud Nagar palika-1,commercial,40150,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Indera colony City station main Road-1,residential,14950,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Indera colony City station main Road-1,commercial,42350,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,K.M. College to Stadium-1,residential,17050,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,K.M. College to Stadium-1,commercial,72050,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Kirti nagar-1,residential,12100,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Kirti nagar-1,commercial,18150,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Lajpat Nagar-1,residential,10450,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Lajpat Nagar-1,commercial,24200,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,M C colony mor to New Bus stand-1,residential,22440,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,M C colony mor to New Bus stand-1,commercial,80300,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Maham Gate to New Basti Vashisth Vaidh Parshuram nagar-1,residential,17050,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Maham Gate to New Basti Vashisth Vaidh Parshuram nagar-1,commercial,44000,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Milk plant to Nagarpalika Hadud-1,residential,10450,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Milk plant to Nagarpalika Hadud-1,commercial,31900,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Nehru colony Rajiv colony-1,residential,9200,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Nehru colony Rajiv colony-1,commercial,32450,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,New bus stand ke samne to kaunt road Mini bypass-1,residential,22440,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,New bus stand ke samne to kaunt road Mini bypass-1,commercial,35200,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,New Housing board colony-1,residential,23650,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,New Housing board colony-1,commercial,70400,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Patel Nagar-1,residential,23650,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Patel Nagar-1,commercial,48400,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Public Health office to gausala-1,residential,11550,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Public Health office to gausala-1,commercial,32450,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Ramkunj to New bazar two side uttmibai school-1,residential,20350,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Ramkunj to New bazar two side uttmibai school-1,commercial,88550,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Rest house to Milk plant-1,residential,20350,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Rest house to Milk plant-1,commercial,80300,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Rohtak gate M.C. colony-1,residential,18150,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Rohtak gate M.C. colony-1,commercial,70400,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Rohtak gate to hansi gate-1,residential,27720,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Rohtak gate to hansi gate-1,commercial,160050,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Sector 13 weaker Section-1,residential,21450,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Sector 13 weaker Section-1,commercial,73150,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Tekedar ki Dharamshala se Ravi dass Mandir RI,residential,9000,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Tosham Bypass-1,commercial,13200,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Tosham Bypass-1,residential,7700,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Vaish college to Labour Colony chowk BTM chowk Jagat colony Ramnagar Colony Rest house-1,residential,24750,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Vaish college to Labour Colony chowk BTM chowk Jagat colony Ramnagar Colony Rest house-1,commercial,56650,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Vashisth to Public health office Chokhani colony-1,residential,21275,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Vashisth to Public health office Chokhani colony-1,commercial,51150,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Vidya nagar Chhotu ram colony New Basti-1,residential,18700,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Vidya nagar Chhotu ram colony New Basti-1,commercial,44000,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,AAdresh Nagar,residential,33000,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,AAdresh Nagar,commercial,105050,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Agarsain Chowk to M C Colony chok Tak Bajrang Bali colony,residential,28800,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Agarsain Chowk to M C Colony chok Tak Bajrang Bali colony,commercial,107800,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Ambedkar Colony Dhana Road,residential,7700,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Ambedkar Colony Dhana Road,commercial,18150,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Ambedkar Colony to,residential,7700,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Ambedkar Colony to,commercial,18150,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Anaj Mandi Loharu,commercial,61600,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Ashoka Colony Kachchi Colony New Aadrash Nagar,residential,12420,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Ashoka Colony Kachchi Colony New Aadrash Nagar,commercial,31900,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Auto Market Loharu Road Old and New,commercial,56925,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Baba Nagar,residential,33660,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Baba Nagar,commercial,87600,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Baba Nagar to GMC se Sachivalya,residential,22550,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Baba Nagar to GMC se Sachivalya,commercial,87600,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Bank Colony,residential,15400,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Bank Colony,commercial,56100,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Bharat Nagar and New Bharat Nagar,residential,13860,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Bharat Nagar and New Bharat Nagar,commercial,65450,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Bichla Bazar to Mahabir Ghati Tak,residential,26950,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Bichla Bazar to Mahabir Ghati Tak,commercial,48400,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Bijli Ghar Gate se jain chok tak,residential,26950,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Bijli Ghar Gate se jain chok tak,commercial,138050,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,BTM Chowk to New Bijli Ghar Leber Colony Chiranjiv Colony,residential,24600,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,BTM Chowk to New Bijli Ghar Leber Colony Chiranjiv Colony,commercial,42350,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Buth Sec 26-21,residential,11000,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Buth Sec 26-21,commercial,77550,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Chara Mandhi,commercial,33000,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Chattru wale Challe to Railway tak New Balbimi Basti,residential,6600,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Chattru wale Challe to Railway tak New Balbimi Basti,commercial,13200,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,chopta Ghosiyan se Kanhi Ram aai Hospital Gali gokal chand Arya birwan pana Gali chajran Khyali kan,residential,12650,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,chopta Ghosiyan se Kanhi Ram aai Hospital Gali gokal chand Arya birwan pana Gali chajran Khyali kan,commercial,29325,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,chopta Ghosiyan to halluchok Katla Nandram tak Gali Swami kriparam Gali Kanodiya,residential,15400,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,chopta Ghosiyan to halluchok Katla Nandram tak Gali Swami kriparam Gali Kanodiya,commercial,45000,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,city Center Near Hudda Park,commercial,84700,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Civil Hosiptal to Vaish Collage Tak,residential,24750,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Civil Hosiptal to Vaish Collage Tak,commercial,115200,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Dadri Gate to Kaunt Road Laxmi Nagar Dhana Road,residential,9900,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Dadri Gate to Kaunt Road Laxmi Nagar Dhana Road,commercial,31900,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Dadri Gate to Rohtak Gate KoKda wala Bag colony,residential,23575,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Dadri Gate to Rohtak Gate KoKda wala Bag colony,commercial,83600,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,DC Colony Hansi Road and Bijli Board ke Sath Wali Colony,residential,13750,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,DC Colony Hansi Road and Bijli Board ke Sath Wali Colony,commercial,31900,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Dhani Mehtab Daas,residential,7260,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Dhani Mehtab Daas,commercial,10450,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Dinod Gate to Krishana 8 Marla Chowk,residential,31350,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Dinod Gate to Krishana 8 Marla Chowk,commercial,76800,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Dinod Gate to Purani Devsar chungi,residential,20350,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Dinod Gate to Purani Devsar chungi,commercial,72050,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Dinod Gate To Railway,residential,20350,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Dinod Gate To Railway,commercial,105050,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Dr. Chiranji Singh ki parsh se Bichla bazar tak,residential,18150,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Dr. Chiranji Singh ki parsh se Bichla bazar tak,commercial,48400,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Durga Colony,residential,7260,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Durga Colony,commercial,19250,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Farinds Colony,residential,13860,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Farinds Colony,commercial,31350,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Gandhi Nagar,residential,13750,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Gandhi Nagar,commercial,29150,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Gaushala to Commite Hadud,residential,7150,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Gaushala to Commite Hadud,commercial,21450,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Ghanta Ghar to Dinod Gate,residential,28175,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Ghanta Ghar to Dinod Gate,commercial,136400,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,GhantaGhar to Sarai Chopta Bichla Balzar chok rupa champa ki Gali Tak,residential,36850,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,GhantaGhar to Sarai Chopta Bichla Balzar chok rupa champa ki Gali Tak,commercial,145200,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Halawas Gate Railway Line tak Baba Jahargiri Basti Syampura Handlum Factory ke piche,residential,7260,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Halawas Gate Railway Line tak Baba Jahargiri Basti Syampura Handlum Factory ke piche,commercial,16500,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Halu Mohalla Balmiki Basti,residential,7800,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Halu Mohalla Balmiki Basti,commercial,14300,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Haluchowk To PanchMukhi,residential,13200,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Haluchowk To PanchMukhi,commercial,26950,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Hansi Gate to Ghanta Ghar,residential,30250,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Hansi Gate to Ghanta Ghar,commercial,160050,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Hansi Gate to Vijay Nagar Rest House Tak,residential,42350,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Hansi Gate to Vijay Nagar Rest House Tak,commercial,134500,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Hanuman Dhani,residential,7475,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Hanuman Dhani,commercial,14850,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Hanuman Gate to Chattru,residential,6600,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Hanuman Gate to Chattru,commercial,13200,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Housing Board Purana L I G,residential,24750,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Housing Board Purana L I G,commercial,56650,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Housing Board Purana MIGLIG,residential,24800,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Housing Board Purana MIGLIG,commercial,56650,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Hudda Sec 13,residential,42000,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Hudda Sec 13,commercial,79750,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Hudda Sec 23,residential,34650,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Hudda Sec 23,commercial,79800,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Hunnamal ki Paau to Hadud Nagar palika,residential,12540,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Hunnamal ki Paau to Hadud Nagar palika,commercial,40150,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,IN Front of New Bus Stand to Koant Road Mini Bypass,residential,23575,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,IN Front of New Bus Stand to Koant Road Mini Bypass,commercial,35200,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Indra colony City Station Main Road,residential,13750,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Indra colony City Station Main Road,commercial,42350,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Jagarti Colony,residential,10450,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Jagarti Colony,commercial,24200,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Jain Chowk to Chopta Goshiyan Gali Thakur GanguSingh Gali Bhud dev gali dakotari,residential,13750,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Jain Chowk to Chopta Goshiyan Gali Thakur GanguSingh Gali Bhud dev gali dakotari,commercial,40150,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Jain Chowk to Dadri Gate waya lal Masjid chandergiri school,residential,15180,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Jain Chowk to Dadri Gate waya lal Masjid chandergiri school,commercial,46000,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Jain Chowk to Tekedar,residential,15400,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Jain Chowk to Tekedar,commercial,44000,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Jawahar Chowk To Hallu chok Tak,residential,22550,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Jawahar Chowk To Hallu chok Tak,commercial,138050,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Jawahar Nagar,residential,17250,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Jawahar Nagar,commercial,31900,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Kanhiram aai Hospital to Pani Tanki dadri gate Ramganj Mohlla Gali Arihan,residential,14490,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Kanhiram aai Hospital to Pani Tanki dadri gate Ramganj Mohlla Gali Arihan,commercial,28175,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Katla to Vish School Dharmshala parjapat bazari chudhsingh libarty sinema rodad se gali naki ram,residential,12540,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Katla to Vish School Dharmshala parjapat bazari chudhsingh libarty sinema rodad se gali naki ram,commercial,37950,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,KattMandhi,commercial,33000,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Khari Mohala Dhani srogiyan Gali Mohalla Gali Kumahran,residential,14375,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Khari Mohala Dhani srogiyan Gali Mohalla Gali Kumahran,commercial,26950,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Kirti Nagar,residential,12100,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Kirti Nagar,commercial,19800,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,KM Collage to Staudiam,residential,17160,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,KM Collage to Staudiam,commercial,72050,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Krishana Colony Chowk to Railway Station Marla Chowk,residential,31680,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Krishana Colony Chowk to Railway Station Marla Chowk,commercial,73600,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Lajpat Nagar,residential,10450,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Lajpat Nagar,commercial,24200,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Lambi Gali dhankan new Bazar,residential,8050,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Lambi Gali dhankan new Bazar,commercial,13200,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Lohar Chopta to Dr chiranjisingh ki prsh tak Gyar hatta gali Bhutan luhari wala pana Rajan,residential,14850,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Lohar Chopta to Dr chiranjisingh ki prsh tak Gyar hatta gali Bhutan luhari wala pana Rajan,commercial,46200,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Mahabir Ghati to Jawahar,residential,23760,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Mahabir Ghati to Jawahar,commercial,138050,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Mananpana Kitanpana Gali Modan vedo ki gali Gali Jindiya Gali NaiBhatan Gali Shorewali,residential,13750,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Mananpana Kitanpana Gali Modan vedo ki gali Gali Jindiya Gali NaiBhatan Gali Shorewali,commercial,25850,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Mandi Township,residential,33000,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Mandi Township,commercial,87000,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,MC Colony Gawar Fectory ke Pichya wali,residential,7700,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,MC Colony Gawar Fectory ke Pichya wali,commercial,17050,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,MC Colony Mor to Naya Bus Stand,residential,22550,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,MC Colony Mor to Naya Bus Stand,commercial,80300,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Meham Gate to New Basti Vashisht Vaidh Parshu Ram Nagar,residential,17050,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Meham Gate to New Basti Vashisht Vaidh Parshu Ram Nagar,commercial,44000,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Milk Plat to Nagar Palika Hadud,residential,10450,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Milk Plat to Nagar Palika Hadud,commercial,31900,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,N Bus Stand To Hunnamal,residential,15400,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,N Bus Stand To Hunnamal,commercial,72600,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Nagar Palika ki Seema say Bahar,residential,7260,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Nagar Palika ki Seema say Bahar,commercial,17600,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Neharu Colony Rajiv colony,residential,8250,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Neharu Colony Rajiv colony,commercial,32450,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,New Housing Board,residential,25875,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,New Housing Board,commercial,79750,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,New Housing Board Dadri Gate,residential,17400,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,New Housing Board Dadri Gate,commercial,73150,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Old Devsar Chungi to New Devsar Chungi Azaz Nagar Shyampura New Over Bril,residential,15870,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Old Devsar Chungi to New Devsar Chungi Azaz Nagar Shyampura New Over Bril,commercial,41250,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Pajawa Shanti Nagar,residential,9900,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Pajawa Shanti Nagar,commercial,31460,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Panchmukhi Hanuman to Phula Devi School to Dhani suglan Dhani Charkhan Nunsur Johad gumani lohar,residential,13800,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Panchmukhi Hanuman to Phula Devi School to Dhani suglan Dhani Charkhan Nunsur Johad gumani lohar,commercial,26950,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Patail Nagar,residential,23650,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Patail Nagar,commercial,50600,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Public Helth to Gaushala tak,residential,11550,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Public Helth to Gaushala tak,commercial,32450,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Purana Bus Stand Road tak Asharam gate se kumharan dharmshala,residential,17050,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Purana Bus Stand Road tak Asharam gate se kumharan dharmshala,commercial,59950,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,purana Bus Stand mod to Sivil Thana tak,residential,20350,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,purana Bus Stand mod to Sivil Thana tak,commercial,64350,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Purana Bus Stand Mor Naya bazar se Rohtak gate tak,residential,21275,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Purana Bus Stand Mor Naya bazar se Rohtak gate tak,commercial,64350,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Purani Devsar Chungi to Dadri gate,residential,15400,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Purani Devsar Chungi to Dadri gate,commercial,64350,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Railway Fatak to TIT Mill Tak,residential,13750,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Railway Fatak to TIT Mill Tak,commercial,34500,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Railway Line to Mukti dham,residential,6050,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Railway Line to Mukti dham,commercial,7700,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Ram Kunj to New Bazar Dono Side Utmi bai School tak,residential,20350,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Ram Kunj to New Bazar Dono Side Utmi bai School tak,commercial,88550,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Rest House to Milk Plant,residential,20350,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Rest House to Milk Plant,commercial,80300,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Rohtak Gat to MC Colony,residential,19000,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Rohtak Gat to MC Colony,commercial,70400,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Rohtak Gate to Hansi gate,residential,28750,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Rohtak Gate to Hansi gate,commercial,167325,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Rudra Colony Brijwasi Colony Sashtri Nagar Sanjeev Nagar Colony Sewa Nagar Brehma Colony Daya,residential,7150,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Rudra Colony Brijwasi Colony Sashtri Nagar Sanjeev Nagar Colony Sewa Nagar Brehma Colony Daya,commercial,11550,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Rui Mandhi,commercial,36000,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Sabji Mandi,commercial,94600,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Sanjay Nagar ParBhat Cinema,residential,9900,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Sanjay Nagar ParBhat Cinema,commercial,18150,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Sarai Chopta to New Bazar,residential,28750,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Sarai Chopta to New Bazar,commercial,105600,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Sec 13 Vikar Section,residential,22425,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Sec 13 Vikar Section,commercial,73150,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Sec 26 21 Hooda,residential,10560,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Sec 26 21 Hooda,commercial,68750,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Idustrial Area,commercial,27500,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Shiv Nagar,residential,33550,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Shiv Nagar,commercial,64350,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Shiv Shakti Nagar,residential,13750,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Shiv Shakti Nagar,commercial,35200,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Somvari Mata Neharu Road Aakhon ka Hospital tak,residential,14850,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Somvari Mata Neharu Road Aakhon ka Hospital tak,commercial,28200,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Somvari Mata to Lohar chopta chanduheda Ghati Jaildar,residential,15525,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Somvari Mata to Lohar chopta chanduheda Ghati Jaildar,commercial,29150,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Tekedar ki Dharamshala se Ravi dass Mandir,residential,9200,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Tekedar ki Dharamshala se Ravi dass Mandir,commercial,13200,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Tekedaro ki Dharamshala Somari mata Dob gali bhani singh gali bagkothi mastan pana solan,residential,16100,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Tekedaro ki Dharamshala Somari mata Dob gali bhani singh gali bagkothi mastan pana solan,commercial,31350,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Tibba Basti Amar,residential,7475,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Tibba Basti Amar,commercial,14850,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,TIT Mil to Sarasvati Mil Tak,residential,13750,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,TIT Mil to Sarasvati Mil Tak,commercial,39050,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Tosham Baipas,residential,7700,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Tosham Baipas,commercial,18150,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Uttam Nagar,residential,7920,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Uttam Nagar,commercial,14850,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Vaish Collage to Bijli Ghar say Railway Fathak and Pull ke side main dono aur,residential,15400,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Vaish Collage to Bijli Ghar say Railway Fathak and Pull ke side main dono aur,commercial,24200,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Vaish Collage to lebair Colony Chowk BTM Chowk Jagat Colony RamNagar Colony Rest,residential,25080,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Vaish Collage to lebair Colony Chowk BTM Chowk Jagat Colony RamNagar Colony Rest,commercial,61800,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Vaish Collage to Railway Station,residential,24750,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Vaish Collage to Railway Station,commercial,96250,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Vaish School to chopta tak,residential,23100,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Vaish School to chopta tak,commercial,64350,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Vashisth Vaidh to Public Helth PWD Work Shop and Chokhani Estate,residential,20900,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Vashisth Vaidh to Public Helth PWD Work Shop and Chokhani Estate,commercial,51150,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Vidhya Nagar Chottu Ram Collony New Basti,residential,18700,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Vidhya Nagar Chottu Ram Collony New Basti,commercial,44000,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Vikas Nagar,residential,33550,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Bhiwani,Vikas Nagar,commercial,64350,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Mandhana,Chahi,agricultural,357.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Mandhana,Nehri,agricultural,357.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Mandhana,Nehri,agricultural,432.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Mandhana,Gair Mumkin,agricultural,467.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Mandhana,Tibba,agricultural,261.25,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Mandhana,Tal,agricultural,288.75,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Mandhana,Tal,agricultural,363.75,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Mandhana,Mandhana,residential,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Mandhana,Mandhana,commercial,2420,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Madhmadhvi,Chahi,agricultural,302.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Madhmadhvi,Nehri,agricultural,302.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Madhmadhvi,Nehri,agricultural,377.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Madhmadhvi,Gair Mumkin,agricultural,467.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Madhmadhvi,Tibba,agricultural,247.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Madhmadhvi,Tibba,agricultural,322.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Madhmadhvi,Tal,agricultural,302.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Madhmadhvi,Tal,agricultural,377.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Madhmadhvi,Madhmadhvi,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Madhmadhvi,Madhmadhvi,commercial,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Manheru,Gair Mumkin,agricultural,467.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Manheru,Tibba,agricultural,247.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Manheru,Tibba,agricultural,322.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Manheru,Tal,agricultural,302.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Manheru,Manheru,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Manheru,Manheru,commercial,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Manheru,Chahi,agricultural,302.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Manheru,Nehri,agricultural,302.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Manheru,Nehri,agricultural,377.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Malwas,Chahi,agricultural,302.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Malwas,Nehri,agricultural,302.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Malwas,Nehri,agricultural,377.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Malwas,Malwas,commercial,2420,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Malwas,Gair Mumkin,agricultural,467.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Malwas,Tibba,agricultural,247.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Malwas,Tibba,agricultural,322.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Malwas,Tal,agricultural,302.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Malwas,Tal,agricultural,377.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Malwas,Malwas,residential,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,MalwasDevsar,Chahi,agricultural,302.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,MalwasDevsar,Nehri,agricultural,302.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,MalwasDevsar,Nehri,agricultural,377.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,MalwasDevsar,Gair Mumkin,agricultural,467.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,MalwasDevsar,Tibba,agricultural,247.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,MalwasDevsar,Tibba,agricultural,322.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,MalwasDevsar,Tal,agricultural,302.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,MalwasDevsar,Tal,agricultural,377.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,MalwasDevsar,Malwas Devsar,residential,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,MalwasDevsar,Malwas Devsar,commercial,2420,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Mithathal,Tal,agricultural,302.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Mithathal,Mithathal,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Mithathal,Mithathal,commercial,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Mithathal,Chahi,agricultural,357.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Mithathal,Nehri,agricultural,357.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Mithathal,Nehri,agricultural,432.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Mithathal,Gair Mumkin,agricultural,495.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Mithathal,Tibba,agricultural,247.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,MundhalKalan,Chahi,agricultural,440.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,MundhalKalan,Nehri,agricultural,440.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,MundhalKalan,Nehri,agricultural,515.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,MundhalKalan,Gair Mumkin,agricultural,467.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,MundhalKalan,Tibba,agricultural,357.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,MundhalKalan,Tal,agricultural,357.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,MundhalKalan,Mundhal Kalan,residential,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,MundhalKalan,Mundhal Kalan,commercial,2420,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,MundhalKhurd,Chahi,agricultural,440.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,MundhalKhurd,Nehri,agricultural,440.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,MundhalKhurd,Nehri,agricultural,515.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,MundhalKhurd,Gair Mumkin,agricultural,467.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,MundhalKhurd,Gair Mumkin,agricultural,542.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,MundhalKhurd,Tibba,agricultural,357.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,MundhalKhurd,Tibba,agricultural,432.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,MundhalKhurd,Tal,agricultural,357.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,MundhalKhurd,Mundhal Khurd,residential,1898,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,MundhalKhurd,Mundhal Khurd,commercial,2420,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Rajgarh,Chahi,agricultural,302.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Rajgarh,Nehri,agricultural,302.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Rajgarh,Nehri,agricultural,377.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Rajgarh,Gair Mumkin,agricultural,495.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Rajgarh,Tibba,agricultural,247.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Rajgarh,Tibba,agricultural,322.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Rajgarh,Tal,agricultural,302.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Rajgarh,Tal,agricultural,377.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Rajgarh,Rajgarh,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Rajgarh,Rajgarh,commercial,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,RajpuraKharkhari,Chahi,agricultural,687.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,RajpuraKharkhari,Nehri,agricultural,687.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,RajpuraKharkhari,Nehri,agricultural,762.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,RajpuraKharkhari,Gair Mumkin,agricultural,687.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,RajpuraKharkhari,Tibba,agricultural,605.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,RajpuraKharkhari,Tal,agricultural,632.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,RajpuraKharkhari,Tal,agricultural,710.91,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,RajpuraKharkhari,Rajpura Kharkhari,residential,3630,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,RajpuraKharkhari,Rajpura Kharkhari,commercial,4235,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,RewariKhera,Nehri,agricultural,425.68,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,RewariKhera,Gair Mumkin,agricultural,495.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,RewariKhera,Tibba,agricultural,247.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,RewariKhera,Tal,agricultural,302.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,RewariKhera,Rewari Khera,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,RewariKhera,Rewari Khera,commercial,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,RewariKhera,Chahi,agricultural,357.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,RewariKhera,Nehri,agricultural,357.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Rupgarh,Chahi,agricultural,302.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Rupgarh,Nehri,agricultural,302.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Rupgarh,Nehri,agricultural,377.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Rupgarh,Gair Mumkin,agricultural,467.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Rupgarh,Tibba,agricultural,258.75,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Rupgarh,Tibba,agricultural,337.16,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Rupgarh,Tal,agricultural,302.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Rupgarh,Tal,agricultural,377.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Rupgarh,Rupgarh,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Rupgarh,Rupgarh,commercial,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Lalawas,Chahi,agricultural,247.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Lalawas,Nehri,agricultural,247.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Lalawas,Nehri,agricultural,322.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Lalawas,Gair Mumkin,agricultural,302.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Lalawas,Tibba,agricultural,192.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Lalawas,Tibba,agricultural,267.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Lalawas,Tal,agricultural,220.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Lalawas,Lalawas,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Lalawas,Lalawas,commercial,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,LeghaBhanan,Chahi,agricultural,275.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,LeghaBhanan,Nehri,agricultural,275.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,LeghaBhanan,Gair Mumkin,agricultural,330.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,LeghaBhanan,Tibba,agricultural,230.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,LeghaBhanan,Tal,agricultural,220.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,LeghaBhanan,Legha Bhanan,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,LeghaBhanan,Legha Bhanan,commercial,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,LeghaHetwan,Chahi,agricultural,275.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,LeghaHetwan,Chahi,agricultural,350.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,LeghaHetwan,Nehri,agricultural,275.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,LeghaHetwan,Nehri,agricultural,350.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,LeghaHetwan,Gair Mumkin,agricultural,330.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,LeghaHetwan,Tibba,agricultural,220.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,LeghaHetwan,Tibba,agricultural,288.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,LeghaHetwan,Tal,agricultural,220.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,LeghaHetwan,Tal,agricultural,295.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,LeghaHetwan,Legha Hetwan,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,LeghaHetwan,Legha Hetwan,commercial,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Lohani,Chahi,agricultural,302.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Lohani,Nehri,agricultural,316.25,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Lohani,Nehri,agricultural,394.66,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Lohani,Gair Mumkin,agricultural,467.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Lohani,Tibba,agricultural,247.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Lohani,Tibba,agricultural,322.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Lohani,Tal,agricultural,302.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Lohani,Tal,agricultural,377.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Lohani,Lohani,residential,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Lohani,Lohani,commercial,2420,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,SarsaGhoghra,Chahi,agricultural,357.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,SarsaGhoghra,Nehri,agricultural,357.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,SarsaGhoghra,Sarsa Ghoghra,commercial,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,SarsaGhoghra,Nehri,agricultural,432.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,SarsaGhoghra,Gair Mumkin,agricultural,495.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,SarsaGhoghra,Tibba,agricultural,247.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,SarsaGhoghra,Tal,agricultural,302.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,SarsaGhoghra,Tal,agricultural,377.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,SarsaGhoghra,Sarsa Ghoghra,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Sanga,Chahi,agricultural,302.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Sanga,Chahi,agricultural,377.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Sanga,Nehri,agricultural,302.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Sanga,Nehri,agricultural,377.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Sanga,Gair Mumkin,agricultural,510.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Sanga,Tibba,agricultural,247.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Sanga,Tal,agricultural,302.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Sanga,Tal,agricultural,377.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Sanga,Sanga,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Sanga,Sanga,commercial,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Sai,Chahi,agricultural,357.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Sai,Nehri,agricultural,357.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Sai,Nehri,agricultural,432.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Sai,Gair Mumkin,agricultural,495.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Sai,Tibba,agricultural,247.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Sai,Tibba,agricultural,322.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Sai,Tal,agricultural,302.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Sai,Tal,agricultural,377.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Sai,Sai,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Sai,Sai,commercial,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Halwas,Chahi,agricultural,522.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Halwas,Nehri,agricultural,522.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Halwas,Bag,agricultural,538.41,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Halwas,Halwas,residential,3630,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Halwas,Halwas,commercial,4235,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Halwas,Nehri,agricultural,597.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Halwas,Gair Mumkin,agricultural,522.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Halwas,Gair Mumkin,agricultural,590.91,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Halwas,Tibba,agricultural,357.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Halwas,Tibba,agricultural,432.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Halwas,Tal,agricultural,460.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Hetampura,Hetampura,commercial,1815,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Hetampura,Gair Mumkin,agricultural,330.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Hetampura,Tibba,agricultural,192.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Hetampura,Tibba,agricultural,267.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Hetampura,Tal,agricultural,220.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Hetampura,Tal,agricultural,295.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Hetampura,Hetampura,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Hetampura,Chahi,agricultural,247.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Hetampura,Nehri,agricultural,247.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bhiwani,Hetampura,Nehri,agricultural,322.5,2026-04-01,bhiwani_gov_in_dc_notification

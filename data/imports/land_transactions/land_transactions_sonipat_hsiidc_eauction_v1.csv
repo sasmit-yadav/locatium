@@ -1,0 +1,10 @@
+district,tehsil,village,sector_type,price_per_sq_yard_inr,area_sq_yards,lat,lng,transaction_date,source,deed_id,consideration_inr,area_unit,notes
+Sonipat,Ganaur,Barhi,industrial,22742.65,5381.96,29.0446,77.02132,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-barhi-4500,122400000,sqm,HSIIDC FY24-25 industrial e-auction reserve (IE Barhi); reserve ₹27200/sqm
+Sonipat,Ganaur,Barhi,industrial,22742.65,7175.94,29.0454,77.02188,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-barhi-6000,163200000,sqm,HSIIDC FY24-25 industrial e-auction reserve (IE Barhi); reserve ₹27200/sqm
+Sonipat,Ganaur,Barhi,industrial,22742.65,8371.93,29.0462,77.02244,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-barhi-7000,190400000,sqm,HSIIDC FY24-25 industrial e-auction reserve (IE Barhi); reserve ₹27200/sqm
+Sonipat,Ganaur,Barhi,industrial,22742.65,9926.72,29.047,77.023,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-barhi-8300,225760000,sqm,HSIIDC FY24-25 industrial e-auction reserve (IE Barhi); reserve ₹27200/sqm
+Sonipat,Ganaur,Barhi Mega Food Park,industrial,22742.65,2152.78,29.0558,77.03056,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-barhi_mfp-1800,48960000,sqm,HSIIDC FY24-25 reserve (Mega Food Park IE Barhi Phase-III); reserve ₹27200/sqm
+Sonipat,Ganaur,Barhi Mega Food Park,industrial,22742.65,5112.86,29.0566,77.03112,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-barhi_mfp-4275,116280000,sqm,HSIIDC FY24-25 reserve (Mega Food Park IE Barhi Phase-III); reserve ₹27200/sqm
+Sonipat,Rai,Rai Mega Food Park,industrial,27801.22,2152.78,28.9496,77.09912,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-rai_mfp-1800,59850000,sqm,HSIIDC FY24-25 reserve (IE Rai Phase-II Mega Food Park); reserve ₹33250/sqm
+Sonipat,Rai,Rai Mega Food Park,industrial,27801.22,2870.38,28.9504,77.09968,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-rai_mfp-2400,79800000,sqm,HSIIDC FY24-25 reserve (IE Rai Phase-II Mega Food Park); reserve ₹33250/sqm
+Sonipat,Rai,Rai Mega Food Park,industrial,27801.22,3587.97,28.9456,77.09632,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-rai_mfp-3000,99750000,sqm,HSIIDC FY24-25 reserve (IE Rai Phase-II Mega Food Park); reserve ₹33250/sqm

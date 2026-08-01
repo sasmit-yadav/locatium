@@ -7,7 +7,6 @@ async function findComparableSites(location, sector, { radiusKm = 10, limit = 12
   if (!pool) return { count: 0, sites: [], summary: null };
 
   const analysisScoring = require('./analysis-scoring.service');
-  const radiusDeg = (radiusKm * 1000) / 111320.0;
   const sites = [];
 
   try {
@@ -17,21 +16,30 @@ async function findComparableSites(location, sector, { radiusKm = 10, limit = 12
          SELECT ST_Y(geom) AS lat, ST_X(geom) AS lng, price_per_sq_yard_inr, district
          FROM land_transactions
          WHERE geom IS NOT NULL
-           AND geom && ST_Expand(ST_SetSRID(ST_MakePoint($1, $2), 4326), $3)
-           AND ST_DWithin(geom, ST_SetSRID(ST_MakePoint($1, $2), 4326), $3)
+           AND source <> 'seed_comparable'
+           AND sector_type = $4
+           AND transaction_date >= (CURRENT_DATE - INTERVAL '36 months')
+           AND ST_DWithin(
+                 geom::geography,
+                 ST_SetSRID(ST_MakePoint($1, $2), 4326)::geography,
+                 $3
+               )
          UNION ALL
          SELECT ST_Y(centroid) AS lat, ST_X(centroid) AS lng, NULL AS price_per_sq_yard_inr, district
          FROM (
            SELECT ST_Centroid(geom) AS centroid, district1 AS district
            FROM hsiidc_boundary
            WHERE geom IS NOT NULL
-             AND geom && ST_Expand(ST_SetSRID(ST_MakePoint($1, $2), 4326), $3)
-             AND ST_DWithin(ST_Centroid(geom), ST_SetSRID(ST_MakePoint($1, $2), 4326), $3)
+             AND ST_DWithin(
+                   ST_Centroid(geom)::geography,
+                   ST_SetSRID(ST_MakePoint($1, $2), 4326)::geography,
+                   $3
+                 )
            LIMIT 8
          ) z
        ) pts
-       LIMIT $4`,
-      [location.lng, location.lat, radiusDeg, limit]
+       LIMIT $5`,
+      [location.lng, location.lat, radiusKm * 1000, sector || 'industrial', limit]
     );
 
     for (const row of seedPoints.rows) {

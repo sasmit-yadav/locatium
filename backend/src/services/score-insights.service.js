@@ -117,6 +117,49 @@ function buildScoreInsights(result) {
     strengths.push(`${zone.roadsWithin3Km} road segments within 3 km — dense transport mesh reduces detour risk.`);
   }
 
+  const land = result.landValue || {};
+  const landEst = land.estimatedPerSqYardInr;
+  const landFloor = land.circleRatePerSqYardInr;
+  const landFmt = (n) => (n != null ? `₹${Number(n).toLocaleString('en-IN')}/sq yd` : null);
+  if (landEst || landFloor) {
+    const floorBit = landFloor ? `gov floor ${landFmt(landFloor)}` : null;
+    const marketBit =
+      land.marketAvailable && (land.comparableWeightedPerSqYardInr || land.comparableMedianPerSqYardInr)
+        ? `market ${landFmt(land.comparableWeightedPerSqYardInr || land.comparableMedianPerSqYardInr)} (n=${land.comparableSampleCount ?? land.comparableCount ?? 0})`
+        : 'no market comps in radius';
+    const vintageBit = land.circleRateEffectiveFrom ? `vintage ${land.circleRateEffectiveFrom}` : null;
+    const confBit = land.confidence ? `${land.confidence} confidence` : null;
+    const meta = [vintageBit, confBit].filter(Boolean).join(', ');
+    strengths.push(
+      `Land pricing: est. ${landFmt(landEst) || '—'}${floorBit ? ` · ${floorBit}` : ''} · ${marketBit}${meta ? ` · ${meta}` : ''}.`
+    );
+    if (land.method === 'circle_rate_sector_proxy') {
+      cautions.push(
+        `Industrial collector rate missing — floor uses ${land.circleRateSector || 'alternate'} sector with haircut (proxy, low confidence).`
+      );
+    } else if (!land.marketAvailable) {
+      cautions.push('Market comps unavailable nearby — estimate is government-floor based until deed/auction comps exist.');
+    } else if (land.marketPremiumVsFloor != null || land.roiProxy != null) {
+      const prem = Number(land.marketPremiumVsFloor ?? land.roiProxy);
+      if (prem > 0.15) {
+        opportunities.push(
+          `Market signal ${(prem * 100).toFixed(0)}% above gov floor — validate auction/deed comps before bidding.`
+        );
+      } else if (prem < -0.1) {
+        opportunities.push(
+          `Market signal ${(Math.abs(prem) * 100).toFixed(0)}% below gov floor — confirm parcel type and stamp-duty base.`
+        );
+      }
+    }
+    if (land.vintageLagYears != null && land.vintageLagYears >= 1) {
+      cautions.push(
+        `Collector-rate tehsil vintage lags district by ~${Number(land.vintageLagYears).toFixed(1)} years — reconfirm with latest DC notification.`
+      );
+    }
+  } else if (land.method === 'insufficient_data') {
+    cautions.push('No official collector rate for this district/sector yet — land ₹ unavailable (no cross-district invent).');
+  }
+
   if (overallScore >= 75) {
     opportunities.push('Strong composite score — prioritize land-parcel shortlisting and utility pre-feasibility while indicators are favorable.');
   } else if (overallScore >= 55) {
@@ -137,15 +180,22 @@ function buildScoreInsights(result) {
   const coords =
     Number.isFinite(lat) && Number.isFinite(lng) ? ` (${lat.toFixed(4)}°N, ${lng.toFixed(4)}°E)` : '';
 
+  const landStrength = strengths.find((s) => /^Land pricing:/i.test(s));
+  const otherStrengths = strengths.filter((s) => s !== landStrength);
   const summary = [
     `${(location.sector || 'Industrial').charAt(0).toUpperCase()}${(location.sector || 'industrial').slice(1)} location${coords} scores ${overallScore}/100 — ${verdict.toLowerCase()}.`,
-    strengths.length
-      ? `Primary advantages: ${strengths.slice(0, 2).map((s) => s.replace(/\.$/, '')).join('; ')}.`
-      : 'No dominant strengths detected in current radius — review component scores below.',
+    landStrength ? landStrength.replace(/\.$/, '') + '.' : null,
+    otherStrengths.length
+      ? `Primary advantages: ${otherStrengths.slice(0, 2).map((s) => s.replace(/\.$/, '')).join('; ')}.`
+      : landStrength
+        ? null
+        : 'No dominant strengths detected in current radius — review component scores below.',
     cautions.length
       ? `Watch points: ${cautions.slice(0, 2).map((c) => c.replace(/\.$/, '')).join('; ')}.`
       : 'No major red flags in the automated screening layer.',
-  ].join(' ');
+  ]
+    .filter(Boolean)
+    .join(' ');
 
   const methodology =
     method === 'ml'

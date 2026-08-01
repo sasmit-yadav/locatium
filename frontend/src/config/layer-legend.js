@@ -25,7 +25,7 @@ export const TABLE_LABELS = {
   proposed_metro_line: 'Proposed metro corridor',
   canal: 'Canal',
   airports: 'Airport',
-  bus_stops: 'Bus stop',
+  bus_stops: 'Bus stop (blue number = clustered count until zoom in)',
   rapid_metro_station: 'Rapid metro station',
   delhi_metro_station: 'Delhi metro station',
   proposed_metro_station: 'Proposed metro station',
@@ -69,11 +69,12 @@ export const TABLE_LABELS = {
 
 function legendColor(cfg) {
   const s = cfg.style || {};
-  if (s.lineColor && typeof s.lineColor === 'string') return s.lineColor;
-  if (s.fillColor && typeof s.fillColor === 'string') return s.fillColor;
   if (s.circleColor && typeof s.circleColor === 'string') return s.circleColor;
+  if (s.fillColor && typeof s.fillColor === 'string') return s.fillColor;
+  if (s.lineColor && typeof s.lineColor === 'string') return s.lineColor;
   if (cfg.id === 'bus_stops') return '#1d4ed8';
-  if (cfg.renderType === 'symbol') return '#0ea5e9';
+  if (cfg.id === 'airports') return '#0284c7';
+  if (cfg.renderType === 'symbol') return '#0284c7';
   return '#888888';
 }
 

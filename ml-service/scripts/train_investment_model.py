@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Train investment XGBoost model from zone_features + zone_outcomes."""
+"""Train investment XGBoost model from zone_features + zone_outcomes (spatial + land ₹)."""
 
 from __future__ import annotations
 
@@ -21,10 +21,12 @@ from sklearn.model_selection import train_test_split
 from xgboost import XGBRegressor
 
 from services.heuristic_scoring import feature_vector
-from services.registry import REGISTRY_PATH, get_model_entry, load_registry, save_registry
+from services.registry import REGISTRY_PATH, load_registry, save_registry
 
 MODELS_DIR = Path(__file__).resolve().parent.parent / "models"
 MIN_ROWS = int(os.getenv("ML_MIN_TRAINING_ROWS", "25"))
+MODEL_VERSION = "investment-v2"
+ARTIFACT = "investment-v2.joblib"
 
 
 async def fetch_training_rows() -> list[dict]:
@@ -40,6 +42,8 @@ async def fetch_training_rows() -> list[dict]:
               zf.dist_road_km, zf.dist_rail_km, zf.dist_airport_km, zf.dist_industrial_km,
               zf.dist_forest_km, zf.dist_flood_km,
               zf.hospitals_5km, zf.schools_5km, zf.utilities_2km, zf.roads_3km,
+              zf.circle_rate_median_inr, zf.circle_rate_sample_count,
+              zf.comps_median_inr, zf.comps_count,
               zo.label_score, zf.district, zf.zone_id
             FROM zone_features zf
             JOIN zone_outcomes zo ON zo.zone_id = zf.zone_id
@@ -55,6 +59,11 @@ def rows_to_matrix(rows: list[dict]) -> tuple[np.ndarray, np.ndarray]:
     features = []
     labels = []
     for row in rows:
+        circle = row.get("circle_rate_median_inr")
+        comps = row.get("comps_median_inr")
+        premium = None
+        if circle is not None and comps is not None and float(circle) > 0:
+            premium = (float(comps) - float(circle)) / float(circle)
         feature_map = {
             "dist_road_km": row.get("dist_road_km"),
             "dist_rail_km": row.get("dist_rail_km"),
@@ -67,6 +76,14 @@ def rows_to_matrix(rows: list[dict]) -> tuple[np.ndarray, np.ndarray]:
             "schools_5km": row.get("schools_5km"),
             "utilities_2km": row.get("utilities_2km"),
             "roads_3km": row.get("roads_3km"),
+            "civic_facilities_5km": 0,
+            "dist_metro_km": None,
+            "bus_stops_2km": 0,
+            "circle_rate_median_inr": float(circle) if circle is not None else None,
+            "comps_median_inr": float(comps) if comps is not None else None,
+            "comps_count": row.get("comps_count") or 0,
+            "market_premium_vs_floor": premium,
+            "has_gov_floor": 1.0 if circle is not None else 0.0,
         }
         features.append(feature_vector(feature_map))
         labels.append(float(row["label_score"]))
@@ -83,10 +100,11 @@ def update_registry(status: str, metrics: dict, row_count: int, artifact: str | 
 
     entry.update(
         {
-            "version": "investment-v1" if status == "deployed" else entry.get("version", "stub-v0"),
+            "version": MODEL_VERSION if status == "deployed" else entry.get("version", "stub-v0"),
             "status": status,
             "row_count": row_count,
             "min_training_rows": MIN_ROWS,
+            "feature_set": "spatial_v1+land_v1",
             "metrics": metrics,
             "trained_at": datetime.now(timezone.utc).isoformat(),
             "degraded": False,
@@ -104,6 +122,7 @@ async def main() -> None:
     rows = await fetch_training_rows()
     row_count = len(rows)
     print(f"Training rows available: {row_count} (threshold={MIN_ROWS})")
+    print(f"Registry path: {REGISTRY_PATH}")
 
     if row_count < MIN_ROWS:
         update_registry(
@@ -115,6 +134,7 @@ async def main() -> None:
         return
 
     x, y = rows_to_matrix(rows)
+    print(f"Feature dim: {x.shape[1]}")
     x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2, random_state=42)
 
     model = XGBRegressor(
@@ -135,16 +155,15 @@ async def main() -> None:
     confidence = max(0.5, min(0.95, r2))
 
     MODELS_DIR.mkdir(parents=True, exist_ok=True)
-    artifact = "investment-v1.joblib"
-    joblib.dump(model, MODELS_DIR / artifact)
+    joblib.dump(model, MODELS_DIR / ARTIFACT)
 
     update_registry(
         "deployed",
         {"r2": round(r2, 4), "mae": round(mae, 2), "confidence": round(confidence, 3)},
         row_count,
-        artifact,
+        ARTIFACT,
     )
-    print(f"Model deployed: r2={r2:.4f}, mae={mae:.2f}")
+    print(f"Model deployed: {MODEL_VERSION} r2={r2:.4f}, mae={mae:.2f}")
 
 
 if __name__ == "__main__":

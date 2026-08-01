@@ -1,0 +1,482 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Jhajjar,Beri,BeriTehsil,SH Link Approach Road,commercial,11000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bahrana,Bahrana,commercial,3500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dujana,Road Junction,residential,6000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dujana,Road Junction,commercial,14000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dighal,Road Junction,residential,6000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dighal,Road Junction,commercial,14000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Jahazgarh,Road Junction,residential,6000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Jahazgarh,Road Junction,commercial,14000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriTehsil,Education School,commercial,3000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,MPMajra,MPMajra Chahi N,agricultural,644.11,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,MPMajra,MPMajra Chahi P,agricultural,1318.18,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,MPMajra,MPMajra Nehri N,agricultural,704.03,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,MPMajra,MPMajra Nehri P,agricultural,1438.02,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,MPMajra,MPMajra Barani N,agricultural,593.18,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,MPMajra,MPMajra Barani P,agricultural,1318.18,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,MPMajra,MPMajra Banjar N,agricultural,494.32,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,MPMajra,MPMajra Gair Mumkin N,agricultural,650.83,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,MPMajra,MPMajra Gair Mumkin P,agricultural,1735.54,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,MPMajra,MPMajra Bhud N,agricultural,599.17,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,MPMajra,MPMajra,residential,2750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Achhej,Achhej Chahi N,agricultural,375.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Achhej,Achhej Chahi P,agricultural,1000.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Achhej,Achhej Nehri N,agricultural,409.09,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Achhej,Achhej Nehri P,agricultural,1090.91,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Achhej,Achhej Barani N,agricultural,329.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Achhej,Achhej Barani P,agricultural,1000.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Achhej,Achhej Banjar N,agricultural,284.09,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Achhej,Achhej Banjar P,agricultural,1000.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Achhej,Achhej Gair Mumkin N,agricultural,488.12,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Achhej,Achhej Gair Mumkin P,agricultural,1735.54,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Achhej,Achhej Bhud N,agricultural,329.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Achhej,Achhej Bhud P,agricultural,1000.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Achhej,Achhej,residential,2750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Gagtan,Gagtan Chahi N,agricultural,813.53,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Gagtan,Gagtan Chahi P,agricultural,1663.22,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Gagtan,Gagtan Nehri N,agricultural,813.53,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Gagtan,Gagtan Nehri P,agricultural,1663.22,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Gagtan,Gagtan Barani N,agricultural,759.3,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Gagtan,Gagtan Barani P,agricultural,1663.22,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Gagtan,Gagtan Banjar P,agricultural,1590.91,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Gagtan,Gagtan Gair Mumkin N,agricultural,650.83,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Gagtan,Gagtan Gair Mumkin P,agricultural,1735.54,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Gagtan,Gagtan,residential,2750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Gochhi,Gochhi Chahi N,agricultural,679.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Gochhi,Gochhi Chahi P,agricultural,1045.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Gochhi,Gochhi Nehri N,agricultural,679.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Gochhi,Gochhi Nehri P,agricultural,1045.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Gochhi,Gochhi Barani N,agricultural,627.27,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Gochhi,Gochhi Barani P,agricultural,1045.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Gochhi,Gochhi Gair Mumkin N,agricultural,1041.32,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Gochhi,Gochhi Gair Mumkin P,agricultural,1735.54,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Gochhi,Gochhi,residential,2750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Godhari,Godhari Chahi N,agricultural,596.59,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Godhari,Godhari Chahi P,agricultural,1590.91,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Godhari,Godhari Nehri N,agricultural,650.83,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Godhari,Godhari Nehri P,agricultural,1735.54,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Godhari,Godhari Barani N,agricultural,560.43,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Godhari,Godhari Barani P,agricultural,1590.91,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Godhari,Godhari Banjar N,agricultural,524.28,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Godhari,Godhari Banjar P,agricultural,1590.91,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Godhari,Godhari Gair Mumkin N,agricultural,564.05,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Godhari,Godhari Gair Mumkin P,agricultural,1735.54,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Godhari,Godhari Bhud N,agricultural,524.28,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Godhari,Godhari Bhud P,agricultural,1590.91,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Godhari,Godhari,residential,2750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Chamanpura,Chamanpura Chahi N,agricultural,670.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Chamanpura,Chamanpura Chahi P,agricultural,1000.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Chamanpura,Chamanpura Nehri N,agricultural,670.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Chamanpura,Chamanpura Nehri P,agricultural,1000.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Chamanpura,Chamanpura Barani N,agricultural,627.27,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Chamanpura,Chamanpura Barani P,agricultural,1045.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Chamanpura,Chamanpura Gair Mumkin N,agricultural,1041.32,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Chamanpura,Chamanpura Gair Mumkin P,agricultural,1735.54,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Chamanpura,Chamanpura,residential,2750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Chimni,Chimni Chahi N,agricultural,596.59,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Chimni,Chimni Chahi P,agricultural,1590.91,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Chimni,Chimni Nehri N,agricultural,632.75,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Chimni,Chimni Nehri P,agricultural,1663.22,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Chimni,Chimni Barani N,agricultural,464.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Chimni,Chimni Barani P,agricultural,1318.18,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Chimni,Chimni Banjar N,agricultural,434.4,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Chimni,Chimni Banjar P,agricultural,1318.18,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Chimni,Chimni Gair Mumkin N,agricultural,564.05,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Chimni,Chimni Gair Mumkin P,agricultural,1735.54,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Chimni,Chimni Bhud N,agricultural,464.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Chimni,Chimni Bhud P,agricultural,1318.18,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Chimni,Chimni,residential,2750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Chhochhi,Chhochhi Chahi N,agricultural,877.79,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Chhochhi,Chhochhi Chahi P,agricultural,1318.18,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Chhochhi,Chhochhi Nehri N,agricultural,958.68,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Chhochhi,Chhochhi Nehri P,agricultural,1438.02,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Chhochhi,Chhochhi Barani N,agricultural,793.9,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Chhochhi,Chhochhi Barani P,agricultural,1318.18,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Chhochhi,Chhochhi Banjar N,agricultural,793.9,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Chhochhi,Chhochhi Gair Mumkin N,agricultural,1048.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Chhochhi,Chhochhi Gair Mumkin P,agricultural,1735.54,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Chhochhi,Chhochhi Bhud N,agricultural,790.91,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Chhochhi,Chhochhi,residential,2750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Jahazgarh,Jahazgarh Chahi N,agricultural,1066.63,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Jahazgarh,Jahazgarh Chahi P,agricultural,1590.91,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Jahazgarh,Jahazgarh Nehri N,agricultural,1157.02,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Jahazgarh,Jahazgarh Nehri P,agricultural,1735.54,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Jahazgarh,Jahazgarh Barani N,agricultural,997.93,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Jahazgarh,Jahazgarh Barani P,agricultural,1663.22,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Jahazgarh,Jahazgarh Banjar N,agricultural,958.16,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Jahazgarh,Jahazgarh Banjar P,agricultural,1590.91,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Jahazgarh,Jahazgarh Gair Mumkin N,agricultural,958.68,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Jahazgarh,Jahazgarh Gair Mumkin P,agricultural,1586.78,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Jahazgarh,Jahazgarh Bhud N,agricultural,958.16,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Jahazgarh,Jahazgarh Bhud P,agricultural,1590.91,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Jahazgarh,Jahazgarh,residential,3313,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dighal,Dighal Chahi N,agricultural,826.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dighal,Dighal Chahi P,agricultural,1136.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dighal,Dighal Nehri N,agricultural,852.27,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dighal,Dighal Nehri P,agricultural,1188.02,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dighal,Dighal Barani N,agricultural,1048.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dighal,Dighal Barani P,agricultural,1663.22,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dighal,Dighal Banjar N,agricultural,710.23,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dighal,Dighal Banjar P,agricultural,1136.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dighal,Dighal Gair Mumkin N,agricultural,1048.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dighal,Dighal Gair Mumkin P,agricultural,1663.22,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dighal,Dighal Bhud N,agricultural,710.23,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dighal,Dighal Chowk,residential,2805,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dighal,Dighal Chowk,residential,6050,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dighal,Dighal Chowk,commercial,15000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Darana,Darana Chahi N,agricultural,426.14,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Darana,Darana Chahi P,agricultural,1136.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Darana,Darana Nehri N,agricultural,451.96,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Darana,Darana Nehri P,agricultural,1188.02,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Darana,Darana Barani N,agricultural,439.05,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Darana,Darana Barani P,agricultural,1239.67,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Darana,Darana Banjar N,agricultural,374.48,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Darana,Darana Banjar P,agricultural,1136.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Darana,Darana Gair Mumkin N,agricultural,402.89,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Darana,Darana Gair Mumkin P,agricultural,1239.67,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Darana,Darana Bhud N,agricultural,400.31,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Darana,Darana Bhud P,agricultural,1136.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Darana,Darana,residential,2750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,DubaldhanBidhyan,Dubaldhan Bidhyan Chahi N,agricultural,697.31,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,DubaldhanBidhyan,Dubaldhan Bidhyan Chahi P,agricultural,1136.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,DubaldhanBidhyan,Dubaldhan Bidhyan Nehri N,agricultural,697.31,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,DubaldhanBidhyan,Dubaldhan Bidhyan Nehri P,agricultural,1136.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,DubaldhanBidhyan,Dubaldhan Bidhyan Barani N,agricultural,697.31,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,DubaldhanBidhyan,Dubaldhan Bidhyan Barani P,agricultural,1136.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,DubaldhanBidhyan,Dubaldhan Bidhyan Banjar N,agricultural,684.4,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,DubaldhanBidhyan,Dubaldhan Bidhyan Banjar P,agricultural,1136.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,DubaldhanBidhyan,Dubaldhan Bidhyan Gair Mumkin N,agricultural,1048.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,DubaldhanBidhyan,Dubaldhan Bidhyan Gair Mumkin P,agricultural,1735.54,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,DubaldhanBidhyan,Dubaldhan Bidhyan Bhud N,agricultural,684.4,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,DubaldhanBidhyan,Dubaldhan Bidhyan Bhud P,agricultural,1136.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,DubaldhanBidhyan,Dubaldhan Bidhyan,residential,2860,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dimana,Dimana Chahi N,agricultural,577.48,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dimana,Dimana Chahi P,agricultural,1181.82,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dimana,Dimana Nehri N,agricultural,577.48,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dimana,Dimana Nehri P,agricultural,1181.82,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dimana,Dimana Barani N,agricultural,537.19,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dimana,Dimana Barani P,agricultural,1181.82,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dimana,Dimana Banjar N,agricultural,443.18,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dimana,Dimana Banjar P,agricultural,1181.82,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dimana,Dimana Gair Mumkin N,agricultural,483.47,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dimana,Dimana Gair Mumkin P,agricultural,1289.26,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dimana,Dimana Bhud N,agricultural,537.19,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dimana,Dimana Bhud P,agricultural,1181.82,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dimana,Dimana,residential,2860,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dujana,Dujana Chahi N,agricultural,1157.02,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dujana,Dujana Chahi P,agricultural,1663.22,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dujana,Dujana Nehri N,agricultural,1175.1,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dujana,Dujana Nehri P,agricultural,1735.54,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dujana,Dujana Barani N,agricultural,991.74,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dujana,Dujana Barani P,agricultural,1586.78,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dujana,Dujana Gair Mumkin N,agricultural,1084.71,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dujana,Dujana Gair Mumkin P,agricultural,1735.54,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dujana,Dujana,residential,3250,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,DubaldhanKirman,Dubaldhan Kirman Chahi N,agricultural,613.64,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,DubaldhanKirman,Dubaldhan Kirman Chahi P,agricultural,1000.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,DubaldhanKirman,Dubaldhan Kirman Nehri N,agricultural,613.64,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,DubaldhanKirman,Dubaldhan Kirman Nehri P,agricultural,1000.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,DubaldhanKirman,Dubaldhan Kirman Barani N,agricultural,613.64,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,DubaldhanKirman,Dubaldhan Kirman Barani P,agricultural,1000.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,DubaldhanKirman,Dubaldhan Kirman Banjar N,agricultural,602.27,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,DubaldhanKirman,Dubaldhan Kirman Banjar P,agricultural,1000.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,DubaldhanKirman,Dubaldhan Kirman Gair Mumkin N,agricultural,627.27,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,DubaldhanKirman,Dubaldhan Kirman Gair Mumkin P,agricultural,1045.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,DubaldhanKirman,Dubaldhan Kirman Bhud N,agricultural,602.27,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,DubaldhanKirman,Dubaldhan Kirman Bhud P,agricultural,1000.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,DubaldhanKirman,Dubaldhan Kirman,residential,2750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,DubaldhanDhikyan,Dubaldhan Dhikyan Chahi N,agricultural,613.64,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,DubaldhanDhikyan,Dubaldhan Dhikyan Chahi P,agricultural,1000.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,DubaldhanDhikyan,Dubaldhan Dhikyan Nehri N,agricultural,613.64,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,DubaldhanDhikyan,Dubaldhan Dhikyan Nehri P,agricultural,1000.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,DubaldhanDhikyan,Dubaldhan Dhikyan Barani N,agricultural,602.27,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,DubaldhanDhikyan,Dubaldhan Dhikyan Barani P,agricultural,1000.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,DubaldhanDhikyan,Dubaldhan Dhikyan Banjar N,agricultural,602.27,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,DubaldhanDhikyan,Dubaldhan Dhikyan Banjar P,agricultural,1000.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,DubaldhanDhikyan,Dubaldhan Dhikyan Gair Mumkin N,agricultural,1048.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,DubaldhanDhikyan,Dubaldhan Dhikyan Gair Mumkin P,agricultural,1735.54,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,DubaldhanDhikyan,Dubaldhan Dhikyan Bhud N,agricultural,602.27,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,DubaldhanDhikyan,Dubaldhan Dhikyan Bhud P,agricultural,1000.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,DubaldhanDhikyan,Dubaldhan Dhikyan,residential,2750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dhandhlan,Dhandhlan Chahi N,agricultural,823.86,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dhandhlan,Dhandhlan Chahi P,agricultural,1318.18,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dhandhlan,Dhandhlan Nehri N,agricultural,868.8,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dhandhlan,Dhandhlan Nehri P,agricultural,1378.1,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dhandhlan,Dhandhlan Barani N,agricultural,793.9,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dhandhlan,Dhandhlan Barani P,agricultural,1438.02,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dhandhlan,Dhandhlan Gair Mumkin N,agricultural,958.16,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dhandhlan,Dhandhlan Gair Mumkin P,agricultural,1735.54,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dhandhlan,Dhandhlan,residential,2990,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dhaur,Dhaur Chahi N,agricultural,842.98,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dhaur,Dhaur Chahi P,agricultural,1454.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dhaur,Dhaur Nehri N,agricultural,711.78,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dhaur,Dhaur Nehri P,agricultural,1235.54,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dhaur,Dhaur Barani N,agricultural,617.77,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dhaur,Dhaur Barani P,agricultural,1181.82,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dhaur,Dhaur Banjar N,agricultural,617.77,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dhaur,Dhaur Banjar P,agricultural,1181.82,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dhaur,Dhaur Gair Mumkin N,agricultural,994.32,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dhaur,Dhaur Gair Mumkin P,agricultural,1735.54,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dhaur,Dhaur Bhud N,agricultural,604.34,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dhaur,Dhaur Bhud P,agricultural,1181.82,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Dhaur,Dhaur,residential,2875,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Palra,Palra Chahi N,agricultural,715.91,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Palra,Palra Chahi P,agricultural,1590.91,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Palra,Palra Nehri N,agricultural,759.3,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Palra,Palra Nehri P,agricultural,1663.22,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Palra,Palra Barani N,agricultural,569.21,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Palra,Palra Barani P,agricultural,1318.18,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Palra,Palra Banjar N,agricultural,527.27,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Palra,Palra Banjar P,agricultural,1318.18,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Palra,Palra Gair Mumkin N,agricultural,527.27,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Palra,Palra Gair Mumkin P,agricultural,1318.18,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Palra,Palra Bhud N,agricultural,587.19,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Palra,Palra Bhud P,agricultural,1378.1,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Palra,Palra,residential,2970,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Pahadipur,Pahadipur Chahi N,agricultural,443.18,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Pahadipur,Pahadipur Chahi P,agricultural,1181.82,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Pahadipur,Pahadipur Nehri N,agricultural,483.47,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Pahadipur,Pahadipur Nehri P,agricultural,1289.26,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Pahadipur,Pahadipur Barani N,agricultural,456.61,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Pahadipur,Pahadipur Barani P,agricultural,1289.26,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Pahadipur,Pahadipur Banjar N,agricultural,389.46,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Pahadipur,Pahadipur Banjar P,agricultural,1181.82,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Pahadipur,Pahadipur Gair Mumkin N,agricultural,419.01,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Pahadipur,Pahadipur Gair Mumkin P,agricultural,1289.26,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Pahadipur,Pahadipur Bhud N,agricultural,416.32,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Pahadipur,Pahadipur Bhud P,agricultural,1181.82,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Pahadipur,Pahadipur,residential,2750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bahrana,Bahrana Chahi N,agricultural,925.62,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bahrana,Bahrana Chahi P,agricultural,1586.78,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bahrana,Bahrana Nehri N,agricultural,925.62,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bahrana,Bahrana Nehri P,agricultural,1586.78,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bahrana,Bahrana Barani N,agricultural,727.27,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bahrana,Bahrana Barani P,agricultural,1454.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bahrana,Bahrana Banjar N,agricultural,727.27,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bahrana,Bahrana Banjar P,agricultural,1454.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bahrana,Bahrana Gair Mumkin N,agricultural,793.39,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bahrana,Bahrana Gair Mumkin P,agricultural,1586.78,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bahrana,Bahrana Bhud N,agricultural,727.27,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bahrana,Bahrana Bhud P,agricultural,1454.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bahrana,Bahrana,residential,3000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bakra,Bakra Chahi N,agricultural,426.14,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bakra,Bakra Chahi P,agricultural,1136.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bakra,Bakra Nehri N,agricultural,426.14,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bakra,Bakra Nehri P,agricultural,1136.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bakra,Bakra Barani N,agricultural,400.31,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bakra,Bakra Barani P,agricultural,1136.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bakra,Bakra Banjar N,agricultural,374.48,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bakra,Bakra Banjar P,agricultural,1136.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bakra,Bakra Gair Mumkin N,agricultural,374.48,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bakra,Bakra Gair Mumkin P,agricultural,1136.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bakra,Bakra Bhud N,agricultural,400.31,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bakra,Bakra,residential,2750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Baghpur,Baghpur Chahi N,agricultural,958.16,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Baghpur,Baghpur Chahi P,agricultural,1590.91,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Baghpur,Baghpur Nehri N,agricultural,1048.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Baghpur,Baghpur Nehri P,agricultural,1735.54,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Baghpur,Baghpur Barani N,agricultural,1048.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Baghpur,Baghpur Barani P,agricultural,1735.54,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Baghpur,Baghpur Banjar N,agricultural,958.16,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Baghpur,Baghpur Banjar P,agricultural,1590.91,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Baghpur,Baghpur Gair Mumkin N,agricultural,1048.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Baghpur,Baghpur Gair Mumkin P,agricultural,1735.54,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Baghpur,Baghpur Bhud N,agricultural,954.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Baghpur,Baghpur Bhud P,agricultural,1590.91,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Baghpur,Baghpur,residential,3125,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bisahan,Bisahan Chahi N,agricultural,545.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bisahan,Bisahan Chahi P,agricultural,1454.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bisahan,Bisahan Nehri N,agricultural,545.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bisahan,Bisahan Nehri P,agricultural,1454.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bisahan,Bisahan Barani N,agricultural,512.4,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bisahan,Bisahan Barani P,agricultural,1454.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bisahan,Bisahan Banjar N,agricultural,472.73,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bisahan,Bisahan Banjar P,agricultural,1454.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bisahan,Bisahan Gair Mumkin N,agricultural,419.01,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bisahan,Bisahan Gair Mumkin P,agricultural,1289.26,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bisahan,Bisahan Bhud N,agricultural,512.4,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bisahan,Bisahan,residential,2750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriKhas,Anaj Mandi,commercial,30625,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriKhas,Bus Stand to Mata Mandir,residential,6000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriKhas,Bus Stand to Mata Mandir,commercial,20625,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriKhas,Bus Stand to Main Bazar,residential,7200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriKhas,Bus Stand to Main Bazar,commercial,20625,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriKhas,Bus Stand to Jahazgarh Road,residential,7200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriKhas,Bus Stand to Jahazgarh Road,commercial,20625,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriKhas,Bus Stand to Dujana Mod,residential,7200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriKhas,Bus Stand to Dujana Mod,commercial,20625,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriKhas,Beri Khas Chahi N,agricultural,1214.88,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriKhas,Beri Khas Chahi P,agricultural,1735.54,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriKhas,Beri Khas Nehri N,agricultural,1214.88,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriKhas,Beri Khas Nehri P,agricultural,1735.54,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriKhas,Beri Khas Barani N,agricultural,1048.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriKhas,Beri Khas Barani P,agricultural,1735.54,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriKhas,Beri Khas Banjar N,agricultural,1048.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriKhas,Beri Khas Banjar P,agricultural,1735.54,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriKhas,Beri Khas Gair Mumkin N,agricultural,1048.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriKhas,Beri Khas Gair Mumkin P,agricultural,1735.54,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriKhas,Beri Khas Bhud N,agricultural,954.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriKhas,Beri Khas Bhud P,agricultural,1590.91,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriKhas,Beri Khas,residential,5250,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriKhas,Beri Khas,commercial,22750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriKhas,Bhagalpuri Chowk to Kalanaur Jahazgarh Road,residential,6188,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriKhas,Bhagalpuri Chowk to Kalanaur Jahazgarh Road,commercial,9100,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriKhas,Lal Dora Beri Baithan Pana,residential,6250,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriDopana,Beri Dopana Chahi N,agricultural,832.64,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriDopana,Beri Dopana Chahi P,agricultural,1181.82,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriDopana,Beri Dopana Nehri N,agricultural,902.48,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriDopana,Beri Dopana Nehri P,agricultural,1289.26,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriDopana,Beri Dopana Barani N,agricultural,711.78,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriDopana,Beri Dopana Barani P,agricultural,1181.82,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriDopana,Beri Dopana Banjar N,agricultural,752.07,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriDopana,Beri Dopana Banjar P,agricultural,1235.54,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriDopana,Beri Dopana,residential,5000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriDopana,Beri Dopana,commercial,11700,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriDopana,Beri Shahar Abadi Beri,residential,6250,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriDopana,Beri Shahar Abadi Beri,commercial,7800,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriDopana,Bhagalpuri Road to Jhajjar Road,residential,8750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriDopana,Bhagalpuri Road to Jhajjar Road,commercial,13000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriDopana,Bhagalpuri Chowk Kalanaur Road,residential,6250,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriDopana,Bhagalpuri Chowk Kalanaur Road,commercial,9100,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriDopana,Bhagalpuri Chowk to Jahazgarh Road,residential,6250,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriDopana,Bhagalpuri Chowk to Jahazgarh Road,commercial,9100,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriDopana,Dujana Mod to Jail Ghar,residential,6250,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,BeriDopana,Dujana Mod to Jail Ghar,commercial,11700,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bhambhewa,Bhambhewa Chahi N,agricultural,1138.95,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bhambhewa,Bhambhewa Chahi P,agricultural,1735.54,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bhambhewa,Bhambhewa Nehri N,agricultural,774.79,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bhambhewa,Bhambhewa Nehri P,agricultural,1188.02,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bhambhewa,Bhambhewa Barani N,agricultural,748.97,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bhambhewa,Bhambhewa Barani P,agricultural,1239.67,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bhambhewa,Bhambhewa Banjar N,agricultural,684.4,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bhambhewa,Bhambhewa Banjar P,agricultural,1136.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bhambhewa,Bhambhewa Gair Mumkin N,agricultural,1048.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bhambhewa,Bhambhewa Gair Mumkin P,agricultural,1735.54,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bhambhewa,Bhambhewa Bhud N,agricultural,684.4,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bhambhewa,Bhambhewa Bhud P,agricultural,1136.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bhambhewa,Bhambhewa,residential,2750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bhutyana,Bhutyana Chahi N,agricultural,439.57,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bhutyana,Bhutyana Chahi P,agricultural,1092.98,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bhutyana,Bhutyana Nehri N,agricultural,464.88,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bhutyana,Bhutyana Nehri P,agricultural,1136.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bhutyana,Bhutyana Barani N,agricultural,596.59,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bhutyana,Bhutyana Barani P,agricultural,1590.91,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bhutyana,Bhutyana Banjar N,agricultural,368.29,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bhutyana,Bhutyana Banjar P,agricultural,1045.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bhutyana,Bhutyana Gair Mumkin N,agricultural,368.29,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bhutyana,Bhutyana Gair Mumkin P,agricultural,1045.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bhutyana,Bhutyana Bhud N,agricultural,392.05,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Bhutyana,Bhutyana,residential,2750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,MadanaKalan,Madana Kalan Chahi N,agricultural,670.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,MadanaKalan,Madana Kalan Chahi P,agricultural,1000.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,MadanaKalan,Madana Kalan Nehri N,agricultural,727.27,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,MadanaKalan,Madana Kalan Nehri P,agricultural,1090.91,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,MadanaKalan,Madana Kalan Barani N,agricultural,602.27,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,MadanaKalan,Madana Kalan Gair Mumkin N,agricultural,1048.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,MadanaKalan,Madana Kalan Gair Mumkin P,agricultural,1735.54,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,MadanaKalan,Madana Kalan,residential,3125,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,MadanaKhurd,Madana Khurd Chahi N,agricultural,694.21,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,MadanaKhurd,Madana Khurd Chahi P,agricultural,1454.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,MadanaKhurd,Madana Khurd Nehri N,agricultural,760.33,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,MadanaKhurd,Madana Khurd Nehri P,agricultural,1586.78,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,MadanaKhurd,Madana Khurd Barani N,agricultural,661.16,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,MadanaKhurd,Madana Khurd Gair Mumkin N,agricultural,780.99,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,MadanaKhurd,Madana Khurd Gair Mumkin P,agricultural,1735.54,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,MadanaKhurd,Madana Khurd,residential,3125,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Malikpur,Malikpur Chahi N,agricultural,400.31,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Malikpur,Malikpur Chahi P,agricultural,1136.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Malikpur,Malikpur Nehri N,agricultural,426.14,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Malikpur,Malikpur Nehri P,agricultural,1188.02,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Malikpur,Malikpur Barani N,agricultural,400.31,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Malikpur,Malikpur Barani P,agricultural,1136.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Malikpur,Malikpur Banjar N,agricultural,340.91,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Malikpur,Malikpur Banjar P,agricultural,1136.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Malikpur,Malikpur Gair Mumkin N,agricultural,371.9,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Malikpur,Malikpur Gair Mumkin P,agricultural,1239.67,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Malikpur,Malikpur Bhud N,agricultural,426.14,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Malikpur,Malikpur Bhud P,agricultural,1188.02,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Malikpur,Malikpur,residential,2860,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Mangawas,Mangawas Chahi N,agricultural,659.09,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Mangawas,Mangawas Chahi P,agricultural,1000.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Mangawas,Mangawas Nehri N,agricultural,681.82,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Mangawas,Mangawas Nehri P,agricultural,1045.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Mangawas,Mangawas Barani N,agricultural,602.27,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Mangawas,Mangawas Barani P,agricultural,1000.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Mangawas,Mangawas Banjar N,agricultural,602.27,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Mangawas,Mangawas Gair Mumkin N,agricultural,602.27,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Mangawas,Mangawas Gair Mumkin P,agricultural,1000.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Mangawas,Mangawas Bhud N,agricultural,602.27,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Mangawas,Mangawas Bhud P,agricultural,1000.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Mangawas,Mangawas,residential,2750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,MajraDubaldhan,Majra Dubaldhan Chahi N,agricultural,451.96,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,MajraDubaldhan,Majra Dubaldhan Chahi P,agricultural,1188.02,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,MajraDubaldhan,Majra Dubaldhan Nehri N,agricultural,426.14,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,MajraDubaldhan,Majra Dubaldhan Nehri P,agricultural,1136.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,MajraDubaldhan,Majra Dubaldhan Barani N,agricultural,400.31,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,MajraDubaldhan,Majra Dubaldhan Barani P,agricultural,1136.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,MajraDubaldhan,Majra Dubaldhan Banjar N,agricultural,374.48,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,MajraDubaldhan,Majra Dubaldhan Banjar P,agricultural,1136.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,MajraDubaldhan,Majra Dubaldhan Gair Mumkin N,agricultural,564.05,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,MajraDubaldhan,Majra Dubaldhan Gair Mumkin P,agricultural,1735.54,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,MajraDubaldhan,Majra Dubaldhan Bhud N,agricultural,400.31,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,MajraDubaldhan,Majra Dubaldhan Bhud P,agricultural,1136.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,MajraDubaldhan,Majra Dubaldhan,residential,2860,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Lakariya,Lakariya Chahi N,agricultural,792.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Lakariya,Lakariya Chahi P,agricultural,1181.82,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Lakariya,Lakariya Nehri N,agricultural,792.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Lakariya,Lakariya Nehri P,agricultural,1181.82,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Lakariya,Lakariya Barani N,agricultural,711.78,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Lakariya,Lakariya Barani P,agricultural,1181.82,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Lakariya,Lakariya Gair Mumkin N,agricultural,940.08,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Lakariya,Lakariya Gair Mumkin P,agricultural,1663.22,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Lakariya,Lakariya,residential,2860,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Wazirpur,Wazirpur Nehri,agricultural,1137.5,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Wazirpur,Anaj Mandi,residential,30360,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Wazirpur,Anaj Mandi,commercial,34320,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Wazirpur,Wazirpur Chahi N,agricultural,1120.87,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Wazirpur,Wazirpur Chahi P,agricultural,1590.91,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Wazirpur,Wazirpur Nehri N,agricultural,1214.88,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Wazirpur,Wazirpur Nehri P,agricultural,1735.54,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Wazirpur,Wazirpur Barani N,agricultural,1048.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Wazirpur,Wazirpur Barani P,agricultural,1735.54,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Wazirpur,Wazirpur Banjar N,agricultural,958.16,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Wazirpur,Wazirpur Gair Mumkin N,agricultural,1048.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Wazirpur,Wazirpur Gair Mumkin P,agricultural,1735.54,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Wazirpur,Wazirpur Bhud N,agricultural,958.16,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Wazirpur,Wazirpur,residential,3875,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Wazirpur,Wazirpur,commercial,34320,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Sheria,Sheria Chahi N,agricultural,768.18,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Sheria,Sheria Chahi P,agricultural,1181.82,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Sheria,Sheria Nehri N,agricultural,846.07,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Sheria,Sheria Nehri P,agricultural,1289.26,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Sheria,Sheria Barani N,agricultural,711.78,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Sheria,Sheria Barani P,agricultural,1181.82,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Sheria,Sheria Gair Mumkin N,agricultural,1048.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Sheria,Sheria Gair Mumkin P,agricultural,1735.54,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Sheria,Sheria,residential,2750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Safipur,Safipur Chahi N,agricultural,443.18,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Safipur,Safipur Chahi P,agricultural,1181.82,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Safipur,Safipur Nehri N,agricultural,470.04,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Safipur,Safipur Nehri P,agricultural,1235.54,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Safipur,Safipur Barani N,agricultural,389.46,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Safipur,Safipur Barani P,agricultural,1181.82,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Safipur,Safipur Banjar N,agricultural,335.74,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Safipur,Safipur Banjar P,agricultural,1181.82,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Safipur,Safipur Gair Mumkin N,agricultural,335.74,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Safipur,Safipur Gair Mumkin P,agricultural,1181.82,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Safipur,Safipur Bhud N,agricultural,389.46,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Safipur,Safipur Bhud P,agricultural,1181.82,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Safipur,Safipur,residential,2750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Siwana,Siwana Chahi N,agricultural,416.32,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Siwana,Siwana Chahi P,agricultural,1181.82,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Siwana,Siwana Nehri N,agricultural,416.32,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Siwana,Siwana Nehri P,agricultural,1181.82,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Siwana,Siwana Barani N,agricultural,374.48,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Siwana,Siwana Barani P,agricultural,1136.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Siwana,Siwana Banjar N,agricultural,322.83,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Siwana,Siwana Banjar P,agricultural,1136.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Siwana,Siwana Gair Mumkin N,agricultural,470.04,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Siwana,Siwana Gair Mumkin P,agricultural,1663.22,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Siwana,Siwana Bhud N,agricultural,374.48,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Siwana,Siwana Bhud P,agricultural,1136.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Beri,Siwana,Siwana,residential,2860,2026-04-01,jhajjar_gov_in_dc_notification

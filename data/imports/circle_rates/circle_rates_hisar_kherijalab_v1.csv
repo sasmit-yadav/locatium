@@ -1,0 +1,187 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Hisar,Kheri Jalab,KheriJalab,Nehri Chahi,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,KheriJalab,Taj Barani Tiba,agricultural,351.24,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,KheriJalab,Gair Mumkin,agricultural,681.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,KheriLochab,Nehri Chahi,agricultural,557.85,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,KheriLochab,Taj Barani Tiba,agricultural,330.58,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,KheriLochab,Gair Mumkin,agricultural,681.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Haibatpur,Nehri Chahi,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Haibatpur,Taj Barani Tiba,agricultural,330.58,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Haibatpur,Gair Mumkin,agricultural,495.87,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,RakhiShahpur,Nehri Chahi,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,RakhiShahpur,Taj Barani Tiba,agricultural,330.58,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,RakhiShahpur,Gair Mumkin,agricultural,495.87,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Gamda,Nehri Chahi,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Gamda,Taj Barani Tiba,agricultural,330.58,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Gamda,Gair Mumkin,agricultural,661.16,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,RakhiKhas,Nehri Chahi,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,RakhiKhas,Taj Barani Tiba,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,RakhiKhas,Gair Mumkin,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Michpur,Nehri Chahi,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Michpur,Taj Barani Tiba,agricultural,371.9,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Michpur,Gair Mumkin,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Kinnar,Nehri Chahi,agricultural,371.9,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Kinnar,Taj Barani Tiba,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Kinnar,Gair Mumkin,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Kothkhurd,Nehri Chahi,agricultural,495.87,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Kothkhurd,Taj Barani Tiba,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Kothkhurd,Gair Mumkin,agricultural,723.14,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Nada,Nehri Chahi,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Nada,Taj Barani Tiba,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Nada,Gair Mumkin,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Kothkalan,Nehri Chahi,agricultural,371.9,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Kothkalan,Taj Barani Tiba,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Kothkalan,Gair Mumkin,agricultural,681.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Kapra,Nehri Chahi,agricultural,495.87,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Kapra,Taj Barani Tiba,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Kapra,Gair Mumkin,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Gandas,Nehri Chahi,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Gandas,Taj Barani Tiba,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Gandas,Gair Mumkin,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Panihari,Nehri Chahi,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Panihari,Taj Barani Tiba,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Panihari,Gair Mumkin,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Sidha,Nehri Chahi,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Sidha,Taj Barani Tiba,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Sidha,Gair Mumkin,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Bhadakheda,Nehri Chahi,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Bhadakheda,Taj Barani Tiba,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Bhadakheda,Gair Mumkin,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Sarsana,Nehri Chahi,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Sarsana,Taj Barani Tiba,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Sarsana,Gair Mumkin,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,KheriJalab,Gair Mumkin,commercial,5700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,KheriJalab,Gair Mumkin,residential,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,KheriLochab,Gair Mumkin,commercial,5700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,KheriLochab,Gair Mumkin,residential,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Haibatpur,Gair Mumkin,commercial,4700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Haibatpur,Gair Mumkin,residential,2800,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,RakhiShahpur,Gair Mumkin,commercial,4700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,RakhiShahpur,Gair Mumkin,residential,2700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Gamda,Gair Mumkin,commercial,6400,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Gamda,Gair Mumkin,residential,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,RakhiKhas,Gair Mumkin,commercial,4700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,RakhiKhas,Gair Mumkin,residential,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Michpur,Gair Mumkin,commercial,4700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Michpur,Gair Mumkin,residential,3800,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Kinnar,Gair Mumkin,commercial,4700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Kinnar,Gair Mumkin,residential,3200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Kothkhurd,Gair Mumkin,commercial,6400,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Kothkhurd,Gair Mumkin,residential,2800,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Nada,Gair Mumkin,commercial,4700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Nada,Gair Mumkin,residential,2700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Kothkalan,Gair Mumkin,commercial,4700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Kothkalan,Gair Mumkin,residential,2700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Kapra,Gair Mumkin,commercial,4700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Kapra,Gair Mumkin,residential,3200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Gandas,Gair Mumkin,commercial,4700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Gandas,Gair Mumkin,residential,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Panihari,Gair Mumkin,commercial,4700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Panihari,Gair Mumkin,residential,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Sidha,Gair Mumkin,commercial,4700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Sidha,Gair Mumkin,residential,2800,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Bhadakheda,Gair Mumkin,commercial,5300,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Bhadakheda,Gair Mumkin,residential,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Sarsana,Gair Mumkin,commercial,4700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Sarsana,Gair Mumkin,residential,2700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,KheriJalab,Along Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,KheriJalab,Along Road up to 2 acres,agricultural,702.48,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,KheriJalab,Firni Adjoining Land,agricultural,557.85,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,KheriLochab,Along Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,KheriLochab,Along Road up to 2 acres,agricultural,702.48,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,KheriLochab,Firni Adjoining Land,agricultural,557.85,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Haibatpur,Along Road 3 to 5 acres,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Haibatpur,Along Road up to 2 acres,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Haibatpur,Firni Adjoining Land,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,RakhiShahpur,Along Road 3 to 5 acres,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,RakhiShahpur,Along Road up to 2 acres,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,RakhiShahpur,Firni Adjoining Land,agricultural,557.85,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Gamda,Along Road 3 to 5 acres,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Gamda,Along Road up to 2 acres,agricultural,495.87,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Gamda,Firni Adjoining Land,agricultural,495.87,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,RakhiKhas,Along Road 3 to 5 acres,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,RakhiKhas,Along Road up to 2 acres,agricultural,475.21,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,RakhiKhas,Firni Adjoining Land,agricultural,557.85,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Michpur,Along Road 3 to 5 acres,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Michpur,Along Road up to 2 acres,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Michpur,Firni Adjoining Land,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Kinnar,Along Road 3 to 5 acres,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Kinnar,Along Road up to 2 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Kinnar,Firni Adjoining Land,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Kothkhurd,Along Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Kothkhurd,Along Road up to 2 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Kothkhurd,Firni Adjoining Land,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Nada,Along Road 3 to 5 acres,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Nada,Along Road up to 2 acres,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Nada,Firni Adjoining Land,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Kothkalan,Along Road 3 to 5 acres,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Kothkalan,Along Road up to 2 acres,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Kothkalan,Firni Adjoining Land,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Kapra,Along Road 3 to 5 acres,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Kapra,Along Road up to 2 acres,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Kapra,Firni Adjoining Land,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Gandas,Along Road 3 to 5 acres,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Gandas,Along Road up to 2 acres,agricultural,557.85,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Gandas,Firni Adjoining Land,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Panihari,Along Road 3 to 5 acres,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Panihari,Along Road up to 2 acres,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Panihari,Firni Adjoining Land,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Sidha,Along Road 3 to 5 acres,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Sidha,Along Road up to 2 acres,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Sidha,Firni Adjoining Land,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Bhadakheda,Along Road 3 to 5 acres,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Bhadakheda,Along Road up to 2 acres,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Bhadakheda,Firni Adjoining Land,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Sarsana,Along Road 3 to 5 acres,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Sarsana,Along Road up to 2 acres,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Sarsana,Firni Adjoining Land,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,KheriLochab,Hond to Barwala Road up to 2 acres,agricultural,909.09,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,KheriLochab,Hond to Barwala Road 3 to 5 acres,agricultural,681.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,KheriLochab,Narnaund Road up to 2 acres,agricultural,723.14,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,KheriLochab,Narnaund Road 3 to 5 acres,agricultural,537.19,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,KheriLochab,Kothkalan Road up to 2 acres,agricultural,681.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,KheriLochab,Kothkalan Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,KheriJalab,Bhana Kheda Road up to 2 acres,agricultural,681.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,KheriJalab,Hond to Barwala Road up to 2 acres,agricultural,909.09,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,KheriJalab,Bhana Kheda Road 3 to 5 acres,agricultural,537.19,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,KheriJalab,Hond to Barwala Road 3 to 5 acres,agricultural,681.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,KheriJalab,Narnaund Road up to 2 acres,agricultural,681.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,KheriJalab,Narnaund Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,KheriJalab,Haibatpur Road 3 to 5 acres,agricultural,495.87,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,KheriJalab,Sidha Road 3 to 5 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,KheriJalab,Haibatpur Road up to 2 acres,agricultural,681.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,KheriJalab,Sidha Road up to 2 acres,agricultural,681.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Haibatpur,Sidha Road up to 2 acres,agricultural,681.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Haibatpur,Sidha Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Haibatpur,Bhana Kheda Road up to 2 acres,agricultural,681.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Haibatpur,Bhana Kheda Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,RakhiShahpur,Uchana Road up to 2 acres,agricultural,826.45,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,RakhiShahpur,Uchana Road 3 to 5 acres,agricultural,578.51,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Kothkhurd,Adjoining Land 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Panihari,Hond to Barwala Road up to 2 acres,agricultural,909.09,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Panihari,Hond to Barwala Road 3 to 5 acres,agricultural,681.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Sidha,Adjoining Land up to 2 acres,agricultural,681.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Sidha,Adjoining Land 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Bhadakheda,Panihari Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Bhadakheda,Sidha Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Kapra,Uchana Road 1 to 2 acres,agricultural,723.14,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Kapra,Uchana Road 3 to 5 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Bhadakheda,Panihari Road up to 2 acres,agricultural,681.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Bhadakheda,Sarsana Road up to 2 acres,agricultural,681.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Bhadakheda,Sidha Road up to 2 acres,agricultural,681.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Kinnar,Barwala Jind Road up to 2 acres,agricultural,909.09,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Kinnar,Nada Road up to 2 acres,agricultural,681.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Kinnar,Nada Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Kinnar,Sakhi Road up to 2 acres,agricultural,723.14,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Kinnar,Sakhi Road 3 to 5 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Mirchpur,Barwala Jind Road up to 2 acres,agricultural,909.09,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,RakhiKhas,Kinnar Road up to 2 acres,agricultural,723.14,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,RakhiKhas,Kinnar Road 3 to 5 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,RakhiKhas,Narnaund Road up to 2 acres,agricultural,826.45,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,RakhiKhas,Narnaund Road 3 to 5 acres,agricultural,578.51,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,RakhiKhas,Milakpur Road up to 2 acres,agricultural,681.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,RakhiKhas,Milakpur Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Kothkalan,Road and Firni Adjoining 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Kothkalan,Road and Firni Adjoining up to 2 acres,agricultural,681.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Kinnar,Barwala Jind Road 3 to 5 acres,agricultural,681.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Kheri Jalab,Mirchpur,Barwala Jind Road 3 to 5 acres,agricultural,681.82,2026-04-01,hisar_gov_in_dc_notification

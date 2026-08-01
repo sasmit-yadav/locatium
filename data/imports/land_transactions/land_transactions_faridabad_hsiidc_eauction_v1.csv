@@ -1,0 +1,3 @@
+district,tehsil,village,sector_type,price_per_sq_yard_inr,area_sq_yards,lat,lng,transaction_date,source,deed_id,consideration_inr,area_unit,notes
+Faridabad,Faridabad,IMT Faridabad,industrial,30016.96,9089.53,28.3176,77.35632,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-faridabad-7600,272840000,sqm,HSIIDC FY24-25 reserve (IMT Faridabad); reserve ₹35900/sqm
+Faridabad,Faridabad,IMT Faridabad,industrial,30016.96,17939.86,28.3184,77.35688,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-faridabad-15000,538500000,sqm,HSIIDC FY24-25 reserve (IMT Faridabad); reserve ₹35900/sqm

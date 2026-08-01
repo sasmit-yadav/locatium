@@ -1,0 +1,391 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Rewari,Bawal,Alalpur,Both sides of SH,agricultural,500.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Alalpur,Alalpur,agricultural,454.55,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Alalpur,Alalpur,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Anandpur,Both sides of SH,agricultural,954.55,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Anandpur,Anandpur,agricultural,909.09,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Anandpur,Anandpur,residential,3850,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,AramNagar,NH-8,agricultural,2840.91,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,AramNagar,Both sides of SH,agricultural,625.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,AramNagar,Aram Nagar,agricultural,568.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,AramNagar,Aram Nagar,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,AasraKaMajra,Both sides of SH,agricultural,750.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,AasraKaMajra,Aasra Ka Majra,agricultural,681.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,AasraKaMajra,Aasra Ka Majra,residential,3300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Asalwas,Both sides of SH,agricultural,1363.64,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Asalwas,Asalwas,agricultural,1250.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Asalwas,Asalwas,residential,5500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Asalwas,NH-8,agricultural,2840.91,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Ibrahimpur,Both sides of SH,agricultural,750.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Ibrahimpur,Ibrahimpur,agricultural,681.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Ibrahimpur,Ibrahimpur,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Audi,Both sides of SH,agricultural,1477.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Audi,Audi,agricultural,1363.64,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Audi,Audi,residential,4950,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Kanuka,NH-8,agricultural,2840.91,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Kanuka,Both sides of SH,agricultural,500.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Kanuka,Kanuka,agricultural,454.55,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Kanuka,Kanuka,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Kamalpur,Both sides of SH,agricultural,681.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Kamalpur,Kamalpur,agricultural,613.64,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Kamalpur,Kamalpur,residential,3300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Kaldawas,Both sides of SH,agricultural,1136.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Kaldawas,Kaldawas,agricultural,1069.21,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Kaldawas,Kaldawas,residential,3850,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Kishanpur,Both sides of SH,agricultural,500.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Kishanpur,Kishanpur,agricultural,454.55,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Kishanpur,Kishanpur,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Keshopur,Both sides of SH,agricultural,875.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Keshopur,Keshopur,agricultural,795.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Keshopur,Keshopur,residential,3850,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Kharkhari,NH-71,agricultural,1590.91,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Kharkhari,Both sides of SH,agricultural,750.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Kharkhari,Kharkhari,agricultural,681.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Kharkhari,Kharkhari,residential,3300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Khandoda,Rewari to Shahjahanpur Road,agricultural,1590.91,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Khandoda,Both sides of SH,agricultural,909.09,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Khandoda,Khandoda,agricultural,840.91,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Khandoda,Khandoda,residential,3300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Khijuri,Rewari via Sulkha,agricultural,909.09,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Khijuri,Rewari to Shahjahanpur Road,agricultural,2045.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Khijuri,Both sides of SH,agricultural,500.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Khijuri,Khijuri,agricultural,454.55,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Khijuri,Khijuri,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Khurampur,Both sides of SH,agricultural,550.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Khurampur,Khurampur,agricultural,500.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Khurampur,Khurampur,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,KheraMurar,Both sides of SH,agricultural,750.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,KheraMurar,Khera Murar,agricultural,681.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,KheraMurar,Khera Murar,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,KhediDaluSingh,Both sides of SH,agricultural,795.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,KhediDaluSingh,Khedi Dalu Singh,residential,4400,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,KhediDharchana,Both sides of SH,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,KhediDharchana,Khedi Dharchana,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,KhediMotla,Both sides of SH,agricultural,750.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,KhediMotla,Khedi Motla,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,GujjarMajri,Both sides of SH,agricultural,681.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,GujjarMajri,Gujjar Majri,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Govindpur,Both sides of SH,agricultural,500.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Govindpur,Govindpur,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Chandwas,Both sides of SH,agricultural,1375.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Chandwas,Chandwas,residential,4400,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Chandwas,NH-8,agricultural,2613.64,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Chirhara,NH-8,agricultural,2840.91,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Chirhara,Both sides of SH,agricultural,1363.64,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Chirhara,Chirhara,agricultural,1250.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Chirhara,Chirhara,residential,5500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,JaisinghpurKhera,Commercial,commercial,24200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,JaisinghpurKhera,Both sides of SH,commercial,26400,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,JaisinghpurKhera,Both sides of SH,agricultural,1363.64,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,JaisinghpurKhera,Jaisinghpur Khera,agricultural,1250.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,JaisinghpurKhera,Jaisinghpur Khera,residential,4950,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Jalalpur,NH-8,agricultural,2840.91,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Jalalpur,Rewari via Sulkha,agricultural,1363.64,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Jalalpur,Rewari to Shahjahanpur Road,agricultural,2045.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Jalalpur,Both sides of SH,agricultural,1250.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Jalalpur,Jalalpur,agricultural,1136.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Jalalpur,Jalalpur,residential,4400,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Janiyawas,Both sides of SH,agricultural,1363.64,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Janiyawas,Janiyawas,agricultural,1250.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Janiyawas,Janiyawas,residential,5500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Janiyawas,NH-8,commercial,11000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Janiyawas,NH-8,agricultural,2840.91,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Janiyawas,Rewari to Bawal Road,agricultural,2136.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Janiyawas,Commercial,commercial,11000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Jhabua,Both sides of SH,agricultural,568.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Jhabua,Jhabua,agricultural,500.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Jhabua,Jhabua,residential,3300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Takari,Both sides of SH,agricultural,613.64,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Takari,Takari,agricultural,550.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Takari,Takari,residential,3850,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Tikla,Rewari to Shahjahanpur Road,agricultural,2045.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Tikla,Both sides of SH,agricultural,500.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Tikla,Tikla,agricultural,454.55,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Tikla,Tikla,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,DhaniSuthani,Both sides of SH,agricultural,1250.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,DhaniSuthani,Dhani Suthani,agricultural,1136.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,DhaniSuthani,Dhani Suthani,residential,4400,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Tihara,Both sides of SH,agricultural,875.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Tihara,Tihara,agricultural,795.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Tihara,Tihara,residential,3520,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,DulheraKalan,Both sides of SH,agricultural,954.55,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,DulheraKalan,Dulhera Kalan,agricultural,863.64,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,DulheraKalan,Dulhera Kalan,residential,3300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,DulheraKhurd,Dulhera Khurd,residential,3300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,DulheraKhurd,Both sides of SH,agricultural,863.64,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Dharchana,Both sides of SH,agricultural,875.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Dharchana,Dharchana,agricultural,795.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Dharchana,Dharchana,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Dharan,Both sides of SH,agricultural,550.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Dharan,Dharan,agricultural,500.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Dharan,Dharan,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,NarsinghpurGadhi,Rewari to Shahjahanpur Road,agricultural,1909.09,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,NarsinghpurGadhi,Both sides of SH,agricultural,681.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,NarsinghpurGadhi,Narsinghpur Gadhi,agricultural,681.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,NarsinghpurGadhi,Narsinghpur Gadhi,residential,3850,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Nagal,Rewari via Sulkha,agricultural,681.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Nagal,Rewari to Shahjahanpur Road,agricultural,2045.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Nagal,Both sides of SH,agricultural,795.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Nagal,Nagal,agricultural,727.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Nagal,Nagal,residential,3300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Shahbazpur,Nagal Shahbazpur Road,agricultural,795.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Shahbazpur,Both sides of SH,agricultural,795.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Shahbazpur,Shahbazpur,residential,3300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,NangliParsapur,Both sides of SH,agricultural,750.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,NangliParsapur,Nangli Parsapur,agricultural,681.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,NangliParsapur,Nangli Parsapur,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Nehchana,Both sides of SH,agricultural,1045.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Nehchana,Nehchana,agricultural,954.55,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Nehchana,Nehchana,residential,3850,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,NangalUgra,Both sides of SH,agricultural,550.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,NangalUgra,Nangal Ugra,agricultural,500.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,NangalUgra,Nangal Ugra,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,NangalTeju,Both sides of SH,agricultural,700.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,NangalTeju,Nangal Teju,agricultural,636.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,NangalTeju,Nangal Teju,residential,3080,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Panwar,Both sides of SH,agricultural,500.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Panwar,Panwar,agricultural,454.55,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Panwar,Panwar,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Patuhera,NH-8,agricultural,2386.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Patuhera,Both sides of SH,agricultural,875.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Patuhera,Patuhera,agricultural,795.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Patuhera,Patuhera,residential,4400,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Pabti,Both sides of SH,agricultural,500.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Pabti,Pabti,agricultural,454.55,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Pabti,Pabti,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Pranpura,Both sides of SH,agricultural,550.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Pranpura,Pranpura,agricultural,500.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Pranpura,Pranpura,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bagthala,Both sides of SH,agricultural,750.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bagthala,Bagthala,agricultural,681.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bagthala,Bagthala,residential,3300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Badharana,Both sides of SH,agricultural,545.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Badharana,Badharana,agricultural,500.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Badharana,Badharana,residential,3300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Banipur,Flat,residential,17820,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Banipur,IMT Bawal,residential,13800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Banipur,IMT Bawal,residential,12100,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Banipur,IMT Bawal,commercial,14300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Banipur,NH-8,industrial,10350,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Banipur,NH-8,agricultural,3409.09,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Banipur,Proportionate Land with Cover Area Residential,residential,15840,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Banipur,Both sides of SH,agricultural,1363.64,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Banipur,Banipur,agricultural,1250.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Banipur,Banipur,residential,5500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Banipur,Banipur,commercial,11000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Baghoz,Both sides of SH,agricultural,500.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Baghoz,Baghoz,agricultural,454.55,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Balawas,Both sides of SH,agricultural,625.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Balawas,Balawas,agricultural,568.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Balawas,Balawas,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,Rewari to Shahjahanpur Road,agricultural,1909.09,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,1 Railway Road Chhoturam Chowk to Fatak,residential,13750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,1 Railway Road Chhoturam Chowk to Fatak,commercial,33000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,10 A New Sabzi Mandi Residential,residential,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,10 B New Sabzi Mandi,commercial,14300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,11 Wilsonganji Bazar Shaheed Murti to Gunkaran Gate,residential,24200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,11 Wilsonganji Bazar Shaheed Murti to Gunkaran Gate,commercial,24200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,12 A Bawal boundary to NH8 Banipur Chowk Chirhada,residential,13200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,12 B Bawal boundary to NH8 Banipur Chowk Chirhada,commercial,22000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,13 Mohalla Jatwara,residential,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,13 Mohalla Jatwara,commercial,10925,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,14 Kumharan Mohalla,residential,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,14 Kumharan Mohalla,commercial,10450,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,15 Khatikan Mohalla,residential,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,15 Khatikan Mohalla,commercial,10450,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,16 Chaturvedi Mohalla,residential,9900,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,16 Chaturvedi Mohalla,commercial,11550,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,17 Moti Jheel Mohalla,residential,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,17 Moti Jheel Mohalla,commercial,10450,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,18 Punjabi Mohalla,residential,9600,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,18 Punjabi Mohalla,commercial,10450,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,19 Gujaran Mohalla,residential,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,19 Gujaran Mohalla,commercial,10925,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,2 A Railway Road Girls School to Bawal Mod,residential,12650,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,2 B Railway Road GS School to Bawal Mod,commercial,30800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,20 Bhairu Chowk Mohalla,residential,9900,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,20 Bhairu Chowk Mohalla,commercial,11550,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,21 Railway Road Colony,residential,12100,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,21 Railway Road Colony,commercial,14375,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,22 Nehchana Road Colony,residential,11000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,22 Nehchana Road Colony,commercial,13200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,23 Bus Stand Colony,residential,9350,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,23 Bus Stand Colony,commercial,11550,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,24 Bujwala Road Colony,residential,8250,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,24 Bujwala Road Colony,commercial,10450,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,25 A Rewari Road Colony Residential,residential,12100,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,25 B Rewari Road Colony,residential,13200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,25 B Rewari Road Colony,commercial,14300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,26 Khera Murar Road Colony,residential,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,26 Khera Murar Road Colony,commercial,11000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,27 Pranpura and Dalhera,residential,11000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,27 Pranpura and Dalhera,commercial,13200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,28 Harchandpur Road and Road Colony,residential,9900,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,28 Harchandpur Road and Road Colony,commercial,11000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,Sadguru Kabir Colony,residential,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,Sadguru Kabir Colony,commercial,10450,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,29 Dhobi Ghat Mohalla,residential,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,29 Dhobi Ghat Mohalla,commercial,10450,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,3 A Tiwari Chowk Residential,residential,8250,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,3 A Tiwari Chowk Residential,commercial,12600,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,3 B Tiwari Chowk,residential,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,3 B Tiwari Chowk,commercial,10450,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,30 Bag Wala Mohalla,residential,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,30 Bag Wala Mohalla,commercial,11400,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,31 Kanungo Mohalla,residential,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,31 Kanungo Mohalla,commercial,10450,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,32 Vaidyawara Mohalla,residential,9500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,32 Vaidyawara Mohalla,commercial,10925,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,33 Hasanpura Mohalla,residential,9500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,33 Hasanpura Mohalla,commercial,11550,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,34 TiwariPur Mohalla,residential,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,34 TiwariPur Mohalla,commercial,10450,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,35 Hanuman Chowk Mohalla,residential,8000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,35 Hanuman Chowk Mohalla,commercial,9600,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,36 Nangli Parsapur Road,residential,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,36 Nangli Parsapur Road,commercial,11550,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,37 A Nehchana Road Fatak to Bawal Border Residential,residential,9900,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,37 B Nehchana Road Fatak to Bawal Border,commercial,12100,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,38 A College Road Hospital to College Residential,residential,10450,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,38 B College Road Hospital to College,commercial,13800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,39 A Khera Murar Road Saini Chaupal to Bawal Border Residential,residential,9900,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,39 B Khera Murar Road Saini Chaupal to Bawal Border,commercial,12100,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,4 A Katla Bazar Residential,residential,20900,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,4 B Katla Bazar,commercial,22800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,40 A Holi Chota to Bagwala Residential,residential,7700,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,40 B Holi Chota to Bagwala,commercial,10450,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,41 A Rewari Road Bawal Mod to Bawal Border,residential,14375,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,41 A Rewari Road Bawal Mod to Bawal Border,commercial,22000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,41 B Rewari Road Bawal Mod to Bawal Border,residential,22000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,41 B Rewari Road Bawal Mod to Bawal Border,commercial,27500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,41 C Rewari Road Bawal Mod to Bawal Border,residential,20000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,41 C Rewari Road Bawal Mod to Bawal Border,commercial,22000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,42 A Duleda Road to Bawal Border Residential,residential,8800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,42 B Duleda Road to Bawal Border,commercial,14300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,43 A Balmiki Road Mohalla Jogiyan to Balmiki Residential,residential,7700,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,43 B Balmiki Road Mohalla Jogiyan to Balmiki,commercial,9900,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,44 A New Colony School Backside Residential,residential,10925,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,44 B New Colony School Backside,commercial,18700,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,45 Backside New Anaj Mandi,residential,11000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,45 Backside New Anaj Mandi,commercial,11000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,45 A Backside New Anaj Mandi Commercial,commercial,12000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,49 Ground floor land with cover Area Residential,residential,17820,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,5 A Sabzi Mandi Residential,residential,8250,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,5 B Sabzi Mandi,commercial,20900,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,50 Proportionate Land Cover Area Residential Except GF,residential,15840,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,51 Ground floor Land with cover Area Commercial,commercial,31680,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,52 Proportionate Land Cover Area Commercial Except GF,commercial,26730,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,53 Licensed colony under 4 kanal per sqyd,commercial,5500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,54 Site over 4 kanal,agricultural,5000.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,6 A Kila Road Rest House Residential,residential,18700,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,6 B Kila Road Rest House,commercial,18700,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,7 A Pranpura Road Bus Stand to Harijan Basti Residential,residential,13750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,7 B Pranpura Road Bus Stand to Harijan Basti Commercial,commercial,26400,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,8 A Rasiawas Road Bus Stand to Railway Fatak Residential,residential,9900,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,8 B Rasiawas Road Bus Stand to Railway Fatak Commercial,commercial,13750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,9 A Railway Fatak to Saban Highway Road Residential,residential,12100,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,9 B Railway Fatak to Saban Highway Road,commercial,24200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,SH Metalled District Road Link Road both sides,agricultural,2033.06,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,Bawal,agricultural,1704.55,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,NH-8,agricultural,2840.91,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bishanpur,Both sides of SH,agricultural,500.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bishanpur,Bishanpur,agricultural,454.55,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bishanpur,Bishanpur,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,BeedJhabua,Both sides of SH,agricultural,500.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,BeedJhabua,Beed Jhabua,agricultural,454.55,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,BeedJhabua,Beed Jhabua,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bidawas,Both sides of SH,agricultural,545.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bidawas,Bidawas,agricultural,454.55,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bidawas,Bidawas,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Berwal,Both sides of SH,agricultural,500.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Berwal,Berwal,agricultural,454.55,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Berwal,Berwal,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bhagwanpur,Both sides of SH,agricultural,700.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bhagwanpur,Bhagwanpur,agricultural,636.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bhagwanpur,Bhagwanpur,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,BhaiyrampurBhadangi,Both sides of SH,agricultural,875.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,BhaiyrampurBhadangi,Bhaiyrampur Bhadangi,agricultural,795.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,BhaiyrampurBhadangi,Bhaiyrampur Bhadangi,residential,3300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,BhaiyrampurBhadangi,Rewari via Sulkha,agricultural,875.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,BhaiyrampurBhadangi,Rewari to Shahjahanpur Road,agricultural,1909.09,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Mangleshwar,Both sides of SH,agricultural,750.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Mangleshwar,Mangleshwar,agricultural,681.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Mangleshwar,Mangleshwar,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,MukandpurBasai,Mukandpur Basai,agricultural,831.61,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,MukandpurBasai,Mukandpur Basai,residential,3850,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,MukandpurBasai,Both sides of SH,agricultural,863.64,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Mohanpur,Both sides of SH,agricultural,875.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Mohanpur,Mohanpur,agricultural,831.61,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Mohanpur,Mohanpur,residential,3300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Mohammadpur,Rewari via Sulkha,agricultural,875.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Mohammadpur,Rewari to Shahjahanpur Road,agricultural,1909.09,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Mohammadpur,Both sides of SH,agricultural,795.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Mohammadpur,Mohammadpur,agricultural,727.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Mohammadpur,Mohammadpur,residential,3300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Raghunathpur,Both sides of SH,agricultural,500.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Raghunathpur,Raghunathpur,agricultural,454.55,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Raghunathpur,Raghunathpur,residential,3300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,RunsiMajri,Both sides of SH,agricultural,500.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,RunsiMajri,Runsi Majri,agricultural,454.55,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,RunsiMajri,Runsi Majri,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Rasiyawas,Commercial,commercial,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Rasiyawas,Both sides of SH,agricultural,909.09,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Rasiyawas,Rasiyawas,agricultural,840.91,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Rasiyawas,Rasiyawas,residential,3850,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Rajgarh,Both sides of SH,agricultural,500.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Rajgarh,Rajgarh,agricultural,454.55,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Rajgarh,Rajgarh,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Ranoli,Both sides of SH,agricultural,500.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Ranoli,Ranoli,agricultural,454.55,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Ranoli,Ranoli,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,RamsinghPura,Both sides of SH,agricultural,1477.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,RamsinghPura,Ramsingh Pura,agricultural,1363.64,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,RamsinghPura,Ramsingh Pura,residential,3300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Raipur,NH-8,agricultural,2613.64,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Raipur,Both sides of SH,agricultural,600.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Raipur,Raipur,agricultural,545.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Raipur,Raipur,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Rup,Both sides of SH,agricultural,1363.64,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Rup,NH-8,agricultural,2840.91,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Rup,Rup,agricultural,1306.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Rup,Rup,residential,5175,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Shahpur,Both sides of SH,agricultural,700.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Shahpur,Shahpur,agricultural,636.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Shahpur,Shahpur,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Shekhpur,Both sides of SH,agricultural,550.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Shekhpur,Shekhpur,agricultural,500.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Shekhpur,Shekhpur,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Saban,Both sides of SH,agricultural,1590.91,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Saban,NH-8,agricultural,2840.91,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Saban,Commercial,commercial,7150,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Saban,Saban,agricultural,1544.42,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Saban,Saban,residential,7150,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Suthana,Both sides of SH,agricultural,1250.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Suthana,Rewari to Bawal Road,agricultural,2136.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Suthana,Suthana,agricultural,1136.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Suthana,Suthana,residential,6050,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Suthani,Both sides of SH,agricultural,1250.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Suthani,Rewari to Bawal Road,agricultural,2136.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Suthani,Suthani,agricultural,1136.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Suthani,Suthani,residential,6050,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Subaseri,Both sides of SH,agricultural,625.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Subaseri,Subaseri,agricultural,568.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Subaseri,Subaseri,residential,3300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Sulkha,Both sides of SH,agricultural,750.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Sulkha,Rewari via Sulkha,agricultural,750.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Sulkha,Rewari to Shahjahanpur Road,agricultural,1909.09,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Sulkha,Sulkha,agricultural,681.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Sulkha,Sulkha,residential,3300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,SayyadpurJaitpur,Both sides of SH,agricultural,500.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,SayyadpurJaitpur,Sayyadpur Jaitpur,agricultural,454.55,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,SayyadpurJaitpur,Sayyadpur Jaitpur,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Sanjarpur,Both sides of SH,agricultural,875.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Sanjarpur,Sanjarpur,agricultural,795.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Sanjarpur,Sanjarpur,residential,3300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Harchandpur,Both sides of SH,agricultural,1500.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Harchandpur,Rewari via Sulkha,agricultural,1500.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Harchandpur,Harchandpur,agricultural,1363.64,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Harchandpur,Harchandpur,residential,3300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,Constructed House Category A,residential,10800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,Constructed House Category B,residential,8100,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Bawal,Bawal,Constructed House Category C,residential,6300,2026-04-01,rewari_gov_in_dc_notification

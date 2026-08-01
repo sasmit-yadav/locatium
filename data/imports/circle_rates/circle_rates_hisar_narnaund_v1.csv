@@ -1,0 +1,224 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Hisar,Narnaund,Narnaund,Nehri Chahi,agricultural,526.86,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Barani Tibba Tal,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Gair Mumkin,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Abadi Residential up to 1000 Sqyd,residential,3500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Abadi Commercial up to 1000 Sqyd,commercial,4500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Aurangshahpur,Nehri Chahi,agricultural,526.86,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Aurangshahpur,Barani Tibba Tal,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Aurangshahpur,Gair Mumkin,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Aurangshahpur,Abadi Residential up to 1000 Sqyd,residential,3500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Aurangshahpur,Abadi Commercial up to 1000 Sqyd,commercial,4500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,MethiAmarsar,Nehri Chahi,agricultural,526.86,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,MethiAmarsar,Barani Tibba Tal,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,MethiAmarsar,Gair Mumkin,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,MethiAmarsar,Abadi Residential up to 1000 Sqyd,residential,3500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,MethiAmarsar,Road Adjacent up to 2 Acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,MethiAmarsar,Jind Hansi Road 3-5 Acres,agricultural,1136.36,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,MethiAmarsar,Other Roads Outside MC 3-5 Acres,agricultural,723.14,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,MethiAmarsar,Adjacent to Abadi up to 3 Acres,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,MethiAmarsar,Abadi Commercial up to 1000 Sqyd,commercial,4500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Rajthal,Nehri Chahi,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Rajthal,Barani Tibba Tal,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Rajthal,Gair Mumkin,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Rajthal,Abadi Residential up to 1000 Sqyd,residential,2500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Rajthal,Road Adjacent up to 2 Acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Rajthal,Jind Hansi Road 3-5 Acres,agricultural,826.45,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Rajthal,Other Roads 3-5 Acres,agricultural,723.14,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Rajthal,Adjacent to Abadi up to 3 Acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Rajthal,Abadi Commercial up to 1000 Sqyd,commercial,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Milakpur,Nehri Chahi,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Milakpur,Barani Tibba Tal,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Milakpur,Gair Mumkin,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Milakpur,Abadi Residential up to 1000 Sqyd,residential,2500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Milakpur,Road Adjacent up to 2 Acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Milakpur,On Road 3-5 Acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Milakpur,Adjacent to Abadi up to 3 Acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Milakpur,Abadi Commercial up to 1000 Sqyd,commercial,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,KhandiRaj,Nehri Chahi,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,KhandiRaj,Barani Tibba Tal,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,KhandiRaj,Gair Mumkin,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,KhandiRaj,Abadi Residential up to 1000 Sqyd,residential,2500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,KhandiRaj,Road Adjacent up to 2 Acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,KhandiRaj,On Road 3-5 Acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,KhandiRaj,Adjacent to Abadi up to 3 Acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,KhandiRaj,Abadi Commercial up to 1000 Sqyd,commercial,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,KhandiKhyoran,Nehri Chahi,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,KhandiKhyoran,Barani Tibba Tal,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,KhandiKhyoran,Gair Mumkin,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,KhandiKhyoran,Abadi Residential up to 1000 Sqyd,residential,2500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,KhandiKhyoran,Road Adjacent up to 2 Acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,KhandiKhyoran,On Road 3-5 Acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,KhandiKhyoran,Adjacent to Abadi up to 3 Acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,KhandiKhyoran,Abadi Commercial up to 1000 Sqyd,commercial,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Kagsar,Nehri Chahi,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Kagsar,Barani Tibba Tal,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Kagsar,Gair Mumkin,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Kagsar,Abadi Residential up to 1000 Sqyd,residential,2500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Kagsar,Road Adjacent up to 2 Acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Kagsar,On Road 3-5 Acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Kagsar,Adjacent to Abadi up to 3 Acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Kagsar,Abadi Commercial up to 1000 Sqyd,commercial,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Sulchani,Nehri Chahi,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Sulchani,Barani Tibba Tal,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Sulchani,Gair Mumkin,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Sulchani,Abadi Residential up to 1000 Sqyd,residential,2500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Sulchani,Road Adjacent up to 2 Acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Sulchani,On Road 3-5 Acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Sulchani,Adjacent to Abadi up to 3 Acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Sulchani,Abadi Commercial up to 1000 Sqyd,commercial,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Budana,Nehri Chahi,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Budana,Barani Tibba Tal,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Budana,Gair Mumkin,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Budana,Abadi Residential up to 1000 Sqyd,residential,2500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Budana,Road Adjacent up to 2 Acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Budana,On Road 3-5 Acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Budana,Adjacent to Abadi up to 3 Acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Budana,Abadi Commercial up to 1000 Sqyd,commercial,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,MothRangran,Nehri Chahi,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,MothRangran,Barani Tibba Tal,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,MothRangran,Gair Mumkin,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,MothRangran,Abadi Residential up to 1000 Sqyd,residential,2500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,MothRangran,Road Adjacent up to 2 Acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,MothRangran,On Road 3-5 Acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,MothRangran,Adjacent to Abadi up to 3 Acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,MothRangran,Abadi Commercial up to 1000 Sqyd,commercial,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,MothKarnail,Nehri Chahi,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,MothKarnail,Barani Tibba Tal,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,MothKarnail,Gair Mumkin,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,MothKarnail,Abadi Residential up to 1000 Sqyd,residential,2500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,MothKarnail,Road Adjacent up to 2 Acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,MothKarnail,On Road 3-5 Acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,MothKarnail,Adjacent to Abadi up to 3 Acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,MothKarnail,Abadi Commercial up to 1000 Sqyd,commercial,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Majra,Nehri Chahi,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Majra,Barani Tibba Tal,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Majra,Gair Mumkin,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Majra,Abadi Residential up to 1000 Sqyd,residential,2500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Majra,Road Adjacent up to 2 Acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Majra,Jind Hansi Road 3-5 Acres,agricultural,826.45,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Majra,Other Roads 3-5 Acres,agricultural,723.14,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Majra,Adjacent to Abadi up to 3 Acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Majra,Abadi Commercial up to 1000 Sqyd,commercial,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Manda,Nehri Chahi,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Manda,Barani Tibba Tal,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Manda,Gair Mumkin,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Manda,Abadi Residential up to 1000 Sqyd,residential,2500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Manda,Road Adjacent up to 2 Acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Manda,Jind Hansi Road 3-5 Acres,agricultural,723.14,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Manda,Other Roads 3-5 Acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Manda,Adjacent to Abadi up to 3 Acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Manda,Abadi Commercial up to 1000 Sqyd,commercial,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Rajpura,Nehri Chahi,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Rajpura,Barani Tibba Tal,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Rajpura,Gair Mumkin,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Rajpura,Abadi Residential up to 1000 Sqyd,residential,2500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Rajpura,Road Adjacent up to 2 Acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Rajpura,Jind Hansi Road 3-5 Acres,agricultural,723.14,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Rajpura,Other Roads 3-5 Acres,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Rajpura,Adjacent to Abadi up to 3 Acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Rajpura,Abadi Commercial up to 1000 Sqyd,commercial,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Pali,Nehri Chahi,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Pali,Barani Tibba Tal,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Pali,Gair Mumkin,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Pali,Abadi Residential up to 1000 Sqyd,residential,2500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Pali,Road Adjacent up to 2 Acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Pali,Jind Hansi Road 3-5 Acres,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Pali,Other Roads 3-5 Acres,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Pali,Adjacent to Abadi up to 3 Acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Pali,Abadi Commercial up to 1000 Sqyd,commercial,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,LohariRagho,Nehri Chahi,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,LohariRagho,Barani Tibba Tal,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,LohariRagho,Gair Mumkin,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,LohariRagho,Abadi Residential up to 1000 Sqyd,residential,2500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,LohariRagho,Road Adjacent up to 2 Acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,LohariRagho,On Road 3-5 Acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,LohariRagho,Adjacent to Abadi up to 3 Acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,LohariRagho,Abadi Commercial up to 1000 Sqyd,commercial,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Petwar,Nehri Chahi,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Petwar,Barani Tibba Tal,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Petwar,Gair Mumkin,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Petwar,Abadi Residential up to 1000 Sqyd,residential,2500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Petwar,Road Adjacent up to 2 Acres,agricultural,578.51,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Petwar,On Road 3-5 Acres,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Petwar,Adjacent to Abadi up to 3 Acres,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Petwar,Abadi Commercial up to 1000 Sqyd,commercial,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Harsi to Jind Paved Road Both Sides,residential,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Harsi to Jind Paved Road Both Sides,commercial,27500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Tehsil Office to Jind Road,residential,8000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Tehsil Office to Jind Road,commercial,20000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Narnaund to Budana Road Both Sides,residential,6000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Narnaund to Budana Road Both Sides,commercial,19000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,New Grain Market to Lohari Road Both Sides,residential,8000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,New Grain Market to Lohari Road Both Sides,commercial,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Khanda Mor to Canal Road Both Sides,residential,8000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Khanda Mor to Canal Road Both Sides,commercial,11000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Pana Aurangshahpur and Main Bazar Area,residential,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Pana Aurangshahpur and Main Bazar Area,commercial,23000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Pana Mailan Area,residential,8000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Pana Mailan Area,commercial,15000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Vikas Nagar,residential,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Vikas Nagar,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Shanti Nagar,residential,6000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Shanti Nagar,commercial,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Balmiki Basti,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Balmiki Basti,commercial,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Bus Stand Area Prem Nagar-11,residential,13000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Bus Stand Area Prem Nagar-11,commercial,40000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Harijan Colony,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Harijan Colony,commercial,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Subi Wali Chari Near Canal,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Subi Wali Chari Near Canal,commercial,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Prem Nagar-1,residential,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Prem Nagar-1,commercial,6000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Ruki Wala Kuan,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Ruki Wala Kuan,commercial,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Near Cremation Ground,residential,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Near Cremation Ground,commercial,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,New Sabzi Mandi Prem Nagar-1,residential,6000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,New Sabzi Mandi Prem Nagar-1,commercial,13000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Baila Pana,residential,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Baila Pana,commercial,13000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Prem Nagar-2,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Prem Nagar-2,commercial,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Vidyut Nagar,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Vidyut Nagar,commercial,6000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Gopal Basti,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Gopal Basti,commercial,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Baila Pana Pass Area,residential,5500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Baila Pana Pass Area,commercial,7500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Vishwakarma Colony,residential,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Vishwakarma Colony,commercial,8000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,New Grain Market,commercial,28600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Gautam Colony,residential,6500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Gautam Colony,commercial,12500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Hari Om Colony,residential,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Hari Om Colony,commercial,8000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Surender Colony,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Surender Colony,commercial,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Prem Nagar Extension Moth Road,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Prem Nagar Extension Moth Road,commercial,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Gautam Colony-1 Extension,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Gautam Colony-1 Extension,commercial,6000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Salasar Colony,residential,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Salasar Colony,commercial,8000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Extension Sudana Road Colony,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Extension Sudana Road Colony,commercial,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Geeta Colony,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Geeta Colony,commercial,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Punjabi Mohalla,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Punjabi Mohalla,commercial,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Jind Hansi Road,agricultural,1136.36,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Aurangshahpur,Jind Hansi Road,agricultural,1136.36,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Petwar Road,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Aurangshahpur,Petwar Road,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Budana Road,agricultural,723.14,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Aurangshahpur,Budana Road,agricultural,723.14,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Moth Road,agricultural,723.14,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Aurangshahpur,Moth Road,agricultural,723.14,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Aurangshahpur,Inside Municipal Limits,agricultural,1136.36,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Inside Municipal Limits,agricultural,1136.36,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,BhainiAmirpur,Inside Municipal Limits,agricultural,1136.36,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Sulchani Road,agricultural,723.14,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,Narnaund,Khanda Road,agricultural,723.14,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Narnaund,BhainiAmirpur,Jind Road,agricultural,1136.36,2026-04-01,hisar_gov_in_dc_notification

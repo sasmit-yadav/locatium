@@ -1,0 +1,191 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Hisar,Uklana,Uklana,Bus Stand to Surewala Chowk and Narwana Bhuna Road both sides MC,commercial,11000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Bus Stand to Surewala Chowk and Narwana Bhuna Road both sides MC,residential,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Market Committee Road and Sabzi Mandi Road,commercial,11000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Market Committee Road and Sabzi Mandi Road,residential,8000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Wazir Devi Colony,commercial,11000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Wazir Devi Colony,residential,6000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Indira Colony,commercial,11000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Indira Colony,residential,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Bhagwan Mahabir Marg to Budhakhera Approach Road,commercial,13000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Bhagwan Mahabir Marg to Budhakhera Approach Road,residential,8000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Railway Line to Bhagwan Mahabir Marg,commercial,6500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Railway Line to Bhagwan Mahabir Marg,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Subhash Gali Arya Gali,commercial,11000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Subhash Gali Arya Gali,residential,6000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Fatehchand Colony,commercial,6500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Fatehchand Colony,residential,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Chhabildas Colony,commercial,13000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Chhabildas Colony,residential,7200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Shastri Nagar,commercial,6500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Shastri Nagar,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Dhakka Basti,commercial,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Dhakka Basti,residential,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,New Old Grain Market,commercial,26000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Gol Mandi,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Gol Mandi,residential,8500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Gulab Colony,commercial,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Gulab Colony,residential,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Jawahar Nagar Harijan Basti HSEB,commercial,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Jawahar Nagar Harijan Basti HSEB,residential,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Chaubisi Area,commercial,11000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Chaubisi Area,residential,8000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,GS Colony and Dilbag Colony,commercial,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,GS Colony and Dilbag Colony,residential,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Near Swarg Ashram Uklana Mandi,commercial,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Near Swarg Ashram Uklana Mandi,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Near Gurudwara Uklana Mandi,commercial,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Near Gurudwara Uklana Mandi,residential,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Ward No 2 Near Balmiki Basti,commercial,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Ward No 2 Near Balmiki Basti,residential,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Dharamshala and Krishna Gali,commercial,6500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Dharamshala and Krishna Gali,residential,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Prem Gali Vishwakarma Dharamshala,commercial,6500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Prem Gali Vishwakarma Dharamshala,residential,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Gandhi Basti Triveni Shyam Colony,commercial,6500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Gandhi Basti Triveni Shyam Colony,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Kumar Cinema to Bhagwan Mahabir Marg and front,commercial,14000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Kumar Cinema to Bhagwan Mahabir Marg and front,residential,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Ward No 2 Near Budhakheda Johri,commercial,6500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Ward No 2 Near Budhakheda Johri,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Bus Stand to Mittal Factory,commercial,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Bus Stand to Mittal Factory,residential,6000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Jeet Nagar,commercial,8000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Jeet Nagar,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,New Ram Vihar,commercial,6500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,New Ram Vihar,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Ram Nagar Extension,commercial,6500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Ram Nagar Extension,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Jai Mahalakshmi Colony,commercial,6500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Jai Mahalakshmi Colony,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Jai Durga Colony,commercial,6500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Jai Durga Colony,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Shri Shiv Colony,commercial,6500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Shri Shiv Colony,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Shri Bala Ji,commercial,6500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Shri Bala Ji,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Shri Ganesh Colony,commercial,6500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Shri Ganesh Colony,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Moti Colony,commercial,6500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Moti Colony,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Krishna Colony,commercial,6500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Krishna Colony,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Indraprastha Colony,commercial,8500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Indraprastha Colony,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Gurudarshan Colony,commercial,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Gurudarshan Colony,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Mukhram Colony,commercial,13000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Mukhram Colony,residential,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Surewala Chowk NH-65 inside Municipality,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Surewala Chowk NH-65 inside Municipality,residential,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Budhakhera,Agricultural inside Municipality,agricultural,1033.06,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Surewala,Agricultural inside Municipality,agricultural,1033.06,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Agricultural inside Municipality,agricultural,1033.06,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Budhakhera,Narwana Bhuna Road agricultural both sides,agricultural,1033.06,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Surewala,Narwana Bhuna Road agricultural both sides,agricultural,1033.06,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Narwana Bhuna Road agricultural both sides,agricultural,1033.06,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Budhakhera,Inside Municipality,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Surewala,Surewala Chowk NH-65 inside Municipality,agricultural,1033.06,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,MC inside and outside,commercial,6000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,MC inside and outside,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Budhakhera,MC inside,commercial,6000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Budhakhera,MC inside,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Surewala,MC inside,commercial,6000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Surewala,MC inside,residential,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Surewala,MC outside,commercial,6000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Surewala,MC outside,residential,2500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Budhakhera,New Grain Market,commercial,26000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Surewala,New Grain Market,commercial,26000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Budhakhera,Dr Bhimrao Ambedkar Colony,commercial,6000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Budhakhera,Dr Bhimrao Ambedkar Colony,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Budhakhera,Auto Market Colony,commercial,11000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Budhakhera,Auto Market Colony,residential,8000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Budhakhera,Model Town Colony,commercial,6000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Budhakhera,Model Town Colony,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Ashok Vihar Colony,commercial,6000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Ashok Vihar Colony,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Surewala,Benami Colony,commercial,11000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Surewala,Benami Colony,residential,8000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Jai Durga Colony licensed,commercial,6000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Jai Durga Colony licensed,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Nahri Chahi Gair Mumkin,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Barani Tal Tibba,agricultural,330.58,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Gair Mumkin Plot,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,KallarBhaini,Nahri Chahi Gair Mumkin,agricultural,330.58,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,KallarBhaini,Barani Tal Tibba,agricultural,268.6,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,KallarBhaini,Gair Mumkin Plot,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Prabhuwala,Nahri Chahi Gair Mumkin,agricultural,351.24,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Prabhuwala,Barani Tal Tibba,agricultural,268.6,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Prabhuwala,Gair Mumkin Plot,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Surewala,Nahri Chahi Gair Mumkin,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Surewala,Barani Tal Tibba,agricultural,268.6,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Surewala,Gair Mumkin Plot,residential,2500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Bithmara,Nahri Chahi Gair Mumkin,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Bithmara,Barani Tal Tibba,agricultural,268.6,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Bithmara,Gair Mumkin Plot,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Litani,Nahri Chahi Gair Mumkin,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Litani,Barani Tal Tibba,agricultural,268.6,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Litani,Gair Mumkin Plot,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Budhakhera,Nahri Chahi Gair Mumkin,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Budhakhera,Barani Tal Tibba,agricultural,268.6,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Budhakhera,Gair Mumkin Plot,residential,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,NayaGaon,Nahri Chahi Gair Mumkin,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,NayaGaon,Barani Tal Tibba,agricultural,268.6,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,NayaGaon,Gair Mumkin Plot,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,BhainiBadshahpur,Nahri Chahi Gair Mumkin,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,BhainiBadshahpur,Barani Tal Tibba,agricultural,268.6,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,BhainiBadshahpur,Gair Mumkin Plot,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Daulatpur,Nahri Chahi Gair Mumkin,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Daulatpur,Barani Tal Tibba,agricultural,268.6,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Daulatpur,Gair Mumkin Plot,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,BhainiAkbarpur,Nahri Chahi Gair Mumkin,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,BhainiAkbarpur,Barani Tal Tibba,agricultural,268.6,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,BhainiAkbarpur,Gair Mumkin Plot,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Chamarkhera,Nahri Chahi Gair Mumkin,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Chamarkhera,Barani Tal Tibba,agricultural,268.6,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Chamarkhera,Gair Mumkin Plot,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Sahu,Nahri Chahi Gair Mumkin,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Sahu,Barani Tal Tibba,agricultural,268.6,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Sahu,Gair Mumkin Plot,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Kanoh,Nahri Chahi Gair Mumkin,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Kanoh,Barani Tal Tibba,agricultural,268.6,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Kanoh,Gair Mumkin Plot,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Pabra,Nahri Chahi Gair Mumkin,agricultural,330.58,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Pabra,Barani Tal Tibba,agricultural,268.6,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Pabra,Gair Mumkin Plot,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Phirni Mugalpura Shankarpura Kundanpura Madanpura,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Uklana to Kundanpura Madanpura Road depth 2 acres,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Uklana to Kundanpura Madanpura Road depth 3-5 acres,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Uklana to Narwana Bhuna Road depth 2 acres,agricultural,1033.06,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Uklana to Daulatpur Road depth 2 acres,agricultural,1033.06,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Uklana to Narwana Bhuna Road depth 3-5 acres,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Uklana,Uklana to Daulatpur Road depth 3-5 acres,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Surewala,Surewala to Narwana Road depth 2 acres,agricultural,1033.06,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Surewala,Surewala to Tohana Road depth 2 acres,agricultural,1033.06,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Surewala,Surewala to Hisar Road depth 2 acres,agricultural,1033.06,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Surewala,Surewala to Narwana Tohana Hisar Road depth 3-5 acres,agricultural,351.24,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Budhakhera,Budhakhera to Surewala Chowk depth 2 acres,agricultural,1033.06,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Budhakhera,Budhakhera to Surewala Chowk depth 3-5 acres,agricultural,351.24,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Budhakhera,Budhakhera to Uklana Nayagaon Prabhuwala Daulatpur Bhaini Akbarpur Road depth 2 acres,agricultural,351.24,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Daulatpur,Road and Phirni depth 2 acres,agricultural,351.24,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Litani,Prabhuwala Hisar and Litani Narwana Road depth 2 acres,agricultural,351.24,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Litani,Litani to Durjanpur Hasangarh Road and Phirni depth 2 acres,agricultural,351.24,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Litani,Prabhuwala Hisar and Litani Narwana Road depth 3-5 acres,agricultural,351.24,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Bithmara,Phirni depth 2 acres,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Bithmara,Phirni depth 3-5 acres,agricultural,351.24,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Pabra,Phirni depth 2 acres,agricultural,351.24,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,NayaGaon,Phirni and paved road depth 2 acres,agricultural,351.24,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,BhainiBadshahpur,Phirni depth 2 acres,agricultural,351.24,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Prabhuwala,Highway road depth 2 acres,agricultural,1033.06,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Prabhuwala,Highway depth 3-5 acres and Phirni depth 2 acres,agricultural,371.9,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,KallarBhaini,Highway road depth 2 acres,agricultural,1033.06,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,KallarBhaini,Highway depth 3-5 acres and Phirni depth 2 acres,agricultural,351.24,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,BhainiAkbarpur,Phirni and paved road depth 2 acres,agricultural,351.24,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Sahu,Phirni and paved road depth 2 acres,agricultural,351.24,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Chamarkhera,Roads to Khasa Pathana Kheri Pabda Sahu Saniana and Phirni depth 2 acres,agricultural,351.24,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Kanoh,Kanoh to Siwani Road depth 2 acres,agricultural,351.24,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Kanoh,Kanoh to Pabra Road depth 2 acres,agricultural,351.24,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Kanoh,Kanoh to Kirodi Road depth 2 acres,agricultural,351.24,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Kanoh,Kanoh to Balak Road depth 2 acres,agricultural,351.24,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Kanoh,Kanoh to Nahla Road depth 2 acres,agricultural,351.24,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Uklana,Kanoh,Kanoh to Sandol Road depth 2 acres,agricultural,351.24,2026-04-01,hisar_gov_in_dc_notification

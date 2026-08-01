@@ -1,0 +1,185 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Panipat,Madlauda,Atawala,Lal Dora Abadi Deh Plot,residential,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Atawala,Link Road both sides 3 acres,agricultural,550.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Atawala,Remaining area,agricultural,450.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Adiyana,Lal Dora Abadi Deh Plot,residential,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Adiyana,Link Road both sides 3 acres,agricultural,550.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Adiyana,Remaining area,agricultural,450.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Alupur,Lal Dora Abadi Deh Plot,residential,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Alupur,Link Road both sides,agricultural,470.45,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Alupur,Link Road both sides,agricultural,575.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Alupur,Remaining area,agricultural,450.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Ahmadpur,Lal Dora Abadi Deh Plot,residential,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Ahmadpur,Link Road both sides 3 acres,agricultural,550.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Ahmadpur,Remaining area,agricultural,500.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,AsanKhurd,Lal Dora Abadi Deh Plot,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,AsanKhurd,Link Road both sides 3 acres,agricultural,700.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Untla,Remaining area,agricultural,575.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Untla,Untla to Sutana,agricultural,750.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Untla,Untla Remaining area,agricultural,525.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Untla,Panipat Assandh Road both sides 3 acres,agricultural,1000.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Untla,Lal Dora Plot,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Untla,Link Road both sides 3 acres,agricultural,625.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Untla,Commercial,commercial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,UrlanaKalan,Lal Dora Abadi Deh Plot,residential,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,UrlanaKalan,Link Road both sides 3 acres,agricultural,575.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,UrlanaKalan,Link Road both sides 3 acres,agricultural,784.09,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,UrlanaKalan,Urlana Kalan to Chichhrana Link Road,agricultural,784.09,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,UrlanaKalan,Remaining area,agricultural,550.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,UrlanaKhurd,Lal Dora Abadi Plot,residential,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,UrlanaKhurd,Link Road both sides 3 acres,agricultural,750.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,UrlanaKhurd,Remaining area,agricultural,550.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Kavi,Kavi to Joshi both sides,agricultural,650.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Kavi,Kavi to Shera and Bhuslana,agricultural,625.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Kavi,Lal Dora Abadi Deh Plot,residential,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Kavi,Link Road both sides 3 acres,agricultural,700.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Kavi,Remaining area,agricultural,650.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Kalkhan,Kalkha to Bhadaud Brahman Majra Kard Link Road,agricultural,700.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Kalkhan,Lal Dora Abadi Deh Plot,residential,2530,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Kalkhan,Link Road both sides 3 acres,agricultural,627.27,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Kalkhan,Link Road both sides 3 acres,agricultural,784.09,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Kalkhan,Remaining area,agricultural,600.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Khandra,Assandh Panipat Road both sides 3 acres,agricultural,1500.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Khandra,Lal Dora Abadi Deh Plot,residential,3162.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Khandra,Link Road both sides 3 acres,agricultural,1375.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Khandra,Remaining area,agricultural,784.09,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Khukhrana,Khukhrana,agricultural,625.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Khukhrana,Panipat Assandh Road both sides 3 acres,agricultural,1363.64,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Khukhrana,Plots form,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Jauli,Link Road both sides 3 acres,agricultural,750.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Jauli,Karnal Road to Anta Road,agricultural,818.18,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Jauli,Lal Dora Abadi Deh Plot,residential,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Dumiyana,Link Road both sides 3 acres,agricultural,625.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Dumiyana,Remaining area,agricultural,522.73,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Dumiyana,Lal Dora Abadi Deh Plot,residential,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Dumiyana,Link Road both sides 3 acres,agricultural,550.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Dumiyana,Remaining area,agricultural,500.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Dariyapur,Lal Dora Abadi Plot,residential,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Dariyapur,Link Road both sides 3 acres,agricultural,575.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Dariyapur,Remaining area,agricultural,500.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Dharmgarh,Lal Dora Abadi Deh Plot,residential,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Dharmgarh,Link Road both sides 3 acres,agricultural,625.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Dharmgarh,Remaining area,agricultural,500.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Nayan,Lal Dora Abadi Deh Plot,residential,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Nayan,Link Road both sides 3 acres,agricultural,662.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Nayan,Remaining area,agricultural,550.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Nara,Assandh Road Commercial Plot,commercial,6325,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Nara,Joshi Road Chhota Nara both sides,agricultural,650.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Nara,Nara Remaining area,agricultural,575.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Nara,Panipat Assandh Road both sides 3 acres,agricultural,800.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Nara,Lal Dora and Abadi Deh Plot,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Nara,Link Road both sides 3 acres,agricultural,650.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Nauhra,Lal Dora Abadi Deh Plot,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Nauhra,Link Road both sides 3 acres,agricultural,650.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Nauhra,Remaining area,agricultural,550.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,BalJatan,Lal Dora Abadi Deh Plot,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,BalJatan,Link Road both sides 3 acres,agricultural,875.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,BalJatan,Remaining area,agricultural,738.64,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,BegampurBapnaud,Lal Dora Abadi Deh Plot,residential,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,BegampurBapnaud,Link Road both sides 3 acres,agricultural,550.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,BegampurBapnaud,Remaining area,agricultural,450.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Bauhali,GT Road to Bauhali Refinery both sides 3 acres,agricultural,1150.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Bauhali,Bauhali to Dadlan,agricultural,1150.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Bauhali,Lal Dora Abadi Deh Plot,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Bauhali,Link Road both sides 3 acres,agricultural,1150.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Bhandari,Remaining area,agricultural,683.11,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Bhandari,Lal Dora Abadi Deh Plot,residential,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Bhandari,Link Road both sides 3 acres,agricultural,550.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Bhadaud,Remaining area,agricultural,500.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Bhadaud,Bhadaud to Binjaul Road,agricultural,625.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Bhadaud,Lal Dora Abadi Deh Plot,residential,2530,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Bhadaud,Link Road both sides 3 acres,agricultural,625.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Bhadaud,Road Bhadaud to Kalkha,agricultural,681.82,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Bhalsi,Panipat Assandh Road both sides up to railway,commercial,14520,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Bhalsi,Panipat Assandh Road both sides 3 acres,agricultural,1250.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Bhalsi,Bhalsi Road to Thandi Road both sides 60 sqyd,commercial,16940,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Bhalsi,Bhalsi Remaining area,agricultural,805.79,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Bhalsi,Bhalsi to Thandi Road,agricultural,1250.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Bhalsi,Madlauda Bhalsi to Vaisar Road,agricultural,750.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Madlauda,Madlauda,agricultural,750.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Madlauda,Lal Dora and Abadi Deh Plot,residential,5445,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Madlauda,Link Road both sides 3 acres,agricultural,750.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Madlauda,Anaj Mandi Rajbaha Kavi Road 60 yards,commercial,14300,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Madlauda,Adiyana Mode to Madlauda Boundary,residential,4235,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Madlauda,Anaj Mandi Assandh Road Thandi Road,agricultural,1250.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Madlauda,Assandh Road Adiyana Road to Phatak,residential,8470,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Madlauda,Behind Assandh Road towards Adiyana,residential,6050,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Madlauda,Behind Assandh Road behind Petrol Pump,residential,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Madlauda,Abadi Deh Plots form,residential,5544,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Madlauda,Between Assandh Road and Railway line,agricultural,1375.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Madlauda,KSD School to Govt School,residential,7150,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Madlauda,Thandi Road up to 60 sqyd,commercial,16940,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Madlauda,New Anaj Mandi Madlauda,commercial,33522.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Madlauda,New Sabzi Mandi Madlauda,commercial,32065,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Madlauda,Panipat Assandh Road up to 3 acres,agricultural,1375.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Madlauda,Old Anaj Mandi,commercial,13310,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Madlauda,Remaining between Assandh Road Railway Thandi Kavi,agricultural,1375.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Madlauda,Village Remaining area,agricultural,681.82,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Madlauda,Housing Board Colony Madlauda,residential,26450,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Madlauda,Bus Stand Kavi Road Anaj Mandi 60 yards,commercial,21780,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Madlauda,Bala Mold Nath Colony to Assandh Road,residential,7260,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Madlauda,Madlauda Gaushala Road,agricultural,1190.08,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Madlauda,Madlauda to Adiyana Road,agricultural,750.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Madlauda,Madlauda to Village Shera Road,agricultural,1000.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Madlauda,Munshi Ram Colony,residential,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Madlauda,Link Road up to 3 acres,agricultural,875.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Madlauda,Vaisar Road Vishwakarma Mandir Vaisar limit 60 yards,commercial,8222.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Madlauda,Behind Vaisar Road towards Adiyana,residential,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Madlauda,Vaisar Road Bus Stand Vishwakarma Mandir 60 yards,commercial,9075,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Madlauda,Safidon Panipat Railway Colony,residential,6050,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Madlauda,Safidon-Panipat both sides Bhalsi Bus Stand to Adiyana Mode,commercial,14520,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Madlauda,Social Educational Institutions College Medical,residential,1815,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,MahmudeenThirana,Madlauda to Shera Link Road both sides 3 acres,agricultural,1375.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,MahmudeenThirana,Lal Dora Abadi Deh Plot,residential,3162.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,MahmudeenThirana,Link Road both sides 3 acres,agricultural,956.35,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,MahmudeenThirana,Remaining area,agricultural,625.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,RerKalan,Lal Dora Abadi Deh Plot,residential,3162.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,RerKalan,Link Road both sides 3 acres,agricultural,875.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,RerKalan,Link Road both sides 3 acres,agricultural,850.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,RerKalan,Remaining area,agricultural,731.82,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Lohari,Lal Dora Abadi Deh Plot,residential,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Lohari,Link Road both sides 3 acres,agricultural,653.41,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Lohari,Lohari to Vaisar Begampur Bapnaud Link Road 3 acres,agricultural,575.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Lohari,Remaining area,agricultural,470.45,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Vaisar,Vaisar,agricultural,470.45,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Vaisar,Lal Dora Abadi Deh Plot,residential,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Vaisar,Link Road both sides 3 acres,agricultural,600.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Vaisar,Vaisar to Dhulupar Lohari Link Road 3 acres,agricultural,550.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Vaisar,Remaining area,agricultural,522.73,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Vaisari,Lal Dora Abadi Deh Plot,residential,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Vaisari,Link Road both sides 3 acres,agricultural,600.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Vaisari,Vaisari to Untla and Vaisar Link Road 3 acres,agricultural,550.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Vaisari,Remaining area,agricultural,500.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Shadipur,Lal Dora Abadi Deh Plot,residential,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Shadipur,Link Road both sides 3 acres,agricultural,650.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Shadipur,Remaining area,agricultural,500.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Shera,Lal Dora Abadi Deh Plot,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Shera,Link Road both sides 3 acres,agricultural,784.09,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Shera,Remaining area,agricultural,550.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Shodhapur,Assandh Road both sides 1 acre,agricultural,812.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Shodhapur,Assandh Road both sides 1 acre,agricultural,1300.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Shodhapur,Abadi Deh and Plot,residential,4235,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Shodhapur,Commercial,commercial,14520,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Sithana,Commercial,commercial,14520,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Sithana,Remaining area,agricultural,960.23,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Sithana,Road both sides,agricultural,1000.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Sithana,GT Road to Bauhali Refinery 3 acres,agricultural,1375.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Sithana,Lal Dora Plot,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Sithana,Link Road both sides 3 acres,agricultural,1000.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Sutana,Remaining area,agricultural,750.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Sutana,Assandh Road 3 acres,agricultural,1300.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Sutana,Lal Dora Abadi Deh Plot,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Sutana,Link Road both sides 3 acres,agricultural,1090.91,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Shodhapur,Industrial Area,industrial,8000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Khukhrana,Industrial Area,industrial,8000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Nauhra,Industrial Area,industrial,8000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Untla,Industrial Area,industrial,8000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Madlauda,Industrial Area,industrial,8000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Bhalsi,Industrial Area,industrial,8000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Khandra,Industrial Area,industrial,8000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,MahmudeenThirana,Industrial Area,industrial,8000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,AsanKhurd,Industrial Area,industrial,8000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Atawala,Industrial Area,industrial,8000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Nayan,Industrial Area,industrial,8000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Sutana,Industrial Area,industrial,8000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Madlauda,Kalkhan,Industrial Area,industrial,8000,2026-04-01,panipat_gov_in_dc_notification

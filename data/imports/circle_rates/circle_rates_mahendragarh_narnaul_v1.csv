@@ -1,0 +1,461 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Mahendragarh,Narnaul,AbdulaNagar,Abdulanagar Chahi,agricultural,522.73,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,AbdulaNagar,Abdulanagar Nehri,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,AbdulaNagar,Abdulanagar Barani,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,AbdulaNagar,Abdulanagar Gair Mumkin,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,AbdulaNagar,Abdulanagar Jhund,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,AbdulaNagar,Abdulanagar,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,AbdulaNagar,Abdulanagar,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,AbdulaNagar,Link Road Up To 2 Acre,agricultural,625.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,AkbarpurRamu,Akbarpur Ramu Chahi,agricultural,522.73,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,AkbarpurRamu,Akbarpur Ramu Nehri,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,AkbarpurRamu,Akbarpur Ramu Barani,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,AkbarpurRamu,Akbarpur Ramu Gair Mumkin,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,AkbarpurRamu,Akbarpur Ramu Jhund,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,AkbarpurRamu,Akbarpur Ramu,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,AkbarpurRamu,Akbarpur Ramu,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,AkbarpurRamu,Link Road Up To 2 Acre,agricultural,625.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,AmarpurJorasi,Amarpur Jorasi Chahi,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,AmarpurJorasi,Amarpur Jorasi Nehri,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,AmarpurJorasi,Amarpur Jorasi Barani,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,AmarpurJorasi,Amarpur Jorasi Gair Mumkin,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,AmarpurJorasi,Amarpur Jorasi Jhund,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,AmarpurJorasi,Amarpur Jorasi,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,AmarpurJorasi,Amarpur Jorasi,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,AmarpurJorasi,Link Road Up To 2 Acre,agricultural,625.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,AzamNagar,Azam Nagar Chahi,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,AzamNagar,Azam Nagar Nehri,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,AzamNagar,Azam Nagar Barani,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,AzamNagar,Azam Nagar Gair Mumkin,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,AzamNagar,Azam Nagar Jhund,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,AzamNagar,Azam Nagar,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,AzamNagar,Azam Nagar,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,AzamNagar,Link Road Up To 2 Acre,agricultural,625.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Badopur,Badopur Chahi,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Badopur,Badopur Nehri,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Badopur,Badopur Barani,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Badopur,Badopur,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Badopur,Badopur,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Badopur,Link Road Up To 2 Acre,agricultural,625.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,BalahaKalan,Balaha Kalan Chahi,agricultural,522.73,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,BalahaKalan,Balaha Kalan ON ROAD 2 AREA BOTH SIDE,agricultural,2250.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,BalahaKhurd,Balaha Khurd,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Baproli,Baproli Chahi,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Baproli,Baproli Barani,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Baproli,Baproli Gair Mumkin,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Baproli,Baproli,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Baproli,Link Road Up To 2 Acre,agricultural,625.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Bargaon,Bargaon Chahi,agricultural,679.55,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Bargaon,ON ROAD BOTH SIDE 2 ACRE,agricultural,2250.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Barkoda,Barkoda Nehri,agricultural,575.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Barkoda,Link Road Up To 2 Acre,agricultural,938.53,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,BasKirarodUmrabad,Bas Kirarod Umrabad Chahi,agricultural,575.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,BasKirarodUmrabad,Bas Kirarod Umrabad,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,BasKirarodUmrabad,Bas Kirarod Umrabad,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,BasKirarodUmrabad,Link Road Up To 2 Acre,agricultural,718.75,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Bashirpur,BASHIRPUR Chahi,agricultural,1081.82,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Bashirpur,BASHIRPUR Nehri,agricultural,1081.82,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Bashirpur,BASHIRPUR Barani,agricultural,1018.18,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Bashirpur,BASHIRPUR Gair Mumkin,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Bashirpur,BASHIRPUR Jhund,agricultural,800.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Bashirpur,BASHIRPUR,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Bashirpur,BASHIRPUR,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Bashirpur,BASHIRPUR HSIIDC,agricultural,750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Bashirpur,Bashirpur ON ROAD 2 AREA BOTH SIDE,agricultural,2250.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Bashirpur,Link Road Up To 2 Acre,agricultural,1275.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Bhankhari,Bhankhari Chahi,agricultural,590.91,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Bhankhari,Bhankhari Chahi,agricultural,738.64,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Bhankhari,Bhankhari Nehri,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Bhankhari,Bhankhari Barani,agricultural,496.59,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Bhankhari,Bhankhari Gair Mumkin,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Bhankhari,Bhankhari Jhund,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Bhankhari,Bhankhari,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Bhankhari,Bhankhari,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Bhankhari,Bhankhari ON ROAD 2 AREA BOTH SIDE,agricultural,2250.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Bhankhari,Link Road Up To 2 Acre,agricultural,738.64,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,BhushanKalan,BHUSHAN KALAN Chahi,agricultural,601.14,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,BhushanKalan,BHUSHAN KALAN Nehri,agricultural,575.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,BhushanKalan,BHUSHAN KALAN Barani,agricultural,525.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,BhushanKalan,BHUSHAN KALAN Gair Mumkin,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,BhushanKalan,BHUSHAN KALAN Jhund,agricultural,525.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,BhushanKalan,BHUSHAN KALAN,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,BhushanKalan,BHUSHAN KALAN,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,BhushanKalan,Link Road Up To 2 Acre,agricultural,718.75,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,BhushanKalan,ON ROAD BOTH SIDE 2 ACRE,agricultural,2250.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,BhushanKhurd,BHUSHAN KHURD Chahi,agricultural,575.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,BhushanKhurd,BHUSHAN KHURD Nehri,agricultural,575.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,BhushanKhurd,BHUSHAN KHURD Barani,agricultural,525.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,BhushanKhurd,BHUSHAN KHURD Gair Mumkin,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,BhushanKhurd,BHUSHAN KHURD Jhund,agricultural,525.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,BhushanKhurd,BHUSHAN KHURD,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,BhushanKhurd,BHUSHAN KHURD,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,BhushanKhurd,Link Road Up To 2 Acre,agricultural,625.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,BhushanKhurd,ON ROAD BOTH SIDE 2 ACRE,agricultural,2250.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Buchakpur,BUCHAKPUR Chahi,agricultural,850.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Buchakpur,BUCHAKPUR Nehri,agricultural,850.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Buchakpur,BUCHAKPUR Barani,agricultural,800.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Buchakpur,BUCHAKPUR Gair Mumkin,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Buchakpur,BUCHAKPUR Jhund,agricultural,800.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Buchakpur,BUCHAKPUR,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Buchakpur,BUCHAKPUR,commercial,10290,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Buchakpur,Buchakpur On Road 2 Acre Both Side,agricultural,2454.55,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Buchakpur,Buchakpur On Road 2 Acre Both Side Barani,agricultural,2250.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Buchakpur,BY PASS ROAD,agricultural,3125.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Buchakpur,Link Road Up To 2 Acre,agricultural,1159.09,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Buchakpur,SINGHANA ROAD,agricultural,2475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Chindaliya,APPROACH ROAD 2 ACRE,agricultural,625.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Chindaliya,Chindaliya Chahi,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Chindaliya,Chindaliya Nehri,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Chindaliya,Chindaliya Barani,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Chindaliya,Chindaliya Gair Mumkin,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Chindaliya,Chindaliya Jhund,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Chindaliya,Chindaliya,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Chindaliya,Chindaliya,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Dancholi,APPROACH ROAD 2 ACRE,agricultural,625.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Dancholi,Dancholi Chahi,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Dancholi,Dancholi Nehri,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Dancholi,Dancholi Barani,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Dancholi,Dancholi Gair Mumkin,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Dancholi,Dancholi Jhund,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Dancholi,Dancholi,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Dancholi,Dancholi,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,DeroliAhir,APPROACH ROAD 2 ACRE,agricultural,625.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,DeroliAhir,Deroli Ahir Chahi,agricultural,545.45,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,DeroliAhir,Deroli Ahir Nehri,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,DeroliAhir,Deroli Ahir Barani,agricultural,496.59,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,DeroliAhir,Deroli Ahir Gair Mumkin,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,DeroliAhir,Deroli Ahir Jhund,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,DeroliAhir,Deroli Ahir,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,DeroliAhir,Deroli Ahir,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,DeroliAhir,Deroli Ahir ON ROAD 2 AREA BOTH SIDE,agricultural,2250.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,DeroliAhir,Deroli Ahir ON ROAD 2 AREA Jhund,agricultural,2250.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,DhaniBathotha,APPROACH ROAD 2 ACRE,agricultural,997.93,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,DhaniBathotha,DHANI BHATHOTHA Chahi,agricultural,855.37,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,DhaniBathotha,DHANI BHATHOTHA Nehri,agricultural,575.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,DhaniBathotha,DHANI BHATHOTHA Barani,agricultural,572.73,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,DhaniBathotha,DHANI BHATHOTHA Gair Mumkin,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,DhaniBathotha,DHANI BHATHOTHA Jhund,agricultural,525.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,DhaniBathotha,DHANI BHATHOTHA,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,DhaniBathotha,DHANI BHATHOTHA,commercial,10730,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Dhanuta,ON ROAD BOTH SIDE 2 ACRE,agricultural,2250.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Dhanuta,APPROACH ROAD 2 ACRE,agricultural,625.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Dhanuta,Dhanuta Chahi,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Dhanuta,Dhanuta Nehri,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Dhanuta,Dhanuta Barani,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Dhanuta,Dhanuta Gair Mumkin,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Dhanuta,Dhanuta Jhund,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Dhanuta,Dhanuta,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Dhanuta,Dhanuta,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Dharsoon,APPROACH ROAD 2 ACRE,agricultural,718.75,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Dharsoon,Dharsoon Chahi,agricultural,601.14,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Dharsoon,Dharsoon Nehri,agricultural,575.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Dharsoon,Dharsoon Barani,agricultural,548.86,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Dharsoon,Dharsoon Gair Mumkin,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Dharsoon,Dharsoon Jhund,agricultural,525.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Dharsoon,Dharsoon,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Dharsoon,Dharsoon,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Dochana,APPROACH ROAD 2 ACRE,agricultural,625.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Dochana,Dochana Chahi,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Dochana,Dochana Nehri,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Dochana,Dochana Barani,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Dochana,Dochana Gair Mumkin,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Dochana,Dochana Jhund,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Dochana,Dochana,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Dochana,Dochana,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,DoharKalan,APPROACH ROAD 2 ACRE,agricultural,795.45,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,DoharKalan,Dohar Kalan Chahi,agricultural,681.82,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,DoharKalan,Dohar Kalan Nehri,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,DoharKalan,Dohar Kalan Barani,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,DoharKalan,Dohar Kalan Gair Mumkin,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,DoharKalan,Dohar Kalan Jhund,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,DoharKalan,Dohar Kalan,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,DoharKalan,Dohar Kalan,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,DoharKhurd,APPROACH ROAD 2 ACRE,agricultural,625.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,DoharKhurd,Dohar Khurd Chahi,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,DoharKhurd,Dohar Khurd Nehri,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,DoharKhurd,Dohar Khurd Barani,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,DoharKhurd,Dohar Khurd Gair Mumkin,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,DoharKhurd,Dohar Khurd Jhund,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,DoharKhurd,Dohar Khurd,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,DoharKhurd,Dohar Khurd,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Dublana,APPROACH ROAD 2 ACRE,agricultural,718.75,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Dublana,Dublana Chahi,agricultural,575.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Dublana,Dublana Nehri,agricultural,575.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Dublana,Dublana Barani,agricultural,548.86,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Dublana,Dublana Gair Mumkin,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Dublana,Dublana Jhund,agricultural,525.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Dublana,Dublana,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Dublana,Dublana,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Dublana,ON ROAD BOTH SIDE 2 ACRE,agricultural,2250.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Faizabad,APPROACH ROAD 2 ACRE,agricultural,784.09,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Faizabad,Faizabad Chahi,agricultural,601.14,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Faizabad,Faizabad Nehri,agricultural,575.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Faizabad,Faizabad Barani,agricultural,548.86,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Faizabad,Faizabad Gair Mumkin,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Faizabad,Faizabad Jhund,agricultural,525.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Faizabad,Faizabad,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Faizabad,Faizabad,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Faizabad,Faizabad ON ROAD 2 AREA BOTH SIDE,agricultural,2250.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Faizalipur,APPROACH ROAD 2 ACRE FAIZALIPUR,agricultural,718.75,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Faizalipur,FAIZALIPUR Chahi,agricultural,575.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Faizalipur,FAIZALIPUR Nehri,agricultural,575.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Faizalipur,FAIZALIPUR,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Gahli,GAHLI Chahi,agricultural,681.82,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Gahli,GAHLI Nehri,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Gahli,GAHLI,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Ghatasher,Ghatasher,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Ghatasher,Ghatasher,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Ghatasher,GHATASHER HSIIDC Chahi,agricultural,850.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Ghatasher,GHATASHER HSIIDC Barani,agricultural,800.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Ghatasher,GHATASHER HSIIDC Gair Mumkin,residential,6655,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Ghatasher,GHATASHER HSIIDC Jhund,agricultural,800.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Ghatasher,GHATASHER HSIIDC,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Ghatasher,HSIIDC RATE GHATASHER,agricultural,750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,God,APPROACH ROAD 2 ACRE,agricultural,750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,God,GOAD Chahi,agricultural,636.36,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,God,GOAD Nehri,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,God,GOAD Barani,agricultural,604.55,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,God,GOAD Gair Mumkin,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,God,GOAD Jhund,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,God,GOAD,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,God,GOAD,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,God,GOAD ON ROAD 2 AREA BOTH SIDE,agricultural,2250.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,God,GOAD ON ROAD 2 AREA BOTH SIDE,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,God,GOAD ON ROAD 2 AREA BOTH SIDE,residential,8000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Guwani,APPROACH ROAD 2 ACRE,agricultural,926.65,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Guwani,Guwani Chahi,agricultural,819.73,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Guwani,Guwani Nehri,agricultural,601.14,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Guwani,Guwani Barani,agricultural,598.76,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Guwani,Guwani Gair Mumkin,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Guwani,Guwani Jhund,agricultural,525.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Guwani,Guwani,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Guwani,Guwani,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Guwani,ON ROAD BOTH SIDE 2 ACRE,agricultural,2250.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Hamindapur,APPROACH ROAD 2 ACRE,agricultural,625.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Hamindapur,Hamindapur ON ROAD 2 AREA BOTH SIDE,agricultural,2250.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Hamindapur,HAMINDPUR Chahi,agricultural,547.52,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Hamindapur,HAMINDPUR Nehri,agricultural,547.52,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Hamindapur,HAMINDPUR Barani,agricultural,518.18,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Hamindapur,HAMINDPUR Gair Mumkin,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Hamindapur,HAMINDPUR Jhund,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Hamindapur,HAMINDPUR,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Hamindapur,HAMINDPUR,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Hasanpur,APPROACH ROAD 2 ACRE,agricultural,805.79,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Hasanpur,HASANPUR Chahi,agricultural,712.81,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Hasanpur,HASANPUR Nehri,agricultural,636.36,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Hasanpur,HASANPUR Barani,agricultural,604.55,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Hasanpur,HASANPUR Gair Mumkin,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Hasanpur,HASANPUR Jhund,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Hasanpur,HASANPUR,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Hasanpur,HASANPUR,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Hazipur,APPROACH ROAD 2 ACRE,agricultural,625.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Hazipur,Hazipur Chahi,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Hazipur,Hazipur Nehri,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Hazipur,Hazipur Barani,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Hazipur,Hazipur Gair Mumkin,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Hazipur,Hazipur Jhund,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Hazipur,Hazipur,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Hazipur,Hazipur,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Hudina,APPROACH ROAD 2 ACRE,agricultural,997.93,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Hudina,Hudina Gair Mumkin,residential,6960,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Hudina,Hudina,residential,6960,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Hudina,Hudina,commercial,12380,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Hudina,Hudina ON ROAD 2 AREA BOTH SIDE,agricultural,2250.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Jadupur,APPROACH ROAD 2 ACRE,agricultural,625.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Jadupur,Jadupur,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Jailaf,APPROACH ROAD 2 ACRE,agricultural,625.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Jailaf,Jailaf Nehri,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Jailaf,Jailaf,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Jakhani,APPROACH ROAD 2 ACRE,agricultural,625.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Jakhani,Jakhani,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Jakhani,Jakhani,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,JatGuwana,Jat Guwana Gair Mumkin,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,JatGuwana,Link Road Up To 2 Acre,agricultural,718.75,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,JatGuwana,ON ROAD BOTH SIDE 2 ACRE,agricultural,2250.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kaloli,KALOLI,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kaloli,Kaloli ON ROAD 2 AREA BOTH SIDE,agricultural,2250.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kaloli,Link Road Up To 2 Acre,agricultural,625.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kanwariawas,KANWARIAWAS Nehri,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kanwariawas,KANWARIAWAS Barani,agricultural,496.59,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kanwariawas,KANWARIAWAS Gair Mumkin,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kanwariawas,KANWARIAWAS Jhund,agricultural,496.59,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kanwariawas,KANWARIAWAS,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kanwariawas,KANWARIAWAS,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kanwariawas,Link Road Up To 2 Acre,agricultural,816.12,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kanwariawas,Link Road Up To 2 Acre,commercial,66550,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kanwariawas,ON ROAD BOTH SIDE 2 ACRE,agricultural,3125.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kanwariawas,ON ROAD BOTH SIDE 2 ACRE,commercial,66550,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kanwi,KANWI Chahi,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kanwi,KANWI Nehri,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kanwi,KANWI Barani,agricultural,496.59,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kanwi,KANWI Gair Mumkin,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kanwi,KANWI Jhund,agricultural,496.59,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kanwi,KANWI,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kanwi,KANWI,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kanwi,Link Road Up To 2 Acre,agricultural,625.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kanwi,ON ROAD BOTH SIDE 2 ACRE,agricultural,2250.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Karota,APPROACH ROAD 2 ACRE,agricultural,625.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Karota,KAROTA Chahi,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Karota,KAROTA Nehri,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Karota,KAROTA Barani,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Karota,KAROTA Gair Mumkin,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Karota,KAROTA Jhund,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Karota,KAROTA,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Karota,KAROTA,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Khampura,Khampura Chahi,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Khampura,Khampura Nehri,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Khampura,Khampura Barani,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Khampura,Khampura Gair Mumkin,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Khampura,Khampura Jhund,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Khampura,Khampura,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Khampura,Khampura,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Khampura,Khampura ON ROAD 2 AREA BOTH SIDE,agricultural,2250.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Khampura,Link Road Up To 2 Acre,agricultural,625.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Khanpur,KHANPUR Chahi,agricultural,575.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Khanpur,KHANPUR Nehri,agricultural,575.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Khanpur,KHANPUR Barani,agricultural,525.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Khanpur,KHANPUR Gair Mumkin,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Khanpur,KHANPUR Jhund,agricultural,525.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Khanpur,KHANPUR,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Khanpur,KHANPUR,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Khanpur,Link Road Up To 2 Acre,agricultural,718.75,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Khanpur,ON ROAD BOTH SIDE 2 ACRE,agricultural,2250.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Khaspur,Khaspur Chahi,agricultural,545.45,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Khaspur,Khaspur Nehri,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Khaspur,Khaspur Barani,agricultural,496.59,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Khaspur,Khaspur Gair Mumkin,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Khaspur,Khaspur Jhund,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Khaspur,Khaspur,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Khaspur,Khaspur,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Khaspur,Khaspur ON ROAD 2 AREA BOTH SIDE,agricultural,2250.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Khaspur,Link Road Up To 2 Acre,agricultural,625.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Khataripur,Khataripur Chahi,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Khataripur,Khataripur Nehri,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Khataripur,Khataripur Barani,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Khataripur,Khataripur Gair Mumkin,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Khataripur,Khataripur Jhund,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Khataripur,Khataripur,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Khataripur,Khataripur,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Khataripur,Link Road Up To 2 Acre,agricultural,625.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,KhatotiKhurd,Khatoti Khurd Chahi,agricultural,743.8,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,KhatotiKhurd,Khatoti Khurd Nehri,agricultural,681.82,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,KhatotiKhurd,Khatoti Khurd Barani,agricultural,659.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,KhatotiKhurd,Khatoti Khurd Gair Mumkin,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,KhatotiKhurd,Khatoti Khurd Jhund,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,KhatotiKhurd,Khatoti Khurd,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,KhatotiKhurd,Khatoti Khurd,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,KhatotiKhurd,ON ROAD 2 AREA BOTH SIDE,agricultural,2250.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,KhatotiKhurd,Link Road Up To 2 Acre,agricultural,816.12,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,KhatotiSultanpur,Khatoti Sultanpur Chahi,agricultural,522.73,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,KhatotiSultanpur,Khatoti Sultanpur Nehri,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,KhatotiSultanpur,Khatoti Sultanpur Barani,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,KhatotiSultanpur,Khatoti Sultanpur Gair Mumkin,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,KhatotiSultanpur,Khatoti Sultanpur Jhund,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,KhatotiSultanpur,Khatoti Sultanpur,residential,6680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,KhatotiSultanpur,Khatoti Sultanpur,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,KhatotiSultanpur,Link Road Up To 2 Acre,agricultural,625.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Khorma,Khorma Chahi,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Khorma,Khorma Nehri,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Khorma,Khorma Barani,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Khorma,Khorma Gair Mumkin,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Khorma,Khorma Jhund,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Khorma,Khorma,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Khorma,Khorma,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Khorma,Link Road Up To 2 Acre,agricultural,625.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,KirarodAfgan,APPROACH ROAD 2 ACRE,agricultural,766.53,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,KirarodAfgan,Kirarod Afgan Chahi,agricultural,694.21,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,KirarodAfgan,Kirarod Afgan Nehri,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,KirarodAfgan,Kirarod Afgan Barani,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,KirarodAfgan,Kirarod Afgan Gair Mumkin,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,KirarodAfgan,Kirarod Afgan Jhund,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,KirarodAfgan,Kirarod Afgan,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,KirarodAfgan,Kirarod Afgan,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kojinda,APPROACH ROAD 2 ACRE,agricultural,625.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kojinda,HIGHWAY ON ROAD 2 ACRE,agricultural,2375.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kojinda,KOJINDA Chahi,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kojinda,KOJINDA Nehri,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kojinda,KOJINDA Barani,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kojinda,KOJINDA Gair Mumkin,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kojinda,KOJINDA Jhund,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kojinda,KOJINDA,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kojinda,KOJINDA,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kultajpur,KULTAJPUR Chahi,agricultural,545.45,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kultajpur,KULTAJPUR Nehri,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kultajpur,KULTAJPUR Barani,agricultural,496.59,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kultajpur,KULTAJPUR Gair Mumkin,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kultajpur,KULTAJPUR Jhund,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kultajpur,KULTAJPUR,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kultajpur,KULTAJPUR,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kultajpur,Link Road Up To 2 Acre,agricultural,625.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kutbapur,Kutbapur Chahi,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kutbapur,Kutbapur Nehri,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kutbapur,Kutbapur Barani,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kutbapur,Kutbapur Gair Mumkin,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kutbapur,Kutbapur Jhund,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kutbapur,Kutbapur,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kutbapur,Kutbapur,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Kutbapur,ON ROAD BOTH SIDE 2 ACRE,agricultural,2250.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Lehroda,APPROACH ROAD 2 ACRE,agricultural,938.53,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Lehroda,Lehroda Chahi,agricultural,855.37,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Lehroda,Lehroda,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Lehroda,Lehroda,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Lehroda,Lehroda ON ROAD 2 AREA BOTH SIDE,agricultural,2250.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Lutufpur,APPROACH ROAD 2 ACRE,agricultural,625.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Lutufpur,LUTAFPUR Nehri,agricultural,640.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Lutufpur,LUTAFPUR,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Lutufpur,ON ROAD BOTH SIDE 2 ACRE,agricultural,3125.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Lutufpur,Ved Colony,residential,11000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Maharampur,APPROACH ROAD 2 ACRE,agricultural,625.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Maharampur,APPROACH ROAD 2 ACRE Jhund,agricultural,625.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Maharampur,Maharampur Chahi,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Maharampur,Maharampur Nehri,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Maharampur,Maharampur Barani,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Maharampur,Maharampur Jhund,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Maharampur,Maharampur,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Maharampur,Maharampur,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Maksuspur,APPROACH ROAD 2 ACRE,agricultural,625.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Maksuspur,MAKSUSPUR Chahi,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Maksuspur,MAKSUSPUR Nehri,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Maksuspur,MAKSUSPUR Barani,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Maksuspur,MAKSUSPUR Gair Mumkin,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Maksuspur,MAKSUSPUR Jhund,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Maksuspur,MAKSUSPUR,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Maksuspur,MAKSUSPUR,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Maksuspur,ON ROAD 2 AREA BOTH SIDE,agricultural,2250.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Maloli,APPROACH ROAD 2 ACRE,agricultural,625.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Maloli,MALOLI Chahi,agricultural,522.73,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Maloli,MALOLI Nehri,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Maloli,MALOLI Barani,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Maloli,MALOLI Gair Mumkin,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Maloli,MALOLI Jhund,agricultural,496.59,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Maloli,MALOLI,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Maloli,MALOLI,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Mandhana,APPROACH ROAD 2 ACRE,agricultural,718.75,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Mandhana,Both side road upto 2 Acre,agricultural,2250.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Mandhana,MANDHANA Chahi,agricultural,627.27,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Mandhana,MANDHANA Nehri,agricultural,575.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Mandhana,MANDHANA Barani,agricultural,525.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Mandhana,MANDHANA Gair Mumkin,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Mandhana,MANDHANA Jhund,agricultural,525.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Mandhana,MANDHANA,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Mandhana,MANDHANA,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Mandlana,APPROACH ROAD 2 ACRE,agricultural,625.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Mandlana,Mandlana Chahi,agricultural,545.45,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Mandlana,Mandlana Nehri,agricultural,545.45,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Mandlana,Mandlana Barani,agricultural,518.18,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Mandlana,Mandlana Gair Mumkin,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Mandlana,Mandlana Jhund,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Mandlana,Mandlana,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Mandlana,Mandlana,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Mandlana,National Highway upto 2 Acre,agricultural,2250.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Meerpur,APPROACH ROAD 2 ACRE,agricultural,914.77,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Meerpur,MEERPUR Chahi,agricultural,731.82,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Meerpur,MEERPUR Nehri,agricultural,575.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Meerpur,MEERPUR Barani,agricultural,525.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Meerpur,MEERPUR Gair Mumkin,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Meerpur,MEERPUR Jhund,agricultural,525.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Meerpur,MEERPUR,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Meerpur,MEERPUR,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Meerpur,Patikara ki Sarhad,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Meerpur,Patikara ki Sarhad,commercial,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Narnaul,Meerpur,Meerpur ON ROAD 2 AREA BOTH SIDE,agricultural,3150.0,2026-04-01,mahendragarh_gov_in_dc_notification

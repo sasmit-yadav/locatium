@@ -1,0 +1,579 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Yamunanagar,Chhachhrauli,अलीपुरा,अलीपुरा,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,अलीपुरा,अलीपुरा,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,अलीपुरा,अलीपुरा,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,अलीपुरा,अलीपुरा,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,अलीपुरा,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,अहमदमाजरा,अहमदमाजरा,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,अहमदमाजरा,अहमदमाजरा,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,अहमदमाजरा,अहमदमाजरा,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,अहमदमाजरा,अहमदमाजरा,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,अहमदमाजरा,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,अहसाहबपुर,अहसाहबपुर,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,अहसाहबपुर,अहसाहबपुर,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,अहसाहबपुर,अहसाहबपुर,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,अहसाहबपुर,अहसाहबपुर,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,अहसाहबपुर,अहसाहबपुर लेडीरोड,agricultural,648.76,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,अहसाहबपुर,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,ईब्राहिमपुर,ईब्राहिमपुर,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,ईब्राहिमपुर,ईब्राहिमपुर,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,ईब्राहिमपुर,ईब्राहिमपुर,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,ईब्राहिमपुर,ईब्राहिमपुर,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,ईब्राहिमपुर,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,उर्जनी,Urjani Barani,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,उर्जनी,Urjani Gairmumkin,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,उर्जनी,उर्जनी,agricultural,469.01,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,उर्जनी,उर्जनी,agricultural,444.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,उर्जनी,उर्जनी,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,उर्जनी,उर्जनी,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,उर्जनी,उर्जनी से पोटा रोड,agricultural,873.97,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,उर्जनी,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,कोटमुश्तरका,कोट मुश्तरका प्राईम,agricultural,673.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,कोटमुश्तरका,कोटमुश्तरका,agricultural,515.6,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,कोटमुश्तरका,कोटमुश्तरका,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,कोटमुश्तरका,कोटमुश्तरका,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,कोटमुश्तरका,कोटमुश्तरका,commercial,6375,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,कोटमुश्तरका,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,कोटडाकाहनसिंह,कोटडाकाहनसिंह,agricultural,550.62,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,कोटडाकाहनसिंह,कोटडाकाहनसिंह,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,कोटडाकाहनसिंह,कोटडाकाहनसिंह,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,कोटडाकाहनसिंह,कोटडाकाहनसिंह,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,कोटडाकाहनसिंह,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,कोटबसावासिंह,कोटबसावा सिंह,agricultural,560.43,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,कोटबसावासिंह,कोटबसावा सिंह,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,कोटबसावासिंह,कोटबसावा सिंह,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,कोटबसावासिंह,कोटबसावा सिंह,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,कोटबसावासिंह,कोटबसावासिंह ताहरपुर रोड,agricultural,623.97,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,कोटबसावासिंह,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,कोटसरकारी,कोट सरकारी प्राईम,agricultural,623.97,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,कोटसरकारी,कोटसरकारी,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,कोटसरकारी,कोटसरकारी,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,कोटसरकारी,कोटसरकारी,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,कोटसरकारी,कोटसरकारी,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,कोटसरकारी,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,खदरी,Khadri Gairmumkin,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,खदरी,Khadri.,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,खदरी,खदरी,agricultural,444.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,खदरी,खदरी,agricultural,392.56,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,खदरी,खदरी,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,खदरी,खदरी,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,खदरी,खदरी बी के डी रोड,agricultural,673.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,खदरी,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,खनपुरा,खनपुरा,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,खनपुरा,खनपुरा,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,खनपुरा,खनपुरा,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,खनपुरा,खनपुरा,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,खनपुरा,खनपुरा प्राईम,agricultural,623.97,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,खनपुरा,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,खनपुरी,खनपुरी,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,खनपुरी,खनपुरी,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,खनपुरी,खनपुरी,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,खनपुरी,खनपुरी,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,खनपुरी,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,खेडकी,खेडकी,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,खेडकी,खेडकी,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,खेडकी,खेडकी,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,खेडकी,खेडकी,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,खेडकी,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,खोलफतेहगढ़,खोलफतेहगढ़,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,खोलफतेहगढ़,खोलफतेहगढ़,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,खोलफतेहगढ़,खोलफतेहगढ़,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,खोलफतेहगढ़,खोलफतेहगढ़,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,खोलफतेहगढ़,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,गनौला,गनौला,agricultural,500.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,गनौला,गनौला,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,गनौला,गनौला,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,गनौला,गनौला,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,गनौला,गनौला--छछरौली से बिलासपुर रोड,agricultural,750.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,गनौली,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,गनौली,Ganauli Barani,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,गनौली,Ganauli Gairmumkin,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,गनौली,गनौली,agricultural,522.73,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,गनौली,गनौली,agricultural,444.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,गनौली,गनौली,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,गनौली,गनौली,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,गनौली,गनौली -छछरौली से बिलासपुर रोड,agricultural,750.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,गोवर्धनपुर,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,गोवर्धनपुर,गोवर्धनपुर,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,गोवर्धनपुर,गोवर्धनपुर,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,गोवर्धनपुर,गोवर्धनपुर,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,गोवर्धनपुर,गोवर्धनपुर,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,चगनौली,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,चगनौली,चगनौली जगाधरी बिलासपुर रोड,agricultural,1173.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,चगनौली,चगनौली,agricultural,524.79,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,चगनौली,चगनौली,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,चगनौली,चगनौली,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,चाउवाला,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,चाउवाला,चाउवाला,agricultural,655.99,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,चाउवाला,चाउवाला,agricultural,524.79,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,चाउवाला,चाउवाला,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,चाउवाला,चाउवाला,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,चाउवाला,प्राईम लैण्ड,agricultural,1099.17,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,चुहडपुरखुर्द,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,चुहडपुरखुर्द,चुहडपुर खुर्द से पोंटा रोड,agricultural,1000.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,चुहडपुरखुर्द,चुहडपुरखुर्द,agricultural,448.35,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,चुहडपुरखुर्द,चुहडपुरखुर्द,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,चुहडपुरखुर्द,चुहडपुरखुर्द,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,चुहडपुरखुर्द,चुहडपुरखुर्द,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,चुहडपुरमंगलसिंह,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,चुहडपुरमंगलसिंह,चुहडपुर मंगल सिंह प्राईम,agricultural,623.97,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,चुहडपुरमंगलसिंह,चुहडपुरमंगलसिंह,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,चुहडपुरमंगलसिंह,चुहडपुरमंगलसिंह,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,चुहडपुरमंगलसिंह,चुहडपुरमंगलसिंह,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,चुहडपुरमंगलसिंह,चुहडपुरमंगलसिंह,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,चैनटा,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,चैनटा,चनेटा प्राईम,agricultural,1123.97,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,चैनटा,चैनटा,agricultural,524.79,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,चैनटा,चैनटा,agricultural,475.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,चैनटा,चैनटा,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,चैनटा,चैनटा,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,छछरौली,Chhahhrauli Barani,agricultural,698.35,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,छछरौली,Chhahhrauli Gairmumkin,agricultural,698.35,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,छछरौली,ंगनोलीगेट से मेन बाजार,residential,6500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,छछरौली,ंगनोलीगेट से मेन बाजार,commercial,15800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,छछरौली,अनाज मण्डी छछरौली,commercial,24000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,छछरौली,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,छछरौली,छछरौली से पोंटा रोड,agricultural,1049.59,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,छछरौली,छछरौली,agricultural,731.4,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,छछरौली,छछरौली,residential,6300,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,छछरौली,छछरौली,commercial,15750,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,छछरौली,छछरौली मेन बाजार,residential,12400,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,छछरौली,छछरौली मेन बाजार,commercial,22100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,छछरौली,छछरौली से बिलासपुर रोड,agricultural,873.97,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,छछरौली,छछरौली से लेदी रोड,agricultural,799.59,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,छोटादमौपुरा,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,छोटादमौपुरा,छोटादमौपुरा,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,छोटादमौपुरा,छोटादमौपुरा,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,छोटादमौपुरा,छोटादमौपुरा,residential,4875,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,छोटादमौपुरा,छोटादमौपुरा,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,छोटादमौपुरा,छोटादमौपुरा बी के डी रोड,agricultural,698.35,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,जंगलमेहरनीवाला,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,जंगलमेहरनीवाला,जंगलमेहरनीवाला,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,जंगलमेहरनीवाला,जंगलमेहरनीवाला,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,जंगलमेहरनीवाला,जंगलमेहरनीवाला,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,जंगलमेहरनीवाला,जंगलमेहरनीवाला,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,जटहेडी,Jagadhri-Bilaspur Road to Jatheri,agricultural,1000.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,जटहेडी,Jateheri Barani,agricultural,524.79,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,जटहेडी,Jateheri Gairmumkin,agricultural,524.79,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,जटहेडी,Jateheri to Leda Khas,agricultural,966.94,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,जटहेडी,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,जटहेडी,जटहेडी,agricultural,547.52,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,जटहेडी,जटहेडी,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,जटहेडी,जटहेडी,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,जटहेडी,जटहेडी जगाधरी बिलासपुर रोड,agricultural,1049.59,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,जयरामपुरखालसा,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,जयरामपुरखालसा,जयरामपुर खालसा प्राइम,agricultural,648.76,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,जयरामपुरखालसा,जयरामपुरखालसा,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,जयरामपुरखालसा,जयरामपुरखालसा,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,जयरामपुरखालसा,जयरामपुरखालसा,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,जयरामपुरखालसा,जयरामपुरखालसा,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,जाटांवाला,Jatanwala,agricultural,521.69,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,जाटांवाला,Jatanwala,agricultural,365.7,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,जाटांवाला,Jatanwala,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,जाटांवाला,Jatanwala,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,जाटांवाला,Jattanwala Barani,agricultural,351.24,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,जाटांवाला,Jattanwala Gairmumkin,agricultural,351.24,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,जाटांवाला,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,जैयधर,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,जैयधर,जैयधर,agricultural,515.6,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,जैयधर,जैयधर,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,जैयधर,जैयधर,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,जैयधर,जैयधर,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,जैयधरी,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,जैयधरी,छछरौली से पोटारोड नज शहाजनपुर,agricultural,873.97,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,जैयधरी,जैयधरी,agricultural,448.35,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,जैयधरी,जैयधरी,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,जैयधरी,जैयधरी,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,जैयधरी,जैयधरी,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,टापुजैयधर,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,टापुजैयधर,टापुजैयधर,agricultural,448.35,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,टापुजैयधर,टापुजैयधर,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,टापुजैयधर,टापुजैयधर,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,टापुजैयधर,टापुजैयधर,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,टिब्बीअराईयां,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,टिब्बीअराईयां,टिब्बी अराईयां,agricultural,448.35,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,टिब्बीअराईयां,टिब्बी अराईयां,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,टिब्बीअराईयां,टिब्बी अराईयां,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,टिब्बीअराईयां,टिब्बी अराईयां,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,डमौली,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,डमौली,डमौली,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,डमौली,डमौली,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,डमौली,डमौली,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,डमौली,डमौली,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,डारपुर,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,डारपुर,डारपुर,agricultural,398.76,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,डारपुर,डारपुर,agricultural,351.24,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,डारपुर,डारपुर,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,डारपुर,डारपुर,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,ढाकवाला,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,ढाकवाला,ढाकवाला,agricultural,582.85,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,ढाकवाला,ढाकवाला,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,ढाकवाला,ढाकवाला,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,ढाकवाला,ढाकवाला,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,तारनवाला,Taranwala Barani,agricultural,524.79,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,तारनवाला,Taranwala Gairmumkin,agricultural,524.79,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,तारनवाला,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,तारनवाला,तारनवाला,agricultural,629.65,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,तारनवाला,तारनवाला,agricultural,547.52,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,तारनवाला,तारनवाला,residential,4400,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,तारनवाला,तारनवाला,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,तारनवाला,प्राईम लैण्ड,agricultural,1000.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,तारूवाला,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,तारूवाला,तारूवाला,agricultural,448.35,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,तारूवाला,तारूवाला,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,तारूवाला,तारूवाला,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,तारूवाला,तारूवाला,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,ताहरपुरकलां,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,ताहरपुरकलां,ताहरपुरकलां,agricultural,487.09,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,ताहरपुरकलां,ताहरपुरकलां,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,ताहरपुरकलां,ताहरपुरकलां,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,ताहरपुरकलां,ताहरपुरकलां,commercial,5800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,ताहरपुरकलां,ताहरपुरकलां प्राईम,agricultural,623.97,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,ताहरी,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,ताहरी,ताहरी,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,ताहरी,ताहरी,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,ताहरी,ताहरी,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,ताहरी,ताहरी,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,तिहानो,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,तिहानो,तिहानो,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,तिहानो,तिहानो,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,तिहानो,तिहानो,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,तिहानो,तिहानो,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,तिहानो,तिहानो प्राईम,agricultural,648.76,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,तुगलपुर,Tgalpur Barani,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,तुगलपुर,Tgalpur Gairmumkin,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,तुगलपुर,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,तुगलपुर,तुगलपुर,agricultural,444.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,तुगलपुर,तुगलपुर,agricultural,392.56,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,तुगलपुर,तुगलपुर,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,तुगलपुर,तुगलपुर,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,तुगलपुर,तुगलपुर प्राइम,agricultural,623.97,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,दसौरा,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,दसौरा,दसौरा,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,दसौरा,दसौरा,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,दसौरा,दसौरा,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,दसौरा,दसौरा,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,दादपुरजाटां,Dadupur Jattan Barani,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,दादपुरजाटां,Dadupur Jattan Gairmumkin,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,दादपुरजाटां,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,दादपुरजाटां,दादपुर जाटान डारपुर रोड,agricultural,648.76,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,दादपुरजाटां,दादपुरजाटां,agricultural,444.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,दादपुरजाटां,दादपुरजाटां,agricultural,392.56,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,दादपुरजाटां,दादपुरजाटां,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,दादपुरजाटां,दादपुरजाटां,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,दादपुरमालियान,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,दादपुरमालियान,दादपुरमालियान,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,दादपुरमालियान,दादपुरमालियान,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,दादपुरमालियान,दादपुरमालियान,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,दादपुरमालियान,दादपुरमालियान,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,दादपुरमालियान,दादपुर मालियान प्राईम,agricultural,623.97,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,दौलतपुर,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,दौलतपुर,दौलतपुर,agricultural,448.35,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,दौलतपुर,दौलतपुर,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,दौलतपुर,दौलतपुर,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,दौलतपुर,दौलतपुर,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,नाहरताहरपुर,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,नाहरताहरपुर,नाहरताहरपुर,agricultural,741.22,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,नाहरताहरपुर,नाहरताहरपुर,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,नाहरताहरपुर,नाहरताहरपुर,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,नाहरताहरपुर,नाहरताहरपुर,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,नाहरताहरपुर,नाहरताहरपुर के लेदीरोड पार,agricultural,648.76,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,पीपलीमाजरा,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,पीपलीमाजरा,पिपली माजरा से पोंटा रोड,agricultural,873.97,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,पीपलीमाजरा,पीपलीमाजरा,agricultural,448.35,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,पीपलीमाजरा,पीपलीमाजरा,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,पीपलीमाजरा,पीपलीमाजरा,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,पीपलीमाजरा,पीपलीमाजरा,commercial,5300,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,पीरूवाला,Piruwala Barani,agricultural,524.79,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,पीरूवाला,Piruwala Gairmumkin,agricultural,524.79,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,पीरूवाला,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,पीरूवाला,पीरूवाला,agricultural,547.52,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,पीरूवाला,पीरूवाला,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,पीरूवाला,पीरूवाला,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,पीरूवाला,पीरूवाला जगाधरी बिलासपुर रोड,agricultural,1099.17,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,पैजेटों,Panjeton Barani,agricultural,698.35,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,पैजेटों,Panjeton Gairmumkin,agricultural,698.35,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,पैजेटों,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,पैजेटों,पैजेटों प्राइम पोटा रोड,agricultural,1250.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,पैजेटों,पैजेटों प्राइम पोटा रोड,residential,4800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,पैजेटों,पैजेटों प्राइम पोटा रोड,commercial,11400,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,पैजेटों,पैजेटों,agricultural,731.4,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,पैजेटों,पैजेटों,residential,4000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,पैजेटों,पैजेटों,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,फकीरमाजरा,Fakir Majra Barani,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,फकीरमाजरा,Fakir Majra Gairmumkin,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,फकीरमाजरा,गैर मुमकिन फैक्टरी,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,फकीरमाजरा,फकीर माजरा प्राइम,agricultural,623.97,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,फकीरमाजरा,फकीरमाजरा,agricultural,444.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,फकीरमाजरा,फकीरमाजरा,agricultural,392.56,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,फकीरमाजरा,फकीरमाजरा,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,फकीरमाजरा,फकीरमाजरा,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,फेरुवाला,Jagadhri-Bilaspur Road to Pheruwala,agricultural,1000.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,फेरुवाला,Jagadhri-Bilaspur Road to Ramkheri,agricultural,1000.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,फेरुवाला,Pheruwala to Changnauli,agricultural,799.59,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,फेरुवाला,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,फेरुवाला,फेरुवाला,agricultural,918.39,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,फेरुवाला,फेरुवाला,agricultural,524.79,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,फेरुवाला,फेरुवाला,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,फेरुवाला,फेरुवाला,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,फेरुवाला,फेरुवाला जगाधरी बिलासपुर रोड,agricultural,1099.17,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,बच्चों,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,बच्चों,बच्चों,agricultural,448.35,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,बच्चों,बच्चों,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,बच्चों,बच्चों,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,बच्चों,बच्चों,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,बदादमौपुरा,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,बदादमौपुरा,बदादमौपुरा,agricultural,529.44,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,बदादमौपुरा,बदादमौपुरा,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,बदादमौपुरा,बदादमौपुरा,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,बदादमौपुरा,बदादमौपुरा,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,बनसतौर,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,बनसतौर,बनसतौर,agricultural,529.44,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,बनसतौर,बनसतौर,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,बनसतौर,बनसतौर,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,बनसतौर,बनसतौर,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,बनसतौर,भगवनपुरउर्फबनसतौर प्राईम,agricultural,623.97,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,बरौलीमाजरा,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,बरौलीमाजरा,बरौली माजरा प्राईम,agricultural,623.97,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,बरौलीमाजरा,बरौलीमाजरा,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,बरौलीमाजरा,बरौलीमाजरा,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,बरौलीमाजरा,बरौलीमाजरा,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,बरौलीमाजरा,बरौलीमाजरा,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,बलौली,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,बलौली,बलौली,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,बलौली,बलौली,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,बलौली,बलौली,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,बलौली,बलौली,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,बीडताहरपुर,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,बीडताहरपुर,बीडताहरपुर,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,बीडताहरपुर,बीडताहरपुर,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,बीडताहरपुर,बीडताहरपुर,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,बीडताहरपुर,बीडताहरपुर,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,बीडताहरपुर,बीडताहरपुर,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,बेगमपुर,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,बेगमपुर,बेगमपुर,agricultural,448.35,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,बेगमपुर,बेगमपुर,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,बेगमपुर,बेगमपुर,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,बेगमपुर,बेगमपुर,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,भीलपुरा,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,भीलपुरा,भीलपुरा,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,भीलपुरा,भीलपुरा,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,भीलपुरा,भीलपुरा,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,भीलपुरा,भीलपुरा,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,भीलपुरा,भीलपुरा छछरौली से पौटारोड,agricultural,898.76,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,भूलखेडी,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,भूलखेडी,भूलखेडी,agricultural,448.35,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,भूलखेडी,भूलखेडी,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,भूलखेडी,भूलखेडी,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,भूलखेडी,भूलखेडी,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,भेडथल,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,भेडथल,भेडथल,agricultural,524.79,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,भेडथल,भेडथल,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,भेडथल,भेडथल,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,भेडथल,भेडथल से पोंटी रोड,agricultural,873.97,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,भेडथल,भेडथल से बुढेडी रोड,agricultural,1099.17,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,भेडथल,भेडथल से मँधार रोड,agricultural,799.59,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,भेडथल,भेडथल से महमदपुर,agricultural,1099.17,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मडौलींगगड,गैर मुमकिन फैक्टरी,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मडौलींगगड,मडौलींगगड,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मडौलींगगड,मडौलींगगड,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मडौलींगगड,मडौलींगगड,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मडौलींगगड,मडौलींगगड,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मलकपुरखादर,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मलकपुरखादर,मलकपुर खादर से पौटारोड,agricultural,847.11,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मलकपुरखादर,मलकपुरखादर,agricultural,515.6,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मलकपुरखादर,मलकपुरखादर,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मलकपुरखादर,मलकपुरखादर,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मलकपुरखादर,मलकपुरखादर,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,महमदुपुर,Mahmoodpur Barani,agricultural,524.79,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,महमदुपुर,Mahmoodpur Gairmumkin,agricultural,524.79,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,महमदुपुर,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,महमदुपुर,महमदुपुर,agricultural,547.52,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,महमदुपुर,महमदुपुर,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,महमदुपुर,महमदुपुर,commercial,6375,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,महमदुपुर,महमूदपुर जगाधरी बिलासपुर रोड,agricultural,1250.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,माण्डखेडी,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,माण्डखेडी,माण्डखेडी,agricultural,673.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,माण्डखेडी,माण्डखेडी,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,माण्डखेडी,माण्डखेडी,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मानीपुर,Manipur Barani,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मानीपुर,Manipur Gairmumkin,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मानीपुर,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मानीपुर,मानीपुर,agricultural,444.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मानीपुर,मानीपुर,agricultural,392.56,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मानीपुर,मानीपुर,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मानीपुर,मानीपुर,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मीरपुर,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मीरपुर,मीरपुर,agricultural,623.97,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मीरपुर,मीरपुर,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मीरपुर,मीरपुर,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मीरमयनपुर,मीरमयनपुर प्राइम,agricultural,648.76,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मीरमयनपुर,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मीरमयनपुर,मीरमयनपुर,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मीरमयनपुर,मीरमयनपुर,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मीरमयनपुर,मीरमयनपुर,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मीरमयनपुर,मीरमयनपुर,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मुकारबपुर317,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मुकारबपुर317,मुकारबपुर 317,agricultural,774.79,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मुकारबपुर317,मुकारबपुर 317,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मुकारबपुर317,मुकारबपुर 317,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मुकारबपुर317,मुकारबपुर से पौंटा रोड,agricultural,1250.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मुकारबपुर317,मुकारबपुर से पौंटा रोड,residential,4700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मुकारबपुर317,मुकारबपुर से पौंटा रोड,commercial,11400,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मुडांखेडा,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मुडांखेडा,मुडांखेडा प्राईम पोंटा रोड,agricultural,1250.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मुडांखेडा,मुडांखेडा प्राईम पोंटा रोड,residential,4700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मुडांखेडा,मुडांखेडा प्राईम पोंटा रोड,commercial,11400,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मुडांखेडा,मुडांखेडा,agricultural,1222.11,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मुडांखेडा,मुडांखेडा,agricultural,698.35,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मुडांखेडा,मुडांखेडा,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मुडांखेडा,मुडांखेडा,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मूकारबपुर181,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मूकारबपुर181,मूकारबपुर 181,agricultural,448.35,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मूकारबपुर181,मूकारबपुर 181,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मूकारबपुर181,मूकारबपुर 181,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मूकारबपुर181,मूकारबपुर 181,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मैहरमाजरा,Mehar Majra Barani,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मैहरमाजरा,Mehar Majra Gairmumkin,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मैहरमाजरा,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मैहरमाजरा,प्राईम लैंड,agricultural,1000.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मैहरमाजरा,मैहरमाजरा,agricultural,444.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मैहरमाजरा,मैहरमाजरा,agricultural,392.56,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मैहरमाजरा,मैहरमाजरा,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मैहरमाजरा,मैहरमाजरा,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मोहबलीवाला,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मोहबलीवाला,मोहबलीवाला,agricultural,448.35,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मोहबलीवाला,मोहबलीवाला,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मोहबलीवाला,मोहबलीवाला,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,मोहबलीवाला,मोहबलीवाला,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,याकुबपुर,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,याकुबपुर,याकुबपुर,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,याकुबपुर,याकुबपुर,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,याकुबपुर,याकुबपुर,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,याकुबपुर,याकुबपुर,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,यारा,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,यारा,यारा,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,यारा,यारा,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,यारा,यारा,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,यारा,यारा,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,रामखेडी,Ramkheri Barani,agricultural,524.79,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,रामखेडी,Ramkheri Gairmumkin,agricultural,524.79,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,रामखेडी,Ramkheri to Pheruwala Road,agricultural,950.41,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,रामखेडी,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,रामखेडी,रामखेडी,agricultural,629.65,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,रामखेडी,रामखेडी,agricultural,547.52,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,रामखेडी,रामखेडी,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,रामखेडी,रामखेडी,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,रामखेडी,रामखेडी जगाधरी बिलासपुर रोड,agricultural,1173.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,रामगढ़उर्फअर्जनमाजरा,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,रामगढ़उर्फअर्जनमाजरा,रामगढ़ उर्फ अर्जनमाजरा,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,रामगढ़उर्फअर्जनमाजरा,रामगढ़ उर्फ अर्जनमाजरा,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,रामगढ़उर्फअर्जनमाजरा,रामगढ़ उर्फ अर्जनमाजरा,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,रामगढ़उर्फअर्जनमाजरा,रामगढ़ उर्फ अर्जनमाजरा,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,रायपुर,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,रायपुर,रायपुर,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,रायपुर,रायपुर,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,रायपुर,रायपुर,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,रायपुर,रायपुर,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,लेदाखादर,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,लेदाखादर,लेदाखादर,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,लेदाखादर,लेदाखादर,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,लेदाखादर,लेदाखादर,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,लेदाखादर,लेदाखादर,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,लेदाखास,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,लेदाखास,लेदाखास,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,लेदाखास,लेदाखास,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,लेदाखास,लेदाखास,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,लेदाखास,लेदाखास,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,लेदी,Ledi Barani,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,लेदी,Ledi Gairmumkin,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,लेदी,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,लेदी,छछरौली से लेदी रोड,agricultural,799.59,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,लेदी,लेदी,agricultural,444.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,लेदी,लेदी,agricultural,392.56,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,लेदी,लेदी,residential,4800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,लेदी,लेदी,commercial,10000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,लेदी,लेदी से कोट रोड,agricultural,799.59,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,लेदी,लेदी से खिजराबाद रोड,agricultural,799.59,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,लेदी,लेदी से बिलासपुर रोड,agricultural,799.59,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,लोपां,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,लोपां,लोपां,agricultural,487.09,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,लोपां,लोपां,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,लोपां,लोपां,residential,4000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,लोपां,लोपां,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,लोपां,लोपो प्राइम,agricultural,623.97,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,शेरपुर,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,शेरपुर,शेरपुर,agricultural,475.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,शेरपुर,शेरपुर,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,शेरपुर,शेरपुर,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,शेरपुर,शेरपुर,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,शेरपुर,शेरपुर से पोंटा रोड,agricultural,1000.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,शहजांनपुर,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,शहजांनपुर,शहजांनपुर छछरौली से पोंटा रोड,agricultural,898.76,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,शहजांनपुर,शहजांनपुर,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,शहजांनपुर,शहजांनपुर,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,शहजांनपुर,शहजांनपुर,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,शहजांनपुर,शहजांनपुर,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,सखेडां,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,सखेडां,सखेडां,agricultural,448.35,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,सखेडां,सखेडां,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,सखेडां,सखेडां,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,सखेडां,सखेडां,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,सलेमपुरखादर,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,सलेमपुरखादर,सलेमपुरखादर,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,सलेमपुरखादर,सलेमपुरखादर,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,सलेमपुरखादर,सलेमपुरखादर,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,सलेमपुरखादर,सलेमपुरखादर,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,सलेमपुरखादर,सलेमपुरखादर की लेदी रोड पर,agricultural,648.76,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,साहबदीनपुरकलां,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,साहबदीनपुरकलां,साहबदीनपुरकलां प्राईम,agricultural,623.97,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,साहबदीनपुरकलां,साहबदीनपुरकलां,agricultural,487.09,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,साहबदीनपुरकलां,साहबदीनपुरकलां,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,साहबदीनपुरकलां,साहबदीनपुरकलां,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,साहबदीनपुरकलां,साहबदीनपुरकलां,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,साहबदीनपुरखुर्द,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,साहबदीनपुरखुर्द,साहबदीन खुर्द प्राईम,agricultural,623.97,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,साहबदीनपुरखुर्द,साहबदीनपुरखुर्द,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,साहबदीनपुरखुर्द,साहबदीनपुरखुर्द,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,साहबदीनपुरखुर्द,साहबदीनपुरखुर्द,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,साहबदीनपुरखुर्द,साहबदीनपुरखुर्द,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,सिधपुरां,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,सिधपुरां,सिधपुरा,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,सिधपुरां,सिधपुरा,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,सिधपुरां,सिधपुरा,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,सिधपुरां,सिधपुरा,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,सिपियांवाला,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,सिपियांवाला,सिपियांवाला,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,सिपियांवाला,सिपियांवाला,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,सिपियांवाला,सिपियांवाला,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,सिपियांवाला,सिपियांवाला,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,सिपियांवाला,सिपियांवाला प्राईम,agricultural,623.97,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,हडौली,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,हडौली,हडौली प्राईम,agricultural,623.97,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,हडौली,हडौली,agricultural,487.09,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,हडौली,हडौली,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,हडौली,हडौली,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,हडौली,हडौली,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,हरेवा,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,हरेवा,हरेवा,agricultural,448.35,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,हरेवा,हरेवा,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,हरेवा,हरेवा,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,हरेवा,हरेवा,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,हाफजपुर,Hafijpur Barani,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,हाफजपुर,Hafijpur Gairmumkin,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,हाफजपुर,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,हाफजपुर,हाफजपुर,agricultural,469.01,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,हाफजपुर,हाफजपुर,agricultural,444.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,हाफजपुर,हाफजपुर,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,हाफजपुर,हाफजपुर,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,हाफजी,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,हाफजी,हाफजी,agricultural,515.6,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,हाफजी,हाफजी,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,हाफजी,हाफजी,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,हाफजी,हाफजी,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,हाफजी,हाफजी प्राईम,agricultural,599.17,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,हैदरपुर,गैर मुमकिन फैक्ट्री,commercial,3600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,हैदरपुर,हैदरपुर,agricultural,423.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,हैदरपुर,हैदरपुर,agricultural,371.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,हैदरपुर,हैदरपुर,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Chhachhrauli,हैदरपुर,हैदरपुर,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification

@@ -2,19 +2,20 @@
   "models": [
     {
       "name": "investment-scoring",
-      "version": "investment-v1",
+      "version": "investment-v2",
       "status": "deployed",
       "row_count": 30,
       "min_training_rows": 25,
       "degraded": false,
-      "artifact": "investment-v1.joblib",
-      "confidence": 0.895,
+      "artifact": "investment-v2.joblib",
+      "confidence": 0.572,
       "metrics": {
-        "r2": 0.895,
-        "mae": 3.45,
-        "confidence": 0.895
+        "r2": 0.5724,
+        "mae": 10.05,
+        "confidence": 0.572
       },
-      "trained_at": "2026-07-20T12:22:23.892631+00:00"
+      "trained_at": "2026-07-23T12:45:32.080727+00:00",
+      "feature_set": "spatial_v1+land_v1"
     }
   ]
 }

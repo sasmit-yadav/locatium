@@ -1,0 +1,99 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Kaithal,Dhand,ढाण्ड,ढाण्ड,agricultural,671.49,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,ढाण्ड,ढाण्ड,residential,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,ढाण्ड,प्राईम रेट,agricultural,1146.69,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,सलेमपुरमहदुद,सलेमपुर महदुद,agricultural,526.86,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,सलेमपुरमहदुद,सलेमपुर महदुद,residential,2600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,पबनावा,पबनावा,agricultural,526.86,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,पबनावा,पबनावा,residential,2600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,पबनावा,प्राईम रेट,agricultural,867.77,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,पबनावा,बस स्टैण्ड पबनावा,residential,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,पबनावा,बस स्टैण्ड पबनावा,commercial,8000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,पबनावा,बाईपास से कुरुक्षेत्र रोड मौजा पबनावा,residential,2800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,पबनावा,बाईपास से कुरुक्षेत्र रोड मौजा पबनावा (किल्ला विस्तार),residential,15000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,पाबला,पाबला,agricultural,526.86,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,पाबला,पाबला,residential,2600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,चन्दलाना,चन्दलाना,agricultural,526.86,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,चन्दलाना,चन्दलाना,residential,2800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,चन्दलाना,प्राईम रेट,agricultural,867.77,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,कौल,कौल,agricultural,526.86,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,कौल,कौल,residential,2600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,कौल,प्राईम रेट,agricultural,867.77,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,कौल,बस स्टैण्ड कौल,residential,8500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,संगरौली,संगरौली,agricultural,526.86,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,संगरौली,संगरौली,residential,2600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,धेरडु,धेरडु,agricultural,526.86,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,धेरडु,धेरडु,residential,2600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,चुहडमाजरा,चुहड माजरा,agricultural,526.86,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,चुहडमाजरा,चुहड माजरा,residential,2600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,चुहडमाजरा,प्राईम रेट,agricultural,867.77,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,सोहलुमाजरा,सोहलु माजरा,agricultural,526.86,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,सोहलुमाजरा,सोहलु माजरा,residential,2600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,सोहलुमाजरा,प्राईम रेट,agricultural,867.77,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,जाजनपुर,जाजनपुर,agricultural,526.86,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,जाजनपुर,जाजनपुर,residential,2600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,जाजनपुर,प्राईम रेट,agricultural,867.77,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,डडवाना,डडवाना,agricultural,526.86,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,डडवाना,डडवाना,residential,2600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,डडवाना,प्राईम रेट,agricultural,867.77,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,साकरा,साकरा,agricultural,547.52,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,साकरा,साकरा,residential,2600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,साकरा,प्राईम रेट,agricultural,867.77,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,खेडीसाकरा,खेडी साकरा,agricultural,526.86,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,खेडीसाकरा,खेडी साकरा,residential,2600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,आहु,आहु,agricultural,526.86,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,आहु,आहु,residential,2800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,फरल,फरल,agricultural,526.86,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,फरल,फरल,residential,2600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,फरल,प्राईम रेट,agricultural,867.77,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,फरल,बस स्टैण्ड फरल,residential,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,खेडीमटरवा,खेडी मटरवा,agricultural,526.86,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,खेडीमटरवा,खेडी मटरवा,residential,2600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,खेडीमटरवा,प्राईम रेट,agricultural,867.77,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,जडौला,जडौला,agricultural,526.86,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,जडौला,जडौला,residential,2600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,म्यौली,म्यौली,agricultural,526.86,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,म्यौली,म्यौली,residential,2600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,म्यौली,प्राईम रेट,agricultural,867.77,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,रावणहेडा,रावणहेडा,agricultural,526.86,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,रावणहेडा,रावणहेडा,residential,2600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,बन्दराना,बन्दराना,agricultural,526.86,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,बन्दराना,बन्दराना,residential,2600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,खेडीरायवाली,खेडी रायवाली,agricultural,526.86,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,खेडीरायवाली,खेडी रायवाली,residential,2600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,खेडीरायवाली,प्राईम रेट,agricultural,785.12,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,बेगपुर,बेगपुर,agricultural,526.86,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,बेगपुर,बेगपुर,residential,2600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,रसुलपुर,रसुलपुर,agricultural,526.86,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,रसुलपुर,रसुलपुर,residential,2600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,पौबाला,पौबाला,agricultural,526.86,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,पौबाला,पौबाला,residential,2600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,ढाण्ड,नई अनाज मण्डी,commercial,36500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,ढाण्ड,पुरानी अनाज मण्डी,commercial,32500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,ढाण्ड,बाबा बिहारी चौक से कु. रोड बाईपास तक,commercial,26500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,ढाण्ड,बाबा बिहारी चौक से कु. रोड बाईपास तक,residential,4800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,ढाण्ड,ब्रह्मानन्द चौक से रेलवे फाटक तक व आगे,commercial,26000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,ढाण्ड,ब्रह्मानन्द चौक से रेलवे फाटक तक व आगे,residential,4800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,ढाण्ड,ब्रह्मानन्द से बाईपास धर्म कांटा तक,commercial,20000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,ढाण्ड,ब्रह्मानन्द से बाईपास धर्म कांटा तक,residential,4800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,ढाण्ड,बाईपास से कुरुक्षेत्र रोड पर कन्या महाविद्यालय से पहले बाद में,commercial,20000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,ढाण्ड,बाईपास से कुरुक्षेत्र रोड पर कन्या महाविद्यालय से पहले बाद में,residential,4800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,ढाण्ड,बस स्टैण्ड से मण्डी की तरफ,commercial,26000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,ढाण्ड,बस स्टैण्ड से मण्डी की तरफ,residential,4800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,ढाण्ड,सब्जी मण्डी के अन्दर व सामने,commercial,20000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,ढाण्ड,सब्जी मण्डी के अन्दर व सामने,residential,4800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,ढाण्ड,"ब्रह्मानन्द चौक से कौल रोड, कैथल रोड, पुण्डरी रोड, पेहवा रोड, कुरुक्षेत्र रोड",commercial,20000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,ढाण्ड,"ब्रह्मानन्द चौक से कौल रोड, कैथल रोड, पुण्डरी रोड, पेहवा रोड, कुरुक्षेत्र रोड",residential,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,ढाण्ड,रजबाह से मण्डी की तरफ,commercial,20000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,ढाण्ड,रजबाह से मण्डी की तरफ,residential,4800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,ढाण्ड,बाबा बिहारी चौक से कैथल रोड की तरफ,commercial,20000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,ढाण्ड,बाबा बिहारी चौक से कैथल रोड की तरफ,residential,4800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,ढाण्ड,रजवाह व कैथल रोड के बीच पीर कलौनी,commercial,15000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,ढाण्ड,रजवाह व कैथल रोड के बीच पीर कलौनी,residential,3100,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,ढाण्ड,रेलवे कलौनी व कैथल रोड के बीच बाल्मिकी कलौनी के साथ,commercial,15000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,ढाण्ड,रेलवे कलौनी व कैथल रोड के बीच बाल्मिकी कलौनी के साथ,residential,3100,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,ढाण्ड,रजवाह के साथ मण्डी की तरफ व पेहवा रोड से कुरुक्षेत्र रोड के बीच रिहायशी प्लाट,residential,5300,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,ढाण्ड,अनाज मण्डी के सामने,residential,5300,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,ढाण्ड,"ब्रह्मानन्द चौक से कुरुक्षेत्र रोड, बाईपास से कुरुक्षेत्र रोड",residential,5300,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,ढाण्ड,जहाँ दर निर्धारित नहीं,residential,5000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Dhand,ढाण्ड,जहाँ दर निर्धारित नहीं,commercial,18000,2026-04-01,kaithal_gov_in_dc_notification

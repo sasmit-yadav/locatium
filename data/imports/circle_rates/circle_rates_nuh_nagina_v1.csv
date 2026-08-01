@@ -1,0 +1,383 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Nuh,Nagina,AklimpurNuh,Aklimpur Nuh,agricultural,363.64,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,AklimpurNuh,Aklimpur Nuh,agricultural,250.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,AklimpurNuh,Aklimpur Nuh,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,AklimpurNuh,Aklimpur Nuh,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,AklimpurNuh,Access road up to 2 acres depth,agricultural,386.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,AklimpurF.pur,Aklimpur F.pur,agricultural,363.64,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,AklimpurF.pur,Aklimpur F.pur,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,AklimpurF.pur,Aklimpur F.pur,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Asaiska,Access road up to 2 acres depth,agricultural,386.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Asaiska,Asaiska,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Asaiska,Asaiska,residential,1210,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Asaiska,Asaiska,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Asaiska,Dheli to Alwar,agricultural,1136.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Asaiska,Dheli to Alwar,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Asaiska,Dheli to Alwar,residential,5500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Asaiska,Dheli to Alwar,commercial,27500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,AternaShamshabad,Badwakki Chowk to Asaiska,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,AternaShamshabad,Badwakki Chowk to Asaiska,residential,1210,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,AternaShamshabad,Badwakki Chowk to Asaiska,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,AternaShamshabad,Nagina to Hodal,agricultural,681.82,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,AternaShamshabad,Access road up to 2 acres depth,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,AternaShamshabad,Badkali Chowk to Aterna Shamshabad,residential,5500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,AternaShamshabad,Badkali Chowk to Aterna Shamshabad,commercial,27500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Badarpur,Along State highway Beyond 150 mtrs,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Badarpur,Along State highway upto 150 mtrs,agricultural,795.45,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Badarpur,Badarpur,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Badarpur,Badarpur,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Badarpur,Badarpur,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Bahadri,Access road up to 2 acres depth,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Bahadri,Bahadri,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Bahadri,Bahadri,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Bahadri,Bahadri,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Banarsi,Banarsi,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Banarsi,Access road up to 2 acres depth,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Balai,Balai,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Balai,Balai,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Balai,Balai,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Balai,Access road up to 2 acres depth,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Banarsi,Banarsi,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Banarsi,Banarsi,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,BasaiKhanjada,Basai Khanjada,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,BasaiKhanjada,Basai Khanjada,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,BasaiKhanjada,Basai Khanjada,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,BasaiKhanjada,Main road up to 2 acres depth,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Bazidpur,Along State Highway Beyond 150 mtrs,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Bazidpur,Along State Highway upto 150 mtrs,agricultural,727.27,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Bazidpur,Bazidpur,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Bazidpur,Bazidpur,agricultural,227.27,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Bazidpur,Access road up to 2 acres depth,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Bazidpur,Access road up to 2 acres depth,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Bazidpur,Access road up to 2 acres depth,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Bhadas,Along State Highway beyond 150 mtrs,agricultural,568.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Bhadas,Along State Highway upto 150 mtrs,agricultural,1136.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Bhadas,Bhadas,agricultural,568.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Bhadas,Bhadas,residential,1391.5,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Bhadas,Bhadas,commercial,1850,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Bhadas,Dheli to Alwar,agricultural,1477.27,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Bhadas,Dheli to Alwar,residential,5500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Bhadas,Dheli to Alwar,commercial,27500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Bhadas,Under Lal Dora,residential,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Bhadas,Access road up to 2 acres depth,agricultural,568.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Bhadas,Badkali Chowk to Bhadas,residential,1210,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Bhadas,Badkali Chowk to Bhadas,commercial,4950,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Bukharaka,Along State Highway beyond 150 mtrs,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Bukharaka,Along State Highway upto 150 mtrs,agricultural,795.45,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Bukharaka,Bukharaka,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Bukharaka,Bukharaka,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Bukharaka,Bukharaka,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Bukharaka,Access road up to 2 acres depth,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Bukharaka,Bukharaka,agricultural,250.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,DhadholiKalan,Dhadholi Kalan,agricultural,363.64,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,DhadholiKalan,Dhadholi Kalan,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,DhadholiKalan,Dhadholi Kalan,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,DhadholiKalan,Access road up to 2 acres depth,agricultural,397.73,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,DungranSahjedpur,Along State Highway beyond 150 mtrs,agricultural,397.73,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,DungranSahjedpur,Along State Highway upto 150 mtrs,agricultural,397.73,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,DungranSahjedpur,Along State Highway upto 150 mtrs,agricultural,795.45,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,DungranSahzadpur,Along State highway upto 150 mtrs,agricultural,692.15,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,DungranSahzadpur,Dungran Sahzadpur,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,DungranSahzadpur,Dungran Sahzadpur,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,DungranSahzadpur,Dungran Sahzadpur,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,DungranSahzadpur,Access road up to 2 acres depth,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,F.PurDehar,Badkali to Punhana Road,agricultural,886.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,F.PurDehar,F.Pur Dehar,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,F.PurDehar,F.Pur Dehar,agricultural,250.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,F.PurDehar,F.Pur Dehar,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,F.PurDehar,F.Pur Dehar,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,F.PurDehar,Nuh road up to 2 acres depth,agricultural,500.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,FakarpurKhori,Fakarpur Khori,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,FakarpurKhori,Fakarpur Khori,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,FakarpurKhori,Fakarpur Khori,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,FakarpurKhori,Access road up to 2 acres depth,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Ganduri,Ganduri,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Ganduri,Ganduri,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Ganduri,Ganduri,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Ganduri,Access road up to 2 acres depth,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Ghagas,Ghagas,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Ghagas,Ghagas,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Ghagas,Ghagas,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Ghagas,Access road up to 2 acres depth,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Gohana,Gohana,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Gohana,Gohana,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Gohana,Gohana,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Gohana,Access road up to 2 acres depth,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Gohana,Access road up to 2 acres depth,agricultural,500.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,GujarNangla,Gujar Nangla,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,GujarNangla,Gujar Nangla,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,GujarNangla,Gujar Nangla,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,GumatBihari,Gumat Bihari,agricultural,427.69,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,GumatBihari,Gumat Bihari,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,GumatBihari,Gumat Bihari,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,GumatBihari,Gumat Bihari,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,GumatBihari,Access road up to 2 acres depth,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Hassanpurnuh,Hassanpur nuh,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Hassanpurnuh,Hassanpur nuh,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Hassanpurnuh,Hassanpur nuh,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Hassanpurnuh,Access road up to 2 acres depth,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Huhuka,Huhuka,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Huhuka,Huhuka,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Huhuka,Huhuka,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Huhuka,Access road up to 2 acres depth,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Imamnagar,Imam nagar,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Imamnagar,Imam nagar,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Imamnagar,Imam nagar,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Imamnagar,Access road up to 2 acres depth,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Jaitaka,Jaitaka,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Jaitaka,Jaitaka,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Jaitaka,Jaitaka,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Jaitaka,Access road up to 2 acres depth,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,JalalpurF.pur,Jalalpur F.pur,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,JalalpurF.pur,Jalalpur F.pur,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,JalalpurF.pur,Jalalpur F.pur,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,JalalpurF.pur,Access road up to 2 acres depth,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,JalalpurNuh,Jalalpur Nuh,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,JalalpurNuh,Jalalpur Nuh,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,JalalpurNuh,Jalalpur Nuh,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,JalalpurNuh,Access road up to 2 acres depth,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Jargali,Jargali,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Jargali,Jargali,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Jargali,Jargali,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Jargali,Access road up to 2 acres depth,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Jhimrawat,Jhimrawat,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Jhimrawat,Jhimrawat,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Jhimrawat,Jhimrawat,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Jhimrawat,Access road up to 2 acres depth,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Kansali,Kansali,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Kansali,Kansali,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Kansali,Kansali,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Kansali,Access road up to 2 acres depth,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,KarheraF.pur,Karhera F.pur,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,KarheraF.pur,Karhera F.pur,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,KarheraF.pur,Karhera F.pur,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,KarheraF.pur,Access road up to 2 acres depth,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Kaheri,Kaheri,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Kaheri,Kaheri,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Kaheri,Kaheri,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Kaheri,Access road up to 2 acres depth,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,KhanMohd.pur,Khan Mohd. pur,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,KhanMohd.pur,Khan Mohd. pur,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,KhanMohd.pur,Khan Mohd. pur,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,KhanMohd.pur,Access road up to 2 acres depth,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,KhanpurGhati,Dheli to Alwar,agricultural,681.82,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,KhanpurGhati,Khanpur Ghati,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,KhanpurGhati,Khanpur Ghati,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,KhanpurGhati,Khanpur Ghati,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,KhanpurGhati,Access road up to 2 acres depth,agricultural,522.73,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,KhanpurNuh,Khanpur Nuh,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,KhanpurNuh,Khanpur Nuh,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,KhanpurNuh,Khanpur Nuh,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,KhanpurNuh,Access road up to 2 acres depth,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Kherlikalan,Kherli kalan,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Kherlikalan,Kherli kalan,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Kherlikalan,Kherli kalan,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Kherlikalan,Access road up to 2 acres depth,agricultural,568.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Kherlinuh,Dheli to Alwar,agricultural,1477.27,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Kherlinuh,Kherli nuh,agricultural,619.83,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Kherlinuh,Kherli nuh,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Kherlinuh,Kherli nuh,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Kherlinuh,Kherli nuh,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Kherlinuh,Access road up to 2 acres depth,agricultural,500.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Khuspuri,Along State Highway beyond 150 mtrs,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Khuspuri,Along State Highway upto 150 mtrs,agricultural,727.27,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Khuspuri,Khuspuri,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Khuspuri,Khuspuri,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Khuspuri,Khuspuri,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Khuspuri,Access road up to 2 acres depth,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Kultazpurkalan,Kultazpur kalan,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Kultazpurkalan,Kultazpur kalan,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Kultazpurkalan,Kultazpur kalan,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Kultazpurkalan,Access road up to 2 acres depth,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Madhi,Dheli to Alwar,agricultural,1477.27,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Madhi,Dheli to Alwar,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Madhi,Dheli to Alwar,commercial,26620,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Madhi,Madhi,agricultural,831.61,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Madhi,Madhi,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Madhi,Madhi,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Madhi,Madhi,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Madhi,Access road up to 2 acres depth,agricultural,500.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,MandiKhera,Dheli to Alwar,agricultural,1590.91,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,MandiKhera,Dheli to Alwar,residential,27500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,MandiKhera,Dheli to Alwar,commercial,27500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,MandiKhera,Mandi Khera,agricultural,1123.45,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,MandiKhera,Mandi Khera,agricultural,568.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,MandiKhera,Mandi Khera,residential,1725,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,MandiKhera,Mandi Khera,commercial,2250,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,MandiKhera,Access road up to 2 acres depth,agricultural,568.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,MandiKhera,Badkali Chowk to Mandi Khera,residential,5500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,MandiKhera,Badkali Chowk to Mandi Khera,commercial,27500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Marora,Marora,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Marora,Marora,agricultural,227.27,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Marora,Marora,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Marora,Marora,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Marora,Nagina to Hodal,agricultural,795.45,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Marora,Access road up to 2 acres depth,agricultural,568.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Mau,Mau,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Mau,Mau,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Mau,Mau,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Mau,Access road up to 2 acres depth,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Mohd.nagar,Mohd. nagar,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Mohd.nagar,Mohd. nagar,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Mohd.nagar,Mohd. nagar,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Mohd.nagar,Nagina to Hodal,agricultural,795.45,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Mohd.nagar,Nagina to Hodal,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Mohd.nagar,Nagina to Hodal,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Mohd.nagar,Access road up to 2 acres depth,agricultural,500.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Mohd.nagar,Access road up to 2 acres depth,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Mohd.nagar,Access road up to 2 acres depth,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Molhoka,Molhoka,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Molhoka,Molhoka,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Molhoka,Molhoka,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Molhoka,Access road up to 2 acres depth,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Moolthan,Moolthan,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Moolthan,Moolthan,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Moolthan,Moolthan,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Moolthan,Access road up to 2 acres depth,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,Nagina,residential,5500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,Nagina,commercial,12100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,Nagina,commercial,9900,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,Nagina,commercial,26620,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,Badkali Chowk to Atema Shamshabad,residential,5500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,Badkali Chowk to Atema Shamshabad,commercial,26620,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,Firni of Nagina Kasba,residential,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,Firni of Nagina Kasba,commercial,10500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,Mandikhera to Bhadas,residential,5500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,Mandikhera to Bhadas,commercial,27500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,Nagina Hodal Road,agricultural,1136.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,Nagina Hodal Road,residential,5500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,Nagina Hodal Road,commercial,27500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,Nagina Mohalla,agricultural,568.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,Nagina Mohalla,residential,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,Nagina Mohalla,commercial,27500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,Nagina Mohalla,residential,3630,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,Nagina Rural Beyond 100 Meter,agricultural,568.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,Nagina Rural Beyond 100 Meter,residential,5500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,Nagina Rural Beyond 100 Meter,commercial,27500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,Nagina Rural upto depth 100 Meter,agricultural,743.8,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,Nagina Rural upto depth 100 Meter,agricultural,712.81,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,Nagina Rural upto depth 100 Meter,agricultural,681.82,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,Nagina Rural upto depth 100 Meter,residential,5500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,Nagina Rural upto depth 100 Meter,commercial,26620,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,Nagina to Badkli Chowk,agricultural,795.45,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,Nagina to Badkli Chowk,residential,5500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,Nagina to Badkli Chowk,commercial,33000,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,National Highway Beyond 200 Meter,agricultural,594.01,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,National Highway Beyond 200 Meter,residential,5500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,National Highway Beyond 200 Meter,commercial,26620,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,National Highway upto depth 200 Meter,agricultural,2130.68,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,National Highway upto depth 200 Meter,residential,6875,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,National Highway upto depth 200 Meter,commercial,27500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,Shops in Nagina Baajar & Badkal Chowk,agricultural,568.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,Shops in Nagina Baajar & Badkal Chowk,commercial,27500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,State Highway & Major Road Beyond 150 Meter,agricultural,613.64,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,State Highway & Major Road Beyond 150 Meter,residential,5500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,State Highway & Major Road Beyond 150 Meter,commercial,27500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,State Highway & Major Road upto depth 150 Meter,agricultural,1136.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,State Highway & Major Road upto depth 150 Meter,residential,5500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,State Highway & Major Road upto depth 150 Meter,commercial,27500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,Sub Tehsil to BDPO Office,residential,5500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,Sub Tehsil to BDPO Office,commercial,8800,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,Under Laldora in Nagina,agricultural,568.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,Under Laldora in Nagina,residential,5500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nagina,Under Laldora in Nagina,commercial,26620,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nainangla,Nai nangla,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nainangla,Nai nangla,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nainangla,Nai nangla,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nainangla,Access road up to 2 acres depth,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,NangalMubarikpur,Nangal Mubarikpur,agricultural,511.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,NangalMubarikpur,Nangal Mubarikpur,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,NangalMubarikpur,Nangal Mubarikpur,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,NangalMubarikpur,Nangal Mubarikpur,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,NangalMubarikpur,Access road up to 2 acres depth,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nangalsabat,Nangal sabat,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nangalsabat,Nangal sabat,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nangalsabat,Nangal sabat,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nangalsabat,Access road up to 2 acres depth,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nangalshahpur,Nangal shahpur,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nangalshahpur,Nangal shahpur,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nangalshahpur,Nangal shahpur,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Nangalshahpur,Access road up to 2 acres depth,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Notki,Notki,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Notki,Notki,agricultural,402.89,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Notki,Notki,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Notki,Notki,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Notki,Notki,agricultural,365.91,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Notki,Access road up to 2 acres depth,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,PatakpurF.Pur,Patakpur F.Pur,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,PatakpurF.Pur,Patakpur F.Pur,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,PatakpurF.Pur,Patakpur F.Pur,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,PatakpurF.Pur,Access road up to 2 acres depth,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Pithorpuri,Dheli to Alwar,agricultural,1704.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Pithorpuri,Dheli to Alwar,residential,5500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Pithorpuri,Dheli to Alwar,commercial,27500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Pithorpuri,Pithorpuri,agricultural,681.82,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Pithorpuri,Pithorpuri,residential,2887.5,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Pithorpuri,Pithorpuri,commercial,2550,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Pithorpuri,Access road up to 2 acres depth,agricultural,681.82,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Pithorpuri,Access road up to 2 acres depth,residential,5500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Pithorpuri,Access road up to 2 acres depth,commercial,27500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Pithorpuri,Badkali Chowk to Pithorpuri,residential,5500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Pithorpuri,Badkali Chowk to Pithorpuri,commercial,27500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Rajaka,Dheli to Alwar,agricultural,1477.27,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Rajaka,Rajaka,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Rajaka,Rajaka,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Rajaka,Rajaka,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Rajaka,Access road up to 2 acres depth,agricultural,500.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Ranika,Ranika,agricultural,654.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Ranika,Ranika,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Ranika,Ranika,residential,1595,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Ranika,Ranika,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Ranika,Access road up to 2 acres depth,agricultural,500.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Ranyalapatakpur,Along State Highway beyond 150 mtrs,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Ranyalapatakpur,Along State Highway upto 150 mtrs,agricultural,795.45,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Ranyalapatakpur,Ranyala patakpur,agricultural,511.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Ranyalapatakpur,Ranyala patakpur,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Ranyalapatakpur,Ranyala patakpur,residential,1375,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Ranyalapatakpur,Ranyala patakpur,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Ranyalapatakpur,Access road up to 2 acres depth,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Rithad,Rithad,agricultural,568.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Rithad,Rithad,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Rithad,Rithad,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Rithad,Rithad,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Rithad,Access road up to 2 acres depth,agricultural,500.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Sadpur,Sadpur,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Sadpur,Sadpur,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Sadpur,Sadpur,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Sadpur,Access road up to 2 acres depth,agricultural,500.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Saral,Saral,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Saral,Saral,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Saral,Saral,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Saral,Access road up to 2 acres depth,agricultural,500.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Satthwari,Satthwari,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Satthwari,Satthwari,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Satthwari,Satthwari,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Satthwari,Access road up to 2 acres depth,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Siswanajatka,Dheli to Alwar,agricultural,1477.27,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Siswanajatka,Dheli to Alwar,residential,5500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Siswanajatka,Siswana jatka,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Siswanajatka,Siswana jatka,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Siswanajatka,Siswana jatka,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Siswanajatka,Access road up to 2 acres depth,agricultural,522.73,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Sukhpuri,Along State highway beyond 150 mtrs,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Sukhpuri,Along State Highway upto 150 mtrs,agricultural,795.45,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Sukhpuri,Sukhpuri,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Sukhpuri,Sukhpuri,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Sukhpuri,Sukhpuri,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Sukhpuri,Access road up to 2 acres depth,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,SultanpurNuh,Sultanpur Nuh,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,SultanpurNuh,Sultanpur Nuh,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,SultanpurNuh,Sultanpur Nuh,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,SultanpurNuh,Access road up to 2 acres depth,agricultural,500.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Uleta,Uleta,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Uleta,Uleta,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Uleta,Uleta,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Uleta,Access road up to 2 acres depth,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Umari,Umari,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Umari,Umari,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Umari,Umari,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Umari,Access road up to 2 acres depth,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Umra,Umra,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Umra,Umra,residential,1100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Umra,Umra,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nagina,Umra,Access road up to 2 acres depth,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification

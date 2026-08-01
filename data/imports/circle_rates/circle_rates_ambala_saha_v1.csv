@@ -1,0 +1,349 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Ambala,Saha,Akberpur,Akberpur,agricultural,817.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Akberpur,Akberpur,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Akberpur,Akberpur,agricultural,450.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Akberpur,Akberpur,residential,2340,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Akberpur,Akberpur,commercial,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Akberpur,Link Road Prime Number,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Akberpur,New Colony Akbarpur,residential,3630,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Akberpur,New Colony Akbarpur,commercial,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Allahpur,Allahpur,agricultural,650.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Allahpur,Allahpur,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Allahpur,Allahpur,agricultural,450.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Allahpur,Allahpur,residential,1815,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Allahpur,Allahpur,commercial,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Allahpur,Link Road Prime Number,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Kesri,Kesri,agricultural,1005.62,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Kesri,Kesri,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Kesri,Kesri,agricultural,450.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Kesri,Kesri,residential,4032,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Kesri,Kesri,commercial,6900,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Kesri,Kesri Village Colony,residential,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Kesri,Kesri Village Colony,commercial,7865,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Kesri,Link Road Prime Number,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Kesri,National Highway Prime Number,agricultural,1500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Khanpur,Khanpur,agricultural,1402.07,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Khanpur,Khanpur,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Khanpur,Khanpur,agricultural,450.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Khanpur,Khanpur,residential,2359.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Khanpur,Khanpur,commercial,7018,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Khanpur,Khanpur Godam,commercial,7590,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Khanpur,Link Road Prime Number,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,KharuKhera,Kharu Khera,agricultural,773.55,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,KharuKhera,Kharu Khera,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,KharuKhera,Kharu Khera,agricultural,450.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,KharuKhera,Kharu Khera,residential,3132,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,KharuKhera,Kharu Khera,commercial,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,KharuKhera,Link Road Prime Number,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,KharuKhera,New Colony Kharukhera,residential,5280,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,KharuKhera,New Colony Kharukhera,commercial,7562.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Ghasitpur,Ghasitpur,agricultural,1047.52,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Ghasitpur,Ghasitpur,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Ghasitpur,Ghasitpur,agricultural,450.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Ghasitpur,Ghasitpur,residential,1815,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Ghasitpur,Ghasitpur,commercial,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Ghasitpur,Link Road Prime Number,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Ghasitpur,National Highway Prime Number,agricultural,1500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Chudiyala,Chudiyala,agricultural,709.09,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Chudiyala,Chudiyala,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Chudiyala,Chudiyala,agricultural,450.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Chudiyala,Chudiyala,residential,2340,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Chudiyala,Chudiyala,commercial,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Chudiyala,Link Road Prime Number,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Chudiyali,Chudiyali,agricultural,650.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Chudiyali,Chudiyali,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Chudiyali,Chudiyali,agricultural,450.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Chudiyali,Chudiyali,residential,1815,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Chudiyali,Chudiyali,commercial,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Chudiyali,Chudiyali,agricultural,845.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Chudiyali,Chudiyali,agricultural,710.43,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Chudiyali,Link Road Prime Number,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Channi,Channi,agricultural,650.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Channi,Channi,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Channi,Channi,agricultural,450.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Channi,Channi,residential,2268.75,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Channi,Channi,commercial,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Channi,Link Road Prime Number,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Chappra,Chappra,agricultural,888.04,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Chappra,Chappra,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Chappra,Chappra,agricultural,450.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Chappra,Chappra,residential,1815,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Chappra,Chappra,commercial,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Chappra,Link Road Prime Number,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Chappra,National Highway Prime Number,agricultural,1500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Jawahergarh,Jawahergarh,agricultural,709.09,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Jawahergarh,Jawahergarh,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Jawahergarh,Jawahergarh,agricultural,450.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Jawahergarh,Jawahergarh,residential,2087.25,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Jawahergarh,Jawahergarh,commercial,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Jawahergarh,Link Road Prime Number,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Jawahergarh,National Highway Prime Number,agricultural,2250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Toba,Link Road Prime Number,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Toba,New Colony Toba,residential,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Toba,New Colony Toba,commercial,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Toba,Toba,agricultural,650.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Toba,Toba,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Toba,Toba,agricultural,450.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Toba,Toba,residential,1983.75,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Toba,Toba,commercial,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Dhakola,Dhakola,agricultural,650.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Dhakola,Dhakola,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Dhakola,Dhakola,agricultural,490.91,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Dhakola,Dhakola,residential,4095,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Dhakola,Dhakola,commercial,7200,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Dhakola,Link Road Prime Number,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Dhakola,New Dhakola Colony,residential,9075,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Dhakola,New Dhakola Colony,commercial,13754,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Dhakola,Saha to Jagadhari road,agricultural,2250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Dhakola,Saha to shahbad road,agricultural,1500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Tepla,Link Road Prime Number,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Tepla,National Highway Prime Number,agricultural,2250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Tepla,New Tepla Colony,residential,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Tepla,New Tepla Colony,commercial,8470,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Tepla,Tepla,agricultural,1173.22,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Tepla,Tepla,agricultural,650.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Tepla,Tepla,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Tepla,Tepla,agricultural,450.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Tepla,Tepla,residential,3915,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Tepla,Tepla,commercial,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Dinarpur,Dinarpur,agricultural,1215.12,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Dinarpur,Dinarpur,agricultural,2103.1,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Dinarpur,Dinarpur,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Dinarpur,Dinarpur,agricultural,450.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Dinarpur,Dinarpur,residential,2070,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Dinarpur,Dinarpur,commercial,5280,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Dinarpur,Link Road Prime Number,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Dinarpur,National Highway Prime Number,agricultural,1725.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Dinarpur,New Colony Dinarpur,residential,4537.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Dinarpur,New Colony Dinarpur,commercial,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Dubli,Dubli,agricultural,852.52,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Dubli,Dubli,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Dubli,Dubli,agricultural,450.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Dubli,Dubli,residential,1897.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Dubli,Dubli,commercial,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Dubli,Link Road Prime Number,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Dhurala,Dhural,agricultural,815.45,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Dhurala,Dhural,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Dhurala,Dhural,agricultural,450.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Dhurala,Dhural,residential,2915.25,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Dhurala,Dhural,commercial,6900,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Dhurala,Link Road Prime Number,agricultural,1293.75,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Dhurala,New Kesri Railway Station Dhural,residential,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Dhurala,New Kesri Railway Station Dhural,commercial,7865,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Dhurala,New Railway Station Kesri Dhural,residential,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Dhurala,New Railway Station Kesri Dhural,commercial,7865,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Naggla,Link Road Prime Number,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Naggla,Naggla,agricultural,650.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Naggla,Naggla,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Naggla,Naggla,agricultural,450.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Naggla,Naggla,residential,1815,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Naggla,Naggla,commercial,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Nagala,Link Road Prime Number,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Nagala,Nagala,agricultural,1134.55,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Nagala,Nagala,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Nagala,Nagala,agricultural,450.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Nagala,Nagala,residential,2751.38,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Nagala,Nagala,commercial,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Nagala,National Highway Prime Number,agricultural,1500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,NaraingarhMajra,Link Road Prime Number,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,NaraingarhMajra,Naraingarh Majra,agricultural,1215.12,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,NaraingarhMajra,Naraingarh Majra,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,NaraingarhMajra,Naraingarh Majra,agricultural,450.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,NaraingarhMajra,Naraingarh Majra,residential,1815,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,NaraingarhMajra,Naraingarh Majra,commercial,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,NaraingarhMajra,National Highway Prime Number,agricultural,1500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Panjail,Link Road Prime Number,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Panjail,Panjail,agricultural,650.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Panjail,Panjail,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Panjail,Panjail,agricultural,450.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Panjail,Panjail,residential,1815,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Panjail,Panjail,commercial,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Fatehpur,Fathpur,agricultural,747.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Fatehpur,Fathpur,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Fatehpur,Fathpur,agricultural,450.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Fatehpur,Fathpur,residential,1815,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Fatehpur,Fathpur,commercial,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Fatehpur,Link Road,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,PhalelMajra,Link Road Prime Number,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,PhalelMajra,New Phalel Majra Colony,residential,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,PhalelMajra,New Phalel Majra Colony,commercial,6655,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,PhalelMajra,Phalel Majra,agricultural,1005.62,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,PhalelMajra,Phalel Majra,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,PhalelMajra,Phalel Majra,agricultural,450.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,PhalelMajra,Phalel Majra,residential,4095,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,PhalelMajra,Phalel Majra,commercial,5060,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Phusiyala,Link Road,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Phusiyala,Phusiyala,agricultural,650.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Phusiyala,Phusiyala,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Phusiyala,Phusiyala,agricultural,450.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Phusiyala,Phusiyala,residential,2788.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Phusiyala,Phusiyala,commercial,5060,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Bajidpur,Bajidpur,agricultural,812.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Bajidpur,Bajidpur,agricultural,1875.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Bajidpur,Bajidpur,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Bajidpur,Bajidpur,agricultural,450.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Bajidpur,Bajidpur,residential,1897.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Bajidpur,Bajidpur,commercial,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Bajidpur,Bajidpur - Link Road,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Bajidpur,National Highway Prime Number,agricultural,1500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Bajidpur,New Colony Bazidpur,agricultural,650.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Bajidpur,New Colony Bazidpur,residential,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Bajidpur,New Colony Bazidpur,commercial,6325,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Bajidpur,Prime State,agricultural,1500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Bhita,Bhita,agricultural,963.72,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Bhita,Bhita,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Bhita,Bhita,agricultural,450.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Bhita,Bhita,residential,3393,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Bhita,Bhita,commercial,6900,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Bhita,Link Road Prime Number,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Bhita,National Highway Prime Number,agricultural,1500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Bhita,New Colony Bihta,residential,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Bhita,New Colony Bihta,commercial,6957.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Malikpur,Link Road,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Malikpur,Malikpur,agricultural,1447.73,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Malikpur,Malikpur,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Malikpur,Malikpur,agricultural,450.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Malikpur,Malikpur,residential,1815,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Malikpur,Malikpur,commercial,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Malikpur,National Highway Prime Number,agricultural,1500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Mehmoodpur,Link Road Prime Number,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Mehmoodpur,Mehmoodpur,agricultural,709.09,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Mehmoodpur,Mehmoodpur,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Mehmoodpur,Mehmoodpur,agricultural,450.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Mehmoodpur,Mehmoodpur,residential,3217.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Mehmoodpur,Mehmoodpur,commercial,6578,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Mehmoodpur,National Highway Prime Number,agricultural,1500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Mehmoodpur,New Colony Mehmoodpur,residential,3960,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Mehmoodpur,New Colony Mehmoodpur,commercial,7425,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Mithapur,Link Road Prime Number,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Mithapur,Mithapur,agricultural,845.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Mithapur,Mithapur,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Mithapur,Mithapur,agricultural,450.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Mithapur,Mithapur,residential,3510,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Mithapur,Mithapur,commercial,7200,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Mithapur,National Highway Prime Number,agricultural,2250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Mithapur,New Mithapur Colony,residential,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Mithapur,New Mithapur Colony,commercial,9740.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Mehtabgarh,Link Road Prime Number,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Mehtabgarh,Mehtabgarh,agricultural,650.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Mehtabgarh,Mehtabgarh,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Mehtabgarh,Mehtabgarh,agricultural,490.91,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Mehtabgarh,Mehtabgarh,residential,2475,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Mehtabgarh,Mehtabgarh,commercial,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,RaiyaMajra,Link Road Prime Number,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,RaiyaMajra,Raiya Majra,agricultural,650.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,RaiyaMajra,Raiya Majra,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,RaiyaMajra,Raiya Majra,agricultural,450.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,RaiyaMajra,Raiya Majra,residential,1815,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,RaiyaMajra,Raiya Majra,commercial,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Rampur,Link Road Prime Number,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Rampur,Rampur,agricultural,849.43,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Rampur,Rampur,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Rampur,Rampur,agricultural,450.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Rampur,Rampur,residential,2631.75,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Rampur,Rampur,commercial,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Langar,Langar,agricultural,888.04,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Langar,Langar,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Langar,Langar,agricultural,450.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Langar,Langar,residential,2145,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Langar,Langar,commercial,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Langar,Link Road Prime Number,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Landa,Landa,agricultural,1692.15,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Landa,Landa,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Landa,Landa,agricultural,450.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Landa,Landa,residential,2340,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Landa,Landa,commercial,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Landa,Landa Godam,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Landa,Link Road Prime Number,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Landa,National Highway Prime Number,agricultural,1500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Laha,Laha,agricultural,817.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Laha,Laha,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Laha,Laha,agricultural,450.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Laha,Laha,residential,3349.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Laha,Laha,commercial,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Laha,Link Road,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Laha,National Highway Prime Number,agricultural,1500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Shadipur,Link Road Prime Number,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Shadipur,Shadi pur,agricultural,747.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Shadipur,Shadi pur,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Shadipur,Shadi pur,agricultural,450.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Shadipur,Shadi pur,residential,1815,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Shadipur,Shadi pur,commercial,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Shergarh,Link Road Prime Number,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Shergarh,National Highway Prime Number,agricultural,1500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Shergarh,Shergarh,agricultural,998.64,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Shergarh,Shergarh,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Shergarh,Shergarh,agricultural,450.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Shergarh,Shergarh,residential,2371.88,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Shergarh,Shergarh,commercial,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Sabga,Link Road Prime Number,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Sabga,Sabga,agricultural,650.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Sabga,Sabga,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Sabga,Sabga,agricultural,450.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Sabga,Sabga,residential,2268.75,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Sabga,Sabga,commercial,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Sambhalkha,Link Road Prime Number,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Sambhalkha,New Colony Sambhalkha,residential,4235,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Sambhalkha,New Colony Sambhalkha,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Sambhalkha,Sambhalkha,agricultural,747.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Sambhalkha,Sambhalkha,agricultural,1293.75,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Sambhalkha,Sambhalkha,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Sambhalkha,Sambhalkha,agricultural,470.45,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Sambhalkha,Sambhalkha,agricultural,450.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Sambhalkha,Sambhalkha,residential,2681.25,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Sambhalkha,Sambhalkha,commercial,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Samlehri,Link Road Prime Number,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Samlehri,National Highway Prime Number,agricultural,2250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Samlehri,New Colony Samlehri,residential,5280,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Samlehri,New Colony Samlehri,commercial,6655,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Samlehri,Samlheri,agricultural,888.04,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Samlehri,Samlheri,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Samlehri,Samlheri,agricultural,450.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Samlehri,Samlheri,residential,2520,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Samlehri,Samlheri,commercial,7200,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Sabapur,Link Road,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Sabapur,Sabapur,agricultural,650.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Sabapur,Sabapur,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Sabapur,Sabapur,agricultural,450.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Sabapur,Sabapur,residential,1815,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Sabapur,Sabapur,commercial,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Saha,Link Road Prime Number,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Saha,Saha,agricultural,1202.27,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Saha,Saha,agricultural,1803.41,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Saha,Saha,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Saha,Saha,agricultural,450.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Saha,Saha,residential,4725,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Saha,Saha,commercial,8736,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Saha,Saha - HSIDC Saha New Anaaj Mandi,residential,14352,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Saha,Saha - HSIDC Saha New Anaaj Mandi,commercial,13754,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Saha,Saha - HSIDC Saha New Anaaj Mandi,industrial,16940,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Saha,Saha - National Highway - Prime Number,agricultural,2812.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Saha,Saha - New Anaaj Mandi,commercial,48400,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Saha,Saha - New Saha Chownk,residential,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Saha,Saha - New Saha Chownk,commercial,12167,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Saha,Saha - State Highway - Prime Number,agricultural,1568.18,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Saha,saha to shahzadpur,agricultural,1875.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Harda,Harda,agricultural,709.09,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Harda,Harda,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Harda,Harda,agricultural,450.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Harda,Harda,residential,1815,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Harda,Harda,commercial,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Harda,Link Road Prime Number,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Haryoli,Haryoli,agricultural,650.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Haryoli,Haryoli,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Haryoli,Haryoli,agricultural,450.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Haryoli,Haryoli,residential,1815,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Haryoli,Haryoli,commercial,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Haryoli,Link Road Prime Number,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Halderi,Halderi,agricultural,650.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Halderi,Halderi,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Halderi,Halderi,agricultural,450.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Halderi,Halderi,residential,2268.75,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Halderi,Halderi,commercial,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Halderi,Link Road Prime Number,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Hassanpur,Hassanpur,agricultural,650.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Hassanpur,Hassanpur,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Hassanpur,Hassanpur,agricultural,450.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Hassanpur,Hassanpur,residential,1815,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Hassanpur,Hassanpur,commercial,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Saha,Hassanpur,Link Road Prime Number,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification

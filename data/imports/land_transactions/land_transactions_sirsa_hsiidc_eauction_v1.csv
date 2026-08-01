@@ -1,0 +1,7 @@
+district,tehsil,village,sector_type,price_per_sq_yard_inr,area_sq_yards,lat,lng,transaction_date,source,deed_id,consideration_inr,area_unit,notes
+Sirsa,Sirsa,IE Sirsa,industrial,16220.86,358.8,29.5364,75.07668,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-sirsa-300,5820000,sqm,HSIIDC FY24-25 reserve (IE Sirsa); reserve ₹19400/sqm
+Sirsa,Sirsa,IE Sirsa,industrial,16220.86,418.6,29.5316,75.07332,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-sirsa-350,6790000,sqm,HSIIDC FY24-25 reserve (IE Sirsa); reserve ₹19400/sqm
+Sirsa,Sirsa,IE Sirsa,industrial,16220.86,478.4,29.5324,75.07388,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-sirsa-400,7760000,sqm,HSIIDC FY24-25 reserve (IE Sirsa); reserve ₹19400/sqm
+Sirsa,Sirsa,IE Sirsa,industrial,16220.86,538.2,29.5332,75.07444,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-sirsa-450,8730000,sqm,HSIIDC FY24-25 reserve (IE Sirsa); reserve ₹19400/sqm
+Sirsa,Sirsa,IE Sirsa,industrial,16220.86,657.79,29.534,75.075,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-sirsa-550,10670000,sqm,HSIIDC FY24-25 reserve (IE Sirsa); reserve ₹19400/sqm
+Sirsa,Sirsa,IE Sirsa,industrial,16220.86,1210.94,29.5348,75.07556,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-sirsa-1012.5,19642500,sqm,HSIIDC FY24-25 reserve (IE Sirsa); reserve ₹19400/sqm

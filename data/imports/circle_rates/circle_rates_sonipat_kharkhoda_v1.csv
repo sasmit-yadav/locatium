@@ -1,0 +1,537 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Sonipat,Kharkhoda,AsrafPurMatindu,FIRNI KE SATH LAGTI,agricultural,1136.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,AsrafPurMatindu,LAL DORE KE ANDAR,residential,3200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,AsrafPurMatindu,LAL DORE KE ANDAR,commercial,8000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,AsrafPurMatindu,LAL DORE KE BHAR,residential,3200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,AsrafPurMatindu,LAL DORE KE BHAR,commercial,8000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,AsrafPurMatindu,LINK ROAD 0 TO 3 ACRE,agricultural,1363.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,AsrafPurMatindu,NHRI CHAHI LAND,agricultural,852.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,AnandPur,FIRNI KE SATH LAGTI,agricultural,1022.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,AnandPur,LAL DORE KE ANDAR,residential,3500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,AnandPur,LAL DORE KE ANDAR,commercial,5800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,AnandPur,LAL DORE KE BHAR,residential,3600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,AnandPur,LAL DORE KE BHAR,commercial,5800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,AnandPur,LINK ROAD 0 TO 3 ACRE,agricultural,2417.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,AnandPur,MAIN STATE ROAD 0 SE 2 ACRE,agricultural,2727.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,AnandPur,MAIN STATE ROAD 3 TO 5 ACRE,agricultural,1477.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,AnandPur,NHRI CHAHI LAND,agricultural,1378.1,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kanwali,FIRNI KE SATH LAGTI,agricultural,909.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kanwali,LAL DORE KE ANDAR,residential,3500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kanwali,LAL DORE KE ANDAR,commercial,5200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kanwali,LAL DORE KE BHAR,residential,3500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kanwali,LAL DORE KE BHAR,commercial,5200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kanwali,LINK ROAD 0 TO 3 ACRE,agricultural,2545.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kanwali,NHRI CHAHI LAND,agricultural,1455.32,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KatalPur,FIRNI KE SATH LAGTI,agricultural,1136.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KatalPur,LAL DORE KE ANDAR,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KatalPur,LAL DORE KE ANDAR,commercial,5000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KatalPur,LAL DORE KE BHAR,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KatalPur,LAL DORE KE BHAR,commercial,5000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KatalPur,LINK ROAD 0 TO 3 ACRE,agricultural,1363.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KatalPur,NHRI CHAHI LAND,agricultural,909.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kidoli,FIRNI KE SATH LAGTI,agricultural,1704.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kidoli,LAL DORE KE ANDAR,residential,2800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kidoli,LAL DORE KE ANDAR,commercial,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kidoli,LAL DORE KE BHAR,residential,2800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kidoli,LAL DORE KE BHAR,commercial,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kidoli,LINK ROAD 0 TO 3 ACRE,agricultural,4648.76,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kidoli,NHRI CHAHI LAND,agricultural,1549.59,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kundal,FIRNI KE SATH LAGTI,agricultural,2272.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kundal,LAL DORE KE ANDAR,residential,5000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kundal,LAL DORE KE ANDAR,commercial,8800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kundal,LAL DORE KE BHAR,residential,5750,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kundal,LAL DORE KE BHAR,commercial,8800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kundal,LINK ROAD 0 TO 3 ACRE,agricultural,3409.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kundal,NHRI CHAHI LAND,agricultural,1136.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,1 Thana chock se sonipat ki aur,residential,16000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,1 Thana chock se sonipat ki aur,commercial,49500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,10 carnal ke house se delhi road,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,10 carnal ke house se delhi road,commercial,34100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,11 gopalpur road bypass tak sadak,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,11 gopalpur road bypass tak sadak,commercial,28520,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,12 matindu road bypass sadak ke,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,12 matindu road bypass sadak ke,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,13 Delhi addha se kharkhoda ko,residential,22500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,13 Delhi addha se kharkhoda ko,commercial,67100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,14 purane central bank ki building,residential,11500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,14 purane central bank ki building,commercial,33000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,15 purani sabji mandi ki main gali,residential,13200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,15 purani sabji mandi ki main gali,commercial,49500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,16 Thana chowk se police station bypass,residential,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,16 Thana chowk se police station bypass,commercial,49500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,17 rajkiya kanya ucch vidyala se cinema,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,17 rajkiya kanya ucch vidyala se cinema,commercial,33000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,18 sehri chowk se bypass tak sadak,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,18 sehri chowk se bypass tak sadak,commercial,22000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,19 radhakishan ke makan se aage,residential,11500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,19 radhakishan ke makan se aage,commercial,49500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,2 rajkiya kanya ucch vidyala se sonipat bus,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,2 rajkiya kanya ucch vidyala se sonipat bus,commercial,44000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,20 nai anaj mandi ki dukan,residential,38500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,20 nai anaj mandi ki dukan,commercial,49500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,21 nai sabji mandi ki dukan,residential,8300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,21 nai sabji mandi ki dukan,commercial,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,22 barona road ke tirahe se sapla,residential,8300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,22 barona road ke tirahe se sapla,commercial,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,23 barona road ke tirahe se aasodha,residential,8300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,23 barona road ke tirahe se aasodha,commercial,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,24 sapla road se rohtak road bypass,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,24 sapla road se rohtak road bypass,commercial,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,25 sapla road se sonipat road bypass,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,25 sapla road se sonipat road bypass,commercial,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,26 sonipat road se rohtak road bypass,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,26 sonipat road se rohtak road bypass,commercial,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,27 rohtak road nahar tak,residential,8300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,27 rohtak road nahar tak,commercial,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,28 mahabir colony,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,28 mahabir colony,commercial,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,29 kuldeep nagar,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,29 kuldeep nagar,commercial,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,3 bypass se drain tak,residential,12650,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,3 bypass se drain tak,commercial,22000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,30 partap singh colony partap,residential,22000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,30 partap singh colony partap,commercial,22000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,31 rambhag colony,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,31 rambhag colony,commercial,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,32 Adrash Nagar,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,32 Adrash Nagar,commercial,22000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,33 Bhagwan Singh Colony,residential,9900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,33 Bhagwan Singh Colony,commercial,22000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,34 Idhgah Colony,residential,8300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,34 Idhgah Colony,commercial,22000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,35 Nehru Colony,residential,12100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,35 Nehru Colony,commercial,24200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,36 Sainipura,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,36 Sainipura,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,37 Sant Nagar Colony,residential,13200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,37 Sant Nagar Colony,commercial,33000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,38 Shiv Colony,residential,9900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,38 Shiv Colony,commercial,26400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,39 Gurukul Colony,residential,12100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,39 Gurukul Colony,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,4 rest house ke piche,residential,6600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,40 Chapda Mandir Colony,residential,9400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,40 Chapda Mandir Colony,commercial,33000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,41 Thana Kalan Road Colony,residential,13800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,41 Thana Kalan Road Colony,commercial,33000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,42 Rohtak Road Colony,residential,14605,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,42 Rohtak Road Colony,commercial,33000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,43 Shashtri Nagar Colony,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,43 Shashtri Nagar Colony,commercial,48125,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,44 IMT Kharkhoda,residential,22000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,44 IMT Kharkhoda,commercial,82500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,44 IMT Kharkhoda,industrial,34500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,5 Thana chowk se thana kalan road tak,residential,12100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,5 Thana chowk se thana kalan road tak,commercial,41470,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,6 Thana kalan road barf khana se,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,6 Thana kalan road barf khana se,commercial,23100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,63 Nugraj Dream Builders,residential,33000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,63 Nugraj Dream Builders,commercial,66000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,64 Narendra Gehlaut,residential,33000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,64 Narendra Gehlaut,commercial,66000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,7 Thana chowk se sapla ki aur main,residential,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,7 Thana chowk se sapla ki aur main,commercial,71500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,8 Govt. hospital se barona road,residential,12700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,8 Govt. hospital se barona road,commercial,44000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,9 Delhi chowk se carnal ke house,residential,13200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,9 Delhi chowk se carnal ke house,commercial,44000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,In Mc link sadak par 0 se 3 acre,agricultural,5681.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,In MC main rajya sadak par 0 se 2,agricultural,6818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,In MC main rajya sadak par 3 se 5,agricultural,3409.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,In Mc nahari chahi,agricultural,2272.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,LAL DORE ANDER,residential,26000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,LAL DORE ANDER,commercial,33000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,LAL DORE KE BAHAR,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,LAL DORE KE BAHAR,commercial,22000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,Nagar Palika sema k ander sithth anya colony,residential,13200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,Nagar Palika sema k ander sithth anya colony,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,Nugraj drem Builders pvt Ltd commercial1,commercial,44000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,Nugraj drem Builders pvt Ltd residence1,residential,22000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,OUT MC MAIN STATE ROAD 0 TO 2 ACRE,agricultural,7747.93,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,OUT MC MAIN STATE ROAD 3 TO 5 ACRE,agricultural,3409.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,OUT MC NHARI CHAHI,agricultural,4493.8,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Kharkhoda,Out Mclink sadak par 0 se 3,agricultural,4545.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,1 Thana chowk se sonipat ki aur,residential,16000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,1 Thana chowk se sonipat ki aur,commercial,49500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,10 carnal ke house se delhi road,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,10 carnal ke house se delhi road,commercial,34100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,11 gopalpur road bypass tak sadak,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,11 gopalpur road bypass tak sadak,commercial,24800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,12 matindu road bypass sadak ke,residential,11500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,12 matindu road bypass sadak ke,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,13 Delhi addha se kharkhoda ko,residential,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,13 Delhi addha se kharkhoda ko,commercial,67100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,14 purane central bank ki building,residential,13225,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,14 purane central bank ki building,commercial,33000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,15 purani sabji mandi main gali,residential,13200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,15 purani sabji mandi main gali,commercial,49500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,16 Thana chowk se police bypass,residential,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,16 Thana chowk se police bypass,commercial,49500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,17 rajkiya kanya ucch vidyala se cinema,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,17 rajkiya kanya ucch vidyala se cinema,commercial,33000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,18 sehri chowk se bypass tak sadak,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,18 sehri chowk se bypass tak sadak,commercial,22000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,19 radhakishan ke makan se aage,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,19 radhakishan ke makan se aage,commercial,49500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,2 rajkiya kanya ucch vidyala se sonipat bus,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,2 rajkiya kanya ucch vidyala se sonipat bus,commercial,44000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,20 nai anaj mandi ki dukane,commercial,38500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,21 nai sabji mandi ki dukan,commercial,49500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,22 barona road ke tirahe se sapla,residential,8300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,22 barona road ke tirahe se sapla,commercial,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,23 barona road ke tirahe se aasodha,residential,8300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,23 barona road ke tirahe se aasodha,commercial,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,24 sapla road se rohtak road bypass,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,24 sapla road se rohtak road bypass,commercial,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,25 sapla road se sonipat road bypass,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,25 sapla road se sonipat road bypass,commercial,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,26 sonipat road se rohtak road bypass,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,26 sonipat road se rohtak road bypass,commercial,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,27 rohtak road se nahar tak,residential,8300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,27 rohtak road se nahar tak,commercial,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,28 mahabir colony,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,28 mahabir colony,commercial,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,29 kuldeep nagar,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,29 kuldeep nagar,commercial,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,3 bypass se drain tak,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,3 bypass se drain tak,commercial,22000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,30 partap singh colony partap,residential,22000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,30 partap singh colony partap,commercial,22000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,31 rambhag colony,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,31 rambhag colony,commercial,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,32 Adrash Nagar,residential,12000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,32 Adrash Nagar,commercial,22000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,33 Bhagwan Singh Colony,residential,9900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,33 Bhagwan Singh Colony,commercial,22000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,34 Idhgah Colony,residential,8300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,34 Idhgah Colony,commercial,25300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,35 Nehru Colony,residential,12100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,35 Nehru Colony,commercial,24200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,36 Sainipura,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,36 Sainipura,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,37 Sant Nagar Colony,residential,13800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,37 Sant Nagar Colony,commercial,33000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,38 Shiv Colony,residential,9900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,38 Shiv Colony,commercial,26400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,39 Gurukul Colony,residential,12100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,39 Gurukul Colony,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,4 rest house ke piche,residential,6600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,40 Chapra Mandir Colony,residential,9400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,41 Thana Kalan Road Colony,residential,13200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,41 Thana Kalan Road Colony,commercial,33000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,42 Rohtak Road Colony,residential,12100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,42 Rohtak Road Colony,commercial,33000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,43 Shastri Nagar Colony,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,43 Shastri Nagar Colony,commercial,38500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,5 Thana chowk se thana kalan road tak,residential,12100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,5 Thana chowk se thana kalan road tak,commercial,28600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,59 Siddhartha Developers,residential,33000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,59 Siddhartha Developers,commercial,66000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,59 Siddhartha Developers,industrial,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,6 Thana kalan road barf khana se,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,6 Thana kalan road barf khana se,commercial,23100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,7 Thana chowk se sapla ki aur main,residential,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,7 Thana chowk se sapla ki aur main,commercial,71500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,8 Govt. hospital se barona road,residential,12100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,8 Govt. hospital se barona road,commercial,44000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,9 Delhi chowk se carnal ke house,residential,13200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,9 Delhi chowk se carnal ke house,commercial,44000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,In MC link sadak par 0 se 3 acre,agricultural,5940.08,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,In MC main rajya sadak par 0 se 2,agricultural,6818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,In MC main rajya sadak par 3 se 5,agricultural,3409.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,In MC nahari chahi jamin,agricultural,2272.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,LAL DORA KE ANDER,residential,22000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,LAL DORA KE ANDER,commercial,34500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,LAL DORE KE BAHAR,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,LAL DORE KE BAHAR,commercial,23000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,Nagar Palika sema k ander sithth anya colony,residential,13200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,Nagar Palika sema k ander sithth anya colony,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,Nugraj drem Builders pvt Ltd residence,residential,22000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,Out MC link sadak par 0 se 3 acre,agricultural,5371.9,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,Out MC main rajya sadak par 0 se 2,agricultural,12396.69,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,out mc main rajya sadak par 3 se 5,agricultural,3409.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KharkhodaII,OUT MC NEHRI CHAHI,agricultural,2272.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Khanda,FIRNI KE SATH LAGTI,agricultural,1136.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Khanda,LAL DORE KE ANDAR,residential,3500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Khanda,LAL DORE KE ANDAR,commercial,8300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Khanda,LAL DORE KE BHAR,residential,3500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Khanda,LAL DORE KE BHAR,commercial,8300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Khanda,LINK ROAD 0 TO 3 ACRE,agricultural,2272.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Khanda,NHRI CHAHI LAND,agricultural,909.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KhuramPur,LAL DORE KE ANDAR,residential,2800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KhuramPur,LAL DORE KE ANDAR,commercial,5000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KhuramPur,LAL DORE KE BHAR,residential,2800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KhuramPur,LAL DORE KE BHAR,commercial,5000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KhuramPur,LINK ROAD 0 TO 3 ACRE,agricultural,1704.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KhuramPur,NHRI CHAHI LAND,agricultural,1175.1,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KhuramPur,FIRNI KE SATH LAGTI,agricultural,590.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KheriDahiya,LAL DORE KE ANDAR,residential,2400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KheriDahiya,LAL DORE KE ANDAR,commercial,8000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KheriDahiya,LAL DORE KE BHAR,residential,2400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KheriDahiya,LAL DORE KE BHAR,commercial,8000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KheriDahiya,LINK ROAD 0 TO 3 ACRE,agricultural,1549.59,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KheriDahiya,NHRI CHAHI LAND,agricultural,855.37,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,KheriDahiya,FIRNI KE SATH LAGTI,agricultural,909.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,GarhiSisana,LAL DORE KE ANDAR,residential,2800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,GarhiSisana,LAL DORE KE ANDAR,commercial,8000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,GarhiSisana,LAL DORE KE BHAR,residential,2800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,GarhiSisana,LAL DORE KE BHAR,commercial,8000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,GarhiSisana,LINK ROAD 0 TO 3 ACRE,agricultural,2014.46,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,GarhiSisana,MAIN STATE ROAD 0 SE 2 ACRE,agricultural,2272.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,GarhiSisana,MAIN STATE ROAD 3 TO 5 ACRE,agricultural,1136.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,GarhiSisana,NHRI CHAHI LAND,agricultural,1090.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,GarhiSisana,FIRNI KE SATH LAGTI,agricultural,3409.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,GopalPur,LAL DORE KE ANDAR,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,GopalPur,LAL DORE KE ANDAR,commercial,8800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,GopalPur,LAL DORE KE BHAR,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,GopalPur,LAL DORE KE BHAR,commercial,8800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,GopalPur,LINK ROAD 0 TO 3 ACRE,agricultural,4545.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,GopalPur,NHRI CHAHI LAND,agricultural,3867.77,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,GopalPur,Orion Tech park Developers LLP Comm,commercial,55000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,GopalPur,Orion Tech park Developers LLP Residence,residential,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,GopalPur,FIRNI KE SATH LAGTI,agricultural,5909.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Gorad,LAL DORE KE ANDAR,residential,2400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Gorad,LAL DORE KE ANDAR,commercial,8000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Gorad,LAL DORE KE BHAR,residential,2400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Gorad,LAL DORE KE BHAR,commercial,8000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Gorad,LINK ROAD 0 TO 3 ACRE,agricultural,7954.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Gorad,NHRI CHAHI LAND,agricultural,5681.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Gorad,FIRNI KE SATH LAGTI,agricultural,11363.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Chhinauli,LAL DORE KE ANDAR,residential,2900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Chhinauli,LAL DORE KE ANDAR,commercial,6800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Chhinauli,LAL DORE KE BHAR,residential,2900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Chhinauli,LAL DORE KE BHAR,commercial,6800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Chhinauli,LINK ROAD 0 TO 3 ACRE,agricultural,2840.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Chhinauli,NHRI CHAHI LAND,agricultural,991.74,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Chhinauli,FIRNI KE SATH LAGTI,agricultural,2272.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Jatola,LAL DORE KE ANDAR,residential,4400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Jatola,LAL DORE KE ANDAR,commercial,8800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Jatola,LAL DORE KE BHAR,residential,4400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Jatola,LAL DORE KE BHAR,commercial,8800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Jatola,LINK ROAD 0 TO 3 ACRE,agricultural,4545.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Jatola,NHRI CHAHI LAND,agricultural,1704.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,ZiauddinPur,LAL DORE KE ANDAR,residential,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,ZiauddinPur,LAL DORE KE ANDAR,commercial,7700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,ZiauddinPur,LAL DORE KE BHAR,residential,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,ZiauddinPur,LAL DORE KE BHAR,commercial,9625,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,ZiauddinPur,LINK ROAD 0 TO 3 ACRE,agricultural,2272.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,ZiauddinPur,MAIN STATE ROAD 0 SE 2 ACRE,agricultural,4545.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,ZiauddinPur,MAIN STATE ROAD 3 TO 5 ACRE,agricultural,2272.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,ZiauddinPur,NHRI CHAHI LAND,agricultural,1136.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Jharoth,09 Mahadev Industrial Township Kharkhoda,commercial,44000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Jharoth,09 Mahadev Industrial Township Kharkhoda,industrial,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Jharoth,FIRNI KE SATH LAGTI,agricultural,2272.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Jharoth,LAL DORE KE ANDAR,residential,3500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Jharoth,LAL DORE KE ANDAR,commercial,5800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Jharoth,LAL DORE KE BHAR,residential,3500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Jharoth,LAL DORE KE BHAR,commercial,5800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Jharoth,LINK ROAD 0 TO 3 ACRE,agricultural,3409.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Jharoth,MAIN STATE ROAD 0 SE 2 ACRE,agricultural,4545.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Jharoth,MAIN STATE ROAD 3 TO 5 ACRE,agricultural,2272.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Jharoth,NHRI CHAHI LAND,agricultural,2246.9,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Jharoth,FIRNI KE SATH LAGTI,agricultural,3409.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Jharothi,LAL DORE KE ANDAR,residential,3500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Jharothi,LAL DORE KE ANDAR,commercial,5800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Jharothi,LAL DORE KE BHAR,residential,4375,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Jharothi,LAL DORE KE BHAR,commercial,5800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Jharothi,LINK ROAD 0 TO 3 ACRE,agricultural,3409.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Jharothi,MAIN STATE ROAD 0 SE 2 ACRE,agricultural,4545.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Jharothi,MAIN STATE ROAD 3 TO 5 ACRE,agricultural,3099.17,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Jharothi,NHRI CHAHI LAND,agricultural,2246.9,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Jharothi,FIRNI KE SATH LAGTI,agricultural,1136.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Jhinjholi,LAL DORE KE ANDAR,residential,4400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Jhinjholi,LAL DORE KE ANDAR,commercial,7500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Jhinjholi,LAL DORE KE BHAR,residential,4400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Jhinjholi,LAL DORE KE BHAR,commercial,7500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Jhinjholi,LINK ROAD 0 TO 3 ACRE,agricultural,2272.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Turkpur,NHRI CHAHI LAND,agricultural,1663.22,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Turkpur,FIRNI KE SATH LAGTI,agricultural,1663.22,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Turkpur,LAL DORE KE ANDAR,residential,3100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Turkpur,LAL DORE KE ANDAR,commercial,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Turkpur,LAL DORE KE BHAR,residential,3100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Turkpur,LAL DORE KE BHAR,commercial,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Turkpur,LINK ROAD 0 TO 3 ACRE,agricultural,2954.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,ThanaKalan,FIRNI KE SATH LAGTI,agricultural,1988.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,ThanaKalan,KESHU PROMOTERS LLP. Commercial,commercial,33000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,ThanaKalan,KESHU PROMOTERS LLP. Residential,residential,22000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,ThanaKalan,LAL DORE KE ANDAR,residential,3500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,ThanaKalan,LAL DORE KE ANDAR,commercial,8000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,ThanaKalan,LAL DORE KE BHAR,residential,3500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,ThanaKalan,LAL DORE KE BHAR,commercial,8000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,ThanaKalan,LINK ROAD 0 TO 3 ACRE,agricultural,3099.17,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,ThanaKalan,NHRI CHAHI LAND,agricultural,2711.78,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,ThanaKhurd,NHRI CHAHI LAND,agricultural,1136.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,ThanaKhurd,FIRNI KE SATH LAGTI,agricultural,1136.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,ThanaKhurd,LAL DORE KE ANDAR,residential,3500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,ThanaKhurd,LAL DORE KE ANDAR,commercial,5900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,ThanaKhurd,LAL DORE KE BHAR,residential,3500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,ThanaKhurd,LAL DORE KE BHAR,commercial,5900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,ThanaKhurd,LINK ROAD 0 TO 3 ACRE,agricultural,2272.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Nakloi,NHRI CHAHI LAND,agricultural,1329.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Nakloi,FIRNI KE SATH LAGTI,agricultural,681.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Nakloi,LAL DORE KE ANDAR,residential,2400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Nakloi,LAL DORE KE ANDAR,commercial,8000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Nakloi,LAL DORE KE BHAR,residential,2400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Nakloi,LAL DORE KE BHAR,commercial,8000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Nakloi,LINK ROAD 0 TO 3 ACRE,agricultural,1136.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,NasirpurCholka,NHRI CHAHI LAND,agricultural,742.51,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,NasirpurCholka,FIRNI KE SATH LAGTI,agricultural,909.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,NasirpurCholka,LAL DORE KE ANDAR,residential,2800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,NasirpurCholka,LAL DORE KE ANDAR,commercial,8000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,NasirpurCholka,LAL DORE KE BHAR,residential,3800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,NasirpurCholka,LAL DORE KE BHAR,commercial,8300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,NasirpurCholka,LINK ROAD 0 TO 3 ACRE,agricultural,1549.59,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,NijampurMajra,LAL DORE KE ANDAR,residential,2400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,NijampurMajra,LAL DORE KE ANDAR,commercial,8000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,NijampurMajra,LAL DORE KE BHAR,residential,2400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,NijampurMajra,LAL DORE KE BHAR,commercial,8000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,NijampurMajra,NHRI CHAHI LAND,agricultural,909.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,NijampurMajra,FIRNI KE SATH LAGTI,agricultural,909.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,NijampurKhurd,LINK ROAD 0 TO 3 ACRE,agricultural,1022.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,NijampurKhurd,NHRI CHAHI LAND,agricultural,784.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,NijampurKhurd,FIRNI KE SATH LAGTI,agricultural,2272.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,NijampurKhurd,LAL DORE KE ANDAR,residential,3700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,NijampurKhurd,LAL DORE KE ANDAR,commercial,8300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,NijampurKhurd,LAL DORE KE BHAR,residential,3700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,NijampurKhurd,LAL DORE KE BHAR,commercial,8300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Nirthan,LINK ROAD 0 TO 3 ACRE,agricultural,4545.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Nirthan,NHRI CHAHI LAND,agricultural,2376.03,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Nirthan,FIRNI KE SATH LAGTI,agricultural,795.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Nirthan,LAL DORE KE ANDAR,residential,2400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Nirthan,LAL DORE KE ANDAR,commercial,8100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Nirthan,LAL DORE KE BHAR,residential,2400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Nirthan,LAL DORE KE BHAR,commercial,8100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,PrahladPur,LAL DORE KE ANDAR,residential,2800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,PrahladPur,LAL DORE KE ANDAR,commercial,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,PrahladPur,LAL DORE KE BHAR,residential,2800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,PrahladPur,LAL DORE KE BHAR,commercial,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,PrahladPur,LINK ROAD 0 TO 3 ACRE,agricultural,4648.76,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,PrahladPur,NHRI CHAHI LAND,agricultural,2685.95,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,PrahladPur,FIRNI KE SATH LAGTI,agricultural,2840.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Pai,LAL DORE KE ANDAR,residential,2800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Pai,LAL DORE KE ANDAR,commercial,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Pai,LAL DORE KE BHAR,residential,2800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Pai,LAL DORE KE BHAR,commercial,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Pai,LINK ROAD 0 TO 3 ACRE,agricultural,3564.05,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Pai,NHRI CHAHI LAND,agricultural,1136.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Pipli,10 Rishika Structure,residential,33000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Pipli,10 Rishika Structure,commercial,66000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Pipli,FIRNI KE SATH LAGTI,agricultural,2272.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Pipli,LAL DORE KE ANDAR,residential,6100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Pipli,LAL DORE KE ANDAR,commercial,8300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Pipli,LAL DORE KE BAHAR,residential,6100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Pipli,LAL DORE KE BAHAR,commercial,8300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Pipli,LINK ROAD 0 TO 3 ACRE,agricultural,6198.35,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Pipli,Nextra Dev. LLP,residential,33000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Pipli,Nextra Dev. LLP,commercial,69000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Pipli,NHRI CHAHI LAND,agricultural,4067.67,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Pipli,FIRNI KE SATH LAGTI,agricultural,11363.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Farmana,LAL DORE KE ANDAR,residential,2500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Farmana,LAL DORE KE ANDAR,commercial,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Farmana,LAL DORE KE BHAR,residential,2500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Farmana,LAL DORE KE BHAR,commercial,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Farmana,LINK ROAD 0 TO 3 ACRE,agricultural,1663.22,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Farmana,NHRI CHAHI LAND,agricultural,784.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Farmana,FIRNI KE SATH LAGTI,agricultural,2272.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,FirozpurBangar,LAL DORE KE ANDAR,residential,5800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,FirozpurBangar,LAL DORE KE ANDAR,commercial,13200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,FirozpurBangar,LAL DORE KE BHAR,residential,5800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,FirozpurBangar,LAL DORE KE BHAR,commercial,13200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,FirozpurBangar,LINK ROAD 0 TO 3 ACRE,agricultural,3409.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,FirozpurBangar,NHRI CHAHI LAND,agricultural,2272.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Barona,09 SNPC Global Residency,residential,33000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Barona,09 SNPC Global Residency,commercial,66000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Barona,FIRNI KE SATH LAGTI,agricultural,2272.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Barona,LAL DORE KE ANDAR,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Barona,LAL DORE KE ANDAR,commercial,5000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Barona,LAL DORE KE BHAR,residential,3500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Barona,LAL DORE KE BHAR,commercial,5000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Barona,LINK ROAD 0 TO 3 ACRE,agricultural,8135.33,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Barona,NHRI CHAHI LAND,agricultural,2079.03,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Barona,Nugraj drem Builders pvt Ltd commercial,commercial,66000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Barona,Nugraj drem Builders pvt Ltd residence,residential,33000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Bidhlan,FIRNI KE SATH LAGTI,agricultural,681.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Bidhlan,LAL DORE KE ANDAR,residential,2500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Bidhlan,LAL DORE KE ANDAR,commercial,8000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Bidhlan,LAL DORE KE BHAR,residential,2500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Bidhlan,LAL DORE KE BHAR,commercial,8000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Bidhlan,LINK ROAD 0 TO 3 ACRE,agricultural,1136.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Bidhlan,NHRI CHAHI LAND,agricultural,568.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Mandora,FIRNI KE SATH LAGTI,agricultural,1250.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Mandora,LAL DORE KE ANDAR,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Mandora,LAL DORE KE ANDAR,commercial,7700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Mandora,LAL DORE KE BHAR,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Mandora,LAL DORE KE BHAR,commercial,7700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Mandora,LINK ROAD 0 TO 3 ACRE,agricultural,2306.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Mandora,NHRI CHAHI LAND,agricultural,1704.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Mandauri,FIRNI KE SATH LAGTI,agricultural,1250.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Mandauri,LAL DORE KE ANDAR,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Mandauri,LAL DORE KE ANDAR,commercial,7700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Mandauri,LAL DORE KE BHAR,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Mandauri,LAL DORE KE BHAR,commercial,7700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Mandauri,LINK ROAD 0 TO 3 ACRE,agricultural,1704.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Mandauri,NHRI CHAHI LAND,agricultural,1022.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,MaujamNagar,FIRNI KE SATH LAGTI,agricultural,909.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,MaujamNagar,LAL DORE KE ANDAR,residential,2600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,MaujamNagar,LAL DORE KE ANDAR,commercial,8000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,MaujamNagar,LAL DORE KE BHAR,residential,2600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,MaujamNagar,LAL DORE KE BHAR,commercial,8000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,MaujamNagar,LINK ROAD 0 TO 3 ACRE,agricultural,1735.54,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,RamPur,NHRI CHAHI LAND,agricultural,867.77,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,RamPur,FIRNI KE SATH LAGTI,agricultural,3409.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,RamPur,LAL DORE KE ANDAR,residential,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,RamPur,LAL DORE KE ANDAR,commercial,13200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,RamPur,LAL DORE KE BHAR,residential,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,RamPur,LAL DORE KE BHAR,commercial,13200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,RamPur,LINK ROAD 0 TO 3 ACRE,agricultural,4545.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Ridhau,NHRI CHAHI LAND,agricultural,2272.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Ridhau,FIRNI KE SATH LAGTI,agricultural,9090.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Ridhau,LAL DORE KE ANDAR,residential,2500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Ridhau,LAL DORE KE ANDAR,commercial,8000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Ridhau,LAL DORE KE BHAR,residential,2420,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Ridhau,LAL DORE KE BHAR,commercial,7920,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Ridhau,LINK ROAD 0 TO 3 ACRE,agricultural,15909.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Rohna,FIRNI KE SATH LAGTI,agricultural,8522.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Rohna,LAL DORE KE ANDAR,residential,3100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Rohna,LAL DORE KE ANDAR,commercial,6900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Rohna,LAL DORE KE BHAR,residential,3100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Rohna,LAL DORE KE BHAR,commercial,6900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Rohna,LINK ROAD 0 TO 3 ACRE,agricultural,3636.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Rohna,MAIN STATE ROAD 0 SE 2 ACRE,agricultural,6740.7,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Rohna,MAIN STATE ROAD 3 TO 5 ACRE,agricultural,3873.97,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Rohna,NHRI CHAHI LAND,agricultural,2910.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Silana,LAL DORE KE ANDAR,residential,2400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Silana,LAL DORE KE ANDAR,commercial,8000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Silana,LAL DORE KE BHAR,residential,3696,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Silana,LAL DORE KE BHAR,commercial,7920,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Silana,LINK ROAD 0 TO 3 ACRE,agricultural,2045.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Silana,NHRI CHAHI LAND,agricultural,909.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Silana,FIRNI KE SATH LAGTI,agricultural,2272.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Sisana,LAL DORE KE ANDAR,residential,2800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Sisana,LAL DORE KE ANDAR,commercial,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Sisana,LAL DORE KE BHAR,residential,3500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Sisana,LAL DORE KE BHAR,commercial,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Sisana,LINK ROAD 0 TO 3 ACRE,agricultural,3977.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Sisana,MAIN STATE ROAD 0 SE 2 ACRE,agricultural,3409.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Sisana,MAIN STATE ROAD 3 TO 5 ACRE,agricultural,2045.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Sisana,NHRI CHAHI LAND,agricultural,1278.41,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Sehri,NHRI CHAHI LAND,agricultural,1022.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Sehri,LAL DORE KE ANDAR,residential,2500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Sehri,LAL DORE KE ANDAR,commercial,8000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Sehri,LAL DORE KE BHAR,residential,2500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Sehri,LAL DORE KE BHAR,commercial,8000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Sehri,LINK ROAD 0 TO 3 ACRE,agricultural,1590.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Saidpur,NHRI CHAHI LAND,agricultural,852.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Saidpur,FIRNI KE SATH LAGTI,agricultural,3409.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Saidpur,LAL DORE KE ANDAR,residential,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Saidpur,LAL DORE KE ANDAR,commercial,14300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Saidpur,LAL DORE KE BHAR,residential,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Saidpur,LAL DORE KE BHAR,commercial,14300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Saidpur,LINK ROAD 0 TO 3 ACRE,agricultural,4545.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Sohti,NHRI CHAHI LAND,agricultural,2954.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Sohti,FIRNI KE SATH LAGTI,agricultural,2272.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Sohti,LAL DORE KE ANDAR,residential,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Sohti,LAL DORE KE ANDAR,commercial,8800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Sohti,LAL DORE KE BHAR,residential,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Sohti,LAL DORE KE BHAR,commercial,10120,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Kharkhoda,Sohti,LINK ROAD 0 TO 3 ACRE,agricultural,3409.09,2026-04-01,sonipat_gov_in_dc_notification

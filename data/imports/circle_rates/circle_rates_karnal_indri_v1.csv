@@ -1,0 +1,648 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Karnal,Indri,Indri,"Wards 1,3,9,10,11,12,13 Main Bazar Gudha Indri Ladwa Road Indri Karnal Road Central Bank to Geeta Mandir Chowk",commercial,61000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Indri,Ward 2 commercial,commercial,31000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Indri,Bajaj Agriculture Farm to Bayana Road Matak Majri outside municipal commercial,commercial,61000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Indri,Ward 8 Main Bazar adjacent commercial,commercial,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Indri,Anaj Mandi commercial Reserve Price,commercial,36000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Indri,Remaining colonies wards commercial,commercial,40000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Indri,"Wards 1,8,9,11,12,13 residential",residential,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Indri,"Wards 11,13 Diwan Colony Nirankar Colony",residential,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Indri,Shorgir Mohalla Harijan Basti near Ravidas Mandir Gudha residential excluding Khalasi adjacent,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Indri,Khalasi adjacent residential,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Indri,Ward 10 residential,residential,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Indri,"Wards 2,3,4 Ramlila Ground Kachi Samadhi Ward 5 full residential",residential,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Indri,Ward 6 residential,residential,4200,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Indri,Ward 7 near Arya Samaj Mandir residential,residential,4100,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Indri,New Anaj Mandi Indri adjacent residential,residential,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Indri,Outside municipal agricultural beyond 2 acres from road,agricultural,1022.73,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Indri,All villages Chahi agricultural 2 acres back from link road excluding Yamuna bandh villages,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Indri,Other agricultural inside municipal limits,agricultural,2272.73,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Gudha,Listed khasra numbers commercial on main road,commercial,61000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Gudha,Listed khasra numbers commercial off main road,commercial,25000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Gudha,Listed khasra numbers residential,residential,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Gudha,Listed khasra numbers agricultural,agricultural,2272.73,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Gudha,Agricultural excluding listed khasra,agricultural,1033.06,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Gudha,Other than listed khasra residential,residential,4600,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Gudha,Other than listed khasra commercial,commercial,33000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Gudha,Nirankari Colony Diwan Colony residential inside municipal,residential,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Gudha,"Wards 11,12,13 commercial inside municipal",commercial,61000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Gudha,"Wards 11,12,13 residential inside municipal",residential,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Gudha,Colonel Colony,residential,5000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Gudha,Colonel Colony,commercial,33000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,MatakMajri,Listed khasra commercial,commercial,64000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,MatakMajri,Listed khasra residential,residential,6300,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,MatakMajri,Garhi Birbal Road listed khasra agricultural,agricultural,2272.73,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,MatakMajri,Indergarh Road up to college listed khasra agricultural,agricultural,2272.73,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,MatakMajri,Road up to petrol pump listed khasra agricultural continuation,agricultural,2272.73,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,MatakMajri,Agricultural excluding listed khasra,agricultural,1074.38,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,MatakMajri,Other than serial 19 residential,residential,5200,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,MatakMajri,Other than serial 19 commercial,commercial,34500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,MatakMajri,Lakshmi Sewa Samiti,residential,5000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,MatakMajri,Lakshmi Sewa Samiti,commercial,33000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,MatakMajri,Shaheed Udham Singh Colony,residential,5000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,MatakMajri,Shaheed Udham Singh Colony,commercial,33000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,MatakMajri,New Model Town Colony,residential,5000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,MatakMajri,New Model Town Colony,commercial,33000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,MatakMajri,Bajaj Colony,residential,5000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,MatakMajri,Bajaj Colony,commercial,33000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,MatakMajri,Simran Colony,residential,5000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,MatakMajri,Simran Colony,commercial,33000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,MatakMajri,VIP II Colony,residential,5000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,MatakMajri,VIP II Colony,commercial,33000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Patehra,Patehra to Kheda road both sides 2 acres Master Plan,agricultural,960.74,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Patehra,Patehra to Budhanpur Khalsa road both sides 2 acres Master Plan,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Patehra,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Patehra,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Patehra,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,BudhanpurKhalsa,Budhanpur Khalsa to Patehra road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,BudhanpurKhalsa,Budhanpur Khalsa to Tapariya road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,BudhanpurKhalsa,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,BudhanpurKhalsa,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,BudhanpurKhalsa,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Tapariya,Tapariya to Budhanpur Khalsa road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Tapariya,Tapariya to Chhapariya Yamuna canal road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Tapariya,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Tapariya,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Tapariya,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Chhapariya,Chhapariya to Tapariya Yamuna canal road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Chhapariya,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Chhapariya,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Chhapariya,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Hinori,Hinori to Chhapariya Yamuna canal road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Hinori,Hinori to Shergarh Yamuna canal road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Hinori,Hinori to Nandi Bhavji road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Hinori,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Hinori,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Hinori,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Muradgarh,Muradgarh to Matak Majri road both sides 2 acres Master Plan,agricultural,960.74,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Muradgarh,Muradgarh to Fazalpur road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Muradgarh,Muradgarh to Bayana road both sides 2 acres,agricultural,960.74,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Muradgarh,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Muradgarh,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Muradgarh,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,KalariKhalsa,Kheda to Garhi Birbal road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,KalariKhalsa,Kalari Khalsa to Islamnagar road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,KalariKhalsa,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,KalariKhalsa,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,KalariKhalsa,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Kheda,Kheda to Nanhera road from Garhi Birbal both sides 2 acres Master Plan,agricultural,960.74,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Kheda,Kheda to Garhi Birbal road both sides 2 acres Master Plan,agricultural,960.74,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Kheda,Kheda to Patehra road both sides 2 acres Master Plan,agricultural,960.74,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Kheda,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Kheda,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Kheda,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Nanhera,Garhi Birbal road both sides 2 acres Master Plan,agricultural,960.74,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Nanhera,Nanhera to Garhpur Khalsa road both sides 2 acres Master Plan,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Nanhera,Nanhera to Badarpur road both sides 2 acres Master Plan,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Nanhera,Nanhera to Kheda road both sides 2 acres Master Plan,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Nanhera,Garhi Birbal road both sides 2 acres Master Plan Check khasra,agricultural,960.74,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Nanhera,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Nanhera,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Nanhera,Remaining excluding listed khasra,commercial,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Fazilpur,Muradgarh to Fazilpur road both sides 2 acres Master Plan,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Fazilpur,Fazilpur to Shahpur road both sides 2 acres Master Plan,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Fazilpur,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Fazilpur,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Fazilpur,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Samoura,Indri to Karnal road both sides 2 acres,agricultural,1704.55,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Samoura,Indri to Karnal road both sides 2 acres,residential,3500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Samoura,Indri to Karnal road both sides 2 acres,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Samoura,Samoura to Bibipur Jatan road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Samoura,Samoura to Ghurni road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Samoura,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Samoura,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Samoura,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Gumto,Gumto to Shekhupura Bangar road both sides 2 acres Master Plan,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Gumto,Gumto to Dhamanheri road both sides 2 acres Master Plan,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Gumto,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Gumto,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Gumto,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,BahlolpurViran,Gorgarh to Bahlolpur Viran road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,BahlolpurViran,Bahlolpur Viran land,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Gorgarh,Gorgarh to Bahlolpur Viran road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Gorgarh,Gorgarh to Khedi Man Singh road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Gorgarh,Gorgarh to Janesaro road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Gorgarh,Gorgarh to Amargarh road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Gorgarh,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Gorgarh,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Gorgarh,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Butankheri,Indri to Umri road both sides 2 acres,agricultural,960.74,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Butankheri,Butankheri to Panjokhra both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Butankheri,Butankheri to Badsalu road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Butankheri,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Butankheri,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Butankheri,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,BudanpurBangar,Indri to Umri road both sides 2 acres,agricultural,960.74,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,BudanpurBangar,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,BudanpurBangar,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,BudanpurBangar,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Ramgarh,Ramgarh to Budanpur Bangar road both sides 2 acres Master Plan,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Ramgarh,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Ramgarh,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Ramgarh,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,ManakMajra,Manak Majra to Kamalpur Gadiyan road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,ManakMajra,Manak Majra to Sheikhpura Bangar road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,ManakMajra,Manak Majra to Badsalu road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,ManakMajra,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,ManakMajra,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,ManakMajra,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,SheikhpuraBangar,Sheikhpura to Gumto road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,SheikhpuraBangar,Sheikhpura to Sikri road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,SheikhpuraBangar,Sheikhpura to Manak Majra road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,SheikhpuraBangar,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,SheikhpuraBangar,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,SheikhpuraBangar,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Panjokhra,Panjokhra to Rampura road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Panjokhra,Panjokhra to Gadi Sadhan road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Panjokhra,Panjokhra to Butankheri road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Panjokhra,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Panjokhra,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Panjokhra,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,GadiSadhan,Gadi Sadhan to Phusgarh road both sides 2 acres Master Plan,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,GadiSadhan,Gadi Sadhan to Gadi Jatan road both sides 2 acres Master Plan,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,GadiSadhan,Gadi Sadhan to Rehatkhana road both sides 2 acres Master Plan,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,GadiSadhan,Gadi Sadhan to Panjokhra road both sides 2 acres Master Plan,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,GadiSadhan,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,GadiSadhan,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,GadiSadhan,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Khanpur,Indri to Ladwa road both sides 2 acres,agricultural,1363.64,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Khanpur,Village to Indri-Ladwa road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Khanpur,Village to Indri-Ladwa road via school both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Khanpur,Khanpur to Jainpur Sadhan road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Khanpur,Khanpur to Chhappar road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Khanpur,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Khanpur,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Khanpur,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Dhumsi,Indri to Ladwa road both sides 2 acres,agricultural,1363.64,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Dhumsi,Dhumsi village to Indri Ladwa road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Dhumsi,Dhumsi to Gadi Jatan road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Dhumsi,Dhumsi to Dhumsa road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Dhumsi,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Dhumsi,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Dhumsi,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,JainpurSadhan,Jainpur Sadhan to Khanpur road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,JainpurSadhan,Jainpur Sadhan to Chhappar road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,JainpurSadhan,Jainpur Sadhan to Tapariya road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,JainpurSadhan,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,JainpurSadhan,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,JainpurSadhan,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Kaiharba,Kaiharba to Santadi road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Kaiharba,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Kaiharba,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Kaiharba,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Chhappar,Chhappar to Khanpur road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Chhappar,Chhappar to Jainpur Sadhan road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Chhappar,Chhappar to Bhutmajra road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Chhappar,Chhappar to Badehdi road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Chhappar,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Chhappar,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Chhappar,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Badehdi,Indri to Ladwa road both sides 2 acres Master Plan,agricultural,1363.64,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Badehdi,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Badehdi,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Badehdi,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Phusgarh,Indri to Ladwa road both sides 2 acres Master Plan,agricultural,1776.86,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Phusgarh,Indri to Ladwa road both sides 2 acres Master Plan,residential,4600,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Phusgarh,Indri to Ladwa road both sides 2 acres Master Plan,commercial,20000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Phusgarh,Remaining excluding listed khasra,agricultural,671.49,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Phusgarh,Remaining excluding listed khasra,residential,4600,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Phusgarh,Remaining excluding listed khasra,commercial,20000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Kadrabad,Indri to Bhadso road both sides 2 acres Master Plan,agricultural,960.74,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Kadrabad,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Kadrabad,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Kadrabad,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Dumra,Dumra to Indri road both sides 2 acres Master Plan,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Dumra,Dumra to Gumti road both sides 2 acres Master Plan,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Dumra,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Dumra,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Dumra,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Dhamanheri,Karnal to Indri road both sides 2 acres Master Plan,agricultural,1704.55,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Dhamanheri,Karnal to Indri road both sides 3 to 5 acres Master Plan,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Dhamanheri,Dhamanheri to Gudha both sides 2 acres Master Plan,agricultural,960.74,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Dhamanheri,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Dhamanheri,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Dhamanheri,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,KamalpurGadiyan,Indri to Bhadso road both sides 2 acres,agricultural,960.74,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,KamalpurGadiyan,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,KamalpurGadiyan,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,KamalpurGadiyan,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,ShekhpuraKhadar,Shekhpura Khadar to Hanif road 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,ShekhpuraKhadar,Shekhpura Khadar to Dhanaura Jagir road 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,ShekhpuraKhadar,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,ShekhpuraKhadar,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,ShekhpuraKhadar,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,KalraJagir,Kalra Jagir to Dhanaura Jagir road 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,KalraJagir,Kalra Jagir to Kalri Jagir road 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,KalraJagir,Kalra Jagir to Dhanokheri road 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,KalraJagir,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,KalraJagir,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,KalraJagir,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,DhanoKheri,Dhano Kheri to Nathauri road 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,DhanoKheri,Dhano Kheri to Hanauri road 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,DhanoKheri,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,DhanoKheri,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,DhanoKheri,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,DhanauraJagir,Dhanaura Jagir to Janghera road 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,DhanauraJagir,Dhanaura Jagir to Dhanokheri road 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,DhanauraJagir,Dhanaura Jagir to Shekhpura road 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,DhanauraJagir,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,DhanauraJagir,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,DhanauraJagir,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,KalriJagir,Kalri Jagir to Kalra Jagir road 2 acres,agricultural,681.82,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,KalriJagir,Kalri Jagir to Nathauri road 2 acres,agricultural,681.82,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,KalriJagir,Kalri Jagir to Khukhni road 2 acres,agricultural,681.82,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,KalriJagir,Remaining excluding listed khasra,agricultural,537.19,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,KalriJagir,Remaining excluding listed khasra,residential,2000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,KalriJagir,Remaining excluding listed khasra,commercial,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Kartarpur,Karnal to Yamunanagar via Garhi Birbal road 2 acres,agricultural,960.74,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Kartarpur,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Kartarpur,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Kartarpur,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Samaspur,Karnal to Yamunanagar via Garhi Birbal road 2 acres,agricultural,960.74,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Samaspur,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Samaspur,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Samaspur,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Kalsaura,Karnal to Yamunanagar via Garhi Birbal road 2 acres,agricultural,960.74,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Kalsaura,Land inside Yamuna bund,agricultural,382.23,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Kalsaura,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Kalsaura,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Kalsaura,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Chandrav,Karnal to Yamunanagar via Garhi Birbal road 2 acres,agricultural,764.46,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Chandrav,Land inside Yamuna bund,agricultural,340.91,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Chandrav,Remaining excluding listed khasra,agricultural,537.19,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Chandrav,Remaining excluding listed khasra,residential,2000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Chandrav,Remaining excluding listed khasra,commercial,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Kharak,Karnal to Yamunanagar via Garhi Birbal road 2 acres,agricultural,960.74,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Kharak,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Kharak,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Kharak,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Labkari,Karnal to Yamunanagar via Garhi Birbal road 2 acres,agricultural,960.74,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Labkari,Inside Yamuna bund,agricultural,382.23,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Labkari,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Labkari,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Labkari,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,BibipurJatan,Indri to Karnal link road 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,BibipurJatan,Phirni to Nagla Rodan road 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,BibipurJatan,Bibipur Jatan to Samoura road 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,BibipurJatan,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,BibipurJatan,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,BibipurJatan,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Janesro,Indri to Karnal road 2 acres,agricultural,1704.55,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Janesro,Indri to Karnal road 2 acres,residential,3500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Janesro,Indri to Karnal road 2 acres,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Janesro,Janesro to Gorgarh road,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Janesro,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Janesro,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Janesro,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Dhisarpuri,Indri to Karnal road 2 acres,agricultural,1704.55,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Dhisarpuri,Indri to Karnal road 3 to 5 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Dhisarpuri,Highway Colony,residential,5000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Dhisarpuri,Highway Colony,commercial,33000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Dhisarpuri,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Dhisarpuri,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Dhisarpuri,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Naurta,Indri to Karnal road 2 acres,agricultural,1704.55,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Naurta,Indri to Karnal road 2 acres,residential,3500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Naurta,Indri to Karnal road 2 acres,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Naurta,Naurta to Dhisarpuri road,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Naurta,Naurta to Janesro Depot road,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Naurta,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Naurta,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Naurta,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Bhadso,Indri to Umri road 2 acres,agricultural,960.74,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Bhadso,Indri to Bhadso Chowk 3 to 4 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Bhadso,Indri to Umri road from 5 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Bhadso,Nilokheri to Ladwa road 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Bhadso,Indri to Umri road 2 acres additional khasra,agricultural,960.74,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Bhadso,Bhadso Chowk commercial,commercial,14000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Bhadso,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Bhadso,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Bhadso,Remaining excluding listed khasra,commercial,7200,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,KhediJatan,Bhadso to Ladwa road 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,KhediJatan,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,KhediJatan,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,KhediJatan,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Udana,Sarwan Majra to Udana road 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Udana,Nilokheri to Ladwa road 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Udana,Udana to Gadli road 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Udana,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Udana,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Udana,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,SarwanMajra,Sarwan Majra to Rampura road 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,SarwanMajra,Nilokheri to Ladwa road 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,SarwanMajra,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,SarwanMajra,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,SarwanMajra,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Rampura,Rampura to Panjokhra road 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Rampura,Rampura to Sarwan Majra 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Rampura,Rampura to Udana 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Rampura,Rampura to Haibatpur 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Rampura,Rampura school to Rayatkhana 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Rampura,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Rampura,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Rampura,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,BeedBhadso,Beed Bhadso to Bairsal road 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,BeedBhadso,Beed Bhadso to Bhadso road 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,BeedBhadso,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,BeedBhadso,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,BeedBhadso,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,DabkauliKalan,Bayana to Dabkauli Kalan road 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,DabkauliKalan,Dabkauli Kalan to Chorpura road 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,DabkauliKalan,Dabkauli Kalan to Dabkauli Khurd road 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,DabkauliKalan,Randoli to Dabkauli Kalan road 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,DabkauliKalan,Land inside Yamuna bund Chahi,agricultural,382.23,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,DabkauliKalan,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,DabkauliKalan,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,DabkauliKalan,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,ChandSamand,Chand Samand to Ghorpura road 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,ChandSamand,Bayana to Karnal road 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,ChandSamand,Nagla Rodan to Chand Samand road 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,ChandSamand,Bayana to Chand Samand road 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,ChandSamand,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,ChandSamand,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,ChandSamand,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,NaglaRodan,Bibipur Jatan to Nagla Rodan road 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,NaglaRodan,Rindal to Nagla Rodan road 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,NaglaRodan,Nagla Rodan to Shahpur road 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,NaglaRodan,Nagla Rodan to Chand Samand road 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,NaglaRodan,Nagla Rodan to Bibipur Jatan road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,NaglaRodan,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,NaglaRodan,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,NaglaRodan,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Raityatkhana,Bhadso to Ladwa both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Raityatkhana,Raityatkhana to Beed Raityatkhana both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Raityatkhana,Raityatkhana to Rampura road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Raityatkhana,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Raityatkhana,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Raityatkhana,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,BeedRaityatkhana,Beed Raityatkhana to Raityatkhana road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,BeedRaityatkhana,Beed Raityatkhana to Garhi Jatan road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,BeedRaityatkhana,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,BeedRaityatkhana,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,BeedRaityatkhana,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Santri,Indri to Ladwa road both sides 2 acres,agricultural,1363.64,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Santri,Indri Ladwa road to Santri village both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Santri,Santri to Kaiharba road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Santri,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Santri,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Santri,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Andhgarh,Indri to Ladwa road both sides 2 acres,agricultural,1363.64,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Andhgarh,Andhgarh to Garhi Jatan,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Andhgarh,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Andhgarh,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Andhgarh,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,GadhiJatan,Gadhi Jatan to Gadhi Sadhan,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,GadhiJatan,Gadhi Jatan to Dhumsi,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,GadhiJatan,Gadhi Jatan to Andhgarh,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,GadhiJatan,Indri to Ladwa road both sides 2 acres,agricultural,1363.64,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,GadhiJatan,Indri to Ladwa road both sides 3 to 5 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,GadhiJatan,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,GadhiJatan,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,GadhiJatan,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Haibatpur,Nilokheri road to Haibatpur both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Haibatpur,Haibatpur to Salimpur,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Haibatpur,Haibatpur to Rampura,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Haibatpur,Bhadso to Ladwa road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Haibatpur,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Haibatpur,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Haibatpur,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Nathauri,Nathauri to Makhala,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Nathauri,Nathauri to Kalri Jagir,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Nathauri,Nathauri to Dhanokheri,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Nathauri,Nathauri to Garhi Birbal,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Nathauri,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Nathauri,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Nathauri,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Mukhali,Mukhali to Khukhni road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Mukhali,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Mukhali,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Mukhali,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Bhawji,Bhawji to Shergarh,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Bhawji,Bhawji to Hanauri,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Bhawji,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Bhawji,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Bhawji,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Rajpur,Umarpur to Rajpur,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Rajpur,Rajpur to Kalari Jagir,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Rajpur,Rajpur to Bhawji,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Rajpur,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Rajpur,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Rajpur,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Shergarh,Shergarh to Gadhi Birbal,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Shergarh,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Shergarh,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Shergarh,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Mukhala,Nathauri to Mukhala,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Mukhala,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Mukhala,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Mukhala,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,GadhiBirbal,Gadhi Birbal to Shergarh,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,GadhiBirbal,Gadhi Birbal to Nandi,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,GadhiBirbal,Land inside Yamuna bund,agricultural,382.23,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,GadhiBirbal,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,GadhiBirbal,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,GadhiBirbal,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,GadhiBirbal,Karnal to Yamunanagar road both sides 2 acres,agricultural,960.74,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Khukhni,Khukhni to Chaugawa road both sides 2 acres,agricultural,754.13,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Khukhni,Remaining excluding listed khasra,agricultural,537.19,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Khukhni,Remaining excluding listed khasra,residential,2000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Khukhni,Remaining excluding listed khasra,commercial,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Tusang,Tusang to Gadhi Birbal Indri road both sides 2 acres,agricultural,960.74,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Tusang,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Tusang,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Tusang,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Nandi,Nandi to Gadhi Birbal road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Nandi,Nandi to Labkari road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Nandi,Nandi to Bhawji road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Nandi,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Nandi,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Nandi,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Umarpur,Umarpur to Garhi Birbal road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Umarpur,Umarpur to Labkari road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Umarpur,Indri to Garhi Birbal road both sides 2 acres,agricultural,960.74,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Umarpur,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Umarpur,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Umarpur,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Fatehgarh,Fatehgarh to Indri Garhi Birbal road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Fatehgarh,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Fatehgarh,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Fatehgarh,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Fatehgarh,Indri to Garhi Birbal road both sides 2 acres,agricultural,960.74,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Halwana,Halwana to Saiyad Chhapra road both sides 2 acres,agricultural,382.23,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Halwana,Remaining excluding listed khasra,agricultural,382.23,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Halwana,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Halwana,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Nabiyabad,Nabiyabad to Gurudwara road both sides 2 acres,agricultural,382.23,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Nabiyabad,Inside Yamuna area,agricultural,382.23,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Nabiyabad,Across Yamuna towards UP,agricultural,382.23,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Nabiyabad,Remaining excluding listed khasra,agricultural,382.23,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Nabiyabad,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Nabiyabad,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Tatarpur,Inside Yamuna area,agricultural,382.23,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Tatarpur,Remaining excluding listed khasra,agricultural,382.23,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Tatarpur,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Tatarpur,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,JaptiChhapra,Japti Chhapra to Nabiyabad road both sides 2 acres,agricultural,382.23,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,JaptiChhapra,Japti Chhapra to Kalsaura road both sides 2 acres,agricultural,382.23,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,JaptiChhapra,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,JaptiChhapra,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,JaptiChhapra,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,SaiyadChhapra,Saiyad Chhapra to Japti Chhapra road both sides 2 acres,agricultural,382.23,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,SaiyadChhapra,Remaining excluding listed khasra,agricultural,382.23,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,SaiyadChhapra,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,SaiyadChhapra,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,KamalpurGadarian,Inside Yamuna area,agricultural,382.23,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,KamalpurGadarian,Across Yamuna towards UP,agricultural,382.23,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,KamalpurGadarian,Remaining excluding listed khasra,agricultural,382.23,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,KamalpurGadarian,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,KamalpurGadarian,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Badarpur,Karnal to Yamunanagar road both sides 2 acres,agricultural,960.74,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Badarpur,Badarpur to Nanhera road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Badarpur,Badarpur to Sikandarpur road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Badarpur,Sikandarpur mod to Bibipur Brahmanan road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Badarpur,Bibipur Brahmanan to Randauli road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Badarpur,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Badarpur,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Badarpur,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Bayana,Karnal to Yamunanagar road both sides 2 acres,agricultural,960.74,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Bayana,Karnal to Yamunanagar road both sides 2 acres,residential,3500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Bayana,Karnal to Yamunanagar road both sides 2 acres,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Bayana,Bayana Chowki to Dabkauli road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Bayana,Bayana to Shahpur road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Bayana,Bayana Chowki to Randauli road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Bayana,Indri road to Karnal Yamunanagar road both sides 2 acres,agricultural,960.74,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Bayana,Indri road to Karnal Yamunanagar road both sides 2 acres,residential,3500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Bayana,Indri road to Karnal Yamunanagar road both sides 2 acres,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Bayana,Bayana to Chand Samand road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Bayana,Bayana to Chand Samand road both sides 2 acres,residential,3500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Bayana,Bayana to Chand Samand road both sides 2 acres,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Bayana,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Bayana,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Bayana,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Randauli,Bayana border Nagal road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Randauli,Sikandarpur to Dabkauli road 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Randauli,Inside Yamuna bund,agricultural,382.23,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Randauli,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Randauli,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Randauli,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Islamnagar,Islamnagar to Kalari Jagir road 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Islamnagar,Islamnagar to Kalsaura road 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Islamnagar,Islamnagar to Tusang road 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Islamnagar,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Islamnagar,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Islamnagar,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,BibipurBrahmanan,Bibipur to Badarpur road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,BibipurBrahmanan,Bibipur to Randauli road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,BibipurBrahmanan,Bibipur to Kalsaura road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,BibipurBrahmanan,Bibipur to Dera Halwana road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,BibipurBrahmanan,Inside Yamuna bund,agricultural,382.23,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,BibipurBrahmanan,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,BibipurBrahmanan,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,BibipurBrahmanan,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,GadhpurKhalsa,Bayana to Indri road 2 acres,agricultural,960.74,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,GadhpurKhalsa,Gadhpur to Nanhera 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,GadhpurKhalsa,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,GadhpurKhalsa,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,GadhpurKhalsa,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,HansuMajra,Karnal to Yamunanagar road both sides 2 acres,agricultural,764.46,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,HansuMajra,Remaining excluding listed khasra,agricultural,537.19,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,HansuMajra,Remaining excluding listed khasra,residential,2000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,HansuMajra,Remaining excluding listed khasra,commercial,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Sikanderpur,Sikanderpur to Badarpur road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Sikanderpur,Sikanderpur to Dera Halwana road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Sikanderpur,Sikanderpur to Randauli,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Sikanderpur,Inside Yamuna bund,agricultural,382.23,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Sikanderpur,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Sikanderpur,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Sikanderpur,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,BrahmanMajra,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,BrahmanMajra,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,BrahmanMajra,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Dhumsa,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Dhumsa,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Dhumsa,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Musepur,Karnal to Yamunanagar road both sides 2 acres,agricultural,960.74,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Musepur,Inside Yamuna bund,agricultural,382.23,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Musepur,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Musepur,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Musepur,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,JoharMajraKalan,Johar Majra Kalan to Manoharpur,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,JoharMajraKalan,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,JoharMajraKalan,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,JoharMajraKalan,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,JoharMajraKhurd,Johar Majra Khurd to Rasulpur road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,JoharMajraKhurd,Johar Majra Khurd to Johar Majra Kalan road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,JoharMajraKhurd,Johar Majra Khurd to Indergarh road both sides 2 acres,agricultural,795.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,JoharMajraKhurd,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,JoharMajraKhurd,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,JoharMajraKhurd,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Shahpur,Shahpur to Fazalpur road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Shahpur,Shahpur to Nagla Rodan road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Shahpur,Shahpur to Bayana road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Shahpur,Shahpur to Manoharpur road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Shahpur,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Shahpur,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Shahpur,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Rasulpur,Rasulpur to Indergarh road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Rasulpur,Rasulpur to Johar Majra Khurd road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Rasulpur,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Rasulpur,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Rasulpur,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,MilkApoAap,Karnal to Yamunanagar road both sides 2 acres,agricultural,960.74,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,MilkApoAap,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,MilkApoAap,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,MilkApoAap,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Indergarh,Indergarh to Kheda road both sides 2 acres Master Plan,agricultural,960.74,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Indergarh,Indergarh to Kheda road both sides 2 acres Master Plan,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Indergarh,Indergarh to Kheda road both sides 2 acres Master Plan,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Indergarh,Indergarh to Indri road both sides 2 acres,agricultural,960.74,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Indergarh,Indergarh to Rasulpur road both sides 2 acres,agricultural,960.74,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Indergarh,Indergarh to Johar Majra Kalan road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Indergarh,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Indergarh,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Indergarh,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,KamalpurRodan,Kamalpur Rodan to Bibipur Jatan road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,KamalpurRodan,Kamalpur Rodan to Sangoha road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,KamalpurRodan,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,KamalpurRodan,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,KamalpurRodan,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,GadhpurTapu,Gadhpur to Gadhi Birbal road,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,GadhpurTapu,Inside Yamuna bund Chahi,agricultural,320.25,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,GadhpurTapu,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,GadhpurTapu,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,GadhpurTapu,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Manoharpur,Manoharpur to Fazalpur road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Manoharpur,Manoharpur to Johar Majra Kalan road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Manoharpur,Manoharpur to Nagla Rodan road both sides 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Manoharpur,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Manoharpur,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Manoharpur,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,KhedimanSingh,Indri Karnal road both sides 2 acres,agricultural,1704.55,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,KhedimanSingh,Khediman Singh to Amargarh road 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,KhedimanSingh,Khediman Singh to Sandhir road 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,KhedimanSingh,Khediman Singh to Ramba road 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,KhedimanSingh,Khediman Singh to Sameera road 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,KhedimanSingh,Khediman Singh to Gorgarh road 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,KhedimanSingh,Khediman Singh to Padhana 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,KhedimanSingh,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,KhedimanSingh,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,KhedimanSingh,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,GadiGujran,Indri to Karnal road both sides 2 acres,agricultural,1704.55,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,GadiGujran,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,GadiGujran,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,GadiGujran,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,SherpurVeeran,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,SherpurVeeran,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,SherpurVeeran,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Nagal,Remaining excluding listed khasra,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Nagal,Remaining excluding listed khasra,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Nagal,Remaining excluding listed khasra,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Nagal,Inside Yamuna bund,agricultural,382.23,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Chaugawan,Gadhi Birbal to Gumthala road both sides 2 acres,agricultural,960.74,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Chaugawan,Gadhi Birbal to Gumthala road beyond 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Chaugawan,Inside Yamuna bund,agricultural,382.23,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Chaugawan,Remaining excluding listed khasra,agricultural,516.53,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Chaugawan,Remaining excluding listed khasra,residential,2000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Chaugawan,Remaining excluding listed khasra,commercial,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Indri,Flood and sand land inside Yamuna bund only,agricultural,237.6,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Indri,Indri,All villages land inside Yamuna bund,agricultural,330.58,2026-04-01,karnal_gov_in_dc_notification

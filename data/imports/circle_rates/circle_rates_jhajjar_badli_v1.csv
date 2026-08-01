@@ -1,0 +1,175 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Jhajjar,Badli,Badli,RCC Built-up,residential,1600,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Badli,Kadi Garter Stone Built-up,residential,1200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Badli,Tin Shed Built-up,residential,800,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Badli,Jhajjar Chowk to Ch Dheerpal College Main Road,commercial,25000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Badli,First Floor Flat,residential,5000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Badli,Second+ Floor Flat,residential,4000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,DadriToye,Govt Regularized Colony,residential,15000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Yakubpur,Govt Regularized Colony,residential,15000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Badli,Govt Regularized Colony,residential,15000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Aurangpur,Govt Regularized Colony,residential,15000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Shyojipura,Govt Regularized Colony,residential,15000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Gubhana,Govt Regularized Colony,residential,8000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Badli,Licensed Colony,residential,25000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Badli,Licensed Colony,commercial,40000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Badli,Licensed Colony,industrial,15000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Ismailpur,Ismailpur,agricultural,1356.4,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Ismailpur,Ismailpur,agricultural,1695.33,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Ismailpur,Ismailpur,agricultural,1356.26,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Ismailpur,Ismailpur,residential,4000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Aurangpur,Aurangpur,agricultural,2147.73,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Aurangpur,Aurangpur,residential,10000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Aurangpur,Aurangpur,commercial,20300,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Kutani,Kutani,agricultural,772.21,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Kutani,Kutani,agricultural,738.64,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Kutani,Kutani,residential,4600,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Khalikpur,Khalikpur,agricultural,1551.14,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Khalikpur,Khalikpur,agricultural,3172.79,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Khalikpur,Khalikpur,residential,4000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Khagai,Khagai,agricultural,827.27,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Khagai,Khagai,agricultural,1222.11,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Khagai,Khagai,agricultural,864.88,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Khagai,Khagai,agricultural,1081.1,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Khagai,Khagai,agricultural,1113.64,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Khagai,Khagai,residential,4000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,KheriJat,Kheri Jat,agricultural,738.64,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,KheriJat,Kheri Jat,residential,4000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,KhedkaGujar,Khedka Gujar,agricultural,740.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,KhedkaGujar,Khedka Gujar,agricultural,925.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,KhedkaGujar,Khedka Gujar,residential,4000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Gangadwa,Gangadwa,agricultural,630.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Gangadwa,Gangadwa,agricultural,787.5,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Gangadwa,Gangadwa,residential,4000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Gubhana,Gubhana,agricultural,1033.57,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Gubhana,Gubhana,agricultural,988.64,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Gubhana,Gubhana,agricultural,1168.39,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Gubhana,Gubhana,residential,5700,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Gubhana,Gubhana,commercial,12900,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,GoylaKalan,Goyla Kalan,agricultural,578.14,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,GoylaKalan,Goyla Kalan,agricultural,809.38,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,GoylaKalan,Goyla Kalan,residential,4000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Jahangirpur,Jahangirpur,agricultural,1580.06,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Jahangirpur,Jahangirpur,agricultural,1511.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Jahangirpur,Jahangirpur,residential,4000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Jardakpur,Jardakpur,agricultural,609.5,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Jardakpur,Jardakpur,agricultural,609.38,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Jardakpur,Jardakpur,residential,4000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Dariyapur,Dariyapur,agricultural,1619.83,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Dariyapur,Dariyapur,agricultural,1620.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Dariyapur,Dariyapur,residential,5300,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Dariyapur,Dariyapur,commercial,5300,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,DadriToye,Dadri Toye,agricultural,4338.84,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,DadriToye,Dadri Toye,agricultural,5423.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,DadriToye,Dadri Toye,agricultural,3181.82,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,DadriToye,Dadri Toye,agricultural,3977.27,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,DadriToye,Dadri Toye,residential,12300,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,DadriToye,Dadri Toye,commercial,17200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Devarkhana,Gurgaon to Badli Major Road,agricultural,1804.69,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Devarkhana,Devarkhana,agricultural,1121.28,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Devarkhana,Devarkhana,agricultural,1401.65,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Devarkhana,Devarkhana,agricultural,1074.38,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Devarkhana,Devarkhana,residential,4200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Desalpur,Desalpur,agricultural,701.12,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Desalpur,Desalpur,agricultural,670.64,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Desalpur,Desalpur,agricultural,914.5,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Desalpur,Desalpur,residential,4000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Nangla,Nangla,agricultural,1247.42,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Nangla,Nangla,agricultural,1073.86,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Nangla,Nangla,agricultural,1097.73,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Nangla,Nangla,residential,9100,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Nangla,Nangla,commercial,20300,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Nimana,Nimana,agricultural,1355.89,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Nimana,Nimana,agricultural,1193.18,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Nimana,Nimana,residential,4000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Pelpa,Pelpa,agricultural,947.46,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Pelpa,Pelpa,agricultural,906.26,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Pelpa,Pelpa,agricultural,1029.98,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Pelpa,Pelpa,residential,4200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Fatehpur,Fatehpur,agricultural,1475.21,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Fatehpur,Fatehpur,agricultural,1352.27,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Fatehpur,Fatehpur,residential,4000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Fatehpur,Fatehpur,commercial,10100,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,FaizabadurfPahsaur,Faizabad urf Pahsaur,agricultural,1581.88,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,FaizabadurfPahsaur,Faizabad urf Pahsaur,agricultural,2372.81,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,FaizabadurfPahsaur,Faizabad urf Pahsaur,agricultural,1392.05,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,FaizabadurfPahsaur,Faizabad urf Pahsaur,residential,5700,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Badhsa,Badhsa,agricultural,3904.96,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Badhsa,Badhsa,agricultural,4881.2,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Badhsa,Badhsa,agricultural,2863.64,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Badhsa,Badhsa,agricultural,3254.13,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Badhsa,Badhsa,residential,12900,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Badhsa,Badhsa,commercial,24200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Badli,Badli,agricultural,1840.91,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Badli,Badli,agricultural,2301.14,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Badli,Badli,agricultural,1917.61,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Badli,Badli,agricultural,1687.5,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Badli,Badli,agricultural,2362.5,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Badli,Badli,residential,10100,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Badli,Badli,commercial,26300,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Bahmnola,Bahmnola,agricultural,1034.09,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Bahmnola,Bahmnola,agricultural,1762.67,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Bahmnola,Bahmnola,agricultural,6400,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Bahmnola,Bahmnola,residential,4000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,BirDadri,Bir Dadri,agricultural,1963.64,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,BirDadri,Bir Dadri,residential,10000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,BirDadri,Bir Dadri,commercial,25000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Bupaniyan,Bupaniyan,agricultural,750.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Bupaniyan,Bupaniyan,agricultural,937.5,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Bupaniyan,Bupaniyan,agricultural,1125.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Bupaniyan,Bupaniyan,agricultural,687.5,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Bupaniyan,Bupaniyan,agricultural,1048.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Bupaniyan,Bupaniyan,agricultural,718.76,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Bupaniyan,Bupaniyan,agricultural,898.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Bupaniyan,Bupaniyan,residential,4000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Majri,Majri,agricultural,754.15,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Majri,Majri,agricultural,721.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Majri,Majri,agricultural,1097.73,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Majri,Majri,residential,5700,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Majri,Majri,commercial,12900,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Mundakhera,Mundakhera,agricultural,1757.95,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Mundakhera,Mundakhera,agricultural,1487.5,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Mundakhera,Mundakhera,residential,4000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,MunimpurKukdaula,Munimpur Kukdaula,agricultural,1084.71,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,MunimpurKukdaula,Munimpur Kukdaula,agricultural,994.32,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,MunimpurKukdaula,Munimpur Kukdaula,residential,4200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,MohammadpurMajra,Mohammadpur Majra,agricultural,2004.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,MohammadpurMajra,Mohammadpur Majra,agricultural,1837.5,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,MohammadpurMajra,Mohammadpur Majra,residential,7500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,MohammadpurMajra,Mohammadpur Majra,commercial,7500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Yakubpur,Yakubpur,agricultural,3748.76,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Yakubpur,Yakubpur,agricultural,4685.95,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Yakubpur,Yakubpur,agricultural,3436.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Yakubpur,Yakubpur,residential,21800,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Yakubpur,Yakubpur,commercial,36300,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Lagarpur,Lagarpur,agricultural,1329.69,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Lagarpur,Lagarpur,agricultural,1662.13,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Lagarpur,Lagarpur,agricultural,1271.88,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Lagarpur,Lagarpur,agricultural,1589.86,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Lagarpur,Lagarpur,residential,4600,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Lathpur,Lathpur,agricultural,934.71,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Lathpur,Lathpur,agricultural,1168.39,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Lathpur,Lathpur,agricultural,856.82,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Lathpur,Lathpur,agricultural,1071.03,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Lathpur,Lathpur,agricultural,1572.83,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Lathpur,Lathpur,residential,4000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Luksar,Luksar,agricultural,604.42,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Luksar,Luksar,agricultural,755.52,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Luksar,Luksar,agricultural,578.14,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Luksar,Luksar,agricultural,722.67,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Luksar,Luksar,agricultural,809.92,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Luksar,Luksar,residential,4000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Lohat,Lohat,agricultural,1334.19,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Lohat,Lohat,agricultural,1819.79,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Lohat,Lohat,agricultural,1334.38,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Lohat,Lohat,residential,8700,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Shahpur,Shahpur,agricultural,531.88,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Shahpur,Shahpur,residential,4200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Shyojipura,Shyojipura,agricultural,2603.31,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Shyojipura,Shyojipura,agricultural,3254.13,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Shyojipura,Shyojipura,agricultural,2290.91,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Shyojipura,Shyojipura,residential,14500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Shyojipura,Shyojipura,commercial,24100,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,Sondhi,Sondhi,agricultural,1193.18,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,HabibpurViran,Habibpur Viran,residential,4000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Badli,HabibpurViran,Habibpur Viran,agricultural,578.14,2026-04-01,jhajjar_gov_in_dc_notification

@@ -1,0 +1,80 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Faridabad,Mohna,Aterna,Aterna,agricultural,1933.88,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Aterna,Aterna,agricultural,2417.36,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Aterna,Aterna,residential,4500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Aterna,Aterna,commercial,5000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Mahmadpur,Mahmadpur,agricultural,1446.28,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Mahmadpur,Mahmadpur,agricultural,1818.18,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Mahmadpur,Mahmadpur,residential,4500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Mahmadpur,Mahmadpur,commercial,5000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Chhainsa,Chhainsa,agricultural,2148.76,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Chhainsa,Chhainsa,agricultural,2685.95,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Chhainsa,Chhainsa,agricultural,1125.00,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Chhainsa,Chhainsa,agricultural,1406.20,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Chhainsa,Chhainsa,residential,7000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Chhainsa,Chhainsa,commercial,18000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,JafarpurMajraChhainsa,Jafarpur Majra Chhainsa,agricultural,1446.28,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,JafarpurMajraChhainsa,Jafarpur Majra Chhainsa,agricultural,1756.20,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,JafarpurMajraChhainsa,Jafarpur Majra Chhainsa,agricultural,886.36,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,JafarpurMajraChhainsa,Jafarpur Majra Chhainsa,residential,4500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,JafarpurMajraChhainsa,Jafarpur Majra Chhainsa,commercial,5000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Jawan,Jawan,agricultural,1549.59,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Jawan,Jawan,agricultural,1859.50,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Jawan,Jawan,residential,5500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Jawan,Jawan,commercial,6000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Dulhepur,Dulhepur,agricultural,1342.98,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Dulhepur,Dulhepur,agricultural,886.36,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Dulhepur,Dulhepur,residential,4500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Dulhepur,Dulhepur,commercial,5000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Narhawali,Narhawali,agricultural,2138.43,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Narhawali,Narhawali,agricultural,2494.83,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Narhawali,Narhawali,residential,5500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Narhawali,Narhawali,commercial,6000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Nariyala,Nariyala,agricultural,1652.89,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Nariyala,Nariyala,agricultural,2066.12,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Nariyala,Nariyala,residential,6000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Nariyala,Nariyala,commercial,6500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,PanheraKhurd,Panhera Khurd,agricultural,2996.53,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,PanheraKhurd,Panhera Khurd,agricultural,3822.31,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,PanheraKhurd,Panhera Khurd,residential,7000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,PanheraKhurd,Panhera Khurd,commercial,7500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Bhikuka,Bhikuka,agricultural,1446.28,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Bhikuka,Bhikuka,agricultural,903.41,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Bhikuka,Bhikuka,residential,4500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Bhikuka,Bhikuka,commercial,5000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Makanpur,Makanpur,agricultural,1239.67,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Makanpur,Makanpur,agricultural,801.15,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Makanpur,Makanpur,residential,4500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Makanpur,Makanpur,commercial,5000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Mohna,Mohna,agricultural,2727.27,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Mohna,Mohna,agricultural,3305.79,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Mohna,Mohna,agricultural,4338.84,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Mohna,Mohna,agricultural,1278.41,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Mohna,Mohna,residential,8500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Mohna,Mohna,commercial,20000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Mohna,Mohna,commercial,20000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Mohiyapur,Mohiyapur,agricultural,1425.62,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Mohiyapur,Mohiyapur,agricultural,921.31,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Mohiyapur,Mohiyapur,residential,4000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Mohiyapur,Mohiyapur,commercial,4500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Latifpur,Latifpur,agricultural,1342.98,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Latifpur,Latifpur,agricultural,903.41,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Latifpur,Latifpur,residential,4500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Latifpur,Latifpur,commercial,5000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Walipur,Walipur,agricultural,1549.59,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Walipur,Walipur,residential,3000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Walipur,Walipur,commercial,3500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Shahjahanpur,Shahjahanpur,agricultural,1342.98,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Shahjahanpur,Shahjahanpur,agricultural,1652.89,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Shahjahanpur,Shahjahanpur,agricultural,886.36,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Shahjahanpur,Shahjahanpur,residential,4500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Shahjahanpur,Shahjahanpur,commercial,5000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,SahupuraKhadar,Sahupura Khadar,agricultural,1342.98,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,SahupuraKhadar,Sahupura Khadar,agricultural,1652.89,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,SahupuraKhadar,Sahupura Khadar,agricultural,1033.06,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,SahupuraKhadar,Sahupura Khadar,residential,4500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,SahupuraKhadar,Sahupura Khadar,commercial,5000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Hirapur,Hirapur,agricultural,1446.28,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Hirapur,Hirapur,agricultural,1756.20,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Hirapur,Hirapur,residential,5500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Mohna,Hirapur,Hirapur,commercial,6000,2026-04-01,faridabad_gov_in_dc_notification

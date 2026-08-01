@@ -1,0 +1,253 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Hisar,Bass,BassAzamshahpur,Nehri Chahi,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassAzamshahpur,Barani Tibba Tal,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassAzamshahpur,Gair Mumkin,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassAzamshahpur,Vikasiya,residential,2300,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassAzamshahpur,Along Highway,commercial,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassAzamshahpur,Along Highway,residential,3500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassBadshahpur,Nehri Chahi,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassBadshahpur,Barani Tibba Tal,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassBadshahpur,Gair Mumkin,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassBadshahpur,Vikasiya,residential,2300,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassBadshahpur,Along Highway,commercial,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassBadshahpur,Along Highway,residential,3500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassKhurdBijan,Nehri Chahi,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassKhurdBijan,Barani Tibba Tal,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassKhurdBijan,Gair Mumkin,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassKhurdBijan,Vikasiya,residential,2500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassKhurdBijan,Along Highway,commercial,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassKhurdBijan,Along Highway,residential,3500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassAkbarpur,Nehri Chahi,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassAkbarpur,Barani Tibba Tal,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassAkbarpur,Gair Mumkin,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassAkbarpur,Vikasiya,residential,2300,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassAkbarpur,Along Highway,commercial,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassAkbarpur,Along Highway,residential,3500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Sisar,Nehri Chahi,agricultural,537.19,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Sisar,Barani Tibba Tal,agricultural,371.9,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Sisar,Gair Mumkin,agricultural,557.85,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Sisar,Vikasiya,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Sisar,Along Highway,commercial,4500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Sisar,Along Highway,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Kharbala,Nehri Chahi,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Kharbala,Barani Tibba Tal,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Kharbala,Gair Mumkin,agricultural,599.17,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Kharbala,Vikasiya,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Kharbala,Along Highway,commercial,4100,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Kharbala,Along Highway,residential,3500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Badala,Nehri Chahi,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Badala,Barani Tibba Tal,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Badala,Gair Mumkin,agricultural,599.17,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Badala,Vikasiya,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,PuthiSaiman,Nehri Chahi,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,PuthiSaiman,Barani Tibba Tal,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,PuthiSaiman,Gair Mumkin,agricultural,599.17,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,PuthiSaiman,Vikasiya,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Singhwakhas,Nehri Chahi,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Singhwakhas,Barani Tibba Tal,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Singhwakhas,Gair Mumkin,agricultural,599.17,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Singhwakhas,Vikasiya,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Singhwakhas,Along Highway,commercial,4500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Singhwakhas,Along Highway,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Madanhedi,Nehri Chahi,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Madanhedi,Barani Tibba Tal,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Madanhedi,Gair Mumkin,agricultural,599.17,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Madanhedi,Vikasiya,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Madanhedi,Along Highway,commercial,4500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Madanhedi,Along Highway,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Mohla,Nehri Chahi,agricultural,557.85,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Mohla,Barani Tibba Tal,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Mohla,Gair Mumkin,agricultural,599.17,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Mohla,Vikasiya,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Badchhapar,Nehri Chahi,agricultural,557.85,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Badchhapar,Barani Tibba Tal,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Badchhapar,Gair Mumkin,agricultural,599.17,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Badchhapar,Vikasiya,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Badchhapar,Along Highway,commercial,4500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Badchhapar,Along Highway,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Bhaklana,Nehri Chahi,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Bhaklana,Barani Tibba Tal,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Bhaklana,Gair Mumkin,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Bhaklana,Vikasiya,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Bhaklana,Along Highway,commercial,4500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Bhaklana,Along Highway,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,KheraRangran,Nehri Chahi,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,KheraRangran,Barani Tibba Tal,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,KheraRangran,Gair Mumkin,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,KheraRangran,Vikasiya,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Ugalan,Nehri Chahi,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Ugalan,Barani Tibba Tal,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Ugalan,Gair Mumkin,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Ugalan,Vikasiya,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Ugalan,Along Highway,commercial,4100,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Ugalan,Along Highway,residential,3500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,DharamKheri,Nehri Chahi,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,DharamKheri,Barani Tibba Tal,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,DharamKheri,Gair Mumkin,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,DharamKheri,Vikasiya,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Ghuskani,Nehri Chahi,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Ghuskani,Barani Tibba Tal,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Ghuskani,Gair Mumkin,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Ghuskani,Vikasiya,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,JamniKhera,Nehri Chahi,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,JamniKhera,Barani Tibba Tal,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,JamniKhera,Gair Mumkin,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,JamniKhera,Vikasiya,residential,2500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,JamniKhera,Along Highway,commercial,6000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,JamniKhera,Along Highway,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,KhandaKheri,Nehri Chahi,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,KhandaKheri,Barani Tibba Tal,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,KhandaKheri,Gair Mumkin,agricultural,599.17,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,KhandaKheri,Vikasiya,residential,2500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,KhandaKheri,Along Highway,commercial,6000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,KhandaKheri,Along Highway,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassAzamshahpur,NH Jind to Bhiwani 1 to 2 acres,agricultural,743.8,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassAzamshahpur,NH Jind to Bhiwani 3 to 5 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassAzamshahpur,Bass to Madanheri Road 1 to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassAzamshahpur,Bass to Madanheri Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassAzamshahpur,Bass Azamshahpur to Petwar Road 1 to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassAzamshahpur,Bass Azamshahpur to Petwar Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassAzamshahpur,Bass Azamshahpur to Hansi Road 1 to 2 acres,agricultural,743.8,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassAzamshahpur,Bass Azamshahpur to Hansi Road 3 to 5 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassBadshahpur,NH Jind to Bhiwani 1 to 2 acres,agricultural,743.8,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassBadshahpur,NH Jind to Bhiwani 3 to 5 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassKhurdBijan,Bass Khurd to Kharbala Road 1 to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassKhurdBijan,Bass Khurd to Kharbala Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassKhurdBijan,Hansi Julana Road 1 to 2 acres,agricultural,743.8,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassKhurdBijan,Hansi Julana Road 3 to 5 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassAkbarpur,Bass to Roshan Khera Road 1 to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassAkbarpur,Bass to Roshan Khera Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassAkbarpur,Bass Akbarpur to Petwar Road 1 to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassAkbarpur,Bass Akbarpur to Petwar Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassAkbarpur,Bass Akbarpur to Hansi Road 1 to 2 acres,agricultural,743.8,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassAkbarpur,Bass Akbarpur to Hansi Road 3 to 5 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassAkbarpur,Bass Akbarpur to Puthi Road 1 to 2 acres,agricultural,743.8,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassAkbarpur,Bass Akbarpur to Puthi Road 3 to 5 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassAkbarpur,Jind to Bhiwani Road 1 to 2 acres,agricultural,743.8,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,BassAkbarpur,Jind to Bhiwani Road 3 to 5 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Sisar,NH Jind to Bhiwani 1 to 2 acres,agricultural,743.8,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Sisar,NH Jind to Bhiwani 3 to 5 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Sisar,Sisar to Sorkhi Road 1 to 2 acres,agricultural,681.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Sisar,Sisar to Sorkhi Road 3 to 5 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Sisar,Sisar to Bhatol Road 1 to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Sisar,Sisar to Bhatol Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Sisar,Sisar to Madan Heri Road 1 to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Sisar,Sisar to Madan Heri Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Sisar,Sisar to Mundhal Road 1 to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Sisar,Sisar to Mundhal Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Kharbala,Kharbala to Badala Road 1 to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Kharbala,Kharbala to Badala Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Kharbala,Kharbala to Bass Road 1 to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Kharbala,Kharbala to Bass Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Kharbala,Kharbala to Bhatol Road 1 to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Kharbala,Kharbala to Bhatol Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Kharbala,Kharbala to Parbhu Wala Road 1 to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Kharbala,Kharbala to Parbhu Wala Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Kharbala,NH Jind to Bhiwani 1 to 2 acres,agricultural,743.8,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Kharbala,NH Jind to Bhiwani 3 to 5 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Badala,Badala to Bass Road 1 to 2 acres,agricultural,681.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Badala,Badala to Bass Road 3 to 5 acres,agricultural,475.21,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Badala,Badala to Petwar Road 1 to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Badala,Badala to Petwar Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Badala,Badala to Sisar Kharbala Road 1 to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Badala,Badala to Sisar Kharbala Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Badala,Badala to Thurana Road 1 to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Badala,Badala to Thurana Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Puthi,Puthi to Bass Road 1 to 2 acres,agricultural,785.12,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Puthi,Puthi to Bass Road 3 to 5 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Puthi,Puthi to Badchhaper Road 1 to 2 acres,agricultural,557.85,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Puthi,Puthi to Badchhaper Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Puthi,Puthi to Bedwa Road 1 to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Puthi,Puthi to Bedwa Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Puthi,Puthi to Mohla Road 1 to 2 acres,agricultural,557.85,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Puthi,Puthi to Mohla Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Puthi,Puthi to Meham Road 1 to 2 acres,agricultural,743.8,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Puthi,Puthi to Meham Road 3 to 5 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Puthi,Puthi to Singhwa-Madanheri Road 1 to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Puthi,Puthi to Singhwa-Madanheri Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,SinghwaKhas,Singhwa Khas to Pipla Road 1 to 2 acres,agricultural,681.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,SinghwaKhas,Singhwa Khas to Pipla Road 3 to 5 acres,agricultural,495.87,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,SinghwaKhas,Mundhal to Singhwa Khas Road 1 to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,SinghwaKhas,Mundhal to Singhwa Khas Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,SinghwaKhas,Singhwa Khas to Mato Road 1 to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,SinghwaKhas,Singhwa Khas to Mato Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,SinghwaKhas,Singhwa Khas to Samain Road 1 to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,SinghwaKhas,Singhwa Khas to Samain Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,SinghwaKhas,Singhwa Khas to Puthi Road 1 to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,SinghwaKhas,Singhwa Khas to Puthi Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,SinghwaKhas,NH Rohtak to Hisar 1 to 2 acres,agricultural,929.75,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,SinghwaKhas,NH Rohtak to Hisar 3 to 5 acres,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Madanheri,Madan Heri to Bass Road 1 to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Madanheri,Madan Heri to Bass Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Madanheri,Madan Heri Road to Bass 1 to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Madanheri,Madan Heri Road to Bass 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Madanheri,Jind Bhiwani Road to Madan Heri Road 1 to 2 acres,agricultural,743.8,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Madanheri,Jind Bhiwani Road to Madan Heri Road 3 to 5 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Madanheri,Jind Bhiwani Road to Madan Heri 1 to 2 acres,agricultural,743.8,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Madanheri,Jind Bhiwani Road to Madan Heri 3 to 5 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Madanheri,Pipla Pul Road to Madan Heri Road 1 to 2 acres,agricultural,681.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Madanheri,Pipla Pul Road to Madan Heri Road 3 to 5 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Madanheri,NH Jind to Bhiwani 1 to 2 acres,agricultural,743.8,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Madanheri,NH Jind to Bhiwani 3 to 5 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Madanheri,NH Rohtak to Hisar 1 to 2 acres,agricultural,929.75,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Madanheri,NH Rohtak to Hisar 3 to 5 acres,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Mohla,Mohla to Bass Road 1 to 2 acres,agricultural,743.8,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Mohla,Mohla to Bass Road 3 to 5 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Mohla,Mohla to Khera Rangran Road 1 to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Mohla,Mohla to Khera Rangran Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Mohla,Mohla to Puthi Road 1 to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Mohla,Mohla to Puthi Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Badchhapar,Badchhapar to Puthi Road 1 to 2 acres,agricultural,537.19,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Badchhapar,Badchhapar to Puthi Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Badchhapar,Hansi Julana Road 1 to 2 acres,agricultural,743.8,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Badchhapar,Hansi Julana Road 3 to 5 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Bhaklana,Bhaklana to Bass-Julana Road 1 to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Bhaklana,Bhaklana to Bass-Julana Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Bhaklana,Bhaklana to Petwar Road 1 to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Bhaklana,Bhaklana to Petwar Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Bhaklana,Jind Bhiwani Road to Bhaklana 1 to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Bhaklana,Jind Bhiwani Road to Bhaklana 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Bhaklana,Bhaklana to Ugalan Road 1 to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Bhaklana,Bhaklana to Ugalan Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Bhaklana,NH Jind to Bhiwani 1 to 2 acres,agricultural,743.8,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Bhaklana,NH Jind to Bhiwani 3 to 5 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,KheraRangran,1 to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,KheraRangran,3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Ugalan,NH Jind to Bhiwani 1 to 2 acres,agricultural,743.8,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Ugalan,NH Jind to Bhiwani 3 to 5 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Ugalan,Ugalan to Khanda Kheri Road 1 to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Ugalan,Ugalan to Khanda Kheri Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Ugalan,Ugalan to Petwar Road 1 to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Ugalan,Ugalan to Petwar Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Ugalan,Ugalan to Mohla Road 1 to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Ugalan,Ugalan to Mohla Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Ugalan,Ugalan to Khrenti Road 1 to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Ugalan,Ugalan to Khrenti Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,DharamKheri,Dharam Kheri to Bawana Road 1 to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,DharamKheri,Dharam Kheri to Bawana Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,DharamKheri,Dharam Kheri to Ugalan Road 1 to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,DharamKheri,Dharam Kheri to Ugalan Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,DharamKheri,Dharam Kheri to Jamni Khera Road 1 to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,DharamKheri,Dharam Kheri to Jamni Khera Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Ghuskani,Ghuskani to Bawana Road 1 to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Ghuskani,Ghuskani to Bawana Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Ghuskani,Ghuskani Ugalan Road 1 to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,Ghuskani,Ghuskani Ugalan Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,JamniKhera,Jamni Khera to Khanda Kheri Road 1 to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,JamniKhera,Jamni Khera to Khanda Kheri Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,JamniKhera,Jamni Khera to Ighra Road 1 to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,JamniKhera,Jamni Khera to Ighra Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,KhandaKheri,Khanda Kheri to Jamni Khera Road 1 to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,KhandaKheri,Khanda Kheri to Jamni Khera Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,KhandaKheri,Khanda Kheri to Dharmkheri Road 1 to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,KhandaKheri,Khanda Kheri to Dharmkheri Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,KhandaKheri,Khanda Kheri to Kagsar Road 1 to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,KhandaKheri,Khanda Kheri to Kagsar Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,KhandaKheri,Khanda Kheri to Narnaund Road 1 to 2 acres,agricultural,743.8,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,KhandaKheri,Khanda Kheri to Narnaund Road 3 to 5 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,KhandaKheri,Khanda Kheri to Petwar Road 1 to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,KhandaKheri,Khanda Kheri to Petwar Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,KhandaKheri,Khanda Kheri to Ugalan Road 1 to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,KhandaKheri,Khanda Kheri to Ugalan Road 3 to 5 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,KhandaKheri,NH Jind to Bhiwani 1 to 2 acres,agricultural,743.8,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Bass,KhandaKheri,NH Jind to Bhiwani 3 to 5 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification

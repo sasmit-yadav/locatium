@@ -1,0 +1,432 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Sirsa,Dabwali,अब्बूबशहर,अब्बूबशहर,agricultural,454.25,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,अब्बूबशहर,अब्बूबशहर,agricultural,315.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,अब्बूबशहर,अब्बूबशहर,residential,1210,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,अब्बूबशहर,अब्बूबशहर,commercial,2640,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,अब्बूबशहर,अब्बूबशहर की सड़क के साथ लगता खसरा,agricultural,625.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,अब्बूबशहर,अब्बूबशहर गांव की फिरनी के साथ लगते खसरा,agricultural,625.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,अब्बूबशहर,डबवाली से चौटाला रोड स्टेट हाई वे 3 से 5 एकड़ तक,agricultural,681.82,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,अब्बूबशहर,डबवाली से चौटाला रोड स्टेट हाई वे से 2 एकड़ तक,agricultural,681.82,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,अब्बूबशहर,राजस्व रास्ता 1 एकड़ तक,agricultural,412.95,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,अलीकां,अलीका,agricultural,328.12,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,अलीकां,अलीका,agricultural,210.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,अलीकां,अलीका,residential,1210,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,अलीकां,अलीका,commercial,2420,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,अलीकां,अलीका गांव डबवाली से ऐलनाबाद रोड़,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,अलीकां,अलीका फिरनी के साथ लगता रकबा,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,अलीकां,अलीका से गांव डबवाली रासेता,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,अलीकां,अलीका से मसीता रास्ता,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,अलीकां,अलीका से शेरगढ़,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,अलीकां,अलीका से शेरगढ़ बाया गोबिन्दगढ़,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,अलीकां,अलीका से शेरगढ़ बाया मसीता,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,अलीकां,अलीका से सकता खेड़ा,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,अलीकां,नेशनल हाईवे से 2 एकड़ तक,agricultural,477.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,अलीकां,नेशनल हाईवे से 3 से 5 एकड़ तक,agricultural,457.39,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,अलीकां,राजस्व रास्ता 1 एकड़ तक,agricultural,274.43,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,अलीकां,स्टेट हाईवे 3 से 5 एकड़ तक,agricultural,457.39,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,अलीकां,स्टेट हाईवे से 2 एकड़ तक,agricultural,477.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,आसाखेड़ा,आसाखेड़ा,agricultural,262.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,आसाखेड़ा,आसाखेड़ा,agricultural,210.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,आसाखेड़ा,आसाखेड़ा,residential,1210,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,आसाखेड़ा,आसाखेड़ा गांव फिरनी के साथ लगते खसरा,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,आसाखेड़ा,आसाखेड़ा जी.टी.रोड़ से गांव चौटाला तक,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,आसाखेड़ा,आसाखेड़ा जी.टी.रोड़ से गांव तक,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,आसाखेड़ा,आसाखेड़ा से गांव भारुखेड़ा तक,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,आसाखेड़ा,आसाखेड़ा से चेतक रोड़ा,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,आसाखेड़ा,आसाखेड़ा से जण्डवाला बिशनोईया तक,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,आसाखेड़ा,आसाखेड़ा से सुखेरावाला,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,आसाखेड़ा,नेशनल हाई-वे 3 से 5 एकड़ तक,agricultural,457.39,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,आसाखेड़ा,नेशनल हाई-वे से 2 एकड़ तक,agricultural,477.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,आसाखेड़ा,राजस्व रास्ता 1 एकड़ तक,agricultural,274.43,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,खुईंयामलकाना,खुईंया मलकाना,agricultural,432.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,खुईंयामलकाना,खुईंया मलकाना,agricultural,345.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,खुईंयामलकाना,खुईंया मलकाना,residential,1331,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,खुईंयामलकाना,खुईंया मलकाना मेन हाईवे,agricultural,625.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,खुईंयामलकाना,खुईंया मलकाना से गांव फिरनी के साथ लगता रकबा,agricultural,487.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,खुईंयामलकाना,खुईंया मलकाना से दिवान खेड़ा,agricultural,487.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,खुईंयामलकाना,खुईंया मलकाना से मटदादु,agricultural,487.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,खुईंयामलकाना,खुईंया मलकाना से मलिकपुरा,agricultural,487.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,खुईंयामलकाना,नेशनल हाईवे डबवाली से सिरसा रोड सड़क के साथ 3 से 5 एकड़तक,agricultural,509.66,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,खुईंयामलकाना,नेशनल हाईवे डबवाली से सिरसा सड़क के साथ 2 एकड़ तक,agricultural,681.82,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,खुईंयामलकाना,मैन हाई वे से खुईंया मलकाना,agricultural,487.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,खुईंयामलकाना,राजस्व रास्ता 1 एकड़ तक,agricultural,452.16,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गांवडबवाली,1-गौल चौक से मलोट रोड,commercial,16825,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गांवडबवाली,2-गौल चौक से मलोट उत्तर तरफ,residential,6982.8,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गांवडबवाली,34-पी.डब्ल्यू रेस्ट हाउस,commercial,16577,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गांवडबवाली,35-पी.डब्ल्यू रेस्ट पश्चिम तरफ,residential,6831,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गांवडबवाली,36-पी.डब्ल्यू रेस्ट पूर्व तरफ,residential,6050,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गांवडबवाली,37-चौधरी काटन फैक्ट्री के पीछे,residential,4054,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गांवडबवाली,38-गौल चौक से सिरसा रोड,residential,9120,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गांवडबवाली,38-गौल चौक से सिरसा रोड,commercial,17303,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गांवडबवाली,39-गौल चौक से वाटर वर्कस,residential,6201.25,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गांवडबवाली,40 गज चौधरी काटन फैकटी के पीछे,commercial,8107,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गांवडबवाली,40 गज पी. डब्लयू रेस्ट पश्चिम तरफ,commercial,16577,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गांवडबवाली,40 गज पी.डब्लयू रेस्ट पूर्व तरफ,commercial,16577,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गांवडबवाली,40 गज वाटर वर्कस से सेमनाला,commercial,5940,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गांवडबवाली,40 गज-गौल चौक से वाटर वर्कस,commercial,17303,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गांवडबवाली,40 वर्ग गज चौहान नगर,commercial,5082,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गांवडबवाली,40 वर्ग गज जवाहर नगर,commercial,9922,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गांवडबवाली,40 वर्ग गज धारीवाल नगर,commercial,5082,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गांवडबवाली,40 वर्ग गज शिव नगर,commercial,3146,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गांवडबवाली,40-वाटर वर्कस से सेमनाला,residential,2574,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गांवडबवाली,41-सेमनाला से रानिया चौक,residential,2420,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गांवडबवाली,41-सेमनाला से रानिया चौक,commercial,7381,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गांवडबवाली,42-चौहान नगर,residential,2922.15,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गांवडबवाली,43-धारीवाल नगर,residential,2541,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गांवडबवाली,44- जवाहर नगर,residential,4961,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गांवडबवाली,45-शिव नगर,residential,1573,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गांवडबवाली,गांव डबवाली,agricultural,474.9,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गांवडबवाली,गांव डबवाली,agricultural,329.32,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गांवडबवाली,गांव डबवाली,residential,1391.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गांवडबवाली,गांव डबवाली,commercial,2760,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गांवडबवाली,गांव डबवाली फिरनी के खसरा,agricultural,487.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गांवडबवाली,गांव डबवाली से कालांवाली मैन रोड़,agricultural,487.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गांवडबवाली,गांव डबवाली से चसमा रोड़,agricultural,487.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गांवडबवाली,गांव डबवाली से जोगेवाला रोड़,agricultural,487.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गांवडबवाली,गांव डबवाली से डूमवाली,agricultural,487.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गांवडबवाली,गांव डबवाली से रानिया रोड़ मैन,agricultural,576.14,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गांवडबवाली,गांव डबवाली से सिरसा मैन रोड़ हाईवे,agricultural,625.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गांवडबवाली,नेशनल हाईवे 3 से 5 एकड़ तक,agricultural,653.41,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गांवडबवाली,नेशनल हाईवे से 2 एकड़ तक,agricultural,681.82,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गांवडबवाली,राजस्व रास्ता 1 एकड़ तक,agricultural,412.95,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गांवडबवाली,सेम नाले से शहर की तरफ,agricultural,400.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गांवडबवाली,स्टेट हाईवे 3 से 5 एकड़ तक,agricultural,653.41,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गांवडबवाली,स्टेट हाईवे से 2 एकड़ तक,agricultural,681.82,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गोबिन्दगढ़,गोबिन्दगढ़,agricultural,330.62,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गोबिन्दगढ़,गोबिन्दगढ़,agricultural,300.3,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गोबिन्दगढ़,गोबिन्दगढ़,residential,1331,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गोबिन्दगढ़,गोबिन्दगढ़ गांव फिरनी के खसरा,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गोबिन्दगढ़,गोबिन्दगढ़ गांव शेरगढ़ से लखुआना रोड,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गोबिन्दगढ़,गोबिन्दगढ़ से मसीता से सकता खेड़ा,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गोबिन्दगढ़,गोबिन्दगढ़ से राजपुरा,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,गोबिन्दगढ़,राजस्व रास्ता 1 एकड़ तक,agricultural,300.57,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,चठ्ठा,चठ्ठा,agricultural,287.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,चठ्ठा,चठ्ठा,agricultural,231.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,चठ्ठा,चठ्ठा,residential,1331,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,चठ्ठा,चठ्ठा गांव फिरनी के साथ लगता रकबा,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,चठ्ठा,चठ्ठा से तरखेवाला,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,चठ्ठा,चठ्ठा से फूलो,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,चठ्ठा,चठ्ठा से सेखू,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,चौटाला,चौटाला,agricultural,454.25,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,चौटाला,चौटाला,agricultural,329.32,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,चौटाला,चौटाला,residential,1265,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,चौटाला,चौटाला,commercial,4002,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,चौटाला,चौटाला गांव फिरनी के साथ लगते खसरा नम्बर,agricultural,525.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,चौटाला,चौटाला से आसाखेड़ा लिंक रोड़,agricultural,525.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,चौटाला,चौटाला से जसवन्त गोदारा रोड़,agricultural,525.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,चौटाला,चौटाला से तेजाखेड़ा लिंक रोड़,agricultural,525.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,चौटाला,चौटाला से भारूखेड़ा लिंक रोड़,agricultural,525.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,चौटाला,चौटाला से रतनपुरा बाईपास,agricultural,620.45,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,चौटाला,चौटाला से संगरिया मैन रोड़,agricultural,681.82,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,चौटाला,चौटाला से साबुआना लिंक रोड़,agricultural,525.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,चौटाला,चौटाला से सालीवाला लिंक रोड़,agricultural,525.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,चौटाला,चौटाला से सिखावाली ढाणी रोड़,agricultural,525.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,चौटाला,नेशनल हाईवे 3 से 5 एकड़ तक,agricultural,653.41,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,चौटाला,नेशनल हाईवे से 2 एकड़ तक,agricultural,681.82,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,चौटाला,राजस्व रास्ता 1 एकड़ तक,agricultural,412.95,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,चौटाला,स्टेट हाईवे 3 से 5 एकड़ तक,agricultural,548.86,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,चौटाला,स्टेट हाईवे से 2 एकड़ तक,agricultural,572.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,जुतावाली,जुतावाली,agricultural,432.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,जुतावाली,जुतावाली,agricultural,345.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,जुतावाली,जुतावाली,residential,1331,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,जुतावाली,जुतावाली से फिरनी के साथ लगता रकबा,agricultural,487.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,जुतावाली,जुतावाली से भुलरवाला,agricultural,487.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,जुतावाली,जुतावाली से लोहगढ़ लिंक रोड़,agricultural,487.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,जुतावाली,जुतावाली से संगरिया,agricultural,487.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,जुतावाली,राजस्व रास्ता 1 एकड़ तक,agricultural,452.16,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,जोगेवाला,जोगेवाला,agricultural,315.6,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,जोगेवाला,जोगेवाला,agricultural,210.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,जोगेवाला,जोगेवाला,residential,1210,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,जोगेवाला,जोगेवाला गांव फिरनी के साथ लगता रकबा,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,जोगेवाला,जोगेवाला से डबवाली गांव तक,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,जोगेवाला,जोगेवाला से डूमवाली तक,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,जोगेवाला,जोगेवाला से देसूजोधा तक,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,जोगेवाला,जोगेवाला से मांगेआना तक,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,जोगेवाला,नैशनल हाईवे से 2 एकड़ तक,agricultural,681.82,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,जोगेवाला,नैशनल हाईवे से 3 से 5 एकड़ तक,agricultural,653.41,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,जोगेवाला,राजस्व रास्ता 1 एकड़ तक,agricultural,274.43,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,तिगड़ी,तिगड़ी,agricultural,330.62,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,तिगड़ी,तिगड़ी,agricultural,231.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,तिगड़ी,तिगड़ी,residential,1331,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,तिगड़ी,तिगड़ी से खौखर,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,तिगड़ी,तिगड़ी से गांव फिरनी के साथ लगते खसरे,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,तिगड़ी,तिगड़ी से चड्ढा,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,तिगड़ी,तिगड़ी से नौरंग,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,तेजाखेड़ा,तेजा खेड़ा,agricultural,432.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,तेजाखेड़ा,तेजा खेड़ा,agricultural,345.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,तेजाखेड़ा,तेजा खेड़ा,residential,1331,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,तेजाखेड़ा,तेजाखेड़ा से अबूबशहर,agricultural,487.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,तेजाखेड़ा,तेजाखेड़ा से आसाखेड़ा,agricultural,487.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,तेजाखेड़ा,तेजाखेड़ा से गांव फिरनी के साथ लगता रकबा,agricultural,487.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,तेजाखेड़ा,तेजाखेड़ा से चौटाला,agricultural,487.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,तेजाखेड़ा,तेजाखेड़ा से चौटाला संगरियाहाई वे-,agricultural,625.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,तेजाखेड़ा,तेजाखेड़ा से ढाबा राजस्थान सीमा तक,agricultural,487.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,तेजाखेड़ा,राजस्व रास्ता 1 एकड़ तक,agricultural,452.16,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,दिवानखेड़ा,दिवान खेड़ा,agricultural,287.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,दिवानखेड़ा,दिवान खेड़ा,agricultural,231.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,दिवानखेड़ा,दिवान खेड़ा,residential,1331,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,दिवानखेड़ा,दिवानखेड़ा गांव फिरनी के साथ लगता रकबा,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,दिवानखेड़ा,दिवानखेड़ा से खुईया मलकाना,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,दिवानखेड़ा,दिवानखेड़ा से साँवत खेड़ा,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,दिवानखेड़ा,राजस्व रास्ता 1 एकड़ तक,agricultural,300.57,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,देसुजोधा,देसुजोधा,agricultural,287.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,देसुजोधा,देसुजोधा,agricultural,231.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,देसुजोधा,देसुजोधा,residential,1331,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,देसुजोधा,देसुजोधा से जोगेवाला रोड़,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,देसुजोधा,देसुजोधा से पन्नीवाला रोड़,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,देसुजोधा,देसुजोधा से फिरनी के साथ लगता रकबा,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,देसुजोधा,देसुजोधा से फूलो रोड़,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,देसुजोधा,देसुजोधा से माँगेआना रोड़,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,देसुजोधा,देसुजोधा से सेखू रोड़,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,देसुजोधा,देसुजोधा से हैबूआना रोड़,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,देसुजोधा,राजस्व रास्ता 1 एकड़ तक,agricultural,300.57,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,10-हरि0 काटन फै0 पूर्व की तरफ,residential,2299,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,11-गौल चौक से निरंकारी भवन,residential,7865,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,11-गौल चौक से निरंकारी भवन,commercial,17330,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,12-निरंकारी भवन से बिश्नोई,residential,7865,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,12-निरंकारी भवन से बिश्नोई,commercial,16577,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,13-तहसील कम्पलैक्स से शेरगढ,commercial,6534,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,14-तहसील कम्पलैक्स से शेरगढ,residential,2299,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,15-बस स्टेण्ड के साथ व वाली सडक,residential,6655,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,15-बस स्टेण्ड के साथ व वाली सडक,commercial,19063.55,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,16-बी0 एड कालेज से रेलवे फाटक,residential,8712,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,16-बी0 एड कालेज से रेलवे फाटक,commercial,18634,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,17-कबीर चौक से रेलवे फाटक,residential,6555,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,17-कबीर चौक से रेलवे फाटक,commercial,12936,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,18-मीना बाजार मैन बाजार,commercial,26312,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,19-मीना बाजार की दोनो तरफ,residential,13080.1,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,19-मीना बाजार की दोनो तरफ,commercial,18658.75,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,1-गौल चौक से मलोट रोड 100 फुट,commercial,16825,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,20-मैन बाजार खसरा न0,residential,13673,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,20-मैन बाजार खसरा न0,commercial,23238.05,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,21-आर्य समाज स्कूल पुराना,residential,8954,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,21-आर्य समाज स्कूल पुराना,commercial,12584,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,22-कल्ब से रामबाग तक,residential,2909.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,23-रविदास नगर,residential,2365.55,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,24-प्रेमनगर,residential,4174.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,24-प्रेमनगर,commercial,9900,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,25-प्रेम नगर से आगे इन्दिरा,residential,1815,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,26-कबीर नगर,residential,2299,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,27-हुड्डा प्लाट,residential,22983.95,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,28-हुड्डा Industrial Plot,commercial,27885,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,29-नई अनाज मण्डी ए ब्लाक,commercial,25168,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,2-गौल चौक से मलोट रोड उत्तर की,residential,7590,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,30-नई अनाज मण्डी बी ब्लाक,commercial,25168,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,31-नई अनाज मण्डी ए-बी ब्लाक,commercial,25168,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,32-बुथ नई अनाज खाली प्लाट,commercial,71269,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,33-बुथ नई अ0 बी ब्लाक खाली,commercial,74900,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,34-पी0 डब्ल्यू रेस्ट हाउस,commercial,16577,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,35-पी.डब्ल्यू पश्चिम तरफ,residential,6831,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,36-पी.डब्ल्यू पूर्व तरफ,residential,6050,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,37-चौधरी काट्न फैक्ट्री,residential,4054,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,38-गौल चौक से सिरसा रोड,residential,9120,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,38-गौल चौक से सिरसा रोड,commercial,17303,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,39-गौल चौक से वाटर वर्कस,residential,4961,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,3-गौल चौक से मलोट रोड दक्षिण,residential,7744,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,40 वर्ग गज कल्ब से रामबाग तक,commercial,4840,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,40 वर्ग गज गौल चौक अलीका 110 फुट पूर्व,commercial,16577,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,40 वर्ग गज गौत चौक से मलोट रोड 110 फुट-,commercial,16093,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,40 वर्ग गज गौत चौक से मलोट रोड दक्षिण,commercial,16093,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,40 वर्ग गज गौत चौक से वाटर वर्कस,commercial,17303,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,40 वर्ग गज चौधरी काटन फैक्ट्री,commercial,8107,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,40 वर्ग गज तहसील कम्पलैक्स से शेरगढ,commercial,6534,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,40 वर्ग गज पी.डबल्यू पश्चिम तरफ,commercial,16577,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,40 वर्ग गज पी.डबल्यू पूर्व तरफ,commercial,16577,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,40 वर्ग गज प्रेम नगर से आगे इन्दिरा,commercial,3630,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,40 वर्ग गज रविदास नगर,commercial,4731.1,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,40 वर्ग गज वाटर वर्कस से सेमनाला,commercial,4356,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,40 वर्ग गज से कम प्रेमनगर,commercial,7260,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,40 वर्ग गज हरि0 कोटन फै0 से गांव शेरगढ,commercial,6050,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,40 वर्ग गज हुड्डा Industrial Plot,commercial,23595,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,40-वाटर वर्कस से सेमनाला,residential,2574,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,4-गौल चौक अलीका 110 फुट पूर्व,residential,9994,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,4-गौल चौक अलीका 110 फुट पूर्व,commercial,16577,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,5-गौल चौक से अलीका राजीव नगर,residential,10815,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,6-अलीका रोड से विश्रोई मन्दिर,residential,9323.05,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,6-अलीका रोड से विश्रोई मन्दिर,commercial,13673,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,7-अलीका रोड से बि0 मन्दिर फुट,residential,4235,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,8-बिश0 मन्दिर सामने हरि0 काटन,residential,4840,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,8-बिश0 मन्दिर सामने हरि0 काटन,commercial,11132,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,9-हरि0 कोटन फै0 से गांव शेरगढ,residential,3174,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,9-हरि0 कोटन फै0 से गांव शेरगढ,commercial,6050,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,ईम्परपमैन्ट ट्रस्ट मण्डी डबवाली की दुकाने का व्यवसायिक रैट लगेंगे व रिहायशी रेट,residential,11374,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,ईम्परपमैन्ट ट्रस्ट मण्डी डबवाली की दुकाने का व्यवसायिक रैट लगेंगे व रिहायशी रेट,commercial,17330,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,नई डबवाली,agricultural,756.88,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,नई डबवाली,agricultural,431.25,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,नई डबवाली से अलीका रोड़,agricultural,531.82,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,नई डबवाली से चशमा रोड़ा बाया शेरगढ़,agricultural,531.82,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,नई डबवाली से चौटाला रोड़,agricultural,681.82,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,नेशनल हाईवे 3 से 5 एकड़ तक,agricultural,653.41,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,नेशनल हाईवे से 2 एकड़ तक,agricultural,681.82,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नईडबवाली,राजस्व रास्ता 1 एकड़ तक,agricultural,452.16,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नयाराजपुरा,नया राजपुरा,agricultural,274.43,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नयाराजपुरा,नया राजपुरा,agricultural,210.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नयाराजपुरा,नया राजपुरा,residential,1210,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नयाराजपुरा,नया राजपुरा सड़क के साथ लगते खसरा,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नयाराजपुरा,राजस्व रास्ता 1 एकड़ तक,agricultural,274.43,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नयाराजपुरा,स्टेट हाईवे 3 से 5 एकड़ तक,agricultural,457.39,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नयाराजपुरा,स्टेट हाईवे से 2 एकड़ तक,agricultural,477.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नीलांवाली,नीलांवाली से मौँगेआना,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नीलांवाली,नीलांवाली से साँवत खेड़ा,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नीलांवाली,नीलांवाली से हैबूआना,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नीलांवाली,नीलांवाली,agricultural,375.71,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नीलांवाली,नीलांवाली,agricultural,231.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नीलांवाली,नीलांवाली,residential,1815,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नीलांवाली,नीलावाली गांव लिंक रोड,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नीलांवाली,नीलावाली फिरनी के साथ लगता रकबा,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नीलांवाली,नीलावाली सिरसा डबवाली हाई वे,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नीलांवाली,नीलावाली से टोल तक लिंक रोड,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नीलांवाली,नीलावाली से पन्नीवाला रुलदू,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नीलांवाली,नेशनल हाईवे 3 से 5 एकड़ तक,agricultural,457.39,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नीलांवाली,नेशनल हाईवे 3 से 5 एकड़ तक नीलावाली से NH -09 पर टोल प्लाजा तक सड़क,agricultural,457.39,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नीलांवाली,नेशनल हाईवे से 2 एकड़ तक,agricultural,477.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नीलांवाली,नेशनल हाईवे से 2 एकड़ तक नीलावाली से NH -09 पर टोल प्लाजा तक सड़क के साथ,agricultural,477.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,नीलांवाली,राजस्व रास्ता 1 एकड़ तक,agricultural,300.57,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,पन्नीवालामोरिका,पन्नीवाला मोरिका,agricultural,287.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,पन्नीवालामोरिका,पन्नीवाला मोरिका,agricultural,231.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,पन्नीवालामोरिका,पन्नीवाला मोरिका,residential,1331,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,पन्नीवालामोरिका,पन्नीवाला मोरिका गांव फिरनी के साथ लगता रकबा,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,पन्नीवालामोरिका,पन्नीवाला मोरिका से जोगेवाला,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,पन्नीवालामोरिका,पन्नीवाला मोरिका से देसूजोधा,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,पन्नीवालामोरिका,पन्नीवाला मोरिका से पथराला रोड़,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,पन्नीवालामोरिका,पन्नीवाला मोरिका से फल्लड़ रोड़,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,पन्नीवालामोरिका,पन्नीवाला मोरिका से रूलदू वाला,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,पन्नीवालामोरिका,राजस्व रास्ता 1 एकड़ तक,agricultural,287.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,पन्नीवालारूलदू,पन्नीवाला रूलदू,agricultural,300.57,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,पन्नीवालारूलदू,पन्नीवाला रूलदू,agricultural,231.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,पन्नीवालारूलदू,पन्नीवाला रूलदू,residential,1331,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,पन्नीवालारूलदू,पन्नीवाला रूलदू गांव से फिरनी के साथ लगता रकबा,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,पन्नीवालारूलदू,पन्नीवाला रूलदू से कालवाली रोड़ तक,agricultural,477.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,पन्नीवालारूलदू,पन्नीवाला रूलदू से कालांवाली मैन सड़क तक,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,पन्नीवालारूलदू,पन्नीवाला रूलदू से नीलावाली रोड़,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,पन्नीवालारूलदू,पन्नीवाला रूलदू से मिट्ठड़ी रोड़,agricultural,503.12,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,पन्नीवालारूलदू,पन्नीवाला रूलदू से हैबूआना रोड़,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,पन्नीवालारूलदू,राजस्व रास्ता 1 एकड़ तक,agricultural,300.57,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,फूलो,फूलो,agricultural,287.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,फूलो,फूलो,agricultural,231.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,फूलो,फूलो,residential,1331,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,फूलो,फूलो गांव फिरनी के साथ लगता रकबा,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,फूलो,फूलो से खोखर,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,फूलो,फूलो से चड्डा,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,फूलो,फूलो से देसूजोधा,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,फूलो,फूलो से हैबूआना,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,फूलो,राजस्व रास्ता 1 एकड़ तक,agricultural,300.57,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,भारूखेड़ा,भारूखेड़ा,agricultural,330.62,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,भारूखेड़ा,भारूखेड़ा,agricultural,231.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,भारूखेड़ा,भारूखेड़ा,residential,1331,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,भारूखेड़ा,भारूखेड़ा गांव फिरनी,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,भारूखेड़ा,भारूखेड़ा गांव फिरनी के साथ लगता खसरा,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,भारूखेड़ा,भारूखेड़ा से जण्डवाला बिशनोईया,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,भारूखेड़ा,भारुखेड़ा से आसा खेड़ा,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,भारूखेड़ा,भारुखेड़ा से चौटाला,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,भारूखेड़ा,भारुखेड़ा से चौटाला बाया जण्डवाला बिश्नोईया,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,भारूखेड़ा,भारुखेड़ा से साबुआना,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,भारूखेड़ा,राजस्व रास्ता 1 एकड़ तक,agricultural,300.57,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,मसीता,मसीता,agricultural,416.88,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,मसीता,मसीता,agricultural,231.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,मसीता,मसीता,residential,1331,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,मसीता,मसीता गांव फिरनी से साथ लगते खसरे,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,मसीता,मसीता से अबूबशहर राजपुरा,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,मसीता,मसीता से अलीका रोड़,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,मसीता,मसीता से ऐलनाबाद मैं रोड़,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,मसीता,मसीता से शेरगढ़ लिंक रोड़,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,मसीता,मसीता से सकता खेड़ा लिंक रोड़,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,मसीता,मसीता से सावत खेड़ा लिंक रोड़,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,मसीता,राजस्व रास्ता 1 एकड़ तक,agricultural,300.57,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,मसीता,स्टेट हाईवे से 2 एकड़ तक,agricultural,477.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,मसीता,स्टेट हाईवे से 3 से 5 एकड़ तक,agricultural,457.39,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,मागेआना,NH 9 जी.टी रोड़ माँगेआना,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,मागेआना,माँगेआना से गांव फिरनी के खसरा नम्बर,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,मागेआना,माँगेआना से जोगेवाला,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,मागेआना,माँगेआना से देसूजोधा,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,मागेआना,माँगेआना से नीलावाली,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,मागेआना,माँगेआना से सांवतखेड़ा,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,मागेआना,माँगेआना से हैबूआना,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,मागेआना,मागेआना,agricultural,287.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,मागेआना,मागेआना,agricultural,231.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,मागेआना,मागेआना,residential,1331,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,मौजगढ,State Highway 3 से 5 एकड़ तक मौजगढ से ऐलनाबाद रोड़,agricultural,457.39,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,मौजगढ,State Highway से 2 एकड़ तक मौजगढ से ऐलनाबाद रोड़,agricultural,477.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,मौजगढ,मौजगढ,agricultural,287.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,मौजगढ,मौजगढ़,agricultural,231.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,मौजगढ,मौजगढ़,residential,1530.65,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,मौजगढ,मौजगढ़ गांव फिरनी के खसरा नम्बर,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,मौजगढ,मौजगढ़ से ऐलनाबाद रोड़,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,मौजगढ,मौजगढ़ से लखुआना लिंक रोड़,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,मौजगढ,राजस्व रास्ता 1 एकड़ तक,agricultural,300.57,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,लखुआना,राजस्व रास्ता 1 एकड़ तक,agricultural,300.57,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,लखुआना,लखुआना,agricultural,287.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,लखुआना,लखुआना,agricultural,231.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,लखुआना,लखुआना,residential,1331,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,लखुआना,लखुआना गांव फिरनी के साथ लगता खसरा,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,लखुआना,लखुआना से गिदड़खेड़ा,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,लखुआना,लखुआना से शेरगढ़,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,लोहगढ़,राजस्व रास्ता 1 एकड़ तक,agricultural,452.16,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,लोहगढ़,लोहगढ़,agricultural,432.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,लोहगढ़,लोहगढ़,agricultural,345.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,लोहगढ़,लोहगढ़,residential,1331,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,लोहगढ़,लोहगढ़ गांव फिरनी के साथ लगता खसरा,agricultural,487.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,लोहगढ़,लोहगढ़ जनरेली रोड़,agricultural,487.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,लोहगढ़,लोहगढ़ से अबूबशहर जरनेली सड़क,agricultural,487.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,लोहगढ़,लोहगढ़ से जुतावाली रोड़,agricultural,487.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,लोहगढ़,लोहगढ़ से ढाबा,agricultural,487.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,लोहगढ़,लोहगढ़ से फक्ताखेड़ा,agricultural,487.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,लोहगढ़,लोहगढ़ से बडिंगखेड़ा,agricultural,487.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,लोहगढ़,लोहगढ़ से सकता खेड़ा,agricultural,487.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,शेरगढ,नेशनल हाईवे से 2 एकड तक,agricultural,681.82,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,शेरगढ,राजस्व रास्ता 1 एकड तक,agricultural,412.95,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,शेरगढ,शेरगढ़,agricultural,431.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,शेरगढ,शेरगढ़,agricultural,449.07,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,शेरगढ,शेरगढ़,residential,1210,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,शेरगढ,शेरगढ़,commercial,2420,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,शेरगढ,शेरगढ गांव डबवाली गांव तक रोड़,agricultural,487.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,शेरगढ,शेरगढ गांव फिरनी के साथ लगता खसरा,agricultural,560.62,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,शेरगढ,शेरगढ गांव से अलीका रोड़ा,agricultural,487.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,शेरगढ,शेरगढ गांव से बडिंगखेड़ा रोड़,agricultural,487.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,शेरगढ,शेरगढ गांव से मसीता,agricultural,487.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,शेरगढ,शेरगढ गांव से लखुआना रोड़,agricultural,487.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,शेरगढ,शेरगढ से चौटाला रोड मैन,agricultural,625.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,शेरगढ,स्टेट हाईवे से 3 से 5 एकड़ तक,agricultural,509.66,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,शेरगढ,स्टेट हाईवे से 3 से 5 एकड़ तक डबवाली से चौटाला रोड़,agricultural,849.43,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,शेरगढ,स्टेट हाईवे से 3 से 5 एकड़ तक डबवाली से चौटाला रोड़,agricultural,1045.45,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,सकताखेड़ा,State Highway 3 से 5 एकड़ तक,agricultural,457.39,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,सकताखेड़ा,State Highway से 2 एकड़ तक,agricultural,477.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,सकताखेड़ा,राजस्व रास्ता 1 एकड़ तक,agricultural,300.57,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,सकताखेड़ा,सकता खेड़ा,agricultural,328.12,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,सकताखेड़ा,सकता खेड़ा,agricultural,210.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,सकताखेड़ा,सकता खेड़ा,residential,1210,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,सकताखेड़ा,सकता खेड़ा गांव फिरनी से साथ लगते खसरे,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,सकताखेड़ा,सकता खेड़ा से मसीता रोड़,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,सकताखेड़ा,सकता खेड़ा से मैन रोड़ हाई वे,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,सकताखेड़ा,सकता खेड़ा से लोहगढ़ रोड़,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,सावतखेड़ा,साँवत खेड़ा से गांव फिरनी के साथ लगता रकबा,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,सावतखेड़ा,साँवत खेड़ा से डबवाली सिरसा हाई वे,agricultural,503.12,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,सावतखेड़ा,साँवत खेड़ा से दिवानखेड़ा,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,सावतखेड़ा,साँवत खेड़ा से नीलावाली,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,सावतखेड़ा,साँवत खेड़ा से मसीता,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,सावतखेड़ा,साँवत खेड़ा से माँगँआना,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,सावतखेड़ा,सावत खेड़ा,agricultural,330.62,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,सावतखेड़ा,सावत खेड़ा,agricultural,422.62,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,सावतखेड़ा,सावत खेड़ा,residential,1331,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,सुखेरावाला,नेशनल हाईवे 3 से 5 एकड़ तक,agricultural,653.41,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,सुखेरावाला,नेशनल हाईवे से 2 एकड़ तक,agricultural,681.82,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,सुखेरावाला,राजस्व रास्ता 1 एकड़ तक,agricultural,274.43,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,सुखेरावाला,सुखेरा खेड़ा,agricultural,274.43,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,सुखेरावाला,सुखेरा खेड़ा,agricultural,210.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,सुखेरावाला,सुखेरा खेड़ा,residential,1210,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,सुखेरावाला,सुखेरावाला गांव फिरनी के साथ लगते खसरे,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,सुखेरावाला,सुखेरावाला मैन हाई वे रोड़,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,सुखेरावाला,सुखेरावाला से जण्डवाला बिशोनाईया लिंक रोड़,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,सुखेरावाला,सुखेरावाला से जरनेली सड़क,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,हेबुआना,राजस्व रास्ता 1 एकड़ तक,agricultural,300.57,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,हेबुआना,हेबआना,agricultural,287.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,हेबुआना,हेबआना,agricultural,231.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,हेबुआना,हेबआना,residential,1331,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,हेबुआना,हैबुआना कालावाली रोड़ से गांव तक,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,हेबुआना,हैबुआना गांव फिरनी के खसरा,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,हेबुआना,हैबुआना मैन रोड़ कालावाली रोड़,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,हेबुआना,हैबुआना से देसूजोधा रोड़,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,हेबुआना,हैबुआना से पन्नीवाला रोड़,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,हेबुआना,हैबुआना से फूलो रोड,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,हेबुआना,हैबुआना से माँगेआना रोड,agricultural,546.88,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Dabwali,हेबुआना,हैबुआना से माखा रोड,agricultural,437.5,2026-04-01,sirsa_gov_in_dc_notification

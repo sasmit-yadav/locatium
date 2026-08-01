@@ -1,0 +1,691 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Palwal,Hodal,Aurangabad,APPROVED RESIDENTIAL COLONY ALLOWED BY HUDA OR DTP Aurangabad,residential,14520,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Aurangabad,Aurangabad,agricultural,1250.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Aurangabad,Aurangabad,agricultural,6050,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Aurangabad,Aurangabad,residential,6050,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Aurangabad,Aurangabad,commercial,15180,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Aurangabad,Aurangabad,industrial,7018,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Aurangabad,ON N.H UPTO 2 ACRES DEPTH,agricultural,2727.27,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Aurangabad,ON N.H UPTO 2 ACRES DEPTH,residential,6050,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Aurangabad,ON N.H UPTO 2 ACRES DEPTH,commercial,16698,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Aurangabad,ON N.H UPTO 2 ACRES DEPTH,industrial,7018,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Karman,APPROVED RESIDENTIAL COLONY ALLOWED BY HUDA OR DTP,residential,14520,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Karman,ON N.H UPTO 2 ACRES DEPTH,agricultural,2500.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Karman,ON N.H UPTO 2 ACRES DEPTH,residential,2420,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Karman,Karman,agricultural,1045.45,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Karman,Karman,residential,2420,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Karman,Karman,commercial,8470,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Karman,Karman,industrial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,KachiKhera,APPROVED RESIDENTIAL COLONY ALLOWED BY HUDA OR DTP,residential,14520,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,KachiKhera,Kachi Khera,agricultural,500.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,KachiKhera,Kachi Khera,agricultural,2420,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,KachiKhera,Kachi Khera,residential,2420,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,KachiKhera,Kachi Khera,commercial,3630,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,KachiKhera,Kachi Khera,industrial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Kodla,Kodla,agricultural,849.43,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Kodla,Kodla,agricultural,2420,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Kodla,Kodla,residential,2420,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Kodla,Kodla,commercial,3630,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Kodla,Kodla,industrial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Kodla,APPROVED RESIDENTIAL COLONY ALLOWED BY HUDA OR DTP,residential,14520,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,KhatelaSarai,APPROVED RESIDENTIAL COLONY ALLOWED BY HUDA OR DTP,residential,14520,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,KhatelaSarai,ON N.H UPTO 2 ACRES DEPTH,agricultural,3267.05,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,KhatelaSarai,ON N.H UPTO 2 ACRES DEPTH,residential,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,KhatelaSarai,ON N.H UPTO 2 ACRES DEPTH,commercial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,KhatelaSarai,ON N.H UPTO 2 ACRES DEPTH,industrial,6292,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,KhatelaSarai,Khatela Sarai,agricultural,1812.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,KhatelaSarai,Khatela Sarai,agricultural,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,KhatelaSarai,Khatela Sarai,residential,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,KhatelaSarai,Khatela Sarai,commercial,14520,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,KhatelaSarai,Khatela Sarai,industrial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Khirbi,APPROVED RESIDENTIAL COLONY ALLOWED BY HUDA OR DTP,residential,14520,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Khirbi,Khirbi,agricultural,751.42,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Khirbi,Khirbi,agricultural,2420,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Khirbi,Khirbi,residential,2420,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Khirbi,Khirbi,commercial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Khirbi,Khirbi,industrial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Gudhrana,APPROVED RESIDENTIAL COLONY ALLOWED BY HUDA OR DTP,residential,14520,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Gudhrana,ON N.H UPTO 2 ACRES DEPTH,agricultural,2500.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Gudhrana,ON N.H UPTO 2 ACRES DEPTH,residential,3630,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Gudhrana,ON N.H UPTO 2 ACRES DEPTH,commercial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Gudhrana,ON N.H UPTO 2 ACRES DEPTH,industrial,6292,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Gudhrana,Gudhrana,agricultural,1045.45,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Gudhrana,Gudhrana,agricultural,3630,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Gudhrana,Gudhrana,residential,3630,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Gudhrana,Gudhrana,commercial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Gudhrana,Gudhrana,industrial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Godauta,APPROVED RESIDENTIAL COLONY ALLOWED BY HUDA OR DTP,residential,14520,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Godauta,Godauta,agricultural,781.25,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Godauta,Godauta,agricultural,2420,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Godauta,Godauta,residential,2420,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Godauta,Godauta,commercial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Godauta,Godauta,industrial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,JalalpurMafi,APPROVED RESIDENTIAL COLONY ALLOWED BY HUDA OR DTP,residential,14520,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,JalalpurMafi,Jalalpur Mafi,agricultural,500.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,JalalpurMafi,Jalalpur Mafi,agricultural,2420,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,JalalpurMafi,Jalalpur Mafi,residential,2420,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,JalalpurMafi,Jalalpur Mafi,commercial,3630,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,JalalpurMafi,Jalalpur Mafi,industrial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Dakora,APPROVED RESIDENTIAL COLONY ALLOWED BY HUDA OR DTP,residential,14520,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Dakora,Dakora,agricultural,1518.6,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Dakora,Dakora,agricultural,2420,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Dakora,Dakora,residential,2420,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Dakora,Dakora,commercial,8772.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Dakora,Dakora,industrial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Dadka,APPROVED RESIDENTIAL COLONY ALLOWED BY HUDA OR DTP,residential,14520,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Dadka,Dadka,agricultural,500.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Dadka,Dadka,agricultural,2420,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Dadka,Dadka,residential,2420,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Dadka,Dadka,commercial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Dadka,Dadka,industrial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Tumsara,ON N.H UPTO 2 ACRES DEPTH,agricultural,3142.3,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Tumsara,ON N.H UPTO 2 ACRES DEPTH,residential,3630,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Tumsara,ON N.H UPTO 2 ACRES DEPTH,commercial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Tumsara,ON N.H UPTO 2 ACRES DEPTH,industrial,6292,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Tumsara,Tumsara,industrial,6292,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Tumsara,Tumsara,agricultural,1782.02,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Tumsara,Tumsara,agricultural,3630,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Tumsara,Tumsara,residential,3630,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Tumsara,Tumsara,commercial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Tumsara,Tumsara,industrial,5060,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Deegot,APPROVED RESIDENTIAL COLONY ALLOWED BY HUDA OR DTP,residential,14520,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Deegot,Deegot,agricultural,1019.32,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Deegot,Deegot,agricultural,3630,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Deegot,Deegot,residential,4554,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Deegot,Deegot,commercial,11550,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Deegot,Deegot,industrial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Palri,Palri,agricultural,625.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Palri,Palri,agricultural,2530,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Palri,APPROVED RESIDENTIAL COLONY ALLOWED BY HUDA OR DTP,residential,14520,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Palri,Palri,residential,2530,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Palri,Palri,commercial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Palri,Palri,industrial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Paingaltu,Paingaltu,agricultural,625.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Paingaltu,Paingaltu,agricultural,2420,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Paingaltu,APPROVED RESIDENTIAL COLONY ALLOWED BY HUDA OR DTP,residential,14520,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Paingaltu,Paingaltu,residential,2420,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Paingaltu,Paingaltu,commercial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Paingaltu,Paingaltu,industrial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Paingaltu,ON N.H 19 AFTER 2 ACRES DEPTH,agricultural,1725.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Paingaltu,ON N.H 19 AFTER 2 ACRES DEPTH,residential,6050,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Paingaltu,ON N.H 19 AFTER 2 ACRES DEPTH,commercial,14520,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Paingaltu,ON N.H 19 AFTER 2 ACRES DEPTH,industrial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Paingaltu,ON N.H UPTO 2 ACRES DEPTH,agricultural,2500.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Banchari,ON N.H UPTO 2 ACRES DEPTH,agricultural,2500.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Banchari,ON N.H UPTO 2 ACRES DEPTH,residential,6050,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Banchari,ON N.H UPTO 2 ACRES DEPTH,commercial,6292,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Banchari,ON N.H UPTO 2 ACRES DEPTH,industrial,6292,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Banchari,Banchari,agricultural,1725.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Banchari,Banchari,agricultural,6050,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Banchari,Banchari,residential,6050,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Banchari,Banchari,commercial,18876,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Banchari,Banchari,industrial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Banchari,APPROVED RESIDENTIAL COLONY ALLOWED BY HUDA OR DTP,residential,14520,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Bapotali,Bapotali,agricultural,836.36,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Bapotali,Bapotali,agricultural,2420,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Bapotali,Bapotali,residential,2420,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Bapotali,Bapotali,commercial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Bapotali,Bapotali,industrial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Baswa,APPROVED RESIDENTIAL COLONY ALLOWED BY HUDA OR DTP,residential,14520,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Baswa,Baswa,agricultural,653.41,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Baswa,Baswa,agricultural,2420,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Baswa,Baswa,residential,2420,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Baswa,Baswa,commercial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Baswa,Baswa,industrial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Boraka,APPROVED RESIDENTIAL COLONY ALLOWED BY HUDA OR DTP,residential,14520,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Boraka,Boraka,agricultural,522.73,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Boraka,Boraka,agricultural,2420,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Boraka,Boraka,residential,2420,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Boraka,Boraka,commercial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Boraka,Boraka,industrial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Jhiduki,APPROVED RESIDENTIAL COLONY ALLOWED BY HUDA OR DTP,residential,14520,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Jhiduki,Jhiduki,agricultural,812.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Jhiduki,Jhiduki,agricultural,3630,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Jhiduki,Jhiduki,residential,3630,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Jhiduki,Jhiduki,commercial,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Jhiduki,Jhiduki,industrial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Bhulwana,APPROVED RESIDENTIAL COLONY ALLOWED BY HUDA OR DTP,residential,14520,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Bhulwana,ON N.H UPTO 2 ACRES DEPTH,agricultural,2500.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Bhulwana,ON N.H UPTO 2 ACRES DEPTH,residential,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Bhulwana,ON N.H UPTO 2 ACRES DEPTH,commercial,14520,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Bhulwana,ON N.H UPTO 2 ACRES DEPTH,industrial,6292,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Bhulwana,Bhulwana,agricultural,1437.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Bhulwana,Bhulwana,agricultural,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Bhulwana,Bhulwana,residential,14520,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Bhulwana,Bhulwana,commercial,14520,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Bhulwana,Bhulwana,industrial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Marroli,APPROVED RESIDENTIAL COLONY ALLOWED BY HUDA OR DTP,residential,14520,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Marroli,Marroli,agricultural,750.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Marroli,Marroli,agricultural,3630,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Marroli,Marroli,residential,3630,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Marroli,Marroli,commercial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Marroli,Marroli,industrial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Mitrol,APPROVED RESIDENTIAL COLONY ALLOWED BY HUDA OR DTP,residential,14520,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Mitrol,ON N.H UPTO 2 ACRES DEPTH,agricultural,4772.73,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Mitrol,ON N.H UPTO 2 ACRES DEPTH,residential,6050,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Mitrol,ON N.H UPTO 2 ACRES DEPTH,commercial,14520,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Mitrol,ON N.H UPTO 2 ACRES DEPTH,industrial,6325,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Mitrol,Mitrol,agricultural,2585.23,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Mitrol,Mitrol,residential,6050,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Mitrol,Mitrol,commercial,14520,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Mitrol,Mitrol,industrial,6325,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Lohina,APPROVED RESIDENTIAL COLONY ALLOWED BY HUDA OR DTP,residential,14520,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Lohina,APPROVED RESIDENTIAL COLONY ALLOWED BY HUDA OR DTP,industrial,5060,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Lohina,Lohina,agricultural,625.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Lohina,Lohina,agricultural,2420,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Lohina,Lohina,residential,2420,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Lohina,Lohina,commercial,3630,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Lohina,Lohina,industrial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Sheelka,APPROVED RESIDENTIAL COLONY ALLOWED BY HUDA OR DTP,residential,14520,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Sholaka,Sholaka,agricultural,500.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Sholaka,Sholaka,agricultural,2420,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Sholaka,Sholaka,residential,2420,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Sholaka,Sholaka,residential,3630,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Sholaka,Sholaka,commercial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Sholaka,Sholaka,industrial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Siha,APPROVED RESIDENTIAL COLONY ALLOWED BY HUDA OR DTP,residential,14520,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Siha,Siha,agricultural,625.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Siha,Siha,agricultural,2420,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Siha,Siha,residential,2420,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Siha,Siha,commercial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Siha,Siha,industrial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Sewli,APPROVED RESIDENTIAL COLONY ALLOWED BY HUDA OR DTP,residential,14520,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Sewli,Sewli,agricultural,954.55,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Sewli,Sewli,agricultural,2420,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Sewli,Sewli,residential,2420,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Sewli,Sewli,commercial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Sewli,Sewli,industrial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Sewli,ON HODAL-NUH ROAD UPTO 2 ACRES DEPTH,agricultural,1962.81,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Sewli,ON HODAL-NUH ROAD UPTO 2 ACRES DEPTH,residential,3630,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Sewli,ON HODAL-NUH ROAD UPTO 2 ACRES DEPTH,commercial,6050,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Sewli,ON HODAL-NUH ROAD UPTO 2 ACRES DEPTH,industrial,6292,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Sewli,ON HODAL-NUH ROAD AFTER 2 ACRES DEPTH,agricultural,926.65,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Sewli,ON HODAL-NUH ROAD AFTER 2 ACRES DEPTH,residential,3630,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Sewli,ON HODAL-NUH ROAD AFTER 2 ACRES DEPTH,commercial,6050,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Sewli,ON HODAL-NUH ROAD AFTER 2 ACRES DEPTH,industrial,6292,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Soundh,Soundh,agricultural,926.65,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Soundh,Soundh,agricultural,3630,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Soundh,Soundh,residential,3630,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Soundh,Soundh,commercial,6050,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,Soundh,Soundh,industrial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Approved commercial Complex area Hodal First Floor etc,commercial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Approved commercial Complex area Hodal Ground Floor,commercial,5445,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Approved Housing Society,residential,3630,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,APPROVED RESIDENTIAL COLONY ALLOWED BY HUDA OR DTP,residential,14520,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Booth in New Anaj Mandi,commercial,36300,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Booth in New Sabzi Mandi,commercial,108900,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Bye Pass Hodal Both Side From Dubechick to Gorota Chowk,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Bye Pass Hodal Both Side From Dubechick to Gorota Chowk,commercial,72600,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Bye Pass to Old G.T. Road Baya Nanak Dairy Road,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Bye Pass to Old G.T. Road Baya Nanak Dairy Road,commercial,60500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Bye Pass to Rly Station,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Bye Pass to Rly Station,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Gausala to Aggarwal colony Bye Pass,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Gausala to Aggarwal colony Bye Pass,commercial,60500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Gorota Chowk To Rly Crossing,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Gorota Chowk To Rly Crossing,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Gorota Chowk to Babri Chowk,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Gorota Chowk to Babri Chowk,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,HODAL - GODOTA ROAD UPTO 2 ACRE DEPTH,agricultural,2007.75,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,HODAL - GODOTA ROAD UPTO 2 ACRE DEPTH,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,HODAL - GODOTA ROAD UPTO 2 ACRE DEPTH,industrial,6292,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,HODAL - HASANPUR ROAD UPTO 2 ACRE DEPTH,agricultural,2007.75,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,HODAL - HASANPUR ROAD UPTO 2 ACRE DEPTH,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,HODAL - HASANPUR ROAD UPTO 2 ACRE DEPTH,industrial,6292,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,HODAL - NUH ROAD UPTO 2 ACRE DEPTH,agricultural,2892.56,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,HODAL - NUH ROAD UPTO 2 ACRE DEPTH,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,HODAL - NUH ROAD UPTO 2 ACRE DEPTH,industrial,6292,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,HODAL - PUNHANA ROAD UPTO 2 ACRE DEPTH,agricultural,2685.95,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,HODAL - PUNHANA ROAD UPTO 2 ACRE DEPTH,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,HODAL - PUNHANA ROAD UPTO 2 ACRE DEPTH,industrial,6292,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Jag-Jeevan Ram chowk to Rajeev Gandhi Chowk,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Jag-Jeevan Ram chowk to Rajeev Gandhi Chowk,commercial,96800,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Lal Dora,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Lal Dora,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Nuh Chowk to Babri Chowk,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Nuh Chowk to Babri Chowk,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Nuh Chowk to Mini Secretariat,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Nuh Chowk to Mini Secretariat,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Old Anaj Mandi Plots,commercial,60500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Old Bazar,residential,17710,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Old Bazar,commercial,69575,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Old G. T Road To Gorota Chowk,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Old G. T Road To Gorota Chowk,commercial,60500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,OLD G.T ROAD-Hodal Nuh Chowk to Jag-Jeevan Ram Chowk,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,OLD G.T ROAD-Hodal Nuh Chowk to Jag-Jeevan Ram Chowk,commercial,96800,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,ON N.H UPTO 2 ACRES DEPTH,agricultural,3000.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,ON N.H UPTO 2 ACRES DEPTH,industrial,6292,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Other in M.C. Area,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Other in M.C. Area,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Plots Rate in Aggarwal Colony,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Plots Rate in Aggarwal Colony,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Plots Rate in Pech Colony,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Plots Rate in Pech Colony,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Plots With In M.C.,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Plots With In M.C.,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Rajeev Gandhi Chowk to Hassanpur Rly Crossing,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Rajeev Gandhi Chowk to Hassanpur Rly Crossing,commercial,60500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Rajeev Gandhi to Bye Pass Dubchik,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Rajeev Gandhi to Bye Pass Dubchik,commercial,60500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Roof of House,residential,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Roof of Shop,commercial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Shop in New Anaj Mandi,commercial,33880,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Shop in New Sabzi Mandi,commercial,38720,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Hodal Patti Andua,agricultural,2007.75,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Hodal Patti Andua,agricultural,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Hodal Patti Andua,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Hodal Patti Andua,commercial,50600,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiAndua,Hodal Patti Andua,industrial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Approved commercial Complex area Hodal First Floor etc,commercial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Approved commercial Complex area Hodal Ground Floor,commercial,5445,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Approved Housing Society,residential,3650,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,APPROVED RESIDENTIAL COLONY ALLOWED BY HUDA OR DTP,residential,14520,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Booth in New Anaj Mandi,commercial,36300,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Booth in New Sabzi Mandi,commercial,108900,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Bye Pass Hodal Both Side From Dubechick to Gorota Chowk,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Bye Pass Hodal Both Side From Dubechick to Gorota Chowk,commercial,72600,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Bye Pass to Old G.T. Road Baya Nanak Dairy Road,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Bye Pass to Old G.T. Road Baya Nanak Dairy Road,commercial,60500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Bye Pass to Rly Station,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Bye Pass to Rly Station,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Gausala to Aggarwal colony Bye Pass,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Gausala to Aggarwal colony Bye Pass,commercial,60500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Gorota Chowk To Rly Crossing,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Gorota Chowk To Rly Crossing,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Gorota Chowk to Babri Chowk,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Gorota Chowk to Babri Chowk,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,HODAL - GODOTA ROAD UPTO 2 ACRE DEPTH,agricultural,1875.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,HODAL - GODOTA ROAD UPTO 2 ACRE DEPTH,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,HODAL - GODOTA ROAD UPTO 2 ACRE DEPTH,industrial,6292,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,HODAL - HASANPUR ROAD UPTO 2 ACRE DEPTH,agricultural,1875.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,HODAL - HASANPUR ROAD UPTO 2 ACRE DEPTH,residential,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,HODAL - HASANPUR ROAD UPTO 2 ACRE DEPTH,agricultural,2250.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,HODAL - NUH ROAD UPTO 2 ACRE DEPTH,industrial,6292,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,HODAL - NUH ROAD UPTO 2 ACRE DEPTH,residential,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,HODAL - NUH ROAD UPTO 2 ACRE DEPTH,agricultural,2250.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,HODAL - PUNHANA ROAD UPTO 2 ACRE DEPTH,industrial,6292,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,HODAL - PUNHANA ROAD UPTO 2 ACRE DEPTH,agricultural,2125.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Jag-Jeevan Ram chowk to Rajeev Gandhi Chowk,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Jag-Jeevan Ram chowk to Rajeev Gandhi Chowk,industrial,6292,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Jag-Jeevan Ram chowk to Rajeev Gandhi Chowk,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Lal Dora,commercial,96800,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Lal Dora,residential,11550,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Lal Dora,commercial,71500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Lal Dora,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Nuh Chowk to Babri Chowk,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Nuh Chowk to Babri Chowk,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Nuh Chowk to Mini Secretariat,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Nuh Chowk to Mini Secretariat,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Old Anaj Mandi Plots,commercial,69575,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Old Anaj Mandi Plots,residential,16940,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Old Bazar,commercial,60500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Old Bazar,residential,16940,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Old G. T Road To Gorota Chowk,commercial,60500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Old G. T Road To Gorota Chowk,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,OLD G.T ROAD-Hodal Nuh Chowk to Jag-Jeevan Ram Chowk,commercial,96800,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,OLD G.T ROAD-Hodal Nuh Chowk to Jag-Jeevan Ram Chowk,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,ON N.H UPTO 2 ACRES DEPTH,agricultural,3000.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,ON N.H UPTO 2 ACRES DEPTH,industrial,6292,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Other in M.C. Area,commercial,55660,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Other in M.C. Area,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Plots Rate in Aggarwal Colony,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Plots Rate in Aggarwal Colony,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Plots Rate in Pech Colony,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Plots Rate in Pech Colony,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Plots With In M.C.,residential,7262,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Plots With In M.C.,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Rajeev Gandhi Chowk to Hassanpur Rly Crossing,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Rajeev Gandhi Chowk to Hassanpur Rly Crossing,commercial,60500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Rajeev Gandhi to Bye Pass Dubchik,residential,7262,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Rajeev Gandhi to Bye Pass Dubchik,commercial,60500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,ROOF OF HOUSE,residential,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,ROOF OF SHOP,commercial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Shop in New Anaj Mandi,commercial,33880,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Shop in New Sabzi Mandi,commercial,38720,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Hodal Patti Garhi,agricultural,1549.59,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Hodal Patti Garhi,agricultural,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Hodal Patti Garhi,residential,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Hodal Patti Garhi,commercial,6050,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Hodal Patti Garhi,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiGarhi,Hodal Patti Garhi,industrial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,AFTER 2 ACRE FROM NH,agricultural,2007.75,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Approved commercial Complex area Hodal First Floor etc,commercial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Approved commercial Complex area Hodal Ground Floor,commercial,5445,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Approved Housing Society,residential,3630,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,APPROVED RESIDENTIAL COLONY ALLOWED BY HUDA OR DTP,residential,14520,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Booth in New Anaj Mandi,commercial,36300,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Booth in New Sabzi Mandi,commercial,108900,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Bye Pass Hodal Both Side From Dubechick to Gorota Chowk,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Bye Pass Hodal Both Side From Dubechick to Gorota Chowk,commercial,72600,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Bye Pass to Old G.T. Road Baya Nanak Dairy Road,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Bye Pass to Old G.T. Road Baya Nanak Dairy Road,commercial,60500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Bye Pass to Rly Station,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Bye Pass to Rly Station,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Gausala to Aggarwal colony Bye Pass,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Gausala to Aggarwal colony Bye Pass,commercial,60500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Gorota Chowk To Rly Crossing,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Gorota Chowk To Rly Crossing,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Gorota Chowk to Babri Chowk,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Gorota Chowk to Babri Chowk,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,HODAL - GODOTA ROAD UPTO 2 ACRE DEPTH,agricultural,2007.75,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,HODAL - GODOTA ROAD UPTO 2 ACRE DEPTH,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,HODAL - GODOTA ROAD UPTO 2 ACRE DEPTH,industrial,6292,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,HODAL - HASANPUR ROAD UPTO 2 ACRE DEPTH,agricultural,2007.75,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,HODAL - HASANPUR ROAD UPTO 2 ACRE DEPTH,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,HODAL - HASANPUR ROAD UPTO 2 ACRE DEPTH,industrial,6292,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,HODAL - NUH ROAD UPTO 2 ACRE DEPTH,agricultural,2250.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,HODAL - NUH ROAD UPTO 2 ACRE DEPTH,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,HODAL - NUH ROAD UPTO 2 ACRE DEPTH,industrial,6292,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,HODAL - PUNHANA ROAD UPTO 2 ACRE DEPTH,agricultural,2125.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,HODAL - PUNHANA ROAD UPTO 2 ACRE DEPTH,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,HODAL - PUNHANA ROAD UPTO 2 ACRE DEPTH,industrial,6292,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Jag-Jeevan Ram chowk to Rajeev Gandhi Chowk,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Jag-Jeevan Ram chowk to Rajeev Gandhi Chowk,commercial,96800,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Lal Dora,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Lal Dora,commercial,63250,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Nuh Chowk to Babri Chowk,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Nuh Chowk to Babri Chowk,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Nuh Chowk to Mini Secretariat,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Nuh Chowk to Mini Secretariat,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Old Anaj Mandi Plots,commercial,60500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Old Bazar,residential,16940,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Old Bazar,commercial,60500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,OLD G.T ROAD-Hodal Nuh Chowk to Jag-Jeevan Ram Chowk,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,OLD G.T ROAD-Hodal Nuh Chowk to Jag-Jeevan Ram Chowk,commercial,96800,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Old G.T. Road to Gorota Chowk,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Old G.T. Road to Gorota Chowk,commercial,60500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,ON N.H UPTO 2 ACRES DEPTH,agricultural,3000.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,ON N.H UPTO 2 ACRES DEPTH,commercial,6292,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,ON N.H UPTO 2 ACRES DEPTH,industrial,6292,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Other in M.C. Area,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Other in M.C. Area,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Plots Rate in Aggarwal Colony,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Plots Rate in Aggarwal Colony,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Plots Rate in Pech Colony,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Plots Rate in Pech Colony,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Plots With In M.C.,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Plots With In M.C.,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Plots With in M.C.,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Plots With in M.C.,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Rajeev Gandhi Chowk to Hassanpur Rly Crossing,commercial,60500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Rajeev Gandhi Chowk to Hassanpur Rly Crossing,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Rajeev Gandhi to Bye Pass Dubchik,commercial,60500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Rajeev Gandhi to Bye Pass Dubchik,residential,7920,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Roof for the Shop,commercial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Roof Shop House,residential,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Shop in New Anaz Mandi,commercial,33880,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Shop in New Sabji Mandi,commercial,38720,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Hodal Patti Tihav,agricultural,2007.75,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Hodal Patti Tihav,agricultural,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Hodal Patti Tihav,residential,8349,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Hodal Patti Tihav,commercial,63250,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiTihav,Hodal Patti Tihav,industrial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Approved commercial Complex area Hodal First Floor etc,commercial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Approved commercial Complex area Hodal Ground Floor,commercial,5445,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Approved Housing Society,residential,3630,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,APPROVED RESIDENTIAL COLONY ALLOWED BY HUDA OR DTP,residential,14520,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Booth in New Anaj Mandi,commercial,36300,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Booth in New Sabzi Mandi,commercial,108900,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Bye Pass Hodal Both Side From Dubechick to Gorota Chowk,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Bye Pass Hodal Both Side From Dubechick to Gorota Chowk,commercial,72600,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Bye Pass to Old G.T. Road Baya Nanak Dairy Road,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Bye Pass to Old G.T. Road Baya Nanak Dairy Road,commercial,60500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Bye Pass to Rly Station,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Bye Pass to Rly Station,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Gausala to Aggarwal colony Bye Pass,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Gausala to Aggarwal colony Bye Pass,commercial,60500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Gorota Chowk To Rly Crossing,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Gorota Chowk To Rly Crossing,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Gorota Chowk to Babri Chowk,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Gorota Chowk to Babri Chowk,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,HODAL - GODOTA ROAD UPTO 2 ACRE DEPTH,agricultural,2007.75,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,HODAL - GODOTA ROAD UPTO 2 ACRE DEPTH,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,HODAL - GODOTA ROAD UPTO 2 ACRE DEPTH,industrial,6292,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,HODAL - HASANPUR ROAD UPTO 2 ACRE DEPTH,agricultural,2007.75,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,HODAL - HASANPUR ROAD UPTO 2 ACRE DEPTH,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,HODAL - HASANPUR ROAD UPTO 2 ACRE DEPTH,industrial,6292,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,HODAL - NUH ROAD UPTO 2 ACRE DEPTH,agricultural,2250.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,HODAL - NUH ROAD UPTO 2 ACRE DEPTH,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,HODAL - NUH ROAD UPTO 2 ACRE DEPTH,industrial,6292,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,HODAL - PUNHANA ROAD UPTO 2 ACRE DEPTH,agricultural,2125.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,HODAL - PUNHANA ROAD UPTO 2 ACRE DEPTH,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,HODAL - PUNHANA ROAD UPTO 2 ACRE DEPTH,industrial,6292,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Jag-Jeevan Ram chowk to Rajeev Gandhi Chowk,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Jag-Jeevan Ram chowk to Rajeev Gandhi Chowk,commercial,96800,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Lal Dora,residential,11550,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Lal Dora,commercial,57200,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Nuh Chowk to Babri Chowk,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Nuh Chowk to Babri Chowk,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Nuh Chowk to Mini Secretariat,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Nuh Chowk to Mini Secretariat,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Old Anaj Mandi Plots,commercial,60500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Old Anaj Mandi Plots,residential,16940,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Old Bazar,commercial,60500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Old Bazar,residential,69575,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Old G. T. Road To Gorota Chowk,commercial,60500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Old G. T. Road To Gorota Chowk,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,OLD G.T ROAD-Hodal Nuh Chowk to Jag-Jeevan Ram Chowk,commercial,96800,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,OLD G.T ROAD-Hodal Nuh Chowk to Jag-Jeevan Ram Chowk,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,ON N.H UPTO 2 ACRES DEPTH,agricultural,3000.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,ON N.H UPTO 2 ACRES DEPTH,industrial,6292,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Other in M.C. Area,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Other in M.C. Area,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Plots Rate in Aggarwal Colony,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Plots Rate in Aggarwal Colony,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Plots Rate in Pech Colony,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Plots Rate in Pech Colony,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Plots With In M.C.,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Plots With In M.C.,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Rajeev Gandhi Chowk to Hassanpur Rly Crossing,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Rajeev Gandhi Chowk to Hassanpur Rly Crossing,commercial,60500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Rajeev Gandhi to Bye Pass Dubchik,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Rajeev Gandhi to Bye Pass Dubchik,commercial,60500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Roof for the Shop,commercial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Roof Shop House,residential,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Shop in New Anaj Mandi,commercial,33880,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Shop in New Sabzi Mandi,commercial,38720,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Hodal Patti Dharam,agricultural,2007.75,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Hodal Patti Dharam,agricultural,7300,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Hodal Patti Dharam,residential,8349,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Hodal Patti Dharam,commercial,58190,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiDharam,Hodal Patti Dharam,industrial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasuaCT,Approved commercial Complex area Hodal First Floor etc,commercial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasuaCT,Approved commercial Complex area Hodal Ground Floor,commercial,5445,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasuaCT,Approved Housing Society,residential,3630,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasuaCT,APPROVED RESIDENTIAL COLONY ALLOWED BY HUDA OR DTP,residential,14520,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasuaCT,Booth in New Anaj Mandi,commercial,36300,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasuaCT,Booth in New Sabzi Mandi,commercial,108900,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasuaCT,Bye Pass Hodal Both Side From Dubechick to Gorota Chowk,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasuaCT,Bye Pass Hodal Both Side From Dubechick to Gorota Chowk,commercial,72600,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasuaCT,Bye Pass to Old G.T.Road Baya Nanak Dairy Road,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasuaCT,Bye Pass to Old G.T.Road Baya Nanak Dairy Road,commercial,60500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasuaCT,Bye Pass to Rly Station,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasuaCT,Bye Pass to Rly Station,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasuaCT,Gausala to Aggarwal colony Bye Pass,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasuaCT,Gausala to Aggarwal colony Bye Pass,commercial,60500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasuaCT,Gorota Chowk To Rly Crossing,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasuaCT,Gorota Chowk To Rly Crossing,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasuaCT,Gorota Chowk to Babri Chowk,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasuaCT,Gorota Chowk to Babri Chowk,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasuaCT,HODAL - GODOTA ROAD UPTO 2 ACRE DEPTH,agricultural,1894.94,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasuaCT,HODAL - GODOTA ROAD UPTO 2 ACRE DEPTH,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasuaCT,HODAL - GODOTA ROAD UPTO 2 ACRE DEPTH,industrial,6292,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasuaCT,HODAL - HASANPUR ROAD UPTO 2 ACRE DEPTH,agricultural,1894.94,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasuaCT,HODAL - HASANPUR ROAD UPTO 2 ACRE DEPTH,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasuaCT,HODAL - HASANPUR ROAD UPTO 2 ACRE DEPTH,industrial,6292,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasua,HODAL - NUH ROAD UPTO 2 ACRE DEPTH,agricultural,2892.56,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasua,HODAL - NUH ROAD UPTO 2 ACRE DEPTH,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasua,HODAL - NUH ROAD UPTO 2 ACRE DEPTH,industrial,6292,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasua,HODAL - PUNHANA ROAD UPTO 2 ACRE DEPTH,agricultural,2685.95,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasua,HODAL - PUNHANA ROAD UPTO 2 ACRE DEPTH,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasua,HODAL - PUNHANA ROAD UPTO 2 ACRE DEPTH,industrial,6292,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasua,Jag-Jeevan Ram chowk to Rajeev Gandhi Chowk,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasua,Jag-Jeevan Ram chowk to Rajeev Gandhi Chowk,commercial,96800,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasua,Lal Dora,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasua,Lal Dora,commercial,52800,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasua,Nuh Chowk to Babri Chowk,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasua,Nuh Chowk to Babri Chowk,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasua,Nuh Chowk to Mini Secretariat,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasua,Nuh Chowk to Mini Secretariat,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasua,Old Anaj Mandi Plots,commercial,60500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasua,Old Anaj Mandi Plots,residential,16940,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasua,Old Bazar,commercial,60500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasua,Old Bazar,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasua,Old G. T Road To Gorola Chowk,commercial,60500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasua,Old G. T Road To Gorola Chowk,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasua,OLD G.T ROAD-Hodal Nuh Chowk to Jag-Jeevan Ram Chowk,commercial,96800,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasua,OLD G.T ROAD-Hodal Nuh Chowk to Jag-Jeevan Ram Chowk,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasua,ON N.H UPTO 2 ACRES DEPTH,agricultural,3000.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasua,ON N.H UPTO 2 ACRES DEPTH,industrial,6292,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasua,ON N.H UPTO 2 ACRES DEPTH,commercial,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasua,ON N.H UPTO 2 ACRES DEPTH,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasua,Plots Rate in Aggarwal Colony,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasua,Plots Rate in Aggarwal Colony,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasua,Plots Rate in Pech Colony,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasua,Plots Rate in Pech Colony,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasua,Plots With M.C.,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasua,Plots With M.C.,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasua,Rajeev Gandhi Chowk to Hassanpur Rly Crossing,commercial,60500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasua,Rajeev Gandhi Chowk to Hassanpur Rly Crossing,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasua,Rajeev Gandhi To Bye Pass Dubchik,commercial,60500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasua,Rajeev Gandhi To Bye Pass Dubchik,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasua,Roof for the Shop,commercial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasua,Shop in New Anaj Mandi,commercial,33880,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasua,Shop in New Sabzi Mandi,commercial,40480,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasua,Hodal Patti Basua,agricultural,2007.75,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasua,Hodal Patti Basua,agricultural,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasua,Hodal Patti Basua,residential,7590,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasua,Hodal Patti Basua,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBasua,Hodal Patti Basua,industrial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Approved commercial Complex area Hodal Ground Floor,commercial,5445,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Approved commercial Complex area Hodal First Floor etc,commercial,3630,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Approved Housing Society,residential,14520,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,APPROVED RESIDENTIAL COLONY ALLOWED BY HUDA OR DTP,residential,14520,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Booth in New Anaj Mandi,commercial,36300,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Booth in New Sabzi Mandi,commercial,108900,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Bye Pass Hodal Both Side From Dubechick to Gorota Chowk,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Bye Pass Hodal Both Side From Dubechick to Gorota Chowk,commercial,72600,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Bye Pass to Old G.T.Road Baya Nanak Dairy Road,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Bye Pass to Old G.T.Road Baya Nanak Dairy Road,commercial,69575,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Bye Pass to Rly Station,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Bye Pass to Rly Station,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,HODAL - PUNHANA ROAD UPTO 2 ACRE DEPTH,agricultural,2125.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,HODAL - PUNHANA ROAD UPTO 2 ACRE DEPTH,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Jag-Jeevan Ram chowk to Rajeev Gandhi Chowk,industrial,6292,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Jag-Jeevan Ram chowk to Rajeev Gandhi Chowk,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Jag-Jeevan Ram chowk to Rajeev Gandhi Chowk,commercial,96800,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Lal Dora,residential,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Lal Dora,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Nuh Chowk to Babri Chowk,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Nuh Chowk to Babri Chowk,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Nuh Chowk to Mini Secretariat,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Nuh Chowk to Mini Secretariat,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Old Anaj Mandi Plots,residential,16940,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Old Anaj Mandi Plots,commercial,60500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Old Bazar,residential,16940,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Old Bazar,commercial,60500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Old G. T Road To Gorota Chowk,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Old G. T Road To Gorota Chowk,commercial,60500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,OLD G.T ROAD-Hodal Nuh Chowk to Jag-Jeevan Ram Chowk,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,OLD G.T ROAD-Hodal Nuh Chowk to Jag-Jeevan Ram Chowk,commercial,96800,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,ON N.H UPTO 2 ACRES DEPTH,agricultural,3000.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,ON N.H UPTO 2 ACRES DEPTH,industrial,6292,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Other in M.C. Area,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Other in M.C. Area,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Plots Rate in Aggarwal Colony,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Plots Rate in Aggarwal Colony,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Plots Rate in Pech Colony,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Plots Rate in Pech Colony,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Plots With In M.C.,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Plots With In M.C.,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Rajeev Gandhi Chowk to Hassanpur Rly Crossing,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Rajeev Gandhi Chowk to Hassanpur Rly Crossing,commercial,60500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Rajeev Gandhi to Bye Pass Dubchik,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Rajeev Gandhi to Bye Pass Dubchik,commercial,60500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Roof of House,residential,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Roof of Shop,commercial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Shop in New Anaj Mandi,commercial,33880,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Shop in New Sabzi Mandi,commercial,38720,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Hodal Patti Beda,agricultural,1549.59,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Hodal Patti Beda,agricultural,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Hodal Patti Beda,residential,6578,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Hodal Patti Beda,commercial,63250,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiBeda,Hodal Patti Beda,industrial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Approved commercial Complex area Hodal First Floor etc,commercial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Approved commercial Complex area Hodal Ground Floor,commercial,5445,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Approved Housing Society,residential,3630,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,APPROVED RESIDENTIAL COLONY ALLOWED BY HUDA OR DTP,residential,14520,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Booth in New Anaj Mandi,commercial,36300,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Booth in New Sabzi Mandi,commercial,108900,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Bye Pass Hodal Both Side From Dubechick to Gorota Chowk,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Bye Pass Hodal Both Side From Dubechick to Gorota Chowk,commercial,72600,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Bye Pass to Old G.T.Road Baya Nanak Dairy Road,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Bye Pass to Old G.T.Road Baya Nanak Dairy Road,commercial,60500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Bye Pass to Rly Station,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Bye Pass to Rly Station,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Gausala to Aggarwal colony Bye Pass,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Gausala to Aggarwal colony Bye Pass,commercial,60500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Gorota Chowk To Rly Crossing,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Gorota Chowk To Rly Crossing,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Gorota Chowk to Babri Chowk,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Gorota Chowk to Babri Chowk,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,HODAL - GODOTA ROAD UPTO 2 ACRE DEPTH,agricultural,1875.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,HODAL - GODOTA ROAD UPTO 2 ACRE DEPTH,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,HODAL - GODOTA ROAD UPTO 2 ACRE DEPTH,industrial,6292,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,HODAL - HASANPUR ROAD UPTO 2 ACRE DEPTH,agricultural,1875.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,HODAL - HASANPUR ROAD UPTO 2 ACRE DEPTH,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,HODAL - HASANPUR ROAD UPTO 2 ACRE DEPTH,industrial,6292,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,HODAL - NUH ROAD UPTO 2 ACRE DEPTH,agricultural,2250.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,HODAL - NUH ROAD UPTO 2 ACRE DEPTH,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,HODAL - NUH ROAD UPTO 2 ACRE DEPTH,industrial,6292,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,HODAL - PUNHANA ROAD UPTO 2 ACRE DEPTH,agricultural,2125.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,HODAL - PUNHANA ROAD UPTO 2 ACRE DEPTH,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,HODAL - PUNHANA ROAD UPTO 2 ACRE DEPTH,industrial,6292,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Jag-Jeevan Ram chowk to Rajeev Gandhi Chowk,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Jag-Jeevan Ram chowk to Rajeev Gandhi Chowk,commercial,96800,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Lal Dora,residential,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Lal Dora,commercial,55660,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Nuh Chowk to Babri Chowk,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Nuh Chowk to Babri Chowk,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Nuh Chowk to Mini Secretariat,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Nuh Chowk to Mini Secretariat,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Old Anaj Mandi Plots,commercial,60500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Old Bazar,residential,16940,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Old Bazar,commercial,60500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Old G. T Road To Gorota Chowk,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Old G. T Road To Gorota Chowk,commercial,60500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,OLD G.T ROAD-Hodal Nuh Chowk to Jag-Jeevan Ram Chowk,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,OLD G.T ROAD-Hodal Nuh Chowk to Jag-Jeevan Ram Chowk,commercial,96800,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,ON N.H UPTO 2 ACRES DEPTH,agricultural,3000.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Jag-Jeevan Ram chowk to Rajeev Gandhi Chowk,industrial,6292,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Jag-Jeevan Ram chowk to Rajeev Gandhi Chowk,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Lal Dora,commercial,96800,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Nuh Chowk to Mini Secretariat,commercial,55660,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Old Anaj Mandi Plots,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Old G. T. Road To Gorota Chowk,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Old G. T. Road To Gorota Chowk,commercial,60500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,OLD G. T ROAD-Hodal Nuh Chowk to Jag-jeevan Ram Chowk,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,OLD G. T ROAD-Hodal Nuh Chowk to Jag-jeevan Ram Chowk,commercial,96800,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,ON N.H UPTO 2 ACRES DEPTH,industrial,6292,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,ON N.H UPTO 2 ACRES DEPTH,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Other in M.C. Area,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Other in M.C. Area,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Plots Rate in Aggarwal Colony,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Plots Rate in Aggarwal Colony,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Plots Rate in Pech Colony,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Plots Rate in Pech Colony,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Plots With In M.C.,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Plots With In M.C.,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Rajeev Gandhi Chowk to Hassanpur Rly Crossing,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Rajeev Gandhi Chowk to Hassanpur Rly Crossing,commercial,60500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Rajeev Gandhi to Bye Pass Dubchik,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Rajeev Gandhi to Bye Pass Dubchik,commercial,60500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Roof of House,residential,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Roof of Shop,commercial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Shop in New Anaj Mandi,commercial,33880,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Shop in New Sabzi Mandi,commercial,56144,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Hodal Patti Rohta,agricultural,2007.75,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Hodal Patti Rohta,agricultural,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Hodal Patti Rohta,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Hodal Patti Rohta,commercial,62920,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hodal,HodalPattiRohta,Hodal Patti Rohta,industrial,4840,2026-04-01,palwal_gov_in_dc_notification

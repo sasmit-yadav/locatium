@@ -1,0 +1,652 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Mahendragarh,Kanina,MundiaKhera,APPROACH ROAD,agricultural,1100.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,MundiaKhera,APPROACH ROAD,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,MundiaKhera,APPROACH ROAD,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,MundiaKhera,"MAIN ROAD ATELI, DADRI, KOSLI",agricultural,1375.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,MundiaKhera,"MAIN ROAD ATELI, DADRI, KOSLI",residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,MundiaKhera,"MAIN ROAD ATELI, DADRI, KOSLI",commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,MundiaKhera,MAIN ROAD REWARI KANINA MGARH,agricultural,2000.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,MundiaKhera,MAIN ROAD REWARI KANINA MGARH,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,MundiaKhera,MAIN ROAD REWARI KANINA MGARH,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,MundiaKhera,MUNDIA KHERA Chahi,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,MundiaKhera,MUNDIA KHERA Nehri,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,MundiaKhera,MUNDIA KHERA Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,MundiaKhera,MUNDIA KHERA Banjar,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,MundiaKhera,MUNDIA KHERA Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,MundiaKhera,MUNDIA KHERA,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,MundiaKhera,MUNDIA KHERA,commercial,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Aghiar,AGHIAR Chahi,agricultural,546.49,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Aghiar,AGHIAR Nehri,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Aghiar,AGHIAR Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Aghiar,AGHIAR Banjar,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Aghiar,AGHIAR Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Aghiar,AGHIAR,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Aghiar,AGHIAR,commercial,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Aghiar,APPROACH ROAD,agricultural,1100.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Aghiar,APPROACH ROAD,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Aghiar,APPROACH ROAD,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Aghiar,"MAIN ROAD ATELI, DADRI, KOSLI",agricultural,1375.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Aghiar,"MAIN ROAD ATELI, DADRI, KOSLI",residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Aghiar,"MAIN ROAD ATELI, DADRI, KOSLI",commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Aghiar,MAIN ROAD REWARI KANINA MGARH,agricultural,2000.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Aghiar,MAIN ROAD REWARI KANINA MGARH,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Aghiar,MAIN ROAD REWARI KANINA MGARH,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Israna,APPROACH ROAD,agricultural,1100.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Israna,APPROACH ROAD,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Israna,APPROACH ROAD,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Israna,ISRANA Chahi,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Israna,ISRANA Nehri,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Israna,ISRANA Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Israna,ISRANA Banjar,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Israna,ISRANA Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Israna,ISRANA,residential,2640,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Israna,ISRANA,commercial,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Uchat,"MAIN ROAD ATELI, DADRI, KOSLI",agricultural,1437.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Uchat,"MAIN ROAD ATELI, DADRI, KOSLI",residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Uchat,"MAIN ROAD ATELI, DADRI, KOSLI",commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Uchat,MAIN ROAD REWARI KANINA MGARH,agricultural,2000.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Uchat,MAIN ROAD REWARI KANINA MGARH,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Uchat,MAIN ROAD REWARI KANINA MGARH,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Uchat,APPROACH ROAD,agricultural,1100.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Uchat,APPROACH ROAD,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Uchat,APPROACH ROAD,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Uchat,"MAIN ROAD ATELI, DADRI, KOSLI",agricultural,1375.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Uchat,UCHAT Chahi,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Uchat,UCHAT Nehri,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Uchat,UCHAT Barani,agricultural,444.32,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Uchat,UCHAT Banjar,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Uchat,UCHAT Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Uchat,UCHAT,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Uchat,UCHAT,commercial,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Unhani,APPROACH ROAD,agricultural,1100.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Unhani,APPROACH ROAD,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Unhani,APPROACH ROAD,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Unhani,"MAIN ROAD ATELI, DADRI, KOSLI",agricultural,1375.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Unhani,"MAIN ROAD ATELI, DADRI, KOSLI",residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Unhani,"MAIN ROAD ATELI, DADRI, KOSLI",commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Unhani,MAIN ROAD REWARI KANINA MGARH,agricultural,2000.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Unhani,MAIN ROAD REWARI KANINA MGARH,residential,7590,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Unhani,MAIN ROAD REWARI KANINA MGARH,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Unhani,UNHANI Chahi,agricultural,818.18,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Unhani,UNHANI Nehri,agricultural,750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Unhani,UNHANI Barani,agricultural,650.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Unhani,UNHANI Banjar,agricultural,600.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Unhani,UNHANI Jhund,agricultural,600.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Unhani,UNHANI,residential,4500,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Unhani,UNHANI,commercial,8230,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kakrala,Kakrala Chahi,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kakrala,Kakrala Nehri,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kakrala,Kakrala Barani,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kakrala,Kakrala Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kakrala,Kakrala Jhund,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kakrala,Kakrala,residential,2860,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kakrala,Kakrala,commercial,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kakrala,"MAIN ROAD ATELI, DADRI, KOSLI",agricultural,1375.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kakrala,"MAIN ROAD ATELI, DADRI, KOSLI",residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kakrala,"MAIN ROAD ATELI, DADRI, KOSLI",commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kakrala,MAIN ROAD REWARI KANINA MGARH,agricultural,2000.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kakrala,MAIN ROAD REWARI KANINA MGARH,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kakrala,MAIN ROAD REWARI KANINA MGARH,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,MAIN ROAD REWARI KANINA MGARH,residential,8970,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,MAIN ROAD REWARI KANINA MGARH,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,ALL OTHER,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,ALL OTHER,commercial,36700,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,Ateli Road,agricultural,1375.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,Ateli Road,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,Ateli Road,commercial,42350,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,Gahra Road to Gas Agency,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,Gahra Road to Gas Agency,commercial,35090,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,KANINA-1 Chahi,agricultural,1325.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,KANINA-1 Nehri,agricultural,1325.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,KANINA-1 Barani,agricultural,1225.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,KANINA-1 Banjar,agricultural,1150.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,KANINA-1 Jhund,agricultural,1150.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,KANINA-1,residential,7920,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaMandi,Kanina Mandi,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaMandi,Kanina Mandi,commercial,36685,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,Kosli Gahra Road,agricultural,1375.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,Kosli Gahra Road,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,Kosli Gahra Road,commercial,35090,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,Kosli road to Rewari Mod,agricultural,1375.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,Kosli road to Rewari Mod,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,Kosli road to Rewari Mod,commercial,54450,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,MGARH ROAD,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,MGARH ROAD,commercial,68970,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,Near Bus Stand,residential,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,Near Bus Stand,commercial,35090,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,Rewari Road,agricultural,2000.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,Rewari Road,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,Rewari Road,commercial,54450,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,"Sihor, Karira Approach Road",residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,"Sihor, Karira Approach Road",commercial,35090,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,SR Petrol Pump to Hindustan Petrol pump,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,SR Petrol Pump to Hindustan Petrol pump,commercial,24200,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,WARD NO 9,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,WARD NO 9,commercial,38280,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,Ward No 01 Code-1,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,Ward No 01 Code-1,commercial,68970,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,WARD NO 10,residential,7920,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,WARD NO 10,commercial,35090,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,WARD NO 11,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,WARD NO 11,commercial,35090,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,WARD NO 12,residential,9080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,WARD NO 12,commercial,68970,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,WARD NO 13,agricultural,1250.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,WARD NO 13,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,WARD NO 13,commercial,35090,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,WARD NO 2,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,WARD NO 2,commercial,36700,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,WARD NO 3,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,WARD NO 3,commercial,35090,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,WARD NO 4,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,WARD NO 4,commercial,35090,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,WARD NO 5,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,WARD NO 5,commercial,35090,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,WARD NO 6,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,WARD NO 6,commercial,35090,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,WARD NO 7,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,WARD NO 7,commercial,35090,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,WARD NO 7,commercial,36700,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaI,WARD NO 8,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaII,KANINA-II Chahi,agricultural,1445.45,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaII,KANINA-II Barani,agricultural,1225.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaII,KANINA-II Jhund,agricultural,1150.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaII,KANINA-II,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaII,KANINA-II,commercial,35090,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kapoori,APPROACH ROAD,agricultural,1100.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kapoori,APPROACH ROAD,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kapoori,APPROACH ROAD,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kapoori,Kapoori Chahi,agricultural,518.18,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kapoori,Kapoori Nehri,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kapoori,Kapoori Barani,agricultural,463.64,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kapoori,Kapoori Banjar,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kapoori,Kapoori Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kapoori,Kapoori,residential,2640,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kapoori,Kapoori,commercial,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Karira,APPROACH ROAD,agricultural,1100.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Karira,APPROACH ROAD,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Karira,APPROACH ROAD,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Karira,Karira Chahi,agricultural,601.14,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Karira,Karira Nehri,agricultural,575.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Karira,Karira Barani,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Karira,Karira Banjar,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Karira,Karira Jhund,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Karira,Karira,residential,4420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Karira,"MAIN ROAD ATELI, DADRI, KOSLI",agricultural,1375.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Karira,"MAIN ROAD ATELI, DADRI, KOSLI",residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Karira,"MAIN ROAD ATELI, DADRI, KOSLI",commercial,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Karira,MAIN ROAD REWARI KANINA MGARH,agricultural,2000.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Karira,MAIN ROAD REWARI KANINA MGARH,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Karira,MAIN ROAD REWARI KANINA MGARH,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kalwari,APPROACH ROAD,agricultural,1100.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kalwari,APPROACH ROAD,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kalwari,APPROACH ROAD,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kalwari,Kalwari Chahi,agricultural,600.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kalwari,Kalwari Nehri,agricultural,600.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kalwari,Kalwari Barani,agricultural,525.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kalwari,Kalwari,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kalwari,Kalwari,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kalwari,Kalwari Banjar,agricultural,525.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kalwari,Kalwari Jhund,agricultural,525.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kalwari,Kalwari,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kalwari,Kalwari,commercial,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kalwari,"MAIN ROAD ATELI, DADRI, KOSLI",agricultural,1375.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kalwari,"MAIN ROAD ATELI, DADRI, KOSLI",residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kalwari,"MAIN ROAD ATELI, DADRI, KOSLI",commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kalwari,MAIN ROAD REWARI KANINA MGARH,agricultural,2000.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kalwari,MAIN ROAD REWARI KANINA MGARH,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kalwari,MAIN ROAD REWARI KANINA MGARH,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kemla,Kemla Banjar,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kemla,Kemla Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kemla,Kemla,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kemla,Kemla,commercial,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kemla,Kemla Chahi,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kemla,Kemla Nehri,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kemla,Kemla Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kemla,"MAIN ROAD ATELI, DADRI, KOSLI",agricultural,1375.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kemla,"MAIN ROAD ATELI, DADRI, KOSLI",residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kemla,"MAIN ROAD ATELI, DADRI, KOSLI",commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kemla,MAIN ROAD REWARI KANINA MGARH,agricultural,2000.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kemla,MAIN ROAD REWARI KANINA MGARH,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kemla,MAIN ROAD REWARI KANINA MGARH,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Koka,APPROACH ROAD,agricultural,1100.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Koka,APPROACH ROAD,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Koka,APPROACH ROAD,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Koka,KOKA Nehri,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Koka,KOKA Chahi,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Koka,KOKA Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Koka,KOKA Banjar,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Koka,KOKA Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Koka,KOKA,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Koka,KOKA,commercial,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Koka,"MAIN ROAD ATELI, DADRI, KOSLI",agricultural,1375.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Koka,"MAIN ROAD ATELI, DADRI, KOSLI",residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Koka,"MAIN ROAD ATELI, DADRI, KOSLI",commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Koka,MAIN ROAD REWARI KANINA MGARH,agricultural,2000.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Koka,MAIN ROAD REWARI KANINA MGARH,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Koka,MAIN ROAD REWARI KANINA MGARH,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kotia,Kotia Chahi,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kotia,Kotia Nehri,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kotia,Kotia Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kotia,Kotia Banjar,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kotia,Kotia Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kotia,Kotia,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kotia,"MAIN ROAD ATELI, DADRI, KOSLI",agricultural,1375.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kotia,"MAIN ROAD ATELI, DADRI, KOSLI",residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kotia,"MAIN ROAD ATELI, DADRI, KOSLI",commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kotia,MAIN ROAD REWARI KANINA MGARH,agricultural,2000.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kotia,MAIN ROAD REWARI KANINA MGARH,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kotia,MAIN ROAD REWARI KANINA MGARH,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kharkhadabas,APPROACH ROAD,agricultural,1100.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kharkhadabas,APPROACH ROAD,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kharkhadabas,APPROACH ROAD,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kharkhadabas,Kanina To Dadri Road,agricultural,1375.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kharkhadabas,Kanina To Dadri Road,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kharkhadabas,Kanina To Dadri Road,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kharkhadabas,Kharkhara Bass Chahi,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kharkhadabas,Kharkhara Bass Nehri,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kharkhadabas,Kharkhara Bass Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kharkhadabas,Kharkhara Bass Banjar,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kharkhadabas,Kharkhara Bass Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kharkhadabas,Kharkhara Bass,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kharkhadabas,Kharkhara Bass,commercial,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kheri,APPROACH ROAD,agricultural,1100.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kheri,APPROACH ROAD,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kheri,APPROACH ROAD,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kheri,KHERI Chahi,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kheri,KHERI Nehri,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kheri,KHERI Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kheri,KHERI Banjar,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kheri,KHERI Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kheri,KHERI,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kheri,KHERI,commercial,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kheri,"MAIN ROAD ATELI, DADRI, KOSLI",agricultural,1375.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kheri,"MAIN ROAD ATELI, DADRI, KOSLI",residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kheri,"MAIN ROAD ATELI, DADRI, KOSLI",commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Khairana,MAIN ROAD REWARI KANINA MGARH,agricultural,2000.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Khairana,MAIN ROAD REWARI KANINA MGARH,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Khairana,MAIN ROAD REWARI KANINA MGARH,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Khairana,KHAIRANA Chahi,agricultural,496.59,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Khairana,KHAIRANA Nehri,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Khairana,KHAIRANA Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Khairana,KHAIRANA Banjar,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Khairana,KHAIRANA Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Khairana,KHAIRANA,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Gahra,GAHRA,commercial,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Gahra,GAHRA Chahi,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Gahra,GAHRA Nehri,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Gahra,GAHRA Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Gahra,GAHRA Banjar,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Gahra,GAHRA Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Gahra,GAHRA,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Gahra,APPROACH ROAD,agricultural,1100.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Gahra,APPROACH ROAD,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Gahra,APPROACH ROAD,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Gudha,Gudha,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Gudha,Gudha,commercial,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Gudha,Gudha Chahi,agricultural,522.73,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Gudha,Gudha Nehri,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Gudha,"MAIN ROAD ATELI, DADRI, KOSLI",agricultural,1375.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Gudha,MAIN ROAD REWARI KANINA MGARH,agricultural,2000.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Gudha,MAIN ROAD REWARI KANINA MGARH,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Gudha,MAIN ROAD REWARI KANINA MGARH,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Gomla,APPROACH ROAD,agricultural,1100.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Gomla,Gomla Chahi,agricultural,496.59,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Gomla,Gomla Nehri,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Gomla,Gomla Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Gomla,Gomla Banjar,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Gomla,Gomla Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Gomla,Gomla,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Gomla,"MAIN ROAD ATELI, DADRI, KOSLI",commercial,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Gomla,"MAIN ROAD ATELI, DADRI, KOSLI",agricultural,1375.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Gomla,MAIN ROAD REWARI KANINA MGARH,agricultural,2000.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Gomla,MAIN ROAD REWARI KANINA MGARH,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Gomla,MAIN ROAD REWARI KANINA MGARH,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Gomli,GOMLI Chahi,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Gomli,GOMLI Nehri,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Gomli,GOMLI Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Gomli,GOMLI Banjar,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Gomli,GOMLI Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Gomli,GOMLI,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Gomli,GOMLI,commercial,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Chelawas,APPROACH ROAD,agricultural,1100.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Chelawas,APPROACH ROAD,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Chelawas,APPROACH ROAD,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Chelawas,Chelawas Jhund,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Chelawas,Chelawas,residential,3030,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Chelawas,Chelawas,commercial,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Chelawas,Chelawas Chahi,agricultural,548.86,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Chelawas,Chelawas Nehri,agricultural,525.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Chelawas,Chelawas Barani,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Chelawas,Chelawas Banjar,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Chelawas,"MAIN ROAD ATELI, DADRI, KOSLI",agricultural,1375.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Chelawas,"MAIN ROAD ATELI, DADRI, KOSLI",residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Chelawas,"MAIN ROAD ATELI, DADRI, KOSLI",commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Chelawas,MAIN ROAD REWARI KANINA MGARH,agricultural,2000.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Chelawas,MAIN ROAD REWARI KANINA MGARH,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Chelawas,MAIN ROAD REWARI KANINA MGARH,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Chhitroli,CHHITROLI Chahi,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Chhitroli,CHHITROLI Nehri,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Chhitroli,CHHITROLI Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Chhitroli,CHHITROLI Banjar,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Chhitroli,CHHITROLI Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Chhitroli,CHHITROLI,residential,2530,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Jharli,JHARLI,commercial,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Jharli,JHARLI Chahi,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Jharli,JHARLI Nehri,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Jharli,JHARLI Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Jharli,JHARLI Banjar,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Jharli,JHARLI Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Jharli,JHARLI,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Jharli,APPROACH ROAD,agricultural,1100.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Jharli,APPROACH ROAD,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Jharli,APPROACH ROAD,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Jhigawan,JHIGAWAN Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Jhigawan,JHIGAWAN Banjar,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Jhigawan,JHIGAWAN Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Jhigawan,JHIGAWAN,residential,2640,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Jhigawan,JHIGAWAN,commercial,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Jhigawan,JHIGAWAN Chahi,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Jhigawan,JHIGAWAN Nehri,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Jhigawan,"MAIN ROAD ATELI, DADRI, KOSLI",agricultural,1375.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Jhigawan,"MAIN ROAD ATELI, DADRI, KOSLI",residential,7590,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Jhigawan,"MAIN ROAD ATELI, DADRI, KOSLI",commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Jhigawan,MAIN ROAD REWARI KANINA MGARH,agricultural,2000.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Jhigawan,MAIN ROAD REWARI KANINA MGARH,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Jhigawan,MAIN ROAD REWARI KANINA MGARH,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Dhana,Dhana Chahi,agricultural,496.59,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Dhana,Dhana Nehri,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Dhana,Dhana Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Dhana,Dhana Banjar,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Dhana,Dhana Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Dhana,Dhana,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Dhana,Dhana,commercial,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Dhana,APPROACH ROAD,agricultural,1100.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Dhana,APPROACH ROAD,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Dhana,APPROACH ROAD,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Dhana,"MAIN ROAD ATELI, DADRI, KOSLI",agricultural,1375.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Dhana,"MAIN ROAD ATELI, DADRI, KOSLI",residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Dhana,"MAIN ROAD ATELI, DADRI, KOSLI",commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Dhana,MAIN ROAD REWARI KANINA MGARH,agricultural,2000.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Dhana,MAIN ROAD REWARI KANINA MGARH,residential,7590,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Dhana,MAIN ROAD REWARI KANINA MGARH,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Talwana,Talwana Chahi,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Talwana,Talwana Nehri,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Talwana,Talwana Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Talwana,Talwana Banjar,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Talwana,Talwana Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Talwana,Talwana,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Talwana,Talwana,commercial,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,DongraAhir,APPROACH ROAD,agricultural,1100.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,DongraAhir,APPROACH ROAD,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,DongraAhir,APPROACH ROAD,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,DongraAhir,DONGRA AHIR Chahi,agricultural,625.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,DongraAhir,DONGRA AHIR Nehri,agricultural,575.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,DongraAhir,DONGRA AHIR Barani,agricultural,575.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,DongraAhir,DONGRA AHIR Banjar,agricultural,575.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,DongraAhir,DONGRA AHIR Jhund,agricultural,575.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,DongraAhir,DONGRA AHIR,residential,3100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,DongraAhir,DONGRA AHIR,commercial,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,DongraAhir,"MAIN ROAD ATELI, DADRI, KOSLI",agricultural,1375.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,DongraAhir,"MAIN ROAD ATELI, DADRI, KOSLI",residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,DongraAhir,"MAIN ROAD ATELI, DADRI, KOSLI",commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,DongraAhir,MAIN ROAD REWARI KANINA MGARH,agricultural,2000.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,DongraAhir,MAIN ROAD REWARI KANINA MGARH,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,DongraAhir,MAIN ROAD REWARI KANINA MGARH,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,DongraJat,DONGRA JAT Chahi,agricultural,575.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,DongraJat,DONGRA JAT Nehri,agricultural,575.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,DongraJat,DONGRA JAT Barani,agricultural,525.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,DongraJat,DONGRA JAT Banjar,agricultural,525.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,DongraJat,DONGRA JAT Jhund,agricultural,525.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,DongraJat,DONGRA JAT,residential,5460,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,DongraJat,DONGRA JAT,commercial,8580,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,DongraJat,"MAIN ROAD ATELI, DADRI, KOSLI",agricultural,1375.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,DongraJat,"MAIN ROAD ATELI, DADRI, KOSLI",residential,9900,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,DongraJat,"MAIN ROAD ATELI, DADRI, KOSLI",commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,DongraJat,MAIN ROAD REWARI KANINA MGARH,agricultural,2000.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,DongraJat,MAIN ROAD REWARI KANINA MGARH,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,DongraJat,MAIN ROAD REWARI KANINA MGARH,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Dhannoda,APPROACH ROAD,agricultural,1100.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Dhannoda,APPROACH ROAD,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Dhannoda,APPROACH ROAD,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Dhannoda,Dhannoda,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Dhannoda,Dhannoda,commercial,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Dhannoda,Dhannoda Chahi,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Dhannoda,Dhannoda Nehri,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Dhannoda,Dhannoda Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Dhannoda,Dhannoda Banjar,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Dhannoda,Dhannoda Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Dhannoda,"MAIN ROAD ATELI, DADRI, KOSLI",agricultural,1375.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Dhannoda,"MAIN ROAD ATELI, DADRI, KOSLI",residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Dhannoda,"MAIN ROAD ATELI, DADRI, KOSLI",commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Dhannoda,MAIN ROAD REWARI KANINA MGARH,agricultural,2000.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Dhannoda,MAIN ROAD REWARI KANINA MGARH,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Dhannoda,MAIN ROAD REWARI KANINA MGARH,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Nangal,APPROACH ROAD,agricultural,1100.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Nangal,APPROACH ROAD,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Nangal,APPROACH ROAD,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Nangal,"MAIN ROAD ATELI, DADRI, KOSLI",agricultural,1375.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Nangal,"MAIN ROAD ATELI, DADRI, KOSLI",residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Nangal,"MAIN ROAD ATELI, DADRI, KOSLI",commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Nangal,MAIN ROAD REWARI KANINA MGARH,agricultural,2000.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Nangal,MAIN ROAD REWARI KANINA MGARH,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Nangal,MAIN ROAD REWARI KANINA MGARH,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Nangal,NANGAL Chahi,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Nangal,NANGAL Nehri,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Nangal,NANGAL Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Nangal,NANGAL Banjar,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Nangal,NANGAL Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Nangal,NANGAL,residential,2530,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Nangal,NANGAL,commercial,9300,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Nautana,APPROACH ROAD,agricultural,1100.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Nautana,APPROACH ROAD,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Nautana,APPROACH ROAD,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Nautana,"MAIN ROAD ATELI, DADRI, KOSLI",agricultural,1375.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Nautana,"MAIN ROAD ATELI, DADRI, KOSLI",residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Nautana,"MAIN ROAD ATELI, DADRI, KOSLI",commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Nautana,MAIN ROAD REWARI KANINA MGARH,agricultural,2000.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Nautana,MAIN ROAD REWARI KANINA MGARH,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Nautana,MAIN ROAD REWARI KANINA MGARH,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Nautana,Nautana,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Nautana,Nautana,commercial,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Nautana,Nautana Chahi,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Nautana,Nautana Nehri,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Nautana,Nautana Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Nautana,Nautana Banjar,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Partal,APPROACH ROAD,agricultural,1100.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Partal,APPROACH ROAD,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Partal,APPROACH ROAD,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Partal,"MAIN ROAD ATELI, DADRI, KOSLI",agricultural,1375.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Partal,"MAIN ROAD ATELI, DADRI, KOSLI",residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Partal,"MAIN ROAD ATELI, DADRI, KOSLI",commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Partal,MAIN ROAD REWARI KANINA MGARH,agricultural,2000.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Partal,MAIN ROAD REWARI KANINA MGARH,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Partal,MAIN ROAD REWARI KANINA MGARH,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Partal,PARTAL Chahi,agricultural,575.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Partal,PARTAL Nehri,agricultural,601.14,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Partal,PARTAL Barani,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Partal,PARTAL Banjar,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Partal,PARTAL Jhund,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Partal,PARTAL,residential,3360,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Partal,PARTAL,commercial,10800,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Pathera,Pathera Chahi,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Pathera,Pathera Nehri,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Pathera,Pathera Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Pathera,Pathera Banjar,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Pathera,Pathera Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Pathera,Pathera,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Pathera,Pathera,commercial,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Pota,Pota Chahi,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Pota,Pota Nehri,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Pota,Pota Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Pota,Pota Banjar,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Pota,Pota,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Pota,Pota,commercial,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bhagot,APPROACH ROAD,agricultural,1100.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bhagot,APPROACH ROAD,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bhagot,APPROACH ROAD,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bhagot,Bhagot Chahi,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bhagot,Bhagot Nehri,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bhagot,Bhagot Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bhagot,Bhagot Banjar,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bhagot,Bhagot Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bhagot,Bhagot,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bhagot,Bhagot,commercial,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bhagot,"MAIN ROAD ATELI, DADRI, KOSLI",agricultural,1250.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bhagot,"MAIN ROAD ATELI, DADRI, KOSLI",residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bhagot,"MAIN ROAD ATELI, DADRI, KOSLI",commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bhagot,MAIN ROAD REWARI KANINA MGARH,agricultural,2000.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bhagot,MAIN ROAD REWARI KANINA MGARH,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bhagot,MAIN ROAD REWARI KANINA MGARH,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bewal,APPROACH ROAD,agricultural,1100.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bewal,APPROACH ROAD,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bewal,APPROACH ROAD,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bewal,BEWAL Chahi,agricultural,548.86,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bewal,BEWAL Nehri,agricultural,525.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bewal,BEWAL Barani,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bewal,BEWAL Banjar,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bewal,BEWAL Jhund,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bewal,BEWAL,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bewal,BEWAL,commercial,8230,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bewal,"MAIN ROAD ATELI, DADRI, KOSLI",agricultural,1375.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bewal,"MAIN ROAD ATELI, DADRI, KOSLI",residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bewal,"MAIN ROAD ATELI, DADRI, KOSLI",commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bewal,MAIN ROAD REWARI KANINA MGARH,agricultural,2000.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bewal,MAIN ROAD REWARI KANINA MGARH,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bewal,MAIN ROAD REWARI KANINA MGARH,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bharaph,APPROACH ROAD,agricultural,1100.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bharaph,APPROACH ROAD,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bharaph,APPROACH ROAD,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bharaph,BHARAF Chahi,agricultural,570.25,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bharaph,BHARAF Nehri,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bharaph,BHARAF Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bharaph,BHARAF Banjar,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bharaph,BHARAF Jhund,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bharaph,BHARAF,residential,2760,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bharaph,BHARAF,commercial,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bharaph,"MAIN ROAD ATELI, DADRI, KOSLI",agricultural,1375.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bharaph,MAIN ROAD REWARI KANINA MGARH,agricultural,2000.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bhojawas,APPROACH ROAD,agricultural,1100.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bhojawas,APPROACH ROAD,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bhojawas,APPROACH ROAD,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bhojawas,Bhojawas Chahi,agricultural,655.79,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bhojawas,Bhojawas Nehri,agricultural,575.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bhojawas,Bhojawas Barani,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bhojawas,Bhojawas Jhund,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bhojawas,Bhojawas Banjar,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bhojawas,"MAIN ROAD ATELI, DADRI, KOSLI",residential,5100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bhojawas,"MAIN ROAD ATELI, DADRI, KOSLI",commercial,8600,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bhojawas,"MAIN ROAD ATELI, DADRI, KOSLI",agricultural,1375.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bhojawas,Bhojawas,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bhojawas,Bhojawas,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bhojawas,MAIN ROAD REWARI KANINA MGARH,agricultural,2000.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bhojawas,MAIN ROAD REWARI KANINA MGARH,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Bhojawas,MAIN ROAD REWARI KANINA MGARH,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Manpura,APPROACH ROAD,agricultural,1100.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Manpura,MANPURA Chahi,agricultural,496.59,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Manpura,MANPURA Nehri,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Manpura,MANPURA Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Manpura,MANPURA Banjar,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Manpura,MANPURA Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Manpura,MANPURA,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Manpura,MANPURA,commercial,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Manpura,APPROACH ROAD,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Manpura,APPROACH ROAD,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Modi,APPROACH ROAD,agricultural,1100.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Modi,APPROACH ROAD,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Modi,APPROACH ROAD,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Modi,MORI Chahi,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Modi,MORI Nehri,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Modi,MORI Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Modi,MORI Banjar,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Modi,MORI Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Modi,MORI,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Modi,MORI,commercial,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Mohanpur,APPROACH ROAD,agricultural,1100.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Mohanpur,APPROACH ROAD,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Mohanpur,APPROACH ROAD,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Mohanpur,"MAIN ROAD ATELI, DADRI, KOSLI",agricultural,1375.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Mohanpur,"MAIN ROAD ATELI, DADRI, KOSLI",residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Mohanpur,"MAIN ROAD ATELI, DADRI, KOSLI",commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Mohanpur,MAIN ROAD REWARI KANINA MGARH,agricultural,2000.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Mohanpur,MAIN ROAD REWARI KANINA MGARH,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Mohanpur,MAIN ROAD REWARI KANINA MGARH,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Mohanpur,Mohanpur Chahi,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Mohanpur,Mohanpur Nehri,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Mohanpur,Mohanpur Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Mohanpur,Mohanpur Banjar,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Mohanpur,Mohanpur Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Mohanpur,Mohanpur,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Mohanpur,Mohanpur,commercial,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Rasulpur,APPROACH ROAD,agricultural,1100.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Rasulpur,APPROACH ROAD,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Rasulpur,APPROACH ROAD,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Rasulpur,"MAIN ROAD ATELI, DADRI, KOSLI",agricultural,1375.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Rasulpur,"MAIN ROAD ATELI, DADRI, KOSLI",residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Rasulpur,"MAIN ROAD ATELI, DADRI, KOSLI",commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Rasulpur,MAIN ROAD REWARI KANINA MGARH,agricultural,2000.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Rasulpur,MAIN ROAD REWARI KANINA MGARH,residential,9900,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Rasulpur,MAIN ROAD REWARI KANINA MGARH,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Rasulpur,Rasulpur Chahi,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Rasulpur,Rasulpur Nehri,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Rasulpur,Rasulpur Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Rasulpur,Rasulpur Banjar,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Rasulpur,Rasulpur Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Rasulpur,Rasulpur,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Rasulpur,Rasulpur,commercial,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Rambass,Rambass Chahi,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Rambass,Rambass Nehri,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Rambass,Rambass Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Rambass,Rambass Banjar,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Rambass,Rambass Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Rambass,Rambass,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Rambass,Rambass,commercial,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Sihor,APPROACH ROAD,agricultural,1100.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Sihor,APPROACH ROAD,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Sihor,APPROACH ROAD,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Sihor,SIHOR Chahi,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Sihor,SIHOR Nehri,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Sihor,SIHOR Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Sihor,SIHOR Banjar,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Sihor,SIHOR Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Sihor,SIHOR,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Sihor,SIHOR,commercial,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Sundrah,APPROACH ROAD,agricultural,1100.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Sundrah,APPROACH ROAD,residential,2550,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Sundrah,APPROACH ROAD,commercial,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Sundrah,"MAIN ROAD ATELI, DADRI, KOSLI",agricultural,1375.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Sundrah,"MAIN ROAD ATELI, DADRI, KOSLI",residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Sundrah,"MAIN ROAD ATELI, DADRI, KOSLI",commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Sundrah,MAIN ROAD REWARI KANINA MGARH,agricultural,2000.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Sundrah,MAIN ROAD REWARI KANINA MGARH,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Sundrah,MAIN ROAD REWARI KANINA MGARH,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Sundrah,SUNDRAH Chahi,agricultural,575.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Sundrah,SUNDRAH Nehri,agricultural,575.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Sundrah,SUNDRAH,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Sundrah,SUNDRAH,commercial,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Sundrah,SUNDRAH Barani,agricultural,525.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Sundrah,SUNDRAH Banjar,agricultural,525.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Sundrah,SUNDRAH Jhund,agricultural,525.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Sehlang,Pahad,agricultural,800.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Sehlang,Sehlang Chahi,agricultural,625.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Sehlang,Sehlang Nehri,agricultural,625.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Sehlang,Sehlang Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Sehlang,Sehlang Banjar,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Sehlang,Sehlang Jhund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Sehlang,Sehlang,residential,4830,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Sehlang,Sehlang,commercial,8230,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Sayana,Sayana Chahi,agricultural,525.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Sayana,Sayana Nehri,agricultural,548.86,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Sayana,Sayana Barani,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Sayana,Sayana Banjar,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Sayana,Sayana Jhund,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Sayana,Sayana,residential,2780,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Sayana,Sayana,commercial,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Sayana,Sayana Other,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaMandi,Shops inside Mandi,commercial,35090,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,KaninaMandi,Shopping Complex,commercial,33500,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kanina,Land around Hills up to 2 Acre,agricultural,727.27,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kanina,Land with Stone Crusher up to 2 Acre,agricultural,1041.32,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kanina,PWD/Approach Road unlisted,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kanina,PWD/Approach Road unlisted,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Kanina,Kanina,PWD/Approach Road unlisted,agricultural,1100.0,2026-04-01,mahendragarh_gov_in_dc_notification

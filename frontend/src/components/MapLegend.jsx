@@ -3,29 +3,31 @@ import { DATA_LAYERS } from '../config/layers';
 import { colors } from '../design-system/tokens';
 
 function LegendSwatch({ color, shape = 'line' }) {
-  if (shape === 'bus' || shape === 'icon') {
+  if (shape === 'point' || shape === 'icon') {
     return (
       <span
-        className="inline-flex h-3.5 w-3.5 shrink-0 items-center justify-center rounded-full border border-ds-border text-[8px] font-bold text-ds-text-inverse"
-        style={{ backgroundColor: color || colors.accent.default }}
-        aria-hidden
-      />
-    );
-  }
-  if (shape === 'point') {
-    return (
-      <span
-        className="inline-block h-3 w-3 shrink-0 rounded-full border border-ds-border"
+        className="inline-block h-3.5 w-3.5 shrink-0 rounded-full border-2 border-white shadow-sm ring-1 ring-black/15"
         style={{ backgroundColor: color }}
         aria-hidden
       />
     );
   }
+  if (shape === 'bus') {
+    return (
+      <span
+        className="inline-flex h-3.5 w-3.5 shrink-0 items-center justify-center rounded-sm border border-white shadow-sm ring-1 ring-black/15"
+        style={{ backgroundColor: color || colors.accent.default }}
+        aria-hidden
+      >
+        <span className="h-1.5 w-2 rounded-[1px] bg-white/90" />
+      </span>
+    );
+  }
   if (shape === 'fill') {
     return (
       <span
-        className="inline-block h-3 w-5 shrink-0 rounded-ds-sm border border-ds-border"
-        style={{ backgroundColor: color, opacity: 0.85 }}
+        className="inline-block h-3.5 w-4 shrink-0 rounded-sm border-2 shadow-sm"
+        style={{ backgroundColor: `${color}66`, borderColor: color }}
         aria-hidden
       />
     );

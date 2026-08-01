@@ -1,0 +1,147 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Kaithal,Pundri,पुंडरी,शहरी क्षेत्र,agricultural,640.5,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,हरियाणा गेट से वार्ड/अन्दर क्षेत्र,agricultural,1177.69,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,पुंडरी-करनाल रोड,agricultural,1363.64,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,मुख्य बाजार/अन्दरूनी क्षेत्र,residential,4400,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,मुख्य बाजार/अन्दरूनी क्षेत्र,commercial,26500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,अन्दरूनी आबादी,residential,6500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,मुख्य मार्ग,residential,5000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,मुख्य मार्ग,commercial,5600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,निर्माण/विकास क्षेत्र,residential,25000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,निर्माण/विकास क्षेत्र,commercial,48000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,पुंडरी कालोनी,residential,28500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,टी-आकार/मुख्य बाजार क्षेत्र,residential,4500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,टी-आकार/मुख्य बाजार क्षेत्र,commercial,14500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,डी०ए०वी० कालोनी,residential,5000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,डी०ए०वी० कालोनी,commercial,13800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,डी०ए०वी० स्कूल के सामने,commercial,44000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,डी०ए०वी० कालोनी (पुराना गेट),commercial,24500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,खारी गेट कालोनी,residential,4500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,पुराना बाजार,commercial,36500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,कृष्णा/मुख्य चौक क्षेत्र,commercial,22000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,रिंग रोड/मुख्य रोड,residential,4500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,रिंग रोड/मुख्य रोड,commercial,24500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,पुराना बस अड्डा,commercial,25900,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,बाहरी आबादी,residential,5000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,हुडा/प्लॉट क्षेत्र,residential,52000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,हुडा/प्लॉट क्षेत्र,commercial,71000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,एचएसवीपी/हुडा सेक्टर,agricultural,1250.0,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,शहरी परिधि,residential,4500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,शहरी परिधि,commercial,21000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,जीन्द रोड से कालोनी क्षेत्र,residential,6000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,जीन्द रोड से कालोनी क्षेत्र,commercial,24200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,खेड़ी कालोनी,residential,4600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,खेड़ी कालोनी,commercial,24500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,मण्डी/बाजार क्षेत्र,agricultural,599.17,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,नगर सीमा/बाहरी क्षेत्र,agricultural,1250.0,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,नगर सीमा/बाहरी क्षेत्र,residential,4500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,नगर सीमा/बाहरी क्षेत्र,commercial,30000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,अन्दरूनी कालोनी,residential,5000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,अन्दरूनी कालोनी,commercial,30500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,मेन रोड से आबादी,residential,5000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,मेन रोड से आबादी,commercial,38500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,मुख्य बाजार,residential,4000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,मुख्य बाजार,commercial,36500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,नगर सीमा रोड,residential,5000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,नगर सीमा रोड,commercial,38500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,रिहायशी क्षेत्र,residential,5000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,रिहायशी क्षेत्र,commercial,36500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,मुख्य रोड कालोनी,residential,4500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,मुख्य रोड कालोनी,commercial,36500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,राजकीय मार्ग किनारा,residential,4000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,राजकीय मार्ग किनारा,commercial,15000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,पुराना बस स्टैंड,residential,4000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,पुराना बस स्टैंड,commercial,29000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,बाजार से कालोनी,residential,4000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,बाजार से कालोनी,commercial,24500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,मुख्य सड़क किनारा,residential,5200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,मुख्य सड़क किनारा,commercial,38500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,बस अड्डा कालोनी,commercial,14000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,नगर सीमा,residential,5000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,नगर सीमा,commercial,42000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,औद्योगिक/वर्कशॉप क्षेत्र,residential,4400,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,औद्योगिक/वर्कशॉप क्षेत्र,commercial,24200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,नजदीक मार्केट,residential,4500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,नजदीक मार्केट,commercial,24500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,गांव आबादी किनारा,residential,5200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,गांव आबादी किनारा,commercial,20000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,नगर सीमा,residential,4000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,नगर सीमा,commercial,22000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,मुख्य मार्ग,residential,4000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,मुख्य मार्ग,commercial,26000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,बाजार क्षेत्र,residential,5000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,बाजार क्षेत्र,commercial,24500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,आवासीय क्षेत्र,residential,6100,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,सिरसल,कृषि भूमि,agricultural,506.2,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,सिरसल,आबादी,residential,2200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,बाखर,कृषि भूमि,agricultural,506.2,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,बाखर,आबादी,residential,2200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,रसीना,कृषि भूमि,agricultural,526.86,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,रसीना,आबादी,residential,2200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,सोंगल-गुहलारोड,कृषि भूमि,agricultural,1198.35,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,ग्यारसपुर,कृषि भूमि,agricultural,506.2,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,दुल्याणी,कृषि भूमि,agricultural,619.83,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पाई,कृषि भूमि,agricultural,506.2,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,उम्मेद,कृषि भूमि,agricultural,506.2,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,खेड़ी/गांवक्षेत्र,कृषि भूमि,agricultural,1136.36,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,नवीनबस्ती,residential,residential,2500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,नवीनबस्ती,commercial,commercial,10000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,जखौली,कृषि भूमि,agricultural,619.83,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,चुहड़माजरा,कृषि भूमि,agricultural,557.85,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,फुलेला,कृषि भूमि,agricultural,557.85,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,ढांड,कृषि भूमि,agricultural,557.85,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,बांदरा,कृषि भूमि,agricultural,547.52,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,देवीगढ़,कृषि भूमि,agricultural,1136.36,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,बासर,कृषि भूमि,agricultural,557.85,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,धामलावास,कृषि भूमि,agricultural,640.5,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,बरसाना,कृषि भूमि,agricultural,630.17,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,छोटीक्योड़क,कृषि भूमि,agricultural,506.2,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,कपूरी,कृषि भूमि,agricultural,630.17,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,भैणी,कृषि भूमि,agricultural,557.85,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,मलिकपुर,कृषि भूमि,agricultural,619.83,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,भवानी,कृषि भूमि,agricultural,506.2,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,कौल,कृषि भूमि,agricultural,537.19,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,क्योड़करोडकिनारा,कृषि भूमि,agricultural,1136.36,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पाई,कृषि भूमि,agricultural,547.52,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पाई,गांव रास्ता/मेन रोड,commercial,12500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पाई,गांव रास्ता/मेन रोड,residential,2800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पाई,पुंडरी रोड किनारा,agricultural,1136.36,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,रामगढ़,अबादी क्षेत्र,commercial,20000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,रामगढ़,कृषि भूमि,agricultural,506.2,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,बाड़सिकरी,कृषि भूमि,agricultural,547.52,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,बाबा,कृषि भूमि,agricultural,681.82,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,रसीना,कृषि भूमि,agricultural,578.51,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,क्योड़क-पुंडरीरोड,कृषि भूमि,agricultural,1239.67,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,आदमपुर,मेन रोड/अबादी,commercial,12500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,आदमपुर,मेन रोड/अबादी,residential,3000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,आदमपुर,कृषि भूमि,agricultural,547.52,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,आदमपुर,क्योड़क रोड किनारा,agricultural,1136.36,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,कौल,आबादी से रास्ता पुलवानी 3 एकड़ तक,agricultural,619.83,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,कैथल-पुंडरीमार्ग,एनएच 152 डी किनारा,agricultural,619.83,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,कैथल-देवीगढ़आबादी,3 एकड़ की गहराई तक,agricultural,537.19,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,गांवआदमपुर,आबादी से मुख्य सड़क 3 एकड़ तक,agricultural,537.19,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,किनगांवोंकीआबादी,3 एकड़ की गहराई तक,agricultural,537.19,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,किर्मिच-देवीगढ़,आबादी से पुलवानी 3 एकड़ तक,agricultural,537.19,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,कपूरी,एनएच 152 डी किनारा,agricultural,619.83,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,कैथलरोड,मुख्य सड़क किनारा 3 एकड़ तक,agricultural,619.83,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,किर्मिच-पुलवानी,आबादी से 3 एकड़ तक,agricultural,537.19,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,बावलरोड,आबादी से 3 एकड़ तक,agricultural,537.19,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,देवीगढ़,मुख्य रोड से 3 एकड़ की गहराई तक,agricultural,537.19,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,बरसाना,एनएच 152 डी किनारा,agricultural,619.83,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,देवीगढ़,3 एकड़ की गहराई तक,agricultural,537.19,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,देवीगढ़-पुंडरी,मुख्य रोड से 3 एकड़ तक,agricultural,537.19,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,क्योड़क,एनएच 152 डी किनारा,agricultural,619.83,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,देवीगढ़रोड,आबादी से 3 एकड़ तक,agricultural,537.19,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी-रसीना,आबादी से 3 एकड़ तक,agricultural,537.19,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,रसीना-रसीनी,आबादी से 3 एकड़ तक,agricultural,537.19,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,देवीगढ़-रसीना,आबादी से 3 एकड़ तक,agricultural,537.19,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,गांवजखा/मीनार,आबादी से 3 एकड़ तक,agricultural,537.19,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,जाखौली,एनएच 152 डी किनारा,agricultural,619.83,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,बांदरा,आबादी से 3 एकड़ तक,agricultural,619.83,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,देवीगढ़,आबादी से 3 एकड़ तक,agricultural,537.19,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,ढांडरोड,आबादी से 3 एकड़ तक,agricultural,537.19,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,गांवपुंडरी,आबादी से 3 एकड़ तक,agricultural,537.19,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,गांवपिंडाल,आबादी से 3 एकड़ तक,agricultural,537.19,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,गांवऊंटला,आबादी से 3 एकड़ तक,agricultural,537.19,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,गांवसेरडा,आबादी से 3 एकड़ तक,agricultural,537.19,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Pundri,पुंडरी,आबादी से 3 एकड़ तक,agricultural,619.83,2026-04-01,kaithal_gov_in_dc_notification

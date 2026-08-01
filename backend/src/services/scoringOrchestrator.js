@@ -92,8 +92,33 @@ function createScoringOrchestrator({ mlClient = defaultMlClient, fallbackScoring
 
   async function scoreBatch(input) {
     const result = await fallbackScoring.scoreBatch(input);
+    const rows = result.results || [];
+    const enriched = [];
+    for (let offset = 0; offset < rows.length; offset += 8) {
+      const chunk = rows.slice(offset, offset + 8);
+      const chunkOut = await Promise.all(
+        chunk.map(async (row) => {
+          const loc = row.location || {
+            lat: row.lat,
+            lng: row.lng,
+            sector: row.sector || input.sector || 'industrial',
+          };
+          const sector = loc.sector || input.sector || 'industrial';
+          try {
+            const landValue = await estimateLandValue(loc, sector);
+            const withLand = { ...row, location: loc, landValue };
+            withLand.insights = buildScoreInsights(withLand);
+            return withLand;
+          } catch {
+            return row;
+          }
+        })
+      );
+      enriched.push(...chunkOut);
+    }
     return {
       ...result,
+      results: enriched,
       method: 'heuristic',
       confidence: 1.0,
       model_version: HEURISTIC_VERSION,

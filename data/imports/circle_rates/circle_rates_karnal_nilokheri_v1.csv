@@ -1,0 +1,573 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Karnal,Nilokheri,Amargarh,Amargarh land Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Amargarh,Amargarh land Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Amargarh,Amargarh land,residential,2800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Amargarh,Amargarh land,commercial,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Amargarh,Link Road 1-2 acres Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Amargarh,Link Road 1-2 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Amargarh,Link Road 3-4 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Arjahedi,Arjahedi land Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Arjahedi,Arjahedi land Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Arjahedi,Arjahedi land,residential,2800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Arjahedi,Arjahedi land,commercial,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Arjahedi,Link Road 1-2 acres Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Arjahedi,Link Road 1-2 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Arjahedi,Link Road 3-4 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Kalsi,Kalsi land Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Kalsi,Kalsi land Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,GalibKheri,Galib Kheri land Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,GalibKheri,Galib Kheri land Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,GalibKheri,Galib Kheri land,residential,2800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,GalibKheri,Galib Kheri land,commercial,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,GalibKheri,Link Road 1-2 acres Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,GalibKheri,Link Road 1-2 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,GalibKheri,Link Road 3-4 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Chopdi,Chopdi land Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Chopdi,Chopdi land Prime,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Chopdi,Chopdi land,residential,2800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Chopdi,Chopdi land,commercial,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Chopdi,Link Road 1-2 acres Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Chopdi,Link Road 1-2 acres Prime,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Chopdi,Link Road 3-4 acres Prime,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Jhijhadi,GT Road both sides up to 2 acres Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Jhijhadi,GT Road both sides up to 2 acres Prime,agricultural,3512.4,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Jhijhadi,GT Road both sides 3-5 acres Prime,agricultural,1962.81,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Jhijhadi,GT Road remaining Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Jhijhadi,Link Road 1-2 acres Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Jhijhadi,Link Road 1-2 acres Prime,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Jhijhadi,Link Road 3-4 acres Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Jhijhadi,Link Road 3-4 acres Prime,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Jhijhadi,Remaining land Prime,agricultural,3512.4,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Jhijhadi,Remaining land Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Jhijhadi,Remaining land,residential,2800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Jhijhadi,Remaining land,commercial,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Dodwa,Dodwa land Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Dodwa,Dodwa land Prime,agricultural,2376.03,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Dodwa,Dodwa land,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Dodwa,Dodwa land,commercial,6500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Dodwa,Inside municipal limit Normal,agricultural,2376.03,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Dodwa,Inside municipal limit Prime,agricultural,2376.03,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Dodwa,Link road land,residential,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Dodwa,Link road land,commercial,10500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Dodwa,Link road land Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Dodwa,Link road land Prime,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Dodwa,Sector 1 and Eden Self Dodwa,residential,18500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Dodwa,Sector 1 and Eden Self Dodwa,commercial,28500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,DeruMajra,Deru Majra land Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,DeruMajra,Deru Majra land Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,DeruMajra,Deru Majra land,residential,2800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,DeruMajra,Deru Majra land,commercial,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,DeruMajra,Link Road 1-2 acres Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,DeruMajra,Link Road 1-2 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,DeruMajra,Link Road 3-4 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Takhana,GT Road both sides up to 2 acres Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Takhana,GT Road both sides up to 2 acres Prime,agricultural,3512.4,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Takhana,GT Road both sides 3-5 acres Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Takhana,GT Road both sides 3-5 acres Prime,agricultural,1962.81,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Takhana,Other remaining agri Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Takhana,Other remaining agri Prime,agricultural,2376.03,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Takhana,Remaining land Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Takhana,Remaining land Prime,agricultural,3512.4,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Takhana,Remaining land,residential,3500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Takhana,Remaining land,commercial,6500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Takhana,Inside MC 3-5 acres Normal,agricultural,2376.03,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Takhana,Inside MC 3-5 acres Prime,agricultural,2376.03,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Takhana,Inside MC boundary Normal,agricultural,2376.03,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Takhana,Inside MC boundary Prime,agricultural,2376.03,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Takhana,Inside MC boundary,residential,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Takhana,Inside MC boundary,commercial,10500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Takhana,Paved link road Normal,agricultural,795.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Takhana,Paved link road Prime,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Takhana,Radha Swami Colony,residential,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Takhana,Radha Swami Colony,commercial,10500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Raas Vilas and RG City,residential,18500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Raas Vilas and RG City,commercial,27500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Vikram Colony,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Vikram Colony,commercial,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Sector 5 Takhana,residential,18500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Sector 5 Takhana,commercial,27500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,New Licensed Colonies,residential,17000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,New Licensed Colonies,commercial,27000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Ashok Vihar Colony,residential,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Ashok Vihar Colony,commercial,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,RG City Raas Vilas,residential,18500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,RG City Raas Vilas,commercial,27500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Eden Self,residential,18500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Eden Self,commercial,27500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Eco City,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Eco City,commercial,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Idgah Basti,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Idgah Basti,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Katju Nagar Ward 1,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Katju Nagar Ward 1,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Kila to Anjanthali Road both sides,residential,6500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Kila to Anjanthali Road both sides,commercial,10500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Khurana Colony,residential,6500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Khurana Colony,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Gali Mission Hospital wali gali,residential,6500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Gali Mission Hospital wali gali,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Geeta Colony Bhatia Colony,residential,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Geeta Colony Bhatia Colony,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Gupta Colony,residential,6500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Gupta Colony,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Gulab Colony Ward 9,residential,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Gulab Colony Ward 9,commercial,22500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Chowk Bazar Chauraha to Karnali,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Chowk Bazar Chauraha to Karnali,commercial,15500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Choudhary Colony,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Choudhary Colony,commercial,15500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Chhote Gurudwara Purusharthi Market,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Chhote Gurudwara Purusharthi Market,commercial,15500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,GT Road inside MC 1 acre belt,residential,8000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,GT Road inside MC 1 acre belt,commercial,20000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,GT Road to Railway Gate,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,GT Road to Railway Gate,commercial,20000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Remaining agri Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Remaining agri Prime,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Daya Nagar Daya Ram Colony,residential,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Daya Nagar Daya Ram Colony,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,New Anaj Chara Sabzi Mandi,residential,40000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,New Anaj Chara Sabzi Mandi,commercial,40000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Colonies outside MC,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Colonies outside MC,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Inside MC agri Normal,agricultural,2376.03,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Inside MC agri Prime,agricultural,2376.03,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Inside MC,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Inside MC,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Outside MC agri Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Outside MC agri Prime,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Nadana Road,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Nadana Road,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Nattha Singhwan Nagar Palika Colony,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Nattha Singhwan Nagar Palika Colony,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Peepal Wale Chowk to Khede,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Peepal Wale Chowk to Khede,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Prem Colony,residential,6500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Prem Colony,commercial,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Footi Taraori Barajgarh Basti Dodwa,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Footi Taraori Barajgarh Basti Dodwa,commercial,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Balmiki Vihar Jin Mohalla Ward 2 3,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Balmiki Vihar Jin Mohalla Ward 2 3,commercial,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Model Town Ameer Chand Mandir,residential,6500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Model Town Ameer Chand Mandir,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Rajgarh Road main road both sides,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Rajgarh Road main road both sides,commercial,20000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Railway Phatak to Lalni Pul,residential,6500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Railway Phatak to Lalni Pul,commercial,20000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Rodan Mohalla Saraf Gali Ward 3 4 5,residential,6500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Rodan Mohalla Saraf Gali Ward 3 4 5,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Lakha ke Makan to Peepal Chowk,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Lakha ke Makan to Peepal Chowk,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Lakhpat Colony,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Lakhpat Colony,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Lal Vihar Colony,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Lal Vihar Colony,commercial,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Link road agri Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Link road agri Prime,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Ward 10,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Ward 10,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Ward 11 Dere wali gali,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Ward 11 Dere wali gali,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Vikram Colony Other,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Vikram Colony Other,commercial,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Sahinda Mohalla,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Sahinda Mohalla,commercial,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Sadio wali gali Purushottam gali,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Sadio wali gali Purushottam gali,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Subhash Colony Railway Road,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Subhash Colony Railway Road,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Sector 1,residential,17500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Sector 1,commercial,27000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Sector 4,residential,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Sector 4,commercial,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Sector 5,residential,17000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,Sector 5,commercial,27000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,State Warehouse Road,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Taraori,State Warehouse Road,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Dadupur,GT Road both sides up to 2 acres Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Dadupur,GT Road both sides up to 2 acres Prime,agricultural,3512.4,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Dadupur,GT Road both sides 3-5 acres Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Dadupur,GT Road both sides 3-5 acres Prime,agricultural,1962.81,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Dadupur,Remaining land Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Dadupur,Remaining land Prime,agricultural,3512.4,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Dadupur,Remaining land,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Dadupur,Remaining land,commercial,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Dadupur,Link Road 1-2 acres Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Dadupur,Link Road 1-2 acres Prime,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Dadupur,Link Road 3-4 acres Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Dadupur,Link Road 3-4 acres Prime,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Narayana,Narayana land Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Narayana,Narayana land Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Narayana,Narayana land,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Narayana,Narayana land,commercial,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Narayana,Link Road 1-2 acres Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Narayana,Link Road 1-2 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Narayana,Link Road 3-4 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,NilokheriGaon,Nilokheri Gaon land Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,NilokheriGaon,Nilokheri Gaon land Prime,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,NilokheriGaon,Nilokheri Gaon land,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,NilokheriGaon,Nilokheri Gaon land,commercial,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,NilokheriGaon,Paved link road both sides 2 acres Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,NilokheriGaon,Paved link road both sides 2 acres Prime,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,NilokheriGaon,Link road both sides 3-4 acres Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,NilokheriGaon,Link road both sides 3-4 acres Prime,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,ITC Colony adjacent land,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,ITC Colony adjacent land,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,New Licensed Colonies,residential,17000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,New Licensed Colonies,commercial,27000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Kisan Basti agri Normal,agricultural,2376.03,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Kisan Basti agri Prime,agricultural,2376.03,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,GT Road both sides up to 2 acres Normal,agricultural,3512.4,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,GT Road both sides up to 2 acres Prime,agricultural,3512.4,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,GT Road both sides 3-5 acres Normal,agricultural,1962.81,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,GT Road both sides 3-5 acres Prime,agricultural,1962.81,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,GT Road inside MC both sides 2 acres Normal,agricultural,2376.03,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,GT Road inside MC both sides 2 acres Prime,agricultural,2376.03,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Tannery Road to Railway Station 2 acres Normal,agricultural,2376.03,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Tannery Road to Railway Station 2 acres Prime,agricultural,2376.03,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Inside MC agri Normal,agricultural,2376.03,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Inside MC agri Prime,agricultural,2376.03,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Link Road 1-2 acres khasra Normal,agricultural,2376.03,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Link Road 1-2 acres khasra Prime,agricultural,2376.03,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Link road in TS Normal,agricultural,2376.03,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Link road in TS Prime,agricultural,2376.03,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Carsa Road up to 2 acres Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Carsa Road up to 2 acres Prime,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Remaining agri in TS Normal,agricultural,2376.03,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Remaining agri in TS Prime,agricultural,3512.4,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Near Fauji Dhaba,residential,8500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Near Fauji Dhaba,commercial,23500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Radha Krishna Enclave,residential,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Radha Krishna Enclave,commercial,8500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 1 Chautang Nala south,residential,8500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 1 Chautang Nala south,commercial,9500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 1 Kisan Basti agri,agricultural,2376.03,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 1 Kisan Basti,residential,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 1 Kisan Basti,commercial,8000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 1 Chautang Nala north,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 1 Chautang Nala north,commercial,9500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 2 Shanti Nagar,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 2 Shanti Nagar,commercial,9500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 3 Hospital Area,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 3 Hospital Area,commercial,9500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 3 Bus Stand,residential,9500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 3 Bus Stand,commercial,24000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 3 Shanti Nagar,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 3 Shanti Nagar,commercial,9500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 4 Poultry Area,residential,8500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 4 Poultry Area,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 5 6 Rajiv Colony,residential,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 5 6 Rajiv Colony,commercial,9500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 8 School Canal Area,residential,8000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 8 School Canal Area,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 8 Carsa Road both sides,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 8 Carsa Road both sides,commercial,20500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 10 Railway Road both sides,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 10 Railway Road both sides,commercial,20500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 11 Neel Nagar,residential,9500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 11 Neel Nagar,commercial,20500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 11 School Area,residential,8500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 11 School Area,commercial,20500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 12 Chautang Nala,residential,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 12 Chautang Nala,commercial,9500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 12 Model Farm,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 12 Model Farm,commercial,9500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 12 School Canal Area,residential,8000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 12 School Canal Area,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 13 Janta Market,residential,40500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 13 Janta Market,commercial,40500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 13 School Area,residential,8500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 13 School Area,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 13 Hospital Area,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 13 Hospital Area,commercial,14000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 2 Hospital Area,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 2 Hospital Area,commercial,9500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 4 Detention Tank Area,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 4 Detention Tank Area,commercial,9500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 5 6 Deha Colony,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 5 6 Deha Colony,commercial,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 8 New Anaj Mandi,residential,30000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 8 New Anaj Mandi,commercial,30000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 8 Station Area,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 8 Station Area,commercial,9500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 9 School Canal Area,residential,8500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 9 School Canal Area,commercial,14000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 13 Gol Market Shopping,residential,58000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 13 Gol Market Shopping,commercial,58000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 5 6 Dera Badbhag Singh,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 5 6 Dera Badbhag Singh,commercial,9500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 5 6 New Press Colony,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 5 6 New Press Colony,commercial,9500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 7 Station Area Fauji Colony,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Ward 7 Station Area Fauji Colony,commercial,9500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Shiv Colony,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Shiv Colony,commercial,8500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Remaining land Township,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Remaining land Township,commercial,14000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Sandhir Road both sides 2 acres Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Sandhir Road both sides 2 acres Prime,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Sundar Nagar,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Nilokheri,Sundar Nagar,commercial,8500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Pakhana,Remaining agri Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Pakhana,Remaining agri Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Pakhana,Remaining land,residential,2800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Pakhana,Remaining land,commercial,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Pakhana,Link Road 1-2 acres Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Pakhana,Link Road 1-2 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Pakhana,Link Road 3-4 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Padwala,Paved link road both sides 2 acres Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Padwala,Paved link road both sides 2 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Padwala,Padwala land Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Padwala,Padwala land Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Padwala,Padwala land,residential,2800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Padwala,Padwala land,commercial,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Padwala,Link road both sides 3-4 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Padhana,GT Road both sides up to 2 acres Prime,agricultural,3512.4,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Padhana,GT Road both sides up to 2 acres Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Padhana,GT Road both sides 3-5 acres Prime,agricultural,2376.03,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Padhana,GT Road remaining khasra Normal,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Padhana,Land in MC limit Normal,agricultural,2376.03,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Padhana,Land in MC limit Prime,agricultural,2376.03,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Padhana,Land in MC limit,residential,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Padhana,Land in MC limit,commercial,10500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Padhana,Inside MC boundary Normal,agricultural,2376.03,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Padhana,Inside MC boundary Prime,agricultural,2376.03,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Padhana,Inside MC boundary,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Padhana,Inside MC boundary,commercial,12500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Padhana,Paved link road Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Padhana,Paved link road Prime,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Padhana,Remaining land Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Padhana,Remaining land Prime,agricultural,3512.4,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Padhana,Remaining land,residential,2800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Padhana,Remaining land,commercial,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Padhana,Vikram Colony,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Padhana,Vikram Colony,commercial,12500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Padhana,Ras Basera License Colony,residential,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Padhana,Ras Basera License Colony,commercial,25000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Badsalu,Badsalu land Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Badsalu,Badsalu land Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Badsalu,Badsalu land,residential,2800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Badsalu,Badsalu land,commercial,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Badsalu,Link Road 1-2 acres Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Badsalu,Link Road 1-2 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Badsalu,Link Road 3-4 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Barana,GT Road both sides up to 2 acres Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Barana,GT Road both sides up to 2 acres Prime,agricultural,3512.4,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Barana,GT Road both sides 3-5 acres Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Barana,GT Road both sides 3-5 acres Prime,agricultural,1962.81,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Barana,Link Road 1-2 acres Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Barana,Link Road 1-2 acres Prime,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Barana,Link Road 3-4 acres Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Barana,Link Road 3-4 acres Prime,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Barana,Barana land Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Barana,Barana land Prime,agricultural,3512.4,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Barana,Barana land,residential,2800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Barana,Barana land,commercial,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Barana,Paved link road both sides 2 acres Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Barana,Paved link road both sides 2 acres Prime,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Bakipur,Paved link road both sides 2 acres Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Bakipur,Paved link road both sides 2 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Bakipur,Bakipur land Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Bakipur,Bakipur land Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Bakipur,Bakipur land,residential,2800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Bakipur,Bakipur land,commercial,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Bakipur,Link road both sides 3-4 acres Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Bakipur,Link road both sides 3-4 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,BeedNarayana,Karnal Pehowa Road 2 acres Prime,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,BeedNarayana,Paved link road both sides 2 acres Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,BeedNarayana,Paved link road both sides 2 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,BeedNarayana,Beed Narayana land Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,BeedNarayana,Beed Narayana land Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,BeedNarayana,Beed Narayana land,residential,2800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,BeedNarayana,Beed Narayana land,commercial,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,BeedNarayana,Link road both sides 3-4 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Butana,GT Road both sides up to 2 acres Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Butana,GT Road both sides up to 2 acres Prime,agricultural,3512.4,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Butana,GT Road both sides 3-5 acres Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Butana,GT Road both sides 3-5 acres Prime,agricultural,1962.81,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Butana,Paved link road Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Butana,Paved link road Prime,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Butana,Link Road 1-2 acres Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Butana,Link Road 1-2 acres Prime,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Butana,Madhuban Colonizers Licence Colony,residential,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Butana,Madhuban Colonizers Licence Colony,commercial,25000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Butana,Butana land Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Butana,Butana land Prime,agricultural,3512.4,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Butana,Butana land,residential,2800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Butana,Butana land,commercial,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Bairsal,Bairsal land Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Bairsal,Bairsal land Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Bairsal,Bairsal land,residential,2800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Bairsal,Bairsal land,commercial,6500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Bairsal,Link Road 1-2 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Bairsal,Link Road 1-2 acres Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Bairsal,Link Road 3-4 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,BhainiKalan,Bhaini Kalan land Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,BhainiKalan,Bhaini Kalan land Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,BhainiKalan,Bhaini Kalan land,residential,2800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,BhainiKalan,Bhaini Kalan land,commercial,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,BhainiKalan,Link Road 1-2 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,BhainiKalan,Link Road 1-2 acres Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,BhainiKhurd,Link Road 3-4 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,BhainiKhurd,Bhaini Khurd land Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,BhainiKhurd,Bhaini Khurd land Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,BhainiKhurd,Bhaini Khurd land,residential,2800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,BhainiKhurd,Bhaini Khurd land,commercial,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,BhainiKhurd,Link Road 1-2 acres Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,BhainiKhurd,Link Road 1-2 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,BhainiKhurd,Link Road 3-4 acres Prime alt,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,ManakMajra,GT Road both sides up to 2 acres Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,ManakMajra,GT Road both sides up to 2 acres Prime,agricultural,3512.4,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,ManakMajra,GT Road both sides 3-5 acres Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,ManakMajra,GT Road both sides 3-5 acres Prime,agricultural,1962.81,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,ManakMajra,Paved link road Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,ManakMajra,Paved link road Prime,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,ManakMajra,Remaining land Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,ManakMajra,Remaining land Prime,agricultural,3512.4,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,ManakMajra,Remaining land,residential,2800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,ManakMajra,Remaining land,commercial,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,ManakMajra,Land 3-4 acres khasra Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,ManakMajra,Land 3-4 acres khasra Prime,agricultural,1962.81,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,ManakMajra,Link Road 1-2 acres Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Manthyuri,Paved link road both sides 2 acres Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Manthyuri,Paved link road both sides 2 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Manthyuri,Remaining land Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Manthyuri,Remaining land Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Manthyuri,Remaining land,residential,2800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Manthyuri,Remaining land,commercial,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Manthyuri,Link road both sides 3-4 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Yunispur,Yunispur land Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Yunispur,Yunispur land Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Yunispur,Yunispur land,residential,2800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Yunispur,Yunispur land,commercial,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Yunispur,Link Road 1-2 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Yunispur,Link Road 1-2 acres Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Yunispur,Link Road 3-4 acres Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Yunispur,Link Road 3-4 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Rajgarh,Rajgarh land Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Rajgarh,Rajgarh land Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Rajgarh,Rajgarh land,residential,2800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Rajgarh,Rajgarh land,commercial,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Rajgarh,Link Road 1-2 acres Normal,agricultural,661.16,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Rajgarh,Link Road 1-2 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Rajgarh,Link Road 3-4 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,RaipurRodan,GT Road both sides up to 2 acres Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,RaipurRodan,GT Road both sides up to 2 acres Prime,agricultural,3512.4,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,RaipurRodan,GT Road both sides 3-5 acres Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,RaipurRodan,GT Road both sides 3-5 acres Prime,agricultural,1962.81,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,RaipurRodan,Paved link road Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,RaipurRodan,Paved link road Prime,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,RaipurRodan,Link Road 1-2 acres Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,RaipurRodan,Link Road 1-2 acres Prime,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,RaipurRodan,GT 3-4 acres khasra Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,RaipurRodan,GT 3-4 acres khasra Prime,agricultural,1962.81,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,RaipurRodan,Remaining land Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,RaipurRodan,Remaining land Prime,agricultural,3512.4,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,RaipurRodan,Remaining land,residential,2800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,RaipurRodan,Remaining land,commercial,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Lalayni,Lalayni land Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Lalayni,Lalayni land Prime,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Lalayni,Lalayni land,residential,2800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Lalayni,Lalayni land,commercial,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Lalayni,Link Road 1-2 acres Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Lalayni,Link Road 1-2 acres Prime,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Lalayni,Link Road 3-4 acres Prime,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Lathro,Lathro land Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Lathro,Lathro land Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Lathro,Lathro land,residential,2800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Lathro,Lathro land,commercial,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Lathro,Link Road 1-2 acres Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Lathro,Link Road 1-2 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Lathro,Link Road 3-4 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Shamgarh,GT Road both sides up to 2 acres Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Shamgarh,GT Road both sides up to 2 acres Prime,agricultural,3512.4,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Shamgarh,GT Road both sides 3-5 acres Normal,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Shamgarh,GT Road both sides 3-5 acres Prime,agricultural,1962.81,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Shamgarh,Paved link road Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Shamgarh,Paved link road Prime,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Shamgarh,Remaining land Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Shamgarh,Remaining land Prime,agricultural,3512.4,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Shamgarh,Remaining land,residential,2800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Shamgarh,Remaining land,commercial,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Shekhanpur,Link Road 1-2 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Shekhanpur,Link Road 1-2 acres Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Shekhanpur,Link Road 3-4 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Shekhanpur,Shekhanpur land Normal,agricultural,681.82,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Shekhanpur,Shekhanpur land Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Shekhanpur,Shekhanpur land,residential,2800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Shekhanpur,Shekhanpur land,commercial,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,SherpuraViran,Link Road 1-2 acres Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,SherpuraViran,Link Road 1-2 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,SherpuraViran,Link Road 3-4 acres Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,SherpuraViran,Link Road 3-4 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,SherpuraViran,Sherpura Viran land Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,SherpuraViran,Sherpura Viran land Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,SherpuraViran,Sherpura Viran land,residential,2800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,SherpuraViran,Sherpura Viran land,commercial,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Sandhir,Paved link road both sides 2 acres Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Sandhir,Paved link road both sides 2 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Sandhir,Link road both sides 3-4 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Sandhir,Sandhir land Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Sandhir,Sandhir land Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Sandhir,Sandhir land,residential,2800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Sandhir,Sandhir land,commercial,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Saga,Karnal Pehowa Road 2 acres Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Saga,Karnal Pehowa Road 2 acres Prime,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Saga,Paved link road both sides 2 acres Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Saga,Paved link road both sides 2 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Saga,Link road both sides 3-4 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Saga,Saga land Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Saga,Saga land Prime,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Saga,Saga land,residential,2800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Saga,Saga land,commercial,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Sadikpur,Link Road 1-2 acres Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Sadikpur,Link Road 1-2 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Sadikpur,Link Road 3-4 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Sadikpur,Sadikpur land Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Sadikpur,Sadikpur land Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Sadikpur,Sadikpur land,residential,2800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Sadikpur,Sadikpur land,commercial,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Samanabahu,GT Road both sides up to 2 acres Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Samanabahu,GT Road both sides up to 2 acres Prime,agricultural,3512.4,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Samanabahu,GT Road both sides 3-5 acres Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Samanabahu,GT Road both sides 3-5 acres Prime,agricultural,1962.81,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Samanabahu,Paved link road Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Samanabahu,Paved link road Prime,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Samanabahu,Remaining land Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Samanabahu,Remaining land Prime,agricultural,3512.4,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Samanabahu,Remaining land,residential,3000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Samanabahu,Remaining land,commercial,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Samanabahu,Link Road 1-2 acres Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Samanabahu,Link Road 1-2 acres Prime,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Samanabahu,GT 3-4 acres khasra Normal,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Samanabahu,GT 3-4 acres khasra Prime,agricultural,1962.81,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Sidhpur,Link Road 1-2 acres Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Sidhpur,Link Road 1-2 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Sidhpur,Link Road 3-4 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Sidhpur,Sidhpur land Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Sidhpur,Sidhpur land Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Sidhpur,Sidhpur land,residential,2800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Sidhpur,Sidhpur land,commercial,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Sikri,Link Road 1-2 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Sikri,Link Road 1-2 acres Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Sikri,Link Road 3-4 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Sikri,Sikri land Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Sikri,Sikri land Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Sikri,Sikri land,residential,2800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Sikri,Sikri land,commercial,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Sultanpur,Link Road 1-2 acres Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Sultanpur,Link Road 1-2 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Sultanpur,Link Road 3-4 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Sultanpur,Sultanpur land Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Sultanpur,Sultanpur land Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Sultanpur,Sultanpur land,residential,2800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Sultanpur,Sultanpur land,commercial,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Saunkda,Paved link road both sides 2 acres Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Saunkda,Paved link road both sides 2 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Saunkda,Link road both sides 3-4 acres Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Saunkda,Link road both sides 3-4 acres Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Saunkda,Saunkda land Gair Mumkin,agricultural,2800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Saunkda,Saunkda land Normal,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Saunkda,Saunkda land Prime,agricultural,743.8,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Saunkda,Saunkda land,residential,2800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nilokheri,Saunkda,Saunkda land,commercial,6000,2026-04-01,karnal_gov_in_dc_notification

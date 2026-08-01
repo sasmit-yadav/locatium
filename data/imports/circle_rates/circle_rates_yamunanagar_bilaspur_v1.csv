@@ -1,0 +1,611 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Yamunanagar,Bilaspur,अजीजपुरकलां,अजीजपुर कलां,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,अजीजपुरकलां,अजीजपुर कलां,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,अजीजपुरकलां,अजीजपुर कलां,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,अजीजपुरकलां,अजीजपुर कलां,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,अम्बावाला,आम्बवाला,agricultural,462.5,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,अम्बावाला,आम्बवाला,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,अम्बावाला,आम्बवाला,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,अम्बावाला,आम्बवाला,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,अलीशेरपुरमाजरा,अलीशेरपुर माजरा,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,अलीशेरपुरमाजरा,अलीशेरपुर माजरा,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,अलीशेरपुरमाजरा,अलीशेरपुर माजरा,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,अलीशेरपुरमाजरा,अलीशेरपुर माजरा,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,अहडवाला,अहडवाला,agricultural,578.12,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,अहडवाला,अहडवाला,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,अहडवाला,अहडवाला,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,अहडवाला,अहडवाला,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,अहडवाला,अहडवाला प्राईम न० सडक,agricultural,750.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,उतमवाला,उतमवाला,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,उतमवाला,उतमवाला,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,उतमवाला,उतमवाला,residential,1700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,उतमवाला,उतमवाला,commercial,2800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,उधमगढ,उधमगढ,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,उधमगढ,उधमगढ,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,उधमगढ,उधमगढ,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,उधमगढ,उधमगढ,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,ककडौनी,ककडौनी,agricultural,462.5,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,ककडौनी,ककडौनी,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,ककडौनी,ककडौनी,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,ककडौनी,ककडौनी,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,कपूरीकलां,कपूरी कलां,agricultural,483.47,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,कपूरीकलां,कपूरी कलां,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,कपूरीकलां,कपूरी कलां,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,कपूरीकलां,कपूरी कलां,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,कपूरीखुर्द,कपूरी खुर्द,agricultural,601.25,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,कपूरीखुर्द,कपूरी खुर्द,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,कपूरीखुर्द,कपूरी खुर्द,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,कपूरीखुर्द,कपूरी खुर्द,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,काटरवाली238,काटरवाली 238,agricultural,436.36,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,काटरवाली238,काटरवाली 238,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,काटरवाली238,काटरवाली 238,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,काटरवाली238,काटरवाली 238,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,काटरवाली239,काटरवाली 239,agricultural,500.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,काटरवाली239,काटरवाली 239,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,काटरवाली239,काटरवाली 239,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,काटरवाली239,काटरवाली 239,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,काठगढ,काठगढ,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,काठगढ,काठगढ,agricultural,543.75,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,काठगढ,काठगढ,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,काठगढ,काठगढ,agricultural,225.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,काठगढ,काठगढ,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,काठगढ,काठगढ,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,कायमपुरा,कायमपुरा,agricultural,462.5,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,कायमपुरा,कायमपुरा,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,कायमपुरा,कायमपुरा,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,कायमपुरा,कायमपुरा,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,कुडेवाला,कुडे वाला,agricultural,462.5,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,कुडेवाला,कुडे वाला,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,कुडेवाला,कुडे वाला,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,कुडेवाला,कुडे वाला,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,कुराली,कुराली,agricultural,531.25,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,कुराली,कुराली,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,कुराली,कुराली,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,कुराली,कुराली,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,कुराली,कुराली प्राईम सडक के साथ,agricultural,900.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,कोटडाखास,कोटडा खास,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,कोटडाखास,कोटडा खास,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,कोटडाखास,कोटडा खास,residential,2875,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,कोटडाखास,कोटडा खास,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,खानूवाला,खानुवाला,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,खानूवाला,खानुवाला,agricultural,487.5,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,खानूवाला,खानुवाला,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,खानूवाला,खानुवाला,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,खानूवाला,खानुवाला,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,खेडाब्राह्मणान,खेडा ब्राह्मणान,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,खेडाब्राह्मणान,खेडा ब्राह्मणान,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,खेडाब्राह्मणान,खेडा ब्राह्मणान,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,खेडाब्राह्मणान,खेडा ब्राह्मणान,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,गाडवाली,गाडवाली,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,गाडवाली,गाडवाली,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,गाडवाली,गाडवाली,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,गाडवाली,गाडवाली,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,गोहराबनी,गोहरा बनी,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,गोहराबनी,गोहरा बनी,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,गोहराबनी,गोहरा बनी,agricultural,225.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,गोहराबनी,गोहरा बनी,residential,1700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,गोहराबनी,गोहरा बनी,commercial,2800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,चबूतरो,चबूतरो,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,चबूतरो,चबूतरो,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,चबूतरो,चबूतरो,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,चबूतरो,चबूतरो,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,चान्दाखेडी,एम0आर0 कलोनी,residential,4100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,चान्दाखेडी,एम0आर0 कलोनी,commercial,14500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,चान्दाखेडी,गीता कलोनी,residential,4945,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,चान्दाखेडी,गीता कलोनी,commercial,14500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,चान्दाखेडी,चान्दाखेडी रोड ककडौनी मोड,residential,4300,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,चान्दाखेडी,चान्दाखेडी रोड ककडौनी मोड,commercial,13200,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,चान्दाखेडी,चान्दा खेडी,agricultural,891.01,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,चान्दाखेडी,चान्दा खेडी,agricultural,600.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,चान्दाखेडी,चान्दा खेडी,residential,2600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,चान्दाखेडी,चान्दा खेडी,commercial,3500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,चान्दाखेडी,चान्दाखेडी दुर्गा कालोनी,residential,5000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,चान्दाखेडी,चान्दाखेडी दुर्गा कालोनी,commercial,14500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,चान्दाखेडी,दुर्गा विहार,residential,4600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,चान्दाखेडी,पैट्रोलपम्प कालोनी,residential,4900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,चान्दाखेडी,पैट्रोलपम्प कालोनी,commercial,14500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,चान्दाखेडी,प्राईम लैंड,agricultural,1050.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,चिन्तपुर,चिन्तपुर,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,चिन्तपुर,चिन्तपुर,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,चिन्तपुर,चिन्तपुर,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,चिन्तपुर,चिन्तपुर,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,चुहडपुर,चुहडपुर,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,चुहडपुर,चुहडपुर,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,चुहडपुर,चुहडपुर,residential,1700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,चुहडपुर,चुहडपुर,commercial,2800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,चौराही,चौराही,agricultural,462.5,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,चौराही,चौराही,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,चौराही,चौराही,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,चौराही,चौराही,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,चौली237,चौली,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,चौली237,चौली,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,चौली237,चौली,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,चौली237,चौली,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,छलोर,छलोर,agricultural,555.4,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,छलोर,छलोर,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,छलोर,छलोर,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,छलोर,छलोर,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,छलोर,छलोर प्राईम न०सडक,agricultural,675.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,चौली215,चौली,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,चौली215,चौली,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,चौली215,चौली,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,चौली215,चौली,commercial,4250,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,छौली215,छौली प्राईम न 0,agricultural,700.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,जंगलसलेमपुरकोही,जंगल सलेमपुर काही,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,जंगलसलेमपुरकोही,जंगल सलेमपुर काही,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,जंगलसलेमपुरकोही,जंगल सलेमपुर काही,residential,1700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,जंगलसलेमपुरकोही,जंगल सलेमपुर काही,commercial,2800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,जमीयतगढ,जमीयत गढ,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,जमीयतगढ,जमीयत गढ,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,जमीयतगढ,जमीयत गढ,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,जमीयतगढ,जमीयत गढ,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,जुडाजाटान,जुडा जाटान,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,जुडाजाटान,जुडा जाटान,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,जुडाजाटान,जुडा जाटान,residential,2875,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,जुडाजाटान,जुडा जाटान,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,जुडाशेखान,जुडाशेखान,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,जुडाशेखान,जुडाशेखान,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,जुडाशेखान,जुडाशेखान,residential,2875,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,जुडाशेखान,जुडाशेखान,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,जैतपुर,जैतपुर,agricultural,700.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,जैतपुर,जैतपुर,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,जैतपुर,जैतपुर,agricultural,225.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,जैतपुर,जैतपुर,residential,1700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,जैतपुर,जैतपुर,commercial,2800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,जोगीवाडा,जागीवाडा,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,जोगीवाडा,जागीवाडा,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,जोगीवाडा,जागीवाडा,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,जोगीवाडा,जागीवाडा,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,जानेवाला,ज्ञानंेवाला,agricultural,531.88,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,जानेवाला,ज्ञानंेवाला,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,जानेवाला,ज्ञानंेवाला,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,जानेवाला,ज्ञानंेवाला,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,टुन्डेकीटपरियां,टुन्डे की टपरियां,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,टुन्डेकीटपरियां,टुन्डे की टपरियां,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,टुन्डेकीटपरियां,टुन्डे की टपरियां,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,टुन्डेकीटपरियां,टुन्डे की टपरियां,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,टेहाब्राहमणान,टेहा ब्राहमणान,agricultural,462.5,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,टेहाब्राहमणान,टेहा ब्राहमणान,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,टेहाब्राहमणान,टेहा ब्राहमणान,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,टेहाब्राहमणान,टेहा ब्राहमणान,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,टेहीजाटान,टेही जाटान,agricultural,504.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,टेहीजाटान,टेही जाटान,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,टेहीजाटान,टेही जाटान,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,टेहीजाटान,टेही जाटान,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,ढलौर,ढलौर,agricultural,462.5,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,ढलौर,ढलौर,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,ढलौर,ढलौर,residential,3047.5,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,ढलौर,ढलौर,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,ताहरपुरखुर्द,ताहरपुर खुर्द,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,ताहरपुरखुर्द,ताहरपुर खुर्द,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,ताहरपुरखुर्द,ताहरपुर खुर्द,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,ताहरपुरखुर्द,ताहरपुर खुर्द,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,दयालगढ,दयाल गढ,agricultural,460.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,दयालगढ,दयाल गढ,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,दयालगढ,दयाल गढ,residential,1700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,दयालगढ,दयाल गढ,commercial,2800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,दरियापुर,दरियापुर,agricultural,484.71,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,दरियापुर,दरियापुर,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,दरियापुर,दरियापुर,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,दरियापुर,दरियापुर,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,दरियापुररूकाली,रूकाली,agricultural,444.32,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,दरियापुररूकाली,रूकाली,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,दरियापुररूकाली,रूकाली,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,दरियापुररूकाली,रूकाली,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,धनौरा,धनौरा,agricultural,418.18,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,धनौरा,धनौरा,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,धनौरा,धनौरा,agricultural,281.51,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,धनौरा,धनौरा,residential,1700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,धनौरा,धनौरा,commercial,3640,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,धर्मकोट,धर्मकोट,agricultural,462.5,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,धर्मकोट,धर्मकोट,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,धर्मकोट,धर्मकोट,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,धर्मकोट,धर्मकोट,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,नगली264,नगली 264,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,नगली264,नगली 264,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,नगली264,नगली 264,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,नगली264,नगली 264,commercial,3100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,नगली32,नगली 32,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,नगली32,नगली 32,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,नगली32,नगली 32,agricultural,225.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,नगली32,नगली 32,residential,1700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,नगली32,नगली 32,commercial,2800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,नत्थनपुर,नत्थनपुर,agricultural,418.18,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,नत्थनपुर,नत्थनपुर,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,नत्थनपुर,नत्थनपुर,residential,1700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,नत्थनपुर,नत्थनपुर,commercial,2800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,नाईवाली,नाईवाली,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,नाईवाली,नाईवाली,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,नाईवाली,नाईवाली,residential,1700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,नाईवाली,नाईवाली,commercial,2800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,नागलपत्तीमछरौली,नागलपत्ती मछरौली,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,नागलपत्तीमछरौली,नागलपत्ती मछरौली,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,नागलपत्तीमछरौली,नागलपत्ती मछरौली,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,नागलपत्तीमछरौली,नागलपत्ती मछरौली,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,पानीवाला,पानीवाला,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,पानीवाला,पानीवाला,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,पानीवाला,पानीवाला,agricultural,245.45,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,पानीवाला,पानीवाला,residential,1700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,पानीवाला,पानीवाला,commercial,2800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,पिपलीवाला,पिपलीवाला,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,पिपलीवाला,पिपलीवाला,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,पिपलीवाला,पिपलीवाला,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,पिपलीवाला,पिपलीवाला,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,पिरथीपुर,पिरथीपुर,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,पिरथीपुर,पिरथीपुर,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,पिरथीपुर,पिरथीपुर,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,पिरथीपुर,पिरथीपुर,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,पिलखनवाला,पिलखनवाला,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,पिलखनवाला,पिलखनवाला,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,पिलखनवाला,पिलखनवाला,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,पिलखनवाला,पिलखनवाला,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,पैन्सल,पैन्सल,agricultural,462.81,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,पैन्सल,पैन्सल,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,पैन्सल,पैन्सल,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,पैन्सल,पैन्सल,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,प्रभावली,प्रभावली,agricultural,462.81,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,प्रभावली,प्रभावली,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,प्रभावली,प्रभावली,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,प्रभावली,प्रभावली,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,फकीरमाजरा,फकीरमाजरा,agricultural,418.18,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,फकीरमाजरा,फकीरमाजरा,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,फकीरमाजरा,फकीरमाजरा,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,फकीरमाजरा,फकीरमाजरा,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,फतेहगढतुम्बी,फतेहगढ तुम्बी,agricultural,701.03,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,फतेहगढतुम्बी,फतेहगढ तुम्बी,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,फतेहगढतुम्बी,फतेहगढ तुम्बी,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,फतेहगढतुम्बी,फतेहगढ तुम्बी,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,फतेहगढतुम्बी,फतेहगढतुम्बी प्राईम न0,agricultural,900.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,फतेहपुर,फतेहपुर,agricultural,418.18,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,फतेहपुर,फतेहपुर,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,फतेहपुर,फतेहपुर,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,फतेहपुर,फतेहपुर,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बजावली,बजावली,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बजावली,बजावली,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बजावली,बजावली,agricultural,225.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बजावली,बजावली,residential,1700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बजावली,बजावली,commercial,2800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बनकट,बनकट,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बनकट,बनकट,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बनकट,बनकट,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बनकट,बनकट,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बसातियावाला,बसातिया वाला,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बसातियावाला,बसातिया वाला,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बसातियावाला,बसातिया वाला,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बसातियावाला,बसातिया वाला,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बान्सेवाला,बान्सेवाला,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बान्सेवाला,बान्सेवाला,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बान्सेवाला,बान्सेवाला,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बान्सेवाला,बान्सेवाला,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,Bilaspur Main Bajar Thana to Bus Stand,commercial,33250,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,Sumer Chand Colony,residential,4800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,अनाज मण्डी के सामने वाली कलौनी,residential,5600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,अनाज मण्डी के सामने वाली कलौनी,commercial,18000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,अनाज मण्डी मे दुकान,commercial,36300,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,अनाज मण्डी मे बुथ,commercial,32000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,आबादी देह लाल लकीर,residential,4600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,आबादी देह लाल लकीर,commercial,24200,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,ईकबाल कलौनी,residential,4100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,ईकबाल कलौनी,commercial,15000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,गणपति इन्कलेव,residential,4900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,गणपति इन्कलेव,commercial,18000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,गणपति विहार कलौनी छछरोली रोड,residential,4600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,गणपति विहार कलौनी छछरोली रोड,commercial,18000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,गीता कलौनी,residential,5700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,गीता कलौनी,commercial,18000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,गुड़ मण्डी मे दुकान,commercial,47190,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,गुड़ मण्डी मे बुथ,commercial,36300,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,गुलशन कलोनी,residential,5300,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,गुलशन कलोनी,commercial,18170,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,छछरौली रोड से कपाल मोचन भटटा,residential,4100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,छछरौली रोड से कपाल मोचन भटटा,commercial,20625,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,जगदीश कलोनी,residential,4100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,जगदीश कलोनी,commercial,18000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,जैन नगर,residential,7410,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,जैन नगर,commercial,18000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,तहसील कार्यालय के सामने,residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,तहसील कार्यालय के सामने,commercial,18000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,दुर्गा कलौनी,residential,5700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,निरकारी कलोनी,residential,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,निरकारी कलोनी,commercial,18000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,प्राईम लैण्ड बिलासपुर,agricultural,1968.75,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,फेरूवाला कालोनी,residential,4700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,फेरूवाला कालोनी,commercial,18000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,बक्शी विहार चन्दाखेडी रोड,residential,4850,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,बक्शी विहार चन्दाखेडी रोड,commercial,13300,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,बाके बिहारी कलोनी,residential,4550,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,बाके बिहारी कलोनी,commercial,18975,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,बाला जी कलोनी,residential,4850,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,बाला जी कलोनी,commercial,18000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,बिजली बोर्ड कलोनी,residential,5700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,बिजली बोर्ड कलोनी,commercial,17800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,बिलासपुर,agricultural,1305.79,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,बिलासपुर,agricultural,712.5,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,बिलासपुर,residential,3375,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,बिलासपुर,commercial,3700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,बिलासपुर मेन बाजार से थाना तक,residential,6050,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,बिलासपुर मेन बाजार से थाना तक,commercial,19000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,बिलासपुर रोड से आम्बावाला,residential,5600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,बिलासपुर रोड से आम्बावाला,commercial,14000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,बिलासपुर साढौरा से उत्तर की तरफ,residential,5450,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,बिलासपुर साढौरा से उत्तर की तरफ,commercial,12000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,बेदी कलोनी,residential,5700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,बेदी कलोनी,commercial,18000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,मेन बाजार से बिजली बोर्ड,residential,6300,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,मेन बाजार से बिजली बोर्ड,commercial,18600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,रघुनाथ पुरम,residential,5300,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,राधा स्वामी सतसंग ब्यास कलोनी,residential,5500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,राधा स्वामी सतसंग ब्यास कलोनी,commercial,11500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,रामलाल कालोनी,residential,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,रामलाल कालोनी,commercial,18000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,लक्ष्मी विहार कालोनी,residential,6555,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,शिव चौक आम्बवाला रोड तक,residential,6440,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,शिव चौक आम्बवाला रोड तक,commercial,15000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,श्री राम कलोनी,residential,4312.5,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,श्री राम कलोनी,commercial,18750,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,सरदारी लाल कालोनी,residential,6300,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,सरदारी लाल कालोनी,commercial,18000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,सरस्वती कलोनी,residential,5687,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,सरस्वती कलोनी,commercial,18150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,हरिजन व बालमिकी नजदीक रकबा,residential,4500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिलासपुर,हरिजन व बालमिकी नजदीक रकबा,commercial,14500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिहटा,बिहटा,agricultural,418.18,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिहटा,बिहटा,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिहटा,बिहटा,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिहटा,बिहटा,commercial,3400,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बिहटा,बिहटा प्राईम नम्बर सडक,agricultural,750.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बुटगढ,बुटगढ,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बुटगढ,बुटगढ,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बुटगढ,बुटगढ,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बुटगढ,बुटगढ,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बुढी,बुढी,agricultural,500.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बुढी,बुढी,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बुढी,बुढी,residential,1700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,बुढी,बुढी,commercial,2800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,भगवानपुरनथौडी,भगवानपुर नथौडी,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,भगवानपुरनथौडी,भगवानपुर नथौडी,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,भगवानपुरनथौडी,भगवानपुर नथौडी,agricultural,225.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,भगवानपुरनथौडी,भगवानपुर नथौडी,residential,1700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,भगवानपुरनथौडी,भगवानपुर नथौडी,commercial,2800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,भट्टूवाला,भट्टूवाला,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,भट्टूवाला,भट्टूवाला,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,भट्ठूवाला,भट्ठूवाला,residential,1700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,भट्ठूवाला,भट्ठूवाला,commercial,2800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,भन्नौली,भन्नौली,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,भन्नौली,भन्नौली,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,भन्नौली,भन्नौली,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,भन्नौली,भन्नौली,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,भवानीपुर,भवानी पुर,agricultural,462.5,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,भवानीपुर,भवानी पुर,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,भवानीपुर,भवानी पुर,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,भवानीपुर,भवानी पुर,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,भीलछप्पर,भीलछप्पर,agricultural,601.25,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,भीलछप्पर,भीलछप्पर,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,भीलछप्पर,भीलछप्पर,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,भीलछप्पर,भीलछप्पर,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,भीलछप्पर,भीलछप्पर कलोनी,residential,3500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,भीलछप्पर,भीलछप्पर प्राईम न0,agricultural,1125.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,भोगपुर,भोगपुर प्राईम न0,agricultural,875.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,भोगपुर,भोग पुर,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,भोगपुर,भोग पुर,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,भोगपुर,भोग पुर,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,भोगपुर,भोग पुर,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मंगलौर,मंगलौर,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मंगलौर,मंगलौर,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मंगलौर,मंगलौर,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मंगलौर,मंगलौर,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मखौर,मखौर,agricultural,531.25,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मखौर,मखौर,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मखौर,मखौर,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मखौर,मखौर,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मछरौली,मछरौली,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मछरौली,मछरौली,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मछरौली,मछरौली,agricultural,1936000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मछरौली,मछरौली,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मछरौली,मछरौली,commercial,4095,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मजाफत,मजाफत,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मजाफत,मजाफत,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मजाफत,मजाफत,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मजाफत,मजाफत,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मलकपुरबान्गर,मलकपुर बोंगर,agricultural,460.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मलकपुरबान्गर,मलकपुर बोंगर,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मलकपुरबान्गर,मलकपुर बोंगर,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मलकपुरबान्गर,मलकपुर बोंगर,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मलिकरायेपुर,मलिकरायेपुरा,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मलिकरायेपुर,मलिकरायेपुरा,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मलिकरायेपुर,मलिकरायेपुरा,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मलिकरायेपुर,मलिकरायेपुरा,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,महियुद्दीनपुर,महियुद्दीनपुर,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,महियुद्दीनपुर,महियुद्दीनपुर,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,महियुद्दीनपुर,महियुद्दीनपुर,agricultural,225.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,महियुद्दीनपुर,महियुद्दीन पुर,residential,1700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,महियुद्दीनपुर,महियुद्दीन पुर,commercial,2800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,माजरी,माजरी,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,माजरी,माजरी,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,माजरी,माजरी,agricultural,225.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,माजरी,माजरी,residential,1700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,माजरी,माजरी,commercial,2800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मानकपुर229,मानकपुर,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मानकपुर229,मानकपुर,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मानकपुर229,मानकपुर,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मानकपुर229,मानकपुर,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मानकपुर286,मानकपुर,agricultural,488.75,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मानकपुर286,मानकपुर,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मानकपुर286,मानकपुर,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मानकपुर286,मानकपुर,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मारवांकलां,मारवांकलां,agricultural,552.5,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मारवांकलां,मारवांकलां,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मारवांकलां,मारवांकलां,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मारवांकलां,मारवांकलां,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मारवांकलां,मारवाकला प्राईम न0,agricultural,900.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मारवाखुर्द,मारवाखुर्द,agricultural,488.75,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मारवाखुर्द,मारवाखुर्द,agricultural,436.36,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मारवाखुर्द,मारवाखुर्द,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मारवाखुर्द,मारवाखुर्द,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मारवाखुर्द,मारवाखुर्द,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मियांपुर,मियापुर,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मियांपुर,मियापुर,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मियांपुर,मियापुर,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मियांपुर,मियापुर,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मिलकखास,मलिकखास,agricultural,616.25,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मिलकखास,मलिकखास,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मिलकखास,मलिकखास,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मिलकखास,मलिकखास,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मिलकडा,मिलकडा,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मिलकडा,मिलकडा,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मिलकडा,मिलकडा,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मिलकडा,मिलकडा,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मिलकडा,मिलकडा प्राईम न० सडक,agricultural,675.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मुगलवाली,मुगलवाली,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मुगलवाली,मुगलवाली,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मुगलवाली,मुगलवाली,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मुगलवाली,मुगलवाली,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मुगलवाली,मुगलवाली प्राईम न० सडक,agricultural,725.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मुन्डाखेडा,मुन्डा खेडा,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मुन्डाखेडा,मुन्डा खेडा,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मुन्डाखेडा,मुन्डा खेडा,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मुन्डाखेडा,मुन्डा खेडा,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मोहडी,मोहडी,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मोहडी,मोहडी,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मोहडी,मोहडी,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,मोहडी,मोहडी,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रणजीतपुर,रणजीतपुर,agricultural,495.87,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रणजीतपुर,रणजीतपुर,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रणजीतपुर,रणजीतपुर,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रणजीतपुर,रणजीतपुर,commercial,4420,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रसुलपुर,रसुलपुर,agricultural,462.5,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रसुलपुर,रसुलपुर,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रसुलपुर,रसुलपुर,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रसुलपुर,रसुलपुर,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,राईयावाला,राईयावाला,agricultural,462.5,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,राईयावाला,राईयावाला,agricultural,463.64,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,राईयावाला,राईयावाला,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,राईयावाला,राईयावाला,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,राईयावाला,राईयावाला,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,राजपुर,राजपुर,agricultural,418.18,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,राजपुर,राजपुर,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,राजपुर,राजपुर,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,राजपुर,राजपुर,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रानीपुर,रानीपुर,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रानीपुर,रानीपुर,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रानीपुर,रानीपुर,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रानीपुर,रानीपुर,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रानीपुर,रानीपुर प्राईम न०सडक,agricultural,750.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रामगढमाजरा,रामगढ माजरा,agricultural,462.5,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रामगढमाजरा,रामगढ माजरा,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रामगढमाजरा,रामगढ माजरा,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रामगढमाजरा,रामगढ माजरा,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रामगढसवाई,रामगढ सवाई,agricultural,462.5,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रामगढसवाई,रामगढ सवाई,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रामगढसवाई,रामगढ सवाई,agricultural,225.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रामगढसवाई,रामगढ सवाई,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रामगढसवाई,रामगढ सवाई,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रामपुरकाम्बोजान,रामपुर कम्बोजान प्राईम न०,agricultural,750.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रामपुरकाम्बोजान,रामपुर काम्बोजान,agricultural,483.52,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रामपुरकाम्बोजान,रामपुर काम्बोजान,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रामपुरकाम्बोजान,रामपुर काम्बोजान,residential,2875,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रामपुरकाम्बोजान,रामपुर काम्बोजान,commercial,4930,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रामपुरजाटान,रामपुर जाटान,agricultural,462.5,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रामपुरजाटान,रामपुर जाटान,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रामपुरजाटान,रामपुर जाटान,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रामपुरजाटान,रामपुर जाटान,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रामपुरहेडयान,रामपुर हेडयान,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रामपुरहेडयान,रामपुर हेडयान,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रामपुरहेडयान,रामपुर हेडयान,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रामपुरहेडयान,रामपुर हेडयान,commercial,3400,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रामपुरगेन्डा,रामपुर गेन्डा,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रामपुरगेन्डा,रामपुर गेन्डा,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रामपुरगेन्डा,रामपुर गेन्डा,agricultural,225.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रामपुरगेन्डा,रामपुर गेन्डा,residential,1700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रामपुरगेन्डा,रामपुर गेन्डा,commercial,2800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रूकाली,रूकाली,agricultural,444.32,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रूकाली,रूकाली,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रूकाली,रूकाली,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रूकाली,रूकाली,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रौलाहेडी,रौलाहेडी,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रौलाहेडी,रौलाहेडी,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रौलाहेडी,रौलाहेडी,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रौलाहेडी,रौलाहेडी,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,रौलाहेडी,रौलाहेडी प्राईम न० सडक,agricultural,700.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,ललहाडीकलां,बलहाडीकला,agricultural,531.25,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,ललहाडीकलां,बलहाडीकला,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,ललहाडीकलां,बलहाडीकला,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,ललहाडीकलां,बलहाडीकला,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,ललहाडीखुर्द,ललहाडी खुर्द,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,ललहाडीखुर्द,ललहाडी खुर्द,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,ललहाडीखुर्द,ललहाडी खुर्द,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,ललहाडीखुर्द,ललहाडी खुर्द,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,शाहपुर,गणपति कलोनी,residential,4250,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,शाहपुर,गणपति कलोनी,commercial,18000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,शाहपुर,छछरौली रोड से राईस मिल के,residential,4250,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,शाहपुर,छछरौली रोड से राईस मिल के,commercial,18000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,शाहपुर,पटोल पम्प के पीछे,residential,4400,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,शाहपुर,पटोल पम्प के पीछे,commercial,18000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,शाहपुर,प्राईम लैण्ड,agricultural,1050.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,शाहपुर,बाला जी कलोनी,residential,3400,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,शाहपुर,बाला जी कलोनी,commercial,18000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,शाहपुर,शाहपुर,agricultural,784.09,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,शाहपुर,शाहपुर,agricultural,600.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,शाहपुर,शाहपुर,residential,3125,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,शाहपुर,शाहपुर,commercial,4567.5,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,शाहपुर,शिव कलोनी,residential,4887.5,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,शाहपुर,सिद्धी विनायक कालेज रेड,residential,3400,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,शाहपुर,सिद्धी विनायक कालेज रेड,commercial,15800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,शेखपुरा,शेखपुरा,agricultural,462.5,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,शेखपुरा,शेखपुरा,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,शेखपुरा,शेखपुरा,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,शेखपुरा,शेखपुरा,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,शेरगढ़,शेरगढ़,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,शेरगढ़,शेरगढ़,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,शेरगढ़,शेरगढ़,agricultural,225.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,शेरगढ़,शेरगढ़,residential,1700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,शेरगढ़,शेरगढ़,commercial,2800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,सुंदरबहादुरपुर,सुंदर बहादुरपुर,agricultural,460.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,सुंदरबहादुरपुर,सुंदर बहादुरपुर,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,सुंदरबहादुरपुर,सुंदर बहादुरपुर,agricultural,225.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,सुंदरबहादुरपुर,सुंदर बहादुरपुर,residential,1700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,सुंदरबहादुरपुर,सुंदर बहादुरपुर,commercial,2800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,सनौड,सनौड,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,सनौड,सनौड,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,सनौड,सनौड,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,सनौड,सनौड,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,सन्धायें,सन्धायें,agricultural,462.5,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,सन्धायें,सन्धायें,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,सन्धायें,सन्धायें,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,सन्धायें,सन्धायें,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,सन्धायें,सन्धायें प्राईम न० सडक,agricultural,750.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,सफीलपुर,सफीलपुर,agricultural,462.5,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,सफीलपुर,सफीलपुर,agricultural,531.25,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,सफीलपुर,सफीलपुर,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,सफीलपुर,सफीलपुर,residential,2875,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,सफीलपुर,सफीलपुर,commercial,5040,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,सबावडी,सबावडी,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,सबावडी,सबावडी,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,सबावडी,सबावडी,agricultural,225.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,सबावडी,सबावडी,residential,1700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,सबावडी,सबावडी,commercial,2800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,सरावी,सरावी,agricultural,462.5,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,सरावी,सरावी,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,सरावी,सरावी,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,सरावी,सरावी,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,सलेमपुरकोही,सलेमपुर कोही,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,सलेमपुरकोही,सलेमपुर कोही,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,सलेमपुरकोही,सलेमपुर कोही,residential,1700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,सलेमपुरकोही,सलेमपुर कोही,commercial,2800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,सिंधपुरा,सिधपुरा,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,सिंधपुरा,सिधपुरा,agricultural,375.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,सिंधपुरा,सिधपुरा,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,सिंधपुरा,सिधपुरा,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,सुलतानपुर,सुलतानपुर,agricultural,444.32,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,सुलतानपुर,सुलतानपुर,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,सुलतानपुर,सुलतानपुर,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,सुलतानपुर,सुलतानपुर,commercial,3622.5,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,सुलतानपुर,सुलतानपुर प्राईम न० सड़क,agricultural,775.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,हरतौल,हरतौल,agricultural,462.5,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,हरतौल,हरतौल,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,हरतौल,हरतौल,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,हरतौल,हरतौल,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,हैबतपुर,हैबतपुर,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,हैबतपुर,हैबतपुर,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,हैबतपुर,हैबतपुर,residential,2500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Bilaspur,हैबतपुर,हैबतपुर,commercial,3150,2026-04-01,yamunanagar_gov_in_dc_notification

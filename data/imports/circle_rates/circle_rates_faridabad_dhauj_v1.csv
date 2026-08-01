@@ -1,0 +1,101 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Faridabad,Dhauj,Alawalpur,Alawalpur,residential,12500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Alawalpur,Alawalpur,commercial,16500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Alawalpur,Alawalpur,agricultural,1725.00,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Alawalpur,Alawalpur,agricultural,2156.25,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Alampur,Alampur,residential,12500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Alampur,Alampur,commercial,16500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Alampur,Alampur,agricultural,1940.03,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Alampur,Alampur,agricultural,2716.04,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Alampur,Alampur Alongwith R. 2-Acres,agricultural,1940.03,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Alampur,Alampur Alongwith R. 2-Acres,agricultural,2425.04,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Kot,Kot,residential,12500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Kot,Kot,commercial,16500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Kot,Kot,agricultural,1500.00,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Kot,Kot,agricultural,386.36,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Kot,Kot,agricultural,1875.00,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Kureshipur,Kureshipur,residential,12500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Kureshipur,Kureshipur,commercial,16500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Kureshipur,Kureshipur,agricultural,613.64,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Kureshipur,Kureshipur,agricultural,1933.88,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Kureshipur,Kureshipur,agricultural,2707.44,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Kureshipur,Kureshipur Alongwith R-2 Acres,agricultural,1933.88,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Kureshipur,Kureshipur Alongwith R-2 Acres,agricultural,2417.36,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,KhoriJamalpur,Khori Jamalpur,residential,12500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,KhoriJamalpur,Khori Jamalpur,commercial,16500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,KhoriJamalpur,Khori Jamalpur,agricultural,613.64,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,KhoriJamalpur,Khori Jamalpur,agricultural,2618.18,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,KhoriJamalpur,Khori Jamalpur,agricultural,3665.45,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,KhoriJamalpur,Khori Jamalpur Alongwith R-2 Acres,agricultural,2618.18,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,KhoriJamalpur,Khori Jamalpur Alongwith R-2 Acres,agricultural,3272.73,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,GothraMohabtabad,Gothra Mohabtabad,residential,12500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,GothraMohabtabad,Gothra Mohabtabad,commercial,16500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,GothraMohabtabad,Gothra Mohabtabad,agricultural,1881.82,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,GothraMohabtabad,Gothra Mohabtabad,agricultural,2634.55,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,GothraMohabtabad,Gothra Mohabtabad Alongwith R-2 Acres,agricultural,1881.82,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,GothraMohabtabad,Gothra Mohabtabad Alongwith R-2 Acres,agricultural,2352.27,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,TikariKhera,Tikari Khera,residential,12500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,TikariKhera,Tikari Khera,commercial,21000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,TikariKhera,Tikari Khera,agricultural,1636.36,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,TikariKhera,Tikari Khera,agricultural,2290.91,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,TikariKhera,Tikari Khera Alongwith R-2 Acres,agricultural,1636.36,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,TikariKhera,Tikari Khera Alongwith R-2 Acres,agricultural,2045.45,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Dhauj,Dhauj,residential,12500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Dhauj,Dhauj,commercial,16500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Dhauj,Dhauj,agricultural,613.64,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Dhauj,Dhauj,agricultural,2329.55,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Dhauj,Dhauj,agricultural,3261.36,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Dhauj,Dhauj Alongwith R-2 Acres,agricultural,2329.55,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Dhauj,Dhauj Alongwith R-2 Acres,agricultural,2911.93,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,NoorpurDhumaspur,Noorpur Dhumaspur,residential,12500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,NoorpurDhumaspur,Noorpur Dhumaspur,commercial,16500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,NoorpurDhumaspur,Noorpur Dhumaspur,agricultural,1803.41,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,NoorpurDhumaspur,Noorpur Dhumaspur,agricultural,2524.77,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,NoorpurDhumaspur,Noorpur Dhuamspur Alongwith R-2 Acres,agricultural,1803.41,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,NoorpurDhumaspur,Noorpur Dhuamspur Alongwith R-2 Acres,agricultural,2254.26,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Nekpur,Nekpur,residential,12500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Nekpur,Nekpur,commercial,16500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Nekpur,Nekpur,agricultural,1613.64,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Nekpur,Nekpur,agricultural,2259.09,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Nekpur,Nekpur Alongwith R-2 Acres,agricultural,1613.64,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Nekpur,Nekpur Alongwith R-2 Acres,agricultural,2017.05,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Pawta,Pawta,residential,12500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Pawta,Pawta,commercial,16500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Pawta,Pawta,agricultural,613.64,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Pawta,Pawta,agricultural,2012.50,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Pawta,Pawta,agricultural,2817.50,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Pawta,Pawta Alongwith R-2 Acres,agricultural,2012.50,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Pawta,Pawta Alongwith R-2 Acres,agricultural,2515.62,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,FatehpurTaga,Fatehpur Taga,residential,12500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,FatehpurTaga,Fatehpur Taga,commercial,16500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,FatehpurTaga,Fatehpur Taga,agricultural,2017.05,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,FatehpurTaga,Fatehpur Taga,agricultural,2823.86,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,FatehpurTaga,Fatehpur Taga Alongwith R-2 Acres,agricultural,2017.05,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,FatehpurTaga,Fatehpur Taga Alongwith R-2 Acres,agricultural,2521.31,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Mangar,Mangar,residential,14500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Mangar,Mangar,commercial,21000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Mangar,Mangar,agricultural,785.12,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Mangar,Mangar,agricultural,1097.73,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Mangar,Mangar,agricultural,3142.56,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Mangar,Mangar,agricultural,4399.59,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Mangar,Mangar Alongwith R-2 Acres,agricultural,3142.56,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Mangar,Mangar Alongwith R-2 Acres,agricultural,3928.20,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Madalpur,Madalpur,residential,12500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Madalpur,Madalpur,commercial,16500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Madalpur,Madalpur,agricultural,1855.68,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Madalpur,Madalpur,agricultural,2597.95,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Madalpur,Madalpur Alongwith R-2 Acres,agricultural,1855.68,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Madalpur,Madalpur Alongwith R-2 Acres,agricultural,2319.60,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Sirohi,Sirohi,residential,12500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Sirohi,Sirohi,commercial,15500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Sirohi,Sirohi,agricultural,613.64,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Sirohi,Sirohi,agricultural,1686.98,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Sirohi,Sirohi,agricultural,2361.78,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Sirohi,Sirohi Alongwith R-2 Acres,agricultural,1686.98,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Sirohi,Sirohi Alongwith R-2 Acres,agricultural,2109.50,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Silakhadi,Silakhadi,residential,12500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Silakhadi,Silakhadi,commercial,16500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Silakhadi,Silakhadi,agricultural,1487.60,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Silakhadi,Silakhadi,agricultural,2082.64,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Silakhadi,Silakhadi Alongwith R-2 Acres,agricultural,1487.60,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dhauj,Silakhadi,Silakhadi Alongwith R-2 Acres,agricultural,1859.50,2026-04-01,faridabad_gov_in_dc_notification

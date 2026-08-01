@@ -47,11 +47,21 @@ const adminLimiter = rateLimit({
   message: { error: 'Too many admin requests, please slow down.' },
 });
 
+/** LLM / grounding is costlier — tighter fair-use bucket than general analysis. */
+const assistantLimiter = rateLimit({
+  windowMs: mapRateLimitWindowMs,
+  max: maxForEnv(400, 20),
+  standardHeaders: true,
+  legacyHeaders: false,
+  message: { error: 'Too many assistant requests, please slow down.' },
+});
+
 module.exports = {
   authLimiter,
   portalLimiter,
   investorLimiter,
   analysisLimiter,
   adminLimiter,
+  assistantLimiter,
 };
 

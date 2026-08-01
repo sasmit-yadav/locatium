@@ -1,0 +1,256 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Karnal,Ballah,Aimbla,Aimbla to Kheri Munak Link Road Nahri,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Aimbla,Aimbla to Kheri Munak Link Road Chahi,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Aimbla,Aimbla to Kheri Munak Link Road,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Aimbla,Aimbla to Kheri Munak Link Road,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Aimbla,Aimbla to Pithilia Link Road Nahri,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Aimbla,Aimbla to Pithilia Link Road Chahi,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Aimbla,Aimbla to Pithilia Link Road,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Aimbla,Aimbla to Pithilia Link Road,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Aimbla,Aimbla to Bansa Link Road Nahri,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Aimbla,Aimbla to Bansa Link Road Chahi,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Aimbla,Aimbla to Bansa Link Road,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Aimbla,Aimbla to Bansa Link Road,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Aimbla,Aimbla to Balrangdan Link Road Nahri,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Aimbla,Aimbla to Balrangdan Link Road Chahi,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Aimbla,Aimbla to Balrangdan Link Road,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Aimbla,Aimbla to Balrangdan Link Road,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Aimbla,Remaining excluding prime and link road Nahri,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Aimbla,Remaining excluding prime and link road Chahi,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Aimbla,Remaining excluding prime and link road,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Aimbla,Remaining excluding prime and link road,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Aimbla,Beyond 2 acres SH and link road Nahri,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Aimbla,Beyond 2 acres SH and link road Chahi,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Aimbla,Beyond 2 acres SH and link road Chahi Prime,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Aimbla,Beyond 2 acres SH and link road,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Aimbla,Beyond 2 acres SH and link road,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Kudlan,Kudlan to Jalmana Link Road Nahri,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Kudlan,Kudlan to Jalmana Link Road Chahi,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Kudlan,Kudlan to Jalmana Link Road,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Kudlan,Kudlan to Jalmana Link Road,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Kudlan,Kudlan to Salwan Link Road Nahri,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Kudlan,Kudlan to Salwan Link Road Chahi,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Kudlan,Kudlan to Salwan Link Road,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Kudlan,Kudlan to Salwan Link Road,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Kudlan,Kudlan to Manpura Link Road Nahri,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Kudlan,Kudlan to Manpura Link Road Chahi,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Kudlan,Kudlan to Manpura Link Road,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Kudlan,Kudlan to Manpura Link Road,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Kudlan,Beyond 2 acres SH and link road Nahri,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Kudlan,Beyond 2 acres SH and link road Chahi,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Kudlan,Beyond 2 acres SH and link road Chahi Prime,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Kudlan,Beyond 2 acres SH and link road,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Kudlan,Beyond 2 acres SH and link road,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Kotana,Assandh Panipat SH both sides 2 acres Nahri,agricultural,1074.38,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Kotana,Assandh Panipat SH both sides 2 acres Chahi,agricultural,1074.38,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Kotana,Assandh Panipat SH both sides 2 acres,commercial,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Kotana,Assandh Panipat SH both sides 2 acres,residential,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Kotana,Kotana to Kohand Link Road Nahri,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Kotana,Kotana to Kohand Link Road Chahi,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Kotana,Kotana to Kohand Link Road,commercial,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Kotana,Kotana to Kohand Link Road,residential,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Kotana,Beyond 2 acres SH and link road Nahri,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Kotana,Beyond 2 acres SH and link road Chahi,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Kotana,Beyond 2 acres SH and link road Chahi Prime,agricultural,1074.38,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Kotana,Beyond 2 acres SH and link road,commercial,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Kotana,Beyond 2 acres SH and link road,residential,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Shaktod,Assandh Panipat SH both sides 2 acres Nahri,agricultural,1022.73,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Shaktod,Assandh Panipat SH both sides 2 acres Chahi,agricultural,1022.73,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Shaktod,Assandh Panipat SH both sides 2 acres,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Shaktod,Assandh Panipat SH both sides 2 acres,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Shaktod,Shaktod to Dera Manpura Link Road Nahri,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Shaktod,Shaktod to Dera Manpura Link Road Chahi,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Shaktod,Shaktod to Dera Manpura Link Road,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Shaktod,Shaktod to Dera Manpura Link Road,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Shaktod,Beyond 2 acres SH and link road Nahri,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Shaktod,Beyond 2 acres SH and link road Chahi,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Shaktod,Beyond 2 acres SH and link road Chahi Prime,agricultural,1022.73,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Shaktod,Beyond 2 acres SH and link road,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Shaktod,Beyond 2 acres SH and link road,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,KhediMunak,All agricultural land Nahri,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,KhediMunak,All agricultural land Chahi,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,KhediMunak,All agricultural land,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,KhediMunak,All agricultural land,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Goli,Assandh Panipat SH both sides 2 acres Nahri,agricultural,1022.73,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Goli,Assandh Panipat SH both sides 2 acres Chahi,agricultural,1022.73,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Goli,Assandh Panipat SH both sides 2 acres,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Goli,Assandh Panipat SH both sides 2 acres,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Goli,Goli to Didwara Link Road Nahri,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Goli,Goli to Didwara Link Road Chahi,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Goli,Goli to Didwara Link Road,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Goli,Goli to Didwara Link Road,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Goli,Goli to Balla Link Road Nahri,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Goli,Goli to Balla Link Road Chahi,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Goli,Goli to Balla Link Road,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Goli,Goli to Balla Link Road,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Goli,Goli to Bhuslana Link Road Nahri,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Goli,Goli to Bhuslana Link Road Chahi,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Goli,Goli to Bhuslana Link Road,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Goli,Goli to Bhuslana Link Road,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Goli,Beyond 2 acres SH and link road Nahri,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Goli,Beyond 2 acres SH and link road Chahi,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Goli,Beyond 2 acres SH and link road Chahi Prime,agricultural,1022.73,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Goli,Beyond 2 acres SH and link road,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Goli,Beyond 2 acres SH and link road,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,PawanaHasanpur,Assandh Panipat SH both sides 2 acres Nahri,agricultural,1022.73,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,PawanaHasanpur,Assandh Panipat SH both sides 2 acres Chahi,agricultural,1022.73,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,PawanaHasanpur,Assandh Panipat SH both sides 2 acres,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,PawanaHasanpur,Assandh Panipat SH both sides 2 acres,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,PawanaHasanpur,Pawana Hasanpur to Kudlan Link Road Nahri,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,PawanaHasanpur,Pawana Hasanpur to Kudlan Link Road Chahi,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,PawanaHasanpur,Pawana Hasanpur to Kudlan Link Road,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,PawanaHasanpur,Pawana Hasanpur to Kudlan Link Road,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,PawanaHasanpur,Pawana Hasanpur to Balla Link Road Nahri,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,PawanaHasanpur,Pawana Hasanpur to Balla Link Road Chahi,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,PawanaHasanpur,Pawana Hasanpur to Balla Link Road,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,PawanaHasanpur,Pawana Hasanpur to Balla Link Road,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,PawanaHasanpur,Beyond 2 acres SH and link road Nahri,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,PawanaHasanpur,Beyond 2 acres SH and link road Chahi,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,PawanaHasanpur,Beyond 2 acres SH and link road Chahi Prime,agricultural,1022.73,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,PawanaHasanpur,Beyond 2 acres SH and link road,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Pada,Assandh Panipat SH both sides 2 acres Nahri,agricultural,1022.73,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Pada,Assandh Panipat SH both sides 2 acres Chahi,agricultural,1022.73,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Pada,Assandh Panipat SH both sides 2 acres,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Pada,Assandh Panipat SH both sides 2 acres,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Pada,Pada to Kundlan Link Road Nahri,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Pada,Pada to Kundlan Link Road Chahi,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Pada,Pada to Kundlan Link Road,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Pada,Pada to Kundlan Link Road,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Pada,Pada to Balla Link Road Nahri,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Pada,Pada to Balla Link Road Chahi,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Pada,Pada to Balla Link Road,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Pada,Pada to Balla Link Road,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Pada,Pada to Bansa Link Road Nahri,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Pada,Pada to Bansa Link Road Chahi,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Pada,Pada to Bansa Link Road,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Pada,Pada to Bansa Link Road,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Pada,Pada to Majra Link Road Nahri,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Pada,Pada to Majra Link Road Chahi,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Pada,Pada to Majra Link Road,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Pada,Pada to Majra Link Road,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Pada,Beyond 2 acres SH and link road Nahri,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Pada,Beyond 2 acres SH and link road Chahi,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Pada,Beyond 2 acres SH and link road Chahi Prime,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Pada,Beyond 2 acres SH and link road,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Pada,Beyond 2 acres SH and link road,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Balla,Assandh Panipat SH both sides 2 acres Nahri,agricultural,1022.73,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Balla,Assandh Panipat SH both sides 2 acres Chahi,agricultural,1022.73,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Balla,Assandh Panipat SH both sides 2 acres,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Balla,Assandh Panipat SH both sides 2 acres,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Balla,Assandh Road Gaushala to Aimbla Dharamgarh Nahri,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Balla,Assandh Road Gaushala to Aimbla Dharamgarh Chahi,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Balla,Assandh Road Gaushala to Aimbla Dharamgarh,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Balla,Assandh Road Gaushala to Aimbla Dharamgarh,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Balla,Main village link road Nahri,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Balla,Main village link road Chahi,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Balla,Main village link road,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Balla,Main village link road,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Balla,Balla to Pada Link Road Nahri,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Balla,Balla to Pada Link Road Chahi,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Balla,Balla to Pada Link Road,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Balla,Balla to Pada Link Road,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Balla,Balla to Manpura Link Road Nahri,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Balla,Balla to Manpura Link Road Chahi,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Balla,Balla to Manpura Link Road,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Balla,Balla to Manpura Link Road,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Balla,Dera Manpura to Shaktod Link Road Nahri,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Balla,Dera Manpura to Shaktod Link Road Chahi,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Balla,Dera Manpura to Shaktod Link Road,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Balla,Dera Manpura to Shaktod Link Road,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Balla,Pawana Hasanpur Link Road Nahri,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Balla,Pawana Hasanpur Link Road Chahi,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Balla,Pawana Hasanpur Link Road,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Balla,Pawana Hasanpur Link Road,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Balla,Balla Grain Market shops,commercial,25500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Balla,Beyond 2 acres SH and link road Nahri,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Balla,Beyond 2 acres SH and link road Nahri Prime,agricultural,1022.73,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Balla,Beyond 2 acres SH and link road Chahi,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Balla,Beyond 2 acres SH and link road Chahi Prime,agricultural,1022.73,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Balla,Beyond 2 acres SH and link road,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Balla,Beyond 2 acres SH and link road,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Babaredi,Assandh Panipat SH both sides 2 acres Nahri,agricultural,1022.73,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Babaredi,Assandh Panipat SH both sides 2 acres Chahi,agricultural,1022.73,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Babaredi,Assandh Panipat SH both sides 2 acres,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Babaredi,Assandh Panipat SH both sides 2 acres,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Babaredi,Babaredi to Punchla Link Road Nahri,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Babaredi,Babaredi to Punchla Link Road Chahi,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Babaredi,Babaredi to Bansa Link Road Nahri,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Babaredi,Babaredi to Bansa Link Road Chahi,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Babaredi,Babaredi to Bansa Link Road,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Babaredi,Babaredi to Bansa Link Road,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Babaredi,Beyond 2 acres SH and link road Nahri,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Babaredi,Beyond 2 acres SH and link road Chahi,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Babaredi,Beyond 2 acres SH and link road Chahi Prime,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Babaredi,Beyond 2 acres SH and link road,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Babaredi,Beyond 2 acres SH and link road,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,BalRajputan,Assandh Panipat SH both sides 2 acres Nahri,agricultural,1022.73,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,BalRajputan,Assandh Panipat SH both sides 2 acres Chahi,agricultural,1022.73,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,BalRajputan,Assandh Panipat SH both sides 2 acres,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,BalRajputan,Assandh Panipat SH both sides 2 acres,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,BalRajputan,Balrangdan to Aimbla Link Road Nahri,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,BalRajputan,Balrangdan to Aimbla Link Road Chahi,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,BalRajputan,Balrangdan to Aimbla Link Road,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,BalRajputan,Balrangdan to Aimbla Link Road,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,BalRajputan,Beyond 2 acres SH and link road Nahri,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,BalRajputan,Beyond 2 acres SH and link road Chahi,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,BalRajputan,Beyond 2 acres SH and link road Chahi Prime,agricultural,1022.73,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,BalRajputan,Beyond 2 acres SH and link road,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,BalRajputan,Beyond 2 acres SH and link road,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Munak,Assandh Panipat SH both sides 2 acres Nahri,agricultural,1074.38,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Munak,Assandh Panipat SH both sides 2 acres Chahi,agricultural,1074.38,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Munak,Assandh Panipat SH both sides 2 acres,commercial,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Munak,Assandh Panipat SH both sides 2 acres,residential,6500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Munak,Munak to Gharaunda Link Road Nahri,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Munak,Munak to Gharaunda Link Road Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Munak,Munak to Gharaunda Link Road,commercial,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Munak,Munak to Gharaunda Link Road,residential,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Munak,Munak to Balrangdan Link Road Nahri,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Munak,Munak to Balrangdan Link Road Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Munak,Munak to Balrangdan Link Road,commercial,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Munak,Munak to Balrangdan Link Road,residential,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Munak,Munak to Bohali Link Road Nahri,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Munak,Munak to Bohali Link Road Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Munak,Munak to Bohali Link Road,commercial,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Munak,Munak to Bohali Link Road,residential,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Munak,Beyond 2 acres SH and link road Nahri,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Munak,Beyond 2 acres SH and link road Chahi,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Munak,Beyond 2 acres SH and link road Chahi Prime,agricultural,1074.38,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Munak,Beyond 2 acres SH and link road,commercial,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Munak,Beyond 2 acres SH and link road,residential,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Munak,Munak to Karnal Link Road both sides 2 acres Chahi,agricultural,1022.73,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Munak,Munak to Karnal Link Road both sides 2 acres,commercial,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Munak,Munak to Karnal Link Road both sides 2 acres,residential,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Mormajra,Mormajra to Kavi Link Road Nahri,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Mormajra,Mormajra to Kavi Link Road Chahi,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Mormajra,Mormajra to Kavi Link Road,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Mormajra,Mormajra to Kavi Link Road,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Mormajra,Mormajra to Dharamgarh Link Road Nahri,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Mormajra,Mormajra to Dharamgarh Link Road Chahi,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Mormajra,Mormajra to Dharamgarh Link Road,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Mormajra,Mormajra to Dharamgarh Link Road,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Mormajra,Beyond 2 acres SH and link road Nahri,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Mormajra,Beyond 2 acres SH and link road Chahi,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Mormajra,Beyond 2 acres SH and link road Chahi Prime,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Mormajra,Beyond 2 acres SH and link road,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Mormajra,Beyond 2 acres SH and link road,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Mormajra,Mormajra Assandh to Panipat Road Chahi,agricultural,1022.73,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Mormajra,Mormajra Assandh to Panipat Road,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Mormajra,Mormajra Assandh to Panipat Road,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Risalwa,Risalwa to Didwara Link Road Nahri,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Risalwa,Risalwa to Didwara Link Road Chahi,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Risalwa,Risalwa to Didwara Link Road,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Risalwa,Risalwa to Didwara Link Road,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Risalwa,Risalwa to Malakpur Link Road Nahri,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Risalwa,Risalwa to Malakpur Link Road Chahi,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Risalwa,Risalwa to Malakpur Link Road,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Risalwa,Risalwa to Malakpur Link Road,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Risalwa,Risalwa to Salwan Link Road Chahi,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Risalwa,Risalwa to Salwan Link Road Nahri,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Risalwa,Risalwa to Salwan Link Road,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Risalwa,Risalwa to Salwan Link Road,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Risalwa,Beyond 2 acres SH and link road Nahri,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Risalwa,Beyond 2 acres SH and link road Nahri Prime,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Risalwa,Beyond 2 acres SH and link road Chahi,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Risalwa,Beyond 2 acres SH and link road Chahi Prime,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Risalwa,Beyond 2 acres SH and link road,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Ballah,Risalwa,Beyond 2 acres SH and link road,commercial,11000,2026-04-01,karnal_gov_in_dc_notification

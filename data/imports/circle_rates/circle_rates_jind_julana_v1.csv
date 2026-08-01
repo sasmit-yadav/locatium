@@ -1,0 +1,315 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Jind,Julana,AkalGarh,Akal Garh,agricultural,412.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,AkalGarh,Akal Garh,agricultural,495.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,AkalGarh,Akal Garh,agricultural,330.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,AkalGarh,Akal Garh,residential,2530,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,AkalGarh,LR,agricultural,431.25,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,AkalGarh,LR,agricultural,577.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,KamachKhera,Kamach Khera,agricultural,431.25,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,KamachKhera,Kamach Khera,agricultural,370.89,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,KamachKhera,Kamach Khera,residential,2530,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,KamachKhera,LR,agricultural,495.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,KamachKhera,SH,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Karsola,Karsola,agricultural,431.25,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Karsola,Karsola,agricultural,718.75,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Karsola,Karsola,agricultural,330.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Karsola,Karsola,residential,2530,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Karsola,LR,agricultural,687.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Karsola,NH,agricultural,743.8,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Karsola,SH,agricultural,742.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Karsola,Karsola,agricultural,302.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Karsola,Karsola,agricultural,467.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Kinana,Jind se Rohtak road main Sadak pr bhoomi,agricultural,693.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Kinana,Kinana,residential,2530,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Kinana,Kinana,commercial,4900,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Kilazafargarh,Kilazafargarh,agricultural,686.08,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Kilazafargarh,Kilazafargarh,agricultural,1045.45,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Kilazafargarh,Kilazafargarh,agricultural,577.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Kilazafargarh,Kilazafargarh,agricultural,783.39,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Kilazafargarh,Kilazafargarh,residential,2645,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Kilazafargarh,LR,agricultural,907.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Kilazafargarh,NH,agricultural,990.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Kilazafargarh,SH,agricultural,962.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Kharenti,Kharenti,agricultural,412.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Kharenti,Kharenti,agricultural,440.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Kharenti,Kharenti,agricultural,330.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Kharenti,Kharenti,residential,2530,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,KhemaKheri,LR,agricultural,495.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,KhemaKheri,Agriculture Land with road,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,KhemaKheri,Khema Kheri,agricultural,575.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,KhemaKheri,Khema Kheri,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,KhemaKheri,Khema Kheri,residential,2640,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,KheraBakta,Khera Bakta,agricultural,402.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,KheraBakta,Khera Bakta,agricultural,546.25,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,KheraBakta,Khera Bakta,agricultural,398.39,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,KheraBakta,Khera Bakta,residential,2530,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Garwali,LR,agricultural,605.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Garwali,Garwali,agricultural,365.91,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Garwali,Garwali,agricultural,402.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Garwali,Garwali,agricultural,460.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Garwali,Garwali,agricultural,343.39,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Garwali,Garwali,residential,2530,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Gatauli,LR,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Gatauli,Gatauli,agricultural,450.85,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Gatauli,Gatauli,agricultural,751.42,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Gatauli,Gatauli,agricultural,250.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Gatauli,Gatauli,residential,2300,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Gatauli,LR,agricultural,650.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Gatauli,NH,agricultural,725.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Gatauli,SH,agricultural,675.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,GusaiKhera,Gusai Khera,agricultural,675.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,GusaiKhera,Gusai Khera,agricultural,375.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,GusaiKhera,Gusai Khera,agricultural,300.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,GusaiKhera,Gusai Khera,agricultural,600.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,GusaiKhera,Gusai Khera,residential,2300,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,GusaiKhera,LR,agricultural,650.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,GusaiKhera,NH,agricultural,700.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,GusaiKhera,SH,agricultural,675.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Anaj mandi se fatak tak,residential,7800,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Anaj mandi se old bus stanad,residential,7600,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Anaj mandi thana julana Road,commercial,52000,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Baro Colony,residential,5100,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Brahaman Mainerke niche julana ki aur,residential,6000,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Brahman mainer se brahman was ki aur,residential,3700,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Buru colony,residential,5600,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,chandgi Nagar,residential,7200,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Deorar Road fatak se aage,residential,5550,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Devraor road anaj mandi se fatak tak,residential,10140,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Gandi nagar,residential,5600,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Hansi Road Fatak se Gausala Tak,residential,6400,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,hansi Road market se new bus stanad,residential,9800,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Hansi Road office Market se fatak tak,residential,10600,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Jagdish Colony,residential,5900,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Jawahar Nagar,residential,5520,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,jeevan nagar,residential,2900,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Jogi Nagar,residential,5600,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Julana,agricultural,1301.65,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Julana,agricultural,2147.73,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Julana,agricultural,1095.04,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Julana,residential,4200,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Julana,commercial,11000,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,kandi Mata,residential,7100,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,karsola Road Rajbaha tak,residential,8800,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,lachaman colony,residential,7300,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,lachman market,residential,7100,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Lajwana chungi se girls school,residential,7800,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Lajwana Road raj se ITI road,residential,3800,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Lajwana Road se ITI batha compony,residential,2700,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,lal dora ke under julana me,residential,5000,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,laldora ke under sadipur me,residential,4500,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,LR,agricultural,1022.73,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Main bajar Road sadipur purana bus stanad,commercial,62500,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Main Rohtak Road both side,commercial,24720,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Mal godam Colony,residential,7800,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Malvi Road Fatak se Aage main Road,residential,8300,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Manu Market Colony,residential,9000,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Nehru colony,residential,7800,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Neki nagar,residential,6100,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Neki nagar,residential,7200,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,New Anaj Mandi shop,commercial,76200,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,New bus stand Rohtak Road dono or comercial,commercial,21500,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,New bus stand se rihayisi plat,residential,8580,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,NH,agricultural,1000.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Old Anaj Mandi julana ke ander,commercial,48400,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Old Bus se lajwana Road,commercial,16900,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Panjabi Colony Devror Road,residential,10375,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Parmand Nagar,residential,2800,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Ragbir Colony,residential,6000,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Railway line basti harijan colony,residential,3120,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Ratan Nagar,residential,9200,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Rindana Colony,residential,6100,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Sadak chakar pr residential plot,residential,16510,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Sanskrit pathsala jind rohtak road,residential,6150,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,SH,agricultural,950.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Sharma nagar,residential,5700,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Sr.Sec.School boys ke pass,residential,5500,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,State Bank of Patiala Road,residential,11500,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,State Bank of Patiala Road,commercial,15660,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,State Bank of Patiala Road,commercial,22330,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Subash nagar,residential,12100,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Subash nagar,commercial,14000,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Udyog kunj,residential,7875,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Udyog kunj,commercial,7875,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Julana,Udyog kunj,residential,3500,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Jaijaiwanti,Jaijaiwanti,agricultural,412.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Jaijaiwanti,Jaijaiwanti,agricultural,375.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Jaijaiwanti,Jaijaiwanti,agricultural,687.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Jaijaiwanti,Jaijaiwanti,agricultural,557.85,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Jaijaiwanti,Jaijaiwanti,residential,3000,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Jaijaiwanti,LR,agricultural,715.91,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Jaijaiwanti,NH,agricultural,774.79,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Jamola,Jamola,agricultural,412.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Jamola,Jamola,agricultural,375.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Jamola,Jamola,agricultural,330.58,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Jamola,Jamola,residential,2530,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Jamola,Jamola,residential,2300,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Jamola,LR,agricultural,467.56,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Jamola,SH,agricultural,537.19,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Dhigana,Dhigana,agricultural,475.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Dhigana,Dhigana,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Dhigana,Dhigana,residential,2700,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Dhigana,NH152 Sadak ke saath lagti jameen,agricultural,687.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Dhigana,Sadak ke saath lagti jameen,agricultural,687.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Devrar,Devrar,agricultural,612.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Devrar,Devrar,agricultural,656.25,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Devrar,Devrar,agricultural,449.64,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Devrar,Devrar,residential,2990,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,DeshKhera,Desh Khera,agricultural,412.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,DeshKhera,Desh Khera,agricultural,330.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,DeshKhera,Desh Khera,residential,2530,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,DeshKhera,LR,agricultural,495.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,DeshKhera,SH,agricultural,522.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Nandgarh,LR,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Nandgarh,Nandgarh,residential,2530,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Nandgarh,Nandgarh,agricultural,412.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Nandgarh,Nandgarh,agricultural,495.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Nandgarh,Nandgarh,agricultural,330.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Nidana,Agriculture Land with road,agricultural,962.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Nidana,Gohana road main sadak ke saath,agricultural,1312.6,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Nidana,Nidana,residential,2700,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Nidana,Nidana,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Nidana,Nidana,agricultural,605.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Nidana,Nidana,agricultural,467.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Nidana,NH152D W State Highway Gohana road,agricultural,962.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Padana,Agriculture Land with road,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Padana,Padana,residential,2700,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Padana,Padana,agricultural,440.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Padana,Padana,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Padana,Padana,agricultural,412.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Padana,Padana to Shamlo Kalan main road,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Padana,LR,agricultural,852.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Padana,NH,agricultural,1433.52,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Pouli,Pouli,agricultural,840.34,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Pouli,Pouli,agricultural,1433.52,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Pouli,Pouli,agricultural,737.04,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Pouli,Pouli,residential,2700,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Fatehgarh,Fatehgarh,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Fatehgarh,Fatehgarh,agricultural,605.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Fatehgarh,Fatehgarh,agricultural,467.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Fatehgarh,Fatehgarh,residential,2700,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Fatehgarh,LR,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Fatehgarh,NH,agricultural,687.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Fatehgarh,SH,agricultural,660.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,BararKhera,Barar Khera,agricultural,440.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,BararKhera,Barar Khera,residential,2700,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,BararKhera,Kinana se barar khera road sadak bhoomi,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,BararKhera,Barar Khera,agricultural,412.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Buwana,LR,agricultural,431.25,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Buwana,LR,agricultural,330.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Buwana,LR,residential,2700,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,BudhaKheraLather,LR,agricultural,575.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,BudhaKheraLather,LR,agricultural,522.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,BudhaKheraLather,LR,agricultural,708.42,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,BudhaKheraLather,LR,agricultural,467.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,BudhaKheraLather,LR,residential,2700,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Buradhar,NH,agricultural,687.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Buradhar,NH,agricultural,810.12,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Buradhar,SH,agricultural,742.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Buradhar,SH,agricultural,431.25,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Buradhar,LR,agricultural,690.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Buradhar,LR,agricultural,483.39,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Buradhar,LR,residential,2700,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Brahamanwas,LR,agricultural,715.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Brahamanwas,LR,agricultural,601.14,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Brahamanwas,LR,agricultural,901.7,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Brahamanwas,LR,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Brahamanwas,LR,agricultural,375.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Brahamanwas,LR,residential,2700,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Brahamanwas,NH,agricultural,971.07,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Brahamanwas,SH,agricultural,901.7,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Brahamanwas,SH,agricultural,775.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,BhaironKhera,Bhairon Khera,agricultural,929.75,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,BhaironKhera,Bhairon Khera,residential,2700,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,BhaironKhera,Krishi jameen sadak ke saath,agricultural,687.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,BhaironKhera,NH 152D Sadak ke saath lagti jameen,agricultural,687.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Malvi,LR,agricultural,467.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Malvi,Malvi,agricultural,412.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Malvi,Malvi,agricultural,375.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Malvi,Malvi,agricultural,330.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Malvi,Malvi,residential,2875,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Mehrada,SH,agricultural,522.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Mehrada,LR,agricultural,605.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Mehrada,Mehrada,agricultural,412.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Mehrada,Mehrada,agricultural,495.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Mehrada,Mehrada,agricultural,330.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Mehrada,Mehrada,residential,2530,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Rajgarh,LR,agricultural,516.53,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Rajgarh,Rajgarh,agricultural,450.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Rajgarh,Rajgarh,agricultural,412.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Rajgarh,Rajgarh,agricultural,351.24,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Rajgarh,Rajgarh,residential,2800,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Ramkali,SH,agricultural,557.85,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Ramkali,Jind se Rohtak road Sadak bhoomi,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Ramkali,Ramkali,agricultural,440.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Ramkali,Ramkali,residential,2700,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,LajwanaKalan,Lajwana Kalan,agricultural,577.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,LajwanaKalan,Lajwana Kalan,agricultural,605.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,LajwanaKalan,Lajwana Kalan,agricultural,540.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,LajwanaKalan,Lajwana Kalan,residential,2530,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,LajwanaKalan,LR,agricultural,660.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,LajwanaKalan,NH,agricultural,715.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,LajwanaKalan,SH,agricultural,687.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,LajwanaKhurd,LR,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,LajwanaKhurd,LR,agricultural,605.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,LajwanaKhurd,LR,agricultural,467.4,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,LajwanaKhurd,Lajwana Khurd,residential,2530,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,LalitKhera,LR,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,LalitKhera,SH,agricultural,743.8,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,LalitKhera,SH,agricultural,712.81,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,LalitKhera,Gohana Road main sadak par,agricultural,826.45,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,LalitKhera,Gohana Road main sadak par,agricultural,1000.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,LalitKhera,Krishi Jameen sadak ke sath,agricultural,826.45,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,LalitKhera,Krishi Jameen sadak ke sath,agricultural,1100.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,LalitKhera,Lalit Khera,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,LalitKhera,Lalit Khera,residential,2700,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,LalitKhera,NH 152D W State Highway Gohana Road Lalit Khera,agricultural,687.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,LalitKhera,Highway Gohana Road Lalit Khera,agricultural,687.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,LalitKhera,NH 352 A Lalit Khera,agricultural,1100.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Shadipur,Anaj mandi se old bus stanad,residential,8750,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Shadipur,brahaman was mainer ke niche,residential,5550,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Shadipur,Brahan was Mainer,residential,4140,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Shadipur,brahaman was ki or,residential,6072,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Shadipur,Brahan was mainer ke niche julana ki or,residential,7050,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Shadipur,chandi nagar,residential,5520,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Shadipur,Jogi Nagar,residential,5520,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Shadipur,Juliana ki or,residential,5520,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Shadipur,lachaman market,residential,7015,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Shadipur,lachan colony,residential,7015,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Shadipur,Lajwana Road ITI se Barat Bathha compay,residential,2645,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Shadipur,Lajwana Road ITI tak,residential,3800,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Shadipur,laldora,residential,4500,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Shadipur,LR,agricultural,1017.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Shadipur,main bajar Road sadipr,commercial,62400,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Shadipur,Main Rohtak Road both side,commercial,33720,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Shadipur,neki nagar,residential,7015,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Shadipur,New bus stand se Rajwaha,residential,5520,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Shadipur,NH,agricultural,2147.73,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Shadipur,old bus Stand rajbaha tak,commercial,24000,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Shadipur,Rihayasi Plat,residential,5520,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Shadipur,Rindana Colony,residential,7015,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Shadipur,sadipur,agricultural,1223.18,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Shadipur,sadipur,agricultural,741.32,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Shadipur,sadipur,agricultural,638.02,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Shadipur,sadipur,residential,3875,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Shadipur,SH,agricultural,1239.67,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Shadipur,subash colony,residential,7015,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Shadipur,Udyog Kunj,commercial,4700,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,ShamloKalan,Agriculture land with road,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,ShamloKalan,Shamlo Kalan,agricultural,440.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,ShamloKalan,Shamlo Kalan,residential,2760,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,ShamloKhurd,Agriculture land with road,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,ShamloKhurd,Shamlo Khurd,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,ShamloKhurd,Shamlo Khurd,agricultural,440.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,ShamloKhurd,Shamlo Khurd,residential,2800,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,SirsaKheri,LR,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,SirsaKheri,NH,agricultural,723.14,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,SirsaKheri,SH,agricultural,660.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,SirsaKheri,Sirsa Kheri,agricultural,625.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,SirsaKheri,Sirsa Kheri,agricultural,687.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,SirsaKheri,Sirsa Kheri,agricultural,516.53,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,SirsaKheri,Sirsa Kheri,residential,2530,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Hatwala,Hatwala,agricultural,412.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Hatwala,Hatwala,agricultural,495.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Hatwala,Hatwala,agricultural,605.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Hatwala,Hatwala,residential,2530,2026-04-01,jind_gov_in_dc_notification
+Jind,Julana,Hatwala,LR,agricultural,605.0,2026-04-01,jind_gov_in_dc_notification

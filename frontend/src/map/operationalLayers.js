@@ -82,7 +82,7 @@ function ensureClusterSource(map, cfg) {
     type: 'geojson',
     data: { type: 'FeatureCollection', features: [] },
     cluster: true,
-    clusterRadius: 50,
+    clusterRadius: 42,
     clusterMaxZoom: (cfg.performance?.clusterBelowZoom ?? 11) - 1,
   });
   return srcId;
@@ -252,7 +252,7 @@ function addClusterLayers(map, cfg, opacityMultiplier) {
       filter: ['has', 'point_count'],
       layout: {
         'text-field': '{point_count_abbreviated}',
-        'text-size': 11,
+        'text-size': 9,
         'text-allow-overlap': true,
       },
       paint: { 'text-color': '#ffffff' },

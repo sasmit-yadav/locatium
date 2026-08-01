@@ -1,0 +1,242 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Bhiwani,Bawanikhera,AurangNagar,Aurang Nagar,agricultural,234.09,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,AurangNagar,Aurang Nagar Tibba,agricultural,206.61,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,AurangNagar,Aurang Nagar,residential,1200,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,AurangNagar,Aurang Nagar Chahi,agricultural,234.09,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,AurangNagar,Aurang Nagar Banjar,agricultural,206.61,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,AurangNagar,Aurang Nagar Gair Mumkin,agricultural,316.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,AurangNagar,Aurang Nagar Nahri,agricultural,261.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,AurangNagar,Hansi Tosham Road Fer Chahi,agricultural,387.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,AurangNagar,Hansi Tosham Road Fer Nahri,agricultural,387.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,AurangNagar,Hansi Tosham Road Fer Barani,agricultural,261.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Kungar,Kungar Chahi,agricultural,387.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Kungar,Kungar Nahri,agricultural,288.86,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Kungar,Kungar Gair Mumkin,agricultural,376.03,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Kungar,Kungar Barani,agricultural,288.86,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Kungar,Kungar Banjar,agricultural,234.09,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Kungar,Kungar Chahi,agricultural,261.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Kungar,Kungar,residential,1200,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Kungar,Kungar Tibba,agricultural,234.09,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Kungar,Kungar Tal,agricultural,261.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Kungar,Hansi Tosham Road Tal,agricultural,425.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Kungar,Hansi Tosham Road Chahi,agricultural,425.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Kungar,Hansi Tosham Road Barani,agricultural,425.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Kungar,Hansi Tosham Road Banjar,agricultural,425.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Kungar,Hansi Tosham Road Nahri,agricultural,425.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Jamalpur,Jamalpur Tal,agricultural,276.45,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Jamalpur,Hansi Tosham Road,residential,1200,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Jamalpur,Hansi Tosham Road Tibba,agricultural,234.09,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Jamalpur,Hansi Tosham Road Barani,agricultural,261.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Jamalpur,Hansi Tosham Road Chahi,agricultural,234.09,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Jamalpur,Hansi Tosham Road Tal,agricultural,261.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Jamalpur,Hansi Tosham Road Banjar,agricultural,234.09,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Jamalpur,Jamalpur Gair Mumkin,agricultural,316.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Jamalpur,Jamalpur Nahri,agricultural,314.05,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Jamalpur,Jamalpur Chahi,agricultural,288.86,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Jamalpur,Jamalpur Tal,agricultural,261.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Tagga,Tagga Barani,agricultural,234.09,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Tagga,Tagga Tibba,agricultural,206.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Tagga,Tagga,residential,1200,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Tagga,Tagga Tal,agricultural,234.09,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Paposa,Hansi Tosham Road Per Tal,agricultural,425.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Paposa,Hansi Tosham Road Per,agricultural,425.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Paposa,Hansi Tosham Road Per Tibba,agricultural,425.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Paposa,Hansi Tosham Road Per,residential,1200,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Paposa,Hansi Tosham Road Per Banjar,agricultural,425.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Paposa,Hansi Tosham Road Per Barani,agricultural,425.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Paposa,Hansi Tosham Road Per Gair Mumkin,agricultural,425.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Paposa,Hansi Tosham Road Per Nahri,agricultural,425.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Paposa,Hansi Tosham Road Per Chahi,agricultural,425.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Paposa,Paposa Tal,agricultural,261.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Paposa,Paposa Tibba,agricultural,234.09,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Paposa,Paposa,residential,1200,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Paposa,Paposa Barani,agricultural,261.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Paposa,Paposa Gair Mumkin,agricultural,316.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Paposa,Paposa Nahri,agricultural,288.86,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Paposa,Paposa Chahi,agricultural,288.86,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Paposa,Paposa Hansi Tosham Road Per Tal,agricultural,450.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Paposa,Paposa Hansi Tosham Road Per Banjar,agricultural,450.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Paposa,Paposa Hansi Tosham Road Per Barani,agricultural,450.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Paposa,Paposa Hansi Tosham Road Per Nahri,agricultural,450.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Pur,Pur Chahi,agricultural,261.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Pur,Pur Nahri,agricultural,273.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Pur,Pur Gair Mumkin,agricultural,316.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Pur,Pur Banjar,agricultural,206.61,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Pur,Pur Barani,agricultural,234.09,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Pur,Pur Tibba,agricultural,206.61,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Pur,Pur,residential,1200,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Pur,Pur Tal,agricultural,234.09,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Barsi,Barsi Tal,agricultural,261.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Barsi,Barsi,residential,1650,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Barsi,Barsi Tibba,agricultural,234.09,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Barsi,Bhiwani Hansi Road Gair Mumkin,agricultural,345.04,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Barsi,Bhiwani Hansi Road Barani,agricultural,261.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Barsi,Bhiwani Hansi Road Nahri,agricultural,285.12,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Barsi,Bhiwani Hansi Road Chahi,agricultural,261.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Barsi,Bhiwani Hansi Road Tal,agricultural,600.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Barsi,Bhiwani Hansi Road Banjar,agricultural,600.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Barsi,Bhiwani Hansi Road Barani,agricultural,600.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Barsi,Bhiwani Hansi Road Nahri,agricultural,600.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Barsi,Bhiwani Hansi Road Chahi,agricultural,600.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Barsi,Hansi Tosham Road Tal,agricultural,500.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Barsi,Hansi Tosham Road Banjar,agricultural,500.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Barsi,Hansi Tosham Road Barani,agricultural,500.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Barsi,Hansi Tosham Road Nahri,agricultural,500.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Barsi,Hansi Tosham Road Chahi,agricultural,500.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Barsi,Milakpur,residential,1650,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Barsi,Sikanderpur,residential,1650,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Baliyali,Baliyali Chahi,agricultural,261.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Baliyali,Baliyali Nahri,agricultural,309.92,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Baliyali,Baliyali Barani,agricultural,234.09,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Baliyali,Baliyali Gair Mumkin,agricultural,316.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Baliyali,Baliyali Banjar,agricultural,206.61,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Baliyali,Baliyali Tibba,agricultural,206.61,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Baliyali,Baliyali,residential,1200,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Baliyali,Baliyali Tal,agricultural,212.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,BawaniKhera,Bawani Khera Tal,agricultural,261.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,BawaniKhera,Bawani Khera,residential,3300,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,BawaniKhera,Bawani Khera Tibba,agricultural,234.09,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,BawaniKhera,Bawani Khera Banjar,agricultural,234.09,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,BawaniKhera,Bawani Khera Gair Mumkin,agricultural,412.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,BawaniKhera,Bawani Khera Barani,agricultural,261.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,BawaniKhera,Bawani Khera Nahri,agricultural,315.08,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,BawaniKhera,Bawani Khera Chahi,agricultural,288.86,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,BawaniKhera,Bhiwani Hansi Road Tal,agricultural,600.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,BawaniKhera,Bhiwani Hansi Road Banjar,agricultural,600.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,BawaniKhera,Bhiwani Hansi Road Barani,agricultural,600.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,BawaniKhera,Bhiwani Hansi Road Nahri,agricultural,600.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,BawaniKhera,Bhiwani Hansi Road Chahi,agricultural,600.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,BawaniKhera,Hansi Se Tosham Road,agricultural,500.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,BawaniKhera,Ahiro Ki Dhani,residential,3080,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,BawaniKhera,Ahiro Ki Dhani,commercial,6710,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,BawaniKhera,All Old Residential Area,residential,5500,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,BawaniKhera,All Old Residential Area,commercial,12100,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,BawaniKhera,Bizli Board Colony,residential,3080,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,BawaniKhera,Bizli Board Colony,commercial,9130,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,BawaniKhera,Hansi Chungi to HUDA Colony,agricultural,900.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,BawaniKhera,Hansi Chungi to B Khera Bypass,agricultural,288.86,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,BawaniKhera,Hansi Chungi to B Khera Bypass,residential,10450,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,BawaniKhera,Hansi Chungi to B Khera Bypass,commercial,22000,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,BawaniKhera,Harijan Basti,residential,3300,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,BawaniKhera,Harijan Basti,commercial,6710,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,BawaniKhera,HUDA New Residential Area,residential,9200,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,BawaniKhera,HUDA New Residential Area,commercial,11000,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,BawaniKhera,Nayak Ki Dhani,residential,3300,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,BawaniKhera,Nayak Ki Dhani,commercial,6710,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,BawaniKhera,Old Bus Stand,residential,7040,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,BawaniKhera,Old Bus Stand,commercial,12100,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,BawaniKhera,Old MC Road,residential,10560,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,BawaniKhera,Old MC Road,commercial,24200,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,BawaniKhera,Railway Line Road,residential,9900,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,BawaniKhera,Railway Line Road,commercial,17600,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,BawaniKhera,Ramroop Colony,residential,4950,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,BawaniKhera,Ramroop Colony,commercial,11000,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,BawaniKhera,Sanwar Mal Colony,residential,3300,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,BawaniKhera,Sanwar Mal Colony,commercial,6710,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,BawaniKhera,Tara Chand Colony,residential,3300,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,BawaniKhera,Valmiki Basti,residential,3300,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Bohal,Bohal,commercial,6710,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Bohal,Bohal Tal,agricultural,234.09,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Bohal,Bohal,residential,1200,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Bohal,Bohal Tibba,agricultural,206.61,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Bohal,Bohal Barani,agricultural,234.09,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Bohal,Bohal Banjar,agricultural,206.61,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Bohal,Bohal Gair Mumkin,agricultural,288.86,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Bohal,Bohal Nahri,agricultural,261.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Bohal,Bohal Chahi,agricultural,261.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Ratera,Ratera Chahi,agricultural,261.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Ratera,Ratera Nahri,agricultural,273.24,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Ratera,Ratera Banjar,agricultural,206.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Ratera,Ratera Gair Mumkin,agricultural,288.86,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Ratera,Ratera Barani,agricultural,234.09,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Ratera,Ratera Tibba,agricultural,206.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Ratera,Ratera,residential,1200,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Ratera,Ratera Tal,agricultural,234.09,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Ramupura,Ramupura Tal,agricultural,234.09,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Ramupura,Ramupura,residential,1200,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Ramupura,Ramupura Tibba,agricultural,206.61,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Ramupura,Ramupura Banjar,agricultural,206.61,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Ramupura,Ramupura Gair Mumkin,agricultural,316.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Ramupura,Ramupura Barani,agricultural,234.09,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Ramupura,Ramupura Nahri,agricultural,285.12,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Ramupura,Ramupura Chahi,agricultural,261.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Rohnat,Rohnat Chahi,agricultural,265.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Rohnat,Rohnat Barani,agricultural,234.09,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Rohnat,Rohnat Nahri,agricultural,261.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Rohnat,Rohnat Gair Mumkin,agricultural,288.86,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Rohnat,Rohnat Banjar,agricultural,206.61,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Rohnat,Rohnat Tibba,agricultural,206.61,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Rohnat,Rohnat,residential,1200,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Rohnat,Rohnat Tal,agricultural,234.09,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Rohnat,Bhiwani Hansi Road Tal,agricultural,600.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Rohnat,Bhiwani Hansi Road,agricultural,600.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Rohnat,Hansi Se Tosham Road Chahi,agricultural,600.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Rohnat,Hansi Se Tosham Road Tal,agricultural,500.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Rohnat,Hansi Se Tosham Road Barani,agricultural,500.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Rohnat,Hansi Se Tosham Road Banjar,agricultural,500.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Rohnat,Hansi Se Tosham Road Nahri,agricultural,500.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Rohnat,Hansi Se Tosham Road Chahi,agricultural,500.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,LuhariJattu,Luhari Jattu Tal,agricultural,234.09,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,LuhariJattu,Luhari Jattu,residential,1650,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,LuhariJattu,Luhari Jattu Tibba,agricultural,206.61,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,LuhariJattu,Luhari Jattu Barani,agricultural,234.09,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,LuhariJattu,Luhari Jattu Banjar,agricultural,206.61,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,LuhariJattu,Luhari Jattu Gair Mumkin,agricultural,316.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,LuhariJattu,Luhari Jattu Nahri,agricultural,315.08,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,LuhariJattu,Luhari Jattu Chahi,agricultural,285.12,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Siwara,Siwara Chahi,agricultural,261.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Siwara,Siwara Nahri,agricultural,285.12,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Siwara,Siwara Gair Mumkin,agricultural,316.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Siwara,Siwara Banjar,agricultural,206.61,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Siwara,Siwara Barani,agricultural,233.86,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Siwara,Siwara Tibba,agricultural,206.61,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Siwara,Siwara,residential,1200,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Siwara,Siwara Tal,agricultural,234.09,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Siwana,Siwana Tal,agricultural,261.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Siwana,Siwana,residential,1200,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Siwana,Siwana Tibba,agricultural,234.09,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Siwana,Siwana Barani,agricultural,261.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Siwana,Siwana Banjar,agricultural,234.09,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Siwana,Siwana Gair Mumkin,agricultural,316.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Siwana,Siwana Nahri,agricultural,288.86,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Siwana,Siwana Chahi,agricultural,315.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Sipper,Sipper Chahi,agricultural,261.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Sipper,Sipper Nahri,agricultural,261.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Sipper,Sipper Barani,agricultural,234.09,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Sipper,Sipper Banjar,agricultural,206.61,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Sipper,Sipper Gair Mumkin,agricultural,316.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Sipper,Sipper Tibba,agricultural,206.61,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Sipper,Sipper,residential,1200,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Sui,Sui Tal,agricultural,234.09,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Sui,Sui Chahi,agricultural,261.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Sui,Sui Nahri,agricultural,273.24,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Sui,Sui Gair Mumkin,agricultural,285.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Sui,Sui Banjar,agricultural,206.61,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Sui,Sui Barani,agricultural,234.09,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Sui,Sui Tibba,agricultural,206.61,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Sui,Sui,residential,1200,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,SumraKhera,Bhiwani Hansi Road Tal,agricultural,600.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,SumraKhera,Bhiwani Hansi Road Barani,agricultural,600.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,SumraKhera,Bhiwani Hansi Road Banjar,agricultural,600.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,SumraKhera,Bhiwani Hansi Road Nahri,agricultural,600.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,SumraKhera,Bhiwani Hansi Road Chahi,agricultural,600.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,SumraKhera,Hansi to Tosham Road Tal,agricultural,500.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,SumraKhera,Hansi to Tosham Road Barani,agricultural,500.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,SumraKhera,Hansi to Tosham Road Banjar,agricultural,500.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,SumraKhera,Hansi to Tosham Road Nahri,agricultural,500.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,SumraKhera,Hansi to Tosham Road Chahi,agricultural,500.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,SumraKhera,Sumra Khera Tal,agricultural,234.09,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,SumraKhera,Sumra Khera,residential,1200,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,SumraKhera,Sumra Khera Tibba,agricultural,206.61,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,SumraKhera,Sumra Khera Barani,agricultural,234.09,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,SumraKhera,Sumra Khera Banjar,agricultural,206.61,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,SumraKhera,Sumra Khera Gair Mumkin,agricultural,316.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,SumraKhera,Sumra Khera Nahri,agricultural,285.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,SumraKhera,Sumra Khera Chahi,agricultural,261.36,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,BawaniKhera,Bhiwani Hansi Road both sides depth 2 acres,agricultural,661.16,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,LuhariJattu,Bhiwani Hansi Road both sides depth 2 acres,agricultural,661.16,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,SumraKhera,Bhiwani Hansi Road both sides depth 2 acres,agricultural,661.16,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,Barsi,Bhiwani Hansi Road both sides depth 2 acres,agricultural,661.16,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,BawaniKhera,Hansi to Tosham Road both sides depth 2 acres,agricultural,516.53,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,BawaniKhera,Bawani Khera to Tosham Jamalpur Sui Pur Road depth 2 acres,agricultural,454.55,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Bawanikhera,BawaniKhera,Hansi Chungi to HUDA Colony municipal depth 2 acres,agricultural,929.75,2026-04-01,bhiwani_gov_in_dc_notification

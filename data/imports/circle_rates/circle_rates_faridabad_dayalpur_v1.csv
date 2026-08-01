@@ -1,0 +1,165 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Faridabad,Dayalpur,Akbarpur,Akbarpur,agricultural,1219.01,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Akbarpur,Akbarpur,agricultural,2053.20,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Akbarpur,Akbarpur,agricultural,547.52,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Akbarpur,Akbarpur,residential,3700,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Akbarpur,Akbarpur,commercial,4900,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Akbarpur,Akbarpur Particular Khasra,agricultural,2954.55,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Atali,Atali,agricultural,3507.02,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Atali,Atali,agricultural,5966.32,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Atali,Atali,residential,6100,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Atali,Atali,commercial,7300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Atali,Atali Along with Mohna Road,agricultural,2906.61,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Atali,Atali Along with Mohna Road,agricultural,6590.91,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Arua,Arua,agricultural,1280.99,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Arua,Arua,agricultural,1590.91,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Arua,Arua,agricultural,578.51,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Arua,Arua,residential,4000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Arua,Arua,commercial,5300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Alipur,Alipur,agricultural,1508.26,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Alipur,Alipur,agricultural,1880.17,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Alipur,Alipur,residential,5000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Alipur,Alipur,commercial,5300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Emamudinpur,Emamudinpur,agricultural,1756.20,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Emamudinpur,Emamudinpur,agricultural,2169.42,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Emamudinpur,Emamudinpur,residential,4000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Emamudinpur,Emamudinpur,commercial,5300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Kaurali,Kaurali,agricultural,2066.12,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Kaurali,Kaurali,agricultural,2557.02,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Kaurali,Kaurali,agricultural,5500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Kaurali,Kaurali,residential,5500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Kaurali,Kaurali,commercial,19000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Garhkhera,Garhkhera,agricultural,3089.05,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Garhkhera,Garhkhera,agricultural,3867.77,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Garhkhera,Garhkhera,agricultural,2272.73,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Garhkhera,Garhkhera,residential,6600,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Garhkhera,Garhkhera,commercial,7700,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,GariBegampur,Gari Begampur,agricultural,1115.70,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,GariBegampur,Gari Begampur,agricultural,1384.30,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,GariBegampur,Gari Begampur,agricultural,500.00,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,GariBegampur,Gari Begampur,residential,3700,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,GariBegampur,Gari Begampur,commercial,4900,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Gharoria,Gharoria,agricultural,1260.33,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Gharoria,Gharoria,agricultural,1570.25,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Gharoria,Gharoria,agricultural,1260.33,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Gharoria,Gharoria,residential,4900,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Gharoria,Gharoria,commercial,19000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Ghurasan,Ghurasan,agricultural,1115.70,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Ghurasan,Ghurasan,agricultural,1384.30,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Ghurasan,Ghurasan,agricultural,1115.70,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Ghurasan,Ghurasan,residential,3700,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Ghurasan,Ghurasan,commercial,4900,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Chandpur,Chandpur,agricultural,1342.98,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Chandpur,Chandpur,agricultural,1673.55,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Chandpur,Chandpur,agricultural,578.51,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Chandpur,Chandpur,residential,4400,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Chandpur,Chandpur,commercial,12500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,JafarpurMajraGharoria,Jafarpur Majra Gharoria,agricultural,1363.64,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,JafarpurMajraGharoria,Jafarpur Majra Gharoria,agricultural,1714.88,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,JafarpurMajraGharoria,Jafarpur Majra Gharoria,residential,4000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,JafarpurMajraGharoria,Jafarpur Majra Gharoria,commercial,5300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Junehera,Junehera,agricultural,5387.60,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Junehera,Junehera,agricultural,6725.62,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Junehera,Junehera,residential,7300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Junehera,Junehera,commercial,8500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Junehera,Junehera License Colony,residential,35000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Junehera,Junehera License Colony,commercial,45000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Dayalpur,Dayalpur,agricultural,5685.95,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Dayalpur,Dayalpur,agricultural,8595.04,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Dayalpur,Dayalpur,agricultural,5685.95,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Dayalpur,Dayalpur,residential,12775,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Dayalpur,Dayalpur,commercial,19000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Dayalpur,Dayalpur License Colony,residential,35000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Dayalpur,Dayalpur License Colony,commercial,45000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Dayalpur,Dayalpur Link Road,agricultural,3553.72,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Dayalpur,Dayalpur Link Road,agricultural,3760.33,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Dalalgarh,Dalalgarh,agricultural,1369.01,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Dalalgarh,Dalalgarh,agricultural,1704.55,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Dalalgarh,Dalalgarh,agricultural,1095.04,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Dalalgarh,Dalalgarh,residential,4400,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Dalalgarh,Dalalgarh,commercial,5500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,NaglaMajraChandpur,Nagla Majra Chandpur,agricultural,1239.67,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,NaglaMajraChandpur,Nagla Majra Chandpur,agricultural,1549.59,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,NaglaMajraChandpur,Nagla Majra Chandpur,residential,5550,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,NaglaMajraChandpur,Nagla Majra Chandpur,commercial,6600,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,PahladpurMajraBadrola,Pahladpur Majra Badrola,agricultural,3145.66,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,PahladpurMajraBadrola,Pahladpur Majra Badrola,agricultural,3904.13,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,PahladpurMajraBadrola,Pahladpur Majra Badrola,residential,5500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,PahladpurMajraBadrola,Pahladpur Majra Badrola,commercial,6600,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Fafunda,Fafunda,agricultural,5542.36,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Fafunda,Fafunda,agricultural,6920.04,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Fafunda,Fafunda,residential,7300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Fafunda,Fafunda,commercial,8500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Fafunda,Fafunda License Colony,residential,35000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Fafunda,Fafunda License Colony,commercial,45000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,FajupurKhadar,Fajupur Khadar,agricultural,1301.65,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,FajupurKhadar,Fajupur Khadar,agricultural,1632.23,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,FajupurKhadar,Fajupur Khadar,agricultural,588.84,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,FajupurKhadar,Fajupur Khadar,residential,4000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,FajupurKhadar,Fajupur Khadar,commercial,5300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Badrola,Badrola,agricultural,3145.66,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Badrola,Badrola,agricultural,3904.13,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Badrola,Badrola,residential,5500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Badrola,Badrola,commercial,6600,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Bahadarpur,Bahadarpur,agricultural,1639.46,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Bahadarpur,Bahadarpur,agricultural,2067.15,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Bahadarpur,Bahadarpur,residential,4000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Bahadarpur,Bahadarpur,commercial,5300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Bukharpur,Bukharpur,agricultural,5749.79,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Bukharpur,Bukharpur,agricultural,7195.25,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Bukharpur,Bukharpur,residential,8000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Bukharpur,Bukharpur,commercial,9300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Bukharpur,Bukharpur License Colony,residential,35000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Bukharpur,Bukharpur License Colony,commercial,45000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Bhainsrawali,Bhainsrawali,agricultural,1805.79,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Bhainsrawali,Bhainsrawali,agricultural,2257.23,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Bhainsrawali,Bhainsrawali,residential,5500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Bhainsrawali,Bhainsrawali,commercial,6600,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Manjhawali,Manjhawali,agricultural,2936.36,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Manjhawali,Manjhawali,agricultural,4104.75,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Manjhawali,Manjhawali,agricultural,968.49,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Manjhawali,Manjhawali,residential,6600,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Manjhawali,Manjhawali,commercial,18200,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Manjhawali,Manjhawali Link Road,agricultural,2024.79,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Manjhawali,Manjhawali Link Road,agricultural,2148.76,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Machhgar,Machhgar,agricultural,5632.23,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Machhgar,Machhgar,agricultural,7789.26,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Machhgar,Machhgar,residential,10200,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Machhgar,Machhgar,commercial,18200,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Machhgar,Machhgar Link Road,agricultural,3884.30,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Machhgar,Machhgar Link Road,agricultural,4834.71,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Mandhwali,Mandhwali,agricultural,1487.60,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Mandhwali,Mandhwali,agricultural,1859.50,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Mandhwali,Mandhwali,residential,6600,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Mandhwali,Mandhwali,commercial,8000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,MojmabadMajraShekhpur,Mojmabad Majra Shekhpur,agricultural,1198.35,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,MojmabadMajraShekhpur,Mojmabad Majra Shekhpur,agricultural,1487.60,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,MojmabadMajraShekhpur,Mojmabad Majra Shekhpur,agricultural,537.19,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,MojmabadMajraShekhpur,Mojmabad Majra Shekhpur,residential,4000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,MojmabadMajraShekhpur,Mojmabad Majra Shekhpur,commercial,5500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Mothuka,Mothuka,agricultural,1239.67,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Mothuka,Mothuka,agricultural,1549.59,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Mothuka,Mothuka,residential,4000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Mothuka,Mothuka,commercial,5300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Maujpur,Maujpur,agricultural,1924.79,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Maujpur,Maujpur,agricultural,5464.05,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Maujpur,Maujpur,residential,5500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Maujpur,Maujpur,commercial,6600,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Maujpur,Maujpur Alongwith Road,agricultural,1673.55,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Maujpur,Maujpur Alongwith Road,agricultural,2079.44,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Maujpur,Maujpur License Colony,residential,35000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Maujpur,Maujpur License Colony,commercial,45000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Maujpur,Maujpur Particular Khasra,agricultural,2231.40,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,RaipurKalan,Raipur Kalan,agricultural,1995.87,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,RaipurKalan,Raipur Kalan,agricultural,2494.83,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,RaipurKalan,Raipur Kalan,residential,4200,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,RaipurKalan,Raipur Kalan,commercial,5300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,RaipurKalan,Raipur Kalan Particular Khasra,agricultural,3264.46,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Landaula,Landaula,agricultural,1611.57,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Landaula,Landaula,agricultural,2024.79,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Landaula,Landaula,residential,4900,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Landaula,Landaula,commercial,6100,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Shakhpur,Shakhpur,agricultural,1219.01,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Shakhpur,Shakhpur,agricultural,1528.93,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Shakhpur,Shakhpur,agricultural,547.52,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Dayalpur,Shakhpur,Shakhpur,commercial,5500,2026-04-01,faridabad_gov_in_dc_notification

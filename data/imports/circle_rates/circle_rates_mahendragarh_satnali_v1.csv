@@ -1,0 +1,234 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Mahendragarh,Satnali,Barda,Barda Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Barda,Barda Pahad,agricultural,1000.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Barda,Barda Barani,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Barda,Barda Chahi,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Barda,Barda Other,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Barda,Barda,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Barda,Barda,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Barda,Barda Gair Mumkin,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Barda,Main Road up to 2 acres,agricultural,1175.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Barda,Main Road up to 2 acres,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Barda,Main Road up to 2 acres,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Basri,Basri Chahi,agricultural,350.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Basri,Basri Jhund,agricultural,300.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Basri,Basri Nehri,agricultural,350.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Basri,Basri Barani,agricultural,325.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Basri,Basri Gair Mumkin,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Basri,Basri,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Basri,Basri,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Basri,Main Road up to 2 acres,agricultural,1175.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Basri,Main Road up to 2 acres,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Basri,Main Road up to 2 acres,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Bass,Bass Jhund,agricultural,350.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Bass,Bass Barani,agricultural,375.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Bass,Bass Chahi,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Bass,Bass Other,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Bass,Bass,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Bass,Bass,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Bass,Bass Gair Mumkin,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Bass,Main Road up to 2 acres,agricultural,1175.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Bass,Main Road up to 2 acres,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Bass,Main Road up to 2 acres,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Birsinghwas,Main Road up to 2 acres,agricultural,1175.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Birsinghwas,Main Road up to 2 acres,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Birsinghwas,Main Road up to 2 acres,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Birsinghwas,Birsinghwas Jhund,agricultural,350.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Birsinghwas,Birsinghwas Barani,agricultural,375.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Birsinghwas,Birsinghwas Chahi,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Birsinghwas,Birsinghwas Other,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Birsinghwas,Birsinghwas,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Birsinghwas,Birsinghwas,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Dalanwas,Dalanwas Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Dalanwas,Dalanwas Pahad,agricultural,1000.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Dalanwas,Dalanwas Barani,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Dalanwas,Dalanwas Chahi,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Dalanwas,Dalanwas Other,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Dalanwas,Dalanwas,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Dalanwas,Dalanwas,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Dalanwas,Dalanwas Gair Mumkin,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Dalanwas,Main Road up to 2 acres,agricultural,1175.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Dalanwas,Main Road up to 2 acres,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Dalanwas,Main Road up to 2 acres,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Dhana,Dhana Jhund,agricultural,375.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Dhana,Dhana Barani,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Dhana,Dhana Chahi,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Dhana,Dhana,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Dhana,Dhana,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Dhana,Dhana Other,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Dhana,Main Road up to 2 acres,agricultural,1175.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Dhana,Main Road up to 2 acres,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Dhana,Main Road up to 2 acres,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Digrota,Main Road up to 2 acres,agricultural,1175.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Digrota,Main Road up to 2 acres,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Digrota,Main Road up to 2 acres,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Digrota,Digrota Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Digrota,Digrota Barani,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Digrota,Digrota Chahi,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Digrota,Digrota Other,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Digrota,Digrota,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Digrota,Digrota,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Digrota,Digrota Pahad,agricultural,1000.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Digrota,Digrota Gair Mumkin,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Gadarwas,Gadarwas Jhund,agricultural,325.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Gadarwas,Gadarwas Barani,agricultural,365.91,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Gadarwas,Gadarwas Chahi,agricultural,409.09,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Gadarwas,Gadarwas Other,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Gadarwas,Gadarwas,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Gadarwas,Gadarwas,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Gadarwas,Gadarwas Gair Mumkin,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Gadarwas,Main Road up to 2 acres,agricultural,1175.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Gadarwas,Main Road up to 2 acres,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Gadarwas,Main Road up to 2 acres,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Jarwa,JARWA MAIN ROAD UPTO 2 ACRE Jhund,agricultural,1175.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Jarwa,JARWA MAIN ROAD UPTO 2 ACRE Barani,agricultural,1175.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Jarwa,JARWA MAIN ROAD UPTO 2 ACRE,agricultural,1175.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Jarwa,JARWA MAIN ROAD UPTO 2 ACRE,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Jarwa,JARWA MAIN ROAD UPTO 2 ACRE,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Jarwa,JARWA VILLAGE COMMERCIAL,commercial,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Jarwa,Jarwa Jhund,agricultural,300.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Jarwa,Jarwa Barani,agricultural,325.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Jarwa,Jarwa Chahi,agricultural,350.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Jarwa,Jarwa Gair Mumkin,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Jarwa,Jarwa Other,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Jarwa,Jarwa,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Jarwa,Jarwa,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Madhogarh,Madhogarh Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Madhogarh,Madhogarh Pahad,agricultural,1000.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Madhogarh,Madhogarh Barani,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Madhogarh,Madhogarh Chahi,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Madhogarh,Madhogarh Other,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Madhogarh,Madhogarh,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Madhogarh,Madhogarh,residential,2530,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Madhogarh,Madhogarh Gair Mumkin,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Madhogarh,Main Road up to 2 acres,agricultural,1175.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Madhogarh,Main Road up to 2 acres,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Madhogarh,Main Road up to 2 acres,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Mandola,Main Road up to 2 acres,agricultural,1175.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Mandola,Main Road up to 2 acres,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Mandola,Main Road up to 2 acres,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Mandola,Mandola Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Mandola,Mandola Pahad,agricultural,1000.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Mandola,Mandola Barani,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Mandola,Mandola Chahi,agricultural,496.59,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Mandola,Mandola Gair Mumkin,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Mandola,Mandola Other,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Mandola,Mandola,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Mandola,Mandola,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,NangalMala,Main Road up to 2 acres,agricultural,1175.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,NangalMala,Main Road up to 2 acres,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,NangalMala,Main Road up to 2 acres,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,NangalMala,Nangal Mala Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,NangalMala,Nangal Mala Pahad,agricultural,1000.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,NangalMala,Nangal Mala Barani,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,NangalMala,Nangal Mala Chahi,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,NangalMala,Nangal Mala Other,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,NangalMala,Nangal Mala,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,NangalMala,Nangal Mala,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,NangalMala,Nangal Mala Gair Mumkin,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Nanwa,Nanwa Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Nanwa,Nanwa Pahad,agricultural,1000.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Nanwa,Nanwa Barani,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Nanwa,Nanwa Chahi,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Nanwa,Nanwa Gair Mumkin,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Nanwa,Nanwa Other,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Nanwa,Nanwa,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Nanwa,Nanwa,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Nanwa,Main Road up to 2 acres,agricultural,1175.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Nanwa,Main Road up to 2 acres,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Nanwa,Main Road up to 2 acres,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Patharwa,Patharwa Chahi,agricultural,561.36,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Patharwa,Patharwa Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Patharwa,Patharwa Barani,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Patharwa,Patharwa Gair Mumkin,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Patharwa,Patharwa Other,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Patharwa,Patharwa,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Patharwa,Patharwa,residential,2530,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Patharwa,Main Road up to 2 acres,agricultural,1175.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Patharwa,Main Road up to 2 acres,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Patharwa,Main Road up to 2 acres,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Satnali-I,Androon Lal Dora,commercial,18150,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Satnali-I,Androon Lal Dora,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Satnali-I,Anye,commercial,18980,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Satnali-I,Goshala to Loharu Road,commercial,33880,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Satnali-I,Dadri Road Digrota Road,commercial,21780,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Satnali-I,New Bus Stand Road,commercial,21780,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Satnali-I,M.Garh Road Petrol Pump,commercial,33880,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Satnali-I,Main Road to Thana Road,commercial,21780,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Satnali-I,Railway Station to Mandi,commercial,41140,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Satnali-I,Loharu Mor to Mandi Road,commercial,33880,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Satnali-I,Loharu Road Patharwa Gaon,commercial,24200,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Satnali-I,Satnali Mahendragarh Road Petrol Pump se aage,commercial,24200,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Satnali-I,Satnali Mahendragarh Road Petrol Pump se aage,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Satnali-I,Satnali to Kadma Road up to 2 acre Jhund,agricultural,1175.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Satnali-I,Satnali to Kadma Road up to 2 acre Barani,agricultural,1175.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Satnali-I,Satnali to Kadma Road up to 2 acre,agricultural,1175.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Satnali-I,Satnali to Badhra Road up to 2 acre Jhund,agricultural,1175.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Satnali-I,Satnali to Badhra Road up to 2 acre Barani,agricultural,1175.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Satnali-I,Satnali to Badhra Road up to 2 acre,agricultural,1175.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Satnali-I,Satnali to M.Garh Road up to 2 acre Jhund,agricultural,1175.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Satnali-I,Satnali to M.Garh Road up to 2 acre Barani,agricultural,1175.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Satnali-I,Satnali to M.Garh Road up to 2 acre,agricultural,1175.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Satnali-I,Satnali to Loharu Road up to 2 acre Jhund,agricultural,1175.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Satnali-I,Satnali to Loharu Road up to 2 acre Barani,agricultural,1175.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Satnali-I,Satnali to Loharu Road up to 2 acre,agricultural,1175.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Satnali-I,Satnali-I Jhund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Satnali-I,Satnali-I Barani,agricultural,575.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Satnali-I,Satnali-I Chahi,agricultural,773.55,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Satnali-I,Satnali-I Other,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Satnali-I,Satnali-I,commercial,24840,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Satnali-I,Satnali-I,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Satnali-I,Satnali-I Gair Mumkin,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Satnali-II,Satnali-II,commercial,21780,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Satnali-II,Satnali-II,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Shyampura,Shyampura Chahi,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Shyampura,Shyampura Jhund,agricultural,375.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Shyampura,Shyampura Barani,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Shyampura,Shyampura Gair Mumkin,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Shyampura,Shyampura Other,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Shyampura,Shyampura,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Shyampura,Shyampura,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Shyampura,Main Road up to 2 acres,agricultural,1175.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Shyampura,Main Road up to 2 acres,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Shyampura,Main Road up to 2 acres,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Sohari,Sohari Jhund,agricultural,502.27,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Sohari,Sohari Barani,agricultural,502.27,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Sohari,Sohari Chahi,agricultural,502.27,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Sohari,Sohari Other,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Sohari,Sohari,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Sohari,Sohari,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Sohari,Sohari Gair Mumkin,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Sohari,Main Road up to 2 acres Barani,agricultural,1175.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Sohari,Main Road up to 2 acres,agricultural,1175.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Sohari,Main Road up to 2 acres,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,Sohari,Main Road up to 2 acres,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,SurehtiJakhar,Main Road up to 2 acres,agricultural,1175.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,SurehtiJakhar,Main Road up to 2 acres,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,SurehtiJakhar,Main Road up to 2 acres,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,SurehtiJakhar,Surehti Jakhar Jhund,agricultural,350.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,SurehtiJakhar,Surehti Jakhar Barani,agricultural,375.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,SurehtiJakhar,Surehti Jakhar Chahi,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,SurehtiJakhar,Surehti Jakhar Other,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,SurehtiJakhar,Surehti Jakhar,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,SurehtiJakhar,Surehti Jakhar,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,SurehtiJakhar,Surehti Jakhar Gair Mumkin,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,SurehtiModian,Surehti Modian Jhund,agricultural,350.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,SurehtiModian,Surehti Modian Barani,agricultural,375.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,SurehtiModian,Surehti Modian Chahi,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,SurehtiModian,Surehti Modian Other,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,SurehtiModian,Surehti Modian,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,SurehtiModian,Surehti Modian,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,SurehtiModian,Surehti Modian Gair Mumkin,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,SurehtiModian,Main Road up to 2 acres,agricultural,1175.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,SurehtiModian,Main Road up to 2 acres,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,SurehtiModian,Main Road up to 2 acres,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,SurehtiPilania,Surehti Pilania Jhund,agricultural,350.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,SurehtiPilania,Surehti Pilania Pahad,agricultural,1000.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,SurehtiPilania,Surehti Pilania Barani,agricultural,375.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,SurehtiPilania,Surehti Pilania Chahi,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,SurehtiPilania,Surehti Pilania,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,SurehtiPilania,Surehti Pilania,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,SurehtiPilania,Surehti Pilania Gair Mumkin,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,SurehtiPilania,Main Road up to 2 acres,agricultural,1175.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,SurehtiPilania,Main Road up to 2 acres,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Satnali,SurehtiPilania,Main Road up to 2 acres,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification

@@ -1,0 +1,719 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Rewari,Rewari,Akbarpur,AKBARPUR,agricultural,1227.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Akbarpur,AKBARPUR,residential,5170,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Akbarpur,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1350.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Aaspur,ASPUR,agricultural,619.83,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Aaspur,ASPUR,residential,2530,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Aaspur,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,627.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Aasaka,AASAKA,agricultural,1227.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Aasaka,AASAKA,residential,4070,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Aasaka,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1350.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Kamalpur,KAMALPUR,agricultural,1295.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Kamalpur,KAMALPUR,residential,12100,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Kamalpur,NH 11,agricultural,1859.5,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Kamalpur,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1561.98,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Karnawas,KARNAWAS,agricultural,1295.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Karnawas,KARNAWAS,residential,6380,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Karnawas,NH 11,agricultural,1756.2,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Karnawas,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1431.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Karnawas,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,residential,7656,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Kasola,KASOLA,agricultural,1250.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Kasola,KASOLA,residential,6050,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Kasola,NH 8,agricultural,2386.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Kasola,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1363.64,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Kasoli,KASOLI,agricultural,863.64,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Kasoli,KASOLI,residential,3630,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Kasoli,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,954.55,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Kakodia,KAKODIA,agricultural,750.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Kakodia,KAKODIA,residential,2530,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Kakodia,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,818.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Kathuwas,KATHUWAS,agricultural,1413.22,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Kathuwas,KATHUWAS,agricultural,3533.06,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Kathuwas,KATHUWAS,residential,6380,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Kathuwas,NH 8,agricultural,2386.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Kathuwas,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1431.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Kanmajra,KANMAJRA,agricultural,1295.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Kanmajra,KANMAJRA,residential,3850,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Kanmajra,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1431.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Kalaka,Kalaka,agricultural,1500.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Kalaka,Kalaka,residential,12650,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Kalaka,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1636.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Kaluwas,KALUWAS,agricultural,1295.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Kaluwas,KALUWAS,residential,12100,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Kaluwas,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1431.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Kishangarh,KISHANGARH,agricultural,568.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Kishangarh,KISHANGARH,residential,2530,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Kishangarh,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,627.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,KutubpurMeena,131 NARNAUL ROAD PAR NAI WALI SE RAILWAY FATAK TAK 50 FOOT KI GEHRAI TAK,residential,40700,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,KutubpurMeena,131 NARNAUL ROAD PAR NAI WALI SE RAILWAY FATAK TAK 50 FOOT KI GEHRAI TAK,commercial,40700,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,KutubpurMeena,132 NARNAUL ROAD PAR RAILWAY FATAK SE CHUNGI TAK 50 FOOT KI GEHRAI TAK ROAD KE DONO AUR,residential,17600,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,KutubpurMeena,133 NARNAUL ROAD PAR RAMPURA CHOWK SE RAMPURA ROAD PAR 50 FOOT TAK,residential,14300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,KutubpurMeena,134 NARNAUL - MAHENDERGARH T BINDU SE BERLI ROAD FATAK TAK 50 FOOT KI GEHRAI TAK,residential,17600,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,KutubpurMeena,135 GOPAL DEV CHOWK SE QUTUBPUR KI SIMA TAK NARNAUL ROAD PAR SADAK KE DONO AUR 50 FOOT KE GEHRAI TAK,residential,15400,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,QutubpurMola,16 DEV NAGAR QUTUBPUR MOLA,residential,11000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,QutubpurMola,25 GULABI BAGH QUTUBPUR MOLA,residential,11000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,QutubpurMola,30 JASWANT NAGAR QUTUBPUR MOLA,residential,11500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,QutubpurMola,34 KHADDA BASTI QUTUBPUR MOLA,residential,11000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,QutubpurMola,37 LAXMI NAGAR QUTUBPUR MOLA,residential,13200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,QutubpurMola,47 NEW ADARSH NAGAR QUTUBPUR MOLA,residential,11000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,QutubpurMola,56 QUTUBPUR ANDAR ABADI,residential,11000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,QutubpurMola,61 RAO CHIRANJI LAL COLONY QUTUBPUR MOLA,residential,11000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,QutubpurMola,82 SUBHASH NAGAR QUTUBPUR MOLA,residential,15400,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,QutubpurMola,89 VIKAS NAGAR BUDHPUR ROAD QUTUBPUR MOLA,residential,11500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,QutubpurMola,91 YADAV NAGAR PHASE 2A 2B 2C QUTUBPUR MOLA,residential,11000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,QutubpurMola,COMMERCIAL,commercial,41800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,QutubpurMola,QUTUBPUR MOLA,agricultural,2033.06,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,QutubpurMola,QUTUBPUR MOLA,agricultural,4261.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,QutubpurMola,QUTUBPUR MOLA,residential,11000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,QutubpuriJangir,NH-71,agricultural,1909.09,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,QutubpuriJangir,QUTUBPURI JANGIR,agricultural,1295.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,QutubpuriJangir,QUTUBPURI JANGID,residential,6380,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,QutubpuriJangir,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1431.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Konsiwas,KONSIWAS,agricultural,1413.22,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Konsiwas,KONSIWAS,residential,12650,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Konsiwas,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1431.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Kharagwas,KHARAGWAS,agricultural,772.73,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Kharagwas,KHARAGWAS,residential,2530,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Kharagwas,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,859.09,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,KharkhariBhiwa,KHARKHARI BHIWA,agricultural,772.73,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,KharkhariBhiwa,KHARKHARI BHIWA,residential,2530,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,KharkhariBhiwa,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,859.09,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Kharsanki,KHARSANKI,agricultural,772.73,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Kharsanki,KHARSANKI,residential,2530,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Kharsanki,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,937.19,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Khalilpuri,KHALILPURI,agricultural,1295.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Khalilpuri,KHALILPURI,residential,6380,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Khalilpuri,NH 71,agricultural,1909.09,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Khalilpuri,NH 919,agricultural,1921.49,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Khalilpuri,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1561.98,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,GangaichaAhir,GANGAICHA AHIR,agricultural,784.09,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,GangaichaAhir,GANGAICHA AHIR,residential,5060,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,GangaichaAhir,NH 71,agricultural,1909.09,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,GangaichaAhir,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,818.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,GangaichaJat,GANGAICHA JAT,agricultural,818.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,GangaichaJat,GANGAICHA JAT,residential,2530,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,GangaichaJat,NH 71,agricultural,1909.09,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,GangaichaJat,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,981.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Gajjiwas,GAJJIWAS,agricultural,1295.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Gajjiwas,GAJJIWAS,residential,12650,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Gajjiwas,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1431.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Gajjiwas,UNIQUE VIHAR PHASE I,residential,17500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Gajjiwas,UNIQUE VIHAR PHASE II,residential,17500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Garhi,GARHI,agricultural,1000.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Garhi,GARHI,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Garhi,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1090.91,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Gangoli,GANGOLI,agricultural,750.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Gangoli,GANGOLI,residential,2530,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Gangoli,NH 11,agricultural,1136.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Gangoli,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,818.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Gindokhar,GINDOKHAR,agricultural,568.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Gindokhar,GINDOKHAR,residential,2530,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Gindokhar,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,627.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Gujriwas,GUJRIWAS,agricultural,1295.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Gujriwas,GUJRIWAS,residential,12100,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Gujriwas,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1431.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Gulabpura,GULABPURA,agricultural,568.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Gulabpura,GULABPURA,residential,2530,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Gulabpura,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,627.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Gokalgarh,GOKALGARH,agricultural,1500.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Gokalgarh,GOKALGARH,residential,11000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Gokalgarh,HUDA BY PASS,agricultural,2386.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Gokalgarh,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1636.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Gokalgarh,THATHERA COLONY A B D,residential,11000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Gokalpur,GOKALPUR,agricultural,568.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Gokalpur,GOKALPUR,residential,5170,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Gokalpur,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,627.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Gokalpur,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,residential,6204,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Ghurkawas,GHURKAWAS,agricultural,750.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Ghurkawas,GHURKAWAS,residential,2530,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Ghurkawas,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,818.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Chandpur,CHANDPUR,agricultural,1295.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Chandpur,CHANDPUR,residential,13750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Chandpur,CHANDPUR,commercial,14046.94,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Chandpur,JAI MATA VIHAR,residential,19000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Chandpur,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1431.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Chandawas,CHANDAWAS,agricultural,1295.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Chandawas,CHANDAWAS,residential,8690,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Chandawas,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1431.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Chiterpuri,CHITERPURI,agricultural,1295.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Chiterpuri,CHITERPURI,residential,3850,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Chiterpuri,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1431.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Chilhar,CHILHAR,agricultural,743.8,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Chilhar,CHILHAR,residential,6380,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Chilhar,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,892.56,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Chhuriawas,CHHURIAWAS,agricultural,1500.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Chhuriawas,CHHURIAWAS,residential,9900,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Chhuriawas,NH 11,agricultural,1859.5,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Chhuriawas,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1636.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Janti,JANTI,agricultural,568.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Janti,JANTI,residential,2530,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Janti,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,627.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,JatSayarwas,JAT SAYARWAS,agricultural,750.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,JatSayarwas,JAT SAYARWAS,residential,2530,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,JatSayarwas,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,818.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Jatuwas,JATUWAS,agricultural,1295.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Jatuwas,JATUWAS,residential,12650,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Jatuwas,NH 11,agricultural,1652.89,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Jatuwas,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1431.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Jadra,JADRA,agricultural,568.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Jadra,JADRA,residential,2530,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Jadra,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,627.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,JitpuraIstmurar,JITPURA ISTMURAR,agricultural,594.01,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,JitpuraIstmurar,JITPURA ISTMURAR,residential,2530,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,JitpuraIstmurar,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,627.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Jaitrawas,JAITRAWAS,agricultural,750.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Jaitrawas,JAITRAWAS,residential,2530,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Jaitrawas,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,818.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,JaitpurShekhpur,JAITPUR SHEKHPUR,agricultural,619.83,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,JaitpurShekhpur,JAITPUR SHEKHPUR,residential,2530,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,JaitpurShekhpur,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,627.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Jonawas,JONAWAS,agricultural,1295.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Jonawas,JONAWAS,residential,12100,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Jonawas,NH 919,agricultural,1652.89,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Jonawas,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1431.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Jhanjhanwas,88 VIJAY NAGAR JHANJHANWAS,residential,16500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Jhanjhanwas,JHANJHANWAS,agricultural,1295.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Jhanjhanwas,JHANJHANWAS,residential,16500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dawana,BY PASS,agricultural,2386.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dawana,Commercial Plots In Licensed Colonies on Garhi Bolni Road,commercial,66000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dawana,DAWANA,agricultural,1636.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dawana,DAWANA,residential,8160,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dawana,RESIDENTIAL FLATS FLOORS IN HUDA LICENSED COLONIES,residential,27000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dawana,Residential Plots In Licensed Colonies on Garhi Bolni Road,residential,22000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dawana,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,2272.73,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dabri,DABRI,agricultural,750.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dabri,DABRI,residential,2530,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dabri,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,818.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Daliyaki,DALIYAKI,agricultural,1413.22,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Daliyaki,DALIYAKI,residential,3850,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Daliyaki,NH 11,agricultural,1652.89,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Daliyaki,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1431.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dumawas,DUMAWAS,agricultural,1295.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dumawas,DUMAWAS,residential,23650,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dumawas,DUMAWAS,industrial,30000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dumawas,HUDA BY PASS,agricultural,2386.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Deodhai,DEODHAI,agricultural,1306.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Deodhai,DEODHAI,residential,4950,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Deodhai,NH 8,agricultural,2386.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Deodhai,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1363.64,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dohkiya,DOHKIYA,agricultural,568.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dohkiya,DOHKIYA,residential,2645,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dohkiya,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,627.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dohki,DOHKI,agricultural,842.98,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dohki,DOHKI,residential,2530,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dohki,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,859.09,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dhaliawas,Commercial Plots In Licensed Colonies on Garhi Bolni Road,commercial,66000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dhaliawas,Commercial Plots In Licensed Colonies on Other than Garhi Bolni Road,commercial,49500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dhaliawas,COMMERCIAL SHOPS IN BMG CITY,commercial,59400,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dhaliawas,DHALIAWAS,agricultural,1295.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dhaliawas,DHALIAWAS,residential,15000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dhaliawas,Dwarkadish Projects pvt ltd Commercial Licence in Residential Zone,commercial,59400,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dhaliawas,GOVT EMPLOYEES COLONY,residential,19000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dhaliawas,HUDA BY PASS,agricultural,2386.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dhaliawas,HUDA SEC 18 AND 19 RESIDENTIAL,residential,27600,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dhaliawas,HUDA SECTOR 18 OR 19 COMMERCIAL,commercial,38500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dhaliawas,Rates for Institutional Purpose School Nursing Home College Hospital,commercial,7817.79,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dhaliawas,RESIDENTIAL FLATS FLOORS IN HUDA LICENSED COLONIES,residential,27000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dhaliawas,RESIDENTIAL PLOTS IN LICENCES COLONIES ON GARHI BOLNI ROAD,residential,26400,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dhaliawas,RESIDENTIAL PLOTS IN LICENCES COLONIES ON OTHER THAN GARHI BOLNI ROAD,residential,22000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dhaliawas,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1431.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dhaliawas,YUGAL VIHAR BHAKTI NAGAR PART - AND PART 2,residential,19000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Turkiyawas,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,818.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Turkiyawas,TURKIAWAS,agricultural,750.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Turkiyawas,TURKIAWAS,residential,2645,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Devlawas,DEVLAWAS,agricultural,1500.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Devlawas,DEVLAWAS,residential,12650,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Devlawas,NH 11,agricultural,1962.81,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Devlawas,SHREE KRISHNA COLONY,residential,17500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Devlawas,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1636.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Devlawas,THE PACHIM VIHAR COLONY,residential,17500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dehlawas,DEHLAWAS,agricultural,568.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dehlawas,DEHLAWAS,residential,2530,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dehlawas,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,627.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dhamlaka,Commercial Plots In Licensed Colonies on Garhi Bolni Road,commercial,66000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dhamlaka,Commercial Plots In Licensed Colonies on Other than Garhi Bolni Road,commercial,49500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dhamlaka,Commercial Shops in BMG City,commercial,59400,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dhamlaka,DHAMLAKA,agricultural,1636.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dhamlaka,DHAMLAKA,residential,6960,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dhamlaka,MANGAL VIHAR,residential,9000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dhamlaka,NH 11,agricultural,1962.81,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dhamlaka,RESIDENTIAL FLATS FLOORS IN HUDA LICENSED COLONIES,residential,27000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dhamlaka,RESIDENTIAL PLOTS IN LICENCES COLONIES ON GARHI BOLNI ROAD,residential,24200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dhamlaka,RESIDENTIAL PLOTS IN LICENCES COLONIES ON OTHER THAN GARHI BOLNI ROAD,residential,22000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Dhamlaka,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1799.59,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,NayaGaon,NAYA GAON,agricultural,1295.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,NayaGaon,NAYA GAON,residential,2530,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,NayaGaon,NH-71,agricultural,1909.09,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,NayaGaon,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1431.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Narainpur,NARAINPUR,agricultural,568.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Narainpur,NARAINPUR,residential,2530,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Narainpur,NH 11,agricultural,1033.06,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Narainpur,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,627.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Noorpur,NOORPUR,agricultural,568.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Noorpur,NOORPUR,residential,2530,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Noorpur,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,627.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Panchlai,PANCHLAI,agricultural,568.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Panchlai,PANCHLAI,residential,2530,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Panchlai,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,627.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Padiyawas,AADSAA Developers Pvt Ltd Commercial Plotted Colony,commercial,66000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Padiyawas,Commercial Plots In Licensed Colonies on Garhi Bolni Road,commercial,66000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Padiyawas,Commercial Plots In Licensed Colonies on Other than Garhi Bolni Road,commercial,49500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Padiyawas,COMMERCIAL SHOP,commercial,59400,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Padiyawas,COMMERCIAL SHOPS IN BMG CITY,commercial,59400,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Padiyawas,Everest Builders and Developers Commercial Plotted Colony,commercial,66000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Padiyawas,Everest Lifespace Pvt Ltd Commercial Licence in Commerical Zone,commercial,66000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Padiyawas,HUDA SEC 18 AND 19 RESIDENTIAL,residential,27600,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Padiyawas,HUDA SECTOR 18 OR 19 COMMERCIAL,commercial,38500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Padiyawas,KRATOS PROJECTS Commercial Licence in Special Zone,commercial,66000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Padiyawas,M City infrastructure Pvt Ltd Commercial Licence in Residential Zone,commercial,59400,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Padiyawas,One Stop Reality Solutions Pvt Ltd Commercial Plotted Colony,commercial,66000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Padiyawas,PADAIYAWAS COLONY 1,residential,18000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Padiyawas,PADIYAWAS,agricultural,1500.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Padiyawas,PADIYAWAS,residential,14400,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Padiyawas,PADIYAWAS,commercial,59400,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Padiyawas,PARAM COLONY PADAIYAWAS,residential,18000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Padiyawas,Raheja Developers Ltd. Commercial Licence in residential Zone,commercial,59400,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Padiyawas,RESIDENTIAL FLATS FLOORS IN HUDA LICENSED COLONIES,residential,27000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Padiyawas,RESIDENTIAL PLOTS IN LICENCES COLONIES ON GARHI BOLNI ROAD,residential,24200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Padiyawas,RESIDENTIAL PLOTS IN LICENCES COLONIES ON OTHER THAN GARHI BOLNI ROAD,residential,22000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Padiyawas,SHAHEED BHAGAT SINGH COLONY PART 3,residential,18000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Padiyawas,Shiva Mega Projects Pvt. Ltd Commercial Licence in residential Zone,commercial,59400,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Padiyawas,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1636.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Padiyawas,YUGAL VIHAR BHAKTI NAGAR PART- AND PART 2,residential,19000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Pithanwas,PITHANWAS,agricultural,863.64,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Pithanwas,PITHANWAS,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Pithanwas,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,954.55,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Piwra,170 ANSAL TOWN RESIDENTIAL,residential,24200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Piwra,88 VIJAY NAGAR PIWRA,residential,16500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Piwra,88 VIJAY NAGAR PIWRA,commercial,41800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Piwra,COMMERCIAL PLOTS IN LIC COLONIES ON OTHER THAN GARHI BOLNI ROAD,commercial,49500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Piwra,HUDA BY PASS,agricultural,2386.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Piwra,PIWRA,agricultural,1295.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Piwra,PIWRA,residential,18000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Piwra,RESIDENTIAL PLOTS IN LIC COLONIES ON OTHER THAN GARHI BOLNI ROAD,residential,19800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Pohkarpur,NH 71,agricultural,1909.09,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Pohkarpur,POHKARPUR,agricultural,1354.34,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Pohkarpur,POHKARPUR,residential,3850,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Pohkarpur,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1431.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,FatehpuriPipa,FATEHPURI PIPA,agricultural,1295.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,FatehpuriPipa,FATEHPURI PIPA,residential,3850,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,FatehpuriPipa,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1431.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Fadni,FADNI,agricultural,568.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Fadni,FADNI,residential,2530,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Fadni,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,627.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Fadni,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,residential,3036,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Fideri,FIDERI,agricultural,1413.22,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Fideri,FIDERI,residential,6380,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Fideri,NH 919,agricultural,1756.2,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Fideri,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1561.98,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Bakhapur,BAKHAPUR,agricultural,1306.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Bakhapur,BAKHAPUR,residential,3795,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Bakhapur,NH 8,agricultural,2386.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Bakhapur,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1425.62,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Bakhapur,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,residential,4356,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Bambar,BAMBAR,agricultural,1295.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Bambar,BAMBAR,residential,5170,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Bambar,COMMERCIAL PLOTS IN LIC COLONIES ON OTHER THAN GARHI BOLNI ROAD,commercial,49500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Bambar,NH 71,agricultural,1909.09,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Bambar,RESIDENTIAL PLOTS IN LIC COLONIES ON OTHER THAN GARHI BOLNI ROAD,residential,22000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Bambar,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1431.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,BadhJethu,BADH JETHU,agricultural,568.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,BadhJethu,BADH JETHU,residential,2530,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,BadhJethu,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,627.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,BalawasAhir,BALAWAS AHIR,agricultural,568.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,BalawasAhir,BALAWAS AHIR,residential,2530,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,BalawasAhir,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,627.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,BalawasJamapur,BALAWAS JAMAPUR,agricultural,568.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,BalawasJamapur,BALAWAS JAMAPUR,residential,2530,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,BalawasJamapur,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,627.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,BaliarKalan,BALIAR KALAN,agricultural,1295.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,BaliarKalan,BALIAR KALAN,residential,5170,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,BaliarKalan,NH 919,agricultural,1652.89,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,BaliarKalan,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1431.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,BaliarKhurd,BALIAR KHURD,agricultural,1354.34,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,BaliarKhurd,BALIAR KHURD,residential,5405,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,BaliarKhurd,NH 919,agricultural,1652.89,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,BaliarKhurd,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1431.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Bikaner,NH 71,agricultural,1995.87,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Bikaner,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1431.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Bikaner,BIKANER,agricultural,1413.22,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Bikaner,BIKANER,residential,6380,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Bithwana,BITHWANA,agricultural,1568.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Bithwana,BITHWANA,residential,9790,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Bithwana,BITHWANA,commercial,17250,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Bithwana,NH 11,agricultural,1962.81,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Bithwana,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1718.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Biharipur,BIHARIPUR,agricultural,568.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Biharipur,BIHARIPUR,residential,2530,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Biharipur,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,627.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Budana,BUDANA,agricultural,772.73,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Budana,BUDANA,residential,4620,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Budana,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,859.09,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Budani,BUDANI,agricultural,842.98,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Budani,BUDANI,residential,4620,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Budani,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,859.09,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Budhpur,BUDHPUR,agricultural,1227.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Budhpur,BUDHPUR,residential,3850,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Budhpur,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1350.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,BerliKhurd,BERLI KHURD,agricultural,568.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,BerliKhurd,BERLI KHURD,agricultural,627.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,BerliKhurd,BERLI KHURD,residential,5060,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,BerliKhurd,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,627.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,BerliKhurd,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,residential,6072,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Beriawas,BERIAWAS,agricultural,1568.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Beriawas,BERIAWAS,residential,6380,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Beriawas,COMMERCIAL PLOTS IN LIC COLONIES ON OTHER THAN GARHI BOLNI ROAD,commercial,49500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Beriawas,RESIDENTIAL PLOTS IN LIC COLONIES ON OTHER THAN GARHI BOLNI ROAD,residential,22000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Beriawas,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1785.12,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,BoriaKamalpur,BORIA KAMALPUR,agricultural,568.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,BoriaKamalpur,BORIA KAMALPUR,residential,2530,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,BoriaKamalpur,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,627.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Bolni,BOLNI,agricultural,1000.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Bolni,BOLNI,residential,2750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Bolni,BOLNI,commercial,16500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Bolni,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1090.91,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Bhagwanpur,BHAGWANPUR,agricultural,1295.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Bhagwanpur,BHAGWANPUR,residential,3850,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Bhagwanpur,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1431.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Bhawari,BHAWARI,agricultural,1295.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Bhawari,BHAWARI,residential,3850,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Bhawari,NH 11,agricultural,1756.2,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Bhawari,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1431.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Bharawas,BHARAWAS,agricultural,1227.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Bharawas,BHARAWAS,residential,3850,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Bharawas,NH 11,agricultural,1652.89,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Bharawas,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1350.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Bhudla,BHUDLA,agricultural,1295.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Bhudla,BHUDLA,residential,3850,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Bhudla,NH 8,agricultural,2386.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Bhudla,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1431.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,BhurthalJat,BHURTHAL JAT,agricultural,568.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,BhurthalJat,BHURTHAL JAT,residential,2530,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,BhurthalJat,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,627.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,BhurthalThethar,BHURTHAL THETHAR,agricultural,568.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,BhurthalThethar,BHURTHAL THETHAR,residential,2530,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,BhurthalThethar,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,627.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,MandhiyaKalan,COMMERCIAL PLOTS IN LIC COLONIES ON OTHER THAN GARHI BOLNI ROAD,commercial,49500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,MandhiyaKalan,GREEN PARK COLONY,residential,9000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,MandhiyaKalan,MANDHIYA KALAN,agricultural,1371.9,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,MandhiyaKalan,MANDHIYA KALAN,residential,6380,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,MandhiyaKalan,NH-71,agricultural,1909.09,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,MandhiyaKalan,RESIDENTIAL PLOTS IN LIC COLONIES ON OTHER THAN GARHI BOLNI ROAD,residential,22000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,MajraGurdas,Commercial Plots In Licensed Colonies on Other than Garhi Bolni Road,commercial,49500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,MajraGurdas,MAJRA GURDAS,agricultural,1636.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,MajraGurdas,MAJRA GURDAS,residential,6380,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,MajraGurdas,Residential Flats Floors in HUDA Licensed Colonies,residential,24750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,MajraGurdas,Residential Plots In Licensed Colonies on Other than Garhi Bolni Road,residential,19800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,MajraGurdas,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1785.12,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,MajraSheoraj,MAJRA SHEORAJ,agricultural,1295.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,MajraSheoraj,MAJRA SHEORAJ,residential,6380,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,MajraSheoraj,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1431.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,MandhiyaKhurd,MANDHIYA KHURD,agricultural,568.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,MandhiyaKhurd,MANDHIYA KHURD,residential,2530,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,MandhiyaKhurd,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,627.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Meerpur,MEERPUR,agricultural,750.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Meerpur,MEERPUR,residential,2760,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Meerpur,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,818.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,MundiaKhera,MUNDIA KHERA,agricultural,772.73,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,MundiaKhera,MUNDIA KHERA,residential,2530,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,MundiaKhera,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,859.09,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Mundhalia,MUNDHALIA,agricultural,772.73,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Mundhalia,MUNDHALIA,residential,3520,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Mundhalia,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,859.09,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Muradpuri,MURADPURI,agricultural,1295.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Muradpuri,MURADPURI,residential,3850,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Muradpuri,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1431.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rasuli,RASULI,agricultural,568.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rasuli,RASULI,residential,2530,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rasuli,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,627.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,RajpuraKhalsa,RAJPURA KHALSA,agricultural,568.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,RajpuraKhalsa,RAJPURA KHALSA,residential,2530,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,RajpuraKhalsa,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,681.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rajawas,RAJAWAS,agricultural,568.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rajawas,RAJAWAS,residential,2530,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rajawas,RAJAWAS,commercial,16500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rajawas,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,627.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Ramgarh,RAMGARH,agricultural,1295.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Ramgarh,RAMGARH,residential,6380,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Ramgarh,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1431.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rampura,RAMPURA,agricultural,1639.46,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rampura,RAMPURA,residential,12650,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rampura,RAO TULA RAM VIHAR PHASE 2,residential,17500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rampura,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1718.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,1 ADARSH NAGAR,residential,11000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,10 BASS SITAB RAI RESIDENTIAL,residential,13800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,100 BRASS MARKET,commercial,99000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,101 CHOWK BAJAAR,commercial,67100,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,102 CONTAINER DEPOT,residential,29150,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,102 CONTAINER DEPOT,commercial,35000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,103 COURT ROAD COMMERCIAL,commercial,82500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,104 GANJ BAJAAR,commercial,62700,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,105 GUR BAJAAR,commercial,83600,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,106 HUDA SECTOR 1 COMMERCIAL,commercial,26400,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,107 HUDA SECTOR 3 COMMERCIAL,commercial,72000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,108 HUDA SECTOR 4 COMMERCIAL,commercial,60000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,109 INDUSTRIAL SECTOR,commercial,13200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,109 INDUSTRIAL SECTOR,industrial,13200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,11 BHAJAN KA BAAG,residential,13200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,110 JIWALI BAJAAR,commercial,95700,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,111 KATH MANDI COMMERCIAL,commercial,83600,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,112 KATLA BAJAAR,commercial,62700,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,113 KEWAL BAJAAR COMMERCIAL,commercial,85250,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,114 A KM TOWER COMMERCIAL SHOPS GF,commercial,48600,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,114 KM TOWERS COMMERCIAL SHOPS,commercial,34650,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,115 LAL PRATAP MARKET,commercial,62700,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,116 MODEL TOWN COMMERCIAL,commercial,88000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,117 NAI SUBJI MANDI,residential,77000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,117 NAI SUBJI MANDI,commercial,77000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,118 NAI SABJI MANDI SE PURANI SABJI MANDI TAK,residential,62700,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,118 NAI SABJI MANDI SE PURANI SABJI MANDI TAK,commercial,62700,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,119 PATTHAR GATHI,commercial,62700,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,12 BHEEM BASTI,residential,11000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,120 PETHA BAJAAR,commercial,99000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,121 PUNJABI MARKET,commercial,99000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,122 PURANI ANAJ MANDI,residential,77000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,122 PURANI ANAJ MANDI,commercial,77000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,123 PURANI SABJI MANDI SE GOKAL GATE TAK,commercial,121000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,124 RAILWAY STATION SE GOKAL GATE TAK,commercial,121000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,125 SATTA BAJAAR,commercial,83600,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,126 SURRAFA BAJAAR,commercial,104500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,127 SURRAFA BAJAAR RAI BAHADUR UMRAO SINGH JAIN STREET COMMERCIAL,commercial,72600,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,128 TEJPURA COMMERCIAL,commercial,55000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,129 THAN SINGH MARKET,commercial,71500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,13 BUDH VIHAR,residential,13200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,130 OTHER MOHALLA COLONIEC COMMERCIAL,commercial,43700,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,131 NARNAUL ROAD PAR NAI WALI SE RAILWAY FATAK TAK 50 FOOT KI GEHRAI TAK,residential,40700,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,131 NARNAUL ROAD PAR NAI WALI SE RAILWAY FATAK TAK 50 FOOT KI GEHRAI TAK,commercial,40700,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,132 NARNAUL ROAD PAR RAILWAY FATAK SE CHUNGI TAK 50 FOOT KI GEHRAI TAK ROAD KE DONO AUR,residential,17600,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,132 NARNAUL ROAD PAR RAILWAY FATAK SE CHUNGI TAK 50 FOOT KI GEHRAI TAK ROAD KE DONO AUR,commercial,17600,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,133 NARNAUL ROAD PAR RAMPURA CHOWK SE RAMPURA ROAD PAR 50 FOOT TAK,residential,14300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,134 NARNAUL MAHENDERGARH T BINDU SE BERLI ROAD FATAK TAK 50 FOOT KI GEHRAI TAK,residential,17600,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,135 GOPAL DEV CHOWK SE QUTUBPUR KI SIMA TAK NARNAUL ROAD PAR SADAK KE DONO AUR 50 FOOT KE GEHRAI TAK,residential,15400,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,136 JHAJJAR ROAD PAR CIRCULAR ROAD SE RAILWAY FATAK TAK SADAK KE SATH SATH 50 FOOT KI GEHRAI TAK,residential,41800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,136 JHAJJAR ROAD PAR CIRCULAR ROAD SE RAILWAY FATAK TAK SADAK KE SATH SATH 50 FOOT KI GEHRAI TAK,commercial,41800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,137 JHAJJAR ROAD PAR RAILWAY FATAK SE POWER HOUSE TAK SADAK KE SATH SATH CHUNGI KI DOOSRI TARAF,residential,14300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,138 TURKIAWAS ROAD PAR AZAD CHOWK SE SHAMSHAN GHAAT TAK SADAK KE SATH SATH 50 FOOT KI GEHRAI TAK,residential,17600,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,139 TURKIAWAS ROAD PAR SADHUSHAH NAGAR SE REWARI KI SIMA TAK 50 FOOT KE GEHRAI TAK,residential,14300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,14 CHODRI WARA,residential,16500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,140 DHARUHERA CHUNGI SE DELHI ROAD PAR STADIUM TAK 50 FOOT KI GEHRAI TAK SADAK KE DONO AUR,residential,41800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,140 DHARUHERA CHUNGI SE DELHI ROAD PAR STADIUM TAK 50 FOOT KI GEHRAI TAK SADAK KE DONO AUR,commercial,41800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,141 STADIUM SE SHAHER KI SIMA TAK 50 FOOT KI GEHRAI TAK,residential,22000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,142 DHARUHERA CHUNGI SE KALAKA ROAD PAR SADAK KE SATH,residential,27500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,143 KONSIWAS ROAD PAR CIRCULAR ROAD SE REWARI KI SIMA TAK 50 FOOT KI GEHRAI TAK,residential,28750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,144 GARHI BOLNI ROAD PAR SADAK KE SATH SATH CHUNGI TAK 50 FOOT KI GEHRAI TAK,residential,44000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,144 GARHI BOLNI ROAD PAR SADAK KE SATH SATH CHUNGI TAK 50 FOOT KI GEHRAI TAK,commercial,44000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,145 GARHI BOLNI ROAD PAR RADHA SWAMI WALI SADAK SE REWARI KI SIMA TAK 50 FOOT KI GEHRAI TAK,residential,33000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,146 BAWAL ROAD PAR CIRCULAR ROAD SE MAHARANA PRATAP CHOWK TAK,residential,67100,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,146 BAWAL ROAD PAR CIRCULAR ROAD SE MAHARANA PRATAP CHOWK TAK,commercial,73200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,147 MAHARANI PRATAP CHOWK SE RAJEEV CHOWK TAK SADAK KE SATH 50 FOOT KE GEHRAI TAK,residential,55000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,147 MAHARANI PRATAP CHOWK SE RAJEEV CHOWK TAK SADAK KE SATH 50 FOOT KE GEHRAI TAK,commercial,55000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,148 BAWAL ROAD PAR RAJEEV CHOWK SE REWARI KI SIMA TAK 50 FOOT KE GEHRAI TAK,residential,48400,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,148 BAWAL ROAD PAR RAJEEV CHOWK SE REWARI KI SIMA TAK 50 FOOT KE GEHRAI TAK,commercial,48400,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,149 MODEL TOWN SE NAI ANAJ MANDI KE BEECH PLOT MEIN,residential,29150,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,15 COMPANY BAGH,residential,16500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,150 BHARAWAS ROAD PAR SADAK KE SATH RAILWAY FATAK PAR 50 FOOT KE GEHRAI TAK,residential,27500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,151 BHARAWAS ROAD PAR RAILWAY FATAK SE REWARI KI SIMA TAK SADAK KE SATH SATH 50 FOOT KE GEHRAI TAK,residential,18400,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,152 BHARAWAS ROAD SE RAMPURA ROAD HJ RAILWAY FATAK TAK,residential,14300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,153 CIRCULAR ROAD SADAK KE SATH 50 FOOT KE GEHRAI TAK NARNAUL ROAD CHOWK SE VIA BUS STAND,residential,82500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,153 CIRCULAR ROAD SADAK KE SATH 50 FOOT KE GEHRAI TAK NARNAUL ROAD CHOWK SE VIA BUS STAND,commercial,82500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,154 CIRCULAR ROAD SADAK KE SATH 50 FOOT KE GEHRAI TAK NARNAUL ROAD CHOWK SE VIA RADHIKA CINEMA,residential,82500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,154 CIRCULAR ROAD SADAK KE SATH 50 FOOT KE GEHRAI TAK NARNAUL ROAD CHOWK SE VIA RADHIKA CINEMA,commercial,82500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,155 MAHENDERGARH ROAD PAR FATAK SE QUTUBPUR KI SIMA TAK 50 FOOT KE GEHRAI TAK,residential,13200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,156 HUDA SECTOR 3 4 5 10 17 18 19 KI RELEASE BHOOMI RESIDENTIAL,residential,17600,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,156 HUDA SECTOR 3 4 5 10 17 18 19 KI RELEASE BHOOMI RESIDENTIAL,commercial,44000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,157 HUDA SECTOR 3 4 5 10 17 18 19 KI RELEASE BHOOMI COMMERCIAL,commercial,44000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,158 GHS AND OTHER SOCIETY RESIDENTIAL FLATS SECTOR 4 AND 10,residential,27000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,159 FLATS IN GROUP HOUSING SOCIETY IN LICENSED COLONY,residential,27000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,16 DEV NAGAR,residential,11000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,160 IN CASE OF BUILDER FLOOR LICENSED RESIDENTIAL,residential,27000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,161 CASE OF RES FLOOR IN HUDA SECTORS OTHER COLONIES AND OLD MC AREA 180 SQYD OR ABOVE,residential,21600,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,162 INSTITUTIONAL PURPOSE IN SECTOR APPROVED COLONY LICENSED COLONY,agricultural,4545.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,162 INSTITUTIONAL PURPOSE IN SECTOR APPROVED COLONY LICENSED COLONY,commercial,4958.68,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,163 COMMERCIAL AREA IN LICENSED BUILDERS CONSTRUCTION,commercial,49500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,164 RESIDENTIAL PLOT SUNCITY,residential,24000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,165 COMMERCIAL PLOT SUNCITY,commercial,57200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,166 BMG MALL GROUND FLOOR,commercial,89100,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,167 BMG MALL ALL FLOORS EXCEPT GROUND FLOOR,commercial,79200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,168 PURANE SHAHER COLONY MEIN FLOORWISE COMMERCIAL GROUNG FLOOR,commercial,79200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,169 PURANE SHAHER COLONY MEIN FLOORWISE COMMERCIAL EXCEPT GROUNG FLOOR,commercial,54000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,17 DHARUHERA GATE,residential,13200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,170 ANSAL TOWN RESIDENTIAL,residential,24200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,171 Sector 7 Residential Plots,residential,27500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,172 Sector 7 Commercial Plots,commercial,60500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,173 Sector 7 For Institutional Purpose,commercial,4545.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,173 Sector 7 For Institutional Purpose,commercial,6898.05,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,174 Sector 7 Group Housing Society,residential,24750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,175 SECTOR 10 COMMERCIAL,commercial,55000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,176 SECTOR 10 RESI GHS,residential,30800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,177 SECTOR 10 INSTITUTIONAL PURPOSE,commercial,27500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,178 AUTO MARKET,commercial,85800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,179 APNA BAZAR,commercial,85800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,18 DURGA COLONY PART 1 AND PART 2,residential,11000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,180 NAYA BAZAR,commercial,85800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,181 DOUBLE FATAK,commercial,85800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,182 TAKIYA SARAI,commercial,85800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,19 GANDHI NAGAR,residential,16500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,2 AJAY NAGAR,residential,11000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,20 GANPAT NAGAR,residential,16500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,21 GAUTAM NAGAR,residential,18000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,22 GHISA KI DHANI,residential,14400,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,23 GOKAL GATE,residential,121000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,23 GOKAL GATE,commercial,121000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,24 GUJJAR WARA,residential,13200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,25 GULABI BAGH,residential,11000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,26 HANS NAGAR,residential,11000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,27 HAZARIWAS,residential,11000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,28 HOUSING BOARD COLONY,residential,19200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,29 INDRA COLONY,residential,11000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,3 ANAND NAGAR,residential,13800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,30 JASWANT NAGAR,residential,11000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,31 KAMLA NAGAR,residential,13200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,32 KM TOWERS FLATS,residential,19800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,33 KATH MANDI RESIDENTIAL,residential,27500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,34 KHADDA BASTI,residential,11000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,35 KHASAPURA,residential,13800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,36 KRISHNA NAGAR,residential,23000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,37 LAXMI NAGAR,residential,13200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,38 MADHU VIHAR,residential,15400,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,39 MAHABIR NAGAR,residential,16100,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,4 ARJUN NAGAR,residential,13200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,40 MEHARVARA,residential,13800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,41 MODEL TOWN EXTENSION,residential,28750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,42 MODEL TOWN RESIDENTIAL,residential,36300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,43 MUKTI WARA,residential,14400,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,44 NAI ABADI,residential,11000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,45 NAI BASTI,residential,13200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,45 NAI BASTI,commercial,41800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,46 NAYAGAON DAULATPUR,residential,11000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,47 NEW ADARSH NAGAR,residential,11000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,48 NEW ANAJ MANDI AREA,residential,29150,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,48 NEW ANAJ MANDI AREA,commercial,29150,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,49 NORTH CITY,residential,22000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,5 AZAD NAGAR,residential,11500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,50 OTHER MOHALLA AND COLONIES RESIDENTIAL,residential,13800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,51 PARASURAM COLONY,residential,13200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,52 PIWRA KI DHANI,residential,16500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,53 PUNJABI DHARAM SHALA AREA,residential,13200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,54 PURAN NAGAR,residential,13800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,55 PURANI TEHSIL,residential,13200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,57 RADHA SWAMI COLONY,residential,19800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,58 RAILWAY COLONY,residential,11000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,59 RAJEEV NAGAR DHAKKA BASTI,residential,11000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,6 BAIDH WARA,residential,13200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,60 RAMSINGH PURA,residential,11000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,61 RAO CHIRANJI LAL COLONY REWARI,residential,11000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,62 SADHUSHAH NAGAR,residential,13200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,63 SAJAN COLONY,residential,14400,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,64 SANGHI KA BASS,residential,13200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,65 SARAI BAL BHADAR,residential,13200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,66 SARASWATI VIHAR BAWAL ROAD,residential,13200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,67 SARASWATI VIHAR KALAKA ROAD,residential,13800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,68 SATI COLONY,residential,13200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,69 SAYED SARAI,residential,13200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,7 BALLU WARA,residential,13200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,70 SECTOR 1 RESIDENTIAL,residential,30800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,71 SECTOR 3 RESIDENTIAL,residential,32200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,72 SECTOR 4 RESIDENTIAL,residential,32200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,73 SHAKKAR KUI,residential,16500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,74 SHAKTI NAGAR,residential,19800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,75 SHANTI NAGAR A,residential,13200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,76 SHIV COLONY,residential,11000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,77 SHIV NAGAR,residential,16800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,78 SHIV NAGAR EXTENSION,residential,13200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,79 SHIV NAGAR PHASE 2B,residential,13200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,8 BANJAR WARA,residential,13200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,80 SHOPPING CENTER SEC 5,commercial,55200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,81 SOUTH CITY,residential,17600,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,82 SUBHASH NAGAR,residential,15400,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,83 T P SCHEME 9 COLONY,residential,23000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,84 TEJ PURA RESIDENTIAL,residential,17600,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,86 UTTAM NAGAR,residential,13800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,87 UTTAM VIHAR PHASE 2A AND 2B,residential,13800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,89 VIKAS NAGAR BHUDPUR ROAD REWARI,residential,11500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,9 BARA HAJARI RESIDENTIAL,residential,37400,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,90 VIKAS NAGAR KALAKA ROAD,residential,13800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,91 YADAV NAGAR PHASE 2A 2B 2C,residential,11000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,92 ANANT MARKET,commercial,62700,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,93 BAJAJA BAJAAR,commercial,83600,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,94 BALLU WARA COMMERCIAL,commercial,56400,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,95 BARA HAJARI COMMERCIAL,commercial,86900,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,96 BASS SITAB RAI COMMERCIAL,commercial,49500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,97 BHAIRU CHOWK KE AAS PASS COMMERCIAL,commercial,65550,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,98 BHARAWAS GATE SE PURANI SABJI MANDI TAK,residential,62700,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,98 BHARAWAS GATE SE PURANI SABJI MANDI TAK,commercial,62700,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,99 BOORA BAJAAR,commercial,99000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,HUDA BY PASS,agricultural,2386.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,KHATI WALI COLONY,residential,18000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,REWARI,agricultural,2033.06,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,SHIV NAGAR PART 3,residential,21000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,UDAY NAGAR,residential,18000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rojhka,ROJHKA,agricultural,568.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rojhka,ROJHKA,residential,2530,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rojhka,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,627.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Lakhnor,LAKHNOR,agricultural,568.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Lakhnor,LAKHNOR,residential,2530,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Lakhnor,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,627.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,LadhuwasAhir,LADHUWAS AHIR,agricultural,568.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,LadhuwasAhir,LADHUWAS AHIR,residential,2530,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,LadhuwasAhir,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,627.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,LadhuwasGurjar,LADHUWAS GURJAR,agricultural,1413.22,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,LadhuwasGurjar,LADHUWAS GURJAR,residential,3850,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,LadhuwasGurjar,NH 8,agricultural,2386.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,LadhuwasGurjar,NH-71,agricultural,1909.09,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Lalpur,LALPUR,agricultural,1295.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Lalpur,LALPUR,agricultural,1193.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Lalpur,LALPUR,residential,12100,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Lalpur,NH 11,agricultural,2386.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Lalpur,NH 8,agricultural,2386.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Lalpur,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1431.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Lisana,LISANA,agricultural,1295.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Lisana,LISANA,residential,7480,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Lisana,NH 71,agricultural,1909.09,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Lisana,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1431.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Lodhana,LODHANA,agricultural,863.64,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Lodhana,LODHANA,residential,3000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Lodhana,LODHANA,commercial,16500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Lodhana,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,954.55,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,ShahbajpurKhalsa,Commercial Plots In Licensed Colonies on Garhi Bolni Road,commercial,66000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,ShahbajpurKhalsa,Commercial Plots In Licensed Colonies on Other than Garhi Bolni Road,commercial,49500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,ShahbajpurKhalsa,Residential Flats Floors in HUDA Licensed Colonies,residential,27000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,ShahbajpurKhalsa,RESIDENTIAL PLOTS IN LICENCES COLONIES ON GARHI BOLNI ROAD,residential,24200,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,ShahbajpurKhalsa,RESIDENTIAL PLOTS IN LICENCES COLONIES ON OTHER THAN GARHI BOLNI ROAD,residential,22000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,ShahbajpurKhalsa,SHAHBAJPUR KHALSA,agricultural,1568.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,ShahbajpurKhalsa,SHAHBAJPUR KHALSA,residential,12650,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,ShahbajpurKhalsa,SHIV SHAKTI VIHAR,residential,17500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,ShahbajpurKhalsa,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1785.12,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,ShekhpurShikarpur,SHEKHPUR SHIKARPUR,agricultural,568.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,ShekhpurShikarpur,SHEKHPUR SHIKARPUR,residential,2530,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,ShekhpurShikarpur,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,627.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Sangwari,NH 71,agricultural,1909.09,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Sangwari,NH 8,agricultural,2386.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Sangwari,SANGWARI,agricultural,1413.22,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Sangwari,SANGWARI,residential,6380,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Sangwari,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1431.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Salhawas,Commercial Plots In Licensed Colonies on Other than Garhi Bolni Road,commercial,49500,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Salhawas,NH 8,agricultural,2386.36,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Salhawas,Residential Flats Floors in HUDA Licensed Colonies,residential,24750,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Salhawas,Residential Plots In Licensed Colonies on Other than Garhi Bolni Road,residential,19800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Salhawas,SALHAWAS,agricultural,1354.34,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Salhawas,SALHAWAS,residential,6960,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Salhawas,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1431.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Saharnawas,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1431.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Saharnawas,SAHARNAWAS,agricultural,1295.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Saharnawas,SAHARNAWAS,residential,3850,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Haluhera,HALUHERA,agricultural,568.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Haluhera,HALUHERA,residential,2530,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Haluhera,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,627.27,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Hansaka,HANSAKA,agricultural,1295.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Hansaka,HANSAKA,residential,8690,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Hansaka,NH 919,agricultural,1652.89,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Hansaka,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1431.82,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Hussainpur,HUSSAINPUR,agricultural,1413.22,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Hussainpur,HUSSAINPUR,residential,6380,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Hussainpur,NH 11,agricultural,1859.5,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Hussainpur,STATE HIGHWAY-MAJOR DISTT ROAD-LINK ROAD,agricultural,1561.98,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,Built-up Category A,residential,10800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,Built-up Category B,residential,8100,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,Rewari,Built-up Category C,residential,6300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,RewariVillages,Within abadi up to 1000 sqyd,residential,15000,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Rewari,RewariVillages,Plot under 30 sqyd minimum commercial,commercial,15000,2026-04-01,rewari_gov_in_dc_notification

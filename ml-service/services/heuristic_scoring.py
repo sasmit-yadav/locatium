@@ -251,6 +251,7 @@ def score_location(features: dict[str, Any], sector: str = "industrial") -> dict
 
 
 def feature_vector(features: dict[str, Any]) -> list[float]:
+    premium = features.get("market_premium_vs_floor")
     return [
         float(features.get("dist_road_km") or 99),
         float(features.get("dist_rail_km") or 99),
@@ -266,4 +267,10 @@ def feature_vector(features: dict[str, Any]) -> list[float]:
         float(features.get("civic_facilities_5km") or 0),
         float(features.get("dist_metro_km") or 99),
         float(features.get("bus_stops_2km") or 0),
+        # Land pricing (gov floor + attributable comps) — investment-v2+
+        math.log1p(float(features.get("circle_rate_median_inr") or 0)),
+        math.log1p(float(features.get("comps_median_inr") or 0)),
+        float(features.get("comps_count") or 0),
+        float(premium) if premium is not None else 0.0,
+        float(features.get("has_gov_floor") or (1.0 if features.get("circle_rate_median_inr") else 0.0)),
     ]

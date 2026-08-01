@@ -1,0 +1,462 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Kurukshetra,Pehowa,अजमतपुर,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,अजमतपुर,व्यवसायिक,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,अजमतपुर,शेष भूमि,agricultural,599.17,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,अजमतपुर,सडकसे 2 एकड तककृषिभूमि,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,अधोया,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,अधोया,व्यवसायिक,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,अधोया,शेष भूमि बाढ प्रभावित,agricultural,537.19,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,अधोया,सडकसे 2 एकड तक कृषिभूमि,agricultural,681.82,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,असमानपुर,अन्य भुमि,agricultural,1337.81,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,असमानपुर,असमानपुर कालोनी एक्सटेंशन,residential,10000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,असमानपुर,असमानपुर कालोनी एक्सटेंशन,commercial,14000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,असमानपुर,असमानपुर कालोनी एक्सटेंशन व्यवसायिक,commercial,14000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,असमानपुर,आवासीय,residential,10000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,असमानपुर,कैथल रोड कमर्शियल,commercial,20000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,असमानपुर,ढाण्ड रोड कमर्शियल,commercial,20000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,असमानपुर,पिहाव से कैथल रोड तक 2 एकड,agricultural,1735.54,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,इसहाक,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,इसहाक,व्यवसायिक,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,इसहाक,सड़क के साथ 2 एकड़ कृषि भूमि,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,इसहाक,सडकसे 2 एकड के बाद शेषकृषिभुमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,उरनाये,अम्बाला स्पेशल/सडक के साथ कृषि,agricultural,950.41,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,उरनाये,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,उरनाये,लिंक रोड पर,agricultural,661.16,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,उरनाये,व्यवसायिक,commercial,14000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,उरनाये,सड़क के साथ 2 एकड़ कृषि भूमि,agricultural,950.41,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,उरनाये,सडकसे 2 एकड के बाद शेषकृषिभुमि,agricultural,712.81,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,उरनैचा,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,उरनैचा,लिंक रोड पर,agricultural,640.5,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,उरनैचा,व्यवसायिक,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,उरनैचा,सड़क के साथ 2 एकड़ कृषि भूमि,agricultural,681.82,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,उरनैचा,सडकसे 2 एकड के बाद शेषकृषिभुमि,agricultural,599.17,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,ककरालागुजरान,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,ककरालागुजरान,व्यवसायिक,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,ककरालागुजरान,सड़क के साथ 2 एकड कृषि भूमि,agricultural,681.82,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,ककरालागुजरान,सडकसे 2 एकड के बाद शेषकृषिभूमि,agricultural,599.17,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,कन्थला,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,कन्थला,व्यवसायिक,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,कन्थला,सड़क के साथ 2 एकड कृषि भूमि,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,कन्थला,सडकसे 2 एकड के बाद शेषकृषिभूमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,कमौदा,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,कमौदा,लिंक रोड पर,agricultural,661.16,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,कमौदा,व्यवसायिक,commercial,8250,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,कमौदा,सड़क के साथ 2 एकड कृषि भूमि,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,कमौदा,सडकसे 2 एकड के बाद शेषकृषिभूमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,कराह,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,कराह,व्यवसायिक,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,कराह,सड़क के साथ 2 एकड कृषि भूमि,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,कराह,सडकसे 2 एकड के बाद शेषकृषिभूमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,कलसा,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,कलसा,लिंक रोड पर,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,कलसा,व्यवसायिक,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,कलसा,सड़क के साथ 2 एकडकॄषि भूमि,agricultural,661.16,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,कलसा,सडकसे 2 एकड के बाद शेषकृषिभुमि,agricultural,578.51,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,खंजरपुर,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,खंजरपुर,व्यवसायिक,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,खंजरपुर,सड़क के साथ 2 एकड तक भूमि,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,खंजरपुर,सडकसे 2 एकड के बाद शेषकृषिभुमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,खानपुररोडान,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,खानपुररोडान,व्यवसायिक,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,खानपुररोडान,सड़क के साथ 2 एकड कॄषि भूमि,agricultural,785.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,खानपुररोडान,सडकसे 2 एकड के बाद शेषकृषिभुमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,खिजपुरा,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,खिजपुरा,व्यवसायिक,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,खिजपुरा,सडकसे 2 एकड तक कृषिभुमि,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,खिजपुरा,सडकसे 2 एकड के बाद शेषकृषिभुमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,खेडीशिशगरां,अन्य भूमि,agricultural,578.51,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,खेडीशिशगरां,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,खेडीशिशगरां,व्यवसायिक,commercial,13000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,खेडीशिशगरां,सडक के 2 एकड तक की कृषि भूमि,agricultural,785.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,गंगहेडी,अन्य भूमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,गंगहेडी,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,गंगहेडी,व्यवसायिक,commercial,13000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,गंगहेडी,सड़क से 2 एकड तक की कृषि भूमि,agricultural,1074.38,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,गढीकहारान,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,गढीकहारान,कृषि भूमि,agricultural,578.51,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,गढीकहारान,व्यवसायिक,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,गढीरोडान,अन्य भूमि,agricultural,859.5,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,गढीरोडान,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,गढीरोडान,आवासीय,commercial,14000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,गढीरोडान,सड़क से 2 एकड तक की कृषि भूमि,agricultural,867.77,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,गढीलांगरी,अन्य भूमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,गढीलांगरी,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,गढीलांगरी,आवासीय,commercial,13000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,गढीलांगरी,लिंक रोड पर,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,गढीलांगरी,सड़क से 2 एकड तक की कृषि भूमि,agricultural,826.45,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,गलेडवा,2 एकड के बाद की शेष कृषि भूमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,गलेडवा,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,गलेडवा,व्यवसायिक,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,गलेडवा,सड़क के साथ 2एकड कृषि भूमि,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,गलेडवा,सड़क के साथ 2 एकड कृषि भूमि,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,गुमथलागढ,अन्य भुमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,गुमथलागढ,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,गुमथलागढ,आवासीय,commercial,13000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,गुमथलागढ,लिंक रोड पर,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,गुमथलागढ,सड़क के 2 एकड तक की कृषि भूमि,agricultural,826.45,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,गुलडैरा,2 एकड के बाद की शेष कृषि भूमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,गुलडैरा,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,गुलडैरा,व्यवसायिक,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,गुलडैरा,सड़क के साथ 2 एकड कृषि भूमि,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,चनालहेडी,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,चनालहेडी,व्यवसायिक,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,चनालहेडी,शेष भुमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,चनालहेडी,सड़क के साथ 2 एकड कृषि भूमि,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,छज्जुपुर,अन्य भुमि,agricultural,578.51,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,छज्जुपुर,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,छज्जुपुर,लिंक रोड पर,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,छज्जुपुर,व्यवसायिक,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,छज्जुपुर,सड़क से 2 एकड़ तक की कृषि भूमि,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,छांवला,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,छांवला,व्यवसायिक,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,जुरासीकलां,अन्य भुमि,agricultural,661.16,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,जुरासीकलां,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,जुरासीकलां,आवासीय,commercial,14000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,जुरासीकलां,लिंक रोड पर,agricultural,702.48,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,जुरासीकलां,सड़क से 2 एकड़ तक की कृषि भूमि,agricultural,826.45,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,जुरासीखुर्द,अन्य भुमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,जुरासीखुर्द,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,जुरासीखुर्द,आवासीय,commercial,15000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,जुरासीखुर्द,लिंक रोड पर,agricultural,702.48,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,जुरासीखुर्द,सड़क से 2 एकड़ तक की कृषि भूमि,agricultural,826.45,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,जुलमत,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,जुलमत,लिंक रोड पर,agricultural,640.5,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,जुलमत,व्यवसायिक,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,जुलमत,सड़क के साथ 2 एकड़ कृषि भूमि,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,जुलमत,सडकसे 2 एकड के बाद शेषकृषिभुमि,agricultural,578.51,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,झिंझरहेडी,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,झिंझरहेडी,व्यवसायिक,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,झिंझरहेडी,सड़क के साथ 2 एकड कृषि भूमि,agricultural,764.46,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,झिंझरहेडी,सडकसे 2 एकड के बाद शेषकृषिभुमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,टकोरन,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,टकोरन,व्यवसायिक,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,टकोरन,सडक से दो एकड के बाद कृषि भूमि,agricultural,537.19,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,टकोरन,सडक से दो एकड तक की कृषि भूमि,agricultural,599.17,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,टयुकर,अन्य भुमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,टयुकर,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,टयुकर,व्यवसायिक,commercial,14000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,टयुकर,लिंक रोड पर,agricultural,702.48,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,टयुकर,सडक से 2 एकड तक की कृषि भूमि,agricultural,826.45,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,टीकरी,अन्य भुमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,टीकरी,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,टीकरी,व्यवसायिक,commercial,13000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,टीकरी,लिंक रोड पर,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,टीकरी,सडक से 2 एकड तक की कृषि भूमि,agricultural,826.45,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,तलहेडी,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,तलहेडी,लिंक रोड पर,agricultural,640.5,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,तलहेडी,व्यवसायिक,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,तलहेडी,सड़क के साथ 2 एकड कृषि भूमि,agricultural,681.82,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,तलहेडी,सडकसे 2 एकड के बाद शेषकृषिभुमि,agricultural,599.17,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,थाना,थाना लिंक रोड,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,थाना,अन्य भूमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,थाना,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,थाना,व्यवसायिक,commercial,13500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,थाना,सड़क से 2 एकड तक की कृषि भूमि,agricultural,826.45,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,थेहबीडबडासा,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,थेहबीडबडासा,कृषि भूमि,agricultural,557.85,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,थेहबीडबडासा,व्यवसायिक,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,थेहमलबोढा,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,थेहमलबोढा,व्यवसायिक,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,थेहमलबोढा,सडकसे 2 एकड के बाद शेषकृषिभुमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,थेहमलबोढा,सड़क से 2 एकड तक कृषि भूमि,agricultural,681.82,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,दिवाना,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,दिवाना,व्यवसायिक,commercial,14000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,दिवाना,बाढ प्रभावित,agricultural,557.85,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,दिवाना,लिंक रोड पर,agricultural,702.48,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,दिवाना,शेष भुमि,agricultural,774.79,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,दिवाना,सड़क से 2 एकड तक की कृषि भूमि,agricultural,867.77,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,दुनियामाजरा,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,दुनियामाजरा,व्यवसायिक,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,दुनियामाजरा,सडकसे 2 एकड के बाद शेषकृषिभूमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,दुनियामाजरा,सडकसे 2 एकड तककृषिभूमि,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,धनीरामपुरा,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,धनीरामपुरा,लिंक रोड पर,agricultural,661.16,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,धनीरामपुरा,व्यवसायिक,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,धनीरामपुरा,शेष भुमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,धनीरामपुरा,सड़क के साथ 2 एकड कृषि भूमि,agricultural,1265.5,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,धूलगढ,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,धूलगढ,व्यवसायिक,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,धूलगढ,शेष भुमि,agricultural,578.51,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,धूलगढ,सड़क से 2 एक तक,agricultural,681.82,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,निकटपुरा@गढीसिंगा,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,निकटपुरा@गढीसिंगा,व्यवसायिक,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,निकटपुरा@गढीसिंगा,सड़क के साथ 2 एकड कृषि भूमि,agricultural,681.82,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,निकटपुरा@गढीसिंगा,सडकसे 2 एकड के बाद शेषकृषिभुमि,agricultural,599.17,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,नीमवाला,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,नीमवाला,व्यवसायिक,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,नीमवाला,सड़क के साथ 2 एकड कृषि भूमि,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,नीमवाला,सडकसे 2 एकड के बाद शेषकृषिभुमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,4मरला पा0 मोड से अम्बाला रोड,commercial,55000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,अनाज म0के अन्दर की दुकानें,commercial,65000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,अनाज म0के सामने के बुध,commercial,55000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,कापरेटिव फार्म रिहायशी,residential,12000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,कापरेटिव फार्म व्यवसायिक,commercial,15000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,कु0रो02एकड तक कृषि न0अ0म0,agricultural,1988.64,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,कु0रो0न0अ0पीर2एकड/अगले 2ए0तक,agricultural,1306.82,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,कु0रो0पी0से पा02ए0/अग02एकड बाद,agricultural,888.43,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,कु0रो0से ग30च0वा0न0अ0म0कृषि,agricultural,971.07,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,कु०व ढा०रो०के बीच कृषि भूमि,agricultural,1095.04,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,केशव विहार रिहायशी,residential,15000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,केशव विहार व्यवसायिक,commercial,18000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,केशव विहार व्यवसायिक,commercial,32480,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,क्लिनिक,residential,18000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,क्लिनिक,commercial,33000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,खुश०थि०से न०पा०सीमा तक,commercial,53000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,ग०रो०दि०का०न०पा०सीमा 2एकड तक,agricultural,888.43,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,ग०रो०रै०हा०से त०दीवान का०तक,commercial,44000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,गु०रो०मेन चौ०से सरस्०चौ०तक,commercial,60000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,गु०रो०से बस स्टै०वा०कमल थि०,commercial,48000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,गुरू०रो०पर आ० नव० प०व०आदि मा०,commercial,65000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,गुरू०रोडमेन बा०से गुरू गेट तक,commercial,69000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,गुरूनानक कालोनी,residential,19000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,गुरूनानक कालोनी,commercial,26450,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,गोबिन्द नगर कालोनी,agricultural,1033.06,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,गोबिन्द नगर कालोनी,residential,10000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,गोबिन्द नगर कालोनी,commercial,17250,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,तिलक कालोनी,residential,16100,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,तिलक कालोनी,commercial,23750,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,तूर कालोनी रिहायशी,residential,13000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,तूर कालोनी व्यवसायिक,commercial,19000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,दीवान कालोनी,agricultural,1239.67,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,दीवान कालोनी,residential,11000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,दीवान कालोनी,commercial,20000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,नई अनाज म0 से पीर तक,commercial,37000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,नई शास्त्री कालोनी,agricultural,1136.36,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,नई शास्त्री कालोनी,residential,12000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,नई शास्त्री कालोनी,commercial,20000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,नई.अनाज.म.व अति.सब्जी म.,commercial,55000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,नन्द कालोनी,residential,15000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,नन्द कालोनी,commercial,23000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,नहर कालोनी के साथ बुध 1 से 27,residential,19000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,नहर कालोनी के साथ बुध 1 से 27,commercial,41250,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,न्यू गुरूनानक कालोनी,agricultural,1239.67,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,न्यू गुरूनानक कालोनी,residential,13800,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,न्यू गुरूनानक कालोनी,commercial,20000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,पि.शहर मे 1000व.गज तक रि.प्लाट,residential,10000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,पि.शहर में 1000व.गज तक रि.प्लाट,commercial,15000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,पिहोवा की अन्य कृषि भूमि,agricultural,1322.31,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,पीर से न0पा0 सीमा तक,commercial,21000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,पुराना शहर,residential,12000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,पुराना शहर,commercial,39000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,पूजा का0 के साथ काश्ता भूमि,agricultural,1518.6,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,पूजा कालोनी,residential,11000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,पूजा कालोनी,commercial,18750,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,पेहवा मेन चौ0से खुश0थियेटर तक,commercial,69000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,पृथुदक कलौनी,residential,11000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,पृथुदक कलौनी,commercial,14000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,प्राची कालोनी,residential,20000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,प्राची कालोनी,commercial,26450,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,फैन्सी कालोनी रिहायशी,residential,11000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,फैन्सी कालोनी व्यवसायिक,commercial,14000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,फोर मरला का0/गुरू0 कालोनी,residential,20000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,फोर मरला का0/गुरू0 कालोनी,commercial,29900,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,फौजी प्लाट/इन्दिरा कालोनी,residential,12000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,फौजी प्लाट/इन्दिरा कालोनी,commercial,18200,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,फ्रैंड०का०/डी०ए०वी०कालेज का०,agricultural,1136.36,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,फ्रैंड०का०/डी०ए०वी०कालेज का०,residential,12650,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,फ्रैंड०का०/डी०ए०वी०कालेज का०,commercial,25000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,बुथों के पिछे नर्सिंग होम,residential,20000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,बुथों के पिछे नर्सिंग होम,commercial,34000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,बूथो के पिछे के प्लाट,commercial,50000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,भारत नगर कालोनी,agricultural,1074.38,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,भारत नगर कालोनी,residential,11000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,भारत नगर कालोनी,commercial,18750,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,म०पै०पम्प से न०पा० सीमा तक,commercial,42000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,माडल टा० के अन्दर की दुकानें,residential,23000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,माडल टा० के अन्दर की दुकानें,commercial,34000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,माडल टाउन के प्लाट औ०क्षेत्र,residential,18000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,माडल टाउन के प्लाट औ०क्षेत्र,commercial,31250,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,मुलतानी कालोनी,residential,13000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,मुलतानी कालोनी,commercial,25000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,मेन चौ०कुरु०रो०से नई०अनाज म०,commercial,53750,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,मेन चौ०से मनचन्दा पै० पम्प तक,commercial,52000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,मॉडल टाउन के प्लाट 1 से 16,residential,25000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,मॉडल टाउन के प्लाट 1 से 16,commercial,27000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,रै०हा० से न०पा०सी०तक गु०रोड,commercial,41400,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,शास्त्री कालोनी,residential,13800,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,शास्त्री कालोनी,commercial,24150,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,सर.माई.से अ.रोड 2ए.छोडकर,agricultural,929.75,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,सर0मा0अम02ए0तक/अगले 2एकड तक,agricultural,1136.36,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,सरस् चौ0से रैस्ट हाउस तक,commercial,50000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,सरस्वती चौ0 से पवन मा0,commercial,48000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,सरस्वती चौ0 से श्मशान घाट तक,commercial,34000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,सिकन्दरा कालोनी,agricultural,1136.36,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,सिकन्दरा कालोनी,residential,11000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,सिकन्दरा कालोनी,commercial,19500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,हुड्डा सै.1,residential,26000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,हुड्डा सै.1,commercial,38000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,हुड्डा के कार्नर के प्लाट 2 या 3 साईड ओपन,residential,29000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,पेहवा,हुड्डा के कार्नर के प्लाट 2 या 3 साईड ओपन,commercial,42000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,बचकी,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,बचकी,व्यवसायिक,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,बचकी,शेष भुमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,बचकी,सडकसे 2 एकड तककृषिभुमि,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,बटहेडी,Commercial,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,बटहेडी,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,बटहेडी,शेष भुमि,agricultural,805.79,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,बटहेडी,सडक के साथ 2 एकड कृषि भूमि,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,बाखली,आवासिय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,बाखली,लिंक रोड पर,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,बाखली,व्यवसायिक,commercial,13000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,बाखली,शेष भुमि,agricultural,578.51,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,बाखली,सडक से 2 एकड तक कृषि भूमि,agricultural,805.79,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,बिलोचपुरा,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,बिलोचपुरा,लिंक रोड पर,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,बिलोचपुरा,व्यवसायिक,commercial,13000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,बिलोचपुरा,शेष भुमि,agricultural,661.16,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,बिलोचपुरा,सडक से 2 एकड तक की कृषि भूमि,agricultural,826.45,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,बीबीपुरकलां,Anya Bhumi,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,बीबीपुरकलां,Do Acre tak On Road,agricultural,681.82,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,बीबीपुरकलां,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,बीबीपुरकलां,व्यवसायिक,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,बीबीपुरकलां,शेष भुमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,बीबीपुरकलां,सडक के साथ 2 एकड कृषि भूमि,agricultural,681.82,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,बोढा,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,बोढा,व्यवसायिक,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,बोढा,शेष भुमि,agricultural,578.51,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,बोढा,सडक के साथ 2एकड कृषि भूमि,agricultural,681.82,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,बोधनी,अन्य भुमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,बोधनी,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,बोधनी,लिंक रोड पर,agricultural,702.48,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,बोधनी,व्यवसायिक,commercial,14000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,बोधनी,सडक से 2 एकड तक की कृषि भूमि,agricultural,826.45,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,भेरिया,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,भेरिया,व्यवसायिक,commercial,13000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,भेरिया,शेष भुमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,भेरिया,सडक के साथ 2 एकड तक,agricultural,1074.38,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,भैंडसीमाजरा,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,भैंडसीमाजरा,शेष भुमि,agricultural,557.85,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,भैंसीमाजरा,सडक के साथ 2 एकड कृषि भूमि,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,भौरसैदां,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,भौरसैदां,लिंक रोड पर,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,भौरसैदां,व्यवसायिक,commercial,13000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,भौरसैदां,शेष भूमि,agricultural,661.16,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,भौरसैदां,सडक से 2 एकड तक की कृषि भूमि,agricultural,1074.38,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,भौरख,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,भौरख,लिंक रोड पर,agricultural,681.82,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,भौरख,व्यवसायिक,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,भौरख,शेष भूमि,agricultural,640.5,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,भौरख,सडक के साथ 2 एकड कृषि भूमि,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,मलिकपुर,अन्य भूमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,मलिकपुर,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,मलिकपुर,व्यवसायिक,commercial,15000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,मलिकपुर,लिंक रोड पर,agricultural,743.8,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,मलिकपुर,सडक के 2 एकड तक की कृषि भूमि,agricultural,847.11,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,मागना,2 एकड के बाद की शेष कृषि भूमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,मागना,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,मागना,व्यवसायिक,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,मागना,सड़क के साथ 2 एकड कृषि भूमि,agricultural,743.8,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,माण्डी,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,माण्डी,व्यवसायिक,commercial,7500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,माण्डी,सड़क के साथ 2 एकड कृषि भूमि,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,माण्डी,सडकसे 2 एकड के बाद शेषकृषिभुमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,मुकीमपुरा,अन्य भुमि,agricultural,578.51,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,मुकीमपुरा,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,मुकीमपुरा,व्यवसायिक,commercial,13000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,मुकीमपुरा,सड़क से 2 एकड तककृषि भूमि,agricultural,826.45,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,मुर्तजापुर,अन्य भुमि,agricultural,640.5,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,मुर्तजापुर,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,मुर्तजापुर,व्यवसायिक,commercial,13000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,मुर्तजापुर,लिंक रोड पर,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,मुर्तजापुर,सड़क से 2 एकड तक की कृषि भूमि,agricultural,1410.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,मेघामाजरा,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,मेघामाजरा,व्यवसायिक,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,मेघामाजरा,सडकसे 2 एकड के बाद शेषकृषिभुमि,agricultural,661.16,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,मेघामाजरा,सडकसे 2 एकड तक कृषिभुमि,agricultural,743.8,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,मोरथली,अन्य भुमि,agricultural,807.85,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,मोरथली,आबादी के साथ आवासीय,residential,10000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,मोरथली,आबादी के साथ आवासीय,commercial,14000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,मोरथली,गुह०रो०डैन 2एकड तक,agricultural,1363.64,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,मोरथली,गुहला रो०डैन तक आवासीय,residential,12000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,मोरथली,गुहला रो०डैन तक कमर्शियल,commercial,17000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,मोरथली,गुहला रोड डैन से पार कमर्शियल,commercial,17000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,मोरथली,पेहवा से गुहला रोड 2 एकड तक,agricultural,1074.38,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,मोरथली,मोरथली चौंक कान्ता फार्म रिहायशी,residential,12000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,मोरथली,मोरथली चौंक कान्ता फार्म व्यवसायिक,commercial,17250,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,मोहनपुर,अन्य भुमि,agricultural,578.51,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,मोहनपुर,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,मोहनपुर,आवासीय,commercial,13000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,मोहनपुर,सडक से 2 एकड तक की कृषि भूमि,agricultural,847.11,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,रतनगढककराली,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,रतनगढककराली,व्यवसायिक,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,रतनगढककराली,सडक से 2एकड की भूमि,agricultural,681.82,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,रतनगढककराली,सड़कसे 2 एकड के बाद शेषकृषिभूमि,agricultural,599.17,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,रामगढरोढ,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,रामगढरोढ,व्यवसायिक,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,रामगढरोढ,सड़क के साथ 2 एकड कृषि भूमि,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,रामगढरोढ,सड़कसे 2 एकड के बाद शेषकृषिभूमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,रामपुरा,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,रामपुरा,व्यवसायिक,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,रामपुरा,सड़कसे 2 एकड के तक कृषिभूमि,agricultural,681.82,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,रामपुरा,सड़कसे 2 एकड के बाद शेषकृषिभूमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,रुआ,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,रुआ,व्यवसायिक,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,रुआ,सड़क के साथ 2एकड की भूमि,agricultural,661.16,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,रुआ,सड़कसे 2 एकड के बाद शेषकृषिभूमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,लोटनी,अन्य भुमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,लोटनी,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,लोटनी,व्यवसायिक,commercial,13000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,लोटनी,सड़क से 2 एकड तक की कृषि भूमि,agricultural,826.45,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,लोहारमाजरा,अन्य भुमि,agricultural,661.16,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,लोहारमाजरा,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,लोहारमाजरा,व्यवसायिक,commercial,16100,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,लोहारमाजरा,लिंक रोड पर,agricultural,764.46,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,लोहारमाजरा,सड़क से 2 अकड तक की कृषि भूमि,agricultural,971.07,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,शाहपुर,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,शाहपुर,व्यवसायिक,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,शाहपुर,सड़क के साथ 2एकड कृषि भूमि,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,शाहपुर,सडकसे 2 एकड के बाद शेषकृषिभुमि,agricultural,599.17,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,श्रीनगर,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,श्रीनगर,व्यवसायिक,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,श्रीनगर,सडकसे 2 एकड के बाद शेषकृषिभुमि,agricultural,599.17,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,श्रीनगर,सडकसे 2 एकड तककृषिभुमि,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,सतौडा,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,सतौडा,व्यवसायिक,commercial,7000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,सतौडा,सड़क के साथ 2 एकड कृषि भूमि,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,सतौडा,सडकसे 2 एकड के बाद शेषकृषिभुमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,सन्धौला,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,सन्धौला,व्यवसायिक,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,सन्धौला,सड़क के साथ 2 एकड कृषि भूमि,agricultural,681.82,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,सन्धौला,सड़कसे 2 एकड़ के बाद शेषकृषिभुमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,सन्थौला,अन्य भुमि,agricultural,689.05,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,सन्थौला,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,सन्थौला,व्यवसायिक,commercial,13000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,सन्थौला,लिंक रोड पर,agricultural,702.48,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,सन्थौला,सड़क से 2 एकड़ तक की कृषि भूमि,agricultural,1342.98,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,सरस्वतीखेडा,अ0सड़क2एकड तक,agricultural,2336.78,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,सरस्वतीखेडा,अन्य भुमि,agricultural,1193.18,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,सरस्वतीखेडा,अम्बाला हिसार रोड परकम0,residential,11000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,सरस्वतीखेडा,आबादी के साथ आवासीय,residential,7000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,सरस्वतीखेडा,न0पा0सीमा से पटियाला मोड तककम0,commercial,18000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,सरस्वतीखेडा,पटियाला सड़क से 2 एकड़ तक,agricultural,1033.06,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,सरस्वतीखेडा,भटमाजरा कालोनी,residential,14000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,सरस्वतीखेडा,सरस्वती कालोनी,commercial,18000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,सारसा,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,सारसा,व्यवसायिक,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,सारसा,सड़क के साथ 2 एकड़ कृषि भूमि,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,सारसा,सड़कसे 2 एकड़ के बाद शेषकृषिभुमि,agricultural,599.17,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,संघपुरा,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,संघपुरा,व्यवसायिक,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,संघपुरा,सडक के साथ 2 एकड कृषि भूमि,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,संघपुरा,सडकसे 2 एकड के बाद शेषकृषिभूमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,सुरमी,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,सुरमी,सडक के साथ 2 एकड कृषि भूमि,agricultural,681.82,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,सुरमी,सडकसे 2 एकड के बाद शेषकृषिभूमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,सैन्सा,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,सैन्सा,लिंक रोड पर,agricultural,640.5,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,सैन्सा,व्यवसायिक,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,सैन्सा,सडक के साथ 2 एकड कृषि भूमि,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,सैन्सा,सडकसे 2 एकड के बाद शेषकृषिभूमि,agricultural,599.17,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,स्यानासैदां,अन्य भुमि,agricultural,578.51,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,स्यानासैदां,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,स्यानासैदां,आवासीय,commercial,13000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,स्यानासैदां,लिंक रोड पर,agricultural,743.8,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,स्यानासैदां,सडक से 2 एकड तक की कृषि भूमि,agricultural,950.41,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,स्योंसर,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,स्योंसर,व्यवसायिक,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,स्योंसर,सडक के साथ 2 एकड कृषि भूमि,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,स्योंसर,सडकसे 2 एकड के बाद शेषकृषिभूमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,हेलवा,आवासीय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,हेलवा,व्यवसायिक,commercial,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,हेलवा,सडक के साथ 2 एकड कृषि भूमि,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Pehowa,हेलवा,सडकसे 2 एकड के बाद शेषकृषिभूमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification

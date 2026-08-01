@@ -1,0 +1,7 @@
+district,tehsil,village,sector_type,price_per_sq_yard_inr,area_sq_yards,lat,lng,transaction_date,source,deed_id,consideration_inr,area_unit,notes
+Panipat,Panipat,IE Panipat,industrial,16137.25,4843.76,29.3584,76.95588,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-panipat-4050,78165000,sqm,HSIIDC FY24-25 reserve (IE Panipat); reserve ₹19300/sqm
+Panipat,Panipat,IE Panipat,industrial,16137.25,8371.93,29.3592,76.95644,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-panipat-7000,135100000,sqm,HSIIDC FY24-25 reserve (IE Panipat); reserve ₹19300/sqm
+Panipat,Panipat,IE Panipat,industrial,16137.25,9418.43,29.36,76.957,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-panipat-7875,151987500,sqm,HSIIDC FY24-25 reserve (IE Panipat); reserve ₹19300/sqm
+Panipat,Panipat,IE Panipat,industrial,16137.25,47361.23,29.3608,76.95756,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-panipat-39600,764280000,sqm,HSIIDC FY24-25 reserve (IE Panipat); reserve ₹19300/sqm
+Panipat,Panipat,IE Panipat,industrial,16137.25,79437.69,29.3616,76.95812,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-panipat-66420,1281906000,sqm,HSIIDC FY24-25 reserve (IE Panipat); reserve ₹19300/sqm
+Panipat,Panipat,IE Panipat,industrial,16137.25,93484.6,29.3624,76.95868,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-panipat-78165,1508584500,sqm,HSIIDC FY24-25 reserve (IE Panipat); reserve ₹19300/sqm

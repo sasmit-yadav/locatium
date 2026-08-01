@@ -1,0 +1,303 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Karnal,Nigdhu,Nigdhu,DAV School to Gurudwara Main Road,residential,6800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Nigdhu,DAV School to Gurudwara Main Road,commercial,33000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Nigdhu,DAV School to Gurudwara Main Road,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Nigdhu,Gurudwara to Anaj Mandi Main Road,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Nigdhu,Gurudwara to Anaj Mandi Main Road,commercial,33000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Nigdhu,Gurudwara to Anaj Mandi Main Road,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Nigdhu,Main Road to Beed Badalwa both sides canal,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Nigdhu,Main Road to Beed Badalwa both sides canal,commercial,33000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Nigdhu,Main Road to Beed Badalwa both sides canal,agricultural,867.77,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Nigdhu,Jagdamba Colony Nirmal Market New Bazar Mahalaxmi Anand Model Town Vijay Nagar Brahmanand,residential,4400,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Nigdhu,Jagdamba Colony Nirmal Market New Bazar Mahalaxmi Anand Model Town Vijay Nagar Brahmanand,commercial,30000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Nigdhu,Jaidayal Colony,residential,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Nigdhu,Jaidayal Colony,commercial,33000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Nigdhu,Shiv Colony,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Nigdhu,Shiv Colony,commercial,28000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Nigdhu,Main Chowk to Post Office village side,residential,6600,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Nigdhu,Main Chowk to Post Office village side,commercial,33000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Nigdhu,City Center,residential,18500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Nigdhu,City Center,commercial,33000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Nigdhu,Main Chowk both sides one acre and 50 feet,commercial,48000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Nigdhu,Abadi land,residential,4800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Nigdhu,Abadi land,commercial,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Nigdhu,Anaj Mandi,residential,33000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Nigdhu,Anaj Mandi,commercial,33000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Nigdhu,Residential non-residential agricultural land,residential,4800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Nigdhu,Residential non-residential agricultural land,commercial,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Nigdhu,Residential non-residential agricultural land,agricultural,619.83,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Nigdhu,All sub-tehsil villages excluding Nigdhu,residential,2500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Nigdhu,All sub-tehsil villages excluding Nigdhu,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Nigdhu,Nilokheri to Karsa road both sides up to 2 acres,agricultural,878.1,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Nigdhu,Nilokheri to Karsa road both sides 3 to 5 acres,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Nigdhu,Beed Badalwa Link Road up to 2 acres,agricultural,847.11,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Nigdhu,Beed Badalwa Link Road 3 to 5 acres,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Nigdhu,Pastana Link Road up to 2 acres,agricultural,661.16,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Nigdhu,Pastana Link Road 3 to 5 acres,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Nigdhu,Sakra Link Road up to 2 acres,agricultural,661.16,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Nigdhu,Koyar up to 2 acres,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Patanpuri,Residential non-residential agricultural land,residential,2500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Patanpuri,Residential non-residential agricultural land,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Patanpuri,Residential non-residential agricultural land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Patanpuri,Nilokheri to Karsa road both sides up to 2 acres,agricultural,847.11,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Patanpuri,Nilokheri to Karsa road both sides 3 to 5 acres,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Patanpuri,Budhera Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Patanpuri,Budhera Link Road 3 to 5 acres,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Patanpuri,Hathira Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Patanpuri,Hathira Link Road 3 to 5 acres,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Raisan,Residential non-residential agricultural land,residential,2500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Raisan,Residential non-residential agricultural land,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Raisan,Residential non-residential agricultural land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Raisan,Karsa Dod Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Raisan,Karsa Dod Link Road 3 to 5 acres,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Raisan,Kaul Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Raisan,Kaul Link Road 3 to 5 acres,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Raisan,Ghadrasi Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Raisan,Jhinjarpur Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Raisan,Pabnawa Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Raisan,Pabnawa Link Road 3 to 5 acres,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Raisan,Hathira Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Pastana,Residential non-residential agricultural land,residential,2500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Pastana,Residential non-residential agricultural land,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Pastana,Residential non-residential agricultural land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Pastana,Nigdhu Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Pastana,Nigdhu Link Road 3 to 5 acres,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Pastana,Hathira Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Pastana,Hathira Link Road 3 to 5 acres,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Pastana,Hathira via Chaurvadi Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,BeedBadalwa,Residential non-residential agricultural land,residential,2500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,BeedBadalwa,Residential non-residential agricultural land,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,BeedBadalwa,Residential non-residential agricultural land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,BeedBadalwa,Gholpura Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,BeedBadalwa,Bohla Khalsa Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,BeedBadalwa,Koyar Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,BeedBadalwa,Nigdhu Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,KarsaDod,Residential non-residential agricultural land,residential,2500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,KarsaDod,Residential non-residential agricultural land,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,KarsaDod,Residential non-residential agricultural land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,KarsaDod,Nilokheri to Karsa Dod road both sides up to 2 acres,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,KarsaDod,Nilokheri to Karsa Dod road both sides 3 to 5 acres,agricultural,681.82,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,KarsaDod,Pastana Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,KarsaDod,Raisan Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,KarsaDod,Sakra Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,BohlaKhalsa,Residential non-residential agricultural land,residential,2500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,BohlaKhalsa,Residential non-residential agricultural land,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,BohlaKhalsa,Residential non-residential agricultural land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,BohlaKhalsa,Beed Badalwa Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,BohlaKhalsa,Chowk to Ramana Ramani Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,BohlaKhalsa,Gamdi to Koyar Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Sitamath,Residential non-residential agricultural land,residential,2500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Sitamath,Residential non-residential agricultural land,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Sitamath,Residential non-residential agricultural land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Sitamath,Karnal Pehowa Road both sides up to 2 acres,agricultural,867.77,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Sitamath,Karnal Pehowa Road both sides 3 to 5 acres,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Sitamath,Mohri Jagir Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Sitamath,Mohri Jagir Link Road 3 to 5 acres,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Sitamath,Koyar Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Sitamath,Ampur Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Sitamath,Ampur Link Road 3 to 5 acres,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Sitamath,Baras Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Sitamath,Baras Link Road 3 to 5 acres,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Mohri,Residential non-residential agricultural land,residential,2500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Mohri,Residential non-residential agricultural land,commercial,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Mohri,Residential non-residential agricultural land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Mohri,Karnal Pehowa Road both sides up to 2 acres,agricultural,867.77,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Mohri,Karnal Pehowa Road both sides 3 to 5 acres,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Mohri,Bohla Khalsa Link Road up to 2 acres,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Mohri,Bohla Khalsa Link Road 3 to 5 acres,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Mohri,Koyar up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Mohri,Koyar 3 to 5 acres,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Mohri,Ramana Ramani Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Mohri,Ramana Ramani Link Road 3 to 5 acres,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Mohri,Karnal Pehowa Road Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Mohri,Karnal Pehowa Road Link Road 3 to 5 acres,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Gholpura,Residential non-residential agricultural land,residential,2500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Gholpura,Residential non-residential agricultural land,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Gholpura,Residential non-residential agricultural land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Gholpura,Beed Badalwa Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Gholpura,Beed Badalwa Link Road 3 to 5 acres,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Gholpura,Sawant Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Gholpura,Sawant Link Road 3 to 5 acres,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Gholpura,Bohla Khalsa Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Gholpura,Bohla Khalsa Link Road 3 to 5 acres,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Gholpura,Mohri Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Gholpura,Sambhi Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Gholpura,Sambhi Link Road 3 to 5 acres,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Koyar,Majra Rodan Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Koyar,Sitamath Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Koyar,Beed Badalwa Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Koyar,Mohri Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,MajraRodan,Residential non-residential agricultural land,residential,2500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,MajraRodan,Residential non-residential agricultural land,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,MajraRodan,Residential non-residential agricultural land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,MajraRodan,Karnal Pehowa Road both sides up to 2 acres,agricultural,867.77,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,MajraRodan,Karnal Pehowa Road both sides 3 to 5 acres,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,MajraRodan,Koyar Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,MajraRodan,Ampur Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,MajraRodan,Ahu Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,RamanaRamani,Residential non-residential agricultural land,residential,2500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,RamanaRamani,Residential non-residential agricultural land,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,RamanaRamani,Residential non-residential agricultural land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,RamanaRamani,Sambhi Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,RamanaRamani,Padwala Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,RamanaRamani,Beed Dandari Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,RamanaRamani,Mohri Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,RamanaRamani,Bohla Khalsa Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,RamanaRamani,Bohla Khalsa Link Road 3 to 5 acres,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,BeedDandari,Residential non-residential agricultural land,residential,2500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,BeedDandari,Residential non-residential agricultural land,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,BeedDandari,Residential non-residential agricultural land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,BeedDandari,Karnal Pehowa Road both sides up to 2 acres,agricultural,867.77,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,BeedDandari,Karnal Pehowa Road both sides 3 to 5 acres,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,BeedDandari,Ramana Ramani Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,BeedDandari,Ramana Ramani Link Road 3 to 5 acres,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,BeedDandari,Sagga Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,BeedDandari,Sagga Link Road 3 to 5 acres,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,BeedDandari,Karnal Pehowa Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,BeedDandari,Karnal Pehowa Road 3 to 5 acres,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Sawant,Residential non-residential agricultural land,residential,2500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Sawant,Residential non-residential agricultural land,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Sawant,Residential non-residential agricultural land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Sawant,Nilokheri Karsa Dod main road Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Sawant,Haibatpur Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Sawant,Gholpura Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Bhukhapuri,Residential non-residential agricultural land,residential,2500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Bhukhapuri,Residential non-residential agricultural land,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Bhukhapuri,Residential non-residential agricultural land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Bhukhapuri,Nilokheri to Karsa Dod road both sides up to 2 acres,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Bhukhapuri,Nilokheri to Karsa Dod road both sides 3 to 5 acres,agricultural,661.16,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Bhukhapuri,Sawant Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Bhukhapuri,Nilokheri Karsa Dod Bhukhapuri Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Bhukhapuri,Nilokheri Karsa Dod Bhukhapuri Link Road 3 to 5 acres,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Bhukhapuri,Budhera Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Bhukhapuri,Budhera Link Road 3 to 5 acres,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Anjanthali,Residential non-residential agricultural land,residential,2500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Anjanthali,Residential non-residential agricultural land,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Anjanthali,Residential non-residential agricultural land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Anjanthali,Nilokheri to Karsa Dod road both sides up to 2 acres,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Anjanthali,Nilokheri to Karsa Dod road both sides 3 to 5 acres,agricultural,661.16,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Anjanthali,Kutiya to Badhal Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Anjanthali,Kutiya to Anjanthali Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Anjanthali,Sohlo Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Anjanthali,Sakra Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Anjanthali,Tarawadi Link Road up to 2 acres,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Anjanthali,Sohlo Link Road up to 2 acres B,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Haibatpur,Residential non-residential agricultural land,residential,2500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Haibatpur,Residential non-residential agricultural land,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Haibatpur,Residential non-residential agricultural land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Haibatpur,Nilokheri to Karsa road both sides up to 2 acres,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Haibatpur,Nilokheri to Karsa road both sides 3 to 5 acres,agricultural,661.16,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Haibatpur,Nilokheri Karsa and Gholpura Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Haibatpur,Nilokheri Karsa and Gholpura Link Road 3 to 5 acres,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Haibatpur,Sawant Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,KhwajaAhmadpur,Residential non-residential agricultural land,residential,2500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,KhwajaAhmadpur,Residential non-residential agricultural land,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,KhwajaAhmadpur,Residential non-residential agricultural land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,KhwajaAhmadpur,Nilokheri to Karsa main road up to 2 acres,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,KhwajaAhmadpur,Nilokheri to Karsa main road 3 to 5 acres,agricultural,661.16,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,KhwajaAhmadpur,Nilokheri Karsa Link Road to main road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,KhwajaAhmadpur,Nilokheri Karsa via Gurukul up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Pujam,Residential non-residential agricultural land,residential,2500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Pujam,Residential non-residential agricultural land,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Pujam,Residential non-residential agricultural land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Pujam,Nilokheri Karsa Dod Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Pujam,Sarsa Branch Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Pujam,Sarsa Branch to Badthal Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Pujam,GT Road both sides up to 2 acres,agricultural,3099.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Pujam,GT Road both sides 3 to 5 acres,agricultural,2582.64,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Sohlo,Residential non-residential agricultural land,residential,2500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Sohlo,Residential non-residential agricultural land,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Sohlo,Residential non-residential agricultural land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Sohlo,Dabarathala Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Budhera,Residential non-residential agricultural land,residential,2500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Budhera,Residential non-residential agricultural land,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Budhera,Residential non-residential agricultural land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Budhera,Nilokheri Karsa Dod Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Budhera,Bhukhapuri Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Budhera,Kirmach Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Budhera,Hathira Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Sambhi,Residential non-residential agricultural land,residential,2500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Sambhi,Residential non-residential agricultural land,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Sambhi,Residential non-residential agricultural land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Sambhi,Dabarathala Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Sambhi,Brahman Majra Link Road up to 2 acres,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Sambhi,Ramana Ramani Padwala Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Sambhi,Sakra Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Sambhi,Gholpura Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Sambhi,Padwala up to 2 acres,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Dabarathala,Residential non-residential agricultural land,residential,2500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Dabarathala,Residential non-residential agricultural land,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Dabarathala,Residential non-residential agricultural land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Dabarathala,Nilokheri to Karsa Dod main road up to 2 acres,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Dabarathala,Nilokheri to Karsa Dod main road 3 to 5 acres,agricultural,661.16,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Dabarathala,Nilokheri Karsa Dod Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Dabarathala,Nilokheri Karsa Dod Link Road 3 to 5 acres,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Dabarathala,Sohlo Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Dabarathala,Sohlo Link Road 3 to 5 acres,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Dabarathala,Sambhi Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Dabarathala,Sambhi Link Road 3 to 5 acres,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Dabarathala,Aibli Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Dabarathala,Aibli Link Road 3 to 5 acres,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Dabarathala,Brahman Majra Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Dabarathala,Brahman Majra Link Road 3 to 5 acres,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,BrahmanMajra,Residential non-residential agricultural land,residential,2500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,BrahmanMajra,Residential non-residential agricultural land,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,BrahmanMajra,Residential non-residential agricultural land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,BrahmanMajra,Sawant Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,BrahmanMajra,Jamba Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,BrahmanMajra,Sambhi Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,BrahmanMajra,Dabarathala Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Jamba,Residential non-residential agricultural land,residential,2500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Jamba,Residential non-residential agricultural land,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Jamba,Residential non-residential agricultural land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Jamba,Nilokheri to Karsa Dod road both sides up to 2 acres,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Jamba,Nilokheri to Karsa Dod road both sides 3 to 5 acres,agricultural,661.16,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Jamba,Kirmach Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Jamba,Kirmach Link Road 3 to 5 acres,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Jamba,Sawant Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Jamba,Sawant Link Road 3 to 5 acres,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Geetalpur,Residential non-residential agricultural land,residential,2500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Geetalpur,Residential non-residential agricultural land,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Geetalpur,Residential non-residential agricultural land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Geetalpur,Jamba Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Geetalpur,Jamba Link Road 3 to 5 acres,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Geetalpur,Tigri Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Geetalpur,Tigri Link Road 3 to 5 acres,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Aibla,Residential non-residential agricultural land,residential,2500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Aibla,Residential non-residential agricultural land,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Aibla,Residential non-residential agricultural land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Aibla,Jamba Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Geetalpur,Aibla Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Aibla,Kirmach Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Aibli,Residential non-residential agricultural land,residential,2500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Aibli,Residential non-residential agricultural land,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Aibli,Residential non-residential agricultural land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Aibli,Nilokheri Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Aibli,Amin Road Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Aibli,Badthal Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Bodsham,Residential non-residential agricultural land,residential,2500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Bodsham,Residential non-residential agricultural land,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Bodsham,Residential non-residential agricultural land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Bodsham,Tigri Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Bodsham,Kirmach Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Bodsham,Jamba to Kuwarkheri,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Badthal,Residential non-residential agricultural land,residential,2500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Badthal,Residential non-residential agricultural land,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Badthal,Residential non-residential agricultural land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Badthal,Nilokheri to Karsa road both sides up to 2 acres,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Badthal,Nilokheri Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Badthal,Beed Amin Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Badthal,Beed Amin Link Road 3 to 5 acres,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Badthal,Raipur Rodan Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Badthal,Amin Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Badthal,Amin Link Road 3 to 5 acres,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Badthal,Aibli Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Badthal,Aibli Link Road 3 to 5 acres,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Kamalpur,Residential non-residential agricultural land,residential,2500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Kamalpur,Residential non-residential agricultural land,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Kamalpur,Residential non-residential agricultural land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Kamalpur,Nilokheri to Karsa road both sides up to 2 acres,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Kamalpur,Nilokheri to Karsa road both sides 3 to 5 acres,agricultural,661.16,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Kamalpur,Bus stand to village up to 2 acres,agricultural,661.16,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Kamalpur,Dera to Badthal up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nigdhu,Kamalpur,Dera to Badthal 3 to 5 acres,agricultural,578.51,2026-04-01,karnal_gov_in_dc_notification

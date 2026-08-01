@@ -1,0 +1,220 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Panchkula,Raipur Rani,Amrala,Amrala,agricultural,728.75,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Amrala,Amrala,agricultural,660.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Amrala,Amrala,residential,3080.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Amrala,Amrala,commercial,13200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Alipur,Alipur,agricultural,618.12,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Alipur,Alipur,agricultural,563.75,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Alipur,Alipur,agricultural,536.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Alipur,Alipur,residential,3080.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Alipur,Alipur,commercial,13200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Kajampur,Kajampur,agricultural,646.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Kajampur,Kajampur,agricultural,1925.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Kajampur,Kajampur,agricultural,591.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Kajampur,Kajampur,residential,3080.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Kajampur,Kajampur,commercial,13200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Kasampur,Kasampur 1,agricultural,589.38,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Kasampur,Kasampur 1,agricultural,2012.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Kasampur,Kasampur 1,agricultural,522.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Kasampur,Kasampur 1,agricultural,1925.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Kasampur,Kasampur 1,agricultural,495.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Kasampur,Kasampur 1,residential,3080.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Kasampur,Kasampur 1,commercial,13200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Kambwala,Kambwala,agricultural,536.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Kambwala,Kambwala,residential,3080.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Kambwala,Kambwala,commercial,13200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Kambwala,Kambwala,agricultural,591.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Kambwala,Kambwala,agricultural,563.75,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Kheri,Kheri,agricultural,1925.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Kheri,Kheri,agricultural,660.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Kheri,Kheri,residential,5280.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Kheri,Kheri,commercial,13200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,KhairwaliParwala,Khairwali Parwala,agricultural,701.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,KhairwaliParwala,Khairwali Parwala,agricultural,765.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,KhairwaliParwala,Khairwali Parwala,agricultural,2100.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,KhairwaliParwala,Khairwali Parwala,agricultural,660.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,KhairwaliParwala,Khairwali Parwala,agricultural,900.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,KhairwaliParwala,Khairwali Parwala,residential,3080.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,KhairwaliParwala,Khairwali Parwala,commercial,13200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Garhi,Garhi,agricultural,591.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Garhi,Garhi,agricultural,806.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Garhi,Garhi,commercial,13200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Ganeshpur,Ganeshpur,agricultural,591.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Ganeshpur,Ganeshpur,agricultural,563.75,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Ganeshpur,Ganeshpur,agricultural,536.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Ganeshpur,Ganeshpur,residential,3080.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Ganeshpur,Ganeshpur,commercial,13200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Ganauli,Ganauli,agricultural,508.75,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Ganauli,Ganauli,agricultural,467.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Ganauli,Ganauli,residential,3080.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Ganauli,Ganauli,commercial,13200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Gadauli,Gadauli,agricultural,508.75,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Gadauli,Gadauli,agricultural,467.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Gadauli,Gadauli,residential,3080.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Gadauli,Gadauli,commercial,13200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Gobindpur,Gobindpur,agricultural,467.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Gobindpur,Gobindpur,residential,3080.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Gobindpur,Gobindpur,commercial,13200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Tapariya,Tapariya,agricultural,563.75,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Tapariya,Tapariya,agricultural,1925.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Tapariya,Tapariya,agricultural,536.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Tapariya,Tapariya,commercial,13200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,TibbiMajra,Tibbi Majra,agricultural,701.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,TibbiMajra,Tibbi Majra,agricultural,1925.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,TibbiMajra,Tibbi Majra,agricultural,660.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,TibbiMajra,Tibbi Majra,agricultural,900.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,TibbiMajra,Tibbi Majra,agricultural,2625.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,TibbiMajra,Tibbi Majra,residential,4840.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,TibbiMajra,Tibbi Majra,commercial,15054.55,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Tharwa,Tharwa,agricultural,618.12,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Tharwa,Tharwa,agricultural,563.75,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Tharwa,Tharwa,agricultural,536.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Tharwa,Tharwa,residential,3080.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Tharwa,Tharwa,commercial,13200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Tarlokpur,Tarlokpur,agricultural,731.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Tarlokpur,Tarlokpur,agricultural,2625.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Tarlokpur,Tarlokpur,agricultural,495.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Tarlokpur,Tarlokpur,residential,3080.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Tarlokpur,Tarlokpur,commercial,13200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Dandlawad,Dandlawad,agricultural,591.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Dandlawad,Dandlawad,agricultural,1925.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Dandlawad,Dandlawad,agricultural,550.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Dandlawad,Dandlawad,commercial,13200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Debad,Debad,agricultural,467.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Debad,Debad,residential,41.76,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Debad,Debad,commercial,13200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Narayanpur,Narayanpur,agricultural,806.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Narayanpur,Narayanpur,agricultural,589.38,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Narayanpur,Narayanpur,agricultural,536.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Narayanpur,Narayanpur,residential,3080.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Narayanpur,Narayanpur,commercial,13200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Pyarewala,Pyarewala,agricultural,495.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Pyarewala,Pyarewala,agricultural,1925.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Pyarewala,Pyarewala,residential,3220.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Pyarewala,Pyarewala,commercial,13200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Firozpur,Firozpur,agricultural,718.75,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Firozpur,Firozpur,agricultural,646.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Firozpur,Firozpur,agricultural,591.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Firozpur,Firozpur,residential,3080.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Firozpur,Firozpur,commercial,13200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Baghaur,Baghaur,agricultural,536.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Baghaur,Baghaur,agricultural,488.75,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Baghaur,Baghaur,agricultural,467.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Baghaur,Baghaur,residential,3080.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Baghaur,Baghaur,commercial,13200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,BadaunaKhurd,Badauna Khurd,agricultural,660.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,BadaunaKhurd,Badauna Khurd,agricultural,900.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,BadaunaKhurd,Badauna Khurd,agricultural,2625.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,BadaunaKhurd,Badauna Khurd,residential,4840.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,BadaunaKalan,Badauna Kalan,agricultural,701.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,BadaunaKalan,Badauna Kalan,agricultural,1925.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,BadaunaKalan,Badauna Kalan,agricultural,660.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,BadaunaKalan,Badauna Kalan,residential,4840.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Bharoli,Bharoli,agricultural,752.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Bharoli,Bharoli,agricultural,563.75,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Bharoli,Bharoli,agricultural,536.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Bharoli,Bharoli,agricultural,731.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Bharoli,Bharoli,residential,3080.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Bharoli,Bharoli,commercial,13200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Bhagpur,Bhagpur,agricultural,536.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Bhagpur,Bhagpur,agricultural,467.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Bhagpur,Bhagpur,residential,3080.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Bhagpur,Bhagpur,commercial,13200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Bhud215,Bhud 215,agricultural,536.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Bhud215,Bhud 215,residential,3080.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Bhud215,Bhud 215,commercial,13200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Bhud215,Bhud 215,agricultural,591.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Bhud215,Bhud 215,agricultural,1925.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Bhud215,Bhud 215,agricultural,563.75,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Bhud-199,Bhud-199,agricultural,426.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Bhud-199,Bhud-199,commercial,13200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Bhavli,Bhavli,agricultural,531.88,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Bhavli,Bhavli,agricultural,467.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Bhavli,Bhavli,residential,3080.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Bhavli,Bhavli,commercial,13200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Mandlaye,Mandlaye,agricultural,495.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Mandlaye,Mandlaye,agricultural,467.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Mandlaye,Mandlaye,agricultural,412.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Mandlaye,Mandlaye,residential,3080.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Mandlaye,Mandlaye,commercial,13200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,ManakTabra,Manak Tabra 1,agricultural,956.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,ManakTabra,Manak Tabra 1,agricultural,2625.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,ManakTabra,Manak Tabra 1,agricultural,660.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,ManakTabra,Manak Tabra 1,agricultural,1925.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,ManakTabra,Manak Tabra 1,agricultural,900.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,ManakTabra,Manak Tabra 1,residential,3220.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,ManakTabra,Manak Tabra 1,commercial,13200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Masumpur,Masumpur,agricultural,467.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Masumpur,Masumpur,residential,3080.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Masumpur,Masumpur,commercial,13200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Rehna,Rehna,agricultural,731.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Rehna,Rehna,agricultural,712.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Rehna,Rehna,agricultural,495.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Rehna,Rehna,commercial,13200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Rampur,Rampur,agricultural,467.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Rampur,Rampur,residential,3080.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Rampur,Rampur,commercial,13200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,RaipurRani,Grain Market Raipur Rani,commercial,29282,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,RaipurRani,SCF Raipur Rani,commercial,26620,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,RaipurRani,Raipur Rani Nai Abadi,agricultural,1038.92,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,RaipurRani,Raipur Rani Nai Abadi,agricultural,2744.32,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,RaipurRani,Raipur Rani Nai Abadi Khasra,agricultural,956.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,RaipurRani,Raipur Rani Nai Abadi Khasra,agricultural,2625.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,RaipurRani,Raipur Rani Nai Abadi Khasra,agricultural,900.06,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Wajidpur,Wajidpur,agricultural,862.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Wajidpur,Wajidpur,agricultural,591.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Wajidpur,Wajidpur,agricultural,550.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Wajidpur,Wajidpur,residential,3080.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Wajidpur,Wajidpur,commercial,13200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Shahjahanpur,Shahjahanpur,agricultural,591.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Shahjahanpur,Shahjahanpur,residential,3080.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Shahjahanpur,Shahjahanpur,commercial,13200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Shahjahanpur,Shahjahanpur,agricultural,687.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Shahjahanpur,Shahjahanpur,agricultural,881.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Shahpur,Shahpur,agricultural,728.75,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Shahpur,Shahpur,agricultural,701.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Shahpur,Shahpur,agricultural,660.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Shahpur,Shahpur,residential,3080.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Shahpur,Shahpur,commercial,13200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Samahledi,Samahledi,agricultural,806.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Samahledi,Samahledi,agricultural,563.75,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Samahledi,Samahledi,agricultural,536.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Samahledi,Samahledi,residential,3080.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Samahledi,Samahledi,commercial,13200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Samanwa,Samanwa,agricultural,563.74,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Samanwa,Samanwa,agricultural,536.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Samanwa,Samanwa,residential,3080.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Samanwa,Samanwa,commercial,13200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Sarakpur,Sigma Industrial Sarakpur,commercial,7261,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Sarakpur,Sigma Industrial Sarakpur,industrial,7261,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Sarakpur,Sarakpur,agricultural,701.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Sarakpur,Sarakpur,agricultural,1925.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Sarakpur,Sarakpur,agricultural,660.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Sarakpur,Sarakpur,agricultural,900.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Sarakpur,Sarakpur,residential,3080.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Sarakpur,Sarakpur,commercial,13200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Sultanpur,Sultanpur,agricultural,591.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Sultanpur,Sultanpur,agricultural,768.75,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Sultanpur,Sultanpur,agricultural,536.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Sultanpur,Sultanpur,residential,3080.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Sultanpur,Sultanpur,commercial,13200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Hangola,Hangola,agricultural,687.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Hangola,Hangola,agricultural,881.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Hangola,Hangola,agricultural,591.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Hangola,Hangola,residential,3080.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Hangola,Hangola,commercial,13200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Hangoli,Hangoli,agricultural,646.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Hangoli,Hangoli,agricultural,591.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Hangoli,Hangoli,residential,3080.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Hangoli,Hangoli,commercial,13200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Haryauli,Haryauli,agricultural,718.75,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Haryauli,Haryauli,agricultural,646.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Haryauli,Haryauli,agricultural,591.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Haryauli,Haryauli,residential,3080.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Haryauli,Haryauli,commercial,13200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Haripur,Haripur,agricultural,1043.18,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Haripur,Haripur,agricultural,2863.64,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Haripur,Haripur,agricultural,660.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Haripur,Haripur,agricultural,1925.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Haripur,Haripur,residential,3080.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Raipur Rani,Haripur,Haripur,commercial,13200.0,2026-04-01,panchkula_gov_in_dc_notification

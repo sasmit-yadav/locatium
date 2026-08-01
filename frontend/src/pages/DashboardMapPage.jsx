@@ -17,6 +17,7 @@ import { useDashboardStore } from '../stores/useDashboardStore';
 import { loginDefaultAnalyst } from '../services/auth';
 import { getSnapshot } from '../services/portal';
 import { postIdentifyBatch } from '../services/mapsIdentify';
+import { AskLocatiumWidget } from '../components/AskLocatiumWidget';
 import { DATA_LAYERS } from '../config/layers';
 
 export function DashboardMapPage() {
@@ -290,6 +291,7 @@ export function DashboardMapPage() {
       </div>
       <BottomStatusBar />
       <CommandPalette />
+      <AskLocatiumWidget />
     </div>
   );
 }

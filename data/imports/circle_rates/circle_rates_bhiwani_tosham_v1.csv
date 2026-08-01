@@ -1,0 +1,437 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Bhiwani,Tosham,Alakhapura,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Alakhapura,Nahri,agricultural,237.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Alakhapura,Chahi,agricultural,237.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Alakhapura,Tibba,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Alakhapura,Tal,agricultural,212.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Alakhapura,Alakhapura,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Alampur,Alampur,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Alampur,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Alampur,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Alampur,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Alampur,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Alampur,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Indiwali,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Indiwali,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Indiwali,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Indiwali,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Indiwali,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Indiwali,Indiwali,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Isharwal,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Isharwal,Isharwal,commercial,9680,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Isharwal,Tibba,agricultural,177.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Isharwal,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Isharwal,Isharwal,residential,1320,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Isharwal,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Isharwal,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Isharwal,Isharwal to Bus Stand Road,commercial,9680,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Isharwal,Isharwal to Bus Stand Road,residential,4235,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Katwar,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Katwar,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Katwar,Katwar,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Katwar,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Katwar,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Katwar,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Kirawar,Kirawar,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Kirawar,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Kirawar,Nahri,agricultural,237.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Kirawar,Chahi,agricultural,237.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Kirawar,Tibba,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Kirawar,Tal,agricultural,212.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Kairu,Kairu,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Kairu,Kairu,commercial,9680,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Kairu,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Kairu,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Kairu,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Kairu,Kairu,residential,1320,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Kairu,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Kairu,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Kairu,Main Chowk road to Bhiwani Jui Loharu Tosham,commercial,9680,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Kairu,Main Chowk road to Bhiwani Jui Loharu Tosham,residential,4235,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,KharkariMakhwan,Kharkari Makhwan,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,KharkariMakhwan,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,KharkariMakhwan,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,KharkariMakhwan,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,KharkariMakhwan,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,KharkariMakhwan,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,KharkariSohan,Nahri,agricultural,237.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,KharkariSohan,Chahi,agricultural,237.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,KharkariSohan,Tibba,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,KharkariSohan,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,KharkariSohan,Tal,agricultural,212.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,KharkariSohan,Kharkari Sohan,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Khanak,Tal,agricultural,212.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Khanak,Khanak,commercial,16940,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Khanak,Tibba,agricultural,204.55,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Khanak,Gair Mumkin,agricultural,1000.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Khanak,Khanak,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,KhanakHisarToshamRoadPinjokharatoDadamMod,Nahri,agricultural,237.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,KhanakHisarToshamRoadPinjokharatoDadamMod,Khanak Hisar Tosham Road Pinjokhara to Dadam Mod,residential,4235,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Khaparwas,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Khaparwas,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Khaparwas,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Khaparwas,Khaparwas,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Khaparwas,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Khariyawas,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Khariyawas,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Khariyawas,Khariyawas,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Khariyawas,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Khawa,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Khawa,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Khawa,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Khawa,Khawa,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Khawa,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Khawa,Tal,agricultural,196.02,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Garanpura,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Garanpura,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Garanpura,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Garanpura,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Garanpura,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Garanpura,Garanpura,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Gudha,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Gudha,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Gudha,Gudha,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Gudha,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Gudha,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Gudha,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Chanana,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Chanana,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Chanana,Chanana,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Chanana,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Chanana,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Chanana,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,ChaparJogian,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,ChaparJogian,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,ChaparJogian,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,ChaparJogian,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,ChaparJogian,Chapar Jogian,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,ChaparRagran,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,ChaparRagran,Chapar Ragran,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,ChaparRagran,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,ChaparRagran,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,ChaparRagran,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,ChaparRagran,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Jainawas,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Jainawas,Jainawas,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Jainawas,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Jainawas,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Jainawas,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Jainawas,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Jhawari,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Jhawari,Chahi,agricultural,237.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Jhawari,Nahri,agricultural,237.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Jhawari,Tibba,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Jhawari,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Jhawari,Jhawari,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Jhully,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Jhully,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Jhully,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Jhully,Jhully,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Jhully,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Jhully,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Dadam,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Dadam,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Dadam,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Dadam,Dadam,commercial,750.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Dadam,Dadam,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Dadam,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Dadam,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,DhaniMahu,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,DhaniMahu,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,DhaniMahu,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,DhaniMahu,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,DhaniMahu,Dhani Mahu,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,DhaniMahu,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Tosham,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Isharwal to Bus Stand Road Mandir Rest House,commercial,9680,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Isharwal to Bus Stand Road Mandir Rest House,residential,4235,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Kairu Jui Loharu Tosham Road,commercial,9680,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Kairu Jui Loharu Tosham Road,residential,4235,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Gulshan Nagar Basant Vihar ITI,commercial,21505,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Gulshan Nagar Basant Vihar ITI,residential,4620,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Jui Road to behind sawmills,commercial,21780,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Jui Road to behind sawmills,residential,3630,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,ToshamtoKhanaktoBhiwani2acre,Tal,agricultural,875.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,ToshamtoKhanaktoBhiwani2acre,Tibba,agricultural,875.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,ToshamtoKhanaktoBhiwani2acre,Gair Mumkin,agricultural,875.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,ToshamtoKhanaktoBhiwani2acre,Chahi,agricultural,875.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,ToshamtoKhanaktoBhiwani2acre,Nahri,agricultural,875.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,ToshamGramin,Tosham Gramin,commercial,1090.91,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,ToshamGramin,Tal,agricultural,225.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,ToshamGramin,Tosham Gramin,residential,6050,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,ToshamGramin,Tibba,agricultural,218.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,ToshamGramin,Gair Mumkin,agricultural,6050,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,ToshamGramin,Chahi,agricultural,300.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,ToshamGramin,Nahri,agricultural,300.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,SiwaniHansiBawaniKheraRoad2acredepth,Tal,agricultural,675.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,SiwaniHansiBawaniKheraRoad2acredepth,Tibba,agricultural,675.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,SiwaniHansiBawaniKheraRoad2acredepth,Gair Mumkin,agricultural,675.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,SiwaniHansiBawaniKheraRoad2acredepth,Chahi,agricultural,675.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,SiwaniHansiBawaniKheraRoad2acredepth,Nahri,agricultural,675.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Devas Nagar to Kanha Farm,commercial,20570,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Devas Nagar to Kanha Farm,residential,3630,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Dhakka Basti,commercial,21780,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Dhakka Basti,residential,3630,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Pashu Hospital to Durga Mandir Mod,commercial,18150,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Pashu Hospital to Durga Mandir Mod,residential,3630,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Prabhu Kripa Ram Colony Bhiwani Road Bypass,residential,3630,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Prabhu Kripa Ram Colony Bhiwani Road Bypass,commercial,18150,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Bansi Lal Chowk to Pashu Hospital ITI,commercial,27830,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Bansi Lal Chowk to Pashu Hospital ITI,residential,7260,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Bansi Lal Chowk to Main Chowk Durga Mandir,commercial,27830,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Bansi Lal Chowk to Main Chowk Durga Mandir,residential,7260,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Bansi Lal Chowk to Main Chowk Surendra Chowk,commercial,32670,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Bansi Lal Chowk to Main Chowk Surendra Chowk,residential,8580,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Bajrang Colony,commercial,20570,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Bajrang Colony,residential,3630,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Basti Jatan to Purani Anaj Mandi,commercial,25300,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Basti Jatan to Purani Anaj Mandi,residential,7260,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Barah Dari ITI,commercial,24200,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Barah Dari ITI,residential,4235,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Bhiwani Road North,commercial,20570,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Bhiwani Road North,residential,4235,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Mansaram Colony,commercial,20570,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Mansaram Colony,residential,4235,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Mansarovar Colony Herbal Park,commercial,25410,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Mansarovar Colony Herbal Park,residential,5445,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Miran Bus Stand Dariyapur,commercial,9680,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Miran Bus Stand Dariyapur,residential,2420,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Lal Harbhagwan Colony,commercial,27830,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Lal Harbhagwan Colony,residential,6655,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Vidya Nagar Hisar Road to Bypass,commercial,21780,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Vidya Nagar Hisar Road to Bypass,residential,3630,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Vijay Wazir Colony,commercial,20570,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Vijay Wazir Colony,residential,3630,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Herbal Park to Surendra Chowk Dhani Isharwal,commercial,24200,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Herbal Park to Surendra Chowk Dhani Isharwal,residential,7260,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Hisar Tosham Road,commercial,16940,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Hisar Tosham Road,residential,4235,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Hiranand Talab to Baganwala Road,commercial,15730,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Tosham,Hiranand Talab to Baganwala Road,residential,5445,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,ToshamRural,Nahri,agricultural,300.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,ToshamRural,Chahi,agricultural,300.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,ToshamRural,Gair Mumkin,agricultural,625.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,ToshamRural,Tibba,agricultural,218.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,ToshamRural,Tal,agricultural,218.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,ToshamRural,Tosham Rural,commercial,1090.91,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,ToshamRural,Tosham Rural,residential,6050,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Thilor,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Thilor,Thilor,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Thilor,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Thilor,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Thilor,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Thilor,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Dhariyapur,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Dhariyapur,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Dhariyapur,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Dhariyapur,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Dhariyapur,Dhariyapur,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Dhariyapur,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,DangKalan,Chahi,agricultural,237.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,DangKalan,Nahri,agricultural,237.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,DangKalan,Tibba,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,DangKalan,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,DangKalan,Dang Kalan,residential,1265,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,DangKalan,Tal,agricultural,212.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,DangKhurd,Tal,agricultural,212.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,DangKhurd,Dang Khurd,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,DangKhurd,Tibba,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,DangKhurd,Nahri,agricultural,237.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,DangKhurd,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,DangKhurd,Chahi,agricultural,237.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Dulheri,Dulheri,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Dulheri,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Dulheri,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Dulheri,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Dulheri,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Dulheri,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Devrala,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Devrala,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Devrala,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Devrala,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Devrala,Tal,agricultural,196.02,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Devrala,Devrala,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Devawas,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Devawas,Devawas,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Devawas,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Devawas,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Devawas,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Devawas,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Dharan,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Dharan,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Dharan,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Dharan,Tibba,agricultural,177.27,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Dharan,Tal,agricultural,196.02,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Dharan,Dharan,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Dharanwas,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Dharanwas,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Dharanwas,Dharanwas,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Dharanwas,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Dharanwas,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Dharanwas,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,NiganaKalan,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,NiganaKalan,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,NiganaKalan,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,NiganaKalan,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,NiganaKalan,Nigana Kalan,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,NiganaKalan,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,NiganaKhurd,Nigana Khurd,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,NiganaKhurd,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,NiganaKhurd,Nigana Khurd,commercial,750.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,NiganaKhurd,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,NiganaKhurd,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Patodi,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Patodi,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Patodi,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Patodi,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Patodi,Patodi,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Patodi,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Pinjokhara,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Pinjokhara,Pinjokhara,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Pinjokhara,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Pinjokhara,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Pinjokhara,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Pinjokhara,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Bajina,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Bajina,Nahri,agricultural,218.18,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Bajina,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Bajina,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Bajina,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Bajina,Bajina,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Baganwala,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Baganwala,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Baganwala,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Baganwala,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Baganwala,Baganwala,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Baganwala,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Baganwala,Baganwala,commercial,1000.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Badalwala,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Badalwala,Badalwala,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Badalwala,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Badalwala,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Badalwala,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Badalwala,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Bijlanawas,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Bijlanawas,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Bijlanawas,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Bijlanawas,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Bijlanawas,Bijlanawas,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Bijlanawas,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Bidola,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Bidola,Bidola,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Bidola,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Bidola,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Bidola,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Bidola,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Busan,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Busan,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Busan,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Busan,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Busan,Busan,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Busan,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Bhariwas,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Bhariwas,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Bhariwas,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Bhariwas,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Bhariwas,Bhariwas,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Bhariwas,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Bhurtana,Chahi,agricultural,237.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Bhurtana,Nahri,agricultural,237.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Bhurtana,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Bhurtana,Tibba,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Bhurtana,Tal,agricultural,212.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Bhurtana,Bhurtana,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Bhera,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Bhera,Bhera,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Bhera,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Bhera,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Bhera,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Bhera,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Mandhan,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Mandhan,Mandhan,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Mandhan,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Mandhan,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Mandhan,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Mandhan,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Mansarwas,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Mansarwas,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Mansarwas,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Mansarwas,Mansarwas,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Mansarwas,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Mansarwas,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Miran,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Miran,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Miran,Miran,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Miran,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Miran,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Miran,Miran,commercial,9680,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Miran,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Miran,Miran Bus Stand Chowk,commercial,9680,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Miran,Miran Bus Stand Chowk,residential,2420,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Riwasa,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Riwasa,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Riwasa,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Riwasa,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Riwasa,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Riwasa,Riwasa,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Roda,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Roda,Roda,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Roda,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Roda,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Roda,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Roda,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Ladiyawali,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Ladiyawali,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Ladiyawali,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Ladiyawali,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Ladiyawali,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Ladiyawali,Ladiyawali,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Shimliwas,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Shimliwas,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Shimliwas,Shimliwas,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Shimliwas,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Shimliwas,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Shimliwas,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Sandwa,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Sandwa,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Sandwa,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Sandwa,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Sandwa,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Sandwa,Sandwa,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Saral,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Saral,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Saral,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Saral,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Saral,Saral,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Saral,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Sangwan,Tal,agricultural,212.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Sangwan,Chahi,agricultural,237.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Sangwan,Nahri,agricultural,237.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Sangwan,Tibba,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Sangwan,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Sangwan,Sangwan,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Sahelewala,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Sahelewala,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Sahelewala,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Sahelewala,Sahelewala,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Sahelewala,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Sahelewala,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Sidhan,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Sidhan,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Sidhan,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Sidhan,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Sidhan,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Sidhan,Sidhan,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Sungarpur,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Sungarpur,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Sungarpur,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Sungarpur,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Sungarpur,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Sungarpur,Sungarpur,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Hasan,Chahi,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Hasan,Nahri,agricultural,200.0,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Hasan,Gair Mumkin,agricultural,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Hasan,Tibba,agricultural,162.5,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Hasan,Hasan,residential,1210,2026-04-01,bhiwani_gov_in_dc_notification
+Bhiwani,Tosham,Hasan,Tal,agricultural,187.5,2026-04-01,bhiwani_gov_in_dc_notification

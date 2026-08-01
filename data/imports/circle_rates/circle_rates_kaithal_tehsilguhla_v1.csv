@@ -1,0 +1,392 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Kaithal,Guhla,अजीमगढ़,समाना शहर में लगता,residential,3500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,अजीमगढ़,मुख्य सड़क के साथ,agricultural,557.85,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,अजीमगढ़,मुख्य सड़क के साथ,residential,2400,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,अजीमगढ़,उपरोक्त के अतिरिक्त अन्य भूमि,agricultural,382.23,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,अजीमगढ़,उपरोक्त के अतिरिक्त अन्य भूमि,residential,2400,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,अहमदपुरगढ़,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,अहमदपुरगढ़,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,अरनौली,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,अरनौली,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,अरनौली,बाढ़ ग्रस्त रक्बा,agricultural,196.28,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,अरनौली,बाढ़ ग्रस्त रक्बा,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,अगौन्ध,गुहला खरकां मुख्य रोड पर स्थित,agricultural,361.57,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,अगौन्ध,गुहला खरकां मुख्य रोड पर स्थित,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,अगौन्ध,बाड प्रभावित रकबा,agricultural,196.28,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,अगौन्ध,बाड प्रभावित रकबा,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,अगौन्ध,उपरोक्त के अतिरिक्त,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,अगौन्ध,उपरोक्त के अतिरिक्त,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,उरलाना,निम्नलिखित नम्बरान के अतिरिक्त,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,उरलाना,निम्नलिखित नम्बरान के अतिरिक्त,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,उरलाना,बाढ ग्रस्त एरिया,agricultural,196.28,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,उरलाना,बाढ ग्रस्त एरिया,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,कसौर,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,कसौर,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,कसौर,बाढ़ ग्रस्त एरिया,agricultural,196.28,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,कसौर,बाढ़ ग्रस्त एरिया,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,कांगथली,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,कांगथली,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,कांगथली,चाही,commercial,3700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,कांगथली,कैथल से चीका मेन रोड,residential,3700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,कांगथली,कैथल से चीका मेन रोड,commercial,3700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,कांगथली,कैथल से चीका मेन रोड तीन एकड तक,agricultural,506.2,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,कांगथली,कैथल से चीका मेन रोड तीन एकड तक,residential,3700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,कांगथली,कैथल से चीका मेन रोड तीन एकड तक,commercial,3700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,कक्हेडी,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,कक्हेडी,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,कक्हेडी,कैथल से चीका मार्ग,agricultural,506.2,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,कक्हेडी,कैथल से चीका मार्ग,residential,2800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,कक्हेडी,कैथल से चीका मार्ग तीन एकड गहराई,agricultural,506.2,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,कक्हेडी,कैथल से चीका मार्ग तीन एकड गहराई,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,कक्हेडी,कैथल से चीका मार्ग तीन एकड गहराई,commercial,2800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,ककरालाअनायत,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,ककरालाअनायत,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,कम्हेड़ी,चीका से पटियाला मार्ग तीन एकड तक,agricultural,351.24,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,कम्हेड़ी,चीका से पटियाला मार्ग तीन एकड तक,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,कम्हेड़ी,बाढ ग्रस्त,agricultural,196.28,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,कम्हेड़ी,बाढ ग्रस्त,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,कम्हेड़ी,उपरोक्त के अतिरिक्त,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,कम्हेड़ी,उपरोक्त के अतिरिक्त,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,कल्लरमाजरा,चीका से पहेवा रोड तीन एकड तक,agricultural,557.85,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,कल्लरमाजरा,चीका से पहेवा रोड तीन एकड तक,residential,1700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,कल्लरमाजरा,उपरोक्त के अतिरिक्त,agricultural,506.2,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,कल्लरमाजरा,उपरोक्त के अतिरिक्त,residential,1700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,कक्योरमाजरा,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,कक्योरमाजरा,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,कसौली,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,कसौली,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,खरकां,निम्नलिखित नम्बरान के अतिरिक्त,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,खरकां,निम्नलिखित नम्बरान के अतिरिक्त,residential,1600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,खरकां,निम्नलिखित नम्बरान के अतिरिक्त,commercial,3000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,खरकां,मुख्य रोड पर स्थित,residential,1600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,खरकां,मुख्य रोड पर स्थित,commercial,3000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,खरकां,मुख्य रोड से तीन एकड तक,agricultural,506.2,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,खरकां,मुख्य रोड से तीन एकड तक,residential,1600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,खरकां,मुख्य रोड से तीन एकड तक,commercial,3000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,कोहलीखेडा,बाढ ग्रस्त,agricultural,196.28,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,कोहलीखेडा,बाढ ग्रस्त,residential,1600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,कोहलीखेडा,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,कोहलीखेडा,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,खरकडा,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,खरकडा,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,खरौदी,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,खरौदी,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,खरौदी,चाही,commercial,2300,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,खरौदी,सड़क के साथ तीन एकड तक,agricultural,557.85,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,खरौदी,सड़क के साथ तीन एकड तक,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,खरौदी,सड़क के साथ तीन एकड तक,commercial,2300,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,खेडीदाबन,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,खेडीदाबन,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,खम्बेड़ा,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,खम्बेड़ा,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,खराल,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,खराल,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,खराल,बाढ ग्रस्त एरिया,agricultural,196.28,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,खराल,बाढ ग्रस्त एरिया,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,गढ़ीनजीर,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,गढ़ीनजीर,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,गगड़पुर,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,गगड़पुर,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चाबा,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चाबा,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चाबा,बाढ ग्रस्त एरिया,agricultural,196.28,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चाबा,बाढ ग्रस्त एरिया,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चानचक,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चानचक,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,छन्नाअगरियां,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,छन्नाअगरियां,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,छन्नाजटां,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,छन्नाजटां,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,जोधवा,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,जोधवा,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,टटियाना,चीका से पटियाला रोड पर स्थित,agricultural,650.83,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,टटियाना,चीका से पटियाला रोड पर स्थित,residential,1700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,टटियाना,बाढ़ प्रभावित रकबा,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,टटियाना,बाढ़ प्रभावित रकबा,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,टटियाना,अतिरिक्त चाही भूमि,agricultural,485.54,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,टटियाना,अतिरिक्त चाही भूमि,residential,1700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,डुढवा,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,डुढवा,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,डण्डोता,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,डण्डोता,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,डण्डोता,बाढ़ प्रभावित रकबा मु0न0 1 ता 45,agricultural,196.28,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,डण्डोता,बाढ़ प्रभावित रकबा मु0न0 1 ता 45,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,पीडल,चीका से कैथल मेन रोड,agricultural,609.5,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,पीडल,चीका से कैथल मेन रोड,residential,1700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,पीडल,चीका से कैथल मेन रोड,commercial,3000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,पीडल,मु0नं0 4 व 5 सालम यदि रकबा 1000 वर्गगज से कम,agricultural,609.5,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,पीडल,मु0नं0 4 व 5 सालम यदि रकबा 1000 वर्गगज से कम,residential,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,पीडल,मु0नं0 4 व 5 सालम यदि रकबा 1000 वर्गगज से कम,commercial,6300,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,पीडल,अतिरिक्त चाही भूमि,agricultural,485.54,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,पीडल,अतिरिक्त चाही भूमि,residential,1700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,पापसर,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,पापसर,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,पसावल,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,पसावल,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,पपराला,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,पपराला,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,बदसुई,चाही,agricultural,485.54,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,बदसुई,चाही,residential,1700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,बदसुई,बाड ग्रस्त,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,बदसुई,बाड ग्रस्त,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,बलबेडा,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,बलबेडा,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,बिच्छियां,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,बिच्छियां,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,बुबकपुर,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,बुबकपुर,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,बाऊपुर,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,बाऊपुर,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,बाऊपुर,बाढ ग्रस्त रकबा,agricultural,196.28,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,बाऊपुर,बाढ ग्रस्त रकबा,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,बुढनपुरगुजरां,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,बुढनपुरगुजरां,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,भागल,पहेवा से चीका रोड़,agricultural,454.55,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,भागल,पहेवा से चीका रोड़,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,भागल,30 गज या इससे कम,commercial,2200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,भागल,मुख्य सडक से तीन एकड की दूरी तक,agricultural,454.55,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,भागल,मुख्य सडक से तीन एकड की दूरी तक,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,भागल,बाढ प्रभावित क्षेत्र,agricultural,196.28,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,भागल,बाढ प्रभावित क्षेत्र,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,भागल,चाही भूमि,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,भागल,चाही भूमि,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,भुन्ना,चीका से कैथल मार्ग पर स्थित,agricultural,506.2,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,भुन्ना,चीका से कैथल मार्ग पर स्थित,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,भुन्ना,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,भुन्ना,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,भाटियां,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,भाटियां,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,भाटियां,बाढ ग्रस्त रकबा,agricultural,196.28,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,भाटियां,बाढ ग्रस्त रकबा,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,भुंसला,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,भुंसला,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,भुंसला,बाढग्रस्त,agricultural,196.28,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,भुंसला,बाढग्रस्त,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,मस्तगढ़,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,मस्तगढ़,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,मस्तगढ़,चीका खरकां रोड पर स्थित,agricultural,454.55,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,मस्तगढ़,चीका खरकां रोड पर स्थित,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,माजरी,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,माजरी,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,माजरी,बाढ ग्रस्त रकबा,agricultural,196.28,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,माजरी,बाढ ग्रस्त रकबा,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,मलकपुर,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,मलकपुर,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,मलकपुर,बाढ ग्रस्त,agricultural,196.28,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,मलकपुर,बाढ ग्रस्त,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,मेधामाजरा,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,मेधामाजरा,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,मटकाालियाँ,गुहला खरकां रोड पर स्थित,agricultural,454.55,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,मटकाालियाँ,गुहला खरकां रोड पर स्थित,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,मोहनपुर,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,मोहनपुर,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,मंझड़ी,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,मंझड़ी,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,मैंगड़ा,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,मैंगड़ा,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,महमदपुर,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,महमदपुर,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,माण्डीसदरां,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,माण्डीसदरां,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,रसूलपुर,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,रसूलपुर,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,रामथली,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,रामथली,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,रामथली,चीका खरकां मार्ग सडक से 40 फुट अन्दर,residential,1900,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,रामथली,चीका खरकां मार्ग सडक से 40 फुट अन्दर,commercial,3000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,रामथली,चीका से खरकां तीन एकड दूरी तक,agricultural,454.55,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,रामथली,चीका से खरकां तीन एकड दूरी तक,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,अनाज मण्डी की दुकानें,commercial,12500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,रत्ताखेड़ाकड़ाम,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,रत्ताखेड़ाकड़ाम,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,रत्ताखेड़ाकड़ाम,बाढ ग्रस्त,agricultural,196.28,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,रत्ताखेड़ाकड़ाम,बाढ ग्रस्त,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,रत्ताखेड़ालुकमान,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,रत्ताखेड़ालुकमान,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,रिवाड़जागीर,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,रिवाड़जागीर,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,लालपुर,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,लालपुर,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,लदानाचक्कु,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,लदानाचक्कु,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,लण्डाहेड़ी,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,लण्डाहेड़ी,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,लण्डाहेड़ी,बाढ ग्रस्त,agricultural,196.28,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,लण्डाहेड़ी,बाढ ग्रस्त,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,लोहेड़ी,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,लोहेड़ी,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,सुल्तानीयां,सड़क से तीन एकड़ की दूरी तक,agricultural,454.55,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,सुल्तानीयां,सड़क से तीन एकड़ की दूरी तक,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,सुल्तानीयां,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,सुल्तानीयां,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,सिंहुमाजरा,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,सिंहुमाजरा,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,सिंहुमाजरा,बाढ ग्रस्त रकबा,agricultural,196.28,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,सिंहुमाजरा,बाढ ग्रस्त रकबा,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,शहजादपुर,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,शहजादपुर,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,सिंहाली,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,सिंहाली,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,सदरहेड़ी,चाही,agricultural,309.92,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,सदरहेड़ी,चाही,residential,1700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,सदरहेड़ी,चीका से पटियाला रोड,agricultural,557.85,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,सदरहेड़ी,चीका से पटियाला रोड,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,सदरहेड़ी,चीका से पटियाला रोड,commercial,4000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,सदरहेड़ी,यदि हिस्सा 1000 वर्ग गज से कम,residential,2000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,सदरहेड़ी,बाद ग्रस्त रकबा,agricultural,196.28,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,सदरहेड़ी,बाद ग्रस्त रकबा,residential,1700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,सरावला,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,सरावला,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,सौर,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,सौर,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,शुगलपुर,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,शुगलपुर,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,सरकपुर,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,सरकपुर,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,शादीपुर,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,शादीपुर,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,शादीपुर,बाढ़ ग्रस्त एरिया,agricultural,196.28,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,शादीपुर,बाढ़ ग्रस्त एरिया,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,तारांवाली,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,तारांवाली,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,तारांवाली,चीका से खरकां रोड,agricultural,454.55,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,तारांवाली,चीका से खरकां रोड,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,थेहबिरद,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,थेहबिरद,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,थेहनेवल,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,थेहनेवल,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,थेहबनेड़ा,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,थेहबनेड़ा,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,थेहमुकेरिया,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,थेहमुकेरिया,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,थेहमुकेरिया,चीका कैथल मैन सडक,agricultural,547.52,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,थेहमुकेरिया,चीका कैथल मैन सडक,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,थेहबुटाना,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,थेहबुटाना,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,थेहबुटाना,चीका खरकां रोड पर स्थित,agricultural,485.54,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,थेहबुटाना,चीका खरकां रोड पर स्थित,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,दाबा,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,दाबा,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,दसेरपुर,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,दसेरपुर,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,नन्दगढ़,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,नन्दगढ़,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,हरीगढ़किंगन,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,हरीगढ़किंगन,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,हरीगढ़किंगन,पेहवा चीका रोड पर स्थित,agricultural,547.52,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,हरीगढ़किंगन,पेहवा चीका रोड पर स्थित,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,थेहखरक,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,थेहखरक,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,हंसुमाजरा,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,हंसुमाजरा,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,हेमुमाजरा,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,हेमुमाजरा,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,मच्छरेड़ी,चाही,agricultural,289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,मच्छरेड़ी,चाही,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,गुहलाग्रामीण,30 वर्ग गज व 1 मरला या कम व्यवसायिक,commercial,2200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,गुहलाग्रामीण,1000 वर्ग गज या कम,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,नई अनाज मण्डी कैथल रोड,commercial,50100,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,नई अनाज मण्डी के बुथ,commercial,50100,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,आवास बोर्ड कालौनी रिहायशी,residential,13000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,आवास बोर्ड कालौनी व्यवसायिक,commercial,15000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,रिहायसी क्षेत्र फेज-1,residential,14000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,रिहायसी क्षेत्र फेज-2,residential,14000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,रिहायसी क्षेत्र फेज-3,residential,14000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,रिहायसी क्षेत्र फेज-4,residential,13000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,औद्योगिक क्षेत्र मण्डी टाउनशिप,industrial,13000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,औद्योगिक क्षेत्र मेन चौक पर दुकान,commercial,69000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,औद्योगिक क्षेत्र 50 वर्गगज या कम,industrial,26000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,नई सब्जी मण्डी एस०सी०एफ०,commercial,10500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,नई सब्जी मण्डी बुथ,commercial,20000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,पुराना गांव आबादी देह,residential,5100,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,पेहवा रोड स्टेट हाईवे हंस नगर तक,residential,13000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,पेहवा चौक से हंस नगर तक सड़क से तीन एकड़,residential,6500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,पेहवा चौक से हंस नगर तक सड़क से तीन एकड़,commercial,10000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,हंस नगर से कल्लर माजरा रोड तक सड़क पर,residential,5700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,हंस नगर से कल्लर माजरा रोड तक सड़क पर,commercial,9900,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,हंसनगर से कल्लर माजरा रोड तीन एकड़ दूरी,residential,4700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,हंसनगर से कल्लर माजरा रोड तीन एकड़ दूरी,commercial,7700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,कल्लर माजरा रोड से चीका हद तक सड़क पर,agricultural,795.45,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,कल्लर माजरा रोड से चीका हद तीन एकड़ दूरी,agricultural,619.83,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,चीका से गुहला रोड बिरद थेह से पी०एन०बी० बैंक,residential,14000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,बस स्टैण्ड के पीछे व साथ,residential,9500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,प्रोफेसर कालोनी / वकील कालोनी,residential,12500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,मु० नं० 58/34/35/36/59/27,residential,8000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,मु० नं० 63/33,residential,7700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,चीका से खरौदी रोड व्यवसायिक,commercial,12500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,खरौदी रोड निवासिय,residential,12500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,मु० नं० 101/130/137/164/170/138,residential,10000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,खरोड़ी रोड तीन एकड़ दूरी,agricultural,867.77,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,खरोड़ी रोड तीन एकड़ दूरी यदि रकबा 1000 वर्ग गज से कम,residential,5500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,खरोड़ी रोड तीन एकड़ दूरी यदि रकबा 1000 वर्ग गज से कम,commercial,9900,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,खरोड़ी रोड,agricultural,826.45,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,खरोड़ी रोड यदि रकबा 1000 वर्ग गज से कम,residential,4400,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,खरोड़ी रोड यदि रकबा 1000 वर्ग गज से कम,commercial,9500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,कैथल रोड व्यवसायिक,commercial,25500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,कैथल रोड निवासिय,residential,12500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,कैथल रोड नई कॉलोनी,residential,9500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,मेन रोड से पीछे,residential,8500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,मेन रोड से पीछे,agricultural,867.77,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,कैथल रोड़ शोरूम,commercial,13500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,मु०नं० 163/172 यदि रकबा 1000 वर्ग गज से कम,agricultural,1074.38,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,मु०नं० 163/172 यदि रकबा 1000 वर्ग गज से कम,residential,4000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,मु०नं० 163/172 यदि रकबा 1000 वर्ग गज से कम,commercial,7200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,मु०नं० 173/194/195/172/202 यदि रकबा 1000 वर्ग गज से कम,agricultural,847.11,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,मु०नं० 173/194/195/172/202 यदि रकबा 1000 वर्ग गज से कम,residential,4100,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,मु०नं० 173/194/195/172/202 यदि रकबा 1000 वर्ग गज से कम,commercial,7500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,मु०नं० 103/128/139/162 यदि रकबा 1000 वर्ग गज से कम,agricultural,712.81,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,मु०नं० 103/128/139/162 यदि रकबा 1000 वर्ग गज से कम,residential,4400,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,मु०नं० 103/128/139/162 यदि रकबा 1000 वर्ग गज से कम,commercial,9500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,मु०नं० 203/204 यदि रकबा 1000 वर्ग गज से कम,agricultural,568.18,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,मु०नं० 203/204 यदि रकबा 1000 वर्ग गज से कम,residential,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,मु०नं० 203/204 यदि रकबा 1000 वर्ग गज से कम,commercial,7200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,मु०नं० 218-235 सालम,agricultural,847.11,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,मु०नं० 100/101/130/131 सालम,agricultural,1074.38,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,मु०नं० 10/11/13,agricultural,867.77,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,शक्ति नगर व मिनी बैंक नई कालौनी,residential,5300,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,शक्ति नगर व मिनी बैंक नई कालौनी,commercial,10000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,मु०नं० 103/87/106/127/70/104,residential,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,मु०नं० 103/87/106/127/70/104,commercial,8500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,अम्बा कालोनी (सिनेमा बस्ती),residential,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,कृषि भूमि जहाँ रेट नहीं,agricultural,867.77,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,यदि रकबा 1000 वर्ग गज से कम आवासिय,residential,4500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,गुहला,पक्की सडक पर स्थित,residential,4000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,गुहला,मु०नं० 28/27/29/30,residential,4700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,गुहला,आबादी देह पुराना गांव लाल डोरा,residential,4000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,गुहला,सडक से तीन एकड दूरी,agricultural,661.16,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,गुहला,कृषि भूमि,agricultural,485.54,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,खुशहालमाजरा,मु०नं० 84/85 सालम,residential,5200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,खुशहालमाजरा,मु०नं० 84/85 सालम,commercial,9900,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,खुशहालमाजरा,स्टेट हाइवे पटियाला चीका रोड,residential,6500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,खुशहालमाजरा,स्टेट हाइवे पटियाला चीका रोड,commercial,10000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,खुशहालमाजरा,चीका पटियाला रोड दो एकड़ तक,agricultural,1074.38,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,खुशहालमाजरा,चीका पटियाला रोड दो एकड़ तक,commercial,9900,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,खुशहालमाजरा,यदि रक्बा 1000 वर्ग गज से कम,residential,5100,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,खुशहालमाजरा,मु०नं० 75/71,agricultural,888.43,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,खुशहालमाजरा,मु०नं० 75/71,commercial,7200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,खुशहालमाजरा,मु०नं० 75/71 यदि रक्बा 1000 वर्ग गज से कम,residential,3900,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,खुशहालमाजरा,उक्त नम्बरान को छोड़कर चाही,agricultural,413.22,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,खुशहालमाजरा,आबादी के साथ लगते क्षेत्र डेरा भागसिंह,residential,3700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,खुशहालमाजरा,आबादी के साथ लगते क्षेत्र डेरा भागसिंह,commercial,9000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,खुशहालमाजरा,शेष मु०नं० व किला,residential,2700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,खुशहालमाजरा,शेष मु०नं० व किला,commercial,7200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,सलेमपुर,चीका से गुहला रोड कम्बोज गमडी से गुहला हद,residential,5400,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,सलेमपुर,बिरद थेह रोड से कम्बोज गमडी,residential,4800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,सलेमपुर,कम्बोज गमडी से गुहला हद तीन एकड़ दूरी,agricultural,867.77,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,सलेमपुर,यदि रकवा 1200 वर्ग गज से कम,residential,4000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,सलेमपुर,रिहायशी व कालेज व बिजली घर सामने,residential,4800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,सलेमपुर,स्कूल के साथ व पीछे रिहायशी प्लाट,residential,5500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,सलेमपुर,हनुमान कॉलोनी,residential,5100,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,सलेमपुर,बिरद थेह व कम्बोज गमडी बीच तीन एकड़ कृषि,agricultural,702.48,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,सलेमपुर,यदि रकबा 1000 वर्ग गज से कम,residential,4800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,सलेमपुर,खरौदी रोड,agricultural,764.46,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,सलेमपुर,खरौदी रोड यदि रकबा 1000 वर्ग गज से कम,residential,3600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,सलेमपुर,खरौदी रोड नहर तक तीन एकड़,agricultural,743.8,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,सलेमपुर,खरौदी रोड नहर तक तीन एकड़ यदि रकबा 1000 वर्ग गज से कम,residential,3600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,सलेमपुर,आबादी देह पुराना गांव,residential,3600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,सलेमपुर,शेष मु०नं० प्लाटों की सूरत,residential,3600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,सलेमपुर,कृषि भूमि उक्त मुरब्बा से अलग,agricultural,630.17,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,गुहलाग्रामीण,यदि भूमि 1000 वर्ग गज से कम / गैर मुमकिन,residential,1500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,गुहलाग्रामीण,यदि भूमि 1 मरला से कम व्यवसायिक,commercial,2200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,नगरपालिका में रह गये नम्बर रिहायसी 1000 वर्ग गज से कम,residential,3600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Guhla,चीका,मुख्य सड़कों पर 1 मरला या कम खाली दुकान/प्लाट,commercial,21487.6,2026-04-01,kaithal_gov_in_dc_notification

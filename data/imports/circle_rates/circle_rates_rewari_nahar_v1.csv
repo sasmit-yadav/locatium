@@ -1,0 +1,115 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Rewari,Nahar,Karoli,Up to 2 acre depth,agricultural,590.91,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Karoli,Karoli,agricultural,594.01,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Karoli,Karoli,residential,1870,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Karoli,Karoli,commercial,3300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Kuhad,Up to 2 acre depth,agricultural,590.91,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Kuhad,Kuhad,agricultural,545.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Kuhad,Kuhad,agricultural,590.91,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Kuhad,Kuhad,residential,1650,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Kuhad,Kuhad,commercial,3300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Khurshidnagar,Up to 2 acre depth,agricultural,590.91,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Khurshidnagar,Khurshid Nagar,agricultural,545.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Khurshidnagar,Khurshid Nagar,residential,1650,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Khurshidnagar,Khurshid Nagar,commercial,3300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Khedi,Up to 2 acre depth,agricultural,590.91,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Khedi,Khedi,agricultural,545.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Khedi,Khedi,residential,1650,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Khedi,Khedi,commercial,3300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Gadhi,Up to 2 acre depth,agricultural,590.91,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Gadhi,Gadhi,agricultural,545.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Gadhi,Gadhi,residential,1650,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Gadhi,Gadhi,commercial,3300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Gujarwas,Up to 2 acre depth,agricultural,590.91,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Gujarwas,Gujarwas,agricultural,570.25,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Gujarwas,Gujarwas,residential,1650,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Gujarwas,Gujarwas,commercial,3300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,ChakKharijBahu,Up to 2 acre depth,agricultural,590.91,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,ChakKharijBahu,Chak Kharij Bahu,agricultural,545.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,ChakKharijBahu,Chak Kharij Bahu,residential,1540,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,ChakKharijBahu,Chak Kharij Bahu,commercial,3300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Juddi,Up to 2 acre depth,agricultural,670.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Juddi,Juddi,agricultural,595.04,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Juddi,Juddi,residential,1800,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Juddi,Juddi,commercial,3300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Jhadoda,Up to 2 acre depth,agricultural,590.91,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Jhadoda,Jhadoda,agricultural,545.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Jhadoda,Jhadoda,residential,1650,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Jhadoda,Jhadoda,commercial,3300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Jhal,Up to 2 acre depth,agricultural,772.73,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Jhal,26 K 1,residential,5720,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Jhal,26 K 2,residential,4840,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Jhal,26 K 3,residential,5720,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Jhal,26 K 4,residential,4840,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Jhal,26 Kh 1,residential,1540,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Jhal,26 Kh 2,residential,1870,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Jhal,27 K 2,commercial,990,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Jhal,27 K 1,residential,1320,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Jhal,27 K 3,commercial,770,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Jhal,B P L Palot,residential,1760,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Jhal,Jhal,agricultural,570.25,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Jhal,Jhal,residential,3162.5,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Jhal,Jhal,commercial,3300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Jholri,Up to 2 acre depth,agricultural,590.91,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Jholri,Jholri,agricultural,545.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Jholri,Jholri,residential,1650,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Jholri,Jholri,commercial,3300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Dakhora,Up to 2 acre depth,agricultural,590.91,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Dakhora,Dakhora,agricultural,545.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Dakhora,Dakhora,residential,1650,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Dakhora,Dakhora,commercial,3300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,NayaGaon,Up to 2 acre depth,agricultural,590.91,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,NayaGaon,Naya Gaon,agricultural,545.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,NayaGaon,Naya Gaon,residential,1650,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,NayaGaon,Naya Gaon,commercial,3300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Nangal,Up to 2 acre depth,agricultural,590.91,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Nangal,Nangal,agricultural,545.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Nangal,Nangal,residential,1650,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Nangal,Nangal,commercial,3300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Nahar,Up to 2 acre depth,agricultural,670.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Nahar,Nahar,agricultural,644.63,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Nahar,Nahar,residential,2530,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Nahar,Nahar,commercial,3300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Nehrugarh,Up to 2 acre depth,agricultural,590.91,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Nehrugarh,Up to 2 acre depth,residential,1320,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Nehrugarh,Nehrugarh,agricultural,545.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Nehrugarh,Nehrugarh,residential,1725,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Nehrugarh,Nehrugarh,commercial,3300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Bawwa,Up to 2 acre depth,agricultural,590.91,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Bawwa,Bawwa,agricultural,545.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Bawwa,Bawwa,residential,1650,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Bawwa,Bawwa,commercial,3300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Bahala,Up to 2 acre depth,agricultural,590.91,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Bahala,Bahala,agricultural,545.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Bahala,Bahala,residential,1650,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Bahala,Bahala,commercial,3300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Bisoha,Up to 2 acre depth,agricultural,590.91,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Bisoha,Bisoha,agricultural,545.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Bisoha,Bisoha,residential,1650,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Bisoha,Bisoha,commercial,3300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,BeedSarkar,Beed Sarkar,commercial,3300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Bhadangi,Up to 2 acre depth,agricultural,590.91,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Bhadangi,Bhadangi,agricultural,545.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Bhadangi,Bhadangi,agricultural,590.91,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Bhadangi,Bhadangi,residential,1540,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Bhadangi,Bhadangi,commercial,3300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Mumtajpur,Up to 2 acre depth,agricultural,590.91,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Mumtajpur,Mumtajpur,agricultural,595.04,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Mumtajpur,Mumtajpur,residential,1650,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Mumtajpur,Mumtajpur,commercial,3300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Lilodh,Up to 2 acre depth,agricultural,590.91,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Lilodh,Lilodh,agricultural,545.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Lilodh,Lilodh,agricultural,590.91,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Lilodh,Lilodh,residential,1760,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Lilodh,Lilodh,commercial,3300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Lukhi,Up to 2 acre depth,agricultural,670.45,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Lukhi,Lukhi,agricultural,625.0,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Lukhi,Lukhi,residential,2760,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Lukhi,Lukhi,commercial,3300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Sudhrana,Up to 2 acre depth,agricultural,613.64,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Sudhrana,Sudhrana,agricultural,568.18,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Sudhrana,Sudhrana,residential,1870,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Sudhrana,Sudhrana,commercial,3300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Nahar,Built-up Category A,residential,1300,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Nahar,Built-up Category B,residential,1100,2026-04-01,rewari_gov_in_dc_notification
+Rewari,Nahar,Nahar,Built-up Category C,residential,900,2026-04-01,rewari_gov_in_dc_notification

@@ -9,7 +9,7 @@ import joblib
 import numpy as np
 
 from services.heuristic_scoring import clamp_score, feature_vector
-from services.registry import MODELS_DIR, get_model_entry, is_model_deployed
+from services.registry import MODELS_DIR, get_model_entry, is_model_deployed, min_rows_threshold
 
 _model_cache: Any | None = None
 
@@ -36,8 +36,15 @@ def predict_investment_score(features: dict[str, Any]) -> tuple[int, float]:
     if model is None:
         raise RuntimeError("investment model artifact not found")
 
-    vector = np.array([feature_vector(features)], dtype=np.float32)
-    raw = float(model.predict(vector)[0])
+    vector = feature_vector(features)
+    expected = int(getattr(model, "n_features_in_", len(vector)) or len(vector))
+    if len(vector) > expected:
+        vector = vector[:expected]
+    elif len(vector) < expected:
+        vector = vector + [0.0] * (expected - len(vector))
+
+    arr = np.array([vector], dtype=np.float32)
+    raw = float(model.predict(arr)[0])
     entry = get_model_entry("investment-scoring") or {}
     confidence = float(entry.get("confidence") or 0.85)
     return clamp_score(raw), confidence

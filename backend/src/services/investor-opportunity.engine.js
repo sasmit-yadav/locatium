@@ -4,13 +4,18 @@
 
 const { SCORING_VERSION, clampScore, normalizeSector } = require('./scoring-engine');
 
-const OPPORTUNITY_VERSION = 'investor-v3.1';
+const OPPORTUNITY_VERSION = 'investor-v3.2';
 
 const BUDGET_INR = {
+  micro: { max: 10_000_000 },
   low: { max: 50_000_000 },
   medium: { min: 50_000_000, max: 250_000_000 },
   high: { min: 250_000_000 },
 };
+
+/** Illustrative Haryana conveyance stamp + registration on land consideration (company/default). */
+const HARYANA_STAMP_DUTY_PCT = 0.05;
+const HARYANA_REGISTRATION_PCT = 0.01;
 
 const SQ_YARDS_PER_ACRE = 4840;
 const SQ_FT_PER_SQ_YARD = 9;
@@ -194,8 +199,14 @@ function estimateZoneLandCostInr(zone, landValue, investableArea) {
 }
 
 function landCostBand(landValue) {
-  const low = landValue?.circleRatePerSqYardInr ?? landValue?.estimatedPerSqYardInr;
-  const high = landValue?.estimatedPerSqYardInr ?? landValue?.comparableMedianPerSqYardInr;
+  const low =
+    landValue?.estimatedLowPerSqYardInr ??
+    landValue?.circleRatePerSqYardInr ??
+    landValue?.estimatedPerSqYardInr;
+  const high =
+    landValue?.estimatedHighPerSqYardInr ??
+    landValue?.estimatedPerSqYardInr ??
+    landValue?.comparableMedianPerSqYardInr;
   if (!low && !high) return null;
   return {
     lowPerSqYard: low ? Math.round(low) : null,
@@ -204,7 +215,8 @@ function landCostBand(landValue) {
 }
 
 function budgetFitsInr(landCostInr, budget) {
-  if (!budget || landCostInr == null) return true;
+  if (!budget) return true;
+  if (landCostInr == null || !Number.isFinite(Number(landCostInr))) return false;
   const band = BUDGET_INR[budget];
   if (!band) return true;
   if (band.max != null && landCostInr > band.max) return false;
@@ -212,18 +224,35 @@ function budgetFitsInr(landCostInr, budget) {
   return true;
 }
 
-function budgetFitsAcres(zone, budget) {
-  if (!budget) return true;
-  const acres = Number(zone.areaAcres) || 0;
-  if (budget === 'low') return acres <= 2 || acres === 0;
-  if (budget === 'medium') return acres === 0 || (acres > 0.5 && acres <= 25);
-  if (budget === 'high') return acres === 0 || acres >= 5;
-  return true;
+/** @deprecated acres fallback removed — budget is INR-only. */
+function budgetFitsAcres(_zone, budget) {
+  return !budget;
 }
 
 function landRoiScore(landValue) {
-  if (landValue?.roiProxy == null) return 50;
-  return clampScore(50 + Number(landValue.roiProxy) * 50);
+  const premium = landValue?.marketPremiumVsFloor ?? landValue?.roiProxy;
+  if (premium != null) return clampScore(50 + Number(premium) * 50);
+  if (landValue?.circleRatePerSqYardInr) {
+    if (landValue.confidence === 'high') return 55;
+    if (landValue.confidence === 'medium') return 52;
+    if (landValue.method === 'circle_rate_sector_proxy') return 42;
+    return 48;
+  }
+  if (landValue?.method === 'insufficient_data') return 35;
+  return 50;
+}
+
+function estimateAcquisitionCosts(landCostInr) {
+  if (landCostInr == null || !Number.isFinite(Number(landCostInr))) return null;
+  const stampDutyInr = Math.round(landCostInr * HARYANA_STAMP_DUTY_PCT);
+  const registrationInr = Math.round(landCostInr * HARYANA_REGISTRATION_PCT);
+  return {
+    stampDutyInr,
+    registrationInr,
+    stampDutyPct: HARYANA_STAMP_DUTY_PCT,
+    registrationPct: HARYANA_REGISTRATION_PCT,
+    allInLandCostInr: landCostInr + stampDutyInr + registrationInr,
+  };
 }
 
 function availabilityScore(availability) {
@@ -244,11 +273,13 @@ function buildFinancialPreview(zone, landValue, sector, investableArea) {
   const sqYards = investable?.sqYards ?? (investable?.acres ? investable.acres * SQ_YARDS_PER_ACRE : null);
   const rate = landValue?.estimatedPerSqYardInr ?? landValue?.circleRatePerSqYardInr;
   const landCostInr = rate && sqYards ? Math.round(sqYards * rate) : null;
+  const acquisition = estimateAcquisitionCosts(landCostInr);
+  const allInLand = acquisition?.allInLandCostInr ?? landCostInr;
   const buildRatePerSqFt = normalizeSector(sector) === 'industrial' ? 2500 : 3200;
   const far = normalizeSector(sector) === 'industrial' ? 0.55 : 0.75;
   const buildSqFt = sqYards ? Math.round(sqYards * SQ_FT_PER_SQ_YARD * far) : null;
   const buildCostInr = buildSqFt ? Math.round(buildSqFt * buildRatePerSqFt) : null;
-  const totalCapexInr = landCostInr && buildCostInr ? landCostInr + buildCostInr : landCostInr;
+  const totalCapexInr = allInLand && buildCostInr ? allInLand + buildCostInr : allInLand;
   const yieldPct = normalizeSector(sector) === 'industrial' ? 0.08 : 0.065;
   const annualRentInr = buildSqFt ? Math.round(buildSqFt * 420 * 12) : null;
   const simpleRoiPct =
@@ -257,26 +288,36 @@ function buildFinancialPreview(zone, landValue, sector, investableArea) {
 
   return {
     landCostInr,
+    acquisition,
+    allInLandCostInr: allInLand,
     buildCostInr,
     totalCapexInr,
     buildSqFt,
     investableAcres: investable?.acres ?? null,
     investableAreaSource: investable?.source ?? null,
-    assumptions: { buildRatePerSqFt, far, yieldPct, investableAcres: investable?.acres },
+    assumptions: {
+      buildRatePerSqFt,
+      far,
+      yieldPct,
+      investableAcres: investable?.acres,
+      stampDutyPct: HARYANA_STAMP_DUTY_PCT,
+      registrationPct: HARYANA_REGISTRATION_PCT,
+    },
     scenarios: [
       { label: 'Conservative', roiPct: simpleRoiPct ? Number((simpleRoiPct * 0.75).toFixed(1)) : null },
       { label: 'Base', roiPct: simpleRoiPct },
       { label: 'Optimistic', roiPct: simpleRoiPct ? Number((simpleRoiPct * 1.25).toFixed(1)) : null },
     ],
     paybackYears,
-    disclaimer: 'Illustrative model — not investment advice; validate with local brokers.',
+    disclaimer:
+      'Illustrative model — land uses gov floor + market comps (stamp 5% + registration 1%). Build/rent ROI uses proxy rates, not surveyed rents. Not investment advice.',
   };
 }
 
 const OPPORTUNITY_COMPONENT_LABELS = {
   v3Composite: 'Location quality',
   zoneTypeMatch: 'Sector fit',
-  landRoi: 'Land value outlook',
+  landRoi: 'Market premium vs floor',
   zoneFit: 'Zone compatibility',
   environmentalSuitability: 'Environmental suitability',
   envSuit: 'Environmental suitability',
@@ -325,6 +366,7 @@ function computeOpportunityV3(zone, analysis, landValue, sector, extras = {}, in
 
   const investable = investableArea || zone.investableArea || resolveInvestableArea(zone, extras.plotInventory, sector);
   const landCostInr = estimateZoneLandCostInr(zone, landValue, investable);
+  const acquisition = estimateAcquisitionCosts(landCostInr);
 
   return {
     opportunityScore,
@@ -341,9 +383,14 @@ function computeOpportunityV3(zone, analysis, landValue, sector, extras = {}, in
       utilityScore,
       availability: avail,
       estimatedLandCostInr: landCostInr,
+      estimatedAllInLandCostInr: acquisition?.allInLandCostInr ?? landCostInr,
+      stampDutyInr: acquisition?.stampDutyInr ?? null,
+      registrationInr: acquisition?.registrationInr ?? null,
       investableAcres: investable.acres,
       investableAreaSource: investable.source,
       landPerSqYard: landValue?.estimatedPerSqYardInr ?? landValue?.circleRatePerSqYardInr ?? null,
+      landConfidence: landValue?.confidence ?? null,
+      circleRateEffectiveFrom: landValue?.circleRateEffectiveFrom ?? null,
       cluLabel: analysis?.zoning?.landUseClass || 'unknown',
     },
     investableArea: investable,
@@ -372,6 +419,7 @@ function computeOpportunityV3(zone, analysis, landValue, sector, extras = {}, in
       utilityScore,
       avail,
       landCostInr,
+      allInLandCostInr: acquisition?.allInLandCostInr ?? landCostInr,
       landValue,
       zoning: analysis?.zoning,
     }),
@@ -389,6 +437,7 @@ function buildExplainLines({
   utilityScore,
   avail,
   landCostInr,
+  allInLandCostInr,
   landValue,
   zoning,
 }) {
@@ -398,9 +447,17 @@ function buildExplainLines({
     `Zoning certainty ${cluScore}/100${zoning?.landUseClass ? ` (${zoning.landUseClass})` : ''} · utility readiness ${utilityScore}/100.`,
   ];
   if (landCostInr) {
-    lines.push(`Estimated land cost ~₹${landCostInr.toLocaleString('en-IN')}.`);
+    const allIn = allInLandCostInr && allInLandCostInr !== landCostInr ? allInLandCostInr : null;
+    lines.push(
+      allIn
+        ? `Estimated land ~₹${landCostInr.toLocaleString('en-IN')} (all-in with stamp/reg ~₹${allIn.toLocaleString('en-IN')}).`
+        : `Estimated land cost ~₹${landCostInr.toLocaleString('en-IN')}.`
+    );
   }
-  lines.push(`Land value outlook ${landRoi}/100 · availability ${avail}/100.`);
+  if (landValue?.circleRateEffectiveFrom) {
+    lines.push(`Collector-rate vintage ${landValue.circleRateEffectiveFrom}${landValue.confidence ? ` · ${landValue.confidence} confidence` : ''}.`);
+  }
+  lines.push(`Market premium vs floor ${landRoi}/100 · availability ${avail}/100.`);
   return lines;
 }
 
@@ -430,6 +487,8 @@ function riskFitsV3(analysis, risk) {
 module.exports = {
   OPPORTUNITY_VERSION,
   BUDGET_INR,
+  HARYANA_STAMP_DUTY_PCT,
+  HARYANA_REGISTRATION_PCT,
   SQ_YARDS_PER_ACRE,
   SQM_PER_ACRE,
   MAX_INVESTABLE_ACRES,
@@ -444,6 +503,7 @@ module.exports = {
   buildFinancialPreview,
   buildOpportunityBreakdown,
   estimateZoneLandCostInr,
+  estimateAcquisitionCosts,
   budgetFitsInr,
   budgetFitsAcres,
   computeOpportunityV3,

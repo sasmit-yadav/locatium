@@ -1,0 +1,728 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Mahendragarh,Ateli,Ateli,Ateli Chahi,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ateli,Ateli Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ateli,Ateli Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ateli,Ateli Gair Mumkin,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ateli,Ateli Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ateli,Ateli,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ateli,Ateli,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ateli,National Highway Narnaul-Rewari Road upto 2 Acre Chahi,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ateli,National Highway Narnaul-Rewari Road upto 2 Acre,residential,4840,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ateli,National Highway Narnaul-Rewari Road upto 2 Acre,commercial,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ateli,Ateli Chahi,agricultural,496.59,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ateli,Ateli Nahri,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ateli,Ateli Jhund,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ateli,on Rewari Road till 2 Acre Chahi,agricultural,519.16,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ateli,on Rewari Road till 2 Acre Chahi,agricultural,1912.71,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ateli,on Rewari Road till 2 Acre,residential,1980,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ateli,on Rewari Road till 2 Acre,residential,5420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ateli,on Rewari Road till 2 Acre,commercial,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,AteliMandi,Gas Godown to Railway Patak,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,AteliMandi,Gas Godown to Railway Patak,commercial,56870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,AteliMandi,In Mc main road,residential,11760,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,AteliMandi,In Mc main road MC,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,AteliMandi,In Mc main road,commercial,56870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,AteliMandi,Khor Mor to Dhanunda Apr. Rd,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,AteliMandi,Khor Mor to Dhanunda Apr. Rd,commercial,56870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,AteliMandi,New Anaj Mandi,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,AteliMandi,New Anaj Mandi,commercial,56870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,AteliMandi,Railway Patak to Nangal Mor,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,AteliMandi,Railway Patak to Nangal Mor,commercial,56870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,AteliMandi,Ward No 1,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,AteliMandi,Ward No 1,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,AteliMandi,Ward No 10,residential,8580,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,AteliMandi,Ward No 10,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,AteliMandi,Ward No 11 Gair Mumkin,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,AteliMandi,Ward No 11,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,AteliMandi,Ward No 11 MC,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,AteliMandi,Ward No 11,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,AteliMandi,Ward No 12,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,AteliMandi,Ward No 12,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,AteliMandi,Ward No 2,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,AteliMandi,Ward No 2,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,AteliMandi,Ward No 3,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,AteliMandi,Ward No 3,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,AteliMandi,Ward No 4,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,AteliMandi,Ward No 4,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,AteliMandi,Ward No 5,residential,8580,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,AteliMandi,Ward No 5,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,AteliMandi,Ward No 6,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,AteliMandi,Ward No 6,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,AteliMandi,Ward No 7,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,AteliMandi,Ward No 7,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,AteliMandi,Ward No 8,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,AteliMandi,Ward No 8,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,AteliMandi,Ward No 9,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,AteliMandi,Ward No 9,commercial,53130,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bachhod,Bachhod Chahi,agricultural,706.61,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bachhod,Bachhod Barani,agricultural,463.64,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bachhod,Bachhod Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bachhod,Bachhod Jhund,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bachhod,Bachhod,residential,1980,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bachhod,Bachhod,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bachhod,National Highway Narnaul-Rewari Road upto 2 Acre Chahi,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bachhod,National Highway Narnaul-Rewari Road upto 2 Acre,residential,5060,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bachhod,National Highway Narnaul-Rewari Road upto 2 Acre,commercial,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bachhod,on Rewari Road till 2 Acre Chahi,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bachhod,on Rewari Road till 2 Acre Chahi,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bachhod,on Rewari Road till 2 Acre,residential,2310,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bachhod,on Rewari Road till 2 Acre,residential,6010,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bachhod,on Rewari Road till 2 Acre,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bachhod,on Rewari Road till 2 Acre,commercial,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bazaar,Bazar Chahi,agricultural,490.91,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bazaar,Bazar Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bazaar,Bazar Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bazaar,Bazar Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bazaar,Bazar,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bazaar,Bazar,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bazaar,Hills Khasra Number Pahad,agricultural,2450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bazaar,Hills Khasra Number,residential,4720,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bazaar,Hills Khasra Number,commercial,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bazaar,National Highway Narnaul-Rewari Road upto 2 Acre Chahi,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bazaar,National Highway Narnaul-Rewari Road upto 2 Acre,residential,4840,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bazaar,National Highway Narnaul-Rewari Road upto 2 Acre,commercial,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bazaar,on Rewari Road till 2 Acre Chahi,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bazaar,on Rewari Road till 2 Acre Chahi,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bazaar,on Rewari Road till 2 Acre,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bazaar,on Rewari Road till 2 Acre,residential,4720,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bazaar,on Rewari Road till 2 Acre,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bazaar,on Rewari Road till 2 Acre,commercial,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Begpur,Begpur Chahi,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Begpur,Begpur Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Begpur,Begpur Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Begpur,Begpur Jhund,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Begpur,Begpur,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Begpur,Begpur,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Begpur,National Highway Narnaul-Rewari Road upto 2 Acre Chahi,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Begpur,National Highway Narnaul-Rewari Road upto 2 Acre,residential,4840,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Begpur,National Highway Narnaul-Rewari Road upto 2 Acre,commercial,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Begpur,on Rewari Road till 2 Acre Chahi,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Begpur,on Rewari Road till 2 Acre Chahi,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Begpur,on Rewari Road till 2 Acre,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Begpur,on Rewari Road till 2 Acre,residential,4720,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Begpur,on Rewari Road till 2 Acre,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Begpur,on Rewari Road till 2 Acre,commercial,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bhilwara,Bhilwara Chahi,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bhilwara,Bhilwara Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bhilwara,Bhilwara Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bhilwara,Bhilwara Gair Mumkin,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bhilwara,Bhilwara Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bhilwara,Bhilwara,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bhilwara,Bhilwara,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bhilwara,National Highway Narnaul-Rewari Road upto 2 Acre Chahi,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bhilwara,National Highway Narnaul-Rewari Road upto 2 Acre,residential,4840,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bhilwara,National Highway Narnaul-Rewari Road upto 2 Acre,commercial,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bhilwara,on Rewari Road till 2 Acre Chahi,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bhilwara,on Rewari Road till 2 Acre Chahi,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bhilwara,on Rewari Road till 2 Acre,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bhilwara,on Rewari Road till 2 Acre,residential,4720,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bhilwara,on Rewari Road till 2 Acre,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bhilwara,on Rewari Road till 2 Acre,commercial,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bihali,Bihali Chahi,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bihali,Bihali Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bihali,Bihali Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bihali,Bihali Gair Mumkin,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bihali,Bihali Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bihali,Bihali,residential,1900,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bihali,Bihali,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bihali,Hills Khasra Number Pahad,agricultural,2450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bihali,Hills Khasra Number,residential,4720,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bihali,Hills Khasra Number,commercial,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bihali,On Bahror Road till 2 acre Chahi,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bihali,On Bahror Road till 2 acre Chahi,agricultural,2450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bihali,On Bahror Road till 2 acre,residential,1980,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bihali,On Bahror Road till 2 acre,residential,5150,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bihali,On Bahror Road till 2 acre,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bihali,On Bahror Road till 2 acre,commercial,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bochariya,Bochariya Chahi,agricultural,641.53,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bochariya,Bochariya Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bochariya,Bochariya Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bochariya,Bochariya Jhund,agricultural,579.55,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bochariya,Bochariya,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bochariya,Bochariya,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bochariya,National Highway Narnaul-Rewari Road upto 2 Acre Chahi,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bochariya,National Highway Narnaul-Rewari Road upto 2 Acre,residential,4840,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bochariya,National Highway Narnaul-Rewari Road upto 2 Acre,commercial,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bochariya,on Rewari Road till 2 Acre Chahi,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bochariya,on Rewari Road till 2 Acre Chahi,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bochariya,on Rewari Road till 2 Acre Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bochariya,on Rewari Road till 2 Acre Jhund,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bochariya,on Rewari Road till 2 Acre,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bochariya,on Rewari Road till 2 Acre,residential,4720,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bochariya,on Rewari Road till 2 Acre,commercial,3800,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bochariya,on Rewari Road till 2 Acre,commercial,7590,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bohari,Bohri Chahi,agricultural,490.91,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bohari,Bohri Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bohari,Bohri Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bohari,Bohri Gair Mumkin,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bohari,Bohri Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bohari,Bohri,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Bohari,Bohri,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Chandpura,Chandpura Chahi,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Chandpura,Chandpura Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Chandpura,Chandpura Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Chandpura,Chandpura Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Chandpura,Chandpura,residential,2700,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Chandpura,Chandpura,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Chandpura,National Highway Narnaul-Rewari Road upto 2 Acre Chahi,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Chandpura,National Highway Narnaul-Rewari Road upto 2 Acre,residential,5280,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Chandpura,National Highway Narnaul-Rewari Road upto 2 Acre,commercial,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Chandpura,on Rewari Road till 2 Acre Chahi,agricultural,2045.45,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Chandpura,on Rewari Road till 2 Acre,residential,5150,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Chandpura,on Rewari Road till 2 Acre,commercial,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Chandpura,on Rewari Road within 2 Acre Chahi,agricultural,1875.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Chandpura,on Rewari Road within 2 Acre,residential,4720,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Chandpura,on Rewari Road within 2 Acre,commercial,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,ChhapraSalimpur,Chhapra Salimpur Chahi,agricultural,518.18,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,ChhapraSalimpur,Chhapra Salimpur Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,ChhapraSalimpur,Chhapra Salimpur Banjar,agricultural,436.36,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,ChhapraSalimpur,Chhapra Salimpur Jhund,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,ChhapraSalimpur,Chhapra Salimpur,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,ChhapraSalimpur,Chhapra Salimpur,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Dhanunda,Dhanunda Chahi,agricultural,780.99,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Dhanunda,Dhanunda Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Dhanunda,Dhanunda Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Dhanunda,Dhanunda Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Dhanunda,Dhanunda,residential,2310,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Dhanunda,Dhanunda,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Dhanunda,In mc main road,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Dhanunda,In mc main road,commercial,56870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Dhanunda,Khor mor to dhanunda Chahi,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Dhanunda,Khor mor to dhanunda,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Dhanunda,Khor mor to dhanunda,commercial,56870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Dhanunda,National Highway Narnaul-Rewari Road upto 2 Acre Chahi,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Dhanunda,National Highway Narnaul-Rewari Road upto 2 Acre,residential,4840,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Dhanunda,National Highway Narnaul-Rewari Road upto 2 Acre,commercial,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Dhanunda,on Rewari Road till 2 Acre Chahi,agricultural,715.91,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Dhanunda,on Rewari Road till 2 Acre Chahi,agricultural,2556.82,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Dhanunda,on Rewari Road till 2 Acre,residential,2310,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Dhanunda,on Rewari Road till 2 Acre,residential,6320,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Dhanunda,on Rewari Road till 2 Acre,commercial,3960,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Dhanunda,on Rewari Road till 2 Acre,commercial,9240,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Dhanunda,Ward No 1,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Dhanunda,Ward No 1,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Dhanunda,Ward No 10,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Dhanunda,Ward No 10,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Dhanunda,Ward No 11,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Dhanunda,Ward No 11,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Dhanunda,Ward No 12,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Dhanunda,Ward No 12,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Dhanunda,Ward No 2,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Dhanunda,Ward No 2,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Dhanunda,Ward No 3,residential,8600,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Dhanunda,Ward No 3,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Dhanunda,Ward No 4,residential,10010,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Dhanunda,Ward No 4,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Dhanunda,Ward No 5,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Dhanunda,Ward No 5,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Dhanunda,Ward No 6,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Dhanunda,Ward No 6,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Dhanunda,Ward No 7,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Dhanunda,Ward No 7,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Dhanunda,Ward No 8,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Dhanunda,Ward No 8,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Dhanunda,Ward No 9,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Dhanunda,Ward No 9,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Duloth,Duloth Jat Chahi,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Duloth,Duloth Jat Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Duloth,Duloth Jat Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Duloth,Duloth Jat Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Duloth,Duloth Jat,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Duloth,Duloth Jat,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Fatehpur,Fatehpur Chahi,agricultural,470.45,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Fatehpur,Fatehpur Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Fatehpur,Fatehpur Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Fatehpur,Fatehpur Gair Mumkin,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Fatehpur,Fatehpur Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Fatehpur,Fatehpur,residential,2700,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Fatehpur,Fatehpur,residential,7020,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Fatehpur,Fatehpur,commercial,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Fatehpur,on Rewari Road till 2 Acre Chahi,agricultural,535.54,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Fatehpur,on Rewari Road till 2 Acre Chahi,agricultural,2082.64,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Fatehpur,on Rewari Road till 2 Acre,residential,4720,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Fatehpur,on Rewari Road till 2 Acre,commercial,3960,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Fatehpur,on Rewari Road till 2 Acre,commercial,7920,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ganiyar,Ganiyar Chahi,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ganiyar,Ganiyar Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ganiyar,Ganiyar Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ganiyar,Ganiyar Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ganiyar,Ganiyar,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ganiyar,Ganiyar,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ganiyar,Hills Khasra Number Chahi,agricultural,2450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ganiyar,Hills Khasra Number,residential,4720,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ganiyar,Hills Khasra Number,commercial,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Girdharpur,Girdharpur Chahi,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Girdharpur,Girdharpur Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Girdharpur,Girdharpur Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Girdharpur,Girdharpur Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Girdharpur,Girdharpur,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Girdharpur,Girdharpur,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Gokalpur,Gokalpur Chahi,agricultural,490.91,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Gokalpur,Gokalpur Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Gokalpur,Gokalpur Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Gokalpur,Gokalpur Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Gokalpur,Gokalpur,residential,2520,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Gokalpur,Gokalpur,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Gokalpur,National Highway Narnaul-Rewari Road upto 2 Acre Chahi,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Gokalpur,National Highway Narnaul-Rewari Road upto 2 Acre,residential,4840,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Gokalpur,National Highway Narnaul-Rewari Road upto 2 Acre,commercial,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Gokalpur,on Rewari Road till 2 Acre Chahi,agricultural,669.42,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Gokalpur,on Rewari Road till 2 Acre Chahi,agricultural,2603.31,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Gokalpur,on Rewari Road till 2 Acre,residential,1980,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Gokalpur,on Rewari Road till 2 Acre,residential,5150,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Gokalpur,on Rewari Road till 2 Acre,commercial,3960,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Gokalpur,on Rewari Road till 2 Acre,commercial,7920,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Gujarwas,Gujarwas Chahi,agricultural,470.45,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Gujarwas,Gujarwas Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Gujarwas,Gujarwas Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Gujarwas,Gujarwas Gair Mumkin,residential,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Gujarwas,Gujarwas Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Gujarwas,Gujarwas,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Gujarwas,Gujarwas,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Hasanpur,Hasanpur Chahi,agricultural,490.91,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Hasanpur,Hasanpur Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Hasanpur,Hasanpur Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Hasanpur,Hasanpur Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Hasanpur,Hasanpur,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Hasanpur,Hasanpur,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kanti,Hills Khasra Number Chahi,agricultural,2450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kanti,Hills Khasra Number,residential,4720,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kanti,Hills Khasra Number,commercial,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kanti,Kanti Chahi,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kanti,Kanti Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kanti,Kanti Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kanti,Kanti Gair Mumkin,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kanti,Kanti Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kanti,Kanti,residential,2150,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kanti,Kanti,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kanti,On Bahror Road till 2 acre Chahi,agricultural,1000.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kanti,On Bahror Road till 2 acre Barani,agricultural,1000.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kanti,On Bahror Road till 2 acre Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kanti,On Bahror Road till 2 acre Jhund,agricultural,1000.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kanti,On Bahror Road till 2 acre,residential,2700,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kanti,On Bahror Road till 2 acre,residential,7020,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kanti,On Bahror Road till 2 acre,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kanti,On Bahror Road till 2 acre,commercial,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kanti,On Bahror Road within 2 acre Chahi,agricultural,490.91,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kanti,On Bahror Road within 2 acre Chahi,agricultural,1090.91,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kanti,On Bahror Road within 2 acre Barani,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kanti,On Bahror Road within 2 acre Barani,agricultural,1000.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kariya,Kariya Chahi,agricultural,470.45,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kariya,Kariya Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kariya,Kariya Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kariya,Kariya Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kariya,Kariya,residential,2340,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kariya,Kariya,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kariya,On Kanina Road till 2 acre Chahi,agricultural,490.91,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kariya,On Kanina Road till 2 acre Chahi,agricultural,1200.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kariya,On Kanina Road till 2 acre Barani,agricultural,1100.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kariya,On Kanina Road till 2 acre,residential,1980,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kariya,On Kanina Road till 2 acre,residential,5280,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kariya,On Kanina Road till 2 acre,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kariya,On Kanina Road till 2 acre,commercial,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Katkai,Katkai Chahi,agricultural,470.45,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Katkai,Katkai Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Katkai,Katkai Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Katkai,Katkai Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Katkai,Katkai,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Katkai,Katkai,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khairani,Khairani Chahi,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khairani,Khairani Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khairani,Khairani Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khairani,Khairani Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khairani,Khairani,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khairani,Khairani,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khairani,On Kanina Road till 2 acre Chahi,agricultural,490.91,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khairani,On Kanina Road till 2 acre Chahi,agricultural,1200.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khairani,On Kanina Road till 2 acre,residential,4840,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khairani,On Kanina Road till 2 acre,commercial,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khariwara,Khariwara Chahi,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khariwara,Khariwara Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khariwara,Khariwara Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khariwara,Khariwara Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khariwara,Khariwara,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khariwara,Khariwara,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kheri,Kheri Chahi,agricultural,535.54,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kheri,Kheri Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kheri,Kheri Barani,agricultural,825.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kheri,Kheri Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kheri,Kheri Gair Mumkin,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kheri,Kheri Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kheri,Kheri,residential,1980,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kheri,Kheri,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kheri,On Bahror Road till 2 acre Chahi,agricultural,490.91,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kheri,On Bahror Road till 2 acre Chahi,agricultural,900.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kheri,On Bahror Road till 2 acre Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kheri,On Bahror Road till 2 acre Barani,agricultural,825.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kheri,On Bahror Road till 2 acre,residential,1980,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kheri,On Bahror Road till 2 acre,residential,5150,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kheri,On Bahror Road till 2 acre,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kheri,On Bahror Road till 2 acre,commercial,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khor,In mc main road,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khor,In mc main road,commercial,56870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khor,Khor Chahi,agricultural,659.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khor,Khor Barani,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khor,Khor Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khor,Khor Gair Mumkin,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khor,Khor Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khor,Khor,residential,2700,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khor,Khor,commercial,5400,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khor,Khor Highway Chahi,agricultural,518.18,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khor,National Highway Narnaul-Rewari Road upto 2 Acre Chahi,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khor,National Highway Narnaul-Rewari Road upto 2 Acre,residential,4840,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khor,National Highway Narnaul-Rewari Road upto 2 Acre,commercial,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khor,on Kanina Road till 2 acre Chahi,agricultural,2049.33,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khor,on Kanina Road till 2 acre,residential,5150,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khor,on Kanina Road till 2 acre,residential,5550,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khor,on Kanina Road till 2 acre,commercial,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khor,on Rewari Road till 2 Acre Chahi,agricultural,1875.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khor,on Rewari Road till 2 Acre,residential,5090,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khor,on Rewari Road till 2 Acre,commercial,11550,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khor,Ward No 1,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khor,Ward No 1,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khor,Ward No 10,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khor,Ward No 10,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khor,Ward No 11,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khor,Ward No 11,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khor,Ward No 12,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khor,Ward No 12,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khor,Ward No 2,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khor,Ward No 2,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khor,Ward No 3,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khor,Ward No 3,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khor,Ward No 4,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khor,Ward No 4,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khor,Ward No 5,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khor,Ward No 5,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khor,Ward No 6,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khor,Ward No 6,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khor,Ward No 7,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khor,Ward No 7,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khor,Ward No 8,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khor,Ward No 8,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khor,Ward No 9,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Khor,Ward No 9,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kunjpura,Kunjpura Chahi,agricultural,555.99,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kunjpura,Kunjpura Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kunjpura,Kunjpura Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kunjpura,Kunjpura Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kunjpura,Kunjpura,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Kunjpura,Kunjpura,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Mahasar,Mahasar Chahi,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Mahasar,Mahasar Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Mahasar,Mahasar Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Mahasar,Mahasar Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Mahasar,Mahasar,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Mahasar,Mahasar,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Mahasar,On Kanina Road till 2 acre Chahi,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Mahasar,On Kanina Road till 2 acre Chahi,agricultural,1100.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Mahasar,On Kanina Road till 2 acre,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Mahasar,On Kanina Road till 2 acre,residential,4840,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Mahasar,On Kanina Road till 2 acre,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Mahasar,On Kanina Road till 2 acre,commercial,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Meerpur,On Bahror Road till 2 acre Chahi,agricultural,535.54,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Meerpur,On Bahror Road till 2 acre Chahi,agricultural,1190.08,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Meerpur,On Bahror Road till 2 acre Gair Mumkin,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Meerpur,On Bahror Road till 2 acre,residential,4720,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Meerpur,On Bahror Road till 2 acre,commercial,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Meerpur,Meerpur Chahi,agricultural,613.64,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Meerpur,Meerpur Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Meerpur,Meerpur Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Meerpur,Meerpur Gair Mumkin,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Meerpur,Meerpur Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Meerpur,Meerpur,residential,2520,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Meerpur,Meerpur,commercial,4950,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Mirzapur,Mirzapur Chahi,agricultural,706.61,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Mirzapur,Mirzapur Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Mirzapur,Mirzapur Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Mirzapur,Mirzapur Gair Mumkin,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Mirzapur,Mirzapur Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Mirzapur,Mirzapur,residential,2340,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Mirzapur,Mirzapur,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Mirzapur,National Highway Narnaul-Rewari Road upto 2 Acre Chahi,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Mirzapur,National Highway Narnaul-Rewari Road upto 2 Acre,residential,4840,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Mirzapur,National Highway Narnaul-Rewari Road upto 2 Acre,commercial,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Mirzapur,on Rewari Road till 2 Acre Chahi,agricultural,561.36,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Mirzapur,on Rewari Road till 2 Acre Chahi,agricultural,2068.18,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Mirzapur,on Rewari Road till 2 Acre,residential,4720,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Mirzapur,on Rewari Road till 2 Acre,commercial,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Mohalra,Mohalra Chahi,agricultural,669.42,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Mohalra,Mohalra Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Mohalra,Mohalra Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Mohalra,Mohalra Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Mohalra,Mohalra,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Mohalra,Mohalra,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Mohalra,On Kanina Road till 2 acre Chahi,agricultural,1100.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Mohalra,On Kanina Road till 2 acre,residential,4840,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Mohalra,On Kanina Road till 2 acre,commercial,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Mohamadpur,Mohamadpur Chahi,agricultural,470.45,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Mohamadpur,Mohamadpur Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Mohamadpur,Mohamadpur Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Mohamadpur,Mohamadpur Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Mohamadpur,Mohamadpur,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Mohamadpur,Mohamadpur,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nangal,Ateli to Kanina and Bahror road Barani,agricultural,1650.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nangal,Ateli to Kanina and Bahror road,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nangal,Ateli to Kanina and Bahror road,commercial,56870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nangal,In mc main road Chahi,agricultural,1650.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nangal,In mc main road,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nangal,In mc main road,commercial,56870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nangal,Nangal Chahi,agricultural,748.45,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nangal,Nangal Barani,agricultural,444.32,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nangal,Nangal Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nangal,Nangal Jhund,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nangal,Nangal,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nangal,Nangal,commercial,3800,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nangal,On Bahror Road till 2 acre Chahi,agricultural,620.45,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nangal,On Bahror Road till 2 acre Chahi,agricultural,1950.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nangal,On Bahror Road till 2 acre Barani,agricultural,1650.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nangal,On Bahror Road till 2 acre,residential,5190,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nangal,On Bahror Road till 2 acre,commercial,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nangal,Ward No 1,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nangal,Ward No 1,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nangal,Ward No 10,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nangal,Ward No 10,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nangal,Ward No 11,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nangal,Ward No 11,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nangal,Ward No 12,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nangal,Ward No 12,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nangal,Ward No 2,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nangal,Ward No 2,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nangal,Ward No 3,residential,10730,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nangal,Ward No 3,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nangal,Ward No 4,residential,8230,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nangal,Ward No 4,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nangal,Ward No 5,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nangal,Ward No 5,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nangal,Ward No 6,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nangal,Ward No 6,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nangal,Ward No 7,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nangal,Ward No 7,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nangal,Ward No 8,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nangal,Ward No 8,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nangal,Ward No 9,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nangal,Ward No 9,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nawdi,Nawdi Chahi,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nawdi,Nawdi Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nawdi,Nawdi Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nawdi,Nawdi Gair Mumkin,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nawdi,Nawdi Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nawdi,Nawdi,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Nawdi,Nawdi,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Prithvipura,Prithvipura Chahi,agricultural,490.91,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Prithvipura,Prithvipura Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Prithvipura,Prithvipura Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Prithvipura,Prithvipura Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Prithvipura,Prithvipura,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Prithvipura,Prithvipura,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Rajpura,Rajpura Chahi,agricultural,490.91,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Rajpura,Rajpura Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Rajpura,Rajpura Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Rajpura,Rajpura Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Rajpura,Rajpura,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Rajpura,Rajpura,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Rampura,Hills Khasra Number Pahad,agricultural,2450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Rampura,Hills Khasra Number,residential,4720,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Rampura,Hills Khasra Number,commercial,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Rampura,Rampura Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Rampura,Rampura Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Rampura,Rampura Gair Mumkin,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Rampura,Rampura Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Rampura,Rampura,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Rampura,Rampura,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ratakalan,On Kanina Road till 2 acre Chahi,agricultural,1100.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ratakalan,On Kanina Road till 2 acre,residential,4840,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ratakalan,On Kanina Road till 2 acre,commercial,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ratakalan,On Kanina Road till bothside upto 2 acre Chahi,agricultural,1100.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ratakalan,On Kanina Road till bothside upto 2 acre Barani,agricultural,1100.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ratakalan,On Kanina Road till bothside upto 2 acre,residential,4840,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ratakalan,On Kanina Road till bothside upto 2 acre,commercial,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ratakalan,Rata Kalan Chahi,agricultural,490.91,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ratakalan,Rata Kalan Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ratakalan,Rata Kalan Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ratakalan,Rata Kalan Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ratakalan,Rata Kalan,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ratakalan,Rata Kalan,commercial,3960,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ratakhurd,On Kanina Road till 2 acre Chahi,agricultural,1100.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ratakhurd,On Kanina Road till 2 acre,residential,4840,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ratakhurd,On Kanina Road till 2 acre,commercial,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ratakhurd,Rata Khurd Chahi,agricultural,613.64,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ratakhurd,Rata Khurd Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ratakhurd,Rata Khurd Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ratakhurd,Rata Khurd Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ratakhurd,Rata Khurd,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ratakhurd,Rata Khurd,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ruthalgarhi,On Kanina Road till 2 acre Chahi,agricultural,1100.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ruthalgarhi,On Kanina Road till 2 acre,residential,4840,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ruthalgarhi,On Kanina Road till 2 acre,commercial,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ruthalgarhi,Ruthal Garhi Chahi,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ruthalgarhi,Ruthal Garhi Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ruthalgarhi,Ruthal Garhi Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ruthalgarhi,Ruthal Garhi Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ruthalgarhi,Ruthal Garhi,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Ruthalgarhi,Ruthal Garhi,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Sagarpur,National Highway Narnaul-Rewari Road upto 2 Acre Chahi,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Sagarpur,National Highway Narnaul-Rewari Road upto 2 Acre,residential,4840,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Sagarpur,National Highway Narnaul-Rewari Road upto 2 Acre,commercial,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Sagarpur,Sagarpur Chahi,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Sagarpur,Sagarpur Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Sagarpur,Sagarpur Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Sagarpur,Sagarpur Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Sagarpur,Sagarpur,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Sagarpur,Sagarpur,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Saidpur,On Bahror Road till 2 acre Chahi,agricultural,1100.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Saidpur,On Bahror Road till 2 acre,residential,4970,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Saidpur,On Bahror Road till 2 acre,commercial,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Saidpur,On Rewari Road till 2 acre Chahi,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Saidpur,On Rewari Road till 2 acre,residential,4720,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Saidpur,On Rewari Road till 2 acre,commercial,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Saidpur,Saidpur Chahi,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Saidpur,Saidpur Nahri,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Saidpur,Saidpur Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Saidpur,Saidpur Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Saidpur,Saidpur,residential,1900,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Saidpur,Saidpur,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Salimpur,On Kanina Road Bothside till 2 acre Chahi,agricultural,1100.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Salimpur,On Kanina Road Bothside till 2 acre,residential,4840,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Salimpur,On Kanina Road Bothside till 2 acre,commercial,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Salimpur,On Kanina Road till 2 acre Chahi,agricultural,1100.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Salimpur,On Kanina Road till 2 acre,residential,4840,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Salimpur,On Kanina Road till 2 acre,commercial,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Salimpur,Salimpur Chahi,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Salimpur,Salimpur Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Salimpur,Salimpur Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Salimpur,Salimpur Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Salimpur,Salimpur,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Salimpur,Salimpur,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,SaraiBahadurnagar,National Highway Narnaul-Rewari Road upto 2 Acre Chahi,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,SaraiBahadurnagar,National Highway Narnaul-Rewari Road upto 2 Acre,residential,4840,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,SaraiBahadurnagar,National Highway Narnaul-Rewari Road upto 2 Acre,commercial,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,SaraiBahadurnagar,on Rewari Road till 2 Acre Chahi,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,SaraiBahadurnagar,on Rewari Road till 2 Acre Chahi,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,SaraiBahadurnagar,on Rewari Road till 2 Acre Jhund,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,SaraiBahadurnagar,on Rewari Road till 2 Acre,residential,4720,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,SaraiBahadurnagar,on Rewari Road till 2 Acre,commercial,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,SaraiBahadurnagar,Sarai Bahadur Nagar Chahi,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,SaraiBahadurnagar,Sarai Bahadur Nagar Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,SaraiBahadurnagar,Sarai Bahadur Nagar Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,SaraiBahadurnagar,Sarai Bahadur Nagar Jhund,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,SaraiBahadurnagar,Sarai Bahadur Nagar,residential,1980,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,SaraiBahadurnagar,Sarai Bahadur Nagar,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Shyampura,Shyampura Chahi,agricultural,531.82,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Shyampura,Shyampura Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Shyampura,Shyampura Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Shyampura,Shyampura Gair Mumkin,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Shyampura,Shyampura Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Shyampura,Shyampura,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Shyampura,Shyampura,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Silarpur,Silarpur Chahi,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Silarpur,Silarpur Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Silarpur,Silarpur Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Silarpur,Silarpur Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Silarpur,Silarpur,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Silarpur,Silarpur,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Sujapur,National Highway Narnaul-Rewari Road upto 2 Acre Chahi,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Sujapur,National Highway Narnaul-Rewari Road upto 2 Acre,residential,4840,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Sujapur,National Highway Narnaul-Rewari Road upto 2 Acre,commercial,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Sujapur,on Rewari Road till 2 Acre Chahi,agricultural,2386.36,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Sujapur,on Rewari Road till 2 Acre,residential,4720,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Sujapur,on Rewari Road till 2 Acre,commercial,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Sujapur,Sujapur Chahi,agricultural,613.64,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Sujapur,Sujapur Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Sujapur,Sujapur Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Sujapur,Sujapur Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Sujapur,Sujapur,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Sujapur,Sujapur,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Surani,National Highway Narnaul-Rewari Road upto 2 Acre Chahi,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Surani,National Highway Narnaul-Rewari Road upto 2 Acre,residential,4840,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Surani,National Highway Narnaul-Rewari Road upto 2 Acre,commercial,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Surani,on Rewari Road till 2 Acre Chahi,agricultural,613.64,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Surani,on Rewari Road till 2 Acre Chahi,agricultural,2386.36,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Surani,on Rewari Road till 2 Acre,residential,1980,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Surani,on Rewari Road till 2 Acre,residential,5150,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Surani,on Rewari Road till 2 Acre,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Surani,on Rewari Road till 2 Acre,commercial,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Surani,Surani Chahi,agricultural,490.91,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Surani,Surani Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Surani,Surani Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Surani,Surani Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Surani,Surani,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Surani,Surani,commercial,4290,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tajpur,on Rewari Road till 2 Acre Chahi,agricultural,572.73,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tajpur,on Rewari Road till 2 Acre Chahi,agricultural,2227.27,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tajpur,on Rewari Road till 2 Acre,residential,1980,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tajpur,on Rewari Road till 2 Acre,residential,5150,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tajpur,on Rewari Road till 2 Acre,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tajpur,on Rewari Road till 2 Acre,commercial,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tajpur,Tajpur Chahi,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tajpur,Tajpur Nahri,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tajpur,Tajpur Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tajpur,Tajpur Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tajpur,Tajpur Gair Mumkin,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tajpur,Tajpur Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tajpur,Tajpur,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tajpur,Tajpur,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tigra,Tigra Chahi,agricultural,470.45,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tigra,Tigra Barani,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tigra,Tigra Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tigra,Tigra Gair Mumkin,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tigra,Tigra Jhund,agricultural,425.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tigra,Tigra,residential,2250,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tigra,Tigra,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tobra,Bus Stand to Kanina Road,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tobra,Bus Stand to Kanina Road,commercial,56870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tobra,In mc main road,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tobra,In mc main road,commercial,56870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tobra,New Anaj Mandi,residential,12600,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tobra,New Anaj Mandi,commercial,56870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tobra,on Rewari Road till 2 Acre Chahi,agricultural,636.36,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tobra,on Rewari Road till 2 Acre Chahi,agricultural,2386.36,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tobra,on Rewari Road till 2 Acre,residential,5190,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tobra,on Rewari Road till 2 Acre,commercial,12080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tobra,Railway phatak to Nangal mor,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tobra,Railway phatak to Nangal mor,commercial,56870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tobra,Tobra Chahi,agricultural,694.21,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tobra,Tobra Chahi,agricultural,2603.31,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tobra,Tobra Barani,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tobra,Tobra Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tobra,Tobra Gair Mumkin,residential,1820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tobra,Tobra Jhund,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tobra,Tobra,residential,2520,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tobra,Tobra,commercial,3630,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tobra,Ward No 1,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tobra,Ward No 1,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tobra,Ward No 10,residential,8580,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tobra,Ward No 10,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tobra,Ward No 11,residential,10730,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tobra,Ward No 11 MC,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tobra,Ward No 11,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tobra,Ward No 12,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tobra,Ward No 12,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tobra,Ward No 2,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tobra,Ward No 2,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tobra,Ward No 3,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tobra,Ward No 3,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tobra,Ward No 4,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tobra,Ward No 4,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tobra,Ward No 5,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tobra,Ward No 5,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tobra,Ward No 6,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tobra,Ward No 6,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tobra,Ward No 7,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tobra,Ward No 7,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tobra,Ward No 8,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tobra,Ward No 8,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tobra,Ward No 9,residential,7870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Tobra,Ward No 9,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Uninda,National Highway Narnaul-Rewari Road upto 2 Acre Chahi,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Uninda,National Highway Narnaul-Rewari Road upto 2 Acre,residential,4840,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Uninda,National Highway Narnaul-Rewari Road upto 2 Acre,commercial,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Uninda,on Rewari Road till 2 Acre Chahi,agricultural,1875.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Uninda,on Rewari Road till 2 Acre,residential,4970,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Uninda,on Rewari Road till 2 Acre,commercial,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Uninda,Uninda Chahi,agricultural,715.91,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Uninda,Uninda Barani,agricultural,475.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Uninda,Uninda Banjar,agricultural,400.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Uninda,Uninda Jhund,agricultural,500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Uninda,Uninda,residential,2420,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Ateli,Uninda,Uninda,commercial,4290,2026-04-01,mahendragarh_gov_in_dc_notification

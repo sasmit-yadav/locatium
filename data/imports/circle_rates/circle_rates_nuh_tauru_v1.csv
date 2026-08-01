@@ -1,0 +1,386 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Nuh,Tauru,Atitka,Atitka,agricultural,1214.88,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Atitka,Atitka,residential,3850,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Atitka,Atitka,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Uton,Up to two acres with road,agricultural,1590.91,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Uton,Up to one acre with road,agricultural,1663.22,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Uton,Uton,agricultural,1451.76,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Uton,Uton,residential,3520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Uton,Uton,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Kalwari,Kalwari,agricultural,2198.35,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Kalwari,Kalwari,residential,8251.25,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Kalwari,Kalwari,commercial,5170,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Kalwari,Sadak Ka Saath 1 Akar Tak,agricultural,2418.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Kalwari,State Highway Ka Saath Lagi Hue,agricultural,2418.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Kaliyaka,Kaliyaka,agricultural,1071.59,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Kaliyaka,Kaliyaka,residential,3520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Kaliyaka,Kaliyaka,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Kangarka,Sadak Ka Saath 2 Akar Tak,agricultural,1231.4,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Kangarka,Adjoining the State Highway,agricultural,1500.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Kangarka,Kangarka,agricultural,1068.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Kangarka,Kangarka,residential,3520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Kangarka,Kangarka,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Kalpuri,Upto two acres along the road,agricultural,1318.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Kalpuri,Kalpuri,agricultural,1378.1,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Kalpuri,Kalpuri,agricultural,1590.91,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Kalpuri,Kalpuri,residential,4510,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Kalpuri,Kalpuri,commercial,5170,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,KotaKhendewla,Sadak Ka Saath 1 Akar Tak,agricultural,1840.91,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,KotaKhendewla,Kota Khendewla,agricultural,2113.64,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,KotaKhendewla,Kota Khendewla,agricultural,3310.43,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,KotaKhendewla,Kota Khendewla,residential,5637.5,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,KotaKhendewla,Kota Khendewla,commercial,5170,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,KhrakTauru,Up to two acres with road,agricultural,3641.53,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,KhrakTauru,Khrak Tauru,agricultural,1861.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,KhrakTauru,Khrak Tauru,residential,3520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,KhrakTauru,Khrak Tauru,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,KhrakTauru,Sadak Ka Saath 2 Akar Tak,agricultural,2047.31,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,KhrakSohna,Pahar,agricultural,1068.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,KhrakSohna,Pahar,residential,3520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,KhrakSohna,Pahar,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,KhrakSohna,Pahar,agricultural,386.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Kharkhari,Sadak Ka Saath 1 Akar Tak,agricultural,1318.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Kharkhari,Adjoining the State Highway,agricultural,1272.73,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Kharkhari,Kharkhari,agricultural,795.45,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Kharkhari,Kharkhari,residential,3520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Kharkhari,Kharkhari,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Kharkhari,Pahar,agricultural,295.45,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,KhaikaTauru,Upto one acres along the road,agricultural,1068.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,KhaikaTauru,Khaika Tauru,agricultural,545.45,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,KhaikaTauru,Khaika Tauru,residential,3520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,KhaikaTauru,Khaika Tauru,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,KhoriKalan,Upto two acres along the road,agricultural,568.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,KhoriKalan,Adjoining the national highway,agricultural,2045.45,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,KhoriKalan,Khori Kalan,agricultural,1342.98,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,KhoriKalan,Khori Kalan,agricultural,1136.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,KhoriKalan,Khori Kalan,residential,5500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,KhoriKalan,Khori Kalan,commercial,6900,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,KhoriKalan,Up to two acres with road,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,KhoriKalan,Up to two acres with road,agricultural,1880.17,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,KhoriKalan,Up to two acres with road,commercial,7150,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,KhoriKalan,Up to two acres with road,agricultural,1116.74,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,KhoriKhurd,Up to two acres with road,residential,4620,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,KhoriKhurd,Up to two acres with road,residential,5500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,KhoriKhurd,Up to two acres with road,agricultural,1363.64,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,KhoriKhurd,Up to two acres with road,agricultural,3099.17,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Gangani,Up to two acres with road,residential,6050,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Gangani,Up to two acres with road,residential,7150,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Gangani,Up to two acres with road,agricultural,3409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Gudhi,Along the state highway,agricultural,1735.54,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Gudhi,Along the state highway,residential,3520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Gudhi,Along the state highway,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Gudhi,Along the state highway,agricultural,1363.64,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Gudhi,Up to two acres with road,agricultural,1115.7,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Gudhi,Up to two acres with road,residential,3520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Gudhi,Up to two acres with road,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Gudhi,Up to two acres with road,agricultural,1477.27,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Gogjaka,Gogjaka,agricultural,1911.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Gogjaka,Gogjaka,residential,3520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Gogjaka,Gogjaka,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Goyala,Sadak Ka Saath 2 Akar Tak,agricultural,2197.31,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Goyala,Sadak Ka Saath 2 Akar Tak,residential,3520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Goyala,Sadak Ka Saath 2 Akar Tak,agricultural,2360.33,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Goyala,Goyala,residential,5104,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Goyala,Goyala,residential,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Goyala,Goyala,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Gwarka,Sadak Ka Saath 2 Akar Tak,agricultural,2376.03,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Gwarka,Sadak Ka Saath 2 Akar Tak,residential,4950,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Gwarka,Sadak Ka Saath 2 Akar Tak,commercial,6050,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Gwarka,National Highway Ka Saath Lagti Hue,agricultural,2045.45,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Gwarka,Pahad,agricultural,386.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Gwarka,Sadak Ka Saath 2 Akar Tak,agricultural,1590.91,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Gwarka,State Highway Ka Saath Lagti Hue,agricultural,2045.45,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Ghudaka,Ghudaka,agricultural,1128.1,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Ghudaka,Ghudaka,agricultural,750.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Ghudaka,Ghudaka,residential,3520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Ghudaka,Ghudaka,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Ghudaka,Up to two acres with road,agricultural,1229.34,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Chahalka,Up to two acres with road,agricultural,1229.34,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Chahalka,Up to two acres with road,agricultural,1284.25,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Chahalka,Chahalka,agricultural,1639.46,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Chilawali,Sadak Ka Saath 1 Akar Tak,residential,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Chilawali,Sadak Ka Saath 1 Akar Tak,agricultural,1318.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Chila,Upto two acres along the road,agricultural,590.91,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Chajjupur,Adjoining the National Highway,agricultural,1000.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Chajjupur,Adjoining the National Highway,agricultural,872.73,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Chajjupur,Adjoining the National Highway,residential,3520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Chajjupur,Adjoining the National Highway,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Chharora,Upto two acres along the road,agricultural,1000.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Chharora,Along the state highway,agricultural,863.64,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Chharora,Chharora,agricultural,636.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Chharora,Chharora,agricultural,915.91,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Chharora,Chharora,residential,3520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Chharora,Chharora,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Jafrabad,Up to two acres with road,agricultural,1549.59,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Jafrabad,Jafrabad,residential,3520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Jafrabad,Jafrabad,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,JalalpurSohna,Sadak Ka Saath 2 Akar Tak,agricultural,2516.53,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,JalalpurSohna,Jalalpur Sohna,agricultural,1713.64,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,JalalpurSohna,Jalalpur Sohna,residential,3520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,JalalpurSohna,Jalalpur Sohna,commercial,3850,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Jaurasi,Up to two acres with road,agricultural,1840.91,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Jaurasi,Jaurasi,agricultural,1743.29,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Jaurasi,Jaurasi,residential,3680,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Jaurasi,Up to two acres with road,agricultural,1931.82,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Jaurasi,Up to two acres with road,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Jaurasi,Up to two acres with road,agricultural,2045.45,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Jaurasi,Up to two acres with road,agricultural,2727.27,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Jhamuwas,Along the state highway,agricultural,2010.23,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Jhamuwas,Along the state highway,residential,3430.35,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Jhamuwas,Along the state highway,commercial,3811.5,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Dalaka,Up to one acre with road,agricultural,2014.46,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Dalaka,Up to one acre with road,residential,3520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Dalaka,Up to one acre with road,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Dalaka,Sadak Ka Saath 2 Akar Tak,agricultural,1068.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Dalawas,Sadak Ka Saath 2 Akar Tak,agricultural,795.45,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Dalawas,Sadak Ka Saath 2 Akar Tak,residential,3520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Dalawas,Sadak Ka Saath 2 Akar Tak,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Dalawas,Sadak Ka Saath 2 Akar Tak,agricultural,1068.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Dalawas,State Highway Ka Saath Lagti Hue,agricultural,1068.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Dingarheri,Dingarheri,agricultural,2494.83,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Dingarheri,Dingarheri,residential,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Dingarheri,Dingarheri,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Dingarheri,Sadak Ka Saath 2 Akar Tak,agricultural,2598.14,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Didhara,Adjoining the national highway,agricultural,1799.59,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Didhara,Didhara,agricultural,1758.68,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Didhara,Didhara,residential,3520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Didhara,Didhara,commercial,3850,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Tauru,Up to two acres with road,agricultural,1799.59,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Tauru,Ambedkar Nagar,residential,13800,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Tauru,Apna Bazzar,commercial,26000,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Tauru,Attach National Highway,agricultural,2727.27,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Tauru,Attach State Highway,agricultural,2727.27,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Tauru,Auggar sen Market,commercial,16500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Tauru,Bai Pass Tauru Sadak ke dono taraf 50 ft gahrai tak,residential,27500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Tauru,Balapeer Colony,residential,12650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Tauru,Bank Colony,residential,11000,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Tauru,Bank Colony,commercial,31050,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Tauru,Dhobi Bagh,residential,10120,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Tauru,Gandhi Nagar,residential,10120,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Tauru,Gotam Nagar,residential,10120,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Tauru,Harijan Colony,residential,21840,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Tauru,Harijan Colony,commercial,31200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Tauru,Housing Board Colony,residential,22500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Tauru,Janta Bazzar,commercial,22500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Tauru,Neelam Bihar,residential,15870,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Tauru,New Anaj Mandi,commercial,31625,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Tauru,Nuh Road Bus Stand se Bai Pass Tak 50 ft ki gahrai tak,residential,25410,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Tauru,Nuh Road Bus Stand se Bai Pass Tak 50 ft ki gahrai tak ke baad,residential,16500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Tauru,Old Tauru Town Lal Dora populated area,residential,67600,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Tauru,Old Tauru Town Lal Dora populated area,commercial,67600,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Tauru,Patel Nagar,residential,13200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Tauru,Patel Nagar,commercial,48125,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Tauru,Radha Nagar,residential,12100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Tauru,Ram Nagar,residential,11000,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Tauru,Ram Nagar,commercial,35707.5,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Tauru,Saini Pura,residential,10120,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Tauru,Subhash Market,residential,19837.5,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Tauru,Subhash Market,commercial,16500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Tauru,tauru bus stand se bhogipur road 50 ft gahrai tak,residential,28600,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Tauru,Tauru Bus Stand se Rewari Road kr Or Bai Pass Tak 50 ft ki gahrai tak,residential,27500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Tauru,Tauru Bus Stand se Rewari Road kr Or Bai Pass Tak 50 ft ki gahrai tak ke baad,residential,27500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Tauru,Tauru Gaon,agricultural,2595.82,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Tauru,Tauru Sohna Road Bus Stand 50 ft gahrai tak,residential,9300,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Tauru,Tauru Sohna Road Bus Stand 50 ft gahrai tak,commercial,11250,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Tauru,Tauru Sohna Road Bus Stand 50 ft gahrai tak ke baad,residential,27500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Tauru,Vijay Nagar,residential,27500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Dadu,Dadu,agricultural,3263.43,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Dadu,Dadu,residential,11638,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Dadu,Dadu,commercial,13125,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Dhulawat,Up to two acres with road,agricultural,3568.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Dhulawat,Dhulawat,agricultural,1363.64,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Dhulawat,Dhulawat,residential,3520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Dhulawat,Dhulawat,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Nanduki,Upto one acres along the road,agricultural,2169.42,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Nanduki,Nanduki,agricultural,1590.91,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Nanduki,Nanduki,residential,3520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Nanduki,Nanduki,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Nanduki,Sadak ke saath do acar tak,agricultural,1840.91,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Nanduki,Nanduki,agricultural,1068.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Jajuka,Jajuka,residential,3520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Jajuka,Jajuka,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Jajuka,Jajuka,agricultural,1590.91,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Naharpur,Upto two acres along the road,agricultural,545.45,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Naharpur,Naharpur,residential,3520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Naharpur,Naharpur,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Naharpur,Naharpur,agricultural,568.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,NizampurTauru,Upto two acres along the road,agricultural,1084.71,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,NizampurTauru,Nizampur Tauru,residential,3520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,NizampurTauru,Nizampur Tauru,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,NizampurTauru,Up to two acres with road,agricultural,1068.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Noorpur,Noorpur,agricultural,568.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Noorpur,Noorpur,residential,3520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Noorpur,Noorpur,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Noorpur,Pahad,agricultural,262.5,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Pachgaon,Up to two acres with road,agricultural,568.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Pachgaon,Pachgaon,agricultural,1068.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Pachgaon,Pachgaon,residential,3520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Pachgaon,Pachgaon,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Pachgaon,Pachgaon,agricultural,295.45,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Pachgaon,Pachgaon,agricultural,795.45,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Pachgaon,Pachgaon,agricultural,1500.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Pachgaon,Up to two acres with road,agricultural,1165.29,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Padheni,national highway ka Saath Lagti Hue,residential,4620,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Padheni,national highway ka Saath Lagti Hue,residential,5500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Padheni,national highway ka Saath Lagti Hue,agricultural,1318.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Padheni,Sadak Ka Saath 2 Akar Tak,agricultural,1500.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Padheni,State Highway Ka Saath Lagti Hue,agricultural,2758.26,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Pada,Pada,residential,4830,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Pada,Pada,commercial,5500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Pada,Pada,agricultural,340.91,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Pada,Pada,agricultural,2045.45,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Pada,Up to one acre with road,agricultural,1921.49,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Fatehpur,Along the state highway,residential,6000,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Fatehpur,Along the state highway,residential,7150,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Fatehpur,Along the state highway,agricultural,1880.17,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Fatehpur,Up to one acre with road,agricultural,1359.5,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Bandoli,Bandoli,agricultural,2175.21,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Bandoli,Bandoli,residential,3520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Bandoli,Bandoli,commercial,5720,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Bandoli,Sadak Ka Saath 2 Akar Tak,agricultural,2195.25,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Bandoli,Adjoining the National Highway,agricultural,1500.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Bandoli,Adjoining the State Highway,agricultural,1500.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Bawla,Bawla,residential,3520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Bawla,Bawla,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Bawla,Bawla,agricultural,1068.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Bawla,Upto two acres along the road,agricultural,1181.82,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Bidhuwas,Bidhuwas,residential,3520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Bidhuwas,Bidhuwas,agricultural,1431.82,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Bidhuwas,Upto two acres along the road,agricultural,1952.48,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,BissarAkbarpur,Bissar Akbarpur,residential,4620,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,BissarAkbarpur,Bissar Akbarpur,commercial,5500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,BissarAkbarpur,Bissar Akbarpur,agricultural,3310.43,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,BissarAkbarpur,Upto two acres along the road,agricultural,2245.25,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,BissarAkbarpur,Pahad,agricultural,386.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,BissarAkbarpur,Up to two acres with road,agricultural,3409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,BurakaTauru,Along the National Highway,agricultural,1000.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,BurakaTauru,Buraka Tauru,agricultural,659.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,BurakaTauru,Buraka Tauru,residential,3520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,BurakaTauru,Buraka Tauru,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,BeniNisfiTauru,Up to two acres with road,agricultural,1438.02,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,BeniNisfiTauru,Beni Nisfi Tauru,residential,3520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,BeniNisfiTauru,Beni Nisfi Tauru,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,BeniNisfiSohna,Up to two acres with road,agricultural,1840.91,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,BeniNisfiSohna,Beni Nisfi Sohna,agricultural,1638.43,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,BeniNisfiSohna,Beni Nisfi Sohna,residential,3520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,BeniNisfiSohna,Beni Nisfi Sohna,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Bhangoh,Up to two acres with road,agricultural,1318.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Bhangoh,Bhangoh,agricultural,1045.45,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Bhangoh,Bhangoh,residential,4620,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Bhangoh,Bhangoh,commercial,5500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Bhangpur,Pahar,agricultural,295.45,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Bhangpur,Sadak Ka Saath 2 Akar Tak,agricultural,1318.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Bhangpur,Bhangpur,agricultural,909.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Bhangpur,Bhangpur,residential,3520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Bhangpur,Bhangpur,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Bhajlaka,Sadak Ka Saath 2 Akar Tak,agricultural,1159.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Bhogipur,Upto two acres along the road,agricultural,1159.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Mandarka,Upto two acres along the road,agricultural,1159.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Malhaka,Upto two acres along the road,residential,3430.35,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,MasitAlam,Masit Alam,agricultural,909.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,MasitAlam,Upto two acres along the road,agricultural,909.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,MasitAlam,Upto two acres along the road,agricultural,545.45,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,MasitAlam,Masit Alam,residential,3520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,MasitAlam,Masit Alam,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Milakpur,Upto two acres along the road,agricultural,627.27,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Milakpur,Adjoining the National Highway,agricultural,1068.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Milakpur,Adjoining the National Highway,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Milakpur,Milakpur,agricultural,831.61,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Milakpur,Milakpur,residential,3520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Milakpur,Milakpur,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Mendla,Upto one acres along the road,agricultural,1068.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Mendla,Mendla,agricultural,1068.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Mendla,Mendla,agricultural,2541.32,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Mendla,Mendla,agricultural,3409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Mendla,Mendla,residential,6050,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Mendla,Mendla,commercial,12512.5,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,MohamadpurAhir,Up to two acres with road,agricultural,2159.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,MohamadpurAhir,Mohamadpur Ahir,agricultural,1544.42,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,MohamadpurAhir,Mohamadpur Ahir,residential,5500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,MohamadpurAhir,Mohamadpur Ahir,commercial,7800,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Rangala,Up to one acre with road,agricultural,1636.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Rangala,Rangala,agricultural,1636.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Rathiwas,Pahad,agricultural,386.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Rathiwas,Pahad,agricultural,1284.25,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Rathiwas,Pahad,residential,3520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Rathiwas,Pahad,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Rathiwas,Up to two acres with road,agricultural,1590.91,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Raniyaki,Raniyaki,agricultural,500.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Raniyaki,Raniyaki,residential,3520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Raniyaki,Raniyaki,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Raniyaki,Up to two acres with road,agricultural,568.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Raheri,Pahad,agricultural,295.45,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Raheri,Raheri,agricultural,914.77,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Raheri,Raheri,residential,3520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Raheri,Raheri,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Shikarpur,Sadak Ka Saath 2 Akar Tak,agricultural,1068.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Shikarpur,national highway ka Saath Lagi Hue,agricultural,1545.45,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Shikarpur,Sadak Ka Saath 2 Akar Tak,agricultural,1797.52,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Shikarpur,Shikarpur,agricultural,1335.23,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Shikarpur,Shikarpur,residential,3680,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Shikarpur,Shikarpur,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Shekhpur,Shekhpur,agricultural,2014.46,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Shekhpur,Shekhpur,residential,3850,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Shekhpur,Shekhpur,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Shekhpur,Shekhpur,agricultural,2045.45,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Sabras,Sadak Ka Saath 1 Akar Tak,agricultural,1869.21,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Sabras,Sabras,residential,3520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Sabras,Sabras,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Sabras,Sabras,agricultural,2013.22,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Sarai,Up to one acre with road,agricultural,1869.21,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Sarai,Sarai,residential,4620,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Sarai,Sarai,commercial,5500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Sarai,Sarai,agricultural,2516.53,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Salhaka,Up to two acres with road,agricultural,2764.46,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Salhaka,Sadak Ka Saath 2 Akar Tak,agricultural,590.91,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Salhaka,Salhaka,residential,3850,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Salhaka,Salhaka,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Salhaka,Salhaka,agricultural,545.45,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Sehsola,Adjoining the national highway,agricultural,2673.04,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Sehsola,Along the state highway,agricultural,2673.04,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Sehsola,Sehsola,agricultural,1930.53,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Sehsola,Sehsola,agricultural,2673.04,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Sehsola,Up to one acre with road,residential,3850,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Sehsola,Up to one acre with road,commercial,4620,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Sehsola,Along the state highway,agricultural,1818.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Sehsola,Pahad,agricultural,909.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Sehsola,Pahad,agricultural,295.45,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Silkhoh,Silkhoh,agricultural,727.27,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Silkhoh,Up to two acres with road,residential,3520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Silkhoh,Up to two acres with road,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Silkhoh,Up to two acres with road,agricultural,750.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Sutaka,Sutaka,agricultural,772.73,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Sutaka,Sutaka,agricultural,1318.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Sutaka,Up to two acres with road,residential,4620,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Sutaka,Up to two acres with road,commercial,5500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Sunari,Adjoining the national highway,agricultural,1931.82,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Sunari,Sunari,agricultural,1204.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Sunari,Sunari,agricultural,1128.1,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Sunari,Sunari,residential,3520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Sunari,Sunari,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Sanpa,Up to two acres with road,agricultural,997.93,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Sanpa,Sanpa,agricultural,386.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Sundh,Sadak Ka Saath 1 Akar Tak,agricultural,1668.39,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Sundh,Sundh,agricultural,1456.61,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Sundh,Sundh,residential,4620,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Sundh,Sundh,commercial,5500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Subaseri,Subaseri,agricultural,852.27,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Subaseri,Subaseri,residential,3520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Subaseri,Subaseri,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Subaseri,Upto two acres along the road,agricultural,979.96,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Sewka,Sewka,agricultural,623.71,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Sewka,Sewka,residential,3520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Sewka,Sewka,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Sewka,Up to two acres with road,agricultural,716.94,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Saidpur,Saidpur,agricultural,545.45,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Saidpur,Saidpur,residential,3520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Saidpur,Saidpur,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Syarika,Upto two acres along the road,agricultural,568.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Syarika,Sadak Ka Saath 2 Akar Tak,agricultural,1250.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Syarika,Syarika,agricultural,1140.5,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Syarika,Syarika,residential,3520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,Syarika,Syarika,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,HassanpurTauru,Hassanpur Tauru,agricultural,3595.04,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,HassanpurTauru,Hassanpur Tauru,residential,5500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,HassanpurTauru,Hassanpur Tauru,commercial,7150,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Tauru,HassanpurTauru,Up to two acres with road,agricultural,3827.48,2026-04-01,nuh_gov_in_dc_notification

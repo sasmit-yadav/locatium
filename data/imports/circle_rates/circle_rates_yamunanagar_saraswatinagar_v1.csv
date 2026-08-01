@@ -1,0 +1,375 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Yamunanagar,Saraswati Nagar,Gadhouli,Gadhouli,agricultural,566.32,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,Gadhouli,Gadhouli,residential,2800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,Gadhouli,Gadhouli,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,Shahpur,Shahpur,agricultural,463.84,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,Shahpur,Shahpur,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,Shahpur,Shahpur,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,अजीजपुर,अजीजपुर,agricultural,463.84,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,अजीजपुर,अजीजपुर,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,अजीजपुर,अजीजपुर,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,अम्ब्ली,अम्ब्ली,agricultural,490.08,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,अम्ब्ली,अम्ब्ली,residential,2800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,अम्ब्ली,अम्ब्ली,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,अहमदपुर,अहमदपुर,agricultural,669.61,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,अहमदपुर,अहमदपुर,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,अहमदपुर,अहमदपुर,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,अहमदपुर,अहमदपुर प्राईम,agricultural,1050.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,अहमदपुर,अहमदपुर प्राईम,residential,3000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,अहमदपुर,अहमदपुर प्राईम,commercial,8000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,आम्बवाला,आम्बवाला,agricultural,463.84,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,आम्बवाला,आम्बवाला,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,आम्बवाला,आम्बवाला,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,उधमगढ़,उधमगढ़,agricultural,463.84,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,उधमगढ़,उधमगढ़,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,उधमगढ़,उधमगढ़,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,ऊन्चाचन्दना,ऊन्चा चन्दना से शमशान घाट,residential,3300,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,ऊन्चाचन्दना,ऊन्चा चन्दना से शमशान घाट,commercial,9000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,ऊन्चाचन्दना,रेलवे स्टेशन से रादौर रोड,commercial,20000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,ऊन्चाचन्दना,हन्गौली रोड,residential,3300,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,ऊन्चाचन्दना,हन्गौली रोड,commercial,9000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,कलांपुर,कलॉपुर,agricultural,2620000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,कलांपुर,कलॉपुर,agricultural,541.32,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,कलांपुर,कलॉपुर,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,कलांपुर,कलॉपुर,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,कलांपुर,कलांपुर,agricultural,541.32,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,कलावड,अम्बाला रोड की ओर कालोनी,residential,3500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,कलावड,अम्बाला रोड की ओर कालोनी,commercial,9400,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,कलावड,कलावड,agricultural,687.24,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,कलावड,कलावड,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,कलावड,कलावड,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,काजीबाँस,काजीबाँस,agricultural,489.26,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,काजीबाँस,काजीबाँस,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,काजीबाँस,काजीबाँस,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,कान्हडीकलॉं,कान्हडी कलॉं,agricultural,515.08,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,कान्हडीकलॉं,कान्हडी कलॉं,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,कान्हडीकलॉं,कान्हडी कलॉं,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,कान्हडीखुर्द,कान्हडी खुर्द,agricultural,1035.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,कान्हडीखुर्द,कान्हडी खुर्द,residential,4725,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,कान्हडीखुर्द,कान्हडी खुर्द,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,कान्हडीखुर्द,कान्हडी खुर्द प्राईम,agricultural,1050.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,कान्हडीखुर्द,कान्हडी खुर्द प्राईम,residential,3300,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,कान्हडीखुर्द,कान्हडी खुर्द प्राईम,commercial,8000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,काबुलपुर,काबुलपुर,agricultural,541.32,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,काबुलपुर,काबुलपुर,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,काबुलपुर,काबुलपुर,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,कुलचन्दू,कुलचन्दू,agricultural,490.08,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,कुलचन्दू,कुलचन्दू,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,कुलचन्दू,कुलचन्दू,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,कुलपुर,कुलपुर,agricultural,707.9,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,कुलपुर,कुलपुर,agricultural,463.84,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,कुलपुर,कुलपुर,agricultural,495.87,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,कुलपुर,कुलपुर,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,कुलपुर,कुलपुर,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,कुलपुर,कुलपुर प्राईम,agricultural,1365.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,कुलपुर,कुलपुर प्राईम,residential,3000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,कुलपुर,कुलपुर प्राईम,commercial,8000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,खानपुर,खानपुर,agricultural,541.32,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,खानपुर,खानपुर,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,खानपुर,खानपुर,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,खानपुरराजपुतान,खानपुर राजपुतान,agricultural,515.08,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,खानपुरराजपुतान,खानपुर राजपुतान,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,खानपुरराजपुतान,खानपुर राजपुतान,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,खेडाकल्ला,खेडा कल्ला,agricultural,490.08,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,खेडाकल्ला,खेडा कल्ला,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,खेडाकल्ला,खेडा कल्ला,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,खेडाखुर्द,खेडा खुर्द,agricultural,515.08,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,खेडाखुर्द,खेडा खुर्द,residential,2800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,खेडाखुर्द,खेडा खुर्द,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,खेडीदर्शनसिंह,खेडी दर्शनसिंह,agricultural,490.08,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,खेडीदर्शनसिंह,खेडी दर्शनसिंह,residential,2800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,खेडीदर्शनसिंह,खेडी दर्शनसिंह,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,गढी,गढी,agricultural,463.84,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,गढी,गढी,residential,2800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,गढी,गढी,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,गढीगोसाँई,गढी गोसाँई,agricultural,515.08,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,गढीगोसाँई,गढी गोसाँई,residential,2800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,गढीगोसाँई,गढी गोसाँई,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,गधौला,गधौला,agricultural,651.27,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,गधौला,गधौला,residential,2800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,गधौला,गधौला,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,गधौला,गधौला प्राईम खसरा,agricultural,1050.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,गधौला,गधौला प्राईम खसरा,residential,3300,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,गधौला,गधौला प्राईम खसरा,commercial,8000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,गन्दापुरा,गन्दापुरा,agricultural,463.84,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,गन्दापुरा,गन्दापुरा,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,गन्दापुरा,गन्दापुरा,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,गुगलो,गुगलो,agricultural,681.82,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,गुगलो,गुगलो,residential,3105,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,गुगलो,गुगलो,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,गुन्दियानी,गुन्दियानी,agricultural,489.26,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,गुन्दियानी,गुन्दियानी,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,गुन्दियानी,गुन्दियानी,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,चाहडवाला,चाहडवाला,agricultural,490.08,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,चाहडवाला,चाहडवाला,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,चाहडवाला,चाहडवाला,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,छप्परमनसूरपुर,Chhapar Prime,agricultural,1487.6,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,छप्परमनसूरपुर,अ0ज0रोड पर बाग से सडक तक,agricultural,1487.6,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,छप्परमनसूरपुर,अ0ज0रोड पर बाग से सडक तक,residential,5000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,छप्परमनसूरपुर,अ0ज0रोड पर बाग से सडक तक,commercial,19000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,छप्परमनसूरपुर,छप्पर मनसूरपुर,agricultural,886.36,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,छप्परमनसूरपुर,छप्पर मनसूरपुर,residential,4600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,छप्परमनसूरपुर,छप्पर से मु0रोड,agricultural,1275.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,छप्परमनसूरपुर,छप्पर से मु0रोड,residential,5000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,छप्परमनसूरपुर,छप्पर से मु0रोड,commercial,17000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,छप्परमनसूरपुर,पानी की टंकी से मु0हदूद तक,commercial,17000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,छप्परमनसूरपुर,शिवमिन्दिर रोड से मु0रोड तक,residential,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,छप्परमनसूरपुर,शिवमिन्दिर रोड से मु0रोड तक,commercial,18000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,छप्परमनसूरपुर,सरस्वती पुल से गाँव छप्पर तक,agricultural,1275.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,छप्परमनसूरपुर,सरस्वती पुल से गाँव छप्पर तक,residential,5000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,छप्परमनसूरपुर,सरस्वती पुल से गाँव छप्पर तक,commercial,19000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,जन्देहडा,जन्देहडा,agricultural,681.82,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,जन्देहडा,जन्देहडा,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,जन्देहडा,जन्देहडा,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,जमालपुर,जमालपुर,agricultural,463.84,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,जमालपुर,जमालपुर,residential,2800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,जमालपुर,जमालपुर,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,जागधोली,जागधोली,agricultural,539.26,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,जागधोली,जागधोली,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,जागधोली,जागधोली,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,झाडचन्दना,झाड चन्दना,agricultural,463.84,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,झाडचन्दना,झाड चन्दना,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,झाडचन्दना,झाड चन्दना,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,झिवरेहडी,झिवरेहडी,agricultural,566.32,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,झिवरेहडी,झिवरेहडी,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,झिवरेहडी,झिवरेहडी,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,तलाकौर,अम्बाला रोड की ओर कालोनी,residential,3500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,तलाकौर,अम्बाला रोड की ओर कालोनी,commercial,9400,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,तलाकौर,तलाकौर,agricultural,622.52,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,तलाकौर,तलाकौर,residential,2800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,तलाकौर,तलाकौर,commercial,6875,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,दराजपुर,दराजपुर,agricultural,490.08,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,दराजपुर,दराजपुर,residential,2800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,दराजपुर,दराजपुर,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,दायरा,दायरा,agricultural,515.08,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,दायरा,दायरा,residential,2800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,दायरा,दायरा,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,दौलतपुरमालियान,दौलतपुर मालियान,agricultural,566.32,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,दौलतपुरमालियान,दौलतपुर मालियान,residential,2800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,दौलतपुरमालियान,दौलतपुर मालियान,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,नगलाखालसा,नगला खालसा,agricultural,612.6,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,नगलाखालसा,नगला खालसा,residential,2800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,नगलाखालसा,नगला खालसा,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,नगलाजगीर,नगला जगीर,agricultural,515.08,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,नगलाजगीर,नगला जगीर,residential,2800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,नगलाजगीर,नगला जगीर,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,नमदारपुर,नमदारपुर,agricultural,541.32,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,नमदारपुर,नमदारपुर,agricultural,515.08,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,नमदारपुर,नमदारपुर,agricultural,526.86,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,नमदारपुर,नमदारपुर,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,नमदारपुर,नमदारपुर,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,नमदारपुर,नमदारपुर प्राईम,agricultural,1239.67,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,नमदारपुर,नमदारपुर प्राईम,residential,3300,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,नमदारपुर,नमदारपुर प्राईम,commercial,10000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,नवांशहर,नवां शहर,agricultural,463.84,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,नवांशहर,नवां शहर,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,नवांशहर,नवां शहर,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,पन्जौरा,पन्जौरा,agricultural,490.08,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,पन्जौरा,पन्जौरा,residential,3915,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,पन्जौरा,पन्जौरा,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,पिन्जोरी,पिन्जोरी,agricultural,515.08,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,पिन्जोरी,पिन्जोरी,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,पिन्जोरी,पिन्जोरी,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,फतेहपुर,फतेहपुर,agricultural,533.42,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,फतेहपुर,फतेहपुर,agricultural,454.55,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,फतेहपुर,फतेहपुर,agricultural,526.86,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,फतेहपुर,फतेहपुर,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,फतेहपुर,फतेहपुर,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,फरीदपुर,फरीदपुर,agricultural,489.26,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,फरीदपुर,फरीदपुर,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,फरीदपुर,फरीदपुर,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,बम्भौल,भम्भौल,agricultural,681.82,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,बम्भौल,भम्भौल,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,बम्भौल,भम्भौल,commercial,6630,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,बलसुआ,बलसुआ,agricultural,463.84,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,बलसुआ,बलसुआ,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,बलसुआ,बलसुआ,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,बीडबलसुआ,बीड बलसुआ,agricultural,463.84,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,बीडबलसुआ,बीड बलसुआ,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,बीडबलसुआ,बीड बलसुआ,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,भगवानपुर,भगवानपुर,agricultural,515.08,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,भगवानपुर,भगवानपुर,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,भगवानपुर,भगवानपुर,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,भगवानपुर,भगवानपुर प्राईम,agricultural,1312.5,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,भगवानपुर,भगवानपुर प्राईम,residential,3000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,भगवानपुर,भगवानपुर प्राईम,commercial,8000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,भम्भोली,अन्दरून आबादी व आसपास,residential,4400,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,भम्भोली,अम्बाला जगाधरी रोड,agricultural,1549.59,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,भम्भोली,अम्बाला जगाधरी रोड,residential,4400,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,भम्भोली,अम्बाला जगाधरी रोड,commercial,26000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,भम्भोली,झन्झेडा रोड वा राजपुरा रोड,agricultural,1050.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,भम्भोली,झन्झेडा रोड वा राजपुरा रोड,residential,4400,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,भम्भोली,झन्झेडा रोड वा राजपुरा रोड,commercial,18000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,भम्भोली,भम्भोली,agricultural,1193.18,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,भम्भोली,भम्भोली,agricultural,681.82,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,भम्भोली,भम्भोली,agricultural,723.14,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,भम्भोली,भम्भोली,residential,4400,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,भम्भोली,भम्भोली,commercial,21250,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,मधरपुर,मधरपुर,agricultural,557.85,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,मधरपुर,मधरपुर,agricultural,500.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,मधरपुर,मधरपुर,agricultural,526.86,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,मधरपुर,मधरपुर,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,मधरपुर,मधरपुर,commercial,4800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,मधरपुर,मधरपुर प्राईम,agricultural,991.74,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,मधरपुर,मधरपुर प्राईम,residential,3000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,मधरपुर,मधरपुर प्राईम,commercial,7300,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,मलकपुर,मलकपुर,agricultural,515.08,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,मलकपुर,मलकपुर,residential,4320,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,मलकपुर,मलकपुर,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,महमदपुर,महमदपुर,agricultural,463.84,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,महमदपुर,महमदपुर,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,महमदपुर,महमदपुर,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,मालीमाजरा,माली माजरा,agricultural,566.32,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,मालीमाजरा,माली माजरा,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,मालीमाजरा,माली माजरा,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,मिलकमाजरा,मिलक माजरा प्राईम खसरा,agricultural,1050.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,मिलकमाजरा,मिलक माजरा प्राईम खसरा,residential,3300,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,मिलकमाजरा,मिलक माजरा प्राईम खसरा,commercial,8000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,मिलकमाजरा,मिलकमाजरा,agricultural,741.32,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,मिलकमाजरा,मिलकमाजरा,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,मिलकमाजरा,मिलकमाजरा,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,मुरादपुर,मुरादपुर,agricultural,515.08,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,मुरादपुर,मुरादपुर,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,मुरादपुर,मुरादपुर,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,रामगढ,रामगढ,agricultural,463.84,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,रामगढ,रामगढ,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,रामगढ,रामगढ,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,लवाना,लवाना,agricultural,490.08,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,लवाना,लवाना,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,लवाना,लवाना,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,लवानी,लवानी,agricultural,620.14,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,लवानी,लवानी,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,लवानी,लवानी,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सबलपुर,Sabalpur Colony 218,residential,6100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सबलपुर,Sabalpur Colony 218,commercial,33000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सबलपुर,अ0ज0रोड,commercial,34000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सबलपुर,अ0मेनरोड से मु0रोड पर,commercial,37500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सबलपुर,अम्बाला जगाधरी रोड,agricultural,1487.6,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सबलपुर,अम्बाला जगाधरी रोड,residential,6100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सबलपुर,अम्बाला जगाधरी रोड,commercial,33000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सबलपुर,गन्ना सेन्टर से स्कूल तक,residential,4000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सबलपुर,गन्ना सेन्टर से स्कूल तक,commercial,17250,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सबलपुर,छप्पर से मुस्तफाबाद रोड,agricultural,1239.67,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सबलपुर,छप्पर से मुस्तफाबाद रोड,residential,5000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सबलपुर,छप्पर से मुस्तफाबाद रोड,commercial,35000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सबलपुर,"तलाकौर,खेड़ा रोड गन्नोसै0तक",commercial,27000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सबलपुर,सबलपुर अन्दरून आबादी,residential,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सबलपुर,सबलपुर प्राईम खसरा,agricultural,1487.6,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सबलपुर,सबलपुर प्राईम खसरा,residential,6100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सबलपुर,सबलपुर प्राईम खसरा,commercial,33000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सबलपुर,सबलपुर से तलाकोर रोड,agricultural,1239.67,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सबलपुर,सबलपुर से तलाकोर रोड,residential,5125,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सबलपुर,सबलपुर से तलाकोर रोड,commercial,25000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सबीलपुरजाटान,सबीलपुर जाटान,agricultural,565.91,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सबीलपुरजाटान,सबीलपुर जाटान,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सबीलपुरजाटान,सबीलपुर जाटान,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,Basant Bihar Colony,residential,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,Basant Bihar Colony,commercial,13000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,Janta School Manka Road,agricultural,5600000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,Janta School Manka Road,residential,5000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,Janta School Manka Road,commercial,16000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,krishna Colony,residential,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,krishna Colony,commercial,13000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,Mustfabad Colony-7 214,residential,4200,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,Mustfabad Colony-7 214,commercial,13000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,Mustfabad Colony-8 215,residential,6475,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,Mustfabad Colony-8 215,commercial,13000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,Ram Nagar-2 209,residential,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,Ram Nagar-2 209,commercial,18000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,Ram Nagar-3 210,residential,3700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,Ram Nagar-3 210,commercial,15000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,Sabalpur Guru Nanak Colony 239,residential,4100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,Sabalpur Guru Nanak Colony 239,commercial,27000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,Sabalpur Saraswati Colony 228,residential,6100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,Sabalpur Saraswati Colony 228,commercial,33000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,Saraswati Nagar Ram Nagar Colony-5 212,residential,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,Saraswati Nagar Ram Nagar Colony-5 212,commercial,18000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,Saraswati Nagar Ram Nagar Colony-6 213,residential,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,Saraswati Nagar Ram Nagar Colony-6 213,commercial,17000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,अनाज मण्डी कर्मिशयल,commercial,26000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,अनाज मण्डी निवासीय,residential,5500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,आदर्श कालोनी,commercial,18850,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,आदर्श कालोनी,residential,5865,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,आदर्श कालोनी,commercial,13000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,गन्दापुरा रोड,residential,4400,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,गन्दापुरा रोड,commercial,14000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,गन्दापुरा व सुखदासपुर रोड,agricultural,1239.67,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,गन्दापुरा व सुखदासपुर रोड,residential,4400,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,गन्दापुरा व सुखदासपुर रोड,commercial,13000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,गुरुनानकपुरा कालोनी,residential,5500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,जनता स्कूल से थाना छप्पर नई,agricultural,1239.67,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,जनता स्कूल से थाना छप्पर नई,residential,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,जनता स्कूल से थाना छप्पर नई,commercial,16000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,जनता स्कूल से थानाछप्पर रोड,agricultural,1250.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,जनता स्कूल से थानाछप्पर रोड,residential,5000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,जनता स्कूल से थानाछप्पर रोड,commercial,16000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,जनता स्कूल से सुखदासपुर लिकरोड,commercial,15000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,नई कालोनी/ ॐ शिव ज्योति का0,residential,4255,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,नई कालोनी/ ॐ शिव ज्योति का0,commercial,15000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,पावर हाउस से साधासिंह जमीन,commercial,22000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,पेट्रोल पम्प के साथ व सामने,residential,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,पेट्रोल पम्प के साथ व सामने,commercial,21850,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,बड़ा गुरद्वारा से खटीकमोहल्ला,commercial,21000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,बाल्मिक बस्ती,residential,2800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,मघरपुर रोड पर रिहायशी,residential,4255,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,माता सरस्वती से सुल्तानपुर रोड,agricultural,1239.67,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,माता सरस्वती से सुल्तानपुर रोड,residential,4400,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,माता सरस्वती से सुल्तानपुर रोड,commercial,15000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,मुस्तफाबाद,agricultural,886.36,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,मुस्तफाबाद,agricultural,681.82,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,मुस्तफाबाद,agricultural,723.14,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,मुस्तफाबाद,residential,5460,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,मेन अडडा से मघरपुर रोड,agricultural,1157.02,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,मेन अडडा से मघरपुर रोड,residential,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,मेन अडडा से मघरपुर रोड,commercial,16000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,मेनचौक मघरपुर रोड से गैस एजेंसी,commercial,18000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,मेनबाजार से बड़ा गुरुद्वारा,commercial,23000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,साधा सिंह की का० मालीमाजरा सड़क,agricultural,1239.67,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,साधा सिंह की का० मालीमाजरा सड़क,residential,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,साधा सिंह की का० मालीमाजरा सड़क,commercial,14000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,साधा सिंह की कालोनी,residential,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,साधा सिंह की कालोनी,commercial,18000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,साधासिंह की जमीन से ऊँचा चन्दना,residential,4300,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,साधासिंह की जमीन से ऊँचा चन्दना,commercial,12000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,सुखदासपुर लिंक रोड,residential,4750,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,सुखदासपुर लिंक रोड,commercial,16900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,सुखदासपुर लिंक रोड से पावरहाउस,commercial,22000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,हगोली लिंक रोड पर,residential,3800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,हंगोलीलिंक रोड पर,commercial,13000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,हंगौली रोड से पीर तक,agricultural,1239.67,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,हंगौली रोड से पीर तक,residential,3400,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सरस्वतीनगर,हंगौली रोड से पीर तक,commercial,13000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सारन,सरकारी स्कूल के पास कालोनी,residential,3500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सारन,सरकारी स्कूल के पास कालोनी,commercial,9400,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सारन,सारन,agricultural,707.64,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सारन,सारन,agricultural,463.84,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सारन,सारन,agricultural,526.86,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सारन,सारन,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सारन,सारन,commercial,6210,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सारन,सारन प्राईम,agricultural,1050.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सारन,सारन प्राईम,residential,3300,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सारन,सारन प्राईम,commercial,8000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,साहबपुरा,साहबपुरा,agricultural,533.42,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,साहबपुरा,साहबपुरा,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,साहबपुरा,साहबपुरा,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सुखदासपुर,सुखदासपुर,agricultural,515.08,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सुखदासपुर,सुखदासपुर,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सुखदासपुर,सुखदासपुर,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सुल्तानपुर,सुल्तानपुर,agricultural,541.32,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सुल्तानपुर,सुल्तानपुर,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सुल्तानपुर,सुल्तानपुर,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सुल्तानपुर,सुल्तानपुर प्राईम,agricultural,1012.4,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सुल्तानपुर,सुल्तानपुर प्राईम,residential,3000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,सुल्तानपुर,सुल्तानपुर प्राईम,commercial,8400,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,स्टारी,स्टारी,agricultural,500.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,स्टारी,स्टारी,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,स्टारी,स्टारी,commercial,4800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,स्यालबा,स्यालबा,agricultural,463.84,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,स्यालबा,स्यालबा,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,स्यालबा,स्यालबा,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,हँगौली,हँगौली,agricultural,541.32,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,हँगौली,हँगौली,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,हँगौली,हँगौली,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,हुडियाँ,हुडियाँ,agricultural,579.8,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,हुडियाँ,हुडियाँ,residential,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Saraswati Nagar,हुडियाँ,हुडियाँ,commercial,5100,2026-04-01,yamunanagar_gov_in_dc_notification

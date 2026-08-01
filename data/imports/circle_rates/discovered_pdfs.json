@@ -1,0 +1,865 @@
+{
+  "Faridabad": {
+    "pages_ok": [
+      "https://faridabad.nic.in/final-collector-rates-for-year-2026-2027/",
+      "https://faridabad.nic.in/document-category/collector-rate/"
+    ],
+    "pages_fail": [
+      {
+        "url": "https://faridabad.nic.in/final-collector-rates-for-year-2026-2027/",
+        "error": "'charmap' codec can't encode character '\\u2192' in position 78: character maps to <undefined>"
+      },
+      {
+        "url": "https://faridabad.nic.in/document-category/collector-rate/",
+        "error": "'charmap' codec can't encode character '\\u2192' in position 70: character maps to <undefined>"
+      }
+    ],
+    "pdfs": [
+      {
+        "url": "https://cdn.s3waas.gov.in/s305049e90fa4f5039a8cadc6acbb4b2cc/uploads/2025/01/2025013034.pdf",
+        "title": "DIvisional Commissioner, Faridabad Division"
+      },
+      {
+        "url": "https://faridabad.nic.in/collectrate/",
+        "title": "Collectorate"
+      },
+      {
+        "url": "https://faridabad.nic.in/document-category/collector-rate/",
+        "title": "Collector Rate"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s305049e90fa4f5039a8cadc6acbb4b2cc/uploads/2020/03/2020032234.pdf",
+        "title": "COVID-19 MITIGATION PLAN"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s305049e90fa4f5039a8cadc6acbb4b2cc/uploads/2020/03/2020032837.pdf",
+        "title": "Food distribution to the needy"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s305049e90fa4f5039a8cadc6acbb4b2cc/uploads/2020/04/2020042840.pdf",
+        "title": "Regarding issuing of e-passes"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s305049e90fa4f5039a8cadc6acbb4b2cc/uploads/2026/04/17751096722487.pdf",
+        "title": "Final Collector Rate for Year 2026-2027 \u2013 Tehsil Faridabad"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s305049e90fa4f5039a8cadc6acbb4b2cc/uploads/2026/04/17751151343884.pdf",
+        "title": "Final Collector Rate for Year 2026-2027\u2013 Tehsil Ballabgarh"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s305049e90fa4f5039a8cadc6acbb4b2cc/uploads/2026/04/17751209715539.pdf",
+        "title": "Final Collector Rate for Year 2026-2027\u2013 Tehsil Badkhal"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s305049e90fa4f5039a8cadc6acbb4b2cc/uploads/2026/04/17751145798928.pdf",
+        "title": "Final Collector Rate for Year 2026-2027 \u2013 Sub Tehsil Dayalpur"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s305049e90fa4f5039a8cadc6acbb4b2cc/uploads/2026/04/17751096776053.pdf",
+        "title": "Final Collector Rate for Year 2026-2027 \u2013 Sub Tehsil Tigaon"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s305049e90fa4f5039a8cadc6acbb4b2cc/uploads/2026/04/17751145369082.pdf",
+        "title": "Final Collector Rate for Year 2026-2027\u2013 Sub Tehsil Mohna"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s305049e90fa4f5039a8cadc6acbb4b2cc/uploads/2026/04/17751096687769.pdf",
+        "title": "Final Collector Rate for Year 2026-2027\u2013 Sub Tehsil Gaunchi"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s305049e90fa4f5039a8cadc6acbb4b2cc/uploads/2026/04/17751096742994.pdf",
+        "title": "Final Collector Rate for Year 2026-2027 \u2013 Sub Tehsil Dhauj"
+      },
+      {
+        "url": "https://faridabad.nic.in/final-collector-rates-for-year-2026-2027",
+        "title": "Final Collector Rates for year 2026-2027"
+      },
+      {
+        "url": "https://faridabad.nic.in/proposed-collector-rate-year-2026-for-objection-comment-in-the-office-of-concerned-tehsil-office-on-or-before-30-03-2026-till-1100-am",
+        "title": "Proposed Collector Rate Year 2026 for Objection & Comment in the office of Concerned Tehsil Office on or Before 30/03/2026 till 11:00 AM"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s305049e90fa4f5039a8cadc6acbb4b2cc/uploads/2026/03/17746891872718.pdf",
+        "title": "View (763 KB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s305049e90fa4f5039a8cadc6acbb4b2cc/uploads/2026/03/17746863645767.pdf",
+        "title": "View (732 KB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s305049e90fa4f5039a8cadc6acbb4b2cc/uploads/2026/03/17746863314088.pdf",
+        "title": "View (759 KB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s305049e90fa4f5039a8cadc6acbb4b2cc/uploads/2026/03/17746862984656.pdf",
+        "title": "View (749 KB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s305049e90fa4f5039a8cadc6acbb4b2cc/uploads/2026/03/17746862555816.pdf",
+        "title": "View (798 KB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s305049e90fa4f5039a8cadc6acbb4b2cc/uploads/2026/03/17746862131936.pdf",
+        "title": "View (833 KB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s305049e90fa4f5039a8cadc6acbb4b2cc/uploads/2026/03/17746860785428.pdf",
+        "title": "View (856 KB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s305049e90fa4f5039a8cadc6acbb4b2cc/uploads/2026/03/17746856163685.pdf",
+        "title": "View (832 KB)"
+      }
+    ]
+  },
+  "Jhajjar": {
+    "pages_ok": [
+      "https://jhajjar.nic.in/document-category/coll-rate/"
+    ],
+    "pages_fail": [
+      {
+        "url": "https://jhajjar.nic.in/document-category/coll-rate/",
+        "error": "'charmap' codec can't encode character '\\u2192' in position 61: character maps to <undefined>"
+      }
+    ],
+    "pdfs": [
+      {
+        "url": "https://jhajjar.nic.in/document-category/coll-rate/",
+        "title": "Collector Rate"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s38d34201a5b85900908db6cae92723617/uploads/2026/04/17763348118162.pdf",
+        "title": "View (2 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s38d34201a5b85900908db6cae92723617/uploads/2026/04/17763348099033.pdf",
+        "title": "View (4 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s38d34201a5b85900908db6cae92723617/uploads/2026/04/17763354747271.pdf",
+        "title": "View (6 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s38d34201a5b85900908db6cae92723617/uploads/2026/04/17763348065703.pdf",
+        "title": "View (9 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s38d34201a5b85900908db6cae92723617/uploads/2026/04/17763354702444.pdf",
+        "title": "View (2 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s38d34201a5b85900908db6cae92723617/uploads/2026/04/17763348031650.pdf",
+        "title": "View (5 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s38d34201a5b85900908db6cae92723617/uploads/2025/07/17539643616915.pdf",
+        "title": "View (465 KB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s38d34201a5b85900908db6cae92723617/uploads/2025/07/17539643018437.pdf",
+        "title": "View (745 KB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s38d34201a5b85900908db6cae92723617/uploads/2025/07/17539642447238.pdf",
+        "title": "View (3 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s38d34201a5b85900908db6cae92723617/uploads/2025/07/17539641656007.pdf",
+        "title": "View (8 MB)"
+      }
+    ]
+  },
+  "Panchkula": {
+    "pages_ok": [
+      "https://panchkula.nic.in/document-category/collector-rate/"
+    ],
+    "pages_fail": [
+      {
+        "url": "https://panchkula.nic.in/document-category/collector-rate/",
+        "error": "'charmap' codec can't encode character '\\u2192' in position 70: character maps to <undefined>"
+      }
+    ],
+    "pdfs": [
+      {
+        "url": "https://cdn.s3waas.gov.in/s39b8619251a19057cff70779273e95aa6/uploads/2024/06/2024062849.pdf",
+        "title": "District Administration Structure &#8211; Mandatory Disclosure"
+      },
+      {
+        "url": "https://panchkula.nic.in/collectrate/",
+        "title": "Collectorate"
+      },
+      {
+        "url": "https://panchkula.nic.in/final-voter-list-for-mc-elections-2026",
+        "title": "Final Voter List for MC Elections 2026"
+      },
+      {
+        "url": "https://panchkula.nic.in/final-voter-list-for-panchayat-elections-2026",
+        "title": "Final Voter List for Panchayat Elections 2026"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s39b8619251a19057cff70779273e95aa6/uploads/2026/02/17719272102112.pdf",
+        "title": "Form 1A for Panchayat Elections 2026"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s39b8619251a19057cff70779273e95aa6/uploads/2026/02/17719272097417.pdf",
+        "title": "Form 1B for Panchayat Elections 2026"
+      },
+      {
+        "url": "https://panchkula.nic.in/document-category/collector-rate/",
+        "title": "Collector Rate"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s39b8619251a19057cff70779273e95aa6/uploads/2018/10/2018101799.pdf",
+        "title": "Disaster Management"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s39b8619251a19057cff70779273e95aa6/uploads/2022/10/2022101186.pdf",
+        "title": "Har Din Har Ghar Ayurveda (E-Kit)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s39b8619251a19057cff70779273e95aa6/uploads/2022/04/2022042626.pdf",
+        "title": "Policy for allotment of Government / Land for Social / Religious / Charitable / Community purpose to the trusts / Private institutions"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s39b8619251a19057cff70779273e95aa6/uploads/2023/12/2023122263.pdf",
+        "title": "Invitation of Comments including gaps/requirement regarding all Green Areas/Parks/Green Belts reserved in the respective areas of all the Municipal Bodies"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s39b8619251a19057cff70779273e95aa6/uploads/2026/04/17751267228948.pdf",
+        "title": "View (3 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s39b8619251a19057cff70779273e95aa6/uploads/2026/04/17751266283767.pdf",
+        "title": "View (6 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s39b8619251a19057cff70779273e95aa6/uploads/2026/04/17751263314565.pdf",
+        "title": "View (4 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s39b8619251a19057cff70779273e95aa6/uploads/2026/04/17751262794872.pdf",
+        "title": "View (3 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s39b8619251a19057cff70779273e95aa6/uploads/2026/04/17751261192925.pdf",
+        "title": "View (3 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s39b8619251a19057cff70779273e95aa6/uploads/2025/08/17545598404642.pdf",
+        "title": "View (6 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s39b8619251a19057cff70779273e95aa6/uploads/2025/08/17545581488880.pdf",
+        "title": "View (5 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s39b8619251a19057cff70779273e95aa6/uploads/2025/08/17545580665301.pdf",
+        "title": "View (7 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s39b8619251a19057cff70779273e95aa6/uploads/2025/08/17545580101229.pdf",
+        "title": "View (4 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s39b8619251a19057cff70779273e95aa6/uploads/2025/08/17545579173817.pdf",
+        "title": "View (5 MB)"
+      }
+    ]
+  },
+  "Sonipat": {
+    "pages_ok": [],
+    "pages_fail": [
+      {
+        "url": "https://sonipat.nic.in/document-category/collector-rate/",
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "url": "https://sonipat.gov.in/document-category/collector-rate/",
+        "error": "HTTP Error 404: Not Found"
+      }
+    ],
+    "pdfs": []
+  },
+  "Ambala": {
+    "pages_ok": [
+      "https://ambala.gov.in/document-category/collector-rate/"
+    ],
+    "pages_fail": [
+      {
+        "url": "https://ambala.gov.in/document-category/collector-rate/",
+        "error": "'charmap' codec can't encode character '\\u2192' in position 64: character maps to <undefined>"
+      }
+    ],
+    "pdfs": [
+      {
+        "url": "https://ambala.gov.in/document-category/collector-rate/",
+        "title": "Collector Rate"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s315d4e891d784977cacbfcbb00c48f133/uploads/2023/04/2023040340.pdf",
+        "title": "View (8 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s315d4e891d784977cacbfcbb00c48f133/uploads/2023/04/2023040361.pdf",
+        "title": "View (7 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s315d4e891d784977cacbfcbb00c48f133/uploads/2023/04/2023040317.pdf",
+        "title": "View (9 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s315d4e891d784977cacbfcbb00c48f133/uploads/2023/04/2023040393.pdf",
+        "title": "View (5 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s315d4e891d784977cacbfcbb00c48f133/uploads/2023/04/2023040387.pdf",
+        "title": "View (5 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s315d4e891d784977cacbfcbb00c48f133/uploads/2023/04/2023040382.pdf",
+        "title": "View (3 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s315d4e891d784977cacbfcbb00c48f133/uploads/2023/04/2023040382-1.pdf",
+        "title": "View (2 MB)"
+      }
+    ]
+  },
+  "Karnal": {
+    "pages_ok": [],
+    "pages_fail": [
+      {
+        "url": "https://karnal.gov.in/document-category/collector-rate/",
+        "error": "HTTP Error 404: Not Found"
+      }
+    ],
+    "pdfs": []
+  },
+  "Panipat": {
+    "pages_ok": [
+      "https://panipat.gov.in/document-category/collector-rate/"
+    ],
+    "pages_fail": [
+      {
+        "url": "https://panipat.gov.in/document-category/collector-rate/",
+        "error": "'charmap' codec can't encode character '\\u2192' in position 66: character maps to <undefined>"
+      }
+    ],
+    "pdfs": [
+      {
+        "url": "https://panipat.gov.in/document-category/collector-rate/",
+        "title": "Collector Rate"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s338b3eff8baf56627478ec76a704e9b52/uploads/2025/08/17563598064882.pdf",
+        "title": "View (6 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s338b3eff8baf56627478ec76a704e9b52/uploads/2025/08/17563740311831.pdf",
+        "title": "View (3 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s338b3eff8baf56627478ec76a704e9b52/uploads/2025/08/17563611233668.pdf",
+        "title": "View (4 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s338b3eff8baf56627478ec76a704e9b52/uploads/2025/08/17562929588228.pdf",
+        "title": "View (9 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s338b3eff8baf56627478ec76a704e9b52/uploads/2025/08/17563608558739.pdf",
+        "title": "View (1 MB)"
+      }
+    ]
+  },
+  "Hisar": {
+    "pages_ok": [],
+    "pages_fail": [
+      {
+        "url": "https://hisar.gov.in/document-category/collector-rate/",
+        "error": "HTTP Error 404: Not Found"
+      }
+    ],
+    "pdfs": []
+  },
+  "Rohtak": {
+    "pages_ok": [
+      "https://rohtak.gov.in/document-category/collector-rate/"
+    ],
+    "pages_fail": [
+      {
+        "url": "https://rohtak.gov.in/document-category/collector-rate/",
+        "error": "'charmap' codec can't encode character '\\u2192' in position 64: character maps to <undefined>"
+      }
+    ],
+    "pdfs": [
+      {
+        "url": "https://rohtak.gov.in/deputy-commissioner-collector/",
+        "title": "Deputy Commissioner/ Collector"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s37fe1f8abaad094e0b5cb1b01d712f708/uploads/2025/08/17548948026830.pdf",
+        "title": "View (9 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s37fe1f8abaad094e0b5cb1b01d712f708/uploads/2025/08/17548952573689.pdf",
+        "title": "View (1 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s37fe1f8abaad094e0b5cb1b01d712f708/uploads/2025/08/17548950368818.pdf",
+        "title": "View (7 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s37fe1f8abaad094e0b5cb1b01d712f708/uploads/2025/08/17548943997612.pdf",
+        "title": "View (8 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s37fe1f8abaad094e0b5cb1b01d712f708/uploads/2025/08/17548965263871.pdf",
+        "title": "View (2 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s37fe1f8abaad094e0b5cb1b01d712f708/uploads/2025/01/2025010140.pdf",
+        "title": "View (724 KB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s37fe1f8abaad094e0b5cb1b01d712f708/uploads/2025/01/2025010159.pdf",
+        "title": "View (2 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s37fe1f8abaad094e0b5cb1b01d712f708/uploads/2025/01/2025010115.pdf",
+        "title": "View (8 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s37fe1f8abaad094e0b5cb1b01d712f708/uploads/2025/01/2025010178.pdf",
+        "title": "View (2 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s37fe1f8abaad094e0b5cb1b01d712f708/uploads/2025/01/2025010167.pdf",
+        "title": "View (6 MB)"
+      }
+    ]
+  },
+  "Rewari": {
+    "pages_ok": [],
+    "pages_fail": [
+      {
+        "url": "https://rewari.gov.in/document-category/collector-rate/",
+        "error": "HTTP Error 404: Not Found"
+      }
+    ],
+    "pdfs": []
+  },
+  "Sirsa": {
+    "pages_ok": [],
+    "pages_fail": [
+      {
+        "url": "https://sirsa.gov.in/document-category/collector-rate/",
+        "error": "HTTP Error 404: Not Found"
+      }
+    ],
+    "pdfs": []
+  },
+  "Kurukshetra": {
+    "pages_ok": [],
+    "pages_fail": [
+      {
+        "url": "https://kurukshetra.gov.in/document-category/collector-rate/",
+        "error": "HTTP Error 404: Not Found"
+      }
+    ],
+    "pdfs": []
+  },
+  "Kaithal": {
+    "pages_ok": [],
+    "pages_fail": [
+      {
+        "url": "https://kaithal.gov.in/document-category/collector-rate/",
+        "error": "HTTP Error 404: Not Found"
+      }
+    ],
+    "pdfs": []
+  },
+  "Jind": {
+    "pages_ok": [
+      "https://jind.gov.in/document-category/collector-rate/"
+    ],
+    "pages_fail": [
+      {
+        "url": "https://jind.gov.in/document-category/collector-rate/",
+        "error": "'charmap' codec can't encode character '\\u2192' in position 60: character maps to <undefined>"
+      }
+    ],
+    "pdfs": [
+      {
+        "url": "https://jind.gov.in/document-category/collector-rate/",
+        "title": "Collector Rate"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s3218a0aefd1d1a4be65601cc6ddc1520e/uploads/2022/10/2022101050.pdf",
+        "title": "View (860 KB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s3218a0aefd1d1a4be65601cc6ddc1520e/uploads/2022/10/2022101096.pdf",
+        "title": "View (860 KB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s3218a0aefd1d1a4be65601cc6ddc1520e/uploads/2022/02/2022021717.pdf",
+        "title": "View (7 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s3218a0aefd1d1a4be65601cc6ddc1520e/uploads/2022/02/2022021734.pdf",
+        "title": "View (8 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s3218a0aefd1d1a4be65601cc6ddc1520e/uploads/2022/02/2022021741.pdf",
+        "title": "View (8 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s3218a0aefd1d1a4be65601cc6ddc1520e/uploads/2022/02/2022021779.pdf",
+        "title": "View (8 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s3218a0aefd1d1a4be65601cc6ddc1520e/uploads/2022/02/2022021745.pdf",
+        "title": "View (9 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s3218a0aefd1d1a4be65601cc6ddc1520e/uploads/2022/02/2022021782.pdf",
+        "title": "View (2 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s3218a0aefd1d1a4be65601cc6ddc1520e/uploads/2022/02/2022021738.pdf",
+        "title": "View (9 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s3218a0aefd1d1a4be65601cc6ddc1520e/uploads/2020/12/2020121567.pdf",
+        "title": "View (2 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s3218a0aefd1d1a4be65601cc6ddc1520e/uploads/2020/12/2020121593.pdf",
+        "title": "View (4 MB)"
+      }
+    ]
+  },
+  "Bhiwani": {
+    "pages_ok": [],
+    "pages_fail": [
+      {
+        "url": "https://bhiwani.gov.in/document-category/collector-rate/",
+        "error": "HTTP Error 404: Not Found"
+      }
+    ],
+    "pdfs": []
+  },
+  "Fatehabad": {
+    "pages_ok": [],
+    "pages_fail": [
+      {
+        "url": "https://fatehabad.gov.in/document-category/collector-rate/",
+        "error": "HTTP Error 404: Not Found"
+      }
+    ],
+    "pdfs": []
+  },
+  "Yamunanagar": {
+    "pages_ok": [
+      "https://yamunanagar.nic.in/document-category/collector-rate/"
+    ],
+    "pages_fail": [
+      {
+        "url": "https://yamunanagar.nic.in/document-category/collector-rate/",
+        "error": "'charmap' codec can't encode character '\\u2192' in position 74: character maps to <undefined>"
+      }
+    ],
+    "pdfs": [
+      {
+        "url": "https://cdn.s3waas.gov.in/s3428fca9bc1921c25c5121f9da7815cde/uploads/2025/05/2025051412.pdf",
+        "title": "List of CsC"
+      },
+      {
+        "url": "https://jamabandi.nic.in/HARIS/Collector1New",
+        "title": "Collector Rates"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s3428fca9bc1921c25c5121f9da7815cde/uploads/2018/05/2018052447.pdf",
+        "title": "View (856 KB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s3428fca9bc1921c25c5121f9da7815cde/uploads/2018/05/2018052419.pdf",
+        "title": "View (428 KB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s3428fca9bc1921c25c5121f9da7815cde/uploads/2018/05/20180524100.pdf",
+        "title": "View (640 KB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s3428fca9bc1921c25c5121f9da7815cde/uploads/2018/05/2018052489.pdf",
+        "title": "View (1 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s3428fca9bc1921c25c5121f9da7815cde/uploads/2018/05/2018052440.pdf",
+        "title": "View (1 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s3428fca9bc1921c25c5121f9da7815cde/uploads/2018/05/2018052498.pdf",
+        "title": "View (2 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s3428fca9bc1921c25c5121f9da7815cde/uploads/2018/05/2018052396.pdf",
+        "title": "View (2 MB)"
+      }
+    ]
+  },
+  "Palwal": {
+    "pages_ok": [],
+    "pages_fail": [
+      {
+        "url": "https://palwal.gov.in/document-category/collector-rate/",
+        "error": "HTTP Error 404: Not Found"
+      }
+    ],
+    "pdfs": []
+  },
+  "Nuh": {
+    "pages_ok": [
+      "https://nuh.gov.in/document-category/collector-rate/"
+    ],
+    "pages_fail": [
+      {
+        "url": "https://nuh.gov.in/document-category/collector-rate/",
+        "error": "'charmap' codec can't encode character '\\u2192' in position 58: character maps to <undefined>"
+      }
+    ],
+    "pdfs": [
+      {
+        "url": "https://nuh.gov.in/document-category/collector-rate/",
+        "title": "Collector Rate"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s3941e1aaaba585b952b62c14a3a175a61/uploads/2026/04/17767485176402.pdf",
+        "title": "View (6 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s3941e1aaaba585b952b62c14a3a175a61/uploads/2026/04/17767482528976.pdf",
+        "title": "View (5 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s3941e1aaaba585b952b62c14a3a175a61/uploads/2026/04/17767482506955.pdf",
+        "title": "View (7 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s3941e1aaaba585b952b62c14a3a175a61/uploads/2026/04/17767482483972.pdf",
+        "title": "View (4 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s3941e1aaaba585b952b62c14a3a175a61/uploads/2026/04/17767480789931.pdf",
+        "title": "View (8 MB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s3941e1aaaba585b952b62c14a3a175a61/uploads/2026/03/17746928116134.pdf",
+        "title": "View (860 KB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s3941e1aaaba585b952b62c14a3a175a61/uploads/2026/03/17746932876076.pdf",
+        "title": "View (789 KB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s3941e1aaaba585b952b62c14a3a175a61/uploads/2026/03/17746934938820.pdf",
+        "title": "View (802 KB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s3941e1aaaba585b952b62c14a3a175a61/uploads/2026/03/17746936528863.pdf",
+        "title": "View (948 KB)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s3941e1aaaba585b952b62c14a3a175a61/uploads/2026/03/17746937918255.pdf",
+        "title": "View (893 KB)"
+      }
+    ]
+  },
+  "Mahendragarh": {
+    "pages_ok": [],
+    "pages_fail": [
+      {
+        "url": "https://mahendragarh.gov.in/document-category/collector-rate/",
+        "error": "HTTP Error 404: Not Found"
+      }
+    ],
+    "pdfs": []
+  },
+  "CharkhiDadri": {
+    "pages_ok": [],
+    "pages_fail": [
+      {
+        "url": "https://charkhidadri.gov.in/document-category/collector-rate/",
+        "error": "HTTP Error 404: Not Found"
+      }
+    ],
+    "pdfs": []
+  },
+  "Gurugram": {
+    "pages_ok": [
+      "https://gurugram.gov.in/"
+    ],
+    "pages_fail": [
+      {
+        "url": "https://gurugram.gov.in/document-category/collector-rate/",
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "url": "https://gurugram.gov.in/",
+        "error": "'charmap' codec can't encode character '\\u2192' in position 35: character maps to <undefined>"
+      }
+    ],
+    "pdfs": [
+      {
+        "url": "https://gurugram.gov.in/collectorrates/",
+        "title": "Collector Rates"
+      },
+      {
+        "url": "https://gurugram.gov.in/collector-rate-year-2025/",
+        "title": "Collector Rate Year 2025"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s325b2822c2f5a3230abfadd476e8b04c9/uploads/2026/07/17842713063457.pdf",
+        "title": "Invitation to participate in the &#8216;CRPF@88: A Legacy of Service &amp; Loyalty&#8217; Nationwide citizen engagement campaign."
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s325b2822c2f5a3230abfadd476e8b04c9/uploads/2026/07/17842666795117.pdf",
+        "title": "Election Schedule for the Council of Indian System of Medicine(CIMS). Haryana"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s325b2822c2f5a3230abfadd476e8b04c9/uploads/2026/06/17821904453451.pdf",
+        "title": "Tender for Tailoring of uniform article for the period from 1-07-206 to 30-06-2028"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s325b2822c2f5a3230abfadd476e8b04c9/uploads/2026/06/17809119942172.pdf",
+        "title": "Short Term Tender Notice for International Yoga Day by Ayush Department"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s325b2822c2f5a3230abfadd476e8b04c9/uploads/2026/04/17763378985429.pdf",
+        "title": "List of polling stations for Panchayat Raj Institutions by-elections &#8211; 2026"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s325b2822c2f5a3230abfadd476e8b04c9/uploads/2026/04/17763376823742.pdf",
+        "title": "Frequently asked questions pertaining to the elections of Municipal Bodies"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s325b2822c2f5a3230abfadd476e8b04c9/uploads/2026/04/17760694071921.pdf",
+        "title": "Result for The post of Yoga Instructor(part time) under DAS, Gurugram"
+      },
+      {
+        "url": "https://gurugram.gov.in/final-collector-rate-year-2026-27/",
+        "title": "Final Collector Rate Year 2026-27"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s325b2822c2f5a3230abfadd476e8b04c9/uploads/2026/03/17748641654873.pdf",
+        "title": "District Ayush Society, Announcement Regarding List of eligible candidate for yoga instructor"
+      },
+      {
+        "url": "https://gurugram.gov.in/draft-collector-rate-year-2026/",
+        "title": "Draft Collector Rate Year 2026-27"
+      },
+      {
+        "url": "https://gurugram.gov.in/final-voterlist-of-panchayat-bye-election-2026/",
+        "title": "Final Voterlist of Panchayat bye Election 2026"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s325b2822c2f5a3230abfadd476e8b04c9/uploads/2026/03/17727866725818.pdf",
+        "title": "List of Total candidates applied for yoga instructor part time under DAS, GGM"
+      },
+      {
+        "url": "https://gurugram.gov.in/draft-voterlist-of-panchayat-bye-election-2026/",
+        "title": "Draft Voterlist of Panchayat bye Election 2026"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s325b2822c2f5a3230abfadd476e8b04c9/uploads/2026/02/17709771848420.pdf",
+        "title": "Proceeding of District Public Relations &amp; Grievances Committee meeting held on 09.02.2026 under the Chairmanship of Hon&#8217;ble Chief Minister, Government of Haryana"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s325b2822c2f5a3230abfadd476e8b04c9/uploads/2026/01/17675833821213.pdf",
+        "title": "Notice Regarding Republic Day Honour Ceremony"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s325b2822c2f5a3230abfadd476e8b04c9/uploads/2025/12/17663977186357.pdf",
+        "title": "Proceeding of District Public Relations &amp; Grievances Committee meeting held on 17.12.2025 under the Chairmanship of Hon&#8217;ble Chief Minister, Government of Haryana"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s325b2822c2f5a3230abfadd476e8b04c9/uploads/2025/11/17635357207578.pdf",
+        "title": "Tender for Geeta Mahotsav &#8211; 2025"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s325b2822c2f5a3230abfadd476e8b04c9/uploads/2025/11/17631190866396.pdf",
+        "title": "Hybrid mode upto 5th classes"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s325b2822c2f5a3230abfadd476e8b04c9/uploads/2025/10/17606148541744.pdf",
+        "title": "Order under section 163 of Bhartiya Nagarik Suraksha Sanhita 2023 (Ban of Firecrackers)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s325b2822c2f5a3230abfadd476e8b04c9/uploads/2025/08/17545534887312.pdf",
+        "title": "Notice inviting application from Corporate/NGO&#8217;s/Celebrities/Sports Persons etc for Commendation Certificate to be given on 15 August 2025 Celebration"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s325b2822c2f5a3230abfadd476e8b04c9/uploads/2025/07/17534263135597.pdf",
+        "title": "Sensitizing Industries as well as Infrastructure Projects to obtain groundwater extraction permission/NOC falling in District Gurugram"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s325b2822c2f5a3230abfadd476e8b04c9/uploads/2025/04/2025040915.pdf",
+        "title": "Rajiv Chowk Vehicle Parking (Bids invited by Red Cross Society Gurugram)"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s325b2822c2f5a3230abfadd476e8b04c9/uploads/2025/04/2025040332.pdf",
+        "title": "Applications for Empanelment of Support Persons in WCD Department"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s325b2822c2f5a3230abfadd476e8b04c9/uploads/2022/11/2022112341.pdf",
+        "title": "Implementation of Section 144 for&nbsp; ban on&nbsp; the use of Drone for photography and bursting of crackers during marriage ceremony in 03 kms radius from perimeter of 54 Air Stores Park, Air Force"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s325b2822c2f5a3230abfadd476e8b04c9/uploads/2025/08/17551552819558.pdf",
+        "title": "Tender for Repair of printers"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s325b2822c2f5a3230abfadd476e8b04c9/uploads/2025/08/17551552832911.pdf",
+        "title": "Tender for Refilling/replacement of drum/magnet/blade of toner/cartridge of printers"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s325b2822c2f5a3230abfadd476e8b04c9/uploads/2025/05/2025052854.pdf",
+        "title": "Tender for Purchasing T-shirt, Refreshment and Hiring of Tentage items for International Yoga Day on 21 june 2025"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s325b2822c2f5a3230abfadd476e8b04c9/uploads/2025/05/2025051249.pdf",
+        "title": "Tender for Repair of printers"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s325b2822c2f5a3230abfadd476e8b04c9/uploads/2025/05/2025051263.pdf",
+        "title": "Tender for Refilling/replacement of drum/magnet/blade of toner/cartridge of printers"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s325b2822c2f5a3230abfadd476e8b04c9/uploads/2025/02/2025020329.pdf",
+        "title": "Tender for Provision of House Keeping Services"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s325b2822c2f5a3230abfadd476e8b04c9/uploads/2024/11/2024112982.pdf",
+        "title": "District Administration is seeking quotations for different items and services for Geeta Jayanti Mahotsav 2024"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s325b2822c2f5a3230abfadd476e8b04c9/uploads/2024/11/2024111356.pdf",
+        "title": "Housekeeping Services Tender &#8211; District Administration Invites Bids for Housekeeping Service at Mini Secretariat Building-Last date of submission of tender document is 22.11.2024"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s325b2822c2f5a3230abfadd476e8b04c9/uploads/2018/03/2018031520.pdf",
+        "title": "Aadhaar New Enrollment/Update/Correction Forms"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s325b2822c2f5a3230abfadd476e8b04c9/uploads/2018/03/2018031598.pdf",
+        "title": "Introducer Form"
+      },
+      {
+        "url": "https://cdn.s3waas.gov.in/s325b2822c2f5a3230abfadd476e8b04c9/uploads/2018/03/2018031527.pdf",
+        "title": "UIDAI Aadhaar Contacts"
+      }
+    ]
+  }
+}

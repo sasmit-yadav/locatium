@@ -1,0 +1,385 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Sirsa,Rania,अबूतगढ़,ABUTGARH,agricultural,431.82,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,अबूतगढ़,ABUTGARH,agricultural,250.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,अबूतगढ़,ABUTGARH,residential,1450,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,अबूतगढ़,ABUTGARH,agricultural,295.45,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,अबूतगढ़,link road up to 2 acer,agricultural,475.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,अबूतगढ़,Revenue kacha rasta upto1 acer,agricultural,453.41,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,अभोली,ABHOLI,agricultural,588.84,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,अभोली,ABHOLI,agricultural,539.77,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,अभोली,ABHOLI,agricultural,250.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,अभोली,ABHOLI,residential,1700,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,अभोली,ABHOLI HIGH WAY ROAD 3 TO 5 KM,agricultural,6890.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,अभोली,ABHOLI HIGH WAY ROAD 3 TO 5 KM,agricultural,6590.91,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,अभोली,ABHOLI AUTO MARKET 10 10 BUILT,commercial,3000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,अभोली,ABHOLI AUTO MARKET 10 10 UNBUILT,commercial,2100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,अभोली,ABHOLI AUTO MARKET 10 20 BUILT,commercial,2000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,अभोली,ABHOLI AUTO MARKET 10 20 UNBUILT,commercial,1300,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,अभोली,ABHOLI AUTO MARKET 12 30 BUILT,commercial,1550,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,अभोली,ABHOLI AUTO MARKET 12 30 UNBUILT,commercial,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,अभोली,ABHOLI HIGH WAY ROAD 3 TO 5 KILLA,agricultural,723.14,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,अभोली,ABHOLI HIGHWAY ROAD,agricultural,1045.45,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,अभोली,ABHOLI WITH IN MC AREA,residential,2000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,अभोली,BATHLA COLONY UC-05,residential,5100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,अभोली,BATHLA COLONY UC-05,commercial,8200,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,अभोली,link road up to 2 acer,agricultural,480.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,अभोली,Revenue kacha rasta upto 1 acer,agricultural,458.18,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,ओटू,link road up to 2 acer,agricultural,475.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,ओटू,OTTU,agricultural,755.68,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,ओटू,OTTU,agricultural,431.82,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,ओटू,OTTU,agricultural,250.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,ओटू,OTTU,residential,1450,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,ओटू,OTTU,residential,1500,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,ओटू,OTTU HIGH WAY ROAD 3 TO 5 KM,agricultural,602.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,ओटू,OTTU HIGHWAY ROAD,agricultural,931.82,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,ओटू,राजस्व कच्चा रास्ता 1 एकड़ तक,agricultural,453.41,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,करीवाला,JIWAN NAGAR TO KARIWALA,agricultural,784.09,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,करीवाला,JIWANNAGAR TO KARIWALA 3TO 5 KM,agricultural,602.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,करीवाला,KARIWALA,agricultural,431.82,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,करीवाला,KARIWALA,agricultural,250.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,करीवाला,KARIWALA,residential,1450,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,करीवाला,KARIWALA,agricultural,295.45,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,करीवाला,link road up to 2 acer,agricultural,480.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,करीवाला,राजस्व कच्चा रास्ता 1 एकड़ तक,agricultural,458.18,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,कुस्सर,KUSSAR,agricultural,318.18,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,कुस्सर,KUSSAR,agricultural,204.55,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,कुस्सर,KUSSAR,residential,1450,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,कुस्सर,link road up to 2 acer,agricultural,357.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,कुस्सर,link road up to 2 acer,agricultural,518.38,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,कुस्सर,राजस्व कच्चा रास्ता 1 एकड तक,agricultural,341.25,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,केहरवाला,KEHARWALA,agricultural,318.18,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,केहरवाला,KEHARWALA,agricultural,432.44,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,केहरवाला,KEHARWALA,agricultural,265.91,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,केहरवाला,KEHARWALA,residential,1450,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,केहरवाला,KEHARWALA HIGH ROAD 3 TO 5 KM,agricultural,477.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,केहरवाला,KEHARWALA HIGHWAY ROAD,agricultural,704.55,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,केहरवाला,link road up to 2 acer,agricultural,357.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,केहरवाला,राजस्व कच्चा रास्ता 1 एकड तक,agricultural,341.25,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,खाजाखेड़ा,KHAJA KHERA,agricultural,318.18,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,खाजाखेड़ा,KHAJA KHERA,agricultural,218.18,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,खाजाखेड़ा,KHAJA KHERA,residential,1450,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,खाजाखेड़ा,link road up to 2 acer,agricultural,360.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,खाजाखेड़ा,राजस्व कच्चा रास्ता 1 एकड तक,agricultural,343.64,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,खारिया,KHARIAN,residential,1450,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,खारिया,KHARIAN,agricultural,318.18,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,खारिया,KHARIAN,agricultural,218.18,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,खारिया,link road up to 2 acer,agricultural,360.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,खारिया,राजस्व कच्चा रास्ता 1 एकड तक,agricultural,343.64,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,गिन्दडा,GINDRAN,agricultural,272.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,गिन्दडा,GINDRAN,agricultural,250.91,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,गिन्दडा,GINDRAN,residential,1450,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,गिन्दडा,GINDRAN,residential,1600,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,गिन्दडा,link road up to 2 acer,agricultural,300.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,गिन्दडा,राजस्व कच्चा रास्ता 1 एकड तक,agricultural,286.36,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,घोड़वाली,GHORANWALI,agricultural,272.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,घोड़वाली,GHORANWALI,agricultural,354.55,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,घोड़वाली,GHORANWALI,agricultural,218.18,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,घोड़वाली,GHORANWALI,residential,1450,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,घोड़वाली,link road up to 2 acer,agricultural,300.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,घोड़वाली,राजस्व कच्चा रास्ता 1 एकड तक,agricultural,286.36,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,चक्का,CHAKKAN,agricultural,318.18,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,चक्का,CHAKKAN,agricultural,218.18,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,चक्का,CHAKKAN,residential,1450,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,चक्का,CHAKKAN,residential,1667.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,चक्का,link road up to 2 acer,agricultural,360.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,चक्का,राजस्व कच्चा रास्ता 1 एकड तक,agricultural,343.64,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,जीवननगर,BUS STAND TO PUMP 20 50 BUILT,commercial,2650,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,जीवननगर,BUS STAND TO PUMP 20 50 UNBUILT,commercial,2000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,जीवननगर,BUS STAND TO PUMP 20 85 UNBUILT,commercial,1600,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,जीवननगर,BUS TO PETROL PUMP 20 85,commercial,2200,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,जीवननगर,J N BOOTH 69-113 BUILT,commercial,4200,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,जीवननगर,J N BOOTH 69-113 UNBUILT,commercial,3500,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,जीवननगर,J N SHOP 1 TO 57 BUILT,commercial,2300,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,जीवननगर,J N SHOP 1 TO 57 UNBUILT,commercial,2100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,जीवननगर,J N SHOP 58 TO 68 BUILT,commercial,3400,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,जीवननगर,J N SHOP 58 TO 68 UNBUILT,commercial,2900,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,जीवननगर,JIWAN NAGAR,agricultural,539.77,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,जीवननगर,JIWAN NAGAR,agricultural,496.59,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,जीवननगर,JIWAN NAGAR,agricultural,250.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,जीवननगर,JIWAN NAGAR,residential,1650,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,जीवननगर,JIWAN NAGAR,residential,1750,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,जीवननगर,JIWAN NAGAR HIGHWAY ROAD,agricultural,852.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,जीवननगर,JIWAN NAGAR SANTNAGAR,agricultural,1136.93,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,जीवननगर,JIWAN NAGAR CHOUK MURBA 3TO 5 KM,agricultural,602.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,जीवननगर,JIWAN NAGAR CHOWK,agricultural,931.82,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,जीवननगर,JIWAN NAGAR DAMDMA HIGHWAY ROAD,agricultural,784.09,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,जीवननगर,JIWAN NAGAR NEAR TO BUS STAND 12 15,commercial,4400,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,जीवननगर,JIWAN NAGAR OT NAKODA 3 TO 5 KM,agricultural,602.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,जीवननगर,JIWAN NAGAR SE DABWALI HIGH VILL DUDIANWALI TK 3 TO 5 KM,agricultural,602.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,जीवननगर,JIWAN NAGAR SE DABWALI HIGH VILL DUDIANWALI TK 3 TO 5 KM,agricultural,692.61,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,जीवननगर,JIWAN NAGAR TO DABWALI,agricultural,784.09,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,जीवननगर,JIWAN NAGAR TO DAMDAMA 3 TO 5 KM,agricultural,602.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,जीवननगर,JIWAN NAGAR TO DAMDAMA,agricultural,784.09,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,जीवननगर,JIWAN NAGAR TO ELLENABAD,agricultural,829.55,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,जीवननगर,JIWAN NAGAR TO HARIPURA 3 TO 5 KM,agricultural,602.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,जीवननगर,JIWAN NAGAR TO KARIWALA,agricultural,784.09,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,जीवननगर,JIWAN NAGAR TO KARIWALA 3 TO 5 KM,agricultural,602.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,जीवननगर,JIWAN NAGAR TO NAKORA,agricultural,829.55,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,जीवननगर,JIWAN NAGAR TO SANTNAGAR 3 TO 5 KM,agricultural,692.61,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,जीवननगर,JIWAN NAGAR TO SANTNAGAR 3 TO 5 KM,agricultural,602.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,जीवननगर,JIWANNAGAR TO ELLENABAD 3 TO 5 KM,agricultural,602.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,जीवननगर,link road up to 2 acer,agricultural,480.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,जीवननगर,NEAR BUS STAND UNBUILT,commercial,3650,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,जीवननगर,राजस्व कच्चा रास्ता 1 एकड तक,agricultural,458.18,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,जोधपुरिया,JODHPURIA,agricultural,318.18,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,जोधपुरिया,JODHPURIA,agricultural,272.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,जोधपुरिया,JODHPURIA,residential,1450,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,जोधपुरिया,link road up to 2 acer,agricultural,360.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,दुधियावाली,DHUDHIANWALI,agricultural,454.55,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,दुधियावाली,DHUDHIANWALI,agricultural,363.64,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,दुधियावाली,DHUDHIANWALI,agricultural,285.12,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,दुधियावाली,DHUDHIANWALI,residential,1450,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,दुधियावाली,DHUDHIANWALI HIGHWAY ROAD,agricultural,829.55,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,दुधियावाली,DUDIANWALI HIGH WAY ROAD 3 TO 5 KM,agricultural,477.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,दुधियावाली,link road up to 2 acer,agricultural,390.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,दुधियावाली,राजस्व कच्चा रास्ता 1 एकड तक,agricultural,372.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,दारियावाला,DAREWALA,agricultural,272.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,दारियावाला,DAREWALA,agricultural,285.12,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,दारियावाला,DAREWALA,agricultural,218.18,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,दारियावाला,DAREWALA,residential,1450,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,दारियावाला,link road up to 2 acer,agricultural,300.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,दारियावाला,राजस्व कच्चा रास्ता 1 एकड तक,agricultural,286.36,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,धनुर्,DHANOOR,agricultural,431.82,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,धनुर्,DHANOOR,agricultural,250.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,धनुर्,DHANOOR,residential,1450,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,धनुर्,DHANOOR,agricultural,295.45,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,धनुर्,link road up to 2 acer,agricultural,480.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,धनुर्,Revenue kacha rasta upto1 acer,agricultural,458.18,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,धोतड,DHOTTAR,agricultural,445.45,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,धोतड,DHOTTAR,agricultural,250.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,धोतड,DHOTTAR,residential,1450,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,धोतड,link road up to 2 acer,agricultural,490.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,धोतड,राजस्व कच्चा रास्ता 1 एकड तक,agricultural,467.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,नकौडा,JIWAN NAGAR SE NAKODA 3 TO 5 KM,agricultural,602.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,नकौडा,link road up to 2 acer,agricultural,475.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,नकौडा,NAKORA,agricultural,431.82,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,नकौडा,NAKORA,agricultural,564.31,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,नकौडा,NAKORA,agricultural,250.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,नकौडा,NAKORA,residential,1450,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,नकौडा,NAKORA HIGHWAY ROAD,agricultural,829.55,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,नकौडा,राजस्व कच्चा रास्ता 1 एकड तक,agricultural,453.41,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,नगराना,link road up to 2 acer,agricultural,480.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,नगराना,NAGRANA,agricultural,431.82,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,नगराना,NAGRANA,agricultural,250.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,नगराना,NAGRANA,residential,1450,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,नगराना,Revenue kacha rasta upto1 acer,agricultural,458.18,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,नथोर,link road up to 2 acer,agricultural,300.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,नथोर,NATHOAR,agricultural,272.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,नथोर,NATHOAR,agricultural,218.18,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,नथोर,NATHOAR,residential,1450,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,नथोर,राजस्व कच्चा रास्ता 1 एकड तक,agricultural,286.36,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,नाईवाला,link road up to 2 acer,agricultural,390.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,नाईवाला,NAIWALA,agricultural,352.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,नाईवाला,NAIWALA,agricultural,238.02,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,नाईवाला,NAIWALA,residential,1450,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,नाईवाला,राजस्व कच्चा रास्ता 1 एकड तक,agricultural,372.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,नानुआना,link road up to 2 acer,agricultural,475.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,नानुआना,NANUANA,agricultural,431.82,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,नानुआना,NANUANA,agricultural,250.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,नानुआना,NANUANA,residential,1450,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,नानुआना,NANUANA,residential,1667.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,नानुआना,राजस्व कच्चा रास्ता 1 एकड तक,agricultural,453.41,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,पीरखेडा,link road up to 2 acer,agricultural,360.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,पीरखेडा,PEER KHERA,agricultural,318.18,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,पीरखेडा,PEER KHERA,agricultural,218.18,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,पीरखेडा,PEER KHERA,residential,1450,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,पीरखेडा,PEER KHERA,residential,2537.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,पीरखेडा,राजस्व कच्चा रास्ता 1 एकड तक,agricultural,343.64,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,फतेहपुरिया,FATEH PURIA,agricultural,431.82,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,फतेहपुरिया,FATEH PURIA,agricultural,325.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,फतेहपुरिया,FATEH PURIA,residential,1450,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,फतेहपुरिया,link road up to 2 acer,agricultural,480.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,फतेहपुरिया,राजस्व कच्चा रास्ता 1 एकड तक,agricultural,458.18,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,फिरोजाबाद,FEROZABAD,agricultural,431.82,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,फिरोजाबाद,FEROZABAD,agricultural,250.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,फिरोजाबाद,FEROZABAD,residential,1450,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,फिरोजाबाद,link road up to 2 acer,agricultural,480.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,फिरोजाबाद,राजस्व कच्चा रास्ता 1 एकड तक,agricultural,458.18,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,बढेर,BACHER,agricultural,272.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,बढेर,BACHER,agricultural,218.18,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,बढेर,BACHER,residential,1450,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,बढेर,link road up to 2 acer,agricultural,300.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,बढेर,Revenue kacha rasta upto1 acer,agricultural,286.36,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,बनी,BANI,agricultural,431.82,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,बनी,BANI,agricultural,250.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,बनी,BANI,residential,1450,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,बनी,BANI,agricultural,295.45,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,बनी,BANI VILLAGE ME ANAJ MANDI KI SHOP,commercial,1450,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,बनी,link road up to 2 acer,agricultural,475.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,बनी,NEAR BANI BUS STAND,commercial,5500,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,बनी,राजस्व कच्चा रास्ता 1 एकड तक,agricultural,453.41,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,बालासर,BALASAR,agricultural,431.82,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,बालासर,BALASAR,agricultural,250.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,बालासर,BALASAR,residential,1450,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,बालासर,BALASAR,residential,1667.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,बालासर,link road up to 2 acer,agricultural,480.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,बालासर,Revenue kacha rasta upto1 acer,agricultural,458.18,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,बाहिया,BAHIA,agricultural,539.77,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,बाहिया,BAHIA,agricultural,431.82,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,बाहिया,BAHIA,agricultural,250.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,बाहिया,BAHIA,residential,1450,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,बाहिया,link road up to 2 acer,agricultural,480.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,बाहिया,Revenue kacha rasta upto1 acer,agricultural,458.18,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,बुखाराखेडा,BUKHARA KHERA,agricultural,318.18,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,बुखाराखेडा,BUKHARA KHERA,agricultural,250.91,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,बुखाराखेडा,BUKHARA KHERA,residential,1450,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,बुखाराखेडा,link road up to 2 acer,agricultural,356.25,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,बुखाराखेडा,राजस्व कच्चा रास्ता 1 एकड तक,agricultural,340.06,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,भडोलावाली,BHADOLAWALI HIIGH WAY 3 TO 5 KM,agricultural,659.09,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,भडोलावाली,BHAROLANWALI,agricultural,626.14,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,भडोलावाली,BHAROLANWALI,agricultural,496.59,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,भडोलावाली,BHAROLANWALI,agricultural,250.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,भडोलावाली,BHAROLANWALI,residential,1450,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,भडोलावाली,BHAROLANWALI HIGHWAY ROAD,agricultural,977.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,भडोलावाली,link road up to 2 acer,agricultural,480.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,भडोलावाली,link road up to 2 acer,agricultural,840.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,भडोलावाली,राजस्व कच्चा रास्ता 1 एकड तक,agricultural,458.18,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,भूना,BHUNA,agricultural,318.18,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,भूना,BHUNA,agricultural,218.18,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,भूना,BHUNA,residential,1450,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,भूना,link road up to 2 acer,agricultural,360.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,भूना,राजस्व कच्चा रास्ता 1 एकड तक,agricultural,343.64,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,मंगालिया,link road up to 2 acer,agricultural,480.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,मंगालिया,MANGALIA,agricultural,431.82,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,मंगालिया,MANGALIA,agricultural,539.77,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,मंगालिया,MANGALIA,agricultural,250.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,मंगालिया,MANGALIA,residential,1450,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,मंगालिया,राजस्व कच्चा रास्ता 1 एकड तक,agricultural,458.18,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,मतुवाला,link road up to 2 acer,agricultural,300.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,मतुवाला,MATTUWALA,agricultural,272.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,मतुवाला,MATTUWALA,agricultural,316.36,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,मतुवाला,MATTUWALA,residential,1450,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,मतुवाला,राजस्व कच्चा रास्ता 1 एकड तक,agricultural,286.36,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,मम्मडखेडा,link road up to 2 acer,agricultural,300.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,मम्मडखेडा,MAMMER KHERA,agricultural,272.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,मम्मडखेडा,MAMMER KHERA,agricultural,250.91,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,मम्मडखेडा,MAMMER KHERA,residential,1450,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,मम्मडखेडा,राजस्व कच्चा रास्ता 1 एकड तक,agricultural,286.36,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,महमदपुरिया,link road up to 2 acer,agricultural,480.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,महमदपुरिया,MOHAMADPURIA,agricultural,431.82,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,महमदपुरिया,MOHAMADPURIA,agricultural,250.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,महमदपुरिया,MOHAMADPURIA,residential,1450,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,महमदपुरिया,राजस्व कच्चा रास्ता 1 एकड तक,agricultural,458.18,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,मैहनाखेडा,link road up to 2 acer,agricultural,390.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,मैहनाखेडा,MEHNA KHERA,agricultural,352.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,मैहनाखेडा,MEHNA KHERA,agricultural,218.18,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,मैहनाखेडा,MEHNA KHERA,residential,1450,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,मैहनाखेडा,राजस्व कच्चा रास्ता 1 एकड तक,agricultural,372.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,मोडावाली,link road up to 2 acer,agricultural,360.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,मोडावाली,MOHARNWALI,agricultural,318.18,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,मोडावाली,MOHARNWALI,agricultural,218.18,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,मोडावाली,MOHARNWALI,residential,1450,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,मोडावाली,राजस्व कच्चा रास्ता 1 एकड तक,agricultural,343.64,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,ANAJ MANDI SHOP 20 80 UNBUILT,commercial,2550,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,SOCIETY TO DHARAMKANTA,residential,10875,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,SOCIETY TO DHARAMKANTA,commercial,25875,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,ANAJ MANDI SHOP 20 80 BULIT,commercial,3300,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,ANAJ MANDI SHOP 25 125 BUILT,commercial,2645,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,ANAJ MANDI SHOP UNBULIT 20 125,commercial,1900,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,ANAJ MANDI TO SHARMA CLINIC,residential,7800,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,ANAJ MANDI TO SHARMA CLINIC,commercial,27500,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,BADI MOHALLA 23,residential,7360,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,BADI MOHALLA 23,commercial,22000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,BALASAR ROAD TO SHIVPURI,residential,1900,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,BALASAR ROAD TO SHIVPURI,commercial,5100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,BDO OFF TO HIGH SCHOOL,residential,4485,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,BDO OFF TO HIGH SCHOOL,commercial,11000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,BDO OFF TO BHAGAT SINGH CHOWK,residential,5375,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,BDO OFF TO BHAGAT SINGH CHOWK,commercial,25000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,BHAGAT SINGH CHOWK AROUND AREA,residential,7200,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,BHAGAT SINGH CHOWK AROUND AREA,commercial,47300,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,BHAGAT SINGH CHOWK TO GALI NIRANJAN,residential,4100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,BHAGAT SINGH CHOWK TO GALI NIRANJAN,commercial,22000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,BHAGAT SINGH CHOWK TO HOSPITAL,residential,4400,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,BHAGAT SINGH CHOWK TO HOSPITAL,commercial,11000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,bijlighar TO murba n0 187,residential,4100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,bijlighar TO murba n0 187,commercial,17600,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,BOOTH ANAJ MANDI 12 30 BULIT,commercial,7500,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,BOOTH ANAJ MANDI 12 30 UNBULIT,commercial,5750,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,BOOTH ANAJ MANDI 16 75 BULIT,commercial,3400,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,BOOTH ANAJ MANDI 16 75 UNBULIT,commercial,2900,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,DHARAMKANTA TO BIJLI GHAR,residential,5060,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,DHARAMKANTA TO BIJLI GHAR,commercial,22000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,DHARAMKANTA TO NAKORA BAZZAR,residential,3100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,DHARAMKANTA TO NAKORA BAZZAR,commercial,12650,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,GALI AMRITSARIYA WALI TO,residential,16800,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,GALI AMRITSARIYA WALI TO,commercial,47300,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,GALI NIRANJAN TO BALASAR ROAD,residential,4945,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,GALI NIRANJAN TO BALASAR ROAD,commercial,14547.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,GATTA FACTORY TO NAGARPALIKA,residential,2300,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,GATTA FACTORY TO NAGARPALIKA,commercial,4400,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,HIGH SCHOOL TO NAGARPALIKA SEEMA,residential,2700,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,HIGH SCHOOL TO NAGARPALIKA SEEMA,commercial,7200,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,HIGH SCHOOL TO PIPAL WALI GALI,residential,3625,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,HIGH SCHOOL TO PIPAL WALI GALI,commercial,6600,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,HIGH SCHOOL TO SULTANPURIA ROAD,residential,3300,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,HIGH SCHOOL TO SULTANPURIA ROAD,commercial,5100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,JAJ COLONY 24,residential,5500,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,JAJ COLONY 24,commercial,18515,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,KABEER BASTI N ANAJ MANDI 26,residential,2200,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,KABEER BASTI N ANAJ MANDI 26,commercial,5100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,MAIN ROAD TO GALI AMRITSARIYA WALI,residential,11250,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,MAIN ROAD TO GALI AMRITSARIYA WALI,commercial,47300,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,MOHALLA BALMIKI 27,residential,3000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,MOHALLA BALMIKI 27,commercial,7100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,MOHALLA HIMMATPURA 25,residential,3000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,MOHALLA HIMMATPURA 25,commercial,8800,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,NAKORA BAZZAR TO GATTA FACTORY,residential,2600,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,NAKORA BAZZAR TO GATTA FACTORY,commercial,10400,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,NAMDHARI MOHALLA 28,residential,3600,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,NAMDHARI MOHALLA 28,commercial,14400,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,PIPAL WALI GALI TO BALASAR ROAD,residential,2200,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,PIPAL WALI GALI TO BALASAR ROAD,commercial,2800,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,RANIA,agricultural,549.59,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,RANIA,agricultural,632.02,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,RANIA,agricultural,261.36,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,RANIA,residential,2100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,RANIA,agricultural,295.45,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,RANIA,residential,2000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,RANIA HIGH WAY ROAD 3 TO 5 KM,agricultural,602.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,RANIA HIGHWAY ROAD,agricultural,1188.02,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,RANIA REVENUE RASTA 1 ACER TAKK,agricultural,578.51,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,SACHHA SAUDA TO BDO OFF,residential,5750,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,SACHHA SAUDA TO BDO OFF,commercial,14605,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,SHARMA CLINIC TO BDO OFF,residential,4600,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,SHARMA CLINIC TO BDO OFF,commercial,22880,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,SHARMA CLINIC TO SOCIETY,residential,8300,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,SHARMA CLINIC TO SOCIETY,commercial,39100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,UC-R-0 NEW COLONY,residential,4070,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,UC-R-0 NEW COLONY,commercial,17600,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,UC-R-1 NEW COLONY,residential,4400,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,UC-R-1 NEW COLONY,commercial,17600,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,UC-R-8 NEW COLONY,residential,3300,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,रानिया,UC-R-8 NEW COLONY,commercial,5100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,सादेवाला,link road up to 2 acer,agricultural,390.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,सादेवाला,Revenue kacha rasta upto1 acer,agricultural,372.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,सादेवाला,SADEWALA,agricultural,352.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,सादेवाला,SADEWALA,agricultural,405.11,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,सादेवाला,SADEWALA,agricultural,262.31,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,सादेवाला,SADEWALA,residential,1450,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,सादेवाला,SADEWALA HIGH ROAD 3 TO 5 KM,agricultural,477.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,सादेवाला,SADEWALA HIGHWAY ROAD,agricultural,704.55,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,सुलतानपुरिया,link road up to 2 acer,agricultural,480.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,सुलतानपुरिया,SULTANPURIA,agricultural,431.82,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,सुलतानपुरिया,SULTANPURIA,agricultural,250.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,सुलतानपुरिया,SULTANPURIA,residential,1450,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,सुलतानपुरिया,राजस्व कच्चा रास्ता 1 एकड तक,agricultural,458.18,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,सैनपाल,link road up to 2 acer,agricultural,390.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,सैनपाल,link road up to 2 acer,agricultural,487.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,सैनपाल,Revenue kacha rasta upto1 acer,agricultural,372.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,सैनपाल,SAINPAL,agricultural,352.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,सैनपाल,SAINPAL,agricultural,218.18,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,सैनपाल,SAINPAL,residential,1450,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,हरिपुरा,HARIPURA,agricultural,431.82,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,हरिपुरा,HARIPURA,agricultural,496.59,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,हरिपुरा,HARIPURA,agricultural,250.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,हरिपुरा,HARIPURA,residential,1450,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,हरिपुरा,HARIPURA HIGHWAY ROAD,agricultural,784.09,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,हरिपुरा,JIWAN NAGAR TO HARIPURA 3 TO 5 KM,agricultural,602.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,हरिपुरा,link road up to 2 acer,agricultural,480.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,हरिपुरा,राजस्व कच्चा रास्ता 1 एकड तक,agricultural,458.18,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,हारनीखुर्द,HARNI KHURD,residential,1450,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,हारनीखुर्द,HARNI KHURD,agricultural,431.82,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,हारनीखुर्द,HARNI KHURD,agricultural,250.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,हारनीखुर्द,link road up to 2 acer,agricultural,480.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Rania,हारनीखुर्द,राजस्व कच्चा रास्ता 1 एकड तक,agricultural,458.18,2026-04-01,sirsa_gov_in_dc_notification

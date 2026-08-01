@@ -1,0 +1,115 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Kaithal,Kalayat,Kalayat,Kalayat,agricultural,557.85,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kalayat,Kalayat,residential,4100,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kalayat,In Side MC,agricultural,764.46,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Batta,Batta,agricultural,392.56,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Batta,Batta,residential,2000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Balu,Balu,agricultural,392.56,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Balu,Balu,residential,2000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Matour,Matour,agricultural,392.56,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Matour,Matour,residential,2000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kailram,Kailram,agricultural,392.56,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kailram,Kailram,residential,2000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Chausala,Chausala,agricultural,392.56,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Chausala,Chausala,residential,2000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Wajirnagar,Wajirnagar,agricultural,413.22,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Wajirnagar,Wajirnagar,residential,2000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,RamgarhPandwa,Ramgarh Pandwa,agricultural,392.56,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,RamgarhPandwa,Ramgarh Pandwa,residential,2000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,KharakPandwa,Kharak Pandwa,agricultural,423.55,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,KharakPandwa,Kharak Pandwa,residential,2000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Barmniwala,Barmniwala,agricultural,392.56,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Barmniwala,Barmniwala,residential,2000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,KheriLamba,Kheri Lamba,agricultural,392.56,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,KheriLamba,Kheri Lamba,residential,2000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kurar,Kurar,agricultural,392.56,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kurar,Kurar,residential,2000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kolekhan,Kolekhan,agricultural,392.56,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kolekhan,Kolekhan,residential,2000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Dundwan,Dundwan,agricultural,392.56,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Dundwan,Dundwan,residential,2000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Dubal,Dubal,agricultural,392.56,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Dubal,Dubal,residential,2000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Bhalang,Bhalang,agricultural,392.56,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Bhalang,Bhalang,residential,2000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,BeerKhadalwa,Beer Khadalwa,agricultural,392.56,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,BeerKhadalwa,Beer Khadalwa,residential,2000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,BarsikiriKhurd,Barsikiri Khurd,agricultural,392.56,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,BarsikiriKhurd,Barsikiri Khurd,residential,2000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,BarsikiriKalan,Barsikiri Kalan,agricultural,392.56,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,BarsikiriKalan,Barsikiri Kalan,residential,2000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Haripura,Haripura,agricultural,392.56,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Haripura,Haripura,residential,2000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,DhaniKhera,Dhani Khera,agricultural,392.56,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,DhaniKhera,Dhani Khera,residential,2000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kalasar,Kalasar,agricultural,392.56,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kalasar,Kalasar,residential,2000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Pinjupura,Pinjupura,agricultural,413.22,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Pinjupura,Pinjupura,residential,2000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kamalpur,Kamalpur,agricultural,392.56,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kamalpur,Kamalpur,residential,2000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Simla,Simla,agricultural,392.56,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Simla,Simla,residential,2000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Sinand,Sinand,agricultural,392.56,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Sinand,Sinand,residential,2000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,KheriSherkhan,Kheri Sherkhan,agricultural,392.56,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,KheriSherkhan,Kheri Sherkhan,residential,2000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Dumara,Dumara,agricultural,392.56,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Dumara,Dumara,residential,2000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kalayat,कलायत बाजार के बीच,residential,4500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kalayat,कलायत बाजार के बीच,commercial,28000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kalayat,सिरसा ब्रांच से खेडी लाम्बा रोड व रेलवे स्टेशन फाटक तक,residential,4000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kalayat,सिरसा ब्रांच से खेडी लाम्बा रोड व रेलवे स्टेशन फाटक तक,commercial,18000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kalayat,कैंची चौक से मटौर रोड के दोनों तरफ,residential,4500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kalayat,कैंची चौक से मटौर रोड के दोनों तरफ,commercial,28000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kalayat,"बस स्टैण्ड से कपिल मुनि रोड, डाकघर तक",residential,4500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kalayat,"बस स्टैण्ड से कपिल मुनि रोड, डाकघर तक",commercial,28000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kalayat,कैंची चौक से थाना तक,residential,5300,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kalayat,कैंची चौक से थाना तक,commercial,28000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kalayat,थाना से एस.बी.ओ.पी / New Model Town,residential,5000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kalayat,थाना से एस.बी.ओ.पी / New Model Town,commercial,20000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kalayat,नगरपालिका से कपिल मुनि रोड से डाकघर तक,residential,5300,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kalayat,नगरपालिका से कपिल मुनि रोड से डाकघर तक,commercial,28000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kalayat,पुरानी तहसील से गांव की ओर,residential,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kalayat,पुरानी तहसील से गांव की ओर,commercial,25000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kalayat,कपिल मुनि रोड से गांव की ओर,residential,4000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kalayat,कपिल मुनि रोड से गांव की ओर,commercial,25000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kalayat,एस.बी.ओ.पी से अनाज मण्डी व रेलवे रोड नहर तक,residential,7500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kalayat,एस.बी.ओ.पी से अनाज मण्डी व रेलवे रोड नहर तक,commercial,40000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kalayat,अनाज मण्डी से हैफेड रोड तक,residential,4000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kalayat,अनाज मण्डी से हैफेड रोड तक,commercial,20000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kalayat,अनाज मण्डी से पिछे वाली सड़क से चारो तरफ,residential,6100,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kalayat,अनाज मण्डी से पिछे वाली सड़क से चारो तरफ,commercial,20000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kalayat,सीता नगर से कुलवन्त नगर,residential,4900,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kalayat,सीता नगर से कुलवन्त नगर,commercial,21000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kalayat,कुलवन्त नगर से हैफड़ रोड तक,residential,4000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kalayat,कुलवन्त नगर से हैफड़ रोड तक,commercial,21000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kalayat,सजूमा रोड से दोनों और,residential,4100,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kalayat,सजूमा रोड से दोनों और,commercial,20000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kalayat,लाल डोरा के अन्दर आबादीदेह,residential,4000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kalayat,लाल डोरा के अन्दर आबादीदेह,commercial,23500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kalayat,कैंची चौक से I.T.I. तक / Narwana Road,residential,4000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kalayat,कैंची चौक से I.T.I. तक / Narwana Road,commercial,28000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kalayat,कैंची चौक से कैथल की तरफ बाई पास तक,residential,4000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kalayat,कैंची चौक से कैथल की तरफ बाई पास तक,commercial,29000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kalayat,योगेश फिलिंग स्टेशन से पिछे वाली कालोनी,residential,4000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kalayat,योगेश फिलिंग स्टेशन से पिछे वाली कालोनी,commercial,18000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kalayat,सैणी बस्ती,residential,4000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kalayat,सैणी बस्ती,commercial,18000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kalayat,I.T.I. by pass से राधा स्वामी by pass तक,residential,4500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,Kalayat,I.T.I. by pass से राधा स्वामी by pass तक,commercial,28000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,खरकपाण्डबा,खसरा प्राईम NH तीन एकड़ गहराई,agricultural,1115.7,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,कैलरम,खसरा प्राईम NH,agricultural,1033.06,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,शिमला,खसरा प्राईम NH,agricultural,1033.06,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,पिंजूपुरा,खसरा प्राईम NH,agricultural,1074.38,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,बाता,खसरा प्राईम NH,agricultural,1033.06,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,कलायत,खसरा प्राईम NH,agricultural,1033.06,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,कलायत,बस स्टैण्ड के सामने की दुकाने,commercial,28000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,कलायत,बस स्टैण्ड के पिछे गोयल मार्किट,commercial,28000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,कलायत,सीतानगर,commercial,22000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,कलायत,कुलवन्त नगर,commercial,21000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,कलायत,गैस एजेंसी के सामने,commercial,40000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,कलायत,माडल टाउन,commercial,21000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,कलायत,सुरजानगर,commercial,35000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,कलायत,सैणी बस्ती,commercial,18000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kalayat,कलायत,NH 152 पर स्थित ग्रामीण क्षेत्र व्यवसायिक,commercial,3500,2026-04-01,kaithal_gov_in_dc_notification

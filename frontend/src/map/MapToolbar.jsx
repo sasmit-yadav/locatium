@@ -7,6 +7,7 @@ import {
   Layers,
   Map as MapIcon,
   Maximize2,
+  MessageCircle,
   Minus,
   Navigation,
   Plus,
@@ -94,6 +95,11 @@ export function MapToolbar() {
     <>
       <MapControlCluster position="top-right" orientation="vertical" className="pointer-events-auto">
         <IconButton icon={Layers} tooltip="Layers" onClick={openLayers} />
+        <IconButton
+          icon={MessageCircle}
+          tooltip="Ask LOCATIUM"
+          onClick={() => window.dispatchEvent(new CustomEvent('locatium:open-assistant'))}
+        />
         <IconButton icon={Navigation} tooltip="Find nearest facility" onClick={() => window.dispatchEvent(new CustomEvent('locatium:open-facility-finder'))} />
         <div className="relative">
           <IconButton

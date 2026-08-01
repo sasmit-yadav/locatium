@@ -1,0 +1,182 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Karnal,Nissing,Agupur,Remaining agricultural land Chahi,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Agupur,Remaining agricultural land Nahri,agricultural,681.82,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Agupur,Remaining agricultural land,residential,1800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Agupur,Remaining agricultural land,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Agupur,Paved road up to 2 acres Chahi Prime,agricultural,681.82,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Agupur,Paved road up to 2 acres Chahi Normal,agricultural,681.82,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Kunjpura,Karnal to Kaithal Main Road Chahi Prime,agricultural,1487.6,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Kunjpura,Karnal to Kaithal Main Road Chahi Normal,agricultural,1487.6,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Kunjpura,Remaining agricultural land Chahi Prime,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Kunjpura,Remaining agricultural land Chahi Normal,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Kunjpura,Remaining agricultural land,residential,1800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Kunjpura,Remaining agricultural land,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Kunjpura,Paved road up to 2 acres Chahi Prime,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Kunjpura,Paved road up to 2 acres Chahi Normal,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Gagnana,Remaining agricultural land Chahi Prime,agricultural,681.82,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Gagnana,Remaining agricultural land Chahi Normal,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Gagnana,Remaining agricultural land,residential,1800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Gagnana,Remaining agricultural land,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Gagnana,Paved road up to 2 acres Chahi Prime,agricultural,681.82,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Gagnana,Paved road up to 2 acres Chahi Normal,agricultural,681.82,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Gularpur,Remaining agricultural land Chahi Prime,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Gularpur,Remaining agricultural land Chahi Normal,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Gularpur,Remaining agricultural land,residential,1800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Gularpur,Remaining agricultural land,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Gularpur,Paved road up to 2 acres Chahi Prime,agricultural,681.82,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Gularpur,Paved road up to 2 acres Chahi Normal,agricultural,681.82,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Gondar,Remaining agricultural land Chahi Prime,agricultural,681.82,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Gondar,Remaining agricultural land Chahi Normal,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Gondar,Remaining agricultural land,residential,1800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Gondar,Remaining agricultural land,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Goyada,Paved road up to 2 acres Chahi Prime,agricultural,681.82,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Goyada,Paved road up to 2 acres Chahi Normal,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Goyada,Remaining agricultural land Chahi,agricultural,681.82,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Goyada,Remaining agricultural land,residential,1800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Goyada,Remaining agricultural land,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Chakda,Paved road up to 2 acres Chahi Prime,agricultural,681.82,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Chakda,Paved road up to 2 acres Chahi Normal,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Chakda,Remaining agricultural land Chahi,agricultural,681.82,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Chakda,Remaining agricultural land,residential,1800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Chakda,Remaining agricultural land,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,JalalaVeeran,Paved road up to 2 acres Chahi Prime,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,JalalaVeeran,Paved road up to 2 acres Chahi Normal,agricultural,681.82,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,JalalaVeeran,Remaining agricultural land Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,JalalaVeeran,Remaining agricultural land,residential,1800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,JalalaVeeran,Remaining agricultural land,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Dachar,Paved road up to 2 acres Chahi Prime,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Dachar,Paved road up to 2 acres Chahi Normal,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Dachar,Remaining agricultural land Chahi,agricultural,681.82,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Dachar,Remaining agricultural land,residential,1800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Dachar,Remaining agricultural land,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Tharota,Paved road up to 2 acres Chahi Prime,agricultural,681.82,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Tharota,Paved road up to 2 acres Chahi Normal,agricultural,681.82,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Tharota,Remaining agricultural land Chahi,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Paved road up to 2 acres,agricultural,681.82,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Paved road up to 2 acres,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Paved road up to 2 acres,commercial,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Behind Grain Market,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Behind Grain Market,commercial,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Abadi Deh,residential,6600,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Abadi Deh,commercial,8500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Indira Colony,residential,3500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Indira Colony,commercial,8000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Karam Singh Amar Colony,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Karam Singh Amar Colony,commercial,6500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Karnal to Kaithal Road beyond 2 acres,agricultural,1466.94,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Karnal to Kaithal Road beyond 2 acres Chahi,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Karnal to Kaithal Road beyond 2 acres,agricultural,681.82,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Gurunanak Kaithal Karnal Colony,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Gurunanak Kaithal Karnal Colony,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Gularpur Road beyond Bypass,residential,3600,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Gularpur Road beyond Bypass,commercial,6500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Gularpur Road to Bypass,residential,5000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Gularpur Road to Bypass,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Gonder Road to Dachar Mod,residential,5000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Gonder Road to Dachar Mod,commercial,14500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Dhingra Colony,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Dhingra Colony,commercial,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Jagir Colony,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Jagir Colony,commercial,6500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Post Office Ara Mandirani Gali,residential,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Post Office Ara Mandirani Gali,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Third New Grain Market,residential,8500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Third New Grain Market,commercial,36000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Darshan Colony and Sheetal Colony,residential,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Darshan Colony and Sheetal Colony,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Both Grain Markets 1 and 2,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Both Grain Markets 1 and 2,commercial,20000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Nasib Vihar Colony,residential,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Nasib Vihar Colony,commercial,6600,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Nissing Chahi,agricultural,1466.94,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Nissing Nahri,agricultural,1466.94,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Inside Abadi,residential,8500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Inside Abadi,commercial,6600,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Karnal to Kaithal Road,residential,8500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Karnal to Kaithal Road,commercial,27000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Other area,residential,5000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Other area,commercial,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,City road both sides,residential,6500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,City road both sides agricultural,agricultural,1487.6,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Nissing to Dachar and Sambhli,agricultural,681.82,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Other villages residential commercial,residential,1800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Other villages residential commercial,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Kaithal Road drain to Sambhli Mod both sides,residential,6500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Kaithal Road drain to Sambhli Mod both sides,commercial,31000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Sambhli to Karnal Pehwa road both sides,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Sambhli Mod to Nissing city,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Karnal Kaithal Road,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Nissing to Gularpur,agricultural,681.82,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Nissing to Gonder,agricultural,681.82,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Neeraj Colony and New Buta Colony,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Neeraj Colony and New Buta Colony,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Bamba Colony,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Bamba Colony,commercial,12500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,In front of Electricity Board,residential,6500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,In front of Electricity Board,commercial,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Buta Singh Colony,residential,5000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Buta Singh Colony,commercial,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Brahmanand ahead of drain Sichaya Chowk,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Brahmanand ahead of drain Sichaya Chowk,commercial,13000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Brahmanand Colony,residential,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Brahmanand Colony,commercial,13000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Mattu Colony and Balbir Estate,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Mattu Colony and Balbir Estate,commercial,6600,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Mahajan Colony,residential,7500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Mahajan Colony,commercial,13000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Veer Singh and Swarn Enclave,residential,4400,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Veer Singh and Swarn Enclave,commercial,6500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Shree Krishna Enclave,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Shree Krishna Enclave,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Shree Krishna Enclave 1,residential,6500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Shree Krishna Enclave 1,commercial,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Samalkhi Mod to Sichayda Chowk both sides,residential,6100,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Samalkhi Mod to Sichayda Chowk both sides,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Government School Lane,residential,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Saroha Gali and Harijan Gali,residential,6600,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Saroha Gali and Harijan Gali,commercial,8500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Opposite Neemdogo PP to Karnal Road,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Opposite Neemdogo PP to Karnal Road,commercial,13500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Sisangha Chowk to New Grain Market Gas Agency both sides,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Sisangha Chowk to New Grain Market Gas Agency both sides,commercial,9900,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Sidhra Chowk to Grain Market,residential,3500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Sidhra Chowk to Grain Market,commercial,8000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Near Harijan Basti and Drain,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Nissing,Near Harijan Basti and Drain,commercial,6500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Pyont,Assandh Karnal Main Road,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Pyont,Paved road up to 2 acres,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Pyont,Remaining agricultural land,agricultural,681.82,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Pyont,Remaining agricultural land,residential,1800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Pyont,Remaining agricultural land,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Barsatali,Karnal to Kaithal Main Road,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Barsatali,Village link road,agricultural,681.82,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Barsatali,Paved road up to 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Barsatali,Remaining agricultural land Chahi,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Barsatali,Remaining agricultural land Chahi,agricultural,681.82,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Barsatali,Remaining agricultural land,residential,1800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Barsatali,Remaining agricultural land,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Baas,Kaithal Road up to 2 acres,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Baas,Paved road up to 2 acres,agricultural,681.82,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Baas,Remaining agricultural land Chahi,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Baas,Remaining agricultural land Chahi,agricultural,681.82,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Bhojpur,Bhojpur,residential,1800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Bhojpur,Bhojpur,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Bhojpur,Paved road up to 2 acres,agricultural,681.82,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Bhojpur,Remaining agricultural land,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Motiya,Paved road up to 2 acres,agricultural,681.82,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Motiya,Remaining agricultural land,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Motiya,Motiya,residential,1800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Motiya,Motiya,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Sambhli,Karnal Pehwa Road,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Sambhli,Paved road up to 2 acres,agricultural,681.82,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Sambhli,Remaining agricultural land,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Sambhli,Sambhli,residential,1800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Sambhli,Sambhli,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Sidhra,Paved road up to 2 acres,agricultural,681.82,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Sidhra,Remaining agricultural land,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Sidhra,Sidhra,residential,1800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Sidhra,Sidhra,commercial,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Syondi,Paved road up to 2 acres,agricultural,681.82,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Syondi,Remaining agricultural land,agricultural,640.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Syondi,Syondi,residential,1800,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Nissing,Syondi,Syondi,commercial,5500,2026-04-01,karnal_gov_in_dc_notification

@@ -1,0 +1,12 @@
+district,tehsil,village,sector_type,price_per_sq_yard_inr,area_sq_yards,lat,lng,transaction_date,source,deed_id,consideration_inr,area_unit,notes
+Rohtak,Rohtak,IMT Rohtak,industrial,18060.34,2870.38,28.8812,76.61044,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-rohtak-2400,51840000,sqm,HSIIDC FY24-25 reserve (IMT Rohtak); reserve ₹21600/sqm
+Rohtak,Rohtak,IMT Rohtak,industrial,18060.34,3587.97,28.882,76.611,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-rohtak-3000,64800000,sqm,HSIIDC FY24-25 reserve (IMT Rohtak); reserve ₹21600/sqm
+Rohtak,Rohtak,IMT Rohtak,industrial,18060.34,4843.76,28.8828,76.61156,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-rohtak-4050,87480000,sqm,HSIIDC FY24-25 reserve (IMT Rohtak); reserve ₹21600/sqm
+Rohtak,Rohtak,IMT Rohtak,industrial,18060.34,5381.96,28.8836,76.61212,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-rohtak-4500,97200000,sqm,HSIIDC FY24-25 reserve (IMT Rohtak); reserve ₹21600/sqm
+Rohtak,Rohtak,IMT Rohtak,industrial,18060.34,9687.52,28.8844,76.61268,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-rohtak-8100,174960000,sqm,HSIIDC FY24-25 reserve (IMT Rohtak); reserve ₹21600/sqm
+Rohtak,Rohtak,IMT Rohtak,industrial,18060.34,12557.9,28.8796,76.60932,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-rohtak-10500,226800000,sqm,HSIIDC FY24-25 reserve (IMT Rohtak); reserve ₹21600/sqm
+Rohtak,Rohtak,IMT Rohtak,industrial,18060.34,17939.86,28.8804,76.60988,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-rohtak-15000,324000000,sqm,HSIIDC FY24-25 reserve (IMT Rohtak); reserve ₹21600/sqm
+Rohtak,Rohtak,IMT Rohtak,industrial,18060.34,538.2,28.8812,76.61044,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-rohtak-450,9720000,sqm,HSIIDC FY24-25 reserve (Mega Food Park IMT Rohtak); reserve ₹21600/sqm
+Rohtak,Rohtak,IMT Rohtak,industrial,18060.34,1210.94,28.882,76.611,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-rohtak-1012.5,21870000,sqm,HSIIDC FY24-25 reserve (Mega Food Park IMT Rohtak); reserve ₹21600/sqm
+Rohtak,Rohtak,IMT Rohtak,industrial,18060.34,2152.78,28.8828,76.61156,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-rohtak-1800,38880000,sqm,HSIIDC FY24-25 reserve (Mega Food Park IMT Rohtak); reserve ₹21600/sqm
+Rohtak,Rohtak,IMT Rohtak,industrial,18060.34,4843.76,28.8836,76.61212,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-rohtak-4050,87480000,sqm,HSIIDC FY24-25 reserve (Mega Food Park IMT Rohtak); reserve ₹21600/sqm

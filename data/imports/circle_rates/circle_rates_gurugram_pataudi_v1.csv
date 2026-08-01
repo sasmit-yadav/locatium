@@ -1,0 +1,303 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Gurugram,Pataudi,Ahmadpur,Ahmadpur,agricultural,1221.9,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Ahmadpur,Ahmadpur,residential,3600.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Ahmadpur,Ahmadpur,commercial,4900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Balewa,Balewa,agricultural,700.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Balewa,Balewa,residential,3600.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Balewa,Balewa,commercial,4900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Bapas,Bapas,agricultural,731.82,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Bapas,Bapas,residential,4100.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Bapas,Bapas,commercial,4900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Bapas,SH MDR within 2 acre,agricultural,750.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Baraheri Rahnwa,Baraheri Rahnwa,agricultural,700.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Baraheri Rahnwa,Baraheri Rahnwa,residential,3300.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Baraheri Rahnwa,Baraheri Rahnwa,commercial,4900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Bas Padamka,Bas Padamka,agricultural,1746.49,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Bas Padamka,Bas Padamka,residential,4000.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Bas Padamka,Bas Padamka,commercial,4900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Bastpur,Bastpur,agricultural,1578.1,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Bastpur,Bastpur,residential,3300.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Bastpur,Bastpur,commercial,4900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Beer Khurd,Beer Khurd,agricultural,875.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Beer Khurd,Beer Khurd,residential,4300.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Beer Khurd,Beer Khurd,commercial,5600.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Bhogpuri,Bhogpuri,agricultural,879.96,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Bhogpuri,Bhogpuri,residential,3300.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Bhogpuri,Bhogpuri,commercial,4900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Bhora Kalan,Agriculture land near NH-8,agricultural,3081.4,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Bhora Kalan,Bhora Kalan,agricultural,2652.89,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Bhora Kalan,Bhora Kalan,residential,8900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Bhora Kalan,Bhora Kalan,commercial,18200.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Bhora Kalan,SH MDR within 2 acre,agricultural,2718.8,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Brahmanwas,Brahmanwas,agricultural,910.12,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Brahmanwas,Brahmanwas,residential,3300.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Brahmanwas,Brahmanwas,commercial,4900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Brijpura,Brijpura,agricultural,1280.79,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Brijpura,Brijpura,residential,3300.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Brijpura,Brijpura,commercial,4900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Chhawan,Chhawan,agricultural,1822.31,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Chhawan,Chhawan,residential,8400.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Chhawan,Chhawan,commercial,9100.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Chhawan,Chhawan R-Zone Agriculture,agricultural,2013.64,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Chhawan,SH MDR within 2 acre,agricultural,2187.6,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Chhilerki,Chhilerki,agricultural,1015.08,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Chhilerki,Chhilerki,residential,3300.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Chhilerki,Chhilerki,commercial,4900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Dadawas,Dadawas,agricultural,1157.64,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Dadawas,Dadawas,residential,3300.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Dadawas,Dadawas,commercial,4900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Darapur,Darapur c,agricultural,1509.09,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Darapur,Darapur c,residential,3300.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Darapur,Darapur c,commercial,4900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Daultabad,Daultabad,agricultural,900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Daultabad,Daultabad,residential,3300.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Daultabad,Daultabad,commercial,4900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Devlawas,Devlawas,agricultural,1531.4,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Devlawas,Devlawas,residential,6700.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Devlawas,Devlawas,commercial,9100.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Gadaipur,Gadaipur,agricultural,1578.1,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Gadaipur,Gadaipur,residential,3300.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Gadaipur,Gadaipur,commercial,4900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Gadaipur,State highway within 2 acre,agricultural,1662.6,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Gagli,Gagli,agricultural,700.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Gagli,Gagli,residential,3300.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Gagli,Gagli,commercial,4900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Gagli,State highway within 2 acre,agricultural,750.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Ghilnawas,Ghilnawas,agricultural,1015.08,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Ghilnawas,Ghilnawas,residential,3300.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Ghilnawas,Ghilnawas,commercial,4900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Ghilnawas,State highway within 2 acre,agricultural,1087.6,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Ghoshgarh,Agriculture,agricultural,1306.82,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Ghoshgarh,Commerical,commercial,7900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Ghoshgarh,Residential,residential,6100.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Ghoshgarh,State Highway within 2 acre,agricultural,1375.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Goriawas,Goriawas,agricultural,1527.27,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Goriawas,Goriawas,residential,4800.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Goriawas,Goriawas,commercial,4900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Gudhana,Gudhana,agricultural,992.77,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Gudhana,Gudhana,residential,3300.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Gudhana,Gudhana,commercial,4900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Haliyaki,Haliyaki,agricultural,1061.16,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Haliyaki,Haliyaki,residential,3300.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Haliyaki,Haliyaki,commercial,4900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Hansaka,Hansaka,agricultural,1646.69,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Hansaka,Hansaka,residential,3500.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Hansaka,Hansaka,commercial,4900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Haqdarpur,Haqdarpur,agricultural,1157.64,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Haqdarpur,Haqdarpur,residential,3500.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Haqdarpur,Haqdarpur,commercial,5900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Hera Heri,Hera Heri c,agricultural,1746.49,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Hera Heri,Hera Heri c,residential,5500.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Hera Heri,Hera Heri c,commercial,6700.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Hussainka,Hussainka,agricultural,1225.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Hussainka,Hussainka,residential,3800.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Hussainka,Hussainka,commercial,4900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Inchhapuri,Inchhapuri,agricultural,1596.69,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Inchhapuri,Inchhapuri,residential,4300.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Inchhapuri,Inchhapuri,commercial,4900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Inchhapuri,State highway within 2 acre,agricultural,1662.6,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Janaula,Agriculture,agricultural,2618.18,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Janaula,Commerical,commercial,15200.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Janaula,Residential,residential,9100.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Janaula,State Highway within 2 Acre,agricultural,2863.64,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Jasat,Jasat,agricultural,798.35,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Jasat,Jasat,residential,3300.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Jasat,Jasat,commercial,4900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Jataula,Agriculture,agricultural,1354.34,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Jataula,Commerical,commercial,7900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Jataula,Residential,residential,6100.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Jatauli,Agriculture,agricultural,4772.73,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Jatauli,Anaj Mandi ke Andar,residential,16600.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Jatauli,Anaj Mandi ke Andar,commercial,36300.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Jatauli,COMMERCIAL,commercial,23100.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Jatauli,Haily Mandi road to khan,residential,9700.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Jatauli,Haily Mandi road to khan,commercial,20600.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Jatauli,Haily Todapur Rampur,residential,12200.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Jatauli,Haily Todapur Rampur,commercial,23700.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Jatauli,Jaidev Colony,residential,11400.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Jatauli,Jaidev Colony,commercial,20600.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Jatauli,Jatauli Linepar,residential,9700.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Jatauli,Jatauli Linepar,commercial,21600.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Jatauli,Jatauli Water Suply,residential,9700.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Jatauli,Jatauli Water Suply,commercial,20600.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Jatauli,Kulana Rd. Line Both Side,residential,11900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Jatauli,Kulana Rd. Line Both Side,commercial,21600.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Jatauli,Mirzapur Rd. Tarun Tri.,residential,10200.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Jatauli,Mirzapur Rd. Tarun Tri.,commercial,20600.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Jatauli,MLA Sc. Line Bo. Sid.,residential,9700.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Jatauli,MLA Sc. Line Bo. Sid.,commercial,20600.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Jatauli,Pat. Rd. Sadak Sath.,residential,10200.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Jatauli,Pat. Rd. Sadak Sath.,commercial,38800.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Jatauli,Public Utilities,agricultural,2625.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Jatauli,Railway Road,residential,11400.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Jatauli,Railway Road,commercial,38800.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Jatauli,Rampur Gate Main Rd.,residential,13700.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Jatauli,Rampur Gate Main Rd.,commercial,22100.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Jatauli,RESIDENTIAL,residential,9700.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Jatauli,R-Zone Agriculture,agricultural,4772.73,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Jatauli,Shiv Colony,residential,10200.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Jatauli,Shiv Colony,commercial,20600.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Jatauli,Sitaram Colony,residential,12100.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Jatauli,Sitaram Colony,commercial,20600.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Jatauli,State highway within 2 acre,agricultural,4812.6,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Jatauli,Todapur Road,residential,9700.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Jatauli,Todapur Road,commercial,20600.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Jori,Agriculture,agricultural,2052.89,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Jori,Commerical,commercial,9900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Jori,Residential,residential,6600.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Jori,State Highway Within 2 Acre,agricultural,2181.82,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Khalilpur,Khalilpur c,agricultural,841.74,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Khalilpur,Khalilpur c,residential,3800.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Khalilpur,Khalilpur c,commercial,4900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Khalilpur,State Highway Within 2 Acre,agricultural,937.6,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Khanpur,Khanpur,agricultural,1527.27,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Khanpur,Khanpur,residential,5500.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Khanpur,Khanpur,commercial,6700.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Khetiawas,Khetiawas,agricultural,1225.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Khetiawas,Khetiawas,residential,4000.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Khetiawas,Khetiawas,commercial,4900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Khetiawas,State Highway within 2 Acre,agricultural,1312.6,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Khor,Khor,agricultural,1855.17,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Khor,Khor,residential,4500.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Khor,Khor,commercial,5100.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Khor,State Highway Within 2 Acre,agricultural,2100.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Lohaka,Lohaka,agricultural,997.93,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Lohaka,Lohaka,residential,3300.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Lohaka,Lohaka,commercial,4900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Lohchab,Lohchab,agricultural,1509.5,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Lohchab,Lohchab,residential,3300.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Lohchab,Lohchab,commercial,4900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Lokra,Lokra e,agricultural,1666.12,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Lokra,Lokra e,residential,3300.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Lokra,Lokra e,commercial,4900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Lokri,Lokri,agricultural,1596.69,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Lokri,Lokri,residential,3300.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Lokri,Lokri,commercial,4900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Mahniyawas,Mahiyawas,agricultural,1333.06,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Mahniyawas,Mahiyawas,residential,3300.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Mahniyawas,Mahiyawas,commercial,4900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Mangwaki,Mangwaki,agricultural,1336.36,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Mangwaki,Mangwaki,residential,3300.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Mangwaki,Mangwaki,commercial,4900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Mau,Mau,agricultural,1666.12,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Mau,Mau,residential,3300.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Mau,Mau,commercial,4900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Maujabad,Maujabad,agricultural,1221.9,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Maujabad,Maujabad,residential,3800.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Maujabad,Maujabad,commercial,4900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Maujabad,State Highway Within 2 Acre,agricultural,1312.6,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Milakpur,Milakpur c,agricultural,1646.69,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Milakpur,Milakpur c,residential,5500.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Milakpur,Milakpur c,commercial,6700.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Mirzapur,Mirzapur,agricultural,875.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Mirzapur,Mirzapur,residential,5500.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Mirzapur,Mirzapur,commercial,6700.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Mubarikpur,Mubarikpur,agricultural,875.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Mubarikpur,Mubarikpur,residential,3300.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Mubarikpur,Mubarikpur,commercial,4900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Mujjafra,Mujjafra,agricultural,1045.45,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Mujjafra,Mujjafra,residential,3300.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Mujjafra,Mujjafra,commercial,4900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Mumtajpur,Mumtajpur,agricultural,1265.5,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Mumtajpur,Mumtajpur,residential,5000.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Mumtajpur,Mumtajpur,commercial,6100.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Nanu Kalan,Nanu Kalan,agricultural,1596.69,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Nanu Kalan,Nanu Kalan,residential,3800.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Nanu Kalan,Nanu Kalan,commercial,4900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Nanu Khurd,Nanu Khurd,agricultural,1045.45,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Nanu Khurd,Nanu Khurd,residential,3300.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Nanu Khurd,Nanu Khurd,commercial,4900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Narhera,Industrial,industrial,4875.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Narhera,Narhera l,agricultural,2965.29,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Narhera,Narhera l,residential,8400.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Narhera,Narhera l,commercial,9700.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Narhera,State Highway Within 2 Acre,agricultural,3062.6,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Noorgarh,Noorgarh,agricultural,765.08,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Noorgarh,Noorgarh,residential,3300.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Noorgarh,Noorgarh,commercial,4300.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pahari,Pahari,agricultural,1097.73,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pahari,Pahari,residential,3500.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pahari,Pahari,commercial,4300.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pahari,State Highway Within 2 Acre,agricultural,1193.18,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pataudi,Agriculture,agricultural,4989.67,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pataudi,Anandpur Satsang Rd.,residential,10300.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pataudi,Anandpur Satsang Rd.,commercial,24200.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pataudi,Bhora Ashram Road,residential,10300.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pataudi,Bhora Ashram Road,commercial,19400.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pataudi,Bhora Road Sadak Sath,residential,13500.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pataudi,Bhora Road Sadak Sath,commercial,19400.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pataudi,Bus Stand Rewa. Road,residential,11900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pataudi,Bus Stand Rewa. Road,commercial,21200.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pataudi,COMMERCIAL,commercial,23800.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pataudi,Dhara Colony,residential,10800.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pataudi,Dhara Colony,commercial,25300.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pataudi,Gurgaon Rd. New Col.,residential,10800.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pataudi,Gurgaon Rd. New Col.,commercial,36900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pataudi,Haily Pat. Road,residential,15000.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pataudi,Haily Pat. Road,commercial,38000.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pataudi,Harizan Col. Behind Sch.,residential,9100.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pataudi,Harizan Col. Behind Sch.,commercial,14600.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pataudi,Hospital Ashram Road,residential,11900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pataudi,Hospital Ashram Road,commercial,24200.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pataudi,Huda Sec.1,residential,34800.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pataudi,Huda Sec.1,commercial,80700.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pataudi,Khor Road to Mc Area,residential,10300.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pataudi,Khor Road to Mc Area,commercial,19400.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pataudi,LICENSE COLONY IN PATAUDI,residential,30300.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pataudi,LICENSE COLONY IN PATAUDI,commercial,36300.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pataudi,Mumtajpur Road,residential,11900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pataudi,Mumtajpur Road,commercial,21200.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pataudi,Mumtajpur Sch. Road,residential,10300.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pataudi,Mumtajpur Sch. Road,commercial,19400.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pataudi,Pat. Comm. Purani Abadi,residential,13000.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pataudi,Pat. Comm. Purani Abadi,commercial,38700.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pataudi,Ramjiwan Vihar Nar. Road,residential,12900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pataudi,Ramjiwan Vihar Nar. Road,commercial,19400.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pataudi,Rampur Road,residential,16500.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pataudi,Rampur Road,commercial,19400.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pataudi,RESIDENTIAL,residential,9700.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pataudi,R-Zone Agriculture,agricultural,6981.82,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pataudi,State Highway within 2 Acre,agricultural,7656.4,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pataudi,Tehsil Road,residential,10800.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pataudi,Tehsil Road,commercial,29400.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pataudi,Umrao Vihar GGN Rd.,residential,10300.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Pataudi,Umrao Vihar GGN Rd.,commercial,19400.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Rajpura,Rajpura,agricultural,841.74,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Rajpura,Rajpura,residential,3300.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Rajpura,Rajpura,commercial,4600.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Rampur,Rampur,agricultural,2951.45,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Rampur,Rampur,residential,8000.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Rampur,Rampur,commercial,10600.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Rampur,R-Zone Agriculture,agricultural,3136.36,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Ransika,Ransika,agricultural,1237.81,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Ransika,Ransika,residential,4200.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Ransika,Ransika,commercial,8800.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Ransika,State Highway Within 2 Acre,agricultural,1384.09,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Safedar Nagar,Safedar Nagar,agricultural,1097.73,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Safedar Nagar,Safedar Nagar,residential,4400.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Safedar Nagar,Safedar Nagar,commercial,6000.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Said Shahpur,Said Shahpur,agricultural,1666.12,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Said Shahpur,Said Shahpur,residential,3300.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Said Shahpur,Said Shahpur,commercial,4900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Sanpka,Agriculture,agricultural,1941.32,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Sanpka,Agriculture,agricultural,5280.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Sanpka,Commerical,commercial,6600.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Sanpka,Residential,agricultural,5280.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Sanpka,Residential,residential,6100.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Sanpka,SH MDR 2 Acres,agricultural,2187.6,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Shahpur Jat,Shahpur Jat,agricultural,836.36,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Shahpur Jat,Shahpur Jat,residential,3300.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Shahpur Jat,Shahpur Jat,commercial,4900.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Sherpur,Sherpur l,agricultural,1003.72,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Sherpur,Sherpur l,residential,3500.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Sherpur,Sherpur l,commercial,4600.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Telpuri,Telpuri,agricultural,1396.49,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Telpuri,Telpuri,residential,3300.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Telpuri,Telpuri,commercial,4600.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Turkapur,Turakpur,agricultural,1527.27,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Turkapur,Turakpur,residential,3500.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Turkapur,Turakpur,commercial,4600.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Uncha Majra,State Highway within 2 Acre,agricultural,3054.55,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Uncha Majra,Uncha Majra,agricultural,2951.45,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Uncha Majra,Uncha Majra,residential,9100.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Pataudi,Uncha Majra,Uncha Majra,commercial,9300.0,2026-04-01,gurugram_gov_in_dc_notification

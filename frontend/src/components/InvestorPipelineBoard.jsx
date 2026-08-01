@@ -72,6 +72,17 @@ export function InvestorPipelineBoard({ stages = [], items = [], opportunities =
                           {meta.opp?.opportunityScore != null ? (
                             <div className="text-[10px] text-ds-warning">Score {meta.opp.opportunityScore}</div>
                           ) : null}
+                          {meta.opp?.landValue?.estimatedPerSqYardInr || meta.opp?.landValue?.circleRatePerSqYardInr ? (
+                            <div className="text-[10px] text-ds-text-secondary">
+                              Land ₹
+                              {(
+                                meta.opp.landValue.estimatedPerSqYardInr ||
+                                meta.opp.landValue.circleRatePerSqYardInr
+                              ).toLocaleString('en-IN')}
+                              /sq yd
+                              {meta.opp.landValue.confidence ? ` · ${meta.opp.landValue.confidence}` : ''}
+                            </div>
+                          ) : null}
                         </div>
                         <button type="button" onClick={() => removeItem(item.id)} className="text-ds-text-tertiary hover:text-ds-danger">
                           <Trash2 size={12} />

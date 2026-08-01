@@ -65,21 +65,51 @@ function LayerRow({ layer }) {
 }
 
 function LegendSwatch({ entry }) {
-  if (entry.shape === 'point') {
-    return <span className="h-3 w-3 rounded-full border border-ds-border" style={{ backgroundColor: entry.color }} />;
+  if (entry.shape === 'point' || entry.shape === 'icon') {
+    return (
+      <span
+        className="inline-block h-3.5 w-3.5 shrink-0 rounded-full border-2 border-white shadow-sm ring-1 ring-black/15"
+        style={{ backgroundColor: entry.color }}
+        title={entry.label}
+      />
+    );
+  }
+  if (entry.shape === 'bus') {
+    return (
+      <span
+        className="inline-flex h-3.5 w-3.5 shrink-0 items-center justify-center rounded-sm border border-white shadow-sm ring-1 ring-black/15"
+        style={{ backgroundColor: entry.color }}
+        title={entry.label}
+      >
+        <span className="h-1.5 w-2 rounded-[1px] bg-white/90" />
+      </span>
+    );
   }
   if (entry.shape === 'fill') {
     return (
       <span
-        className="h-3 w-4 rounded-ds-sm border"
-        style={{ backgroundColor: `${entry.color}55`, borderColor: entry.color }}
+        className="inline-block h-3.5 w-4 shrink-0 rounded-sm border-2 shadow-sm"
+        style={{ backgroundColor: `${entry.color}66`, borderColor: entry.color }}
+        title={entry.label}
       />
     );
   }
   if (entry.shape === 'dash') {
-    return <span className="h-px w-5 border-t border-dashed" style={{ borderColor: entry.color }} />;
+    return (
+      <span
+        className="inline-block h-0 w-5 shrink-0 border-t-2 border-dashed"
+        style={{ borderColor: entry.color }}
+        title={entry.label}
+      />
+    );
   }
-  return <span className="h-0.5 w-5 rounded-full" style={{ backgroundColor: entry.color }} />;
+  return (
+    <span
+      className="inline-block h-1 w-5 shrink-0 rounded-full shadow-sm"
+      style={{ backgroundColor: entry.color }}
+      title={entry.label}
+    />
+  );
 }
 
 function Section({ title, children, defaultOpen = true }) {

@@ -1,0 +1,1289 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Hisar,Hisar,Agroha,2 acre distance,agricultural,3626.03,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Agroha,2 acre distance Gair Mumkin,agricultural,3925.62,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Agroha,2 acre distance,residential,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Agroha,2 acre distance,commercial,24000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Agroha,3 to 5 acre distance,agricultural,2479.34,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Agroha,3 to 5 acre distance Gair Mumkin,agricultural,2479.34,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Agroha,3 to 5 acre distance,residential,11000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Agroha,3 to 5 acre distance,commercial,23000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Agroha,Agroha Nehri Tal Chahi Tiba,agricultural,510.33,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Agroha,Agroha Gair Mumkin,agricultural,929.75,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Agroha,Agroha,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Agroha,Agroha,commercial,13000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Agroha,Agroha Anaj Mandi,commercial,25000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Agroha,Agroha Developers and Promoters,residential,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Agroha,Agroha Developers and Promoters,commercial,18000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,AgrohaMor,Agroha Mor,residential,11000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,AgrohaMor,Agroha Mor,commercial,20000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Alipur,Alipur Nehri Tal Chahi Tiba,agricultural,537.19,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Alipur,Alipur Gair Mumkin,agricultural,661.16,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Alipur,Alipur,residential,5200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Alipur,Alipur,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Aryanagar,2 acre distance,agricultural,2685.95,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Aryanagar,2 acre distance Gair Mumkin,agricultural,2851.24,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Aryanagar,2 acre distance,residential,11500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Aryanagar,2 acre distance,commercial,20000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Aryanagar,3 to 5 acre distance,agricultural,1652.89,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Aryanagar,3 to 5 acre distance Gair Mumkin,agricultural,2066.12,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Aryanagar,3 to 5 acre distance,residential,11000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Aryanagar,3 to 5 acre distance,commercial,20000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Aryanagar,Aryanagar Nehri Tal Chahi Tiba,agricultural,1136.36,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Aryanagar,Aryanagar Gair Mumkin,agricultural,2582.64,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Aryanagar,Aryanagar,residential,11000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Aryanagar,Aryanagar,commercial,20000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Kalwas,Kalwas Nehri Tal Chahi Tiba,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Kalwas,Kalwas Gair Mumkin,agricultural,557.85,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Kalwas,Kalwas,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Kalwas,Kalwas,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Kirmara,Kirmara Nehri Tal Chahi Tiba,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Kirmara,Kirmara Gair Mumkin,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Kirmara,Kirmara,residential,4500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Kirmara,Kirmara,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Kirada,Kirada Nehri Tal Chahi Tiba,agricultural,498.97,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Kirada,Kirada Gair Mumkin,agricultural,665.29,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Kirada,Kirada,residential,4500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Kirada,Kirada,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Kirori,Kirori Nehri Tal Chahi Tiba,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Kirori,Kirori Gair Mumkin,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Kirori,Kirori,residential,4500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Kirori,Kirori,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Kuleri,Kuleri Nehri Tal Chahi Tiba,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Kuleri,Kuleri Gair Mumkin,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Kuleri,Kuleri,residential,4500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Kuleri,Kuleri,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Kaimri,2 acre distance,agricultural,3357.44,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Kaimri,2 acre distance Gair Mumkin,agricultural,5681.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Kaimri,2 acre distance,residential,11000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Kaimri,2 acre distance,commercial,21000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Kaimri,3 to 5 acre distance,agricultural,1791.32,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Kaimri,3 to 5 acre distance Gair Mumkin,agricultural,4545.45,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Kaimri,3 to 5 acre distance,residential,11000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Kaimri,3 to 5 acre distance,commercial,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Kaimri,Kaimari Outside MC,agricultural,1544.42,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Kaimri,Kaimari Outside MC Gair Mumkin,agricultural,3136.36,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Kaimri,Kaimari Outside MC,residential,12500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Kaimri,Kaimari Outside MC,commercial,20000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Kaimri,Kaimari Within MC,agricultural,3409.09,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Kaimri,Kaimari Within MC Gair Mumkin,agricultural,4132.23,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Kaimri,Kaimari Within MC,residential,13000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Kaimri,Kaimari Within MC,commercial,20000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Kharkhari,Kharkhari Nehri Tal Chahi Tiba,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Kharkhari,Kharkhari Gair Mumkin,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Kharkhari,Kharkhari,residential,4500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Kharkhari,Kharkhari,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Kharad,Kharad Nehri Tal Chahi Tiba,agricultural,570.25,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Kharad,Kharad Gair Mumkin,agricultural,764.46,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Kharad,Kharad,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Kharad,Kharad,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Khokha,Khokha Nehri Tal Chahi Tiba,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Khokha,Khokha Gair Mumkin,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Khokha,Khokha,residential,4500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Khokha,Khokha,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gunjar,Gunjar Nehri Tal Chahi Tiba,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gunjar,Gunjar Gair Mumkin,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gunjar,Gunjar,residential,4600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gunjar,Gunjar,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Charnound,Charnound Nehri Tal Chahi Tiba,agricultural,371.9,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Charnound,Charnound Gair Mumkin,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Charnound,Charnound,residential,4500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Charnound,Charnound,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Chikanwas,2 acre distance,agricultural,2066.12,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Chikanwas,2 acre distance Gair Mumkin,agricultural,3099.17,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Chikanwas,2 acre distance,residential,11000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Chikanwas,2 acre distance,commercial,21000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Chikanwas,3 to 5 acre distance,agricultural,1446.28,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Chikanwas,3 to 5 acre distance Gair Mumkin,agricultural,2066.12,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Chikanwas,3 to 5 acre distance,residential,11000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Chikanwas,3 to 5 acre distance,commercial,21000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Chikanwas,Chikanwas Nehri Tal Chahi Tiba,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Chikanwas,Chikanwas Gair Mumkin,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Chikanwas,Chikanwas,residential,4500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Chikanwas,Chikanwas,commercial,11000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Chiraud,Chiraud Nehri Tal Chahi Tiba,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Chiraud,Chiraud Gair Mumkin,agricultural,537.19,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Chiraud,Chiraud,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Chiraud,Chiraud,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Choudharywas,2 acre distance,agricultural,1776.86,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Choudharywas,2 acre distance Gair Mumkin,agricultural,2066.12,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Choudharywas,2 acre distance,residential,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Choudharywas,2 acre distance,commercial,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Choudharywas,3 to 5 acre distance,agricultural,1487.6,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Choudharywas,3 to 5 acre distance Gair Mumkin,agricultural,2066.12,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Choudharywas,3 to 5 acre distance,residential,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Choudharywas,3 to 5 acre distance,commercial,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Choudharywas,Choudharywas Nehri Tal Chahi Tiba,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Choudharywas,Choudharywas Gair Mumkin,agricultural,644.63,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Choudharywas,Choudharywas,residential,4600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Choudharywas,Choudharywas,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Jagan,Jagan Nehri Tal Chahi Tiba,agricultural,588.84,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Jagan,Jagan Gair Mumkin,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Jagan,Jagan,residential,4500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Jagan,Jagan,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Juglan,2 acre distance,agricultural,2066.12,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Juglan,2 acre distance Gair Mumkin,agricultural,3099.17,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Juglan,2 acre distance,residential,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Juglan,2 acre distance,commercial,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Juglan,3 to 5 acre distance,agricultural,1342.98,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Juglan,3 to 5 acre distance Gair Mumkin,agricultural,2066.12,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Juglan,3 to 5 acre distance,residential,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Juglan,3 to 5 acre distance,commercial,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Juglan,Juglan Nehri Tal Chahi Tiba,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Juglan,Juglan Gair Mumkin,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Juglan,Juglan,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Juglan,Juglan,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Tokas,2 acre distance,agricultural,1962.81,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Tokas,2 acre distance Gair Mumkin,agricultural,2685.95,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Tokas,2 acre distance,residential,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Tokas,2 acre distance,commercial,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Tokas,3 to 5 acre distance,agricultural,1342.98,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Tokas,3 to 5 acre distance Gair Mumkin,agricultural,1859.5,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Tokas,3 to 5 acre distance,residential,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Tokas,3 to 5 acre distance,commercial,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Tokas,Tokas Nehri Tal Chahi Tiba,agricultural,661.16,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Tokas,Tokas Gair Mumkin,agricultural,971.07,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Tokas,Tokas,residential,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Tokas,Tokas,commercial,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Thaska,Thaska Nehri Tal Chahi Tiba,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Thaska,Thaska Gair Mumkin,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Thaska,Thaska,residential,4500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Thaska,Thaska,commercial,11000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Dabda,Dabda Nehri Tal Chahi Tiba,agricultural,774.79,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Dabda,Dabda Gair Mumkin,agricultural,1022.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Dabda,Dabda,residential,5500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Dabda,Dabda,commercial,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Dabda,Dabda Main Road up to 2 acres,agricultural,4132.23,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Dabda,Dabda Main Road up to 2 acres Gair Mumkin,agricultural,5165.29,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Dabda,Dabda Main Road up to 2 acres,residential,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Dabda,Dabda Main Road up to 2 acres,commercial,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Dabda,Dabda Main Road 3 to 5 acres,agricultural,2685.95,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Dabda,Dabda Main Road 3 to 5 acres Gair Mumkin,agricultural,3512.4,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Dabda,Dabda Main Road 3 to 5 acres,residential,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Dabda,Dabda Main Road 3 to 5 acres,commercial,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Daya,Daya Nehri Tal Chahi Tiba,agricultural,330.58,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Daya,Daya Gair Mumkin,agricultural,537.19,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Daya,Daya,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Daya,Daya,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,DhaniJatan,Dhani Jatan Nehri Tal Chahi Tiba,agricultural,330.58,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,DhaniJatan,Dhani Jatan Gair Mumkin,agricultural,537.19,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,DhaniJatan,Dhani Jatan,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,DhaniJatan,Dhani Jatan,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,TalwandiBadshahpur,Talwandi Badshahpur Nehri Tal Chahi Tiba,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,TalwandiBadshahpur,Talwandi Badshahpur Gair Mumkin,agricultural,537.19,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,TalwandiBadshahpur,Talwandi Badshahpur,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,TalwandiBadshahpur,Talwandi Badshahpur,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,TalwandiRana,2 acre distance,agricultural,3719.01,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,TalwandiRana,2 acre distance Gair Mumkin,agricultural,4545.45,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,TalwandiRana,2 acre distance,residential,15000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,TalwandiRana,2 acre distance,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,TalwandiRana,3 to 5 acre distance,agricultural,2066.12,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,TalwandiRana,3 to 5 acre distance Gair Mumkin,agricultural,2066.12,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,TalwandiRana,3 to 5 acre distance,residential,15000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,TalwandiRana,3 to 5 acre distance,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,TalwandiRana,Leela Intercontinental Pvt Ltd,commercial,51000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,TalwandiRana,Marvel World Colony,residential,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,TalwandiRana,Marvel World Colony,commercial,51000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,TalwandiRana,Talwandi Rana Nehri Tal Chahi Tiba,agricultural,1818.18,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,TalwandiRana,Talwandi Rana Gair Mumkin,agricultural,2272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,TalwandiRana,Talwandi Rana,residential,15000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,TalwandiRana,Talwandi Rana,commercial,25000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,TalwandiRukka,Talwandi Rukka Nehri Tal Chahi Tiba,agricultural,495.87,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,TalwandiRukka,Talwandi Rukka Gair Mumkin,agricultural,661.16,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,TalwandiRukka,Talwandi Rukka,residential,4500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,TalwandiRukka,Talwandi Rukka,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Dahima,Dahima Nehri Tal Chahi Tiba,agricultural,330.58,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Dahima,Dahima Gair Mumkin,agricultural,537.19,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Dahima,Dahima,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Dahima,Dahima,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Dubeta,Dubeta Nehri Tal Chahi Tiba,agricultural,330.58,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Dubeta,Dubeta Gair Mumkin,agricultural,537.19,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Dubeta,Dubeta,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Dubeta,Dubeta,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Durjanpur,Durjanpur Nehri Tal Chahi Tiba,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Durjanpur,Durjanpur Gair Mumkin,agricultural,723.14,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Durjanpur,Durjanpur,residential,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Durjanpur,Durjanpur,commercial,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Durjanpur,Main Road,agricultural,2066.12,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Durjanpur,Main Road Gair Mumkin,agricultural,2685.95,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Durjanpur,Main Road,residential,11000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Durjanpur,Main Road,commercial,21000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Devan,2 acre distance,agricultural,1859.5,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Devan,2 acre distance Gair Mumkin,agricultural,2479.34,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Devan,2 acre distance,residential,9200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Devan,2 acre distance,commercial,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Devan,3 to 5 acre distance,agricultural,1342.98,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Devan,3 to 5 acre distance Gair Mumkin,agricultural,1652.89,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Devan,3 to 5 acre distance,residential,9200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Devan,3 to 5 acre distance,commercial,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Devan,Devan Nehri Tal Chahi Tiba,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Devan,Devan Gair Mumkin,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Devan,Devan,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Devan,Devan,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Dhansu,Dhansu Nehri Tal Chahi Tiba,agricultural,537.19,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Dhansu,Dhansu Gair Mumkin,agricultural,785.12,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Dhansu,Dhansu,residential,4500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Dhansu,Dhansu,commercial,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Dhingtana,Dhingtana Nehri Tal Chahi Tiba,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Dhingtana,Dhingtana Gair Mumkin,agricultural,578.51,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Dhingtana,Dhingtana,residential,4500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Dhingtana,Dhingtana,commercial,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Dhingtana,Main road 2 acre distance,agricultural,2066.12,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Dhingtana,Main road 2 acre distance Gair Mumkin,agricultural,2685.95,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Dhingtana,Main road 2 acre distance,residential,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Dhingtana,Main road 2 acre distance,commercial,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Dhingtana,Main road 3 to 5 acre distance,agricultural,1198.35,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Dhingtana,Main road 3 to 5 acre distance Gair Mumkin,agricultural,1652.89,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Dhingtana,Main road 3 to 5 acre distance,residential,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Dhingtana,Main road 3 to 5 acre distance,commercial,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Nangthala,Nangthala Nehri Tal Chahi Tiba,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Nangthala,Nangthala Gair Mumkin,agricultural,805.79,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Nangthala,Nangthala,residential,4500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Nangthala,Nangthala,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Nathwana,Nathwana Nehri Tal Chahi Tiba,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Nathwana,Nathwana Gair Mumkin,agricultural,537.19,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Nathwana,Nathwana,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Nathwana,Nathwana,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Nalwa,Nalwa Nehri Tal Chahi Tiba,agricultural,371.9,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Nalwa,Nalwa Gair Mumkin,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Nalwa,Nalwa,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Nalwa,Nalwa,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Niyana,Niyana Nehri Tal Chahi Tiba,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Niyana,Niyana Gair Mumkin,agricultural,537.19,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Niyana,Niyana,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Niyana,Niyana,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,NyoliKalan,2 acre distance,agricultural,2892.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,NyoliKalan,2 acre distance Gair Mumkin,agricultural,3719.01,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,NyoliKalan,2 acre distance,residential,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,NyoliKalan,2 acre distance,commercial,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,NyoliKalan,3 to 5 acre distance,agricultural,1694.21,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,NyoliKalan,3 to 5 acre distance Gair Mumkin,agricultural,2479.34,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,NyoliKalan,3 to 5 acre distance,residential,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,NyoliKalan,3 to 5 acre distance,commercial,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,NyoliKalan,Nyoli Kalan Nehri Tal Chahi Tiba,agricultural,564.05,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,NyoliKalan,Nyoli Kalan Gair Mumkin,agricultural,867.77,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,NyoliKalan,Nyoli Kalan,residential,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,NyoliKalan,Nyoli Kalan,commercial,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,PaniharChak,Panihar Chak Nehri Tal Chahi Tiba,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,PaniharChak,Panihar Chak Gair Mumkin,agricultural,537.19,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,PaniharChak,Panihar Chak,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,PaniharChak,Panihar Chak,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Patan,Patan Nehri Tal Chahi Tiba,agricultural,681.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Patan,Patan Gair Mumkin,agricultural,1099.17,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Patan,Patan,residential,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Patan,Patan,commercial,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Patan,Main Road 2 acre distance,agricultural,2272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Patan,Main Road 2 acre distance Gair Mumkin,agricultural,2479.34,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Patan,Main Road 2 acre distance,residential,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Patan,Main Road 2 acre distance,commercial,21000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Patan,Main Road 3 to 5 acre distance,agricultural,1652.89,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Patan,Main Road 3 to 5 acre distance Gair Mumkin,agricultural,1859.5,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Patan,Main Road 3 to 5 acre distance,residential,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Patan,Main Road 3 to 5 acre distance,commercial,21000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Payal,Payal Nehri Tal Chahi Tiba,agricultural,330.58,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Payal,Payal Gair Mumkin,agricultural,537.19,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Payal,Payal,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Payal,Payal,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Fransi,2 acre distance,agricultural,1446.28,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Fransi,2 acre distance Gair Mumkin,agricultural,1549.59,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Fransi,2 acre distance,residential,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Fransi,2 acre distance,commercial,20000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Fransi,3 to 5 acre distance,agricultural,826.45,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Fransi,3 to 5 acre distance Gair Mumkin,agricultural,929.75,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Fransi,3 to 5 acre distance,residential,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Fransi,3 to 5 acre distance,commercial,18000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Fransi,Fransi Nehri Tal Chahi Tiba,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Fransi,Fransi Gair Mumkin,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Fransi,Fransi,residential,4500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Fransi,Fransi,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Fransi,Main Road both sides,agricultural,1446.28,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Fransi,Main Road both sides Gair Mumkin,agricultural,1859.5,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Fransi,Main Road both sides,residential,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Fransi,Main Road both sides,commercial,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BadoBrahmanan,Bado Brahmanan Nehri Tal Chahi Tiba,agricultural,371.9,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BadoBrahmanan,Bado Brahmanan Gair Mumkin,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BadoBrahmanan,Bado Brahmanan,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BadoBrahmanan,Bado Brahmanan,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BadoRangdan,Bado Rangdan Nehri Tal Chahi Tiba,agricultural,330.58,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BadoRangdan,Bado Rangdan Gair Mumkin,agricultural,537.19,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BadoRangdan,Bado Rangdan,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BadoRangdan,Bado Rangdan,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Balawas,Balawas Nehri Tal Chahi Tiba,agricultural,330.58,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Balawas,Balawas Gair Mumkin,agricultural,537.19,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Balawas,Balawas,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Balawas,Balawas,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Bure,Bure Nehri Tal Chahi Tiba,agricultural,330.58,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Bure,Bure Gair Mumkin,agricultural,537.19,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Bure,Bure,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Bure,Bure,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Bahbalpur,Bahbalpur Nehri Tal Chahi Tiba,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Bahbalpur,Bahbalpur Gair Mumkin,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Bahbalpur,Bahbalpur,residential,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Bahbalpur,Bahbalpur,commercial,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Bahbalpur,Main Road,agricultural,1962.81,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Bahbalpur,Main Road Gair Mumkin,agricultural,2685.95,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Bahbalpur,Main Road,residential,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Bahbalpur,Main Road,commercial,18000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Bhagana,Bhagana Nehri Tal Chahi Tiba,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Bhagana,Bhagana Gair Mumkin,agricultural,578.51,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Bhagana,Bhagana,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Bhagana,Bhagana,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Bhari,Bhari Nehri Tal Chahi Tiba,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Bhari,Bhari Gair Mumkin,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Bhari,Bhari,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Bhari,Bhari,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Bheria,2 acre distance,agricultural,1859.5,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Bheria,2 acre distance Gair Mumkin,agricultural,2479.34,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Bheria,2 acre distance,residential,11000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Bheria,2 acre distance,commercial,21000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Bheria,3 to 5 acre distance,agricultural,1239.67,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Bheria,3 to 5 acre distance Gair Mumkin,agricultural,1859.5,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Bheria,3 to 5 acre distance,residential,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Bheria,3 to 5 acre distance,commercial,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Bheria,Bheria Nehri Tal Chahi Tiba,agricultural,537.19,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Bheria,Bheria Gair Mumkin,agricultural,743.8,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Bheria,Bheria,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Bheria,Bheria,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Bhojraj,Bhojraj Nehri Tal Chahi Tiba,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Bhojraj,Bhojraj Gair Mumkin,agricultural,661.16,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Bhojraj,Bhojraj,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Bhojraj,Bhojraj,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,MangaliMohabbat,Mangali Mohabbat Nehri Tal Chahi Tiba,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,MangaliMohabbat,Mangali Mohabbat Gair Mumkin,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,MangaliMohabbat,Mangali Mohabbat,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,MangaliMohabbat,Mangali Mohabbat,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,MangaliAklan,Mangali Aklan Nehri Tal Chahi Tiba,agricultural,564.05,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,MangaliAklan,Mangali Aklan Gair Mumkin,agricultural,661.16,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,MangaliAklan,Mangali Aklan,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,MangaliAklan,Mangali Aklan,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,MangaliJhara,Mangali Jhara Nehri Tal Chahi Tiba,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,MangaliJhara,Mangali Jhara Gair Mumkin,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,MangaliJhara,Mangali Jhara,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,MangaliJhara,Mangali Jhara,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,MangaliBrahmanan,Mangali Brahmanan Nehri Tal Chahi Tiba,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,MangaliBrahmanan,Mangali Brahmanan Gair Mumkin,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,MangaliBrahmanan,Mangali Brahmanan,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,MangaliBrahmanan,Mangali Brahmanan,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,MangaliSurtiya,Mangali Surtiya Nehri Tal Chahi Tiba,agricultural,384.3,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,MangaliSurtiya,Mangali Surtiya Gair Mumkin,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,MangaliSurtiya,Mangali Surtiya,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,MangaliSurtiya,Mangali Surtiya,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Mayyar,2 acre distance,agricultural,2892.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Mayyar,2 acre distance Gair Mumkin,agricultural,4132.23,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Mayyar,2 acre distance,residential,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Mayyar,2 acre distance,commercial,24000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Mayyar,3 to 5 acre distance,agricultural,2272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Mayyar,3 to 5 acre distance Gair Mumkin,agricultural,3099.17,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Mayyar,3 to 5 acre distance,residential,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Mayyar,3 to 5 acre distance,commercial,24000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Mayyar,Mayyar Colony,residential,11000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Mayyar,Mayyar Colony,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Mayyar,Mayyar Nehri Tal Chahi Tiba,agricultural,661.16,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Mayyar,Mayyar Gair Mumkin,agricultural,929.75,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Mayyar,Mayyar,residential,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Mayyar,Mayyar,commercial,10500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Matrashyam,Matrashyam Nehri Tal Chahi Tiba,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Matrashyam,Matrashyam Gair Mumkin,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Matrashyam,Matrashyam,residential,4500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Matrashyam,Matrashyam,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,MingniKhera,Mingni Khera Nehri Tal Chahi Tiba,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,MingniKhera,Mingni Khera Gair Mumkin,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,MingniKhera,Mingni Khera,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,MingniKhera,Mingni Khera,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Mirzapur,Mirzapur Outside MC,agricultural,1652.89,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Mirzapur,Mirzapur Outside MC Gair Mumkin,agricultural,2479.34,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Mirzapur,Mirzapur Outside MC,residential,13000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Mirzapur,Mirzapur Outside MC,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Mirzapur,Mirzapur Within MC,agricultural,3719.01,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Mirzapur,Mirzapur Within MC Gair Mumkin,agricultural,4132.23,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Mirzapur,Mirzapur Within MC,residential,14000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Mirzapur,Mirzapur Within MC,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Mirka,2 acre distance,agricultural,2685.95,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Mirka,2 acre distance Gair Mumkin,agricultural,3099.17,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Mirka,2 acre distance,residential,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Mirka,2 acre distance,commercial,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Mirka,3 to 5 acre distance,agricultural,1652.89,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Mirka,3 to 5 acre distance Gair Mumkin,agricultural,2066.12,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Mirka,3 to 5 acre distance,residential,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Mirka,3 to 5 acre distance,commercial,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Mirka,Mirka Nehri Tal Chahi Tiba,agricultural,650.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Mirka,Mirka Gair Mumkin,agricultural,723.14,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Mirka,Mirka,residential,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Mirka,Mirka,commercial,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Mirpur,Mirpur Nehri Tal Chahi Tiba,agricultural,681.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Mirpur,Mirpur Gair Mumkin,agricultural,929.75,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Mirpur,Mirpur,residential,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Mirpur,Mirpur,commercial,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Mirpur,Main Road,agricultural,2892.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Mirpur,Main Road Gair Mumkin,agricultural,3512.4,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Mirpur,Main Road,residential,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Mirpur,Main Road,commercial,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Muklan,2 acre distance,agricultural,2479.34,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Muklan,2 acre distance Gair Mumkin,agricultural,3099.17,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Muklan,2 acre distance,residential,11000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Muklan,2 acre distance,commercial,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Muklan,3 to 5 acre distance,agricultural,1342.98,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Muklan,3 to 5 acre distance Gair Mumkin,agricultural,1859.5,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Muklan,3 to 5 acre distance,residential,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Muklan,3 to 5 acre distance,commercial,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Muklan,Muklan Nehri Tal Chahi Tiba,agricultural,578.51,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Muklan,Muklan Gair Mumkin,agricultural,909.09,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Muklan,Muklan,residential,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Muklan,Muklan,commercial,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Raipur,Outside MC Limits,agricultural,1756.2,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Raipur,Outside MC Limits Gair Mumkin,agricultural,3512.4,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Raipur,Outside MC Limits,residential,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Raipur,Outside MC Limits,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Raipur,Within MC Limits,agricultural,3512.4,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Raipur,Within MC Limits Gair Mumkin,agricultural,4132.23,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Raipur,Within MC Limits,residential,13000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Raipur,Within MC Limits,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Rawatkheda,Rawatkheda Nehri Tal Chahi Tiba,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Rawatkheda,Rawatkheda Gair Mumkin,agricultural,537.19,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Rawatkheda,Rawatkheda,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Rawatkheda,Rawatkheda,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,RawalwasKhurd,Rawalwas Khurd Nehri Tal Chahi Tiba,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,RawalwasKhurd,Rawalwas Khurd Gair Mumkin,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,RawalwasKhurd,Rawalwas Khurd,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,RawalwasKhurd,Rawalwas Khurd,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Risalkhera,Risalkhera Nehri Tal Chahi Tiba,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Risalkhera,Risalkhera Gair Mumkin,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Risalkhera,Risalkhera,residential,4500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Risalkhera,Risalkhera,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Ladwa,Ladwa Nehri Tal Chahi Tiba,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Ladwa,Ladwa Gair Mumkin,agricultural,826.45,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Ladwa,Ladwa,residential,4500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Ladwa,Ladwa,commercial,11000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Landhari,2 acre distance,agricultural,2685.95,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Landhari,2 acre distance Gair Mumkin,agricultural,3099.17,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Landhari,2 acre distance,residential,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Landhari,2 acre distance,commercial,18000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Landhari,3 to 5 acre distance,agricultural,1342.98,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Landhari,3 to 5 acre distance Gair Mumkin,agricultural,1652.89,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Landhari,3 to 5 acre distance,residential,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Landhari,3 to 5 acre distance,commercial,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Landhari,Landhari Nehri Tal Chahi Tiba,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Landhari,Landhari Gair Mumkin,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Landhari,Landhari,residential,4500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Landhari,Landhari,commercial,11000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Ludas,2 acre distance,agricultural,1962.81,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Ludas,2 acre distance Gair Mumkin,agricultural,2685.95,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Ludas,2 acre distance,residential,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Ludas,2 acre distance,commercial,18000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Ludas,3 to 5 acre distance,agricultural,1239.67,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Ludas,3 to 5 acre distance Gair Mumkin,agricultural,2066.12,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Ludas,3 to 5 acre distance,residential,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Ludas,3 to 5 acre distance,commercial,18000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Ludas,Ludas Nehri Tal Chahi Tiba,agricultural,557.85,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Ludas,Ludas Gair Mumkin,agricultural,785.12,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Ludas,Ludas,residential,4500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Ludas,Ludas,commercial,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Shahpur,2 acre distance,agricultural,1962.81,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Shahpur,2 acre distance Gair Mumkin,agricultural,2685.95,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Shahpur,2 acre distance,residential,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Shahpur,2 acre distance,commercial,18000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Shahpur,3 to 5 acre distance,agricultural,1239.67,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Shahpur,3 to 5 acre distance Gair Mumkin,agricultural,2066.12,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Shahpur,3 to 5 acre distance,residential,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Shahpur,3 to 5 acre distance,commercial,18000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Shahpur,Shahpur Nehri Tal Chahi Tiba,agricultural,609.5,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Shahpur,Shahpur Gair Mumkin,agricultural,826.45,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Shahpur,Shahpur,residential,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Shahpur,Shahpur,commercial,11000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Shyamsukh,Shyamsukh Nehri Tal Chahi Tiba,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Shyamsukh,Shyamsukh Gair Mumkin,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Shyamsukh,Shyamsukh,residential,4500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Shyamsukh,Shyamsukh,commercial,10500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Sandol,Sandol Nehri Tal Chahi Tiba,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Sandol,Sandol Gair Mumkin,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Sandol,Sandol,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Sandol,Sandol,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Sabarwas,Sabarwas Nehri Tal Chahi Tiba,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Sabarwas,Sabarwas Gair Mumkin,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Sabarwas,Sabarwas,residential,4500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Sabarwas,Sabarwas,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Singhran,Singhran Nehri Tal Chahi Tiba,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Singhran,Singhran Gair Mumkin,agricultural,537.19,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Singhran,Singhran,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Singhran,Singhran,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SimaniBolan,Simani Bolan Nehri Tal Chahi Tiba,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SimaniBolan,Simani Bolan Gair Mumkin,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SimaniBolan,Simani Bolan,residential,4500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SimaniBolan,Simani Bolan,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Sulakhani,Sulakhani Nehri Tal Chahi Tiba,agricultural,475.21,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Sulakhani,Sulakhani Gair Mumkin,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Sulakhani,Sulakhani,residential,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Sulakhani,Sulakhani,commercial,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Syahadwa,Syahadwa Nehri Tal Chahi Tiba,agricultural,330.58,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Syahadwa,Syahadwa Gair Mumkin,agricultural,537.19,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Syahadwa,Syahadwa,residential,4500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Syahadwa,Syahadwa,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Harita,Harita Nehri Tal Chahi Tiba,agricultural,330.58,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Harita,Harita Gair Mumkin,agricultural,537.19,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Harita,Harita,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Harita,Harita,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Harikot,Harikot Nehri Tal Chahi Tiba,agricultural,421.49,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Harikot,Harikot Gair Mumkin,agricultural,537.19,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Harikot,Harikot,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Harikot,Harikot,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hindwan,Hindwan Nehri Tal Chahi Tiba,agricultural,475.21,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hindwan,Hindwan Gair Mumkin,agricultural,640.5,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hindwan,Hindwan,residential,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hindwan,Hindwan,commercial,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKalan,2 acre distance,agricultural,3305.79,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKalan,2 acre distance Gair Mumkin,agricultural,4132.23,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKalan,2 acre distance,residential,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKalan,2 acre distance,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKalan,3 to 5 acre distance,agricultural,2479.34,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKalan,3 to 5 acre distance Gair Mumkin,agricultural,3099.17,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKalan,3 to 5 acre distance,residential,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKalan,3 to 5 acre distance,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKalan,Outside MC,agricultural,1549.59,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKalan,Outside MC Gair Mumkin,agricultural,3099.17,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKalan,Outside MC,residential,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKalan,Outside MC,commercial,21000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKalan,Within MC,agricultural,3512.4,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKalan,Within MC Gair Mumkin,agricultural,4132.23,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKalan,Within MC,residential,13000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKalan,Within MC,commercial,33000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKalan,Baba Harsukhpuri Colony,residential,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKalan,Baba Harsukhpuri Colony,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKalan,Ch Devi Lal Colony Satrod,residential,13000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKalan,Ch Devi Lal Colony Satrod,commercial,25000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKalan,Choudhary Colony Satrod,residential,13000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKalan,Choudhary Colony Satrod,commercial,23000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKalan,Hanuman Colony Satrod Kalan,residential,13000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKalan,Hanuman Colony Satrod Kalan,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKalan,Master Colony Satrod,residential,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKalan,Master Colony Satrod,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKalan,Adarsh Nagar near Cantt Hisar,residential,13000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKalan,Adarsh Nagar near Cantt Hisar,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKalan,Sainik Vihar Colony opposite TCP 3 Hisar Cantt,residential,13000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKalan,Sainik Vihar Colony opposite TCP 3 Hisar Cantt,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKalan,Hanuman Colony Extension Balaji Complex Colony,residential,13000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKalan,Hanuman Colony Extension Balaji Complex Colony,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKhas,2 acre distance,agricultural,3099.17,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKhas,2 acre distance Gair Mumkin,agricultural,4132.23,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKhas,2 acre distance,residential,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKhas,2 acre distance,commercial,21000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKhas,3 to 5 acre distance,agricultural,2851.24,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKhas,3 to 5 acre distance Gair Mumkin,agricultural,4132.23,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKhas,3 to 5 acre distance,residential,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKhas,3 to 5 acre distance,commercial,21000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKhas,Outside MC,agricultural,1549.59,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKhas,Outside MC Gair Mumkin,agricultural,3099.17,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKhas,Outside MC,residential,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKhas,Outside MC,commercial,21000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKhas,Within MC,agricultural,4132.23,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKhas,Within MC Gair Mumkin,agricultural,5165.29,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKhas,Within MC,residential,14000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKhas,Within MC,commercial,27000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKhas,Baba Harsukh Puri Colony Satrod Khas,residential,13000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKhas,Baba Harsukh Puri Colony Satrod Khas,commercial,21000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKhurd,2 acre distance,agricultural,3719.01,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKhurd,2 acre distance Gair Mumkin,agricultural,5165.29,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKhurd,2 acre distance,residential,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKhurd,2 acre distance,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKhurd,3 to 5 acre distance,agricultural,2685.95,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKhurd,3 to 5 acre distance Gair Mumkin,agricultural,5165.29,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKhurd,3 to 5 acre distance,residential,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKhurd,3 to 5 acre distance,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKhurd,Outside MC,agricultural,1714.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKhurd,Outside MC Gair Mumkin,agricultural,3099.17,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKhurd,Outside MC,residential,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKhurd,Outside MC,commercial,21000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKhurd,Within MC,agricultural,4132.23,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKhurd,Within MC Gair Mumkin,agricultural,5165.29,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKhurd,Within MC,residential,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKhurd,Within MC,commercial,27000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKhurd,LC732 Satrod Khurd,residential,32000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKhurd,LC732 Satrod Khurd,commercial,97000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKhurd,South City Tara Nagar Jai Shri Shyam Vihar Colony,residential,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,SatrodKhurd,South City Tara Nagar Jai Shri Shyam Vihar Colony,commercial,62000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedOutsideMC,2 acre distance,agricultural,3925.62,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedOutsideMC,2 acre distance Gair Mumkin,agricultural,4545.45,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedOutsideMC,2 acre distance,residential,11000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedOutsideMC,2 acre distance,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedOutsideMC,3 to 5 acre distance,agricultural,2479.34,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedOutsideMC,3 to 5 acre distance Gair Mumkin,agricultural,3925.62,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedOutsideMC,3 to 5 acre distance,residential,11000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedOutsideMC,3 to 5 acre distance,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedOutsideMC,Beed Outside MC,agricultural,1673.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedOutsideMC,Beed Outside MC Gair Mumkin,agricultural,3099.17,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedOutsideMC,Beed Outside MC,residential,11000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedOutsideMC,Beed Outside MC,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,2 acre distance,agricultural,3305.79,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,2 acre distance Gair Mumkin,agricultural,3925.62,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,2 acre distance,residential,18000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,2 acre distance,commercial,30000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,3 to 5 acre distance,agricultural,2479.34,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,3 to 5 acre distance Gair Mumkin,agricultural,3925.62,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,3 to 5 acre distance,residential,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,3 to 5 acre distance,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,Beed Within MC,agricultural,3512.4,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,Beed Within MC Gair Mumkin,agricultural,4132.23,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,Beed Within MC,residential,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,Beed Within MC,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,Auto Market to Barwala Road,residential,35000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,Auto Market to Barwala Road,commercial,94000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,Bagla Road,residential,18000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,Bagla Road,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,Balsmand Road Railway Crossing to HAU Gate No 2,residential,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,Balsmand Road Railway Crossing to HAU Gate No 2,commercial,50000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,Bir AP Bagla Road,residential,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,Bir AP Bagla Road,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,Chandan Nagar on Balsamand Road,residential,13000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,Chandan Nagar on Balsamand Road,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,Gagandeep Colony near Chandan Nagar,residential,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,Gagandeep Colony near Chandan Nagar,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,GLF Colony,residential,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,GLF Colony,commercial,50000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,Inderprasth Colony,residential,23500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,Inderprasth Colony,commercial,70000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,LC 4042 A Bir Hisar Old DC Residence,residential,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,LC 4042 A Bir Hisar Old DC Residence,commercial,50000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,Licence No 46 of 2021 Bagla Road Bir,residential,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,Licence No 46 of 2021 Bagla Road Bir,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,Pratap Nagar,residential,14000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,Pratap Nagar,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,Professor Colony on Balsamand Road,residential,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,Professor Colony on Balsamand Road,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,Saheed Bhagat Singh Colony,residential,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,Saheed Bhagat Singh Colony,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,Sunder Nagar,residential,27000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,Sunder Nagar,commercial,50000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,Tayal Garden in Front of Auto Market,residential,25000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,Tayal Garden in Front of Auto Market,commercial,58000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,Vikas Nagar,residential,26000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,Vikas Nagar,commercial,58000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,Vishkarma Colony on Balsamand Road,residential,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,Vishkarma Colony on Balsamand Road,commercial,46000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,MKS Udyog City,residential,16500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,MKS Udyog City,commercial,25500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,RS Colony Shri Krishna Enclave New Krishna Enclave Phase 2,residential,18000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,RS Colony Shri Krishna Enclave New Krishna Enclave Phase 2,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,Shaheed Bhagat Singh Colony Phase 1,residential,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,BeedWithinMC,Shaheed Bhagat Singh Colony Phase 1,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,2 acre distance,agricultural,3305.79,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,2 acre distance Gair Mumkin,agricultural,4545.45,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,2 acre distance,residential,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,2 acre distance,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,3 to 5 acre distance,agricultural,2479.34,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,3 to 5 acre distance Gair Mumkin,agricultural,3099.17,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,3 to 5 acre distance,residential,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,3 to 5 acre distance,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Within MC,agricultural,3512.4,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Within MC Gair Mumkin,agricultural,3925.62,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Within MC,residential,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Within MC,commercial,26000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Outside MC,agricultural,1797.52,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Outside MC Gair Mumkin,agricultural,3657.02,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Outside MC,residential,13000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Outside MC,commercial,21000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Adarsh Colony Gangwa,residential,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Adarsh Colony Gangwa,commercial,26000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Adarsh Nagar Gangwa,residential,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Adarsh Nagar Gangwa,commercial,26000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Amar Vihar,residential,13000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Amar Vihar,commercial,20000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Amar Vihar Phase I-II,residential,13000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Amar Vihar Phase I-II,commercial,20000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Amardeep Colony Gangwa,residential,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Amardeep Colony Gangwa,commercial,25000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Anchal Vihar Gangwa,residential,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Anchal Vihar Gangwa,commercial,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Ashok Vihar Gangwa,residential,15000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Ashok Vihar Gangwa,commercial,25500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Azad Nagar in Gangwa,residential,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Azad Nagar in Gangwa,commercial,35000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Bakshi Nagar Gangwa,residential,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Bakshi Nagar Gangwa,commercial,26000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Ekta Nagar Gangwa,residential,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Ekta Nagar Gangwa,commercial,21000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Friends Colony,residential,26000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Friends Colony,commercial,47000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Friends Enclave Chanderlok,residential,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Friends Enclave Chanderlok,commercial,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Geeta Colony Gangwa,residential,11000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Geeta Colony Gangwa,commercial,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,HTM Road Area,residential,14000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,HTM Road Area,commercial,35000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Indra Colony Gangwa,residential,13200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Indra Colony Gangwa,commercial,21000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Karam Kunj,residential,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Karam Kunj,commercial,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,LIC Colony Gangwa,residential,14000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,LIC Colony Gangwa,commercial,21000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Modern Saket Colony,residential,21000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Modern Saket Colony,commercial,47000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Nand Vihar Gangwa,residential,18000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Nand Vihar Gangwa,commercial,24000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Navdeep Colony Gangwa,residential,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Navdeep Colony Gangwa,commercial,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,New Geeta Colony Gangwa,residential,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,New Geeta Colony Gangwa,commercial,24000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Old Saket Colony,residential,23000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Old Saket Colony,commercial,47000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Professor Colony Gangwa Road,residential,21000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Professor Colony Gangwa Road,commercial,34000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Saket Colony Gangwa Road both side Khasra 13-20 37-39,residential,23000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Saket Colony Gangwa Road both side Khasra 13-20 37-39,commercial,47000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Shastri Nagar Gangwa,residential,18600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Shastri Nagar Gangwa,commercial,34000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Shiv Colony Gangwa,residential,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Shiv Colony Gangwa,commercial,23000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Shyam Vihar Gangwa,residential,11000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Shyam Vihar Gangwa,commercial,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Tulsi Vihar,residential,14000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Tulsi Vihar,commercial,26000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Tulsi Vihar Gangwa Road,residential,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Tulsi Vihar Gangwa Road,commercial,24000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Virat Nagar,residential,19000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Virat Nagar,commercial,24000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Vishal Nagar,residential,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Gangwa,Vishal Nagar,commercial,26000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Agrawal Colony,residential,35000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Agrawal Colony,commercial,60000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Aggrasain Colony,residential,23000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Aggrasain Colony,commercial,50000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Apna Bazar,commercial,58000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Aman Nagar,residential,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Aman Nagar,commercial,27000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Amardeep Extension 1,residential,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Amardeep Extension 1,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Amardeep Colony Hisar,residential,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Amardeep Colony Hisar,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Urban Estate-2,residential,45500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Urban Estate-2,commercial,125000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Urban Estate-1 Commercial,commercial,114000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Ahiran Mohalla,residential,21000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Ahiran Mohalla,commercial,35000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,ITI Dabda Chowk to DC,residential,27000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,ITI Dabda Chowk to DC,commercial,90000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Azad Gali,residential,39000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Azad Gali,commercial,118000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Auto Market,commercial,100000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Atma Nagar,residential,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Atma Nagar,commercial,25000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Adarsh Nagar,residential,23000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Adarsh Nagar,commercial,47000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Anand Niketan,residential,21000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Anand Niketan,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Anand Vihar,residential,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Anand Vihar,commercial,18000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Iron Rolling Mills,residential,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Iron Rolling Mills,commercial,33000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,RCT,residential,35000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Arya Bazar,residential,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Arya Bazar,commercial,65000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Engineer Colony,residential,15000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Engineer Colony,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Industrial Area,commercial,46000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Industrial Area from 1 yard,commercial,43000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Industrial Area 1001,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Industrial Area 2001,commercial,18000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Industrial Area 4800,commercial,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Indra Colony,residential,18000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Indra Colony,commercial,50000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Ugrasain Salochana Devi,commercial,120000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Uttam Nagar,residential,20000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Uttam Nagar,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Udaipuriyan Mohalla,residential,25000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Udaipuriyan Mohalla,commercial,58000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Umed Vihar,residential,19000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Umed Vihar,commercial,31000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Rishi Nagar,residential,35000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Rishi Nagar,commercial,72000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Rishi Nagar Dabda Chowk,residential,30000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Rishi Nagar Dabda Chowk,commercial,72000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Rishi Vihar Colony,residential,20000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Rishi Vihar Colony,commercial,40000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Ekta Nagar,residential,20000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Ekta Nagar,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Extension Model Town,residential,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Extension Model Town,commercial,35000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,HTM Colony,residential,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,HTM Colony,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,HBC Sector 1-4,residential,27000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,HBC Sector 1-4,commercial,100000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,HBC Sector 16-17,residential,32000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,HBC Sector 16-17,commercial,100000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,HBC Vidyut Nagar,residential,35000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,HBC Vidyut Nagar,commercial,90000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,HBC Sirsa Road,residential,33000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,HBC Sirsa Road,commercial,90000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,HBC Sector 15A,residential,35000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,HBC Sector 15A,commercial,90000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Advocate Colony,residential,27000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Advocate Colony,commercial,60000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,MC Colony,residential,37000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,MC Colony,commercial,150000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,LIC Colony,residential,8000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,LIC Colony,commercial,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Old Court Complex Fuwara Chowk,commercial,150000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Old Municipality Office,commercial,100000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Old Red Cross Complex,commercial,90000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Old Sabzi Mandi,residential,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Old Sabzi Mandi,commercial,90000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Katla Ramlila,residential,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Katla Ramlila,commercial,98000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Kanika Vihar Colony,residential,13000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Kanika Vihar Colony,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Kamla Nagar,residential,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Kamla Nagar,commercial,50000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Kamlavati Keshavnath,residential,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Kamlavati Keshavnath,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Kasaban Mohalla,residential,25000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Kasaban Mohalla,commercial,55000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Kath Mandi,commercial,87000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Kanungo Mohalla,residential,18000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Kanungo Mohalla,commercial,87000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Kayasthan Mohalla,residential,18000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Kayasthan Mohalla,commercial,57000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Kali Devi Mandir Area,residential,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Kali Devi Mandir Area,commercial,35000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Kui Wala Mohalla,residential,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Kui Wala Mohalla,commercial,60000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Kunjalal Garden,residential,25000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Kunjalal Garden,commercial,43000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Krishna Colony,residential,13000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Krishna Colony,commercial,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Krishna Nagar,residential,32000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Krishna Nagar,commercial,65000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Kaimri Road Patel Nagar to Bal,residential,23000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Kaimri Road Patel Nagar to Bal,commercial,65000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Kailash Nagar,residential,18000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Kailash Nagar,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Kaushik Nagar,residential,18000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Kaushik Nagar,commercial,37000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Khajanchian Mohalla,residential,25000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Khajanchian Mohalla,commercial,100000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Ganesh Colony,residential,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Ganesh Colony,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Gandhi Chowk,residential,37000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Gandhi Chowk,commercial,100000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Gandhi Dairy Colony,residential,25000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Gandhi Dairy Colony,commercial,64000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Gandhi Nagar,residential,23000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Gandhi Nagar,commercial,57000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Gita Colony Mirzapur Road near Kaushik Nagar,residential,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Gita Colony Mirzapur Road near Kaushik Nagar,commercial,36000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Gulab Singh Chowk to Gandhi,commercial,87000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Government Colony HTM,residential,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Government Colony HTM,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Gobind Colony,residential,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Gobind Colony,commercial,58000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Gobindgarh Bazar,residential,27000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Gobindgarh Bazar,commercial,97500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Green Park Area,residential,50000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Green Park Area,commercial,90000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Grover Market,commercial,87000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Ghoda Farm Road,residential,23000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Ghoda Farm Road,commercial,35000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Ghoda Farm Road Dhani Sorgar,residential,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Ghoda Farm Road Dhani Sorgar,commercial,35000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Chandra Nagar,residential,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Chandra Nagar,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Chandralok,residential,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Chandralok,commercial,43000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Chandralok Extension 2,residential,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Chandralok Extension 2,commercial,43000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Chamaran Mohalla,residential,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Chamaran Mohalla,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Chaudharyan Mohalla,residential,26000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Chaudharyan Mohalla,commercial,70000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Chaudhary Surajmal Enclave Colony,residential,30000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Chaudhary Surajmal Enclave Colony,commercial,50000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Chhabeel Das Gali,residential,26000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Chhabeel Das Gali,commercial,43000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Chhotu Ram Colony,residential,26000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Chhotu Ram Colony,commercial,55000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Jagjivan Nagar Scheme No 11F,residential,26000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Jagjivan Nagar Scheme No 11F,commercial,37000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Jambheshwar Market,commercial,90000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Jawahar Nagar,residential,37000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Jawahar Nagar,commercial,75000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Jahajpul Area,residential,26000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Jahajpul Area,commercial,75000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Jindal Chowk,residential,31000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Jindal Chowk,commercial,90000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Jain Gali near Nagauri Gate,residential,31000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Jain Gali near Nagauri Gate,commercial,125000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Jaina Vihar,residential,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Jaina Vihar,commercial,43000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Jyotipura Mohalla,residential,39700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Jyotipura Mohalla,commercial,57000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Tower Enclave,residential,27000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Tower Enclave,commercial,43000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Tibba Danasher,residential,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Tibba Danasher,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Tekdan Mohalla,residential,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Tekdan Mohalla,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Thandi Sadak to Jahaj,residential,26000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Thandi Sadak to Jahaj,commercial,58000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Dakotan Mohalla,residential,18000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Dakotan Mohalla,commercial,57000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Dabda Chowk,commercial,125000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Dabda Chowk to Jindal Road,commercial,90000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Defence Colony,residential,37000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Defence Colony,commercial,80000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,DN College Road,residential,25000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,DN College Road,commercial,65000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,DC Colony,residential,43000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,DC Colony,commercial,87000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Dhani Kishandat,residential,18000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Dhani Kishandat,commercial,43000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Dhani Jaydev,residential,23000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Dhani Jaydev,commercial,50000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Dhani Shyamlal,residential,21000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Dhani Shyamlal,commercial,58000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Tarsem Nagar,residential,15000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Tarsem Nagar,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Talaki Gate Main Market,residential,25000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Talaki Gate Main Market,commercial,100000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Dayanand Colony,residential,45000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Dayanand Colony,commercial,87000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Deep Nagar,residential,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Deep Nagar,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Durga Colony,residential,21000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Durga Colony,commercial,43000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Dev Nagar,residential,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Dev Nagar,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Dev Watika,residential,15000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Dev Watika,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Devi Bhawan Road,residential,26000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Devi Bhawan Road,commercial,65000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Deshwali Basti,residential,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Deshwali Basti,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Nand Cinema Road,residential,25000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Nand Cinema Road,commercial,50000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Navdeep Colony,residential,25000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Navdeep Colony,commercial,37000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Nagauri Gate inside Jain Gali Area,residential,37000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Nagauri Gate inside Jain Gali Area,commercial,93000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Nagauri Gate to Gulab Singh Chowk,commercial,120000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Nagauri Gate to Bus Stand,commercial,125000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Neemwala Mohalla,residential,26000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Neemwala Mohalla,commercial,72000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Neelkanth Complex,commercial,150000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Netaji Colony,residential,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Netaji Colony,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,New Amardeep Extension,residential,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,New Amardeep Extension,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,New Rishi Nagar,residential,26000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,New Rishi Nagar,commercial,58000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,New Geeta Colony,residential,20000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,New Geeta Colony,commercial,25000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,New Grain Market,commercial,80000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,New Jaydev Nagar,residential,20000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,New Jaydev Nagar,commercial,36000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,New Jawahar Nagar,residential,21000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,New Jawahar Nagar,commercial,37000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,New Bagad Line Area,residential,25000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,New Bagad Line Area,commercial,58000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,New Bharat Oil Mills,residential,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,New Bharat Oil Mills,commercial,44000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,New Model Town,residential,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,New Model Town,commercial,40000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,New Rajiv Nagar,residential,21000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,New Rajiv Nagar,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,New Sabzi Mandi HTM Road,commercial,75000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Punjabi Bagh,residential,23000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Punjabi Bagh,commercial,36000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Pansarian Gali,residential,25000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Pansarian Gali,commercial,50000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Patel Nagar,residential,26000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Patel Nagar,commercial,68000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Pathana Mohalla,residential,18000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Pathana Mohalla,commercial,70500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Parav Gujaran,residential,26000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Parav Gujaran,commercial,44000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Parijat Complex,commercial,150000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Parijat Chowk to Bal Railway,residential,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Parijat Chowk to Bal Railway,commercial,103200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Peeth Vidyut Nagar behind,residential,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Peeth Vidyut Nagar behind,commercial,43000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Old Anaj Mandi,commercial,100000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Old Tehsil Road Rajguru Market,residential,25000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Old Tehsil Road Rajguru Market,commercial,120000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Old Tehsil Road City Thana,residential,27000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Old Tehsil Road City Thana,commercial,125000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Police Line Area,residential,45500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Police Line Area,commercial,93000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Pushp Watika,residential,20000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Pushp Watika,commercial,33000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Pushpa Complex,commercial,77000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Prithvi Vihar,residential,13000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Prithvi Vihar,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Preeti Nagar,residential,36000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Preeti Nagar,commercial,72000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Prem Colony,residential,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Prem Colony,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Prem Nagar,residential,36000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Prem Nagar,commercial,72000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Fuwara Chowk Road,commercial,93000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Fuwara Chowk to Matka Chowk,commercial,93000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Bakshi Nagar,residential,20000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Bakshi Nagar,commercial,43000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Badwali Dhani,residential,21000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Badwali Dhani,commercial,53000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Bus Stand to Auto Market,commercial,100000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Bus Stand to Dabda Chowk Road,commercial,112500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Bus Stand to Civil,commercial,100000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Bado Signal,residential,18000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Bado Signal,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Bag Shyamlal,residential,21000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Bag Shyamlal,commercial,50000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Barah Quarter Road,residential,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Barah Quarter Road,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Bara Mohalla,residential,21000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Bara Mohalla,commercial,66000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Balkanath Mandir,residential,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Balkanath Mandir,commercial,35000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Balmiki Chowk,commercial,65000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Balmiki Mohalla,residential,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Balmiki Mohalla,commercial,35000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Birkhuwala Mohalla,residential,27000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Birkhuwala Mohalla,commercial,93000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Bishnoi Colony,residential,25000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Bishnoi Colony,commercial,65000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,B and R Colony,residential,25000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,B and R Colony,commercial,51000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Bank Colony,residential,25000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Bank Colony,commercial,51000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Brahm Vidyapeeth,residential,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Brahm Vidyapeeth,commercial,40000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Brahmanan Wali Gali,residential,21000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Brahmanan Wali Gali,commercial,45000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Bhagat Singh Chowk Area,residential,25000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Bhagat Singh Chowk Area,commercial,105000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Bhagat Singh Nagar,residential,21000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Bhagat Singh Nagar,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Bhat Colony,residential,13000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Bhat Colony,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Bhamashah Nagar,residential,30800,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Bhamashah Nagar,commercial,50000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Bhima Nagar,residential,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Bhima Nagar,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Bhutani Colony,residential,20000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Bhutani Colony,commercial,33000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Majdoor Colony,residential,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Majdoor Colony,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Manohar Colony,residential,25000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Manohar Colony,commercial,65000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Malik Hospital Area,residential,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Malik Hospital Area,commercial,80000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Mahabir Colony,residential,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Mahabir Colony,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Mahalaxmi Market,commercial,93000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Mahesh Nagar,residential,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Mahesh Nagar,commercial,26000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Model Town,residential,43000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Model Town,commercial,120000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Maruti Showroom behind,residential,25000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Maruti Showroom behind,commercial,46000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Mall Extension Colony,residential,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Mall Extension Colony,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Mall Colony,residential,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Mall Colony,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Mittal Nagar,residential,25000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Mittal Nagar,commercial,30000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Midtown,commercial,110000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Multani Chowk,residential,26000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Multani Chowk,commercial,87000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Mela Kothi Area,residential,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Mela Kothi Area,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Moti Nagar Extension,residential,13000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Moti Nagar Extension,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Moti Bazar,residential,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Moti Bazar,commercial,100000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Mori Gate Area,residential,32000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Mori Gate Area,commercial,87000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Mohana Mandi,residential,37000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Mohana Mandi,commercial,87000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Mohalla Dogran,residential,26000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Mohalla Dogran,commercial,58000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Mohalla Maulviyan,residential,20000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Mohalla Maulviyan,commercial,65000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Yadav Colony,residential,37000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Yadav Colony,commercial,50000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Yog Nagar,residential,26000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Yog Nagar,commercial,40000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Rajgarh Railway Line both sides,residential,18000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Rajgarh Railway Line both sides,commercial,43000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Rajguru Complex,commercial,87000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Rajguru Market,commercial,160000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Rajdarbar,residential,37000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Rajdarbar,commercial,82000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Rajan Market,commercial,50000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Raja Ram Garden,residential,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Raja Ram Garden,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Rajiv Nagar near Shanti Nagar,residential,21000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Rajiv Nagar near Shanti Nagar,commercial,57000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Rajendra Nagar Enclave,residential,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Rajendra Nagar Enclave,commercial,50000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Ramgarh Colony,residential,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Ramgarh Colony,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Ramnagar,residential,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Ramnagar,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Rampura Mohalla,residential,26000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Rampura Mohalla,commercial,65000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Railway Road Overbridge Double Phatak,residential,25000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Railway Road Overbridge Double Phatak,commercial,120000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Rehri Market,commercial,80000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Lakad Mandi,commercial,90000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Lakshmi Mandi,residential,27000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Lakshmi Mandi,commercial,90000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Lakshmi Vihar,residential,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Lakshmi Vihar,commercial,35000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Lakshmi Vihar 2,residential,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Lakshmi Vihar 2,commercial,35000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Lakshmi Vihar Kaimri Road,residential,18000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Lakshmi Vihar Kaimri Road,commercial,37000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Lajpat Nagar,residential,40500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Lajpat Nagar,commercial,87000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Loha Mandi,commercial,100000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Lohia Nagar,residential,18000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Lohia Nagar,commercial,43000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Vijay Nagar,residential,20000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Vijay Nagar,commercial,33000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Vinayak Nagar,residential,14000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Vinayak Nagar,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Vinod Nagar,residential,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Vinod Nagar,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Vivek Nagar,residential,27000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Vivek Nagar,commercial,40000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Vishwakarma Nagar,residential,18000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Vishwakarma Nagar,commercial,31000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Vishwaspoorn Colony,residential,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Vishwaspoorn Colony,commercial,60000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Vyapar and Commercial 123,commercial,110000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Shakti Nagar,residential,26000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Shakti Nagar,commercial,50000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Sharma Gali,residential,18000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Sharma Gali,commercial,58000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Shanti Nagar,residential,20000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Shanti Nagar,commercial,40000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Shastri Nagar,residential,18000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Shastri Nagar,commercial,35000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Shiv Colony,residential,14000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Shiv Colony,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Shiv Colony Extension 1,residential,14000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Shiv Colony Extension 1,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Shiv Colony Extension 2,residential,14000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Shiv Colony Extension 2,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Shiv Colony Extension 3,residential,14000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Shiv Colony Extension 3,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Shiv Colony Part 2,residential,14000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Shiv Colony Part 2,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Shiv Nagar,residential,14000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Shiv Nagar,commercial,33000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Shutarkhana,residential,26000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Shutarkhana,commercial,50000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Shamshan Ghat Area,residential,18000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Shamshan Ghat Area,commercial,50000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Shyam Nagar,residential,13000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Shyam Nagar,commercial,30000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Shyam Vihar Phase 1 and 2,residential,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Shyam Vihar Phase 1 and 2,commercial,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Shri Nagar,residential,13000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Shri Nagar,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Sanjay Nagar,residential,20000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Sanjay Nagar,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Satya Nagar,residential,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Satya Nagar,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Sant Nagar,residential,27000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Sant Nagar,commercial,50000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Sant Vihar Colony,residential,18000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Sant Vihar Colony,commercial,32000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,City Hospital Market,commercial,87000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Sundar Nagar Mill Gate,residential,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Sundar Nagar Mill Gate,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Subhash Nagar,residential,20000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Subhash Nagar,commercial,50000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Subhash Market,commercial,65000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Surendra Colony,residential,27000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Surendra Colony,commercial,58000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Surya Nagar,residential,13000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Surya Nagar,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Sevak Sabha Hospital,residential,25000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Sevak Sabha Hospital,commercial,80000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Sector 1-4,residential,35000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Sector 1-4,commercial,117000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Sector 1-4 Part 2,residential,35000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Sector 1-4 Part 2,commercial,100000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Sector 3,residential,30000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Sector 3,commercial,110000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Sector 5,residential,30000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Sector 5,commercial,110000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Sector 9-11,residential,39000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Sector 9-11,commercial,140000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Sector 13,residential,38000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Sector 13,commercial,120000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Sector 13 Part 2,residential,39700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Sector 13 Part 2,commercial,100000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Sector 14 P,residential,40000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Sector 14 P,commercial,110000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Sector 14 Part 2,residential,42000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Sector 14 Part 2,commercial,100000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Sector 15 A,residential,37000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Sector 15 A,commercial,110000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Sector 16-17,residential,36000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Sector 16-17,commercial,140000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Sector 24,residential,39000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Sector 24,commercial,100000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Sector 25 Commercial,commercial,130000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Sector 27-28,commercial,50000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Sector 33 Part 1,residential,39000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Sector 33 Part 1,commercial,100000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Sector Mela Ground,residential,30000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Sector Mela Ground,commercial,125000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Centro Enclave,residential,26000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Centro Enclave,commercial,75000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Sainiyan Mohalla,residential,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Sainiyan Mohalla,commercial,42000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Saint Mary School se,residential,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Saint Mary School se,commercial,63000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Sorgar Colony,residential,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Sorgar Colony,commercial,21000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Hanuman Nagar Extension 1,residential,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Hanuman Nagar Extension 1,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Hanuman Nagar Extension 2,residential,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Hanuman Nagar Extension 2,commercial,25000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Hanuman Nagar Extension 3,residential,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Hanuman Nagar Extension 3,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Hanuman Nagar Extension 4,residential,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Hanuman Nagar Extension 4,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Hari Nagar,residential,20000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Hari Nagar,commercial,32000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Hari Nagar Colony,residential,19000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Hari Nagar Colony,commercial,33000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Haridas Colony,residential,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Haridas Colony,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Hisar Cantt ke samne,residential,13000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Hisar Cantt ke samne,commercial,40000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Hetram Park Area,residential,30000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Hetram Park Area,commercial,78000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Wholesale Cloth Market,commercial,112000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,LC 3660 Devi Lal Town Park Front of Jail,commercial,95000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,LC 3902 A Raj Darbar,residential,37000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,LC 3902 A Raj Darbar,commercial,80000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,LC 3903 Raj Darbar,residential,37000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,LC 3903 Raj Darbar,commercial,80000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,LC872 Raj Darbar Hisar,residential,37000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,LC872 Raj Darbar Hisar,commercial,80000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,LC117 Om Estates,residential,25000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,LC117 Om Estates,commercial,50000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Within MC Nehri Tal Chahi Tiba,agricultural,4132.23,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Within MC Gair Mumkin,agricultural,5165.29,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Within MC,residential,13000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Within MC,commercial,37500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Outside MC Nehri Tal Chahi Tiba,agricultural,1549.59,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Outside MC Gair Mumkin,agricultural,3099.17,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Outside MC,residential,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Outside MC,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Hisar to Tosham Delhi Mirzapur Road up to 2 acres Nehri Tal Chahi Tiba,agricultural,3305.79,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Hisar to Tosham Delhi Mirzapur Road up to 2 acres,residential,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Hisar to Tosham Delhi Mirzapur Road up to 2 acres,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Hisar to Tosham Delhi Mirzapur Road 3 to 5 acres Nehri Tal Chahi Tiba,agricultural,2272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Hisar to Tosham Delhi Mirzapur Road 3 to 5 acres,residential,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hisar,Hisar,Hisar to Tosham Delhi Mirzapur Road 3 to 5 acres,commercial,22000,2026-04-01,hisar_gov_in_dc_notification

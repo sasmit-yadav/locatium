@@ -1,0 +1,462 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Sirsa,Ellenabad,अमृतसर,Amritsar,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,अमृतसर,Amritsar,agricultural,165.29,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,अमृतसर,Amritsar,agricultural,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,अमृतसर,Amritsar,residential,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,अमृतसर,Amritsar Kalan To Jiwan Nagar Road After 2 ACR,agricultural,650.83,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,अमृतसर,Amritsar Kalan To Jiwan Nagar Road Up to 2 ACR,agricultural,671.49,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,अमृतसर,Amritsar Kalan To Rania Road After 2 ACR,agricultural,650.83,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,अमृतसर,Amritsar Kalan To Rania Road Up to 2 ACR,agricultural,671.49,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,अमृतसर,Amritsar Khurd To Ghagar Road After 2 ACR,agricultural,650.83,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,अमृतसर,Amritsar Khurd To Ghagar Road Up to 2 ACR,agricultural,671.49,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,अमृतसर,Amritsar To Budhi Madai Road After 2 ACR,agricultural,733.47,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,अमृतसर,Amritsar To Budhi Madai Road Up to 2 ACR,agricultural,764.46,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,अमृतसर,Ellenabad to Sirsa Road After 2 ACR,agricultural,650.83,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,अमृतसर,Ellenabad to Sirsa Road Up to 2 ACR,agricultural,671.49,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,अमृतसर,Enb to Dbl Road Amritsar to Budhi,agricultural,650.83,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,उमेदपुरा,Ellenabad to Sirsa Road After 2 Acr,agricultural,340.91,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,उमेदपुरा,Ellenabad to Sirsa Road Up to 2 Acr,agricultural,671.49,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,उमेदपुरा,Umedpura,agricultural,309.92,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,उमेदपुरा,Umedpura,agricultural,165.29,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,उमेदपुरा,Umedpura,agricultural,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,उमेदपुरा,Umedpura,residential,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,उमेदपुरा,Umedpura To Kesupura Road After 2 ACR,agricultural,340.91,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,उमेदपुरा,Umedpura To Kesupura Road Up to 2 ACR,agricultural,340.91,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,उमेदपुरा,Umedpura To Kotli Road After 2 ACR,agricultural,309.92,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,उमेदपुरा,Umedpura To Kotli Road Up to 2 ACR,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,उमेदपुरा,Umedpura to Mallekan Road 3 to 5 acar,agricultural,340.91,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,उमेदपुरा,उमे०सी०से मले०सीमा सि०रोड,agricultural,671.49,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादगांव,Amdkar chok to Mlthisurera seema tak,agricultural,766.53,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादगांव,Ellenabad Village,agricultural,413.22,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादगांव,Ellenabad Village,agricultural,475.21,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादगांव,Ellenabad Village,agricultural,258.26,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादगांव,Ellenabad Village,agricultural,1500,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादगांव,Ellenabad Village,residential,1725,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादगांव,Ellenabad Village,commercial,11000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादगांव,ENB seema to Neemla seema Hnmangarh road,agricultural,619.83,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादगांव,Railway fatak to Neemla seema tak,agricultural,619.83,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादगांव,"Talwarada road bypas to Udham chok , Mamera",agricultural,1105.37,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादगांव,teh R.Ba.U Me Cho tak,agricultural,1033.06,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादगांव,teh R.Ba.U Me Cho tak,agricultural,1105.37,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादगांव,teh R.Ba.U Me Cho tak,commercial,1105.37,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादगांव,Udham chok to Bhate tak Rania Road,agricultural,671.49,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Aati.A.M.Ni.Shop 20x85,commercial,34500,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Anaj Mandi 10x20,commercial,45000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Anaj Mandi 10x20 Out,commercial,60000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Anaj Mandi 16x60 Out,residential,27000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Anaj Mandi 16x60 Out,commercial,30000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Anaj Mandi 20 x 85,commercial,50000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Anaj Mandi out 10x40,residential,40000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Anaj Mandi out 10x40,commercial,42000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Ati A.M.Both 12x27,commercial,53000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Ati.A.M.Ni.Shop 20x50,commercial,42000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Auto Market,commercial,13500,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Bus Stand to Sarvodaya School,residential,8200,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Bus Stand to Sarvodaya School,commercial,25000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,C.School to Nagarpalika seema,residential,4000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,C.School to Nagarpalika seema,commercial,9800,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Dabwali road nahar to Bypas,residential,4000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Dabwali road nahar to Bypas,commercial,14000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Dbl road par teh.chok to Nahar tk,residential,14500,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Dbl road par teh.chok to Nahar tk,commercial,40000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Deen Dayal jan Awas Approved colony and Similar others,residential,5500,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Deen Dayal jan Awas Approved colony and Similar others,commercial,12000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Devi Lal chok to Central School,residential,13650,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Devi Lal chok to Central School,commercial,35000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Devi Lal chok to Dabwali road,residential,15500,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Devi Lal chok to Dabwali road,commercial,43000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Devi Lal Chok to Po.Sat.,residential,5200,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Devi Lal Chok to Po.Sat.,commercial,19375,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Ellenabad City,agricultural,570.25,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Ellenabad City,agricultural,495.87,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Ellenabad City,agricultural,371.9,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Ellenabad City,agricultural,2600,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Ellenabad City,residential,2600,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Ellenabad City,commercial,4550,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,FCI to Hanumangarh road,residential,4000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,FCI to Hanumangarh road,commercial,10500,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Huda R-II 10x20,commercial,50000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Huda R-III,residential,6000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Janta Hosp.to Railway cross,residential,4000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Janta Hosp.to Railway cross,commercial,12000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Mamera chok to Main bazar pashu haspatal,residential,5200,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Mamera chok to Main bazar pashu haspatal,commercial,14500,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Mamera road Pashu Hosp.Bypas,residential,4600,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Mamera road Pashu Hosp.Bypas,commercial,13000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Mamera road talwara road,residential,2700,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Mamera road talwara road,commercial,8000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Nai Mandi k piche 22 x 65,residential,6000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Nai Mandi k piche 22 x 65,commercial,7000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Nai Mandi k piche 30 x 60,residential,6325,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Nai Mandi k piche 30 x 60,commercial,6000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Pach M. Chok to Devi Lal chok tk,residential,14500,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Pach M. Chok to Devi Lal chok tk,commercial,60000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,PanchMukhi chok to Bus Stand,residential,14500,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,PanchMukhi chok to Bus Stand,commercial,37000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Panchmukhi to Station tk,residential,9000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Panchmukhi to Station tk,commercial,24000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Railway cross to Nagar Palika,commercial,8000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Railway cross to Nagar Palika,residential,2700,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Sarvodya School to SDM Co.,residential,4000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Sarvodya School to SDM Co.,commercial,12000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Shop Flat 12x20 Both,commercial,110000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Sirsa chok to J.Has.,residential,8200,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Sirsa chok to J.Has.,commercial,22000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Sirsa road H.Go.Mamera road,residential,4000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Sirsa road H.Go.Mamera road,commercial,13000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Talwara chok to Nahar tk Talwara,residential,5460,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Talwara chok to Nahar tk Talwara,commercial,10500,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Talwara road Nahar bypas,residential,2700,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Talwara road Nahar bypas,commercial,8000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,"Ward N. 3,4,7,9,11,12,13,17",residential,2990,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,"Ward N. 3,4,7,9,11,12,13,17",commercial,14300,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,"Ward No. 1,2,5,6",residential,1500,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,"Ward No. 1,2,5,6",commercial,7200,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Ward no. 10,residential,3450,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Ward no. 10,commercial,15000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Ward no. 12,residential,2300,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Ward no. 12,commercial,11000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Ward no. 13,agricultural,1033.06,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Ward no. 13,residential,2750,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Ward no. 13,commercial,11000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Ward no. 14,residential,3000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Ward no. 14,commercial,12000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Ward no. 15,residential,3750,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Ward no. 15,commercial,12000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Ward no. 16,residential,3900,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Ward no. 16,commercial,13800,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Ward no. 17,residential,2300,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Ward no. 17,commercial,13750,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Ward no. 3,residential,2300,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Ward no. 3,commercial,11000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Ward no. 4,residential,2300,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Ward no. 4,commercial,11000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Ward no. 5,agricultural,1500,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Ward no. 5,residential,1500,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Ward no. 5,commercial,7200,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Ward no. 6,residential,1725,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Ward no. 6,commercial,7200,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Ward no. 8,residential,3750,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Ward no. 8,commercial,17400,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,"Ward No. 8,10,14,15,16",residential,3000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,"Ward No. 8,10,14,15,16",commercial,12000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Ward no. 9,residential,2300,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Ward no. 9,commercial,11000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Ward No.1,residential,1500,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Ward No.1,commercial,7200,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Ward no.11,residential,2875,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Ward no.11,commercial,11000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Ward No.2,residential,1500,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबादशहर,Ward No.2,commercial,7200,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,कर्मसाना,Karamsana,agricultural,206.61,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,कर्मसाना,Karamsana,agricultural,142.56,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,कर्मसाना,Karamsana,agricultural,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,कर्मसाना,Karamsana,residential,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,कर्मसाना,link road k dono side 2 acer tak,agricultural,227.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,कुत्ताबढ,Kutabadh,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,कुत्ताबढ,Kutabadh,agricultural,165.29,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,कुत्ताबढ,Kutabadh,agricultural,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,कुत्ताबढ,Kutabadh,residential,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,कुत्ताबढ,Kutabadh,commercial,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,कुत्ताबढ,Kuttabad To Dhani Santa Singh And Kotli Road After 2 ACR,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,कुत्ताबढ,Kuttabad To Dhani Santa Singh And Kotli Road Up to 2 ACR,agricultural,361.57,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,कुत्ताबढ,Kuttabad To Mehna Khera And Bhurtwale Road After 2 ACR,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,कुत्ताबढ,Kuttabad To Mehna Khera And Bhurtwale Road Up to 2 ACR,agricultural,361.57,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,कुत्ताबढ,Kuttabad To Rania And Ratta Khera Road After 2 ACR,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,कुत्ताबढ,Kuttabad To Rania And Ratta Khera Road Up to 2 ACR,agricultural,361.57,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,कुम्थल,Kumthal,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,कुम्थल,Kumthal,agricultural,165.29,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,कुम्थल,Kumthal,agricultural,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,कुम्थल,Kumthal,residential,1925,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,कुम्थल,link road k dono side 2 acer tak,agricultural,351.24,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,केसपुरा,Kesupura,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,केसपुरा,Kesupura,agricultural,214.88,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,केसपुरा,Kesupura,agricultural,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,केसपुरा,Kesupura,residential,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,केसपुरा,link road k dono side 2 acer tak,agricultural,351.24,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,कोटली,Kotli,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,कोटली,Kotli,agricultural,214.88,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,कोटली,Kotli,agricultural,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,कोटली,Kotli,residential,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,कोटली,Kotli To Kesupura Road After 2 ACR,agricultural,640.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,कोटली,Kotli To Kesupura Road Up to 2 ACR,agricultural,650.83,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,कोटली,Kotli To Kuttabad Road After 2 ACR,agricultural,640.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,कोटली,Kotli To Kuttabad Road Up to 2 ACR,agricultural,650.83,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,कोटली,Kotli To Umedpura Road After 2 ACR,agricultural,640.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,कोटली,Kotli To Umedpura Road Up to 2 ACR,agricultural,650.83,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,खारीसुरेरां,Ellenabad to Nohar Kanina Road After 2 ACR,agricultural,227.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,खारीसुरेरां,Ellenabad to Nohar Kanina Road Up to 2 ACR,agricultural,268.6,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,खारीसुरेरां,Khari Surera,agricultural,227.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,खारीसुरेरां,Khari Surera,agricultural,123.97,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,खारीसुरेरां,Khari Surera,agricultural,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,खारीसुरेरां,Khari Surera,residential,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,खारीसुरेरां,Khari Surera to Dhani Jattan Road After 2 ACr,agricultural,227.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,खारीसुरेरां,Khari Surera to Dhani Jattan Road Up to 2 ACr,agricultural,268.6,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,खारीसुरेरां,Khari Surera to Mithi Surera Road After 2 ACr,agricultural,227.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,खारीसुरेरां,Khari Surera to Mithi Surera Road Up to 2 ACr,agricultural,268.6,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,खारीसुरेरां,Kishanpura to Raj. tak,agricultural,774.79,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,चिलकनीढाब,Chilkni Dhab,agricultural,227.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,चिलकनीढाब,Chilkni Dhab,agricultural,123.97,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,चिलकनीढाब,Chilkni Dhab,agricultural,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,चिलकनीढाब,Chilkni Dhab,residential,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,चिलकनीढाब,link road k dono side 2 acer tak,agricultural,247.93,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ठोबरिया,Ellenabad to Rajsthan Bordar Road After 2 Acr,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ठोबरिया,Ellenabad to Rajsthan Bordar Road Up to 2 Acr,agricultural,351.24,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ठोबरिया,Ellenabad to Rajsthan Bordar Road Up to 2 Acr,agricultural,614.67,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ठोबरिया,Ellenabad to Thobria Road After 2 Acr,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ठोबरिया,Ellenabad to Thobria Road Up to 2 Acr,agricultural,351.24,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ठोबरिया,Enb to Tibbi Road 3to5 acar,agricultural,340.91,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ठोबरिया,Moju Wali Dhani to Rajsthan Bordar Road After 2 Acr,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ठोबरिया,Moju Wali Dhani to Rajsthan Bordar Road Up to 2 Acr,agricultural,351.24,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ठोबरिया,Thobaria,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ठोबरिया,Thobaria,agricultural,165.29,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ठोबरिया,Thobaria,agricultural,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ठोबरिया,Thobaria,residential,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ठोबरिया,Thobaria to Talwara khurd,agricultural,650.83,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ठोबरिया,Thobria to Rajsthan Bordar Road After 2 Acr,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ठोबरिया,Thobria to Rajsthan Bordar Road Up to 2 Acr,agricultural,351.24,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ढाणीजाटान,Bus stand to Sarvodya school,residential,8200,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ढाणीजाटान,Bus stand to Sarvodya school,commercial,21000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ढाणीजाटान,Dhani Jattan Outside MC Area,agricultural,413.22,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ढाणीजाटान,Dhani Jattan Outside MC Area,agricultural,268.6,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ढाणीजाटान,Dhani Jattan Outside MC Area,agricultural,1500,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ढाणीजाटान,Dhani Jattan Outside MC Area,residential,1500,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ढाणीजाटान,Dhani Jattan Outside MC Area,commercial,2000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ढाणीजाटान,Dhani Jattan to Dhani Shera Road After 2 ACR,agricultural,723.14,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ढाणीजाटान,Dhani Jattan to Dhani Shera Road Up to 2 ACR,agricultural,764.46,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ढाणीजाटान,Dhani Jattan to Kashi Ka bass Road After 2 ACR,agricultural,723.14,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ढाणीजाटान,Dhani Jattan to Kashi Ka bass Road Up to 2 ACR,agricultural,764.46,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ढाणीजाटान,Dhani Jattan to Nohar Rajsthan Road After 2 ACR,agricultural,723.14,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ढाणीजाटान,Dhani Jattan to Nohar Rajsthan Road Up to 2 ACR,agricultural,764.46,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ढाणीजाटान,Dhani Jattan to Nohar Rajsthan Road Up to 2 ACR,agricultural,993.8,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ढाणीजाटान,Dhania Jattan With in MC AREA,agricultural,433.88,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ढाणीजाटान,Dhania Jattan With in MC AREA,agricultural,351.24,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ढाणीजाटान,Dhania Jattan With in MC AREA,agricultural,2500,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ढाणीजाटान,Dhania Jattan With in MC AREA,residential,2500,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ढाणीजाटान,Enb to Kishanpura Nohar Road 3 to 5 acar,agricultural,413.22,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ढाणीजाटान,Janta Hospital to Relway Crosing,residential,4000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ढाणीजाटान,Janta Hospital to Relway Crosing,commercial,17000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ढाणीजाटान,Panchmukhi Chock to bus Stand,residential,14500,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ढाणीजाटान,Panchmukhi Chock to bus Stand,commercial,40000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ढाणीजाटान,Relway Crossing to Municipal Limit,residential,2700,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ढाणीजाटान,Relway Crossing to Municipal Limit,commercial,8000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ढाणीजाटान,Relway line to Kishanpura Village,agricultural,671.49,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ढाणीजाटान,Sirsa chcok to Janta Hospital,residential,8200,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ढाणीजाटान,Sirsa chcok to Janta Hospital,commercial,22000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ढाणीजाटान,Ward No 14,residential,3100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ढाणीजाटान,Ward No 14,commercial,12000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ढाणीजाटान,Ward No. 11,residential,2200,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ढाणीजाटान,Ward No. 11,commercial,13500,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ढाणीजाटान,Ward No. 16,residential,4000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ढाणीजाटान,Ward No. 16,commercial,17400,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ढाणीजाटान,Ward No. 17,residential,2200,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ढाणीजाटान,Ward No. 17,commercial,9300,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ढाणीजाटान,Ward No.15,residential,2700,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ढाणीजाटान,Ward No.15,commercial,13800,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,तलवाड़ाखुर्द,Enb to Tibbi Road 3 to 5 acar,agricultural,340.91,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,तलवाड़ाखुर्द,Taldara Khurd to Beharwala Road After 2 ACR,agricultural,216.94,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,तलवाड़ाखुर्द,Taldara Khurd to Beharwala Road Up to 2 ACR,agricultural,227.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,तलवाड़ाखुर्द,Taldara Khurd to Ellenabad Road After 2 ACR,agricultural,640.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,तलवाड़ाखुर्द,Taldara Khurd to Ellenabad Road Up to 2 ACR,agricultural,671.49,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,तलवाड़ाखुर्द,Taldara Khurd to Thobria Road After 2 ACR,agricultural,557.85,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,तलवाड़ाखुर्द,Taldara Khurd to Thobria Road Up to 2 ACR,agricultural,599.17,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,तलवाड़ाखुर्द,Taldara to Talwara Jheel Road After 2 ACR,agricultural,640.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,तलवाड़ाखुर्द,Taldara to Talwara Jheel Road Up to 2 ACR,agricultural,671.49,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,तलवाड़ाखुर्द,Talwara Khurd,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,तलवाड़ाखुर्द,Talwara Khurd,agricultural,206.61,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,तलवाड़ाखुर्द,Talwara Khurd,agricultural,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,तलवाड़ाखुर्द,Talwara Khurd,residential,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,तलवाड़ाखुर्द,Talwara seema to Tibbi Road,agricultural,671.49,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,धोलपालिया,Dholpalia,agricultural,206.61,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,धोलपालिया,Dholpalia,agricultural,123.97,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,धोलपालिया,Dholpalia,agricultural,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,धोलपालिया,Dholpalia,residential,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,धोलपालिया,Dholpalia to Raj.,agricultural,671.49,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,धोलपालिया,Dholpalia to Rajsthan Bordar Road After 2 ACR,agricultural,206.61,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,धोलपालिया,Dholpalia to Rajsthan Bordar Road Up to 2 ACR,agricultural,227.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,धोलपालिया,Dholpalia to Rajsthan Bordar Road Up to 2 ACR,agricultural,363.64,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,धोलपालिया,Dholpalia to Rampura Rajsthan Bordar Road After 2 ACR,agricultural,206.61,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,धोलपालिया,Dholpalia to Rampura Rajsthan Bordar Road Up to 2 ACR,agricultural,227.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,नीमला,Neemla,agricultural,206.61,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,नीमला,Neemla,agricultural,123.97,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,नीमला,Neemla,agricultural,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,नीमला,Neemla,residential,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,नीमला,Neemla to Dholpalia Road After 2 Acr,agricultural,671.49,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,नीमला,Neemla to Dholpalia Road Up to 2 Acr,agricultural,702.48,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,नीमला,Neemla to Hanu Road to Dholpalia,agricultural,671.49,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,नीमला,Neemla to Keharwala Road After 2 Acr,agricultural,206.61,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,नीमला,Neemla to Keharwala Road Up to 2 Acr,agricultural,227.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,नीमला,Neemla to Rampuria Road After 2 Acr,agricultural,206.61,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,नीमला,Neemla to Rampuria Road Up to 2 Acr,agricultural,227.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,पट्टीकृपाल,Bhudi Mado to Himayu Khera Road After 2 ACR,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,पट्टीकृपाल,Bhudi Mado to Himayu Khera Road Up to 2 ACR,agricultural,351.24,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,पट्टीकृपाल,Patti Kirpal,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,पट्टीकृपाल,Patti Kirpal,agricultural,165.29,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,पट्टीकृपाल,Patti Kirpal,agricultural,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,पट्टीकृपाल,Patti Kirpal,residential,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,पट्टीकृपाल,Patti Kirpal to Nakora Road After 2 Acr,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,पट्टीकृपाल,Patti Kirpal to Nakora Road Up to 2 Acr,agricultural,351.24,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,पोहड़का,Enb to Sirsa Road 3 to 5 acar,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,पोहड़का,Khinania To Bhurtwala Road After 2 ACR,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,पोहड़का,Khinania To Bhurtwala Road Up to 2 ACR,agricultural,340.91,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,पोहड़का,Phorka To Khinania Road After 2 Acr,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,पोहड़का,Phorka To Khinania Road Up To 2 Acr,agricultural,340.91,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,पोहड़का,Phorka To Kumthal Road After 2 Acr,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,पोहड़का,Phorka To Kumthal Road Up To 2 Acr,agricultural,340.91,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,पोहड़का,Phorka To Mithi Surera Road After 2 Acr,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,पोहड़का,Phorka To Mithi Surera Road Up To 2 Acr,agricultural,340.91,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,पोहड़का,Poharka,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,पोहड़का,Poharka,agricultural,206.61,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,पोहड़का,Poharka,agricultural,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,पोहड़का,Poharka,residential,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,पोहड़का,Poharka,commercial,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,पोहड़का,Poharka Mithi Sur to Bhuratwala seema,agricultural,619.83,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,बुढीमाड़ी,Bhudi Madi to Amritsar Road After2 ACr,agricultural,661.16,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,बुढीमाड़ी,Bhudi Madi to Amritsar Road Up to 2 ACr,agricultural,681.82,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,बुढीमाड़ी,Budhi Mari,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,बुढीमाड़ी,Budhi Mari,agricultural,165.29,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,बुढीमाड़ी,Budhi Mari,agricultural,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,बुढीमाड़ी,Budhi Mari,residential,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,बुढीमाड़ी,Dbl road Budhi to Petrol Pump,agricultural,619.83,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,बेरवालाखुर्द,Beharwala Khurd to Beharwala Kalan Road After 2 ACR,agricultural,206.61,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,बेरवालाखुर्द,Beharwala Khurd to Beharwala Kalan Road Up to 2 ACR,agricultural,227.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,बेरवालाखुर्द,Beharwala Khurd to Ellenabad Road After 2 ACR,agricultural,206.61,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,बेरवालाखुर्द,Beharwala Khurd to Ellenabad Road Up to 2 ACR,agricultural,227.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,बेरवालाखुर्द,Beharwala to Dholpalia Road After 2 ACR,agricultural,206.61,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,बेरवालाखुर्द,Beharwala to Dholpalia Road Up to 2 ACR,agricultural,227.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,बेरवालाखुर्द,Berwala Khurd,agricultural,206.61,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,बेरवालाखुर्द,Berwala Khurd,agricultural,237.6,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,बेरवालाखुर्द,Berwala Khurd,agricultural,123.97,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,बेरवालाखुर्द,Berwala Khurd,agricultural,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,बेरवालाखुर्द,Berwala Khurd,residential,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,भूरतवाला,Bhuratwala,agricultural,392.56,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,भूरतवाला,Bhuratwala,agricultural,165.29,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,भूरतवाला,Bhuratwala,agricultural,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,भूरतवाला,Bhuratwala,residential,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,भूरतवाला,Bhuratwala to Mehnakhera Road 3 to 5 acar,agricultural,365.7,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,भूरतवाला,Bhurtwala To Chilkani Dhab Road After2 Acr,agricultural,340.91,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,भूरतवाला,Bhurtwala To Chilkani Dhab Road Up to 2 Acr,agricultural,351.24,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,भूरतवाला,Bhurtwala To Kumthal Road After 2 Acr,agricultural,340.91,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,भूरतवाला,Bhurtwala To Kumthal Road Up to 2 Acr,agricultural,351.24,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,भूरतवाला,Bhurtwala To Kuttabad Road After 2 Acr,agricultural,340.91,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,भूरतवाला,Bhurtwala To Kuttabad Road Up to 2 Acr,agricultural,351.24,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,भूरतवाला,Bhurtwala To Rajstah Road After 2 Acr,agricultural,340.91,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,भूरतवाला,Bhurtwala To Rajstah Road Up to 2 Acr,agricultural,351.24,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,भूरतवाला,Phorka to Kuttabad Road After 2 Acr,agricultural,340.91,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,भूरतवाला,Phorka to Kuttabad Road Up to 2 Acr,agricultural,351.24,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,भूरतवाला,Poharka to Bhuratwala seema tak,agricultural,681.82,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ममेरां,Ellenabad to Mallekan Road After 2 ACR,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ममेरां,Ellenabad to Mallekan Road Up to 2 ACR,agricultural,351.24,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ममेरां,Mamera,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ममेरां,Mamera,agricultural,165.29,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ममेरां,Mamera,agricultural,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ममेरां,Mamera,residential,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ममेरां,Mamera to Budhi Madi Road After 2 Acr,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ममेरां,Mamera to Budhi Madi Road up to 2 Acr,agricultural,351.24,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ममेरां,Mamera to Mithi Surera Road After 2 ACR,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ममेरां,Mamera to Mithi Surera Road Up to 2 ACR,agricultural,351.24,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ममेरां,Mamera to Moju Khera Road After 2 Acr,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ममेरां,Mamera to Moju Khera Road up to 2 Acr,agricultural,351.24,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मिठनपुर,Dhani Sidhu To Karamsana With Canal After 2 ACR,agricultural,185.95,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मिठनपुर,Dhani Sidhu To Karamsana With Canal Up to 2 ACR,agricultural,206.61,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मिठनपुर,Mithanpur,agricultural,278.93,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मिठनपुर,Mithanpur,agricultural,348.66,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मिठनपुर,Mithanpur,agricultural,161.16,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मिठनपुर,Mithanpur,agricultural,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मिठनपुर,Mithanpur,residential,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मिठनपुर,Mithanpur to Dhani Shera Near Canal to School Road After 2 ACR,agricultural,185.95,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मिठनपुर,Mithanpur to Dhani Shera Near Canal to School Road Up to 2 ACR,agricultural,206.61,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मिठनपुर,Mithanpur to Dhani Shera wali Road After 2 ACR,agricultural,185.95,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मिठनपुर,Mithanpur to Dhani Shera wali Road Up to 2 ACR,agricultural,206.61,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मिठनपुर,Mithanpur to Dhani Sidhu wali Road After 2 ACR,agricultural,185.95,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मिठनपुर,Mithanpur to Dhani Sidhu wali Road Up to 2 ACR,agricultural,206.61,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मिठनपुर,Mithanpur to Karamsana Road After 2 ACR,agricultural,289.26,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मिठनपुर,Mithanpur to Karamsana Road Up to 2 ACR,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मिठीसुरेरां,Ellenabad to Mithi Surera seema,agricultural,681.82,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मिठीसुरेरां,Mithi Surera,agricultural,309.92,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मिठीसुरेरां,Mithi Surera,agricultural,190.08,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मिठीसुरेरां,Mithi Surera,agricultural,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मिठीसुरेरां,Mithi Surera,residential,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मिठीसुरेरां,Mithi Surera to Mamera Road After 2 ACR,agricultural,702.48,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मिठीसुरेरां,Mithi Surera to Mamera Road Up To 2 ACR,agricultural,743.8,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मिर्जापुर,Mirzapur,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मिर्जापुर,Mirzapur,agricultural,165.29,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मिर्जापुर,Mirzapur,agricultural,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मिर्जापुर,Mirzapur,residential,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मिर्जापुर,Mirzapur to Mirzapur Ther Road After 2 Acr,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मिर्जापुर,Mirzapur to Mirzapur Ther Road Up to 2 Acr,agricultural,340.91,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मिर्जापुर,Thobria to Mirzapur Road Up to 2 Acr,agricultural,340.91,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मूसली,Ellenabad to Mallekan Road Up to 2 ACR,agricultural,340.91,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मूसली,Moosli,agricultural,309.92,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मूसली,Moosli,agricultural,165.29,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मूसली,Moosli,agricultural,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मूसली,Moosli,residential,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मूसली,Moosli to Himayu Khera Road After 2 ACR,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मूसली,Moosli to Himayu Khera Road Up to 2 ACR,agricultural,340.91,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मूसली,Moosli to Sheku Khera Road After 2 ACR,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मूसली,Moosli to Sheku Khera Road Up to 2 ACR,agricultural,340.91,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मेहनाखेड़ा,Mehna Khera,agricultural,309.92,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मेहनाखेड़ा,Mehna Khera,agricultural,356.4,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मेहनाखेड़ा,Mehna Khera,agricultural,165.29,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मेहनाखेड़ा,Mehna Khera,agricultural,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मेहनाखेड़ा,Mehna Khera,residential,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मेहनाखेड़ा,Mehna Khera to Chilkani Dhab Road After 2 Acr,agricultural,309.92,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मेहनाखेड़ा,Mehna Khera to Chilkani Dhab Road Up to 2 Acr,agricultural,340.91,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मेहनाखेड़ा,Mehna Khera to Kumthal Road Up to 2 Acr,agricultural,320.25,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मेहनाखेड़ा,Mehna Khera to Umedpura Sirsa Road,agricultural,681.82,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मेहनाखेड़ा,Mehnakhera to Umedpura Road 3 to 5 acar,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मेहनाखेड़ा,Mehnakhera to Umedpura Road 3 to 5 acre,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मौजूखेड़ा,Budhi Madi To Kuttabad Road After 2 ACR,agricultural,309.92,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मौजूखेड़ा,Budhi Madi To Kuttabad Road Up to 2 ACR,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मौजूखेड़ा,Budhi seema to Ghaghar pul tak,agricultural,681.82,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मौजूखेड़ा,Manju Khera,agricultural,309.92,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मौजूखेड़ा,Manju Khera,agricultural,165.29,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मौजूखेड़ा,Manju Khera,agricultural,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मौजूखेड़ा,Manju Khera,residential,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मौजूखेड़ा,Moju Khera to Mamera Kalan Road After 2 Acr,agricultural,309.92,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मौजूखेड़ा,Moju Khera to Mamera Kalan Road Up to 2 Acr,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मौजूखेड़ा,Old Moju Khera to New Moju Khera Road After 2 Acr,agricultural,309.92,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,मौजूखेड़ा,Old Moju Khera to New Moju Khera Road Up to 2 Acr,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,रत्ताखेड़ा,Ratta Khera,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,रत्ताखेड़ा,Ratta Khera,agricultural,165.29,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,रत्ताखेड़ा,Ratta Khera,agricultural,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,रत्ताखेड़ा,Ratta Khera,residential,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,रत्ताखेड़ा,Ratta Khera to Himayau Khera Road After 2 ACR,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,रत्ताखेड़ा,Ratta Khera to Himayau Khera Road Up To 2 ACR,agricultural,361.57,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,रत्ताखेड़ा,Ratta Khera to Kumthal Road After 2 ACR,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,रत्ताखेड़ा,Ratta Khera to Kumthal Road Up To 2 ACR,agricultural,361.57,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,रत्ताखेड़ा,Ratta Khera to Kuttabad Road After 2 ACR,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,रत्ताखेड़ा,Ratta Khera to Kuttabad Road Up To 2 ACR,agricultural,361.57,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,शेखुखेड़ा,Bhudi Madi to Kuttabad Road After 2 Acr,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,शेखुखेड़ा,Bhudi Madi to Kuttabad Road Up to 2 Acr,agricultural,351.24,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,शेखुखेड़ा,Nakora to Nagrana Road After 2 Acr,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,शेखुखेड़ा,Nakora to Nagrana Road Up to 2 Acr,agricultural,351.24,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,शेखुखेड़ा,Shekhu Khera,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,शेखुखेड़ा,Shekhu Khera,agricultural,206.61,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,शेखुखेड़ा,Shekhu Khera,agricultural,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,शेखुखेड़ा,Shekhu Khera,residential,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,शेखुखेड़ा,Shekhu to Moosli Road After 2 Acr,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,शेखुखेड़ा,Shekhu to Moosli Road Up to 2 Acr,agricultural,351.24,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,हुमायुखेड़ा,Hymayukhera,agricultural,330.58,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,हुमायुखेड़ा,Hymayukhera,agricultural,206.61,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,हुमायुखेड़ा,Hymayukhera,agricultural,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,हुमायुखेड़ा,Hymayukhera,residential,1100,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,हुमायुखेड़ा,link road k dono side 2 acer tak,agricultural,351.24,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबाद,Gokulpur Colony(UC-E-2),residential,4000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबाद,Gokulpur Colony(UC-E-2),commercial,13000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबाद,B.D.O. Colony (UC-E-8),residential,3500,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबाद,B.D.O. Colony (UC-E-8),commercial,12000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबाद,Adarsh Nagar Bhai Kanhiya Colony (UC-E-7),residential,3500,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबाद,Adarsh Nagar Bhai Kanhiya Colony (UC-E-7),commercial,12000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबाद,Shaheed Bhagat Singh Colony (UC-E-7) Part A,residential,3500,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबाद,Shaheed Bhagat Singh Colony (UC-E-7) Part A,commercial,12000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबाद,Sunder Nagar Colony (UC-E-4),residential,3500,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबाद,Sunder Nagar Colony (UC-E-4),commercial,12000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबाद,Guru Nanak Colony (UC-E-15),residential,3500,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबाद,Guru Nanak Colony (UC-E-15),commercial,12000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबाद,Peer Colony (UC-E-6),residential,3500,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ऐलनाबाद,Peer Colony (UC-E-6),commercial,12000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ढाणीजाटान,Model Town Colony (UC-E-0) PART A,residential,4000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ढाणीजाटान,Model Town Colony (UC-E-0) PART A,commercial,13000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ढाणीजाटान,Janta Colony (UC-E-10),residential,4000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Ellenabad,ढाणीजाटान,Janta Colony (UC-E-10),commercial,13000,2026-04-01,sirsa_gov_in_dc_notification

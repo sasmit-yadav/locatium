@@ -1,0 +1,550 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Kaithal,Kaithal,पट्टीकायस्थसेठ,कव्वालिटी होटल से नौता चौक / शास्त्री मार्किट,commercial,74750,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,पट्टीकायस्थसेठ,नौता चौक से लालपौ बृजलाल सर्राफ / सर्राफा बाजार / प्रेमगली,commercial,71500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,पट्टीकायस्थसेठ,महात्मा गांधी मार्किट पुराना बस स्टैण्ड,commercial,57200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,पट्टीकायस्थसेठ,पिहोवा चौक से कव्वालिटी होटल / पार्क रोड,commercial,77000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,पट्टीकायस्थसेठ,पिहोवा चौक से पंचायत भवन तक,commercial,66000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,पट्टीकायस्थसेठ,पिहोवा चौक से सत्कार पैलेस तक,commercial,82500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,पट्टीकायस्थसेठ,पिहोवा चौक से करनाल रोड न्यू बाई पास,commercial,71500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,पट्टीकायस्थसेठ,पुरानी सब्जी मण्डी उर्फ चान्दनी चौक,commercial,48400,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,पट्टीकायस्थसेठ,पिहोवा चौक से छोटू राम चौक महाराजा पैलेस ढाण्ड रोड,commercial,66000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,क्वालिटीहोटल से क्योडक/माता/सीवन/डोगरा/प्रताप/चन्दना गेट रिंग रोड,commercial,38720,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,सिटीथाना से पंजाब होटल तक पुराना तहसील रोड,commercial,63250,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,गांधी पार्क से पटेल बाजार,commercial,60500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,हुडा कमर्शियल प्लाट Sec.19 SCO,commercial,77000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,हुडा कमर्शियल प्लाट Sec.19 DSS,commercial,78000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,हुडा कमर्शियल प्लाट Sec.19 Booth,commercial,91000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,पुराने बस स्टैण्ड सामने विष्णु मार्किट,commercial,48400,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,सीवन गेट अम्बेडकर चौक से परशुराम चौक,commercial,26620,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,स्टेट बैंक रोड़ से झा0 मक्कड अन्दर की दुकाने,commercial,42350,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,सावन विहार,residential,6600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,सावन विहार,commercial,17600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,सुभाष नगर उर्फ नानकपुरी / खुराना रोड,residential,10350,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,सुभाष नगर उर्फ नानकपुरी / खुराना रोड,commercial,28600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,एम्पलाईज कालोनी,residential,12100,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,एम्पलाईज कालोनी,commercial,22000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,गुरु तेग बहादुर कालोनी,residential,12100,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,गुरु तेग बहादुर कालोनी,commercial,66550,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,अशोका गार्डन कालोनी,residential,17600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,अशोका गार्डन कालोनी,commercial,48400,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,गोविन्द नगर,residential,22350,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,गोविन्द नगर,commercial,66550,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,माडल टाउन कुरुक्षेत्र रोड,residential,19300,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,माडल टाउन कुरुक्षेत्र रोड,commercial,42400,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,प्रोफैसर कालोनी,residential,20200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,प्रोफैसर कालोनी,commercial,42400,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,अम्बाला रोड पैट्रोल पम्प के पिछे,residential,18700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,अम्बाला रोड पैट्रोल पम्प के पिछे,commercial,50820,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,बन्धे से सती वाटिका/पुराना बाईपास ढाण्ड-अम्बाला,residential,18700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,बन्धे से सती वाटिका/पुराना बाईपास ढाण्ड-अम्बाला,commercial,42500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,हुडा सैक्टर 19 Part 1 & II,residential,30250,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,हुडा सैक्टर 20,residential,33000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,हुडा सैक्टर 21,residential,36300,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,हुडा सैक्टर 21,commercial,38500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,चिरन्जीव कालोनी,residential,14900,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,चिरन्जीव कालोनी,commercial,30300,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,राजेन्द्र कालोनी,residential,14900,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,राजेन्द्र कालोनी,commercial,33000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,R.K.Puram,residential,12100,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,R.K.Puram,commercial,25300,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,बिशनगढ़ गामड़ी,residential,11000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,बजसेठकालोनी/आर0के0कालोनी,residential,12100,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,बजसेठकालोनी/आर0के0कालोनी,commercial,22000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,अग्रसैन पूरम/पार्क कालोनी,residential,14300,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,अग्रसैन पूरम/पार्क कालोनी,commercial,36300,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,ऋषि नगर,residential,17600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,ऋषि नगर,commercial,38800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,नेहरू गार्डन कालोनी/पुराना बाईपास,residential,17100,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,नेहरू गार्डन कालोनी/पुराना बाईपास,commercial,38800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,गांधी नगर/शीतलपुरी,residential,16500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,गांधी नगर/शीतलपुरी,commercial,38800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,एम0आई0टी0सी0 कालोनी,residential,17100,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,एम0आई0टी0सी0 कालोनी,commercial,31050,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,आदर्श नगर,residential,17600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,आदर्श नगर,commercial,36300,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,पंजाबी बाग,residential,7300,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,पंजाबी बाग,commercial,21200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,डी०ए०वी० कालोनी,residential,9900,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,डी०ए०वी० कालोनी,commercial,21300,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,खुराना रोड बाहर बाईपास,residential,9700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,खुराना रोड बाहर बाईपास,commercial,22000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,हैरिटेज इन्टरनेशनल स्कूल के पास,residential,8800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,हैरिटेज इन्टरनेशनल स्कूल के पास,commercial,22000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,लिटल फ्लावर स्कूल के आसपास,residential,9700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,लिटल फ्लावर स्कूल के आसपास,commercial,21300,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,टैगोर/सिल्वरओक/रॉयल गार्डन/सैनी/कम्बोज कालोनी,residential,9700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,टैगोर/सिल्वरओक/रॉयल गार्डन/सैनी/कम्बोज कालोनी,commercial,21000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,मोती बाग/अमृतसरी कालोनी कुरुक्षेत्र रोड,residential,9700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,मोती बाग/अमृतसरी कालोनी कुरुक्षेत्र रोड,commercial,21200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,पन्त नगर,residential,9700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,पन्त नगर,commercial,21300,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,विद्युत नगर,residential,9700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,विद्युत नगर,commercial,21300,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,डी०सी० कालोनी,residential,13200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,डी०सी० कालोनी,commercial,24200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,बुधकुण्ड/वीरकुण्ड कालोनी,residential,9700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,बुधकुण्ड/वीरकुण्ड कालोनी,commercial,21300,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,राधास्वामी सत्संगभवन कालोनी,residential,13200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,राधास्वामी सत्संगभवन कालोनी,commercial,22000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,जीन्द रोड न्यू बाई पास से विश्वकर्माचौक,commercial,46000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,सनसिटी,residential,28600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,सनसिटी,commercial,46200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,पट्टीकायस्थसेठ,हुड्डा सैक्टर 19-1 के नजदीक निवासीय कॉलोनी,residential,22000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,अम्बाला रोड पुलिस चौकी से ड्रेन तक मेन रोड,residential,7700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,अम्बाला रोड पुलिस चौकी से ड्रेन तक मेन रोड,commercial,38720,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,जीन्द रोड पंचायत भवन से सनसाईन स्कूल,residential,6100,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,जीन्द रोड पंचायत भवन से सनसाईन स्कूल,commercial,29100,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,शुगर मिल के आस-पास,residential,8300,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,शुगर मिल के आस-पास,commercial,20400,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,शुगर मिल कॉलोनी पार्ट-2,residential,8650,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,शुगर मिल कॉलोनी पार्ट-2,commercial,20400,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,शुगर मिल कॉलोनी पार्ट-3,residential,8300,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,शुगर मिल कॉलोनी पार्ट-3,commercial,20400,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,शोरा कोठी ज्ञानचन्द वाली,residential,12100,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,शोरा कोठी ज्ञानचन्द वाली,commercial,27500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,शान्ति नगर,residential,6600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,शान्ति नगर,commercial,19300,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,विश्वकर्मा चौक से परशुराम चौक मेन रोड,commercial,33000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,सुन्दर वाटिका,residential,9900,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,सुन्दर वाटिका,commercial,36300,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,भगत सिंह कालोनी व रेलवे लाईन के पास,residential,9700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,भगत सिंह कालोनी व रेलवे लाईन के पास,commercial,16000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,शहीद भगत सिंह कॉलोनी एक्सटेंशन,residential,9700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,शहीद भगत सिंह कॉलोनी एक्सटेंशन,commercial,14520,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,शहीद भगत सिंह कॉलोनी एक्सटेंशन फेस-2,residential,9700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,शहीद भगत सिंह कॉलोनी एक्सटेंशन फेस-2,commercial,14520,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,टीचर कालोनी नजदीक राधा स्वामी कालोनी,residential,10500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,टीचर कालोनी नजदीक राधा स्वामी कालोनी,commercial,20000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,शहर की पुरानी आबादी,residential,9700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,शहर की पुरानी आबादी,commercial,23000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,सिग्मा रियलिटी कॉलोनी 74/8/2,residential,12100,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,सिग्मा रियलिटी कॉलोनी 74/8/2,commercial,22000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,डिफेन्स कॉलोनी एक्सटेंशन-2,residential,11800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,डिफेन्स कॉलोनी एक्सटेंशन-2,commercial,20400,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,अनुपम रेजा,residential,16500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,अनुपम रेजा,commercial,38500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,मेहा चौक से बेचैन तरफ मलतान छावनागेट एवं पट्टी गादड़,commercial,69300,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,पुराना राजकीय बस अड्डा से करनाल रोड/चण्डीगढ़ चौक तक,commercial,60500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,शेरवाले से भगत सिंह चौक,commercial,66000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,छत्तीसगढ़ के अन्दर की दुकानें पंजाबी मार्किट/लक्ष्मी मार्किट/कृष्णा मार्किट,commercial,61000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,जगना मार्किट,commercial,48400,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,शहीद सत्यवीर चौक से 11वीं मंजिल तक,commercial,60500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,कबूतर चौक से जनता मार्किट/बड़ा ठाकुर द्वार,residential,13200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,कबूतर चौक से जनता मार्किट/बड़ा ठाकुर द्वार,commercial,60500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,सिखंग मार्किट/टैक्स्टाइल मार्किट/दरबेन सिंह मार्किट,commercial,66000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,पुरानी अनाज मण्डी,commercial,48400,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,मिश्रा मण्डी के मुख्य नं 402-401-399 से लेकर नई हंस मार्किट,commercial,48400,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,आंबेडकर चौक से लहसुन पुलिया की तरफ,commercial,39600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,सेलवेल मार्किट सिल्वर में जनता गेट रोड,commercial,36300,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,नई सब्जी मण्डी से लेकर रेलवे स्टेशन तक/माता गोदान रोड,commercial,44000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,बिजली घर के सामने प्रतिवाला कारखाना,residential,9700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,बिजली घर के सामने प्रतिवाला कारखाना,commercial,39100,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,कंबल कालोनी खसरा नं 398-397-396,residential,11000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,कंबल कालोनी खसरा नं 398-397-396,commercial,21000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,स्वामी दयानन्द कालोनी,residential,13200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,स्वामी दयानन्द कालोनी,commercial,27500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,स्वामी दयानन्द मार्किट/दुर्गानगर मार्किट सर्राफ बाजार,residential,15400,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,स्वामी दयानन्द मार्किट/दुर्गानगर मार्किट सर्राफ बाजार,commercial,33000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,विकास कालोनी/वाल्मीकि कालोनी,residential,12100,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,विकास कालोनी/वाल्मीकि कालोनी,commercial,40500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,बालवपन से न्यू करनाल रोड ईकता बस्ती के पीछे,residential,12100,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,बालवपन से न्यू करनाल रोड ईकता बस्ती के पीछे,commercial,44000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,जीन्द रोड धर्मशाला से छोटे घर पुराना करनाल रोड तक,residential,10900,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,जीन्द रोड धर्मशाला से छोटे घर पुराना करनाल रोड तक,commercial,22000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,अमरनाथमार्ग गली नं 0 से 11,residential,12100,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,अमरनाथमार्ग गली नं 0 से 11,commercial,40700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,अम्बेडकर नगर मुख्य नं 33/1-2-3-4,residential,12100,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,अम्बेडकर नगर मुख्य नं 33/1-2-3-4,commercial,28750,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,रेलवे लाइन पर विकास नगर मुख्य नं 420-422,residential,12700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,रेलवे लाइन पर विकास नगर मुख्य नं 420-422,commercial,25300,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,पटेलनगर मुख्य नं 6/1-2 से 506,residential,12700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,पटेलनगर मुख्य नं 6/1-2 से 506,commercial,26500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,सरस्वती विहार/महावीर नगर,residential,9400,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,सरस्वती विहार/महावीर नगर,commercial,26400,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,देवीगढ़/न्यू एक्सटेंशन,residential,8800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,देवीगढ़/न्यू एक्सटेंशन,commercial,27500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,बड़े ठाकुरद्वार के पीछे/छोटी धर्मशाला के पीछे,residential,9700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,बड़े ठाकुरद्वार के पीछे/छोटी धर्मशाला के पीछे,commercial,21500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,उत्तरीकरण इन्दौरी नगर मुख्य नं 472-473-474-475-471,residential,7700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,उत्तरीकरण इन्दौरी नगर मुख्य नं 472-473-474-475-471,commercial,18700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,नारायण कॉलोनी/महावीर राजीव विहार,residential,9900,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,नारायण कॉलोनी/महावीर राजीव विहार,commercial,21500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,जीन्द रोड मुख्य नं 177 से 18,residential,11000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,जीन्द रोड मुख्य नं 177 से 18,commercial,28600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,जनकपुरी एक्सटेंशन-3,residential,11000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,जनकपुरी एक्सटेंशन-3,commercial,28600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,जनकपुरी एक्सटेंशन-1,residential,11000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,जनकपुरी एक्सटेंशन-1,commercial,28600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,रामपुरी/कालीचरन कॉलोनी,residential,9900,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,रामपुरी/कालीचरन कॉलोनी,commercial,24200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,रामपुरी कॉलोनी एक्सटेंशन,residential,9900,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,रामपुरी कॉलोनी एक्सटेंशन,commercial,24200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,रामपालपुरा के पीछे से शिवपुरी देवी मन्दिर/अम्बेडकर चौक तक,residential,7200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,रामपालपुरा के पीछे से शिवपुरी देवी मन्दिर/अम्बेडकर चौक तक,commercial,19800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,अजीतसिंहपुरा न्यू कॉलोनी,residential,6050,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,अजीतसिंहपुरा न्यू कॉलोनी,commercial,16500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,विकास नगर पास फरीदाबाद रोड,residential,7700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,विकास नगर पास फरीदाबाद रोड,commercial,22000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,डेपो कॉलोनी मुख्य नं 1/24-25,residential,9700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,डेपो कॉलोनी मुख्य नं 1/24-25,commercial,20020,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,फ्रेंड्स कॉलोनी मुख्य नं 9/21-22,residential,13200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,फ्रेंड्स कॉलोनी मुख्य नं 9/21-22,commercial,38500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,जगदीशपुरा मुख्य नं 31/9,residential,5500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,जगदीशपुरा मुख्य नं 31/9,commercial,17600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,करनाल रोड से जीन्द रोड के नये बाई पास तक,commercial,17600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,पेट्रोल पम्प से जीन्द की तरफ नए बस स्टैंड तक,commercial,33000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,बर्ड सिटी/ग्रीनसिटी,residential,16500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,बर्ड सिटी/ग्रीनसिटी,commercial,36300,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,न्यू कर्णनिहाल के पीछे भगत सिंह कॉलोनी/कृष्णा कॉलोनी,residential,11800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,न्यू कर्णनिहाल के पीछे भगत सिंह कॉलोनी/कृष्णा कॉलोनी,commercial,20400,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,भगत सिंह कॉलोनी एक्सटेंशन फेस-2,residential,11800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,भगत सिंह कॉलोनी एक्सटेंशन फेस-2,commercial,20400,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,हुडा सैक्टर 18,residential,33200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,हुडा सैक्टर 18,commercial,38500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,सर्वोदय पत्र कॉलोनी 233,residential,12100,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,सर्वोदय पत्र कॉलोनी 233,commercial,38000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,कपड़ेरे एन्क्लेव/टाउन मार्किट/राम प्रसाद के अन्दर,commercial,48400,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,कपिला मार्किट/प्यारे सिनेमा के सामने लाटरी मार्किट,commercial,48400,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,न्यू सब्जी मण्डी के मुख्य नं 144-473,commercial,48400,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,न्यू कमान मण्डी मुख्य नं 217-219-220,commercial,36300,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,न्यू अनाज मण्डी,commercial,48400,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,न्यू अनाज मण्डी के चारों तरफ की दुकानें,commercial,38500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,देवीगढ़ पट्टी गादड़ में बाजारात,residential,5500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,देवीगढ़ पट्टी गादड़ में बाजारात,commercial,29000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,नगर सुधार मण्डल की दुकानें,commercial,47600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,शहर की पुरानी आबादी,residential,16500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,शहर की पुरानी आबादी,commercial,24200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,रणधीर कॉलोनी फेस-1,residential,7700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,रणधीर कॉलोनी फेस-1,commercial,13200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,रणधीर कॉलोनी फेस-2,residential,6600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,रणधीर कॉलोनी फेस-2,commercial,13200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,कपिला नगर कॉलोनी,residential,6600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,कपिला नगर कॉलोनी,commercial,13200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,भट्ट बस्ती/रामनगर नई अनाज मण्डी के पीछे,residential,8100,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,भट्ट बस्ती/रामनगर नई अनाज मण्डी के पीछे,commercial,18900,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,रानीमाता-नगरी मुख्य नं 80-10,residential,10900,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,रानीमाता-नगरी मुख्य नं 80-10,commercial,20600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,आर्य नगर/ओझा पथ विस्तार,residential,9900,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,आर्य नगर/ओझा पथ विस्तार,commercial,20600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,देवीनगर मुख्य नं 10/15,residential,4900,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,देवीनगर मुख्य नं 10/15,commercial,17600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,बालानगर कूड़ुकट रोड मुख्य नं 8/25,residential,4900,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,बालानगर कूड़ुकट रोड मुख्य नं 8/25,commercial,17600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,बैंक कॉलोनी/किशोरपुरा एवं शेरनी नगर,residential,8800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,बैंक कॉलोनी/किशोरपुरा एवं शेरनी नगर,commercial,22000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,बघमनी गेट से अम्बेगढ़ी/देवी बारसा,residential,8500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,बघमनी गेट से अम्बेगढ़ी/देवी बारसा,commercial,29700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,11वीं मंजिल से चीरसी वाली गेट पट्टी एवं चौधरी के अरें,commercial,33000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,गुरुद्वारा पट्टी चौरंगी मुख्य नं 182-190,residential,7300,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,गुरुद्वारा पट्टी चौरंगी मुख्य नं 182-190,commercial,22400,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,बाबू गेट बाजार रोड मुख्य नं 25/23,residential,9700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,बाबू गेट बाजार रोड मुख्य नं 25/23,commercial,23100,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,चौधरी नगर के पीछे,residential,5500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,चौधरी नगर के पीछे,commercial,16500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,सीताराम नगर पट्टी चौरंगी,residential,6600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,सीताराम नगर पट्टी चौरंगी,commercial,21300,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,अम्बेडकर बस्ती कॉलोनी पट्टी चौरंगी,residential,8500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,अम्बेडकर बस्ती कॉलोनी पट्टी चौरंगी,commercial,26700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,मॉडल टाउन जाट रोड/हरियाणा बैंक कॉलोनी,residential,17600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,मॉडल टाउन जाट रोड/हरियाणा बैंक कॉलोनी,commercial,36300,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,रामलीला ग्राउंड चण्डीगढ़ गेट से कुतुबपुर रोड/रेलवे फाटक,commercial,33000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,जोगीपुरा शेड मार्किट मुख्य/बल्लभ नगर,commercial,44000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,डेयरीवाली गली से लेकर हरियाणा बैंक तक,residential,30300,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,डेयरीवाली गली से लेकर हरियाणा बैंक तक,commercial,8800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,अम्बेडकर अनाज मण्डी जीन्द रोड,commercial,34500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,राम स्वामी सत्संग भवन-2 कॉलोनी के पास,residential,13200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,राम स्वामी सत्संग भवन-2 कॉलोनी के पास,commercial,49500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,पंतनगर पट्टी भगान,residential,7500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,पंतनगर पट्टी भगान,commercial,19800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,राधास्वामी सत्संग भवन मंदिर के पिछवाड़े,residential,7500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,राधास्वामी सत्संग भवन मंदिर के पिछवाड़े,commercial,21500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,पटीकुंभारान कंबू वाला गार्डन मुख्य नं 200-454,residential,5400,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,पटीकुंभारान कंबू वाला गार्डन मुख्य नं 200-454,commercial,17650,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,अर्जुन नगर मुख्य नं 170,residential,7150,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,अर्जुन नगर मुख्य नं 170,commercial,19250,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,कृष्णा नगर,residential,7150,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,कृष्णा नगर,commercial,19250,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,महावीर नगर पट्टी भगान,residential,8700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,महावीर नगर पट्टी भगान,commercial,30300,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,पुराना खंजरौ बाईपास रोड से परशुराम चौक पट्टी भगान,residential,8200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,पुराना खंजरौ बाईपास रोड से परशुराम चौक पट्टी भगान,commercial,31900,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,अम्बेडकर नगर पट्टी भगान,residential,7300,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,अम्बेडकर नगर पट्टी भगान,commercial,21300,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,अम्बेडकर नगर पाईजला रोड पट्टी खोत,residential,7600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,अम्बेडकर नगर पाईजला रोड पट्टी खोत,commercial,21300,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,शक्तिनगर पट्टी डोगर,residential,5300,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,शक्तिनगर पट्टी डोगर,commercial,21200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,शिवनगर पट्टी डोगर,residential,5300,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,शिवनगर पट्टी डोगर,commercial,21200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,नीम साहिब गुरुद्वारा डोगर गेट से मानसा रोड,residential,7300,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,नीम साहिब गुरुद्वारा डोगर गेट से मानसा रोड,commercial,21300,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,कृपाल नगर,residential,9400,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,कृपाल नगर,commercial,24200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,खानोदा,कृषि भूमि,agricultural,433.88,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,खानोदा,प्राइम/कमर्शियल रेट,commercial,511.36,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,खानोदा,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,खानोदा,प्राइम/कमर्शियल प्लाट,commercial,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,नैना,कृषि भूमि,agricultural,409.09,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,नैना,प्राइम/कमर्शियल रेट,commercial,477.27,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,नैना,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,नैना,प्राइम/कमर्शियल प्लाट,commercial,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,धोंस,कृषि भूमि,agricultural,409.09,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,धोंस,प्राइम/कमर्शियल रेट,commercial,462.81,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,धोंस,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,धोंस,प्राइम/कमर्शियल प्लाट,commercial,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,क्योरक,कृषि भूमि,agricultural,625.0,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,क्योरक,प्राइम/कमर्शियल रेट,commercial,1167.36,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,क्योरक,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,क्योरक,प्राइम/कमर्शियल प्लाट,commercial,4400,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कठवार,कृषि भूमि,agricultural,625.0,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कठवार,प्राइम/कमर्शियल रेट,commercial,1043.39,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कठवार,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कठवार,प्राइम/कमर्शियल प्लाट,commercial,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,ग्योंग,कृषि भूमि,agricultural,653.51,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,ग्योंग,प्राइम/कमर्शियल रेट,commercial,1095.04,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,ग्योंग,आवासीय प्लाट,residential,2200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,ग्योंग,प्राइम/कमर्शियल प्लाट,commercial,4400,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,बनीमाजरा,कृषि भूमि,agricultural,617.77,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,बनीमाजरा,प्राइम/कमर्शियल रेट,commercial,1069.21,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,बनीमाजरा,आवासीय प्लाट,residential,3300,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,बनीमाजरा,प्राइम/कमर्शियल प्लाट,commercial,4400,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,बरोट,कृषि भूमि,agricultural,409.09,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,बरोट,प्राइम/कमर्शियल रेट,commercial,750.0,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,बरोट,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,बरोट,प्राइम/कमर्शियल प्लाट,commercial,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,टीक,कृषि भूमि,agricultural,444.21,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,टीक,प्राइम/कमर्शियल रेट,commercial,1043.39,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,टीक,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,टीक,प्राइम/कमर्शियल प्लाट,commercial,4400,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,मुंदड़ी,कृषि भूमि,agricultural,465.91,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,मुंदड़ी,प्राइम/कमर्शियल रेट,commercial,818.18,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,मुंदड़ी,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,मुंदड़ी,प्राइम/कमर्शियल प्लाट,commercial,4700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,सपनखेड़ी,कृषि भूमि,agricultural,497.93,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,सपनखेड़ी,प्राइम/कमर्शियल रेट,commercial,805.79,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,सपनखेड़ी,आवासीय प्लाट,residential,1900,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,सपनखेड़ी,प्राइम/कमर्शियल प्लाट,commercial,4400,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,उझाना,कृषि भूमि,agricultural,625.0,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,उझाना,प्राइम/कमर्शियल रेट,commercial,1090.91,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,उझाना,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,उझाना,प्राइम/कमर्शियल प्लाट,commercial,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कुलतारन,कृषि भूमि,agricultural,483.47,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कुलतारन,प्राइम/कमर्शियल रेट,commercial,1104.55,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कुलतारन,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कुलतारन,प्राइम/कमर्शियल प्लाट,commercial,4700,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,जगीशपुरा,कृषि भूमि,agricultural,766.53,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,जगीशपुरा,प्राइम/कमर्शियल रेट,commercial,1316.12,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,जगीशपुरा,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,जगीशपुरा,प्राइम/कमर्शियल प्लाट,commercial,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,पाडला,कृषि भूमि,agricultural,386.36,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,पाडला,प्राइम/कमर्शियल रेट,commercial,500.0,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,पाडला,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,पाडला,प्राइम/कमर्शियल प्लाट,commercial,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,छोट,कृषि भूमि,agricultural,375.0,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,छोट,प्राइम/कमर्शियल रेट,commercial,500.0,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,छोट,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,छोट,प्राइम/कमर्शियल प्लाट,commercial,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,गुहना,कृषि भूमि,agricultural,433.88,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,गुहना,प्राइम/कमर्शियल रेट,commercial,488.64,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,गुहना,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,गुहना,प्राइम/कमर्शियल प्लाट,commercial,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,भानपुरा,कृषि भूमि,agricultural,397.73,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,भानपुरा,प्राइम/कमर्शियल रेट,commercial,443.18,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,भानपुरा,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,भानपुरा,प्राइम/कमर्शियल प्लाट,commercial,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कुतुबपुर,कृषि भूमि,agricultural,413.64,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कुतुबपुर,प्राइम/कमर्शियल रेट,commercial,463.64,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कुतुबपुर,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कुतुबपुर,प्राइम/कमर्शियल प्लाट,commercial,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,दिलवाली,कृषि भूमि,agricultural,397.73,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,दिलवाली,प्राइम/कमर्शियल रेट,commercial,444.21,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,दिलवाली,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,दिलवाली,प्राइम/कमर्शियल प्लाट,commercial,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,गढ़ीपाडला,कृषि भूमि,agricultural,392.56,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,गढ़ीपाडला,प्राइम/कमर्शियल रेट,commercial,601.24,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,गढ़ीपाडला,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,गढ़ीपाडला,प्राइम/कमर्शियल प्लाट,commercial,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,फ्रांसवाला,कृषि भूमि,agricultural,386.36,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,फ्रांसवाला,प्राइम/कमर्शियल रेट,commercial,433.88,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,फ्रांसवाला,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,फ्रांसवाला,प्राइम/कमर्शियल प्लाट,commercial,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,मागोमाजरी,कृषि भूमि,agricultural,386.36,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,मागोमाजरी,प्राइम/कमर्शियल रेट,commercial,443.18,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,मागोमाजरी,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,मागोमाजरी,प्राइम/कमर्शियल प्लाट,commercial,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,बूढ़ाखेड़ा,कृषि भूमि,agricultural,397.73,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,बूढ़ाखेड़ा,प्राइम/कमर्शियल रेट,commercial,433.88,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,बूढ़ाखेड़ा,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,बूढ़ाखेड़ा,प्राइम/कमर्शियल प्लाट,commercial,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,साजुमा,कृषि भूमि,agricultural,397.73,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,साजुमा,प्राइम/कमर्शियल रेट,commercial,443.18,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,साजुमा,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,साजुमा,प्राइम/कमर्शियल प्लाट,commercial,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,दिवाल,कृषि भूमि,agricultural,375.0,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,दिवाल,प्राइम/कमर्शियल रेट,commercial,433.88,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,दिवाल,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,दिवाल,प्राइम/कमर्शियल प्लाट,commercial,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,दुधरेड़ी,कृषि भूमि,agricultural,375.0,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,दुधरेड़ी,प्राइम/कमर्शियल रेट,commercial,433.88,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,दुधरेड़ी,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,दुधरेड़ी,प्राइम/कमर्शियल प्लाट,commercial,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,संगतपुरा,कृषि भूमि,agricultural,409.09,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,संगतपुरा,प्राइम/कमर्शियल रेट,commercial,477.27,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,संगतपुरा,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,संगतपुरा,प्राइम/कमर्शियल प्लाट,commercial,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,नन्दसिंहवाला,कृषि भूमि,agricultural,386.36,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,नन्दसिंहवाला,प्राइम/कमर्शियल रेट,commercial,433.88,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,नन्दसिंहवाला,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,नन्दसिंहवाला,प्राइम/कमर्शियल प्लाट,commercial,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,संगहन,कृषि भूमि,agricultural,402.89,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,संगहन,प्राइम/कमर्शियल रेट,commercial,443.18,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,संगहन,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,संगहन,प्राइम/कमर्शियल प्लाट,commercial,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,महलखेड़ी,कृषि भूमि,agricultural,397.73,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,महलखेड़ी,प्राइम/कमर्शियल रेट,commercial,454.55,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,महलखेड़ी,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,महलखेड़ी,प्राइम/कमर्शियल प्लाट,commercial,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,देहरा,कृषि भूमि,agricultural,420.45,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,देहरा,प्राइम/कमर्शियल रेट,commercial,500.0,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,देहरा,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,देहरा,प्राइम/कमर्शियल प्लाट,commercial,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,बलवंती,कृषि भूमि,agricultural,397.73,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,बलवंती,प्राइम/कमर्शियल रेट,commercial,443.18,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,बलवंती,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,बलवंती,प्राइम/कमर्शियल प्लाट,commercial,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,सिरटा,कृषि भूमि,agricultural,397.73,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,सिरटा,प्राइम/कमर्शियल रेट,commercial,444.21,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,सिरटा,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,सिरटा,प्राइम/कमर्शियल प्लाट,commercial,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,बाबालदाना,कृषि भूमि,agricultural,542.36,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,बाबालदाना,प्राइम/कमर्शियल रेट,commercial,604.34,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,बाबालदाना,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,बाबालदाना,प्राइम/कमर्शियल प्लाट,commercial,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,नौच,कृषि भूमि,agricultural,386.36,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,नौच,प्राइम/कमर्शियल रेट,commercial,477.27,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,नौच,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,नौच,प्राइम/कमर्शियल प्लाट,commercial,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,खुराना,कृषि भूमि,agricultural,433.88,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,खुराना,प्राइम/कमर्शियल रेट,commercial,497.73,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,खुराना,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,खुराना,प्राइम/कमर्शियल प्लाट,commercial,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,जसवंती,कृषि भूमि,agricultural,397.73,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,जसवंती,प्राइम/कमर्शियल रेट,commercial,454.55,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,जसवंती,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,जसवंती,प्राइम/कमर्शियल प्लाट,commercial,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,मानस,कृषि भूमि,agricultural,409.09,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,मानस,प्राइम/कमर्शियल रेट,commercial,500.0,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,मानस,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,मानस,प्राइम/कमर्शियल प्लाट,commercial,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,नरड़,कृषि भूमि,agricultural,694.21,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,नरड़,प्राइम/कमर्शियल रेट,commercial,1090.91,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,नरड़,आवासीय प्लाट,residential,2200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,नरड़,प्राइम/कमर्शियल प्लाट,commercial,4400,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,काकौत,कृषि भूमि,agricultural,431.82,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,काकौत,प्राइम/कमर्शियल रेट,commercial,511.36,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,काकौत,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,काकौत,प्राइम/कमर्शियल प्लाट,commercial,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,सेगा,कृषि भूमि,agricultural,471.07,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,सेगा,प्राइम/कमर्शियल रेट,commercial,545.45,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,सेगा,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,सेगा,प्राइम/कमर्शियल प्लाट,commercial,4400,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,सोंगल,कृषि भूमि,agricultural,433.88,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,सोंगल,प्राइम/कमर्शियल रेट,commercial,500.0,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,सोंगल,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,सोंगल,प्राइम/कमर्शियल प्लाट,commercial,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,माजरानन्दकरन,कृषि भूमि,agricultural,443.18,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,माजरानन्दकरन,प्राइम/कमर्शियल रेट,commercial,511.36,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,माजरानन्दकरन,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,माजरानन्दकरन,प्राइम/कमर्शियल प्लाट,commercial,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,हरसोला,कृषि भूमि,agricultural,557.85,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,हरसोला,प्राइम/कमर्शियल रेट,commercial,613.64,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,हरसोला,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,हरसोला,प्राइम/कमर्शियल प्लाट,commercial,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,जखौली,कृषि भूमि,agricultural,433.88,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,जखौली,प्राइम/कमर्शियल रेट,commercial,625.0,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,जखौली,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,जखौली,प्राइम/कमर्शियल प्लाट,commercial,4400,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,प्यौदा,कृषि भूमि,agricultural,498.97,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,प्यौदा,प्राइम/कमर्शियल रेट,commercial,831.61,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,प्यौदा,आवासीय प्लाट,residential,2400,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,प्यौदा,प्राइम/कमर्शियल प्लाट,commercial,4400,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,चंदाना,कृषि भूमि,agricultural,533.06,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,चंदाना,प्राइम/कमर्शियल रेट,commercial,1022.73,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,चंदाना,आवासीय प्लाट,residential,2200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,चंदाना,प्राइम/कमर्शियल प्लाट,commercial,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,रोहेड़िया,कृषि भूमि,agricultural,397.73,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,रोहेड़िया,प्राइम/कमर्शियल रेट,commercial,477.27,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,रोहेड़िया,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,रोहेड़िया,प्राइम/कमर्शियल प्लाट,commercial,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,सिसलासिसमोर,कृषि भूमि,agricultural,386.36,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,सिसलासिसमोर,प्राइम/कमर्शियल रेट,commercial,477.27,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,सिसलासिसमोर,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,सिसलासिसमोर,प्राइम/कमर्शियल प्लाट,commercial,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,देबान,कृषि भूमि,agricultural,420.45,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,देबान,प्राइम/कमर्शियल रेट,commercial,500.0,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,देबान,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,देबान,प्राइम/कमर्शियल प्लाट,commercial,4400,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,सरन,कृषि भूमि,agricultural,397.73,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,सरन,प्राइम/कमर्शियल रेट,commercial,465.91,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,सरन,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,सरन,प्राइम/कमर्शियल प्लाट,commercial,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,तितरम,कृषि भूमि,agricultural,619.83,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,तितरम,प्राइम/कमर्शियल रेट,commercial,1045.45,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,तितरम,आवासीय प्लाट,residential,2500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,तितरम,प्राइम/कमर्शियल प्लाट,commercial,6000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,खेड़ीशेरू,कृषि भूमि,agricultural,433.88,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,खेड़ीशेरू,प्राइम/कमर्शियल रेट,commercial,500.0,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,खेड़ीशेरू,आवासीय प्लाट,residential,2200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,खेड़ीशेरू,प्राइम/कमर्शियल प्लाट,commercial,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,तारागढ़,कृषि भूमि,agricultural,375.0,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,तारागढ़,प्राइम/कमर्शियल रेट,commercial,500.0,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,तारागढ़,आवासीय प्लाट,residential,2200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,तारागढ़,प्राइम/कमर्शियल प्लाट,commercial,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कसन,कृषि भूमि,agricultural,418.39,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कसन,प्राइम/कमर्शियल रेट,commercial,500.0,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कसन,आवासीय प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कसन,प्राइम/कमर्शियल प्लाट,commercial,4400,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,शेरगढ़,कृषि भूमि,agricultural,929.75,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,शेरगढ़,प्राइम/कमर्शियल रेट,commercial,1472.11,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,शेरगढ़,आवासीय प्लाट,residential,5000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,शेरगढ़,प्राइम/कमर्शियल प्लाट,commercial,5000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,बेस्ट सिटी रेजिडेंशियल,residential,15800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,बेस्ट सिटी कमर्शियल,commercial,33000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,सिग्मा ग्रीन सिटी रेजिडेंशियल,residential,14300,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,कैथल,सिग्मा ग्रीन सिटी कमर्शियल,commercial,33000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,द्योदखेड़ी,कृषि भूमि,agricultural,619.83,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,द्योदखेड़ी,प्राइम/कमर्शियल रेट,commercial,712.81,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,द्योदखेड़ी,आवासीय प्लाट,residential,2200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,द्योदखेड़ी,प्राइम/कमर्शियल प्लाट,commercial,4200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,पट्टीखोत,कृषि भूमि,agricultural,681.82,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,पट्टीखोत,प्राइम/कमर्शियल रेट,commercial,977.27,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,पट्टीखोत,आवासीय प्लाट,residential,4600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,पट्टीखोत,प्राइम/कमर्शियल प्लाट,commercial,5100,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,पट्टीडोगर,कृषि भूमि,agricultural,712.81,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,पट्टीडोगर,प्राइम/कमर्शियल रेट,commercial,977.27,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,पट्टीडोगर,आवासीय प्लाट,residential,2500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,पट्टीडोगर,प्राइम/कमर्शियल प्लाट,commercial,7000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,पट्टीगादड़,कृषि भूमि,agricultural,1084.71,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,पट्टीगादड़,प्राइम/कमर्शियल रेट,commercial,1704.55,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,पट्टीगादड़,आवासीय प्लाट,residential,7000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,पट्टीगादड़,प्राइम/कमर्शियल प्लाट,commercial,15000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,पट्टीकायस्थसेठ,कृषि भूमि,agricultural,1262.4,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,पट्टीकायस्थसेठ,प्राइम/कमर्शियल रेट,commercial,1665.29,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,पट्टीकायस्थसेठ,आवासीय प्लाट,residential,6900,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,पट्टीकायस्थसेठ,प्राइम/कमर्शियल प्लाट,commercial,13800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,पट्टीचौधरी,कृषि भूमि,agricultural,805.79,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,पट्टीचौधरी,प्राइम/कमर्शियल रेट,commercial,1289.26,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,पट्टीचौधरी,आवासीय प्लाट,residential,5500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,पट्टीचौधरी,प्राइम/कमर्शियल प्लाट,commercial,11000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,पट्टीअफगान,कृषि भूमि,agricultural,681.82,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,पट्टीअफगान,प्राइम/कमर्शियल रेट,commercial,1090.91,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,पट्टीअफगान,आवासीय प्लाट,residential,4900,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,पट्टीअफगान,प्राइम/कमर्शियल प्लाट,commercial,5500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,बरटा,कृषि भूमि,agricultural,403.93,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,बरटा,प्राइम/कमर्शियल रेट,commercial,451.45,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,बरटा,आवासीय प्लाट,residential,2200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,बरटा,प्राइम/कमर्शियल प्लाट,commercial,4400,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,धनौरी,कृषि भूमि,agricultural,375.0,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,धनौरी,प्राइम/कमर्शियल रेट,commercial,433.88,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,धनौरी,आवासीय प्लाट,residential,2200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Kaithal,धनौरी,प्राइम/कमर्शियल प्लाट,commercial,4700,2026-04-01,kaithal_gov_in_dc_notification

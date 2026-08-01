@@ -1,0 +1,997 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Panipat,Panipat,Panipat,Vacant / Gair Mumkin inside MC,agricultural,5991.74,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Panipat,Vacant / Gair Mumkin outside MC,agricultural,4855.37,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Panipat,Educational institutions / taxi stand inside MC,commercial,9500,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Panipat,Educational institutions / taxi stand outside MC,commercial,5500,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Panipat,Educational institutions licensed colony,commercial,10000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Panipat,New licensed colony,residential,35000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Panipat,New licensed colony,commercial,57000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Ajijulapur,0 to 3 acres,agricultural,1394.63,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Ajijulapur,0 to 3 acres,agricultural,3030.99,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Ajijulapur,0 to 3 acres,residential,7150,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Ajijulapur,0 to 3 acres,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Ajijulapur,Remaining area,residential,5929,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Ajijulapur,Remaining area,commercial,17545,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Aliasgarpur,0 to 3 acres,agricultural,1022.73,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Aliasgarpur,0 to 3 acres,agricultural,2045.45,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Aliasgarpur,0 to 3 acres Gair Mumkin,agricultural,4840.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Aliasgarpur,0 to 3 acres,residential,3146,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Aliasgarpur,0 to 3 acres,commercial,5929,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Aliasgarpur,0 to 3 acres,commercial,7260,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,AsannKalan,0 to 3 acres,agricultural,753.41,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,AsannKalan,0 to 3 acres,agricultural,975.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,AsannKalan,0 to 3 acres Gair Mumkin,agricultural,4840.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,AsannKalan,0 to 3 acres,residential,3146,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,AsannKalan,0 to 3 acres,residential,3872,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,AsannKalan,0 to 3 acres,commercial,5929,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,AsannKalan,0 to 3 acres,commercial,7260,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,UgraKheri,Arya Nagar,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,UgraKheri,Arya Nagar,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,UgraKheri,0 to 3 acres,agricultural,1686.36,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,UgraKheri,0 to 3 acres,agricultural,2593.18,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,UgraKheri,0 to 3 acres Gair Mumkin,agricultural,7150.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,UgraKheri,0 to 3 acres,residential,5929,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,UgraKheri,0 to 3 acres,residential,6050,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,UgraKheri,0 to 3 acres,commercial,17545,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,UgraKheri,0 to 3 acres,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,UgraKheri,Ekta Vihar-I,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,UgraKheri,Ekta Vihar-I,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,UgraKheri,Chandni Bagh,residential,9680,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,UgraKheri,Chandni Bagh,commercial,31460,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,UgraKheri,Baljeet Nagar,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,UgraKheri,Baljeet Nagar,commercial,20240,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,UgraKheri,Bharat Nagar,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,UgraKheri,Bharat Nagar,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,UgraKheri,Roop Chand,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,UgraKheri,Roop Chand,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,UgraKheri,Vidya Nand Colony,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,UgraKheri,Vidya Nand Colony,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,UgraKheri,Sain Colony,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,UgraKheri,Sain Colony,commercial,20240,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Kachroli,GT Road 0 to 3 acres,agricultural,1123.86,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Kachroli,GT Road 0 to 3 acres,agricultural,1437.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Kachroli,GT Road 0 to 3 acres Gair Mumkin,agricultural,4840.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Kachroli,GT Road 0 to 3 acres,residential,4224,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Kachroli,GT Road 0 to 3 acres,residential,6468,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Kachroli,GT Road 0 to 3 acres,commercial,16335,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Kachroli,GT Road 0 to 3 acres,commercial,17545,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Kachroli,Inside Municipal Corporation,agricultural,1712.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Kachroli,Inside Municipal Corporation Gair Mumkin,agricultural,6050.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Kachroli,Inside Municipal Corporation,residential,7260,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Kachroli,Inside Municipal Corporation,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Kachroli,Babarpur Mandi Colony,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Kachroli,Babarpur Mandi Colony,agricultural,1575.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Kachroli,Babarpur Mandi Colony,residential,8222.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Kabri,0 to 3 acres,agricultural,1450.41,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Kabri,0 to 3 acres,agricultural,2191.74,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Kabri,0 to 3 acres Gair Mumkin,agricultural,5060.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Kabri,0 to 3 acres,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Kabri,0 to 3 acres,commercial,17545,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Kabri,Inside Municipal Corporation,agricultural,1862.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Kabri,Inside Municipal Corporation Gair Mumkin,agricultural,6050.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Kabri,Inside Municipal Corporation,residential,7260,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Kabri,Inside Municipal Corporation,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Kabri,Village remaining area,agricultural,1125.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Kabri,Village remaining area,residential,4477,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Kabri,Village remaining area,commercial,5929,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Kabri,Parsvnath City,residential,18150,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Kabri,Parsvnath City,commercial,50820,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,KabulBagh,Old Dalbir Nagar-II,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,KabulBagh,Old Dalbir Nagar-II,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,KabulBagh,Kabul Bagh Colony,residential,8222.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,KabulBagh,Kabul Bagh Colony,commercial,21120,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,KabulBagh,Kabul Bagh,agricultural,3300.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,KabulBagh,Kabul Bagh Gair Mumkin,agricultural,6050.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,KabulBagh,Kabul Bagh,residential,7260,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,KabulBagh,Kabul Bagh,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,KabulBagh,Chawla Colony,residential,8470,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,KabulBagh,Chawla Colony,commercial,31460,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,KabulBagh,Sacchi Sarkar Colony,residential,9680,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,KabulBagh,Sacchi Sarkar Colony,commercial,31460,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Kutani,0 to 3 acres,commercial,7260,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Kutani,0 to 3 acres,agricultural,698.55,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Kutani,0 to 3 acres,agricultural,1069.21,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Kutani,0 to 3 acres Gair Mumkin,agricultural,4840.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Kutani,0 to 3 acres,residential,3267,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Kutani,0 to 3 acres,residential,3993,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Kutani,0 to 3 acres,commercial,5929,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,KhediNangal,Anaj Mandi,residential,9680,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,KhediNangal,Anaj Mandi,commercial,39930,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,KhediNangal,NFL Colony,residential,10285,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,KhediNangal,NFL Colony,commercial,31460,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,KhediNangal,Remaining area,agricultural,937.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,KhediNangal,0 to 3 acres,agricultural,1512.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,KhediNangal,0 to 3 acres,agricultural,2162.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,KhediNangal,0 to 3 acres,residential,6762,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,KhediNangal,0 to 3 acres,residential,8280,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,KhediNangal,0 to 3 acres,commercial,25012.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,KhediNangal,0 to 3 acres,commercial,27600,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,KhediNangal,New Anaj Mandi,residential,9680,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,KhediNangal,New Anaj Mandi,commercial,39930,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,KhediNangal,Vikas Nagar,residential,10285,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,KhediNangal,Vikas Nagar,commercial,31460,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Khotpura,Road both sides up to 3 acres,agricultural,787.65,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Khotpura,Road both sides up to 3 acres,agricultural,988.43,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Khotpura,Road both sides up to 3 acres,residential,3146,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Khotpura,Road both sides up to 3 acres,residential,3751,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Khotpura,Road both sides up to 3 acres,commercial,5929,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Khotpura,Road both sides up to 3 acres,commercial,7260,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,GarhSarnai,0 to 3 acres,commercial,7744,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,GarhSarnai,0 to 3 acres,agricultural,725.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,GarhSarnai,0 to 3 acres,agricultural,800.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,GarhSarnai,0 to 3 acres Gair Mumkin,agricultural,4840.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,GarhSarnai,0 to 3 acres,residential,3267,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,GarhSarnai,0 to 3 acres,commercial,6171,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,GarhiSikandarpur,Kuldeep Nagar-I,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,GarhiSikandarpur,Kuldeep Nagar-II,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,GarhiSikandarpur,0 to 3 acres,agricultural,1487.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,GarhiSikandarpur,0 to 3 acres,agricultural,1875.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,GarhiSikandarpur,Inside MC Gair Mumkin,agricultural,4840.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,GarhiSikandarpur,Inside MC,residential,5929,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,GarhiSikandarpur,Inside MC,commercial,17545,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,GarhiSikandarpur,Garhi Sikandarpur,agricultural,2037.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,GarhiSikandarpur,Remaining MC Gair Mumkin,agricultural,6050.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,GaddiWada,Rakba,residential,7260,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,GaddiWada,Rakba,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,GaddiWada,Anaj Mandi,residential,9680,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,GaddiWada,Anaj Mandi,commercial,41745,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,GaddiWada,Azad Nagar,residential,9680,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,GaddiWada,Azad Nagar,commercial,41140,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,GaddiWada,Krishnapura,residential,11385,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,GaddiWada,Krishnapura,commercial,41140,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,GaddiWada,Gaddi Wada Gair Mumkin,agricultural,6050.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,GaddiWada,GT Road both sides,commercial,102850,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,GaddiWada,Rajan Nagar,residential,9680,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,GaddiWada,Rajan Nagar,commercial,41140,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,GaddiWada,Shiv Nagar,residential,9680,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,GaddiWada,Shiv Nagar,commercial,41140,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,GaddiWada,Sanjay Colony,residential,10890,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,GaddiWada,Sanjay Colony,commercial,41140,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Ganjbar,0 to 3 acres,commercial,5929,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Ganjbar,0 to 3 acres,commercial,7260,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Ganjbar,0 to 3 acres,agricultural,1229.6,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Ganjbar,0 to 3 acres,agricultural,1981.02,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Ganjbar,0 to 3 acres Gair Mumkin,agricultural,4840.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Ganjbar,0 to 3 acres,residential,3872,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Ganjbar,0 to 3 acres,residential,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Chandoli,Eldeco,residential,42000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Chandoli,Eldeco,commercial,75600,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Chandoli,0 to 3 acres,agricultural,892.56,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Chandoli,0 to 3 acres,agricultural,1431.82,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Chandoli,0 to 3 acres Gair Mumkin,agricultural,4840.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Chandoli,0 to 3 acres,residential,4680,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Chandoli,0 to 3 acres,residential,6660,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Chandoli,0 to 3 acres,commercial,8232,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Chandoli,0 to 3 acres,commercial,10080,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Chandoli,Education institute Eldeco Estate,commercial,10103.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Jatal,0 to 3 acres,commercial,5929,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Jatal,0 to 3 acres,commercial,7260,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Jatal,0 to 3 acres,agricultural,836.36,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Jatal,0 to 3 acres,agricultural,1006.25,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Jatal,0 to 3 acres Gair Mumkin,agricultural,4840.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Jatal,0 to 3 acres,residential,3146,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Jatal,0 to 3 acres,residential,3993,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Dahar,0 to 3 acres,agricultural,927.27,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Dahar,0 to 3 acres,agricultural,1322.73,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Dahar,0 to 3 acres Gair Mumkin,agricultural,4840.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Dahar,0 to 3 acres,residential,3267,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Dahar,0 to 3 acres,residential,3993,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Dahar,0 to 3 acres,commercial,7546,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Dahar,0 to 3 acres,commercial,9240,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Diwana,0 to 3 acres,agricultural,912.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Diwana,0 to 3 acres,agricultural,1375.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Diwana,0 to 3 acres Gair Mumkin,agricultural,4840.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Diwana,0 to 3 acres,residential,3267,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Diwana,0 to 3 acres,residential,3993,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Diwana,0 to 3 acres,commercial,5929,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Diwana,0 to 3 acres,commercial,7260,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafAfghan,Uda Road,residential,14520,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafAfghan,Uda Road,commercial,39930,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafAfghan,Ekta Vihar I-II,residential,8580,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafAfghan,Ekta Vihar I-II,commercial,20240,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafAfghan,Kashyap Colony,residential,10560,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafAfghan,Kashyap Colony,commercial,41140,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafAfghan,Kumharan Mohalla Saini Mohalla,residential,9680,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafAfghan,Kumharan Mohalla Saini Mohalla,commercial,31460,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafAfghan,Between Gangapuri Road and Devipuri Road,residential,13915,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafAfghan,Between Gangapuri Road and Devipuri Road,commercial,94380,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafAfghan,Ghosli Basti Sector-11,residential,13200,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafAfghan,Ghosli Basti Sector-11,commercial,52030,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafAfghan,Chandni Bagh Thana to Uda Sanauli Road,residential,9680,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafAfghan,Chandni Bagh Thana to Uda Sanauli Road,commercial,34320,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafAfghan,Jeetram Nagar I-II,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafAfghan,Jeetram Nagar I-II,commercial,21120,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafAfghan,Deh Basti,residential,9680,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafAfghan,Deh Basti,commercial,30250,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafAfghan,Taraf Afghan,agricultural,3600.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafAfghan,Taraf Afghan Gair Mumkin,agricultural,6050.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafAfghan,Taraf Afghan,residential,7260,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafAfghan,Taraf Afghan,commercial,22880,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafAfghan,New Sabzi Mandi,residential,10120,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafAfghan,New Sabzi Mandi,commercial,43010,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafAfghan,New Sabzi Mandi to Sanjay Chowk,residential,11385,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafAfghan,New Sabzi Mandi to Sanjay Chowk,commercial,94380,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafAfghan,Malik Enclave,residential,9075,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafAfghan,Malik Enclave,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafAfghan,Raj Colony,residential,9680,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafAfghan,Raj Colony,commercial,31460,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafAfghan,Rajanagar,residential,9680,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafAfghan,Rajanagar,commercial,41140,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafAfghan,Sanauli Road Sadar Chungi,residential,12100,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafAfghan,Sanauli Road Sadar Chungi,commercial,90750,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Industrial Area,residential,18150,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Industrial Area,commercial,42350,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Industrial Area,industrial,18150,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Under ROB to Prabhakar Hospital both sides,residential,17710,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Under ROB to Prabhakar Hospital both sides,commercial,41140,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Aneja Pump to West Yamuna Canal both sides,commercial,84700,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Amar Bhawan Chowk,residential,12420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Amar Bhawan Chowk,commercial,102850,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Amar Bhawan to GT Road,residential,12100,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Amar Bhawan to GT Road,commercial,104060,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,SD College Road,residential,9680,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,SD College Road,commercial,102850,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,IB College to Teja Singh Chowk,residential,10890,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,IB College to Teja Singh Chowk,commercial,119790,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Adarsh Nagar,residential,13310,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Adarsh Nagar,commercial,32890,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Arya Nagar,residential,13310,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Arya Nagar,commercial,35090,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Idgah Colony,residential,9680,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Idgah Colony,commercial,31460,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Indira Colony,residential,8470,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Indira Colony,commercial,22880,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Indira Bazaar,residential,15120,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Indira Bazaar,commercial,79255,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Insar Bazaar Devi Mandir Road Bazaar,residential,14400,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Insar Bazaar Devi Mandir Road Bazaar,commercial,104060,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Uttam Nagar,residential,12100,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Uttam Nagar,commercial,36300,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Kacheri Bazaar Insar Bazaar,residential,12100,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Kacheri Bazaar Insar Bazaar,commercial,108790,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Kalandar Chowk,residential,12100,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Kalandar Chowk,commercial,31460,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Kishore Garden,residential,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Kishore Garden,commercial,35090,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Krishna Nagar,residential,10890,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Teh Camp,commercial,35090,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Kotla Basti,residential,13310,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Kotla Basti,commercial,31460,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Khadi Colony near Hali Park,residential,11385,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Khadi Colony near Hali Park,commercial,31460,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Khel Bazaar Mandir,residential,9680,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Khel Bazaar Mandir,commercial,31460,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Khel Bazaar Main Road,residential,9240,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Khel Bazaar Main Road,commercial,84700,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Gandhi Colony,residential,13200,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Gandhi Colony,commercial,38720,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Gaba Colony,residential,7260,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Gaba Colony,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Geeta Colony,residential,20570,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Geeta Colony,commercial,52030,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Guru Nanakpura,residential,13310,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Guru Nanakpura,commercial,36685,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Guru Teg Bahadur Colony,residential,33880,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Guru Teg Bahadur Colony,commercial,76230,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Gurudwara GT Road and surrounding,residential,10890,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Gurudwara GT Road and surrounding,commercial,119790,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Gurudwara Sant Bhai Narayan Singh Road,residential,8855,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Gurudwara Sant Bhai Narayan Singh Road,commercial,84700,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Gautam Nagar Indra Colony,residential,9680,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Gautam Nagar Indra Colony,commercial,31460,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Green Park,residential,13310,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Green Park,commercial,32890,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Chhate wali Gali,residential,10890,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Chhate wali Gali,commercial,104060,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Jagdamba Market,residential,33880,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Jagdamba Market,commercial,84700,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Jagannath Colony SD Girls School,residential,13310,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Jagannath Colony SD Girls School,commercial,31460,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Janak Garden,residential,9680,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Janak Garden,commercial,31460,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Jawahar Cloth New Cloth Pancharanga Bazaar,residential,11385,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Jawahar Cloth New Cloth Pancharanga Bazaar,commercial,108790,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Jawahar Nagar,residential,10890,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Jawahar Nagar,commercial,31460,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Jasbir Colony,residential,9075,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Jasbir Colony,commercial,20240,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,GT Road both sides,residential,18150,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,GT Road both sides,commercial,102850,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Gyan Halwai Road,residential,11880,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Gyan Halwai Road,commercial,79255,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Jyoti Nagar,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Jyoti Nagar,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Taraf Insar 1,agricultural,3300.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Taraf Insar 1 Gair Mumkin,agricultural,6050.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Taraf Insar 1,residential,7260,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Taraf Insar 1,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Tej Colony No.1,residential,10890,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Tej Colony No.1,commercial,38280,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Datta Colony,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Datta Colony,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Diwan Nagar New Diwan Nagar,residential,13310,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Diwan Nagar New Diwan Nagar,commercial,35090,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Dushyant Nagar Teh Camp,residential,11385,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Dushyant Nagar Teh Camp,commercial,32890,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Dev Colony,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Dev Colony,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Devnagar near Housing Board,residential,14520,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Devnagar near Housing Board,commercial,38720,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Devi Murti Colony,residential,14520,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Devi Murti Colony,commercial,45760,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Devi Lal Camp behind Sangeet Cinema,commercial,50050,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Desraj Colony-II,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Desraj Colony-II,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Narayan Singh Park,residential,27720,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Narayan Singh Park,commercial,47190,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Nagpal Colony,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Nagpal Colony,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Nehru Nagar Teh Camp,residential,13915,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Nehru Nagar Teh Camp,commercial,32890,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,New Ramesh Nagar,residential,10285,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,New Ramesh Nagar,commercial,29040,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,New Sukhdev Nagar,residential,29095,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,New Sukhdev Nagar,commercial,89815,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Patel Nagar,residential,13310,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Patel Nagar,commercial,31460,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Pathan Mohalla,residential,8470,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Pathan Mohalla,commercial,32890,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Parshuram Colony,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Parshuram Colony,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Pashu Aspatal to Amar Bhawan Chowk,residential,10890,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Pashu Aspatal to Amar Bhawan Chowk,commercial,102850,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Parasnath Road,residential,12100,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Parasnath Road,commercial,93170,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Old Housing Board,residential,15870,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Old Housing Board,commercial,38720,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Purewal Colony,residential,9680,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Purewal Colony,commercial,31460,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Prakash Nagar and New Prakash Nagar,residential,13310,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Prakash Nagar and New Prakash Nagar,commercial,43010,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Prabhakar Hospital to Aneja Pump,residential,30250,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Prabhakar Hospital to Aneja Pump,commercial,84700,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Prahlad Colony,residential,20240,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Prahlad Colony,commercial,61710,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Prem Mandir Road,residential,11880,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Prem Mandir Road,commercial,104060,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Friends Colony,residential,22990,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Friends Colony,commercial,48400,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Batra Colony,residential,9680,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Batra Colony,commercial,31460,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Barsat Road 50 ft both sides,residential,17160,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Barsat Road 50 ft both sides,commercial,52030,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Balmiki Basti near Pathan Mohalla,residential,10120,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Balmiki Basti near Pathan Mohalla,commercial,47190,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Balmiki Basti near Sukhdev Nagar,residential,11880,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Balmiki Basti near Sukhdev Nagar,commercial,52030,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Bichpadi,residential,8222.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Bichpadi,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Billu Colony,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Billu Colony,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Bishan Sarup Colony Left Side,residential,22990,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Bishan Sarup Colony Left Side,commercial,79860,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Bishan Sarup Colony Right Side,residential,16940,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Bishan Sarup Colony Right Side,commercial,79860,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Bhagat Nagar New,residential,10890,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Bhagat Nagar,commercial,35090,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Bhatia Colony,residential,16445,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Bhatia Colony,commercial,47190,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Bhimgoda Mandir to Chowk,residential,9680,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Bhimgoda Mandir to Chowk,commercial,85910,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Malik Garden,residential,9680,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Malik Garden,commercial,31460,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Mastana Bazaar,residential,8470,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Mastana Bazaar,commercial,35880,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Maiji Colony,residential,12100,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Maiji Colony,commercial,38720,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Model Town,residential,56925,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Model Town,commercial,189750,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Ramesh Nagar and New Ramesh Nagar,residential,10890,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Ramesh Nagar and New Ramesh Nagar,commercial,31460,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Rani Mahal,residential,9680,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Rani Mahal,commercial,31460,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Ramnagar Extension,residential,10752.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Ramnagar Extension,commercial,39215,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Ramnagar New Ramnagar,residential,11880,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Ramnagar New Ramnagar,commercial,41140,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Railway Road,residential,28050,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Railway Road,commercial,98670,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Roshan Lal Colony,residential,9680,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Roshan Lal Colony,commercial,31460,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Latif Garden Agrasen Colony,residential,15730,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Latif Garden Agrasen Colony,commercial,41140,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Layya Barat Ghar Road and Market,residential,10890,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Layya Barat Ghar Road and Market,commercial,104060,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Lalbatti to PWD Rest House both sides,commercial,116160,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Lalbatti to Bridge both sides,commercial,116160,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Labour Colony near Hali Park,residential,9680,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Labour Colony near Hali Park,commercial,31460,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Wadhawa Ram Colony,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Wadhawa Ram Colony,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Vikas Nagar,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Vikas Nagar,commercial,20240,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Vijay Nagar Old,residential,12100,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Vijay Nagar Old,commercial,31460,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Vijay Nagar,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Vijay Nagar,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Virk Nagar,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Virk Nagar,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Weavers Colony,residential,10120,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Weavers Colony,commercial,31460,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Veerpatang Rajputana Bazaar Gudmandi,residential,11902.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Veerpatang Rajputana Bazaar Gudmandi,commercial,52030,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Shanti Nagar,residential,15730,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Shanti Nagar,commercial,41140,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Shri Ram Mandir to Nai Basti,residential,10890,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Shri Ram Mandir to Nai Basti,commercial,90750,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Sanauli Road Sadar Chungi,residential,12100,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Sanauli Road Sadar Chungi,commercial,94380,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Sant Nagar,residential,12100,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Sant Nagar,commercial,45980,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Sarai Mohalla,residential,18000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Sarai Mohalla,commercial,52030,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Siddharth Nagar,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Siddharth Nagar,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Sukhdev Nagar New Sukhdev Nagar Scheme No.6,residential,30250,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Sukhdev Nagar New Sukhdev Nagar Scheme No.6,commercial,93170,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Sudhir Colony,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Sudhir Colony,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Subhash Nagar Tehsil Camp,residential,10890,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Subhash Nagar Tehsil Camp,commercial,41140,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Subhash Bulbul Halwai Hatt Main Bazaar,residential,10890,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Subhash Bulbul Halwai Hatt Main Bazaar,commercial,79255,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Sethi Chowk to Bhim Goda Mandir,residential,11880,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Sethi Chowk to Bhim Goda Mandir,commercial,90750,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Saini Colony,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Saini Colony,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Hari Nagar,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Hari Nagar,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Hari Singh Colony,residential,9680,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Hari Singh Colony,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Haribagh Colony,residential,13310,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,Haribagh Colony,commercial,21780,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Ashok Vihar Colony,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Ashok Vihar Colony,commercial,20240,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Old Dalbir Nagar I-II,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Old Dalbir Nagar I-II,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Captain Nagar,residential,10560,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Captain Nagar,commercial,31460,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Kabul Bagh,residential,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Kabul Bagh,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Kutani Road,residential,8470,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Kutani Road,commercial,31460,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Between Gangapuri Road and Devipuri Road,residential,13310,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Between Gangapuri Road and Devipuri Road,commercial,94380,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Gandhi Colony,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Gandhi Colony,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Geeta Colony,residential,9680,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Geeta Colony,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Chandni Bagh,residential,9680,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Chandni Bagh,commercial,31460,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Chawla Colony,residential,8855,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Chawla Colony,commercial,31460,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Jagdish Colony,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Jagdish Colony,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Jagannath Colony SD Girls School,residential,13310,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Jagannath Colony SD Girls School,commercial,31460,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Jasbir Colony,residential,9075,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Jasbir Colony,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Java Colony,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Java Colony,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Dabar Colony,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Dabar Colony,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Taraf Makhdum 1,agricultural,3300.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Taraf Makhdum 1 Gair Mumkin,agricultural,6050.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Taraf Makhdum 1,residential,7935,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Taraf Makhdum 1,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Dalbir Colony,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Dalbir Colony,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Dina Nath Colony,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Dina Nath Colony,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Durga Colony,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Durga Colony,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Desraj Colony-I,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Desraj Colony-I,commercial,20240,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Desraj Colony-II,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Desraj Colony-II,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Dhamija Colony,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Dhamija Colony,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Dhup Singh Nagar,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Dhup Singh Nagar,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Nurwala,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Nurwala,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Parshuram Colony,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Parshuram Colony,commercial,20240,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Billu Colony,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Billu Colony,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Bharat Nagar,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Bharat Nagar,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Manmohan Nagar,residential,8222.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Manmohan Nagar,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Mahadev Colony I-II,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Mahadev Colony I-II,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Moti Ram Colony,residential,8470,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Moti Ram Colony,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Mohit Colony,residential,8470,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Mohit Colony,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Rakesh Nagar,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Rakesh Nagar,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Raj Colony,residential,9680,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Raj Colony,commercial,31460,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Rajiv Colony,residential,8470,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Rajiv Colony,commercial,31460,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,In front of Ramlal School,residential,8855,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,In front of Ramlal School,commercial,31460,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Wadhawa Ram Colony,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Wadhawa Ram Colony,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Vijay Nagar,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Vijay Nagar,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Veer Bhawan Chowk Road,residential,10890,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Veer Bhawan Chowk Road,commercial,31460,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Shiv Nagar,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Shiv Nagar,commercial,20240,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Sacchi Sarkar Colony,residential,10560,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Sacchi Sarkar Colony,commercial,31460,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Sainipura New Sainipura Colony,residential,9680,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Sainipura New Sainipura Colony,commercial,31460,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Hari Singh Colony,residential,9680,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Hari Singh Colony,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Hali Colony,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafMakhdum,Hali Colony,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Emperium,residential,35880,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Emperium,commercial,52030,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Agarwal Mandi,residential,12100,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Agarwal Mandi,commercial,42350,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Amar Bhawan Chowk,residential,11385,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Amar Bhawan Chowk,commercial,102850,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Amar Bhawan to GT Road SD College Road,residential,12100,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Amar Bhawan to GT Road SD College Road,commercial,104060,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Arjun Nagar,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Arjun Nagar,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,IB College to Teja Singh Chowk,residential,10890,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,IB College to Teja Singh Chowk,commercial,119790,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,8 Marla Kranti Nagar,residential,12480,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,8 Marla Kranti Nagar,commercial,52360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Adarsh Nagar,residential,13915,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Adarsh Nagar,commercial,31460,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,RK Puram,residential,10890,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,RK Puram,commercial,54395,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Kataria Netaji Rishi Colony,residential,14547.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Kataria Netaji Rishi Colony,commercial,64515,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Kabirpanthi Colony,residential,9680,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Kabirpanthi Colony,commercial,41140,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Kartar Singh Nagar,residential,15730,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Kartar Singh Nagar,commercial,41140,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Kashyap Nagar I-II,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Kashyap Nagar I-II,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Kuldeep Nagar I-II,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Kuldeep Nagar I-II,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Krishnapura,residential,12870,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Krishnapura,commercial,41140,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Khatik Basti,residential,10560,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Khatik Basti,commercial,41140,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Ganga Ram Colony,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Ganga Ram Colony,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Between Gangapuri Road and Devipuri Road,residential,13915,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Between Gangapuri Road and Devipuri Road,commercial,94380,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Gaushala Mandi,residential,14520,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Gaushala Mandi,commercial,41140,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Gandhi Colony behind Sangeet Cinema,residential,12100,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Gandhi Colony behind Sangeet Cinema,commercial,42350,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Gandhi Mandi,residential,20570,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Gandhi Mandi,commercial,39930,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Gopal Colony,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Gopal Colony,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Gohana Road,residential,12100,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Gohana Road,commercial,72600,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Jagjivan Ram Colony,residential,11960,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Jagjivan Ram Colony,commercial,44880,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Deh Basti,residential,10120,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Deh Basti,commercial,38500,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Devi Lal Complex behind Sangeet Cinema,commercial,44275,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,New Sabzi Mandi,residential,9680,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,New Sabzi Mandi,commercial,41140,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Nandvihar,residential,10890,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Nandvihar,commercial,52030,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Narayan Singh Bagh,residential,27720,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Narayan Singh Bagh,commercial,47190,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,New Sabzi Mandi to Sanjay Chowk,residential,10890,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,New Sabzi Mandi to Sanjay Chowk,commercial,94380,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,New Model Town,residential,13310,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,New Model Town,commercial,41140,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Pashu Aspatal to Amar Bhawan,residential,10890,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Pashu Aspatal to Amar Bhawan,commercial,102850,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Old Gohana Road,residential,10120,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Old Gohana Road,commercial,41140,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Old Hospital Road,residential,10890,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Old Hospital Road,commercial,108790,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Factory Area Gohana Road both sides,residential,10890,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Factory Area Gohana Road both sides,commercial,61710,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Fauji Colony-II,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Fauji Colony-II,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Mahavir Colony,residential,12100,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Mahavir Colony,commercial,42350,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Model Town,residential,54450,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Model Town,commercial,181500,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Mukhija Colony Jatal Road,residential,10890,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Mukhija Colony Jatal Road,commercial,52030,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Ravidas Nagar,residential,9680,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Ravidas Nagar,commercial,41140,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Rajputan 1,agricultural,3450.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Rajputan 1 Gair Mumkin,agricultural,6050.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Rajputan 1,residential,8280,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Rajputan 1,commercial,22880,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Ram Nagar,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Ram Nagar,commercial,20240,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Rampura,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Rampura,commercial,20240,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Railway Road,residential,20570,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Railway Road,commercial,94380,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Virat Nagar,residential,15730,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Virat Nagar,commercial,41140,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Shakti Nagar Jatal Road,residential,10890,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Shakti Nagar Jatal Road,commercial,41140,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Shakti Nagar,residential,8222.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Shakti Nagar,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Shanti Nagar,residential,15730,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Shanti Nagar,commercial,41140,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Shastri Colony,residential,9680,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Shastri Colony,commercial,32890,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Shiv Nagar,residential,10120,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Shiv Nagar,commercial,43010,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Sanjay Colony Gohana Road both sides,residential,10890,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Sanjay Colony Gohana Road both sides,commercial,41140,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Sajjan Singh Bagh,residential,22990,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Sajjan Singh Bagh,commercial,48400,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Satkartar Colony,residential,9680,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Satkartar Colony,commercial,41140,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Sanauli Road Sadar Chungi,residential,13200,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Sanauli Road Sadar Chungi,commercial,94380,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Sawan Park,residential,15730,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Sawan Park,commercial,41140,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Saini Colony,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Saini Colony,commercial,22080,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Sainipura Jatal Road,residential,10890,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Sainipura Jatal Road,commercial,41140,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Hari Nagar,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Hari Nagar,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Dadlana,0 to 3 acres,agricultural,1059.92,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Dadlana,0 to 3 acres,agricultural,1431.82,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Dadlana,0 to 3 acres Gair Mumkin,agricultural,4840.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Dadlana,0 to 3 acres,residential,4048,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Dadlana,0 to 3 acres,residential,4301,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Dadlana,0 to 3 acres,commercial,7007,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Dadlana,0 to 3 acres,commercial,8580,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Nijampur,Eldeco,residential,40250,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Nijampur,Eldeco,commercial,50820,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Nijampur,0 to 3 acres,agricultural,1394.63,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Nijampur,0 to 3 acres,agricultural,3216.94,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Nijampur,0 to 3 acres,residential,8820,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Nijampur,0 to 3 acres,residential,9000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Nijampur,0 to 3 acres,commercial,17545,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Nijampur,0 to 3 acres,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Nijampur,Babarpur Mandi Colony Sector 40,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Nijampur,Babarpur Mandi Colony Sector 40,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Nijampur,Babarpur Mandi Colony Sector 40,residential,25410,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Nijampur,Babarpur Mandi Colony Sector 40,commercial,50820,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Nimbri,0 to 3 acres,agricultural,1051.99,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Nimbri,0 to 3 acres,agricultural,1202.27,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Nimbri,0 to 3 acres Gair Mumkin,agricultural,4840.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Nimbri,0 to 3 acres,residential,3267,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Nimbri,0 to 3 acres,residential,3993,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Nimbri,0 to 3 acres,commercial,14520,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Nimbri,0 to 3 acres,commercial,16335,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Palheri,0 to 3 acres,agricultural,725.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Palheri,0 to 3 acres,agricultural,800.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Palheri,0 to 3 acres Gair Mumkin,agricultural,4840.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Palheri,0 to 3 acres,residential,3267,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Palheri,0 to 3 acres,commercial,6050,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Palheri,0 to 3 acres,commercial,7744,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,PrahladpurKhalila,0 to 3 acres,commercial,7260,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,PrahladpurKhalila,0 to 3 acres,agricultural,687.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,PrahladpurKhalila,0 to 3 acres,agricultural,750.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,PrahladpurKhalila,0 to 3 acres Gair Mumkin,agricultural,4840.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,PrahladpurKhalila,0 to 3 acres,residential,3146,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,PrahladpurKhalila,0 to 3 acres,commercial,5929,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Faridpur,TDI City,residential,18975,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Faridpur,TDI City,commercial,50820,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Faridpur,Parsvnath City,residential,18150,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Faridpur,Parsvnath City,commercial,50820,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Faridpur,Inside Municipal Corporation,agricultural,1862.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Faridpur,Inside Municipal Corporation Gair Mumkin,agricultural,6050.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Faridpur,Inside Municipal Corporation,residential,7260,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Faridpur,Inside Municipal Corporation,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Faridpur,0 to 3 acres,agricultural,962.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Faridpur,0 to 3 acres,agricultural,1462.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Faridpur,0 to 3 acres Gair Mumkin,agricultural,4840.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Faridpur,0 to 3 acres,residential,5760,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Faridpur,0 to 3 acres,commercial,8085,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Faridpur,0 to 3 acres,commercial,9900,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Badauli,0 to 3 acres,commercial,7260,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Badauli,0 to 3 acres,agricultural,1169.01,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Badauli,0 to 3 acres,agricultural,2067.15,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Badauli,0 to 3 acres Gair Mumkin,agricultural,4840.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Badauli,0 to 3 acres,residential,3872,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Badauli,0 to 3 acres,residential,4235,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Badauli,0 to 3 acres,commercial,5929,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Babail,0 to 3 acres,agricultural,1022.73,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Babail,0 to 3 acres,agricultural,1134.3,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Babail,0 to 3 acres,residential,3146,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Babail,0 to 3 acres,commercial,5929,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Babail,0 to 3 acres,commercial,7260,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Barana,0 to 3 acres,agricultural,757.95,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Barana,0 to 3 acres,agricultural,810.23,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Barana,0 to 3 acres Gair Mumkin,agricultural,4840.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Barana,0 to 3 acres,residential,3267,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Barana,0 to 3 acres,commercial,6050,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Barana,0 to 3 acres,commercial,7744,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,BagsherAfghan,Bagsher Afghan,residential,7260,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,BagsherAfghan,Bagsher Afghan,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,BagsherAfghan,Mahavir Colony,residential,13200,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,BagsherAfghan,Mahavir Colony,commercial,44275,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Babarpur,Village 0 to 3 acres,agricultural,1279.34,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Babarpur,Village 0 to 3 acres,agricultural,1740.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Babarpur,Village 0 to 3 acres Gair Mumkin,agricultural,4840.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Babarpur,Village 0 to 3 acres,residential,3993,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Babarpur,Village 0 to 3 acres,residential,4719,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Babarpur,Village 0 to 3 acres,commercial,16335,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Babarpur,Village 0 to 3 acres,commercial,17545,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Binjhol,0 to 3 acres,commercial,7260,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Binjhol,0 to 3 acres,agricultural,900.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Binjhol,0 to 3 acres,agricultural,1377.27,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Binjhol,0 to 3 acres Gair Mumkin,agricultural,4840.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Binjhol,0 to 3 acres,residential,4048,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Binjhol,0 to 3 acres,residential,6198.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Binjhol,0 to 3 acres,commercial,5929,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Budsham,0 to 3 acres,agricultural,666.48,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Budsham,0 to 3 acres,agricultural,862.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Budsham,0 to 3 acres Gair Mumkin,agricultural,4840.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Budsham,0 to 3 acres,residential,3289,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Budsham,0 to 3 acres,residential,3795,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Budsham,0 to 3 acres,commercial,5929,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,BrahmanMajra,0 to 3 acres,commercial,7260,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,BrahmanMajra,0 to 3 acres,agricultural,790.91,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,BrahmanMajra,0 to 3 acres,agricultural,900.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,BrahmanMajra,0 to 3 acres Gair Mumkin,agricultural,4840.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,BrahmanMajra,0 to 3 acres,residential,3267,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,BrahmanMajra,0 to 3 acres,commercial,6050,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,BrahmanMajra,0 to 3 acres,commercial,7744,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Bhainswal,0 to 3 acres,agricultural,892.56,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Bhainswal,0 to 3 acres,agricultural,1227.27,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Bhainswal,0 to 3 acres Gair Mumkin,agricultural,4840.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Bhainswal,0 to 3 acres,residential,3872,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Bhainswal,0 to 3 acres,residential,3993,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Bhainswal,0 to 3 acres,commercial,5929,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Bhainswal,0 to 3 acres,commercial,7260,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,MalikUgraKheri,Dhup Singh Nagar,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,MalikUgraKheri,Dhup Singh Nagar,commercial,20240,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,MalikUgraKheri,Bharat Nagar,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,MalikUgraKheri,Bharat Nagar,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,MalikUgraKheri,Malik Ugra Kheri,agricultural,2012.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,MalikUgraKheri,Malik Ugra Kheri Gair Mumkin,agricultural,6050.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,MalikUgraKheri,Malik Ugra Kheri,residential,7260,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,MalikUgraKheri,Malik Ugra Kheri,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Mahmadpur,0 to 3 acres,agricultural,687.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Mahmadpur,0 to 3 acres,agricultural,750.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Mahmadpur,0 to 3 acres Gair Mumkin,agricultural,4840.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Mahmadpur,0 to 3 acres,residential,3146,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Mahmadpur,0 to 3 acres,commercial,5929,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Mahmadpur,0 to 3 acres,commercial,7260,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Mahrana,Inside Municipal Corporation,agricultural,1650.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Mahrana,Inside Municipal Corporation Gair Mumkin,agricultural,6050.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Mahrana,Inside Municipal Corporation,residential,6050,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Mahrana,Inside Municipal Corporation,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Mahrana,0 to 3 acres,agricultural,1022.73,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Mahrana,0 to 3 acres,agricultural,1500.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Mahrana,0 to 3 acres Gair Mumkin,agricultural,4840.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Mahrana,0 to 3 acres,residential,4224,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Mahrana,0 to 3 acres,residential,6468,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Mahrana,0 to 3 acres,commercial,5929,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Mahrana,0 to 3 acres,commercial,7260,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Rajapur,HSIIDC,commercial,12100,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Rajapur,HSIIDC,industrial,12480,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Rajapur,HSIIDC,residential,10580,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Rajapur,0 to 3 acres,agricultural,1022.73,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Rajapur,0 to 3 acres,agricultural,1115.7,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Rajapur,0 to 3 acres Gair Mumkin,agricultural,4840.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Rajapur,0 to 3 acres,residential,3146,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Rajapur,0 to 3 acres,commercial,8820,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Rajapur,0 to 3 acres,commercial,10800,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Ratipur,TDI City,residential,19800,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Ratipur,TDI City,commercial,50820,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Ratipur,0 to 3 acres,residential,4680,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Ratipur,0 to 3 acres,commercial,8085,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Ratipur,0 to 3 acres,commercial,9900,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Ratipur,0 to 3 acres,agricultural,818.18,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Ratipur,0 to 3 acres,agricultural,892.56,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Ratipur,0 to 3 acres Gair Mumkin,agricultural,4840.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Rajakheri,0 to 3 acres,agricultural,784.09,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Rajakheri,0 to 3 acres,agricultural,1150.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Rajakheri,0 to 3 acres Gair Mumkin,agricultural,4840.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Rajakheri,0 to 3 acres,residential,3267,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Rajakheri,0 to 3 acres,residential,3993,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Rajakheri,0 to 3 acres,commercial,5929,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Rajakheri,0 to 3 acres,commercial,7260,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Risalu,Outside MC 0 to 3 acres and remaining,agricultural,2100.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Risalu,Outside MC 0 to 3 acres and remaining Gair Mumkin,agricultural,4840.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Risalu,Outside MC 0 to 3 acres and remaining,residential,5929,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Risalu,Outside MC 0 to 3 acres and remaining,commercial,16335,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Risalu,Outside MC 0 to 3 acres and remaining,commercial,17545,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Risalu,Inside Municipal Corporation,agricultural,2100.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Risalu,Inside Municipal Corporation,agricultural,2290.91,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Risalu,Inside Municipal Corporation Gair Mumkin,agricultural,6050.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Risalu,Inside Municipal Corporation,residential,5929,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Risalu,Inside Municipal Corporation,residential,6050,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Risalu,Inside Municipal Corporation,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Risalu,Shanti Colony I-II,residential,8222.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Risalu,Shanti Colony I-II,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,WardNo01,HSEB Group Housing Society,residential,24200,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,WardNo01,HSEB Group Housing Society,commercial,49610,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,WardNo01,School College Hospital institution Licensed Colony,residential,5544,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,WardNo01,School College Hospital institution Licensed Colony,commercial,5082,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,WardNo01,Ansal,residential,31740,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,WardNo01,Ansal,commercial,55660,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,WardNo01,TDI Sector 23,residential,30417.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,WardNo01,Yamuna Enclave,residential,27830,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,WardNo01,Yamuna Enclave,commercial,49610,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,WardNo01,Sector 13-17,residential,33600,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,WardNo01,Sector 13-17,commercial,73800,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,WardNo01,Sector 13-17 HBC,residential,25300,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,WardNo01,Sector 13-17 HBC,commercial,49610,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,WardNo01,Sector 18,residential,26450,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,WardNo01,Sector 18,commercial,73800,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,WardNo01,Sector 6,residential,20570,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,WardNo01,Sector 6,commercial,63960,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,WardNo01,Sector 7-8,residential,21505,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,WardNo01,Sector 7-8,commercial,49610,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,WardNo11,Sector 11-12 Part-I,residential,31625,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,WardNo11,Sector 11-12 Part-I,commercial,117000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,WardNo11,Sector 11-12 Part-I Shopping Centre,commercial,90750,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,WardNo11,Sector 11-12 Part-II,commercial,115500,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,WardNo11,Sector 11-12 Part-II,residential,30250,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,WardNo11,Sector 11-12 Part-II New Housing Board Colony,residential,29040,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,WardNo11,Sector 11-12 Part-II New Housing Board Colony,commercial,90750,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,WardNo13,Sector 24,residential,25300,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,WardNo13,Sector 24,commercial,39930,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,WardNo13,Sector 25 Transport Nagar Industries Area,commercial,79860,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,WardNo13,Sector 25 Part-I,commercial,50820,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,WardNo13,Sector 25 Part-I,industrial,24200,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,WardNo13,Sector 25 Part-II,residential,26450,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,WardNo13,Sector 25 Part-II,commercial,66000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,WardNo13,Sector 25 Part-II,industrial,16940,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,WardNo13,Sector 29 Part I-II,commercial,30600,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,WardNo13,Sector 29 Part I-II,industrial,10120,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,WardNo19,Model Town,residential,54450,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,WardNo19,Model Town,commercial,181500,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,WardNo9,Rajakheri Road,residential,9680,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,WardNo9,Rajakheri Road,commercial,31460,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Shimla,Eldeco Estate,residential,45000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Shimla,Eldeco Estate,commercial,64680,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Molana,Education institute,commercial,10103.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Molana,Shimla Molana,agricultural,1022.73,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Molana,Inside Municipal Corporation,agricultural,2154.55,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Molana,Inside Municipal Corporation Gair Mumkin,agricultural,6050.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Molana,Inside Municipal Corporation,residential,8820,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Molana,Inside Municipal Corporation,residential,9000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Molana,Inside Municipal Corporation,commercial,17545,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Molana,Inside Municipal Corporation,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Molana,Shimla Molana remaining area,agricultural,937.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,SarayeKohand,0 to 3 acres,commercial,17545,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,SarayeKohand,0 to 3 acres,agricultural,962.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,SarayeKohand,0 to 3 acres,agricultural,1812.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,SarayeKohand,0 to 3 acres,residential,3872,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,SarayeKohand,0 to 3 acres,residential,3993,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,SarayeKohand,0 to 3 acres,commercial,16335,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,SarayeBachda,Saraye Bachda,agricultural,2359.09,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,SarayeBachda,Saraye Bachda Gair Mumkin,agricultural,4840.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,SarayeBachda,Saraye Bachda,residential,6050,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,SarayeBachda,Saraye Bachda,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Siwah,0 to 3 acres,agricultural,1653.12,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Siwah,0 to 3 acres,agricultural,2226.94,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Siwah,0 to 3 acres Gair Mumkin,agricultural,4840.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Siwah,0 to 3 acres Gair Mumkin,agricultural,6050.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Siwah,0 to 3 acres,residential,5687,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Siwah,0 to 3 acres,residential,6050,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Siwah,0 to 3 acres,commercial,17545,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Siwah,0 to 3 acres,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Siwah,Inside Municipal Corporation Gair Mumkin,agricultural,6050.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,SiwahKheri,0 to 3 acres,residential,5687,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,SiwahKheri,0 to 3 acres,residential,5929,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,SiwahKheri,0 to 3 acres,commercial,16335,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,SiwahKheri,0 to 3 acres,commercial,17545,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,SiwahKheri,0 to 3 acres,agricultural,1325.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,SiwahKheri,0 to 3 acres,agricultural,1875.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,SiwahKheri,0 to 3 acres Gair Mumkin,agricultural,4840.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Sondhapur,Ekta Colony,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Sondhapur,Ekta Colony,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Sondhapur,Fauji Colony-I,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Sondhapur,Fauji Colony-I,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Sondhapur,Bhagat Singh Colony,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Sondhapur,Bhagat Singh Colony,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Sondhapur,Sahil Colony,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Sondhapur,Sahil Colony,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Sondhapur,Sain Colony,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Sondhapur,Sain Colony,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Sondhapur,Inside,residential,7084,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Sondhapur,Inside MC 0 to 3 acres,commercial,20735,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Sondhapur,Inside MC 0 to 3 acres,agricultural,1024.66,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Sondhapur,Inside MC 0 to 3 acres,agricultural,1653.12,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Sondhapur,Inside MC 0 to 3 acres Gair Mumkin,agricultural,6050.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Sondhapur,Inside MC 0 to 3 acres,residential,6957.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Sondhapur,Sondhapur Extension,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Sondhapur,Sondhapur Extension,commercial,19360,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Sondhapur,Sondhapur Colony,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Sondhapur,Sondhapur Colony,commercial,26400,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Hadtari,0 to 3 acres,agricultural,937.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Hadtari,0 to 3 acres,agricultural,1022.73,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Hadtari,0 to 3 acres Gair Mumkin,agricultural,4840.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Hadtari,0 to 3 acres,residential,3289,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Hadtari,0 to 3 acres,commercial,5929,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Hadtari,0 to 3 acres,commercial,7260,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafAfghan,GT Road both sides up to 100 ft,commercial,105000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,KhediNangal,GT Road both sides up to 100 ft,commercial,105000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,SaraiPilkhan,GT Road both sides up to 100 ft,commercial,105000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafIsar1,GT Road both sides up to 100 ft,commercial,105000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Panipat,Assandh Road both sides up to 100 ft,commercial,85000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Ajijulapur,Trident Park Town,residential,35000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Ajijulapur,Trident Park Town,commercial,57000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Ajijulapur,Mansarover Industrial Park,industrial,25000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,UgraKheri,Address Infrastructures Pvt Ltd,residential,35000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,UgraKheri,Address Infrastructures Pvt Ltd,commercial,57000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,UgraKheri,Amba Colony,residential,7800,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,UgraKheri,Amba Colony,commercial,19300,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Kabri,Supervesh,residential,35000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Kabri,Supervesh,commercial,57000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Kabri,M3M City,residential,35000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Kabri,M3M City,commercial,57000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Kabri,Harmony City,residential,35000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Kabri,Harmony City,commercial,57000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Kabri,Mata Phulan Deh Colony,residential,7000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Kabri,Mata Phulan Deh Colony,commercial,18000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Chandoli,Trident Park Town,residential,35000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Chandoli,Trident Park Town,commercial,57000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Jatal,Kashyap Colony,residential,5000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Jatal,Kashyap Colony,commercial,8000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Jatal,Bharati Colony,residential,5000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Jatal,Bharati Colony,commercial,8000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Emperium City Sector 1A,residential,35000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,TarafRajputan,Emperium City Sector 1A,commercial,57000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Nijampur,Emperium Palm Drive Sector 40 and 19A GT Road,residential,35000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Nijampur,Emperium Palm Drive Sector 40 and 19A GT Road,commercial,57000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Nijampur,Trident Park Town Sector 19A,residential,35000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Nijampur,Trident Park Town Sector 19A,commercial,57000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Nijampur,Shubhagen Sector 19A,residential,35000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Nijampur,Shubhagen Sector 19A,commercial,57000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Nijampur,Trident Sector 19A,residential,35000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Nijampur,Trident Sector 19A,commercial,57000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Badauli,Near Kali Mandir,residential,5000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Badauli,Near Kali Mandir,commercial,8000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Binjhol,Fauji Nagar,residential,6000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Binjhol,Fauji Nagar,commercial,7200,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Mahrana,Brahmanwas Basti,residential,6000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Mahrana,Brahmanwas Basti,commercial,7500,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Risalu,The Village Business Park Industrial,industrial,25000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Shimla,Rishika Floriana,residential,30000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Shimla,Rishika Floriana,commercial,50000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Shimla,Emperium Palm Drive Sector 19A,residential,35000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Shimla,Emperium Palm Drive Sector 19A,commercial,57000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Shimla,DLF,commercial,85000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Shimla,DLF,residential,55000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Shimla,Eldeco Green,residential,35000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Shimla,Eldeco Green,commercial,57000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Shimla,Eldeco Paradiso,residential,35000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Shimla,Eldeco Paradiso,commercial,57000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Shimla,Liberty,residential,35000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Shimla,Liberty,commercial,57000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Shimla,NYRA,residential,35000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Shimla,NYRA,commercial,57000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,SiwahKheri,Shiv Nagar,residential,7800,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,SiwahKheri,Shiv Nagar,commercial,19000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,SiwahKheri,Manmohan Nagar,residential,7800,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,SiwahKheri,Manmohan Nagar,commercial,19000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,SiwahKheri,Amba Colony,residential,7800,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,SiwahKheri,Amba Colony,commercial,19000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Sondhapur,Extension of village abadi,residential,7800,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Sondhapur,Extension of village abadi,commercial,19000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Siwah,Rishika,residential,30000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Panipat,Siwah,Rishika,commercial,50000,2026-04-01,panipat_gov_in_dc_notification

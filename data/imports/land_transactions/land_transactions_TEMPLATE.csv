@@ -1,0 +1,2 @@
+district,tehsil,village,sector_type,price_per_sq_yard_inr,area_sq_yards,lat,lng,transaction_date,source,deed_id,consideration_inr,area_unit,notes
+Gurugram,Manesar,Example Village,industrial,0,0,28.3500,76.9300,2025-01-15,jamabandi_deed,,,sqm,REPLACE this row — price=consideration/area_sq_yards; area_sq_yards=sqm/0.836

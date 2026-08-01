@@ -1,0 +1,229 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Hisar,Adampur,MandiAdampur,Nehri Chahi,agricultural,483.47,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,MandiAdampur,Barani Tibba,agricultural,250.0,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,MandiAdampur,Tal,agricultural,363.64,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,KharaBarwala,Nehri Chahi,agricultural,380.17,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,KharaBarwala,Barani Tibba,agricultural,250.0,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,KharaBarwala,Tal,agricultural,363.64,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Kalirawan,Nehri Chahi,agricultural,347.11,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Kalirawan,Barani Tibba,agricultural,227.27,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Kalirawan,Tal,agricultural,404.96,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,KharaMahajan,Nehri Chahi,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,KharaMahajan,Barani Tibba,agricultural,181.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,KharaMahajan,Tal,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Asa,Nehri Chahi,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Asa,Barani Tibba,agricultural,181.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Asa,Tal,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,BhodiaBishnoiyan,Nehri Chahi,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,BhodiaBishnoiyan,Barani Tibba,agricultural,181.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,BhodiaBishnoiyan,Tal,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Chabarwal,Nehri Chahi,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Chabarwal,Barani Tibba,agricultural,181.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Chabarwal,Tal,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,ChuliBagrian,Nehri Chahi,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,ChuliBagrian,Barani Tibba,agricultural,181.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,ChuliBagrian,Tal,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,ChuliKalan,Nehri Chahi,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,ChuliKalan,Barani Tibba,agricultural,181.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,ChuliKalan,Tal,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,ChuliKhurd,Nehri Chahi,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,ChuliKhurd,Barani Tibba,agricultural,181.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,ChuliKhurd,Tal,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Dadwa,Nehri Chahi,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Dadwa,Barani Tibba,agricultural,181.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Dadwa,Tal,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Khairpur,Nehri Chahi,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Khairpur,Barani Tibba,agricultural,181.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Khairpur,Tal,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Sarangpur,Nehri Chahi,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Sarangpur,Barani Tibba,agricultural,190.08,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Sarangpur,Tal,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Bagla,Nehri Chahi,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Bagla,Barani Tibba,agricultural,198.35,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Bagla,Tal,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Siswal,Nehri Chahi,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Siswal,Barani Tibba,agricultural,181.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Siswal,Tal,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Kabrel,Nehri Chahi,agricultural,349.17,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Kabrel,Barani Tibba,agricultural,181.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Kabrel,Tal,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Mohabbatpur,Nehri Chahi,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Mohabbatpur,Barani Tibba,agricultural,181.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Mohabbatpur,Tal,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,ModaKhera,Nehri Chahi,agricultural,295.45,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,ModaKhera,Barani Tibba,agricultural,181.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,ModaKhera,Tal,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Asarwa,Nehri Chahi,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Asarwa,Barani Tibba,agricultural,181.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Asarwa,Tal,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Mahalsara,Nehri Chahi,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Mahalsara,Barani Tibba,agricultural,181.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Mahalsara,Tal,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Sadalpur,Nehri Chahi,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Sadalpur,Barani Tibba,agricultural,181.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Sadalpur,Tal,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Milsara,Nehri Chahi,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Milsara,Barani Tibba,agricultural,181.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Milsara,Tal,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Kohli,Nehri Chahi,agricultural,332.64,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Kohli,Barani Tibba,agricultural,181.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Kohli,Tal,agricultural,295.45,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Ladwi,Nehri Chahi,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Ladwi,Barani Tibba,agricultural,181.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Ladwi,Tal,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Kajla,Nehri Chahi,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Kajla,Barani Tibba,agricultural,181.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Kajla,Tal,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Malapur,Nehri Chahi,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Malapur,Barani Tibba,agricultural,181.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Malapur,Tal,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,NyoliKhurd,Nehri Chahi,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,NyoliKhurd,Barani Tibba,agricultural,181.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,NyoliKhurd,Tal,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,IchhaKharkari,Nehri Chahi,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,IchhaKharkari,Barani Tibba,agricultural,181.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,IchhaKharkari,Tal,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,JakhodKhera,Nehri Chahi,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,JakhodKhera,Barani Tibba,agricultural,181.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,JakhodKhera,Tal,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Adampur,Nehri Chahi,agricultural,285.12,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Adampur,Barani Tibba,agricultural,181.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Adampur,Tal,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,DhaniMohabbatpur,Nehri Chahi,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,DhaniMohabbatpur,Barani Tibba,agricultural,181.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,DhaniMohabbatpur,Tal,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,MandiAdampur,Mandi Adampur,residential,3300,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,MandiAdampur,Mandi Adampur,commercial,8400,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,KharaBarwala,Khara Barwala,residential,2800,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,KharaBarwala,Khara Barwala,commercial,8400,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Kalirawan,Kalirawan,residential,1600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Kalirawan,Kalirawan,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,KharaMahajan,Khara Mahajan,residential,1600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,KharaMahajan,Khara Mahajan,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Asa,Asa,residential,1600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Asa,Asa,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,BhodiaBishnoiyan,Bhodia Bishnoiyan,residential,1600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,BhodiaBishnoiyan,Bhodia Bishnoiyan,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Chabarwal,Chabarwal,residential,1600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Chabarwal,Chabarwal,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,ChuliBagrian,Chuli Bagrian,residential,1600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,ChuliBagrian,Chuli Bagrian,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,ChuliKalan,Chuli Kalan,residential,1600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,ChuliKalan,Chuli Kalan,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,ChuliKhurd,Chuli Khurd,residential,1600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,ChuliKhurd,Chuli Khurd,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Dadoli,Dadoli,residential,1600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Dadoli,Dadoli,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Khairpur,Khairpur,residential,1600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Khairpur,Khairpur,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Sarangpur,Sarangpur,residential,1600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Sarangpur,Sarangpur,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Bagla,Bagla,residential,1600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Bagla,Bagla,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Siswal,Siswal,residential,1600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Siswal,Siswal,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Kabrel,Kabrel,residential,1650,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Kabrel,Kabrel,commercial,3630,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Mohabbatpur,Mohabbatpur,residential,1600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Mohabbatpur,Mohabbatpur,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,DhaniMohabbatpur,Dhani Mohabbatpur,residential,1600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,DhaniMohabbatpur,Dhani Mohabbatpur,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,ModaKhera,Moda Khera,residential,1600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,ModaKhera,Moda Khera,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Asarwa,Asarwa,residential,1600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Asarwa,Asarwa,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Mahalsara,Mahalsara,residential,1600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Mahalsara,Mahalsara,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Sadalpur,Sadalpur,residential,1600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Sadalpur,Sadalpur,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Milsara,Milsara,residential,1600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Milsara,Milsara,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Kohli,Kohli,residential,1600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Kohli,Kohli,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Ladwi,Ladwi,residential,1600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Ladwi,Ladwi,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Kajla,Kajla,residential,1600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Kajla,Kajla,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Malapur,Malapur,residential,1600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Malapur,Malapur,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,NyoliKhurd,Nyoli Khurd,residential,1600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,NyoliKhurd,Nyoli Khurd,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,IchhaKharkari,Ichha Kharkari,residential,1600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,IchhaKharkari,Ichha Kharkari,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,JakhodKhera,Jakhod Khera,residential,1600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,JakhodKhera,Jakhod Khera,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Adampur,Adampur,residential,1610,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Adampur,Adampur,commercial,3300,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,MandiAdampur,Residential Khasra block 1,residential,4840,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,MandiAdampur,Residential Khasra block 2,residential,3200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,MandiAdampur,Residential Khasra block 3,residential,4070,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,MandiAdampur,Residential Khasra block 4,residential,3200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,MandiAdampur,Residential Khasra block 5,residential,3800,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,MandiAdampur,Residential Khasra block 6,residential,5500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,MandiAdampur,Model Town,residential,14300,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,MandiAdampur,Jawahar Nagar near Railway Station,residential,4620,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,MandiAdampur,Boga Mandi Residential,residential,5830,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,MandiAdampur,Commercial Khasra road depth 50ft,commercial,12100,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,MandiAdampur,Housing Board Colony,commercial,14300,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,MandiAdampur,College Road,commercial,10340,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,MandiAdampur,Kranti Chowk to Main Bazar No.15,commercial,30000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,MandiAdampur,Boga Mandi Lal Dora,commercial,30000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,MandiAdampur,Ladies Market Lal Dora,commercial,25000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,MandiAdampur,Cloth Market Lal Dora,commercial,23100,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,MandiAdampur,Kranti Chowk to College Road both sides up to Lal Dora,commercial,18000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,MandiAdampur,Near Bypass Hisar Road,commercial,10340,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,MandiAdampur,New Grain Market,commercial,56100,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,MandiAdampur,Additional Grain Market / New Mandi Township / Private Grain Market,commercial,56100,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,MandiAdampur,Cotton Market,commercial,55000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,MandiAdampur,Kranti Chowk to High School Bypass,commercial,28600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,MandiAdampur,Kranti Chowk to Old Grain Market,commercial,28600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,MandiAdampur,Old Grain Market,commercial,31200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,MandiAdampur,Cloth Market HUDA / Model Town commercial,commercial,24000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Adampur,Khasra 44//21,residential,4840,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Adampur,Bhadra Road Bypass Khasra 90//10,commercial,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,KharaBarwala,Residential Khasra block 1,residential,3410,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,KharaBarwala,Residential Khasra block 2,residential,2700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,KharaBarwala,Residential Khasra block 3,residential,2860,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,KharaBarwala,Residential Khasra block 4,residential,3450,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,KharaBarwala,Residential Khasra block 5,residential,4400,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,KharaBarwala,Khairampur Road near Vishnu Nagar both sides 100ft,commercial,12100,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,KharaBarwala,Dadoli Road both sides 100ft,commercial,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,KharaBarwala,Hanuman Mandir Road,commercial,12100,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,MandiAdampur,Agricultural land adjacent to Abadi,agricultural,1068.18,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,KharaBarwala,Agricultural land adjacent to Abadi,agricultural,1068.18,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Kabrel,Main Road,commercial,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Kabrel,General Residential Area,residential,2500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,MandiAdampur,Adampur to Agroha Road first 2 acres,agricultural,1136.36,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,MandiAdampur,Adampur to Agroha Road first 2 acres,residential,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,MandiAdampur,Adampur to Agroha Road first 2 acres,commercial,6000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,MandiAdampur,Adampur to Agroha Road next 3 acres beyond 2,agricultural,475.21,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,MandiAdampur,Adampur to Agroha Road next 3 acres beyond 2,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,MandiAdampur,Adampur to Agroha Road next 3 acres beyond 2,commercial,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,MandiAdampur,Adampur to Bhadra Road first 2 acres,agricultural,1136.36,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,MandiAdampur,Adampur to Bhadra Road first 2 acres,residential,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,MandiAdampur,Adampur to Bhadra Road first 2 acres,commercial,6000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,MandiAdampur,Adampur to Bhadra Road next 3 acres beyond 2,agricultural,475.21,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,MandiAdampur,Adampur to Bhadra Road next 3 acres beyond 2,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,MandiAdampur,Adampur to Bhadra Road next 3 acres beyond 2,commercial,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,MandiAdampur,Adampur to Siswal Road first 2 acres,agricultural,867.77,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,MandiAdampur,Adampur to Siswal Road first 2 acres,residential,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,MandiAdampur,Adampur to Siswal Road first 2 acres,commercial,6000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Adampur,Adampur to Agroha Road first 2 acres,agricultural,1136.36,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Adampur,Adampur to Agroha Road first 2 acres,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Adampur,Adampur to Agroha Road first 2 acres,commercial,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Adampur,Adampur to Agroha Road next 3 acres beyond 2,agricultural,477.27,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Adampur,Adampur to Bhadra Road first 2 acres,agricultural,1136.36,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Adampur,Adampur to Bhadra Road first 2 acres,residential,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Adampur,Adampur to Bhadra Road first 2 acres,commercial,6000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Adampur,Adampur to Bhadra Road next 3 acres beyond 2,agricultural,475.21,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Adampur,Adampur to Bhadra Road next 3 acres beyond 2,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Adampur,Adampur to Bhadra Road next 3 acres beyond 2,commercial,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Adampur,Adampur to Siswal Road first 2 acres,agricultural,867.77,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Adampur,Adampur to Siswal Road next 3 acres beyond 2,agricultural,475.21,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Adampur,Adampur to Siswal Road next 3 acres beyond 2,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Adampur,Adampur to Siswal Road next 3 acres beyond 2,commercial,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Kalirawan,Adampur to Agroha Road first 2 acres,agricultural,1136.36,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Kalirawan,Adampur to Agroha Road next 3 acres beyond 2,agricultural,477.27,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Kohli,Adampur to Agroha Road first 2 acres,agricultural,1136.36,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Kohli,Adampur to Agroha Road next 3 acres beyond 2,agricultural,477.27,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Adampur,Mohabbatpur,Adampur Bhadra/Siswal Main Road first 2 acres,agricultural,1136.36,2026-04-01,hisar_gov_in_dc_notification

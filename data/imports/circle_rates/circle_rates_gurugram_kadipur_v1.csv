@@ -1,0 +1,220 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Gurugram,Kadipur,10A,"Sector-10, 10A",residential,82800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,10A,"Sector-10, 10A",commercial,170775,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Inst land plot Other Area,Inst Land Plot Other Area,commercial,26620,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Instt school plot etc,Huda Sec and L Colony,commercial,34000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Kadipur,Aanaj mandi to Limit Mc,commercial,112530,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Kadipur,Aanaj Mandi to Limit MC GGN,commercial,112530,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Kadipur,Any converted industrial use,commercial,14520,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Kadipur,Any Religious Place,commercial,15125,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Kadipur,Bhutesar Mandir to Pataudi chowk,commercial,112530,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Kadipur,Gandhi Nagar,residential,51750,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Kadipur,Gandhi Nagar,commercial,52800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Kadipur,Hari Nagar,residential,47610,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Kadipur,Hari Nagar,commercial,56925,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Kadipur,Kadipur,agricultural,10000.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Kadipur,Kadipur,residential,48300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Kadipur,Kadipur,commercial,72000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Kadipur,Kadipur Industrial Use,commercial,63525,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Kadipur,Krishan Nagar,residential,49500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Kadipur,Krishan Nagar,commercial,52800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Kadipur,Major Road 10 Percent,agricultural,11000.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Kadipur,Major Road 10 Percent,agricultural,11000.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Kadipur,Prem Nagar Basai Road,residential,43560,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Kadipur,Prem Nagar Basai Road,commercial,64130,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Kadipur,Ravi Nagar,residential,32670,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Kadipur,Ravi Nagar,commercial,63525,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Kadipur,Saraswati Enclave,residential,34787,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Kadipur,Saraswati Enclave,commercial,50820,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Kadipur,Shakti Nagar,residential,31900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Kadipur,Shakti Nagar,commercial,46200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Kadipur,Shakti park kadipur,residential,37950,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Kadipur,Shakti park kadipur,commercial,75600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Kadipur,Shiv Nagar,residential,45540,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Kadipur,Shiv Nagar,commercial,56925,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Kadipur,Shivaji Park kadipur,residential,51678,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Kadipur,Shivaji Park kadipur,commercial,57420,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Kadipur,Vikash Nagar,residential,32670,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Kadipur,Vikash Nagar,commercial,50820,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Khandsa,Any Religious Place,commercial,15125,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Khandsa,Hari Nagar,residential,45100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Khandsa,Hari Nagar,commercial,56100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Khandsa,Khandsa,agricultural,10000.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Khandsa,Khandsa,residential,32890,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Khandsa,Khandsa,commercial,69437,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Khandsa,Land Converted into Indst. Use,commercial,16560,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Khandsa,Land Converted into Indst. Use,commercial,16560,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Khandsa,Land Converted into Indst. Use,industrial,14520,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Khandsa,NH48 25 Percent,agricultural,12500.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Khandsa,Saraswati Enclave,residential,34787,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Khandsa,Saraswati Enclave,commercial,50820,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Khandsa,SEZ Industrial,industrial,18150,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Khedki Majra Dhankot,Agri open pub utility,agricultural,3000.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Khedki Majra Dhankot,Agri open space NPR,agricultural,3750.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Khedki Majra Dhankot,Any Religious Place,commercial,15125,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Khedki Majra Dhankot,Kherki Majra Dhankot,agricultural,5176.86,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Khedki Majra Dhankot,Kherki Majra Dhankot,residential,27720,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Khedki Majra Dhankot,Kherki Majra Dhankot,commercial,46464,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Khedki Majra Dhankot,Nazafgarh Drain Area,agricultural,500.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Khedki Majra Dhankot,NPR 25 Percent,agricultural,11250.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Khedki Majra Dhankot,R Zone Com Ind Inst.,agricultural,9000.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Gadauli Kalan,Any Religious Place,commercial,15125,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Gadauli Kalan,Gadauli Kalan,agricultural,18078.51,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Gadauli Kalan,Gadauli Kalan,residential,26400,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Gadauli Kalan,Gadauli Kalan,commercial,58231,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Gadauli Kalan,NPR 25 Percent,agricultural,19705.58,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Gadauli Khurd,Any Religious Place,commercial,15125,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Gadauli Khurd,Gadauli Khurd,agricultural,12763.64,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Gadauli Khurd,Gadauli Khurd,residential,27830,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Gadauli Khurd,Gadauli Khurd,commercial,58231,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Gadauli Khurd,Manjor Road 10 Percent,agricultural,12870.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Gadauli Khurd,Saraswati Enclave,residential,37812,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Gadauli Khurd,Saraswati Enclave,commercial,50820,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Tikampur,Any Religious Place,commercial,15125,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Tikampur,NPR 25 Percent,agricultural,15437.5,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Tikampur,Tikampur,agricultural,14085.12,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Tikampur,Tikampur,residential,13200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Tikampur,Tikampur,commercial,15730,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Daultabad,Agri open pub utility,agricultural,3750.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Daultabad,Agri open pub utility,commercial,26620,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Daultabad,Agri open space NPR,agricultural,4687.5,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Daultabad,Any Religious Place,commercial,15125,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Daultabad,Daultabad,agricultural,8135.33,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Daultabad,Daultabad,residential,15870,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Daultabad,Daultabad,commercial,34606,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Daultabad,Industrial Area Daultabad,residential,26620,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Daultabad,Nazafgarh Drain Area,agricultural,875.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Daultabad,NPR 25 Percent,agricultural,11250.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Daultabad,R Zone Com Ind Inst.,agricultural,9000.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Dhankot,Agri open pub utility,agricultural,3250.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Dhankot,Agri open space NPR,agricultural,4431.82,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Dhankot,Any Religious Place,commercial,15125,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Dhankot,Dhankot,agricultural,5950.41,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Dhankot,Dhankot,residential,21120,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Dhankot,Dhankot,commercial,23655,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Dhankot,NH48 25 Percent,agricultural,11250.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Dhankot,NH48 25 Percent,agricultural,11250.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Dhankot,R Zone Com Ind Inst.,agricultural,9000.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Dhankot,R Zone Com Ind Inst.,agricultural,9000.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Dhanwapur,Agri open pub utility,agricultural,3750.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Dhanwapur,Agri open space NPR,agricultural,4687.5,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Dhanwapur,Any Religious Place,commercial,15125,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Dhanwapur,Dhanwapur,agricultural,8460.74,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Dhanwapur,Dhanwapur,residential,30030,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Dhanwapur,Dhanwapur,commercial,26620,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Dhanwapur,Laxman Vihar,residential,44633,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Dhanwapur,Laxman Vihar,commercial,53240,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Dhanwapur,Nazafgarh Drain Area,agricultural,500.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Dhanwapur,NPR 25 Percent,agricultural,11250.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Dhanwapur,R Zone Com Ind Inst.,agricultural,9000.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Dhanwapur,Ram Vihar,residential,41745,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Dhanwapur,Ram Vihar,commercial,50820,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Dhanwapur,Surya Vihar,residential,37375,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Dhanwapur,Surya Vihar,commercial,50600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Dhanwapur,Surat Nagar,residential,42693,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Dhanwapur,Surat Nagar,commercial,50820,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Dharampur,Any Religious Place,commercial,15125,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Dharampur,Dharampur,agricultural,7592.98,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Dharampur,Dharampur,residential,16445,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Dharampur,Dharampur,commercial,38115,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Dharampur,Nazafgarh Drain Area,agricultural,500.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Dharampur,NPR 25 Percent,agricultural,11250.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Dharampur,R Zone Com Ind Inst.,agricultural,9000.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Narsinghpur,Any Religious Place,commercial,15125,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Narsinghpur,Converted Land industrial use,agricultural,9000.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Narsinghpur,Converted Land industrial use,commercial,14520,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Narsinghpur,Converted Land industrial use,industrial,14520,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Narsinghpur,Land Converted into Ind. use,industrial,14520,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Narsinghpur,Narsinghpur,agricultural,12913.22,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Narsinghpur,Narsinghpur,agricultural,24200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Narsinghpur,Narsinghpur,residential,27830,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Narsinghpur,Narsinghpur,commercial,34155,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Narsinghpur,Narsinghpur,industrial,32670,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Narsinghpur,NH48 25 Percent,agricultural,14062.5,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Pawala Khusrupur,Agri open pub utility,agricultural,4000.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Pawala Khusrupur,Agri open space NPR,agricultural,5000.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Pawala Khusrupur,Any Religious Place,commercial,15125,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Pawala Khusrupur,Laxman Vihar,residential,39600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Pawala Khusrupur,Laxman Vihar,commercial,61600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Pawala Khusrupur,New Palam Vihar,residential,44000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Pawala Khusrupur,New Palam Vihar,commercial,58300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Pawala Khusrupur,NPR 25 Percent,agricultural,11875.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Pawala Khusrupur,Pawala khusrupur,agricultural,8677.69,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Pawala Khusrupur,Pawala khusrupur,residential,37800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Pawala Khusrupur,Pawala khusrupur,commercial,70180,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Pawala Khusrupur,R Zone Com Ind Inst.,agricultural,9500.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Pawala Khusrupur,Rajendra Park,residential,39278,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Pawala Khusrupur,Rajendra Park,commercial,50820,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Basai,Basai,agricultural,16363.64,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Basai,Basai,residential,23276,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Basai,Basai,commercial,49335,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Basai,Basai Colony,residential,30360,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Basai,Basai Colony,commercial,36300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Basai,Basai Enclave,residential,36300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Basai,Basai Enclave,commercial,45375,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Basai,Bhawani Enclave,residential,29040,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Basai,Bhawani Enclave,commercial,45375,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Basai,Devilal Colony,residential,45097,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Basai,Devilal Colony,commercial,50820,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Basai,Krishna Nagar,residential,39215,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Basai,Krishna Nagar,commercial,50820,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Basai,NPR 25 Percent,agricultural,18000.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Basai,"Temple,masjid,Church etc",commercial,15125,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Begampur Khatola,Any Industrial Use,commercial,23250,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Begampur Khatola,Any Industrial Use,industrial,29837,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Begampur Khatola,Any Religious Place,commercial,17600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Begampur Khatola,Begampur Khatola,agricultural,19473.14,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Begampur Khatola,Begampur Khatola,residential,40950,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Begampur Khatola,Begampur Khatola,commercial,82940,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Begampur Khatola,Begampur Khatola,industrial,17050,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Mohammadpur Jharsa,Any Religious Place,commercial,15125,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Mohammadpur Jharsa,Land Converted into Inds. Use,commercial,20631,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Mohammadpur Jharsa,Mohammadpur Jharsa,agricultural,10710.74,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Mohammadpur Jharsa,Mohammadpur Jharsa,residential,18150,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Mohammadpur Jharsa,Mohammadpur Jharsa,commercial,26620,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Mohammadhedi,Agri open pub utility,agricultural,3250.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Mohammadhedi,Agri open space NPR,agricultural,4062.5,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Mohammadhedi,Any Religious Place,commercial,15125,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Mohammadhedi,Mohammadpur Hedi,agricultural,4633.26,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Mohammadhedi,Mohammadpur Hedi,agricultural,3250.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Mohammadhedi,Mohammadpur Hedi,residential,13000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Mohammadhedi,Mohammadpur Hedi,commercial,19360,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Mohammadhedi,NPR 25 Percent,agricultural,11250.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Mohammadhedi,R Zone Com Ind Inst.,agricultural,9000.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Sector,Any Religious Place,commercial,15125,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Sector,Insti school plot L Colony,commercial,34000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Sector,Insti school plot L Colony,institutional,34000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Sector,Insti school site without roof,commercial,8470,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Sector,License colony,residential,92160,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Sector,License colony,commercial,252000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Sector,License colony,institutional,34000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Sector,New Huda Sector,residential,83520,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Sector,New Huda Sector,commercial,354375,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Sector,New Huda Sector,institutional,54400,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Sector,Pace City-II,commercial,61875,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Sector,Pace City-II,industrial,56925,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Sector,Sec-34,commercial,67600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Sector,Sec-34,industrial,45540,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Sector,Sec-37,residential,75900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Sector,Sec-37,commercial,86625,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Sector,Sec-37,industrial,66125,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Sector,"Sector 10,10A",residential,104400,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Sector,"Sector 10,10A",commercial,170775,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Sector,"Sector 33,34,35,36,37,37A",residential,85800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Sector,"Sector 33,34,35,36,37,37A",commercial,354375,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Sector,Sector 37C 37D,residential,85800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Sector,Sector 37C 37D,commercial,354375,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Sector,"Sector 71, 72A,73,74,75,75A",residential,96600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Sector,"Sector 71, 72A,73,74,75,75A",commercial,240000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Sector,"Sector 9, 9A",residential,95881,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Sector,"Sector 9, 9A",commercial,213468,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Sector,"Sector 9, 9A",institutional,53650,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Sector,"Sector 9, 9A",institutional,48100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Sector,Sector 99 to 110,residential,83520,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Sector,Sector 99 to 110,commercial,252000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Sector,Udyog Vihar,commercial,59202,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Sector,Udyog Vihar,industrial,65000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Housing Board Kalony,"Sector-10, 10A of HB",residential,104400,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Housing Board Kalony,"Sector-10, 10A of HB",commercial,163350,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Housing Board Kalony,"Sector-9, 9A of HB",residential,95881,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Kadipur,Housing Board Kalony,"Sector-9, 9A of HB",commercial,163350,2026-04-01,gurugram_gov_in_dc_notification

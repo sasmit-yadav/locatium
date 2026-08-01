@@ -1,0 +1,320 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Faridabad,Badkhal,Ajronda,Ajronda,residential,34375,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Ajronda,Ajronda,commercial,39600,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Anangpur,Anangpur,agricultural,2892.56,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Anangpur,Anangpur,agricultural,681.82,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Anangpur,Anangpur,residential,23000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Anangpur,Anangpur,commercial,36250,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Ankhir,Ankhir,agricultural,2272.73,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Ankhir,Ankhir,agricultural,826.45,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Ankhir,Ankhir,agricultural,1033.06,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Ankhir,Ankhir,residential,29900,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Ankhir,Ankhir,commercial,57500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Ankhir,SGM Nagar,residential,25500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Ankhir,SGM Nagar,commercial,49000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,KheriGujran,Kheri Gujran,agricultural,2000.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,KheriGujran,Kheri Gujran,agricultural,2500.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,KheriGujran,Kheri Gujran,residential,10000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,KheriGujran,Kheri Gujran,commercial,17000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Gajipur,Gajipur,agricultural,3000.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Gajipur,Gajipur,residential,14500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Gajipur,Gajipur,commercial,20000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Dabua,Dabua,agricultural,4443.18,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Dabua,Dabua,residential,28750,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Dabua,Dabua,commercial,46500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Dabua,Dabua Colony,residential,25000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Dabua,Dabua Colony,commercial,63000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Dabua,Dabua R.Zone,agricultural,4250.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Daultabad,Daultabad,residential,45000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Daultabad,Daultabad,commercial,46250,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,NanglaGujran,Nangla Gujran,agricultural,5619.83,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,NanglaGujran,Nangla Gujran,agricultural,6842.98,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,NanglaGujran,Nangla Gujran,residential,23000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,NanglaGujran,Nangla Gujran,commercial,23500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,NavadaKoh,Navada Koh,agricultural,3545.45,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,NavadaKoh,Navada Koh,residential,21850,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,NavadaKoh,Navada Koh,commercial,27000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Pakhal,Pakhal,agricultural,2376.03,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Pakhal,Pakhal,agricultural,2970.04,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Pakhal,Pakhal,residential,10000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Pakhal,Pakhal,commercial,17000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Pali,Pali,agricultural,3625.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Pali,Pali,agricultural,4531.25,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Pali,Pali,agricultural,847.11,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Pali,Pali,residential,11000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Pali,Pali,commercial,20000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,1-2Chk-HawraChk-gurudwara chk,commercial,158000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,All GHS co-op City,residential,6400,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,All HSVP LIC cly Floors,residential,6600,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,AllLicensedColonyFaridabad city,residential,6900,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,All NIT Flat Floors,residential,7540,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Any other Ind. 1 Acre and Above,commercial,15400,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Any other Ind. 1 Acre and Above,industrial,15000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Any.oth Ind. 1000Sqy to 2000Sqy,commercial,22100,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Any.oth Ind. 1000Sqy to 2000Sqy,industrial,21000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Any.oth Ind. 2000Sqy to 1 Acre,industrial,18500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Any.other Ind. 1Sqy to 1000Sqy,industrial,28750,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,B.K.-K.C. Road,commercial,134000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Badkhal,agricultural,2500.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Badkhal,agricultural,675.21,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Badkhal,residential,29900,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Badkhal,commercial,51000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Charmwood Colony,residential,60950,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Charmwood Colony,commercial,85000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Com. Com. First Floor,commercial,7700,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Com. Complex Basement,commercial,6600,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Com. Complex Ground Floor,commercial,11000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Com.Complex Fourth Floor,commercial,7000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Com.Complex Second Floor,commercial,9625,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Com.Complex Third Floor,commercial,8750,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,CommercialFifthFloorand above,commercial,8750,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Dayalbag,residential,45000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Dayalbag,commercial,73000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Eros Colony,residential,75000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Eros Colony,commercial,80000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Ex. Sainik- Society,residential,43000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Ex. Sainik- Society,commercial,73000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Faridabad Old,residential,25000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Faridabad Old,commercial,61000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Frontier Colony,residential,53750,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Frontier Colony,commercial,61000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Gandhi Colony,residential,19000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Gandhi Colony,commercial,37000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Green Valley,residential,72800,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Green Valley,commercial,85000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Greenfield Colony,residential,59800,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Greenfield Colony,commercial,89000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Hardware Cwk.to.B.K.Cwk.,commercial,158000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Housing Board Floor or Flat,residential,7500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Indra Colony,residential,24000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Indra Colony,commercial,41000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Kant Enclave,residential,37000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Kant Enclave,commercial,80000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Lakewood City upto 500,residential,56350,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Lakewood City upto 500,commercial,85000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Lekwood City above 500,residential,61100,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Lekwood City above 500,commercial,85000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Mathura Rd.Ind. Above 2 Acre,commercial,42500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Mathura Rd.Ind. Above 2 Acre,industrial,32775,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Mathura Rd.Ind. 1000 to 2000 Sy.,commercial,68000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Mathura Rd.Ind. 1000 to 2000 Sy.,industrial,43000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Mathura Rd.Ind. 1 Acre to 2 Acre,commercial,49000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Mathura Rd.Ind. 1 Acre to 2 Acre,industrial,28500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Mathura Rd.Ind. 1 to 1000 S.Y.,commercial,79000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Mathura Rd.Ind. 1 to 1000 S.Y.,industrial,55000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Mathura Rd.Ind. 2000 Sy. to 1 Acre,commercial,61000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Mathura Rd.Ind. 2000 Sy. to 1 Acre,industrial,35000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Neelam Bata Road,residential,97000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Neelam Bata Road,commercial,106000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Neelam to Railway Station Road,commercial,154100,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Nehru Ground Above 151,residential,70150,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Nehru Ground Above 151,commercial,97000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Nehru Ground Upto 151SqYd.,residential,65000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Nehru Ground Upto 151SqYd.,commercial,100000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,New Cly. Opp.Rly. Stn.,residential,23000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,New Cly. Opp.Rly. Stn.,commercial,42500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,New Colony Opp.Rly. Station,residential,23500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,New Colony Opp.Rly. Station,commercial,42500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,New DLF MM Pur IND 1001-2000 sq.yds.,commercial,73000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,New DLF MM Pur IND 1001-2000 sq.yds.,industrial,27000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,New DLF MM Pur IND 2001 sq.yds.-1 Acre,commercial,73000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,New DLF MM Pur IND 2001 sq.yds.-1 Acre,industrial,25000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,NewDLFMMPurINDAbove2 Acre,commercial,73000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,NewDLFMMPurINDAbove2 Acre,industrial,22000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,NewDLFMMPurINDupto1000 sq.yds.,commercial,73000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,NewDLFMMPurINDupto1000 sq.yds.,industrial,30000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,NH 1 500 to 1500 sq.yards,residential,48100,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,NH 1 500 to 1500 sq.yards,commercial,121000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,NH 1 more 101 to 500 sq.yards,residential,52900,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,NH 1 more 101 to 500 sq.yards,commercial,158750,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,NH 1 more then 1500 s.yards,residential,34500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,NH 1 more then 1500 s.yards,commercial,49000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,NH 2 101 to500 sq.yards,residential,46000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,NH 2 101 to500 sq.yards,commercial,97000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,NH 2 500 to 1500 sq.yards,residential,54000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,NH 2 500 to 1500 sq.yards,commercial,97000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,NH 2 more then 1500 sq.yards,residential,34500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,NH 2 more then 1500 sq.yards,commercial,97000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,NH 2 Upto 100 Sq Yrd.,residential,51000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,NH 2 Upto 100 Sq Yrd.,commercial,127000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,NH 3 101 to 500 sq.yards,residential,51175,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,NH 3 101 to 500 sq.yards,commercial,97000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,NH 3 500 sq.yards and above,residential,46500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,NH 3 500 sq.yards and above,commercial,97000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,NH 3 Upto 100 Sq Yrd,residential,51000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,NH 3 Upto 100 Sq Yrd,commercial,121000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,NH 4 101 to 500 sq.yards,residential,42500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,NH 4 101 to 500 sq.yards,commercial,97000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,NH4more500sq.yardsand above,residential,42500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,NH4more500sq.yardsand above,commercial,97000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,NH 4 Upto 100 sq yard,residential,49000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,NH 4 Upto 100 sq yard,commercial,97000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,NH 5 101 to 500 sq.yards,residential,58125,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,NH 5 101 to 500 sq.yards,commercial,115000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,NH5morethen500sq.yardsand above,residential,58125,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,NH5morethen500sq.yardsand above,commercial,97000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,NH 5 Upto 100 Sq Yard,residential,58650,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,NH 5 Upto 100 Sq Yard,commercial,122000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,NH-1 upto 100 Sq. Yrds,residential,58650,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,NH-1 upto 100 Sq. Yrds,commercial,146050,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,NIT Ind area 1000 to 2000 Sq,commercial,73000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,NIT Ind area 1000 to 2000 Sq,industrial,21000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,NIT Ind Area2000S.y.to1Acre,commercial,73000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,NIT Ind Area2000S.y.to1Acre,industrial,18500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,NIT Ind. 1 Acre and Above,industrial,24000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,NIT Ind. 1 to1000 Sq.yds,commercial,73000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,NIT Ind. 1 to1000 Sq.yds,industrial,31250,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Opp.B.K. Hospital,commercial,134000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Pali Crusher Zone,residential,13500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Pali Crusher Zone,commercial,13500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sanjay Colony,residential,29000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sanjay Colony,commercial,49000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sarai Khwaja IND 1000-2000SY.,commercial,67000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sarai Khwaja IND 1000-2000SY.,industrial,21000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sarai Khwaja IND 1to1000SY.,commercial,67000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sarai Khwaja IND 1to1000SY.,industrial,31250,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sarai Khwaja IND 2000SY-1Acre.,commercial,67000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sarai Khwaja IND 2000SY-1Acre.,industrial,19000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sarai Khwaja IND Above1Acre,commercial,67000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sarai Khwaja IND Above1Acre,industrial,16000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sec.46 above 500 sq.yd,residential,52200,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sec.46 above 500 sq.yd,commercial,73000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sec.46 above 500 sq.yd,commercial,78500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sec-15A 1 to 250,residential,75000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sec-15A 1 to 250,commercial,102000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sec-15A 1 to 250,commercial,92000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sec-15A 250 to 500,residential,68900,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sec-15A 250 to 500,commercial,97000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sec-15A 250 to 500,commercial,92000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sec-16A 1 to 250,residential,66300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sec-16A 1 to 250,commercial,111550,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sec-16A 1 to 250,commercial,104000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sec-16A 250 to 500,residential,62400,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sec-16A 250 to 500,commercial,97000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sec-16A 250 to 500,commercial,104000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sec-27Ind. 1000 S.Y. to 2000 S.Y.,residential,28500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sec-27Ind. 1000 S.Y. to 2000 S.Y.,commercial,73000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sec-27Ind. 1000 S.Y. to 2000 S.Y.,industrial,26450,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sec-27Ind. 1 to 1000 Sq. Yds.,residential,24200,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sec-27Ind. 1 to 1000 Sq. Yds.,commercial,73000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sec-27Ind. 1 to 1000 Sq. Yds.,industrial,37700,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sec-27Ind. 2000 S.Y. to 1 Acre,residential,19800,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sec-27Ind. 2000 S.Y. to 1 Acre,commercial,73000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sec-27Ind. 2000 S.Y. to 1 Acre,industrial,24700,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector - 49,residential,51750,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector - 49,commercial,127750,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector - 12,commercial,201250,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector - 12,industrial,108900,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector12 Hotel Shopping Mall Multiplex Per Sq Yds,commercial,109000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector -15 1 to 250,residential,66000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector -15 1 to 250,commercial,169000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector -15 1 to 250,commercial,121000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector -16-A above 500Sq.yds.,residential,52500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector -16-A above 500Sq.yds.,commercial,97000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector -16-A above 500Sq.yds.,industrial,102850,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector -16-A above 500Sq.yds.,commercial,105000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector -21C above 500Sq.yds.,residential,59280,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector -21C above 500Sq.yds.,commercial,96800,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector -21C above 500Sq.yds.,industrial,107000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector -21C above 500Sq.yds.,commercial,107000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector -37 250 to 500,residential,64350,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector -37 250 to 500,commercial,97000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector -37 250 to 500,commercial,109000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector -45 and 48 Above 500 SQ,residential,35000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector -45 and 48 Above 500 SQ,commercial,80000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector-12 SCF SCO Booth,commercial,195025,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector-15 250 to 500,residential,88400,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector-15 250 to 500,commercial,121000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector-15 250 to 500,commercial,121000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector-15 above 500 sq.yds.,residential,106400,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector-15 above 500 sq.yds.,commercial,121000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector-15 above 500 sq.yds.,industrial,121000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector-15 above 500 sq.yds.,commercial,121000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector-15-A above 500sq.yds.,residential,46500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector-15-A above 500sq.yds.,commercial,97000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector-15-A above 500sq.yds.,industrial,96800,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector-15-A above 500sq.yds.,commercial,91000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,"Sector-20A, B 1000-2000SqYds.",residential,45500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,"Sector-20A, B 1000-2000SqYds.",commercial,115000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,"Sector-20A, B 1000-2000SqYds.",commercial,61000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,"Sector-20A, B 1Acre-2Acre.",residential,33000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,"Sector-20A, B 1Acre-2Acre.",commercial,100000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,"Sector-20A, B 1Acre-2Acre.",commercial,36500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,"Sector-20A, B 2000SqYds-1Acre.",residential,40000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,"Sector-20A, B 2000SqYds-1Acre.",commercial,110000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,"Sector-20A, B 2000SqYds-1Acre.",commercial,55000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,"Sector-20A, B Above 2Acre.",residential,33000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,"Sector-20A, B Above 2Acre.",commercial,90000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,"Sector-20A, B Above 2Acre.",commercial,36500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,"Sector-20A, B upto 1000SqYds.",residential,52000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,"Sector-20A, B upto 1000SqYds.",commercial,120000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,"Sector-20A, B upto 1000SqYds.",commercial,73000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector-21C 1 to 250,residential,63250,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector-21C 1 to 250,commercial,180000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector-21C 1 to 250,commercial,138710,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector-21C 250 to 500,residential,58125,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector-21C 250 to 500,commercial,97000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector-21C 250 to 500,commercial,106700,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector-21D 1 to 250,residential,63700,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector-21D 1 to 250,commercial,252000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector-21D 1 to 250,commercial,106700,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector-21D 250 to 500,residential,60900,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector-21D 250 to 500,commercial,97000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector-21D 250 to 500,commercial,106500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector-21D above500Sq.yds.,residential,54050,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector-21D above500Sq.yds.,commercial,97000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector-21D above500Sq.yds.,industrial,107000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector-21D above500Sq.yds.,commercial,107000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector-37 1 to 250,residential,78650,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector-37 1 to 250,commercial,131675,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector-37 1 to 250,commercial,109000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector-37 above 500Sq.yds.,residential,60625,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector-37 above 500Sq.yds.,commercial,97000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector-37 above 500Sq.yds.,industrial,109000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector-37 above 500Sq.yds.,commercial,109000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector-45 and 48 1 to 250,residential,58750,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector-45 and 48 1 to 250,commercial,73000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector-45 and 48 1 to 250,commercial,79000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector-45 and 48 250 to 500,residential,47500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector-45 and 48 250 to 500,commercial,79000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector-46 1 to 250,residential,56250,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector-46 1 to 250,commercial,189000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector-46 1 to 250,commercial,77500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector-46 250 to 500,residential,60175,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector-46 250 to 500,commercial,73000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,Sector-46 250 to 500,commercial,78000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,SGM Nagar,residential,32500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Badkhal,SGM Nagar,commercial,51000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Bajri,Bajri,agricultural,3272.73,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Bajri,Bajri,agricultural,4090.91,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Bajri,Bajri,residential,10000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Bajri,Bajri,commercial,17500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Bhankri,Bhankri,agricultural,3421.49,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Bhankri,Bhankri,agricultural,4276.86,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Bhankri,Bhankri,residential,14300,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Bhankri,Bhankri,commercial,20000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Manyaru,Manyaru,agricultural,3750.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Manyaru,Manyaru,residential,15000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Manyaru,Manyaru,commercial,27000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,MewlaMahrajpur,Mewla Mahrajpur,agricultural,3502.07,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,MewlaMahrajpur,Mewla Mahrajpur,agricultural,826.45,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,MewlaMahrajpur,Mewla Mahrajpur,residential,32500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,MewlaMahrajpur,Mewla Mahrajpur,commercial,33350,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Lakkarpur,Lakkarpur,agricultural,7159.09,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Lakkarpur,Lakkarpur,agricultural,3750.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Lakkarpur,Lakkarpur,agricultural,1309.09,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Lakkarpur,Lakkarpur,residential,24000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Lakkarpur,Lakkarpur,commercial,60900,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,SaraiKhawaja,Sarai Khawaja,agricultural,5795.45,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,SaraiKhawaja,Sarai Khawaja,agricultural,625.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,SaraiKhawaja,Sarai Khawaja,residential,35000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,SaraiKhawaja,Sarai Khawaja,commercial,52200,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Saran,Dabua Colony,residential,25500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Saran,Dabua Colony,commercial,42500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,JawaharColony,Jawahar Colony,residential,27000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,JawaharColony,Jawahar Colony,commercial,42500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,SanjayColony,Sanjay Colony,residential,26000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,SanjayColony,Sanjay Colony,commercial,49000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Saran,Saran,agricultural,3875.0,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Saran,Saran,residential,32500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Badkhal,Saran,Saran,commercial,54050,2026-04-01,faridabad_gov_in_dc_notification

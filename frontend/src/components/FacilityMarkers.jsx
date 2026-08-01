@@ -1,20 +1,35 @@
 import { useCallback, useEffect, useRef } from 'react';
 import maplibregl from 'maplibre-gl';
 import { colors } from '../design-system/tokens';
+import { LAYER_PRIMARY_COLOR } from '../config/layer-registry';
 
-const [c0, c1, c2, c3] = colors.dataCategorical;
-
-const LAYER_COLORS = {
-  'social-infrastructure': c3,
-  transportation: c0,
-  utilities: c2,
+/** Distinct category fallbacks when a specific table color is unknown. */
+const CATEGORY_COLORS = {
+  'social-infrastructure': '#dc2626',
+  transportation: '#2563eb',
+  utilities: '#f59e0b',
+  environmental: '#166534',
+  cadastral: '#db2777',
+  administrative: '#c2410c',
+  'industrial-investment': '#f59e0b',
 };
 
 const LAYER_LABELS = {
   'social-infrastructure': 'Social Infrastructure',
-  'transportation': 'Transportation',
-  'utilities': 'Utilities',
+  transportation: 'Transportation',
+  utilities: 'Utilities',
 };
+
+function resolveFacilityColor(layerId, feature) {
+  const tableHint =
+    feature?.properties?.table ||
+    feature?.properties?.tableId ||
+    feature?.properties?.layer_table ||
+    feature?.tableId ||
+    null;
+  if (tableHint && LAYER_PRIMARY_COLOR[tableHint]) return LAYER_PRIMARY_COLOR[tableHint];
+  return CATEGORY_COLORS[layerId] || colors.dataCategorical[4] || '#64748b';
+}
 
 /**
  * Component to display facility markers on the map from HARSAC query results
@@ -65,7 +80,7 @@ export function FacilityMarkers({
           layerData.features.forEach(feature => {
             allFeatures.push({
               ...feature,
-              layerColor: LAYER_COLORS[layerId] || colors.dataCategorical[4],
+              layerColor: resolveFacilityColor(layerId, feature),
               layerLabel: LAYER_LABELS[layerId] || layerId
             });
           });

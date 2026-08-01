@@ -21,10 +21,18 @@ export async function getInvestorOpportunities({
   risk = 'medium',
   zoneType = '',
   district = '',
+  landData = '',
+  sourceLayer = '',
+  utilityMin = '',
+  availability = '',
+  minScore = '',
+  maxRatePerSqYard = '',
+  maxLandCr = '',
   limit = 6,
   nearLat = null,
   nearLng = null,
   nearRadiusKm = 25,
+  nearMe = false,
 } = {}) {
   const params = new URLSearchParams();
   params.set('sector', sector);
@@ -33,10 +41,17 @@ export async function getInvestorOpportunities({
   if (budget) params.set('budget', budget);
   if (zoneType) params.set('zoneType', zoneType);
   if (district) params.set('district', district);
-  if (nearLat != null && nearLng != null) {
+  if (landData) params.set('landData', landData);
+  if (sourceLayer) params.set('sourceLayer', sourceLayer);
+  if (utilityMin) params.set('utilityMin', utilityMin);
+  if (availability) params.set('availability', availability);
+  if (minScore) params.set('minScore', String(minScore));
+  if (maxRatePerSqYard) params.set('maxRatePerSqYard', String(maxRatePerSqYard));
+  if (maxLandCr) params.set('maxLandCr', String(maxLandCr));
+  if (nearMe && nearLat != null && nearLng != null) {
     params.set('nearLat', String(nearLat));
     params.set('nearLng', String(nearLng));
-    params.set('nearRadiusKm', String(nearRadiusKm));
+    params.set('nearRadiusKm', String(nearRadiusKm || 25));
   }
 
   const res = await fetch(`${getMapsApiOrigin()}/api/investor/opportunities?${params.toString()}`);

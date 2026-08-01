@@ -1,0 +1,215 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Panchkula,Panchkula,Panchkula,"Building Material, Iran Store Site",commercial,29087.2,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,CPB B. UP Sec 14,commercial,111288.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"CPB H.C.Sec 14,19",commercial,111288.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"DSS Sec 2,4,12,12A,16,17,18 and MDC",commercial,278221.39,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"DSS Sec 23, 24",commercial,250399.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"DSS Sec 5,6,11,14,15,21",commercial,278221.39,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,Grain Market Booth 20 (40Mtrs),commercial,91054.27,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,Grain Market SCO 20,commercial,111288.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,Grain Market Shopping mall shop site,commercial,39930,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"Hotel and Club Sec 4, 5, 6 MDC",commercial,275922.88,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"Hotel and Club Sec 10, 20",commercial,303515.08,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,Hotel and Club Sec 16,commercial,275922.88,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,Hotel and Club Sec 17,commercial,220738.47,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,Hotel and Club Sec 18,commercial,211541.07,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"Hotel and Club Sec 19, 25, 26",commercial,193146.26,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"Hotel and Club Sec 2, 12, 12A",commercial,252929.37,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"Hotel and Club Sec 23, 24",commercial,227636.52,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"Hotel and Club Sec 27, 28",commercial,165554.06,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,Hotel and Club Sec 3,commercial,182109.38,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,Hotel and Club Sec 4,commercial,275922.88,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"Hotel and Club Sec 5,6,14,15,21",commercial,252929.37,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"Hotel and Club Sec 7,8,9,11",commercial,317311.18,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"Inner Market Com. P Booth Sec 10,16,20",commercial,236488.6,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,Inner Market Com. P Booth Sec 14,commercial,189195.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"Inner Market Com. P Booth Sec 8,9,11",commercial,283785.82,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"Inner Market DSS Sec 11, 14",commercial,236488.6,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,Inner Market DSS Sec 16,commercial,236488.6,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"Inner Market DSS Sec 8,9,10,20",commercial,283785.82,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"Inner Market SCF Sec 10,16",commercial,189190.55,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"Inner Market SCF Sec 8,9,11,20",commercial,212839.57,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,Inner Market SCO Sec 11,commercial,160812.38,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"Inner Market SCO Sec 14, 16",commercial,156082.41,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,Inner Market SCO Sec 20,commercial,189190.55,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"Inner Market SCO Sec 8,9,10",commercial,189190.55,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"Inner Market Service Booth Sec 10, 11, 20",commercial,170271.49,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"Inner Market Service Booth Sec 14, 16",commercial,170271.49,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"Inner Market Service Booth Sec 8, 9",commercial,179731.44,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"Inst School Club Hotel HUDA Lic colony sec 2,4,12,12A,14,16-21,23-31",commercial,139110.69,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"Inst School Club Hotel HUDA Lic colony sec 6-10,11,15 MDC 4,5,6",commercial,166932.83,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,IT Park Sec 22 Above 2000 Sq Mtr,commercial,25596.37,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,IT Park Sec 22 Upto 1000 Sq Mtr,commercial,30047.91,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,IT Park Sec 22 Upto 2000 Sq Mtr,commercial,27822.14,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,Mata Mansa Devi Small Booth upto 8 Sq Mtr,commercial,166932.83,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"Nursing Home, Clinic sites Sec 10, 11",commercial,68981.35,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"Nursing Home, Clinic sites Sec 12, 21",commercial,62083.3,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"Nursing Home, Clinic sites Sec 12A, 14, 20",commercial,51563.14,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"Nursing Home, Clinic sites Sec 2, 4, 15 to 18",commercial,53805.63,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"Nursing Home, Clinic sites Sec 23,24,25,26",commercial,49666.8,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"Nursing Home, Clinic sites Sec 27,28,31,19",commercial,38629.09,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"Nursing Home, Clinic sites Sec 4,5,6 MDC",commercial,75879.4,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"Nursing Home, Clinic sites Sec 6,7,8,9",commercial,75879.4,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,S V Basement,commercial,7986,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"SCF 0,27,28 O.S.",commercial,177049.98,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"SCF MDC Sec 4,5,6",commercial,166932.83,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"SCF Sec 2,3,12A",commercial,200319.4,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"School, Hospital, Church",commercial,51598.26,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"SCO MDC Sec 4,5,6",commercial,189190.55,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,SCO Sec 20,commercial,242811.39,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"SCO Sec 7,8,9,10",commercial,263045.68,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,Scooter Rep.S.Booth 20,commercial,111288.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"Sec 12A, 14, 20 Pref, A Road, Corner plots",residential,91351.1,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"Sec 2 MDC and remaining plot of MDC Pref, A Road, Corner plots",residential,77170.38,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"Sec 23, 24, 25, 26 Pref, A Road, Corner plots",residential,81705.53,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"Sec 4, 5, 6 MDC Pref, A Road, Corner plots",residential,173830.88,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"Sector 10, 11 Pref, A Road, Corner plots",residential,144482.81,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"Sector 12, 21 Pref. A Road, Corner plots",residential,102131.29,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,Service Booth Other Sector,commercial,227635.68,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"Service Booth Sec. 2, 4, 14, 16 and MDC",commercial,236741.11,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"Service Booth Sec 6, 10, 11, 12, 12A, 15, 20",commercial,200319.4,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,Shopping mall shop site,commercial,39930,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,SV SCO SCF GF,commercial,13310,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,SV SCO/SCF FF,commercial,11314,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,SV SCO/SCF SF,commercial,9317,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,The Madanpur Co op Housing Building Society Ltd,residential,38501,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,The Madanpur Co op Housing Building Society Ltd Prime,residential,45201,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,IE above 2000 sqm,residential,25596.37,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,IE above 2000 sqm,commercial,25596.37,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,IE above 2000 sqm,industrial,36491.11,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,IE upto 2000 sqm,commercial,27822.14,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,IE upto 1000 sqm,residential,30047.91,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,CP Booth IE,commercial,132442.58,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"DSS Shop 25,26,27,28 oth. sec",commercial,166932.83,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,Mansa Devi Mandir Small Booth,commercial,116347.13,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Abhaypur,Commercial,commercial,32727.27,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Abhaypur,HUDA Phirni,commercial,22000.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Asrewali,Asrewali 1,agricultural,495.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Asrewali,Asrewali 1,agricultural,440.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Asrewali,Asrewali 1,agricultural,412.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Asrewali,Asrewali 1,agricultural,357.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Asrewali,Asrewali 1,residential,2860.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Kanauli,Kanauli 1,agricultural,519.75,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Kanauli,Kanauli 1,agricultural,2220.62,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Kanauli,Kanauli 1,agricultural,433.12,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Kanauli,Kanauli 1,agricultural,346.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Kanauli,Kanauli 1,residential,4420.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Kundi,Kundi 1,residential,20072.73,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Kot,Aravali infratech Pvt Ltd Kot,residential,27501,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Kot,Aravali infratech Pvt Ltd Kot,commercial,21451,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Kot,ASM Sigma Venture Pvt Ltd Kot,residential,30801,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Kot,ASM Sigma Venture Pvt Ltd Kot,commercial,27501,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Kot,Sunlit Infracon LLP Kot,residential,38501,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Kot,Sunlit Infracon LLP Kot,commercial,22001,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Kot,Unity Meadows LLP Kot,residential,30801,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Kot,Unity Meadows LLP Kot,commercial,22001,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Kot,Unnati Developers Kot,residential,30801,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Kot,Kot 1,agricultural,1512.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Kot,Link Road Madhawala to Dabkori,agricultural,2337.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Khangesra,Khangesra 1,agricultural,2062.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Khangesra,Khangesra 1,agricultural,3187.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Khangesra,Khangesra 1,agricultural,1512.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Khangesra,Khangesra 1,agricultural,2337.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Khangesra,Khangesra 1,commercial,30801,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,SigmaKhangesra,Sigma Khangesra,agricultural,784.09,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,SigmaKhangesra,Sigma Khangesra,agricultural,2383.64,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Khetparali,Khetparali 1,agricultural,385.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Khetparali,Khetparali 1,agricultural,330.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Khetparali,Khetparali 1,residential,2860.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Chandimandir,Chandimandir 1,agricultural,2812.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Chandimandir,Chandimandir 1,agricultural,5062.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Chandimandir,Chandimandir 1,residential,10836.22,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Chauki,Chauki 1,agricultural,1595.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Chauki,Chauki 1,residential,17600.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Jaswantgarh,Jaswantgarh,residential,3909.98,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Tibbi,Tibbi 1,agricultural,330.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Tibbi,Tibbi 1,agricultural,275.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Tibbi,Tibbi 1,residential,2989.98,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Toka,Toka 1,agricultural,412.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Toka,Toka 1,agricultural,2200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Toka,Toka 1,agricultural,330.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Toka,Toka 1,agricultural,275.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Toka,Toka 1,residential,4400.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Dabkori,Dabkori 1,residential,3740.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Dabkori,Dabkori 1,commercial,8140.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Dulopur,Dulopur 1,agricultural,247.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Dulopur,Dulopur 1,agricultural,220.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Dulopur,Dulopur 1,residential,2860.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Devinagar,Devinagar 1,residential,17600.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,NaggalMoginand,Naggal Moginand 1,agricultural,2812.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Nandla,Nandla 1,agricultural,550.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Nandla,Nandla 1,agricultural,330.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Nandla,Nandla 1,agricultural,275.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Nandla,Nandla 1,residential,2860.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Nada,Nada 1,agricultural,2062.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Nada,Nada 1,agricultural,2250.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Fatehpur,Fatehpur 1,agricultural,2887.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Fatehpur,Fatehpur 1,residential,19200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,BannaMadanpur,Banna Madanpur 1,agricultural,2035.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,BannaMadanpur,Banna Madanpur 1,agricultural,3712.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Billa,Aravali infratech Pvt Ltd Billa,residential,19801,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Billa,Aravali infratech Pvt Ltd Billa,commercial,27501,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Billa,ASM Sigma Venture Pvt Ltd Billa,residential,21451,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Billa,ASM Sigma Venture Pvt Ltd Billa,commercial,30801,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Billa,Billa Khasra Nos under 900 Mtr,agricultural,2200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Billa,Billa Link Road and Khasra No of Mustil No 8,agricultural,1650.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Billa,Billa Prim Land,agricultural,3712.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Billa,Sunlit Infracon LLP Billa,commercial,66001,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Billa,Sunlit Infracon LLP Billa,residential,27501,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Billa,Unity Meadows LLP Billa,commercial,38501,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Billa,Unity Meadows LLP Billa,residential,22001,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Billa,Unnati Developers Billa,commercial,30801,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Billa,Unnati Developers Billa,residential,22001,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Billa,Billa 1,agricultural,1299.38,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,BirFirozdi,Bir Firozdi 1,agricultural,1299.38,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,BirBabupur,Bir Babupur 1,agricultural,1299.38,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Budhanpur,Budhanpur 1,residential,22690.91,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Budhanpur,Budhanpur 1,commercial,22000.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Bunga,Bunga Prime,agricultural,2090.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Bunga,Bunga 1,agricultural,412.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Bunga,Bunga 1,agricultural,357.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Bhanu,Bhanu 1,agricultural,1299.38,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Bhanu,Bhanu 1,residential,3740.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,BhainsaTibba,Bhainsa Tibba 1,agricultural,3176.34,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Majri,Majri 1,commercial,39100.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Mankya,Mankya 1,agricultural,2250.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Mankya,Mankya 1,agricultural,5062.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Mankya,Mankya 1,agricultural,1650.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Ratewali,Ratewali 1,agricultural,330.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Ratewali,Ratewali 1,agricultural,325.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Ratewali,Ratewali 1,residential,3740.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Ramgarh,Ramgarh 1,agricultural,1925.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Ramgarh,Ramgarh 1,agricultural,2100.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Ramgarh,Ramgarh 1,residential,12000.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Shyamtoo,Shyamtoo 1,agricultural,330.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Shyamtoo,Shyamtoo 1,agricultural,275.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Shyamtoo,Shyamtoo 1,residential,4400.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Saketri,Saketri 1,agricultural,3176.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Sabilpur,Sabilpur 1,agricultural,687.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Sabilpur,Sabilpur 1,agricultural,2090.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Sabilpur,Sabilpur 1,agricultural,450.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Sabilpur,Sabilpur 1,agricultural,2280.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Sabilpur,Sabilpur 1,agricultural,330.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Sabilpur,Sabilpur 1,agricultural,275.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Sabilpur,Sabilpur 1,residential,2009.93,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"GHS 23, 24, 25, 26, 27, 28, 31",residential,4174,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,GHS Others Sector,residential,4174,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,GHS MDC Others Sector,residential,5700,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"GHS MDC Sector 4, 5",residential,6325,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,GHS Sector 6,residential,7260,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,GHS Sector 20,residential,5320,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,GHS Sector 14,residential,4810,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,GHS Sector 17,residential,5450,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,HSVP Residential Site Ground Floor,residential,1520,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,HSVP Residential Site 1st and 2nd Floor and Basement,residential,1520,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,Covered Area for Housing Board,residential,1520,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,HSVP Commercial Site Ground Floor,commercial,1520,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,HSVP Commercial Site Basement and other floors,commercial,1520,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,Abadi Deh (where not fixed),residential,2836.36,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,Covered Area of Houses of all villages,residential,594,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,Covered Area villages in MC limit Panchkula,residential,858,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,"Site facing HUDA sectors / Phirni (Haripur,Rally,Maheshpur,Fatehpur,Budanpur,Bhainsa Tibba,Kundi Madanpur,Abhepur,Saketri)",commercial,6900.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,NH-73 & NH-22 both sides upto 100 feet,commercial,35545.45,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,From village Nada to Ramgarh,commercial,27181.82,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,From Billa to Bir Firozdi,commercial,12545.45,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Panchkula,Panchkula,Night Food Street Sector 5,commercial,41806.37,2026-04-01,panchkula_gov_in_dc_notification

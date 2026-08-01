@@ -1,0 +1,117 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Faridabad,Gaunchi,Auli,Auli,agricultural,1375.00,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Auli,Auli,agricultural,1718.80,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Auli,Auli,residential,7000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Auli,Auli,commercial,10000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,KabulpurBangar,Kabulpur Bangar,agricultural,1750.00,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,KabulpurBangar,Kabulpur Bangar,agricultural,2187.50,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,KabulpurBangar,Kabulpur Bangar,residential,5500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,KabulpurBangar,Kabulpur Bangar,commercial,9000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Karnera,Karnera,agricultural,3281.25,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Karnera,Karnera,agricultural,4101.65,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Karnera,Karnera,residential,7000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Karnera,Karnera,commercial,10000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,DM Road IND 1000-2000 SQYDS,commercial,59500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,DM Road IND 1000-2000 SQYDS,industrial,40000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,DM Road IND 1Acre-2ACRE,commercial,35500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,DM Road IND 1Acre-2ACRE,industrial,27500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,DM Road IND 2000-4840 SQYDS,commercial,54000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,DM Road IND 2000-4840 SQYDS,industrial,33000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,DM Road IND Above 2ACRE,commercial,35500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,DM Road IND Above 2ACRE,industrial,27500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,DM Road IND upto 1000 SQYDS,commercial,71500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,DM Road IND upto 1000 SQYDS,industrial,52000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,Gaunchhi-INDL-1001TO2500SY,commercial,12500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,Gaunchhi-INDL-1001TO2500SY,industrial,12500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,Gaunchhi-INDL-1Acre to 2Acre,industrial,10000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,Gaunchhi-INDL-2500To1Acre,industrial,11000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,Gaunchhi-INDL-2Acre to 4Acre,industrial,8500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,Gaunchhi-INDL-4Acre and above,industrial,8000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,Gaunchhi-INDL-upto 1000 SQYDS,commercial,21000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,Gaunchhi-INDL-upto 1000 SQYDS,industrial,21000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,Gaunchi,agricultural,3375.00,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,Gaunchi,agricultural,4218.80,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,Gaunchi,residential,28750,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,Gaunchi,commercial,49450,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,Gaunchi Along With Road,agricultural,3375.00,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,Gaunchi Along With Road,agricultural,4725.00,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,Gaunchi INDL 2-4 Acre,industrial,8500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,Gaunchi INDL Above 4 Acre,industrial,8000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,Jiwan Nagar Part 1 and 2,residential,25000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,Jiwan Nagar Part 1 and 2,commercial,49450,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,Parvatiya Colony,residential,31250,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,Parvatiya Colony,commercial,43000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,Rajeev Colony,residential,25000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,Rajeev Colony,commercial,43000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,Sanjay Colony Sect-23,residential,31875,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,Sanjay Colony Sect-23,commercial,49450,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,Sec-22 23 SCO SCF Booth,commercial,92000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,SEC-5 ABOVE 4 ACRE,commercial,12500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,SEC-5 IND 2500 TO 1 ACRE,commercial,16500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,Sec-55 56 56A SCO SCF Booth,commercial,40000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,Sector 5 upto 1000 SYD,commercial,23000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,Sector 5 1 Acre to 2 Acre,commercial,15500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,Sector 5 1000 to 2500 sq yds,commercial,18000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,Sector 5 2 Acre to 4 Acre,commercial,15000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,Sector-22,residential,56550,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,Sector-22,commercial,133000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,Sector-23,residential,47500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,Sector-23,commercial,81250,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,Sector-55,residential,41600,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,Sector-55,commercial,42000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,Sector-56,residential,35000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,Sector-56,commercial,42000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,Sector-56A,residential,35000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Gaunchi,Sector-56A,commercial,42000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Jakopur,Jakopur,agricultural,1375.00,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Jakopur,Jakopur,agricultural,1718.80,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Jakopur,Jakopur,residential,5500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Jakopur,Jakopur,commercial,9000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,FirojpurKalan,Firojpur Kalan,agricultural,1375.00,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,FirojpurKalan,Firojpur Kalan,agricultural,1718.80,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,FirojpurKalan,Firojpur Kalan,residential,7000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,FirojpurKalan,Firojpur Kalan,commercial,10000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Bijopur,Bijopur,agricultural,2084.38,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Bijopur,Bijopur,agricultural,2605.92,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Bijopur,Bijopur,residential,5500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Bijopur,Bijopur,commercial,9000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Bhanakpur,Bhanakpur,agricultural,1500.00,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Bhanakpur,Bhanakpur,agricultural,1875.00,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Bhanakpur,Bhanakpur,residential,7000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Bhanakpur,Bhanakpur,commercial,10000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Mujesar,Mujesar,agricultural,4000.00,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Mujesar,Mujesar,agricultural,5000.00,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Mujesar,Mujesar,residential,26250,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Mujesar,Mujesar,commercial,64000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Mujesar,Mujesar IND 1001 to 2500 SY,industrial,21875,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Mujesar,Mujesar IND 1Acre to 2Acre,industrial,10000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Mujesar,Mujesar IND 2501 to 1Acre,industrial,11000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Mujesar,Mujesar IND 2Acre to 4 Acre,industrial,9000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Mujesar,Mujesar IND Above 4 Acre,industrial,8500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Mujesar,Mujesar IND upto 1000 SY,industrial,29000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Ladhiyapur,Ladhiyapur,agricultural,1718.75,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Ladhiyapur,Ladhiyapur,agricultural,2148.50,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Ladhiyapur,Ladhiyapur,residential,5500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Ladhiyapur,Ladhiyapur,commercial,9000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Sarurpur,Sarur Pur-INDL-1Acreto2Acre,industrial,10000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Sarurpur,Sarurpur,agricultural,3272.73,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Sarurpur,Sarurpur,agricultural,4090.91,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Sarurpur,Sarurpur,residential,15000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Sarurpur,Sarurpur,commercial,28000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Sarurpur,Sarurpur-INDL Above 4 Acre,industrial,8500,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Sarurpur,Sarurpur-INDL 2 acre to 4 acre,industrial,9000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Sarurpur,SarurPur-INDL-1000To2500Sq-,industrial,15000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Sarurpur,SarurPur-INDL-2500To1Acre,industrial,12000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Sarurpur,SarurPur INDL upto 1000 sq.yd,industrial,20000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Sikrona,Sikrona,agricultural,1875.00,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Sikrona,Sikrona,agricultural,2343.80,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Sikrona,Sikrona,residential,9000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,Sikrona,Sikrona,commercial,11000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,NITIndustrial,NIT IND 1001 to 2000 SY,commercial,73000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,NITIndustrial,NIT IND 1001 to 2000 SY,industrial,21000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,NITIndustrial,NIT IND 1 Acre and above,commercial,73000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,NITIndustrial,NIT IND 1 Acre and above,industrial,15000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,NITIndustrial,NIT IND 1 upto 1000 SY,commercial,73000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,NITIndustrial,NIT IND 1 upto 1000 SY,industrial,25000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,NITIndustrial,NIT IND 2000 SY To 1 Acre,commercial,73000,2026-04-01,faridabad_gov_in_dc_notification
+Faridabad,Gaunchi,NITIndustrial,NIT IND 2000 SY To 1 Acre,industrial,18500,2026-04-01,faridabad_gov_in_dc_notification

@@ -1,0 +1,700 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Kurukshetra,Shahbad,अटवान,कृषि चाही,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,अटवान,रिहायशी,residential,3500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,अटवान,हरीपुर तक 2 एकड तक,agricultural,785.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,अहमदपुर,कृषि चाही,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,अहमदपुर,रिहायशी,residential,3200,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,अहमदपुर,हिबाना लिंक रोड दो एकड तक,agricultural,785.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कठवा,आवासिय 1000वर्गगज तक,residential,3500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कठवा,कृषि भूमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कठवा,मा0 के बीच की भूमि,agricultural,495.87,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कठवा,व्यवसायिक,commercial,4700,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कठवा,सडक से एक एकड से 2 एकड,agricultural,785.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कतलाहेडी,कतलाडी लिंक रोड 2एकड तक,agricultural,785.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कतलाहेडी,कृषि भूमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कतलाहेडी,रिहायशी,residential,3200,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कतलाहेडी,व्यवसायिक,commercial,4700,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कलसाना,आवासिय,residential,3500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कलसाना,कलसाना रोड पर 2 एकड तक,agricultural,764.46,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कलसाना,कलसाना से फतेहगढ़ झरौली,agricultural,764.46,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कलसाना,कृषि भूमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कलसाना,मा0 के बीच की भूमि,agricultural,516.53,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कलसाना,व्यवसायिक,commercial,5000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कलसानी,आवासिय,residential,4000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कलसानी,कृषि भूमि,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कलसानी,ठोल रोड के ऊपर दो एकड़ तक,agricultural,1033.06,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कलसानी,व्यवसायिक,commercial,6000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कल्याणा,आवासिय,residential,3800,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कल्याणा,गाँव से शाहबाद रोड 2एकड,agricultural,1074.38,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कल्याणा,जी0टी0 रोड के साथ,agricultural,2066.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कल्याणा,व्यवसायिक,commercial,6200,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कल्याणा,कृषि भूमि,agricultural,991.74,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,अनाज मन्दी के पीछे जन्देड़ी रोड पर कृषि भूमि,agricultural,1069.21,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,अनाज मन्दी के पीछे जन्देड़ी रोड पर रिहायशी,residential,5000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,अनाज मन्दी के पीछे जन्देड़ी रोड पर व्यवसायिक,commercial,10000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,अन्य कृषि भूमि M.C.के अन्दर,agricultural,1198.35,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,अमर कलोनी,residential,7000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,अमर कालोनी,commercial,21000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,आनन्द गली,residential,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,आनन्द गली,commercial,17000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,आवासिय M.C. से बाहर,residential,7000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,इन्द्र मण्डी,residential,7000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,इन्द्र मण्डी,commercial,25300,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,उधम चौक कुटिया के न०आबादी,agricultural,1652.89,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,उधम चौक कुटिया के न०आबादी,residential,5500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,उधम चौक कुटिया के न०आबादी,commercial,17000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,उधम सिंह चौक से डेहा कालोनी,residential,7000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,उधम सिंह चौक से डेहा कालोनी,commercial,23000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,एम सी बाहर कृषि भूमि,agricultural,971.07,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,एस.सी. बाहर अन्य कृषि भूमि,agricultural,971.07,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,करता राम चौक,residential,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,करता राम चौक,commercial,17000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,का० गैस एजैन्सी से पशु म० तक,agricultural,1859.5,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,का० गैस एजैन्सी से पशु म० तक,residential,5000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,का० गैस एजैन्सी से पशु म० तक,commercial,15000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,कानफैंड गैस एजैन्सी,residential,5500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,कानफैंड गैस एजैन्सी,commercial,16000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,कृष्णा कोल्ड स्टोर,residential,7000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,कृष्णा कोल्ड स्टोर,commercial,21000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,गीता मन्दिर 4 मरला क्वार्टर,residential,9000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,गीता मन्दिर 4 मरला क्वार्टर,commercial,22000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,चीमा एन्क्लेव व गुरदेव कलोनी,residential,7500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,चीमा एन्क्लेव व गुरदेव कलोनी,commercial,21000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,जी.टी रोड के साथ गैरमुमकिन व्यवसायिक,commercial,11000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,जी.टी रोड पर कृषि भूमि,agricultural,2066.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,न०पा० से विजय कलोनी तक,residential,7000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,न०पा० से विजय कलोनी तक,commercial,22000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,नई अनाज मण्डी,commercial,40000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,नई अनाज म० के बाहर बराडा रोड,agricultural,1859.5,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,नई अनाज म० के बाहर बराडा रोड,residential,7000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,नई अनाज म० के बाहर बराडा रोड,commercial,26000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,पंचकुला रोड पर 2 एकड तक,agricultural,2066.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,पीर मुकदम साहिब डेहा कलोनी,residential,5500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,पीर मुकदम साहिब डेहा कलोनी,commercial,18000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,पुराना डाक व लाईब्रेरी बाजार,residential,6000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,पुराना डाक व लाईब्रेरी बाजार,commercial,21000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,पुरानी आबादी से पट्टी रावी,agricultural,1859.5,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,पुरानी आबादी से पट्टी रावी,residential,6000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,पुरानी आबादी से पट्टी रावी,commercial,18000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,पुलिया माजरी,residential,5500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,पुलिया माजरी,commercial,15000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,पुलिस चौंकी,residential,6000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,पुलिस चौंकी,commercial,20000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,बराडा चौंक के रैस्ट हाउस तक,residential,7000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,बराडा चौंक के रैस्ट हाउस तक,commercial,20000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,बराडा रोड 2एकड एम सी के अन्दर,agricultural,1859.5,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,बराडा रोड पर रिहायशी,residential,7000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,बराडा रोड पर व्यवसायिक,commercial,16000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,बालिमकी बस्ती,residential,7000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,बालिमकी बस्ती,commercial,14000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,मन्दिर ठाकुर द्वारा,residential,6875,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,मन्दिर ठाकुर द्वारा,commercial,14000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,मा0 के बीच की भूमि चाही,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,माजरी मौ0,residential,6000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,माजरी मौ0,commercial,21000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,मौ0 गडरियान,residential,5500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,मौ० गडरियान,commercial,14000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,मौ० झिंवरान,residential,5500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,मौ० झिंवरान,commercial,18125,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,"मौ० मीरांपुर,चक्की रोशन लाल",residential,6900,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,"मौ० मीरांपुर,चक्की रोशन लाल",commercial,20000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,मौ० शाकरी,residential,5500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,मौ० शाकरी,commercial,14000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,मौ० सत्यनगर,residential,8450,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,मौ० सत्यनगर,commercial,27200,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,"मौ०खत्तरवाडा, पु0बैंक बाजार",residential,6000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,"मौ०खत्तरवाडा, पु0बैंक बाजार",commercial,21000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,रघुनाथ मन्दिर,residential,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,रघुनाथ मन्दिर,commercial,17000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,रविदास बस्ती,residential,5500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,रविदास बस्ती,commercial,17000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,राधा स्वामी सतसंग भवन,residential,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,राधा स्वामी सतसंग भवन,commercial,17000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,रामनगर से दिनारपुर लिक रोड 2एकड तक,agricultural,929.75,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,"विरककलोनी,जगीरविहार,महावीर सो",residential,7000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,"विर्रककलोनी, जागीर विहार, महावीर सो",commercial,16000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,व्यवसायिक M.C. से बाहर,commercial,11000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,सतनाम कलौंनी,residential,7000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,सतनाम कलौंनी,commercial,22000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,सत्संग भवन,residential,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,सत्संग भवन,commercial,17000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,कांकडाशाहबाद,मैदा के बीच भूमि रेत व सैलाब,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,काहनगढ,कृषि चाही,agricultural,661.16,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,काहनगढ,रिहायशी,residential,3200,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,काहनगढ,सडक पर दो एकड तक,agricultural,991.74,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,किशनगढ,आवासिय 1000 वर्गगज तक,residential,4400,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,किशनगढ,कृषि भूमि,agricultural,831.61,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,किशनगढ,किशनगढ से त्यौंडा 2 एकड तक,agricultural,1033.06,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,किशनगढ,किशनगढ से शाहबाद 2 एकड तक,agricultural,1239.67,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,किशनगढ,जी टी रोड के साथ,agricultural,2066.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,किशनगढ,व्यवसायिक,commercial,6200,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,खरीन्डवा,आवासिय 1000 वर्गगज तक,residential,3500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,खरीन्डवा,कृषि भूमि,agricultural,640.5,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,खरीन्डवा,लाडवा रोड पर 2 एकड तक,agricultural,991.74,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,खरीन्डवा,लिंक रोड खरीन्डवा,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,खरीन्डवा,व्यवसायिक,commercial,7000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,खानपुरजाटान,खानपुर लिंक रोड 2 एकड तक,agricultural,785.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,खानपुरजाटान,चार एकड के बाद,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,खानपुरजाटान,जी.टी रोड पर दो एकड तक,agricultural,1859.5,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,खानपुरजाटान,रिहायशी,residential,4000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,खेडा,Khera Agricultural Land,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,खेडा,खेडा लिंक रोड 2 एकड तक,agricultural,785.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,खेडा,रिहायशी,residential,3200,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,खेडा,व्यवसायिक,commercial,4700,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,गुमटी,अन्य कृषि भूमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,गुमटी,आवासिय,residential,4200,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,गुमटी,ठोल रोड के उपर 2 एकड तक,agricultural,1033.06,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,गुमटी,मा0 के बीच की भूमि,agricultural,516.53,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,गुमटी,व्यवसायिक,commercial,6000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,गुमटी,शाहबाद से गुमटी लिंक रोड 2एकड,agricultural,785.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,गुलाबगढ,कृषि चाही,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,गुलाबगढ,चढूनी तक लिंक रोड 2एकड तक,agricultural,785.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,गुलाबगढ,रिहायशी,residential,3200,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,गोरीपुर,आवासिय 1000वर्गगज तक,residential,3200,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,गोरीपुर,कृषि भूमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,गोरीपुर,व्यवसायिक,commercial,4700,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,गोरीपुर,सड़क से 2 एकड तक,agricultural,785.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,गोलपुरा,आवासिय 1000वर्गगज तक,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,गोलपुरा,कृषि भूमि,agricultural,640.5,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,गोलपुरा,व्यवसायिक,commercial,4700,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,गोलपुरा,सड़क के दोनो ओर 2 एकड तक,agricultural,764.46,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,चढूनीजाटान,अटवान तक दोनो ओर 2 एकड तक,agricultural,826.45,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,चढूनीजाटान,कृषि चाही,agricultural,661.16,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,चढूनीजाटान,रिहायशी,residential,3200,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,चढूनीजाटान,व्यवसायिक,commercial,4700,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,चनारथल,अन्य कृषि भूमि,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,चनारथल,कृषि जी.टी.रोड दो एकड,agricultural,2066.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,चनारथल,चनारथल व्यवसायिक,commercial,6700,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,चनारथल,रिहायशी,residential,3800,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,चनारथल,लिंक रोड 2 एकड तक,agricultural,826.45,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,छपरा,MC Limit Inside,agricultural,1678.72,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,छपरा,MC Limit Inside,residential,7000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,छपरा,अन्य कृषि भूमि M.C. के बाहर,agricultural,991.74,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,छपरा,अन्य कृषि भूमि Inside M.C.,agricultural,1947.31,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,छपरा,आवासिय M.C. से बाहर,residential,5000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,छपरा,लाडवा रोड 2 एकड तक Inside M.C.,agricultural,1859.5,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,छपरा,व्यवसायिक M.C. से बाहर,commercial,10000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,छपरा,व्यवसायिक mc के अन्दर,commercial,19550,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,छपरी,अन्य लिंक रोड,agricultural,785.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,छपरी,आवासिय 1000वर्गगज तक,residential,3500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,छपरी,कृषि भूमि,agricultural,681.82,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,छपरी,व्यवसायिक,commercial,6000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,छपरी,शाहबाद से छपरी लिंक रोड,agricultural,867.77,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,छौडपुर,आवासिय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,छौडपुर,कृषि भूमि,agricultural,661.16,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,छौडपुर,व्यवसायिक,commercial,4700,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,छौडपुर,सडक से दो एकड तक,agricultural,764.46,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,जन्धेडी,आवासिय 1000वर्गगज तक,residential,3800,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,जन्धेडी,कृषि भूमि,agricultural,940.08,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,जन्धेडी,जन्धेडी से जोजीमाजरा 2एकड तक,agricultural,971.07,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,जन्धेडी,लाडवा रोड पर 2एकड तक,agricultural,1807.85,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,जन्धेडी,लाडवा रोड से जन्धेडी रोड 2ए0,agricultural,1157.02,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,जन्धेडी,व्यवसायिक,commercial,7400,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,जन्धेडी,शाहबाद से जोजीमाजरा 2 एकडतक,agricultural,1053.72,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,जैनपुर,आवासिय 1000वर्गगज तक,residential,5200,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,जैनपुर,कृषि भूमि,agricultural,929.75,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,जैनपुर,जी0टी0रोड के साथ,agricultural,2066.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,जैनपुर,जैनपुर लिंक रोड के उपर,agricultural,991.74,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,जैनपुर,व्यवसायिक,commercial,8900,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,जोगीमाजरा,कृषि चाही,agricultural,640.5,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,जोगीमाजरा,रिहायशी,residential,4000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,जोगीमाजरा,सडक पर दो एकड तक,agricultural,1033.06,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झरौलीखुर्द,आवासिय 1000वर्गगज तक,residential,3800,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झरौलीखुर्द,कृषि भूमि,agricultural,661.16,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झरौलीखुर्द,झरौली खुर्द की तरफ 2 एकड तक,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झरौलीखुर्द,व्यवसायिक,commercial,5500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,Ananda Homes ess gee Developers,residential,15000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,Ananda Homes ess gee Developers,commercial,18000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,Arnika developers LLP Ranjit Nagar,residential,15000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,Arnika developers LLP Ranjit Nagar,commercial,18000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,Booth Built up S.Cent.I,commercial,47000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,Booth Built up Sho.Cen 11,commercial,39000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,Booth Front,commercial,39000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,Booth Sho.Cent 1,commercial,42000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,Booth Shop. Cent.II,commercial,46000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,Dhaba,commercial,39000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,Kiosk Sho.Cent 1,commercial,40500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,Kiosk Shop.Cent. II,commercial,33000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,LandMark Colony,residential,15000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,LandMark Colony,commercial,18000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,Mrishi Marcndey Enclave,residential,17250,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,Mrishi Marcndey Enclave,commercial,20000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,Narvana City,residential,17250,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,Narvana City,commercial,18000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,SCO Sho.Cent 1,commercial,41000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,SCO/Corner Sho.Cent 1,commercial,42000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,SCO/Corner Shop.Cen.II,commercial,43000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,SCO/Double Story Shop Cen.II,commercial,41000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,अटारी कलोनी व नई मण्डी के साथ,agricultural,3254.13,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,अटारी कलोनी व नई मण्डी के साथ,residential,8750,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,अटारी कलोनी व नई मण्डी के साथ,commercial,25300,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,अरूप न गुमटी रोड रिहायशी व व्य,residential,6000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,अरूप न गुमटी रोड रिहायशी व व्य,commercial,15000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,अरूप नगर कलोनी,residential,6000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,अरूप नगर कलोनी,commercial,13000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,अरूपनगर गुमटी रोड 2एकड तक,agricultural,1095.04,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,अरूपनगर गुमटी रोड 2एकड तक,residential,6000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,अरूपनगर गुमटी रोड 2एकड तक,commercial,15000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,अरूपनगर गुमटी रोड अन्य भूमि,agricultural,805.79,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,उधम सिंह कलोनी,residential,7000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,उधम सिंह कलोनी,commercial,22000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,एकता विहार,residential,14500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,एकता विहार,commercial,25000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,एरिया नज0 एलाईड कैमीकल,residential,7500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,एरिया नज0 एलाईड कैमीकल,commercial,20000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,कमेटी बाजार,residential,7000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,कमेटी बाजार,commercial,30000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,कलोनी नज0 भगत मार्किट,residential,7500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,कलोनी नज0 भगत मार्किट,commercial,21000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,कलोनी नज0 सचदेवा कोल्ड स्टोर,residential,7000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,कलोनी नज0 सचदेवा कोल्ड स्टोर,commercial,21850,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,कलोनी माया देवी नर्सिंग होम,residential,7500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,कलोनी माया देवी नर्सिंग होम,commercial,21000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,किला सिखांँ के गेट से सरबत भवन,residential,7000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,किला सिखांँ के गेट से सरबत भवन,commercial,20000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,किलां सिखां,residential,8750,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,किलां सिखां,commercial,17250,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,किशनगढ की ओर स्कूल बि0कलोनी तक,agricultural,2324.38,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,किशनगढ की ओर स्कूल बि0कलोनी तक,residential,8000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,किशनगढ की ओर स्कूल बि0कलोनी तक,commercial,18000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,खरैती लाल से मौ0 लोहारों तक,residential,7000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,खरैती लाल से मौ0 लोहारों तक,commercial,17000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,गणपति कलोनी,residential,7000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,गणपति कलोनी,commercial,27500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,गन्दा नाला से देवी मंदिर चौंक,residential,8000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,गन्दा नाला से देवी मंदिर चौंक,commercial,26000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,गुरुनानकपुरा,residential,11375,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,गुरुनानकपुरा,commercial,16000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,गोपी विहार,residential,9000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,गोपी विहार,commercial,18000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,चाहजगाधरी पु0क0दफ0सुन्दर मा0,residential,12800,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,चाहजगाधरी पु0क0दफ0सुन्दर मा0,commercial,32500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,छोटा डाक0 से खरैती होटल,residential,7000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,छोटा डाक0 से खरैती होटल,commercial,26000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,झाँसा रोड दयाल नगर 2एकड तक,agricultural,1074.38,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,झाँसा रोड दयाल नगर 2एकड तक,residential,6000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,झाँसा रोड दयाल नगर 2एकड तक,commercial,15000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,झाँसारोड दयालनगर अन्य भूमि,agricultural,929.75,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,"डी,डी विहार झामडा शाहबाद",residential,7000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,"डी,डी विहार झामडा शाहबाद",commercial,19000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,दयाल नगर कलोनी,residential,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,दयाल नगर कलोनी,commercial,13000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,दयालनगर रिहायशी व व्यवसायिक,residential,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,दयालनगर रिहायशी व व्यवसायिक,commercial,17000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,दीपक विहार,residential,8000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,दीपक विहार,commercial,25000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,दुर्गा मंदिर चौंक0,residential,7000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,दुर्गा मंदिर चौंक0,commercial,26000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,देवी मन्दिर से शुभम पैलस तक,agricultural,1859.5,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,देवी मन्दिर से शुभम पैलस तक,residential,8000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,देवी मन्दिर से शुभम पैलस तक,commercial,30000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,न0पा0चौंक से विधा.नि.खैरैता लाल,residential,7500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,न0पा0चौंक से विधा.नि.खैरैता लाल,commercial,28000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,नई सब्जी मण्डी,commercial,26000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,नईअनाज मंडी के बाहर लाडवा रोड,commercial,22000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,न्यू माडल टाउन,residential,10000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,न्यू माडल टाउन,commercial,22000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,पताशा बाजार,residential,7000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,पताशा बाजार,commercial,25000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,पत्थर बाजार से ईदगाह रोड,residential,14437.5,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,पत्थर बाजार से ईदगाह रोड,commercial,21000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,पत्थर बाजार,residential,7000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,पत्थर बाजार,commercial,24500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,पाल कलोनी,residential,9200,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,पाल कलोनी,commercial,21250,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,पीएनबी शिवमंदिर से कोल्ड स्टोर,residential,6500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,पीएनबी शिवमंदिर से कोल्ड स्टोर,commercial,17000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,प्रताप मण्डी,residential,7500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,प्रताप मण्डी,commercial,24000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,बलदेव राज की कोठी से हद तक,agricultural,1859.5,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,बलदेव राज की कोठी से हद तक,residential,7000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,बलदेव राज की कोठी से हद तक,commercial,17000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,बाल्मिकी बस्ती,residential,7000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,बाल्मिकी बस्ती,commercial,14000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,बिजली कलोनी,residential,8000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,बिजली कलोनी,commercial,24650,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,बिजली क्लौ0से विश्वास स्कूल,agricultural,2696.28,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,बिजली क्लौ0से विश्वास स्कूल,residential,7000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,बिजली क्लौ0से विश्वास स्कूल,commercial,17000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,भगत मार्किट,commercial,27000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,मंडी लारंकसगंज माँ0 सैदां,residential,8050,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,मंडी लारंकसगंज माँ0 सैदां,commercial,25000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,मण्डी काहन चन्द,residential,7000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,मण्डी काहन चन्द,commercial,30550,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,महाराज अग्रसेन कलोनी नजदीक हुड्डा,residential,8000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,महाराज अग्रसेन कलोनी नजदीक हुड्डा,commercial,26250,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,मान कलोनी,residential,10400,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,मान कलोनी,commercial,15000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,माया कलोनी,residential,8000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,माया कलोनी,commercial,15000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,मारकण्डा कलोनी,residential,7000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,मारकण्डा कलोनी,commercial,16000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,मीरी पीरी से शोरे वाली फै0,agricultural,1859.5,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,मीरी पीरी से शोरे वाली फै0,residential,7000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,मीरी पीरी से शोरे वाली फै0,commercial,26000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,मेन चौ0 बाजार से सब्जी मंडी,residential,7500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,मेन चौ0 बाजार से सब्जी मंडी,commercial,28000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,मेन चौक से महादेव चौक,residential,8000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,मेन चौक से महादेव चौक,commercial,26000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,मेन चौक से मेन बाजार,residential,7500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,मेन चौक से मेन बाजार,commercial,29900,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,मौ0 माडी स्टे0माजरी ग0शहीदां,residential,9100,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,मौ0 माडी स्टे0माजरी ग0शहीदां,commercial,28125,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,मौ0घुमानिया व अग्रवाल धर्म0,residential,7500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,मौ0घुमानिया व अग्रवाल धर्म0,commercial,19000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,रँधावा मार्किट लाडवा रोड,residential,7500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,रँधावा मार्किट लाडवा रोड,commercial,23500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,रंजन कलोनी,residential,8000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,रंजन कलोनी,commercial,18000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,रणजीत न0 से मीरी पीरी तक,agricultural,1859.5,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,रणजीत न0 से मीरी पीरी तक,residential,7000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,रणजीत न0 से मीरी पीरी तक,commercial,25000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,रणजीत नगर,residential,7000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,रणजीत नगर,commercial,30000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,रा थि0 पीछे जीटी रोड बृज पम्प,residential,8000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,रा थि0 पीछे जीटी रोड बृज पम्प,commercial,27000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,रामा मिल के पीछे,residential,8000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,रामा मिल के पीछे,commercial,25000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,रामा विहार,residential,10000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,रामा विहार,commercial,26000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,रेलवे रोड से राजबुक डिपो,residential,7000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,रेलवे रोड से राजबुक डिपो,commercial,21000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,लक्की कलोनी,residential,10000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,लक्की कलोनी,commercial,27000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,लक्की कलोनी के पीछे,agricultural,1859.5,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,लक्की कलोनी के पीछे,residential,9200,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,लक्की कलोनी के पीछे,commercial,27000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,लाडवा चौंक से बराडा चौंक तक,residential,8500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,लाडवा चौंक से बराडा चौंक तक,commercial,39000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,लाडवा रोड से कोठी खैरैती लाल,residential,7000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,लाडवा रोड से कोठी खैरैती लाल,commercial,20000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,लाडवा रोड से दीपक विहार तक,residential,8000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,लाडवा रोड से दीपक विहार तक,commercial,26000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,विधाखैरैतीलाल नि0सेसुन्दर,residential,7500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,विधाखैरैतीलाल नि0सेसुन्दर,commercial,25000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,विश्वास कम्पलैक्स,residential,9500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,विश्वास कम्पलैक्स,commercial,24000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,विश्वास कुन्ज किशनगढ़ रोड पर,residential,8500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,विश्वास कुन्ज किशनगढ़ रोड पर,commercial,21000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,शुगर मिल कलोनी,residential,7000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,शुगर मिल कलोनी,commercial,19000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,शुभम पैलेस से झांबडा हद तक,agricultural,1859.5,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,शुभम पैलेस से झांबडा हद तक,residential,8000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,शुभम पैलेस से झांबडा हद तक,commercial,25000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,स्कूल से पम्प व नै इण्ड लाइन,agricultural,1859.5,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,स्कूल से पम्प व नै इण्ड लाइन,residential,7000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,स्कूल से पम्प व नै इण्ड लाइन,commercial,25000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,सतलुज कलोनी,residential,8000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,सतलुज कलोनी,commercial,16000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,"सब्जी म0,गु0मस्तगढ़ साहिब",residential,7000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,"सब्जी म0,गु0मस्तगढ़ साहिब",commercial,23400,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,सब्जी मंडी से लाडवा रोड,residential,7000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,सब्जी मंडी से लाडवा रोड,commercial,28600,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,सिदार्थ कलोनी,residential,8000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,सिदार्थ कलोनी,commercial,24000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,"सुभाष नगर,मौ0कुम्हारान,जाटान",residential,7000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,"सुभाष नगर,मौ0कुम्हारान,जाटान",commercial,22500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,हनु0मंदिर से प्रताप मण्डी गेट,residential,7000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,हनु0मंदिर से प्रताप मण्डी गेट,commercial,24500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,हाउसिंग बोर्ड,residential,12500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,हाउसिंग बोर्ड,commercial,25500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,हिमगिरी कलोनी,residential,9500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,हिमगिरी कलोनी,commercial,26450,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,हुड्डा अन्य प्लाट पार्ट A,residential,28000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,हुड्डा पार्ट 2 सै01 अन्य,residential,30000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,हुड्डा पार्ट 2 सै01 मेन रोड,residential,45000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,हुड्डा पार्ट B सै0 1 अन्य,residential,29000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,हुड्डा पार्ट B सै01 मेन रोड,residential,38000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,हुड्डा मेन के बाद पार्ट A सै01,residential,28000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,झांमडाशाहबाद,हुड्डा मेन रोड पार्ट A सै01,residential,35000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,ठसकाअली,आवासिय 1000वर्गगज तक,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,ठसकाअली,कृषि भूमि,agricultural,661.16,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,ठसकाअली,ठसकाअली से नलवी लिंक रोड2एकड़तक,agricultural,764.46,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,ठसकाअली,लिंक रोड गाँव तक2एकड़तक,agricultural,826.45,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,ठसकाअली,व्यवसायिक,commercial,5500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,डल्लामाजरा,आवासिय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,डल्लामाजरा,कृषि भूमि,agricultural,599.17,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,डल्लामाजरा,ठोल रोड पर 2 एकड तक,agricultural,1033.06,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,डल्लामाजरा,डल्लामाजरा से सम्भालखी रोड,agricultural,743.8,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,डल्लामाजरा,व्यवसायिक,commercial,5500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,डाडलू,आवासिय 1000वर्गगज तक,residential,3200,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,डाडलू,कृषि भूमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,डाडलू,डाडलू से लिंक रोड 2एकड तक,agricultural,764.46,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,डाडलू,बराडा रोड पर 2 एकड तक,agricultural,929.75,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,डाडलू,व्यवसायिक,commercial,4700,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,डीग,कृषि-चाही,agricultural,785.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,डीग,रिहायशी,residential,6000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,डीग,लाडवा रोड पर दो एकड तक,agricultural,1157.02,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,डीग,लिंक रोड़ 2एकड तक,agricultural,929.75,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,डीग,व्यवसायिक,commercial,7000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,ढँगाली,कृषि -चाही,agricultural,785.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,ढँगाली,रिहायशी,residential,4000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,ढँगाली,व्यवसायिक,commercial,5000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,ढँगाली,सडक पर दो एकड तक,agricultural,1033.06,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,ढकाला,आवासिय 1000वर्गगज तक,residential,3500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,ढकाला,कृषि भूमि,agricultural,640.5,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,ढकाला,झान्सा रोड पर 2 एकड तक,agricultural,826.45,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,ढकाला,व्यवसायिक,commercial,4700,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,ढोलामाजरा,अन्य कृषि भूमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,ढोलामाजरा,कृषि सडक से दो एकड तक,agricultural,2066.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,ढोलामाजरा,चदूनी तक लिंक रोड 2 एकड तक,agricultural,826.45,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,ढोलामाजरा,रिहायशी,residential,5200,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,तंगौर,आवासिय 1000वर्गगज तक,residential,3200,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,तंगौर,कृषि भूमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,तंगौर,मा0 के बीच की भूमि,agricultural,495.87,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,तंगौर,व्यवसायिक,commercial,4700,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,तंगौर,सडक से 2 एकड तक,agricultural,785.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,तंगौरी,आवासिय 1000वर्गगज तक,residential,3500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,तंगौरी,कृषि भूमि,agricultural,640.5,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,तंगौरी,व्यवसायिक,commercial,4700,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,तंगौरी,सडक से दो एकड तक,agricultural,785.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,तांगडा,आवासिय 1000वर्गगज तक,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,तांगडा,कृषि भूमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,तांगडा,लिंक रोड पर 2एकड दोनो तरफ,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,तांगडा,व्यवसायिक,commercial,4700,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,तिगरी,कृषि चाही,agricultural,712.81,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,तिगरी,रिहायशी,residential,3200,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,तिगरी,सुरखपुर लिंक रोड 2 एकड तक,agricultural,785.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,त्यौडा,कृषि चार एकड बाद,agricultural,661.16,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,त्यौडा,कृषि सडक से दो एकड तक,agricultural,2066.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,त्यौडा,त्यौडा लिंक रोड 2 एकड तक,agricultural,826.45,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,त्यौडा,रिहायशी,residential,4800,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,त्यौडा,व्यवसायिक,commercial,6300,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,थडौली,आवासिय 1000वर्गगज तक,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,थडौली,कृषि भूमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,थडौली,ठोल रोड के साथ 2एकड तक,agricultural,1033.06,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,थडौली,थडौली लिंक रोड 2 एकडतक,agricultural,743.8,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,थडौली,व्यवसायिक,commercial,4700,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,दाउमाजरा,आवासिय 1000वर्गगज तक,residential,4000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,दाउमाजरा,कृषि भूमि,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,दाउमाजरा,लिकरोड पर 2 एकड तक,agricultural,1188.02,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,दाउमाजरा,व्यवसायिक,commercial,7000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,दामली,आवासिय 1000वर्गगज तक,residential,4375,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,दामली,कृषि भूमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,दामली,गांव दामली को जाने वाली सडक के दोनो ओर,agricultural,743.8,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,दामली,मा० के बीच की भूमि,agricultural,557.85,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,दामली,व्यवसायिक,commercial,6000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,धन्तौडी,Residential,residential,5400,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,धन्तौडी,अन्य कृषि भूमि,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,धन्तौडी,कृषि दो एकड तक,agricultural,2066.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,धन्तौडी,चनारथल तक लिंक रोड 2 एकड तक,agricultural,1033.06,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,धन्तौडी,व्यवसायिक,commercial,6700,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,धर्मगढ,आवासिय 1000वर्गगज तक,residential,3900,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,धर्मगढ,कृषि भूमि,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,धर्मगढ,जी.टी. रोड केसाथ 2एकड से 4एकड तक,agricultural,1239.67,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,धर्मगढ,जी 0 टी 0 रोड पर 2 एकड तक,agricultural,2066.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,धर्मगढ,व्यवसायिक,commercial,6700,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,नगला,आवासिय 1000वर्गगज तक,residential,3900,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,नगला,कृषि भूमि,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,नगला,बाड प्रभावित उतर की ओर,agricultural,516.53,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,नगला,लिंक रोड पर 2 एकड तक,agricultural,826.45,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,नगला,व्यवसायिक,commercial,4700,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,नारायणगढ,कृषि चाही,agricultural,1190.08,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,नारायणगढ,रिहायशी,residential,3200,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,नारायणगढ,सडक पर दो एकड तक,agricultural,1033.06,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,नलवी,आवासिय 1000वर्गगज तक,residential,3800,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,नलवी,कृषि भूमि,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,नलवी,ठोल रोड के साथ व फिरनी,agricultural,1033.06,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,नलवी,नलवी लिंक रोड 2एकड तक,agricultural,826.45,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,नलवी,बाड प्रभावित उतर की ओर,agricultural,537.19,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,नलवी,व्यवसायिक,commercial,8050,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,नाहरमाजरा,आवासिय 1000वर्गगज तक,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,नाहरमाजरा,कृषि भूमि,agricultural,640.5,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,नाहरमाजरा,लिंक रोड पर 2 एकड तक,agricultural,702.48,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,नाहरमाजरा,व्यवसायिक,commercial,4700,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,पत्तीबोरीपुर,आवासिय 1000वर्गगज तक,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,पत्तीबोरीपुर,कृषि भूमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,पत्तीबोरीपुर,लिंक रोड पर 2 एकड तक,agricultural,661.16,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,पत्तीबोरीपुर,व्यवसायिक,commercial,4700,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,पत्तीशहजादपुर,कृषि भूमि,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,पत्तीशहजादपुर,आवासिय 1000वर्गगज तक,residential,3900,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,पत्तीशहजादपुर,जी0टी0रोड से 2एकड तक,agricultural,2066.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,पत्तीशहजादपुर,ठोल रोड के ऊपर,agricultural,1033.06,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,पत्तीशहजादपुर,मा० के बीच की भूमि,agricultural,516.53,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,पत्तीशहजादपुर,व्यवसायिक,commercial,10000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,पाडलू,आवासिय 1000वर्गगज तक,residential,3500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,पाडलू,कृषि भूमि,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,पाडलू,पाडलू से लिंक रोड 2एकड तक,agricultural,785.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,पाडलू,बराडा रोड पर 2एकड तक,agricultural,1520.66,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,पाडलू,व्यवसायिक,commercial,5000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,फतेहगढ़अटारी,कृषि चाही,agricultural,578.51,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,फतेहगढ़अटारी,मारकण्डा केअन्दर कृषि सैलाबी,agricultural,495.87,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,फतेहगढ़अटारी,रिहायशी,residential,3200,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,फतेहगढ़झरौली,अन्य कृषि भूमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,फतेहगढ़झरौली,आवासिय 1000वर्गगज तक,residential,3200,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,फतेहगढ़झरौली,ठोल रोड पर 2 एकड तक,agricultural,1033.06,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,फतेहगढ़झरौली,फतेह०झरौली से महदूदॉ 2एकड तक,agricultural,743.8,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,फतेहगढ़झरौली,व्यवसायिक,commercial,4700,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,बकाना,अन्य कृषि भूमि,agricultural,831.61,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,बकाना,कृषि सड़क से दो एकड तक,agricultural,2066.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,बकाना,बकाना लिंक रोड 2एकड तक,agricultural,826.45,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,बकाना,रिहायशी,residential,3900,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,बकाना,व्यवसायिक,commercial,6300,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,बीजदपुर,आवासिय 1000वर्गगज तक,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,बीजदपुर,कृषि भूमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,बीजदपुर,लिकरोड पर 2 एकड तक,agricultural,1256.2,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,बीजदपुर,व्यवसायिक,commercial,7520,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,बीबीपुर,कृषि चाही,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,बीबीपुर,मारकण्डा के अन्दर सैलाबी,agricultural,495.87,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,बीबीपुर,रिहायशी,residential,3200,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,बीबीपुर,व्यवसायिक,commercial,4700,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,बीबीपुर,सडक पर दो एकड तक,agricultural,826.45,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,बुहावा,आवासिय 1000वर्गगज तक,residential,3200,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,बुहावा,कृषि भूमि,agricultural,640.5,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,बुहावा,व्यवसायिक,commercial,4700,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,बुहावा,सडक से दो एकड तक,agricultural,826.45,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,बेरथली,आवासिय 1000वर्गगज तक,residential,3200,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,बेरथली,कृषि भूमि,agricultural,661.16,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,बेरथली,व्यवसायिक,commercial,5000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,बेरथली,सडक से दो एकड तक,agricultural,785.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,बोरीपुर,आवासिय 1000वर्गगज तक,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,बोरीपुर,कृषि भूमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,बोरीपुर,बोरीपुर से नगला 2एकड,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,बोरीपुर,बोरीपुर से महियुदीन 2 एकड तक,agricultural,785.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,बोरीपुर,बोरीपुर से शाह. 2एकड तक,agricultural,785.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,बोरीपुर,व्यवसायिक,commercial,4700,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,भोकरमाजरा,आवासिय 1000वर्गगज तक,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,भोकरमाजरा,कृषि भूमि,agricultural,640.5,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,भोकरमाजरा,व्यवसायिक,commercial,4700,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,भोकरमाजरा,सडक के दोनो ओर 2 एकड तक,agricultural,764.46,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,मछरौली,कृषि चाही,agricultural,640.5,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,मछरौली,रिहायशी,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,मछरौली,लिंक रोड पर दो एकड तक,agricultural,867.77,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,मछरौली,व्यवसायिक,commercial,4700,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,मदनपुर,आवासिय 1000वर्गगज तक,residential,3900,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,मदनपुर,कृषि भूमि,agricultural,903.93,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,मदनपुर,मदनपुर से रतनगढ लिंक रोड,agricultural,929.75,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,मदनपुर,व्यवसायिक,commercial,6700,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,मदनपुर,शाहबाद से मदनपुर रोड तक,agricultural,1033.06,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,मन्धेहडी,आवासिय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,मन्धेहडी,कृषि भूमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,मन्धेहडी,ठोल रोड दो एकड तक कृषि भूमि,agricultural,1033.06,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,मन्धेहडी,बाड प्रभावित उत्तर की ओर,agricultural,537.19,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,मन्धेहडी,मन्धेहडी से शान्तिनगर 2एकड तक,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,मन्धेहडी,व्यवसायिक,commercial,4700,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,मलकपुर,आवासिय 1000वर्गगज तक,residential,3200,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,मलकपुर,कृषि भूमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,मलकपुर,दो एकड तक लिकरोड,agricultural,826.45,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,मलकपुर,मा0 के बीच की भूमि,agricultural,516.53,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,मलकपुर,व्यवसायिक,commercial,4700,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,महदूदां,आवासिय,residential,3500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,महदूदां,कृषि भूमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,महदूदां,गांव महदूदा ठोल रोड,agricultural,785.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,महदूदां,ठोल रोड पर 2 एकड तक,agricultural,1033.06,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,महदूदां,व्यवसायिक,commercial,4700,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,महियूदीनपुर,आवासिय 1000वर्गगज तक,residential,3700,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,महियूदीनपुर,कृषि भूमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,महियूदीनपुर,व्यवसायिक,commercial,4700,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,महियूदीनपुर,सडक के दोनो ओरकृषि भूमि,agricultural,764.46,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,मामूमाजरा,अन्य कृषि भूमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,मामूमाजरा,आवासिय,residential,3500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,मामूमाजरा,ठोल रोड के ऊपर 2एकड तक,agricultural,1033.06,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,मामूमाजरा,मामू. लिखकरोड 2 एकड़ तक,agricultural,785.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,मामूमाजरा,व्यवसायिक,commercial,5000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,मुगलमाजरा,आवासीय 1000वर्गगज तक,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,मुगलमाजरा,कृषि भूमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,मुगलमाजरा,मा० के बीच की भूमि,agricultural,495.87,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,मुगलमाजरा,व्यवसायिक,commercial,4700,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,मुगलमाजरा,सड़क से 2 एकड़ तक,agricultural,805.79,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,मोहड़ी,आवासीय 1000वर्गगज तक,residential,5200,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,मोहड़ी,कृषि भूमि,agricultural,1162.19,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,मोहड़ी,केसरी सड़क पर 2एकड़तक,agricultural,1446.28,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,मोहड़ी,जी टी रोड के साथ 2एकड़तक,agricultural,2066.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,मोहड़ी,जी.टी.रोड से लण्डा सड़क,agricultural,1239.67,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,मोहड़ी,व्यवसायिक,commercial,10000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,मोहनपुर,आवासीय 1000वर्गगज तक,residential,4375,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,मोहनपुर,कृषि भूमि,agricultural,681.82,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,मोहनपुर,झान्सा रोड पर 2 एकड़तक,agricultural,805.79,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,मोहनपुर,व्यवसायिक,commercial,4700,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,यारा,आवासीय 1000वर्गगज तक,residential,3900,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,यारा,कृषि भूमि,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,यारा,लिखकरोड पर दो एकड़ तक,agricultural,929.75,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,यारा,व्यवसायिक,commercial,6300,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,यारी,आवासिय 1000वर्गगज तक,residential,3500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,यारी,कृषि भूमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,यारी,लिकरोड पर दो एकड तक,agricultural,826.45,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,यारी,व्यवसायिक,commercial,5000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,रतनगढ,Mrishi Marcndey Enclave,residential,15000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,रतनगढ,Mrishi Marcndey Enclave,commercial,20000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,रतनगढ,आवासिय 1000वर्गगज तक,residential,6700,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,रतनगढ,कृषि भूमि,agricultural,1058.88,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,रतनगढ,जी टी रोड के साथ,agricultural,2954.55,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,रतनगढ,रतनगढ से मदनपुर रोड न.खसरा,agricultural,1342.98,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,रतनगढ,व्यवसायिक,commercial,10000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,रामनगर,अन्य कृषि भूमि,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,रामनगर,आवासिय 1000वर्गगज तक,residential,4500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,रामनगर,कृषि भूमि,agricultural,681.82,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,रामनगर,कृषि दो एकड तक,agricultural,2066.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,रामनगर,जीटीरोड से गांव तक 2एकड,agricultural,1033.06,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,रामनगर,मा० के बीच की भूमि रेतव सैलाब,agricultural,516.53,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,रामनगर,मा० के बीच भूमि चाही,agricultural,599.17,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,रामनगर,रामनगर लिंक रोड पर,agricultural,785.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,रामनगर,रिहायशी,residential,4200,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,रामनगर,व्यवसायिक,commercial,7000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,रायेपुर,आवासिय 1000वर्गगज तक,residential,3500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,रायेपुर,कृषि भूमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,रायेपुर,ठोल रोड के साथ,agricultural,1033.06,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,रायेपुर,रायेपुर लिंक रोड 2 एकड तक,agricultural,785.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,रायेपुर,व्यवसायिक,commercial,4700,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,रायेमाजरा,आवासिय 1000वर्गगज तक,residential,3200,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,रायेमाजरा,कृषि भूमि,agricultural,774.79,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,रायेमाजरा,बाड प्रभावित उतर की ओर,agricultural,495.87,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,रायेमाजरा,व्यवसायिक,commercial,4700,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,रायेमाजरा,सडक से 2 एकड तक,agricultural,785.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,रावलखेडी,कृषि चाही,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,रावलखेडी,चनारथल से रावलखेडी 2एकड तक,agricultural,785.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,रावलखेडी,रिहायशी,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,रावलखेडी,लिंक रोड 2 एकड तक,agricultural,826.45,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,रावा,आवासिय 1000वर्गगज तक,residential,4500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,रावा,कृषि भूमि,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,रावा,बराडा रोड के ऊपर 2एकड तक,agricultural,1095.04,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,रावा,रावा से लिक रोड 2एकड तक,agricultural,826.45,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,रावा,व्यवसायिक,commercial,6000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,रावी,M.C. Limit मे अन्य कृषि भूमि,agricultural,1115.7,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,रावी,अन्य कृषि भूमि M.C. से बाहर,agricultural,888.43,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,रावी,आवासिय,residential,5000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,रावी,जयभारत कलोनी रावी रिहायशी एम सी के अन्दर,residential,5500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,रावी,जयभारत कलोनी रावी व्यवसायिक एम सी के अन्दर,commercial,7500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,रावी,बराडा रोड M.C. Inside 2 एकड तक,agricultural,1859.5,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,रावी,व्यवसायिक,commercial,7500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,लण्डी,आवासिय,residential,4500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,लण्डी,कृषि भूमि,agricultural,903.93,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,लण्डी,जी.टी रोड के साथ 2एकड तक,agricultural,2066.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,लण्डी,लण्डी से दिनारपुर 2एकड तक,agricultural,929.75,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,लण्डी,लण्डी से लण्डा 2एकड तक,agricultural,929.75,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,लण्डी,लण्डी गाव के साथ 2एकड तक,agricultural,1280.99,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,लण्डी,व्यवसायिक,commercial,9000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,सम्भालखी,आवासिय 1000वर्गगज तक,residential,5200,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,सम्भालखी,कृषि भूमि,agricultural,929.75,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,सम्भालखी,जी टी रोड पर 2एकड तक,agricultural,2066.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,सम्भालखी,जी टी रोड से गाँव तक 2एकड तक,agricultural,1053.72,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,सम्भालखी,व्यवसायिक,commercial,9000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,सरायँसुखी,कृषि चाही,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,सरायँसुखी,रिहायशी,residential,5400,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,सरायँसुखी,लिंक रोड 2 एकड तक,agricultural,826.45,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,सरायँसुखी,व्यवसायिक,commercial,6000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,सलेमपुर,कृषि चाही,agricultural,785.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,सलेमपुर,रिहायशी,residential,3200,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,सलेमपुर,सडक पर दो एकड तक,agricultural,1033.06,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,सुरखपुर,आवासिय 1000वर्गगज तक,residential,3500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,सुरखपुर,कृषि भूमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,सुरखपुर,मोहनपुर से सुरखपुर 2 एकडतक,agricultural,785.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,सुरखपुर,व्यवसायिक,commercial,4700,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,सुरखपुर,सुरखपुर से तिगरी सडक 2एकडतक,agricultural,723.14,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,सुलखनी,आवासिय 1000वर्गगज तक,residential,3500,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,सुलखनी,कृषि भूमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,सुलखनी,नगला से सुलखनी 2 एकड तक,agricultural,785.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,सुलखनी,बाड प्रभावित उतर की ओर,agricultural,495.87,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,सुलखनी,व्यवसायिक,commercial,5000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,सुलखनी,सडक से 2 एकड तक,agricultural,785.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,सैदपुरबरवालिया,आवासिय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,सैदपुरबरवालिया,कृषि भूमि,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,सैदपुरबरवालिया,व्यवसायिक,commercial,4700,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,सैदपुरबरवालिया,सडक से 2 एकड तक,agricultural,826.45,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,हल्दाहेडी,आवासिय,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,हल्दाहेडी,कृषि भूमि,agricultural,661.16,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,हल्दाहेडी,व्यवसायिक,commercial,4700,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,हल्दाहेडी,सडक से 2 एकड तक,agricultural,764.46,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,हिबाना,हिबाना लिंक रोड दो एकड तक,agricultural,785.12,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,हिबाना,कृषि चाही,agricultural,619.83,2026-04-01,kurukshetra_gov_in_dc_notification
+Kurukshetra,Shahbad,हिबाना,रिहायशी,residential,3000,2026-04-01,kurukshetra_gov_in_dc_notification

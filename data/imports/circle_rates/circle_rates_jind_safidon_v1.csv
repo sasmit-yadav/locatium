@@ -1,0 +1,374 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Jind,Safidon,Anta,Anta,agricultural,909.09,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Anta,ANTA TO BHUSLANA ON ROAD AGRI LAND 40,agricultural,1239.67,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Anta,ANTA TO BHUSLANA ON ROAD AGRI LAND 40,residential,2800,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Anta,ANTA TO JOSHI MAJRA ON ROAD AGRI LAND,agricultural,1239.67,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Anta,ANTA TO JOSHI MAJRA ON ROAD AGRI LAND,agricultural,1033.06,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Anta,ANTA VILLAGE ON ROAD AGRI LAND,agricultural,1033.06,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Anta,ANTA VILLAGE ON ROAD AGRI LAND,agricultural,1497.93,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Anta,state Highway road ke sath 2 acer,agricultural,1502.84,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Aftabgarh,Aftabgarh,agricultural,467.56,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Aftabgarh,Aftabgarh,residential,2600,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Aftabgarh,AFTABGARH VILLAGE ON ROAD AGRI LAND,agricultural,723.14,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Aftabgarh,state Highway road ke sath 2 acer,agricultural,723.14,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Aftabgarh,state Highway road ke sath 2 acer,agricultural,962.81,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,AnchraKalan,Anchra Kalan,agricultural,454.55,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,AnchraKalan,ANCHRA KALAN VILLAGE ON ROAD AGRI LAND,residential,2300,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,AnchraKalan,ANCHRA KALAN VILLAGE ON ROAD AGRI LAND,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,AnchraKalan,state Highway road ke sath 2 acer,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,AnchraKhurd,Anchra Khurd,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,AnchraKhurd,ANCHRA KHURD VILLAGE ON ROAD AGRI LAND,residential,2300,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,AnchraKhurd,ANCHRA KHURD VILLAGE ON ROAD AGRI LAND,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Karsindhu,Karsindhu,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Karsindhu,KARSINDHU VILLAGE LAND ON ROAD,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Karsindhu,KARSINDHU VILLAGE LAND ON ROAD,residential,2300,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Karsindhu,state Highway road ke sath 2 acer,agricultural,857.44,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Karkhana,KARKAHAN A TO ROJHLA ON ROAD AGRI LAND,agricultural,687.6,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Karkhana,KARKHANA A TO ROJHLA ON ROAD AGRI LAND,agricultural,687.6,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Karkhana,KARKHANA VILLAGE ON ROAD AGRI LAND,agricultural,578.51,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Karkhana,Karkhana,residential,2300,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Kurar,KURAR VILLAGE ON ROAD AGRI LAND,agricultural,688.02,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Kurar,Kurar,residential,2300,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Kharkara,KHARKARA VILLAGE ON ROAD AGRI LAND,agricultural,688.02,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Kharkara,Kharkara,residential,2300,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Khatla,KHATLA VILLAGE ON ROAD,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Khatla,Khatla,residential,2300,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,KheraKhemawati,Khera Khemawati,agricultural,715.08,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,KheraKhemawati,Khera Khemawati,residential,3600,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,KheraKhemawati,KHERA KHEMAWATI VILLAGE ON ROAD AGRI LAND,agricultural,1292.61,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,KheraKhemawati,state Highway road ke sath 2 acre,agricultural,1782.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,KheraKhemawati,Assandh bypass se Jind road,residential,12000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,KheraKhemawati,Assandh bypass se Jind road,commercial,14600,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,KheraKhemawati,Assandh bypass se upmandal karyalaya,residential,12000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,KheraKhemawati,Assandh bypass se upmandal karyalaya,commercial,15500,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,KheraKhemawati,Khera Khemawati se Malikpur road,agricultural,1053.72,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,KheraKhemawati,Khera Khemawati se Malikpur road,residential,6800,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Chhapar,CHHAPAR TO JAIPUR ON ROAD AGRI LAND,agricultural,612.19,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Chhapar,CHHAPAR TO MUANA ON ROAD AGRI LAND,agricultural,612.19,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Chhapar,CHHAPAR TO SINGHANA ON ROAD AGRI LAND,agricultural,605.37,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Chhapar,CHHAPAR VILLAGE ON ROAD AGRI LAND,agricultural,605.37,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Chhapar,CHHAPAR VILLAGE ON ROAD,agricultural,605.37,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Jaipur,Jaipur,agricultural,537.19,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Jaipur,Jaipur,residential,2300,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Jaipur,JAIPUR VILLAGE ON ROAD,agricultural,688.64,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,TitoKheri,state Highway road ke sath 2 acer,agricultural,991.74,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,TitoKheri,Tito Kheri,residential,2500,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,TitoKheri,TITO KHERI VILLAGE LAND ON ROAD,agricultural,747.52,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Didwara,DIDWARA VILLAGE ON ROAD,agricultural,605.37,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Didwara,Didwara,residential,2200,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,ThehMalikpur,Theh Malikpur,agricultural,495.87,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,ThehMalikpur,Theh Malikpur,residential,2200,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,ThehMalikpur,THEH MALIKPUR VILLAGE ON ROAD AGRI LAND,agricultural,694.21,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Dharamgarh,Dharamgarh,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Dharamgarh,DHARAMGARH VILLAGE ON ROAD AGRI LAND,agricultural,751.45,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Dharamgarh,DHARAMGARH VILLAGE ON ROAD AGRI LAND,residential,2500,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,PajuKalan,Paju Kalan,agricultural,1100.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,PajuKalan,PAJU KALAN VILLAGE ON ROAD AGRI LAND,agricultural,1100.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,PajuKalan,PAJU KALAN VILLAGE ON ROAD AGRI LAND,residential,2600,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,PajuKhurd,Paju Khurd,agricultural,467.56,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,PajuKhurd,PAJU KHURD VILLAGE ON ROAD AGRI LAND,agricultural,578.51,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,PajuKhurd,PAJU KHURD VILLAGE ON ROAD AGRI LAND,residential,2500,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Barod,Barod,agricultural,510.33,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Barod,BAROD VILLAGE AGRI LAND ON ROAD,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Barod,BAROD VILLAGE AGRI LAND ON ROAD,residential,2200,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Basini,Basini,agricultural,467.56,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Basini,BASINI VILLAGE ON ROAD,residential,3100,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Basini,BASINI VILLAGE ON ROAD AGRI LAND,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Basini,BASINI VILLAGE ON ROAD AGRI LAND,agricultural,500.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Bahadurgarh,Bahadurgarh,agricultural,537.19,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Bahadurgarh,BAHADURGARH VILLAGE ON ROAD AGRI LAND,agricultural,654.96,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Bahadurgarh,state Highway road ke sath 2 acer,agricultural,991.74,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Bahadurpur,Bahadurpur,residential,2400,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Bahadurpur,BAHADURPUR VILLAGE ON ROAD AGRI LAND,agricultural,605.37,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,BagruKalan,Bagru Kalan,residential,2300,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,BagruKalan,BAGRU KALAN VILLAGE ON ROAD AGRI LAND,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,BagruKalan,BAGRU KALAN VILLAGE ON ROAD AGRI LAND,agricultural,500.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,BagruKhurd,BAGRU KHURD VILLAGE ON ROAD AGRI LAND,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,BagruKhurd,BAGRU KHURD VILLAGE ON ROAD AGRI LAND,agricultural,467.56,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,BagruKhurd,Bagru Khurd,residential,2300,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Bhuslana,Bhuslana,residential,2600,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Bhuslana,BHUSLANA VILLEAGE ON ROAD AGRI LAND,agricultural,605.37,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Bhuslana,BHUSLANA VILLEAGE ON ROAD AGRI LAND,agricultural,467.56,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Malar,Malar,residential,4725,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Malar,MALAR VILLAGE ON ROAD AGRI LAND,agricultural,599.17,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Malar,state Highway road ke sath 2 acer,agricultural,991.74,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Malikpur,Malikpur,agricultural,495.87,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Malikpur,Malikpur,residential,2600,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Malikpur,MALIKPUR VILLAGE ON ROAD AGRI LAND,agricultural,605.37,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Mimnabad,Mimnabad,agricultural,467.56,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Mimnabad,MIMNABAD VILLAGE ON ROAD AGRI LAND,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Mimnabad,MIMNABAD VILLAGE ON ROAD AGRI LAND,residential,2600,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Mimnabad,MIMNABAD VILLAGE ON ROAD AGRI LAND,agricultural,467.56,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Muana,Muana,agricultural,467.56,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Muana,Muana,residential,2300,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Muana,MUANA TO ARDANA FARAWAY TO ROAD AGRI LAND,agricultural,467.56,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Muana,MUANA TO ARDANA ON ROAD AGRI LAND,agricultural,605.37,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Muana,MUANA TO BERIKHERA FARAWAY TO ROAD AGRI LAND,agricultural,467.56,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Muana,MUANA TO BERIKHERA ON ROAD AGRI LAND,agricultural,605.37,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Muana,MUANA TO CHHAPAR FARAWAY TO ROAD AGRI LAND,agricultural,467.56,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Muana,MUANA TO CHHAPAR ON ROAD AGRI LAND,agricultural,605.37,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Muana,MUANA TO PAJU KHURD ON ROAD AGRI LAND,agricultural,605.37,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Muana,MUANA TO PAJU KHURD FARAWAY TO ROAD AGRI LAND,agricultural,467.56,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Muana,MUANA TO RITOULI ON ROAD AGRI LAND,agricultural,605.37,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Muana,MUANA TO RITOULI FARAWAY TO ROAD AGRI LAND,agricultural,467.56,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Muana,MUANA TO RODH ON ROAD AGRI LAND,agricultural,605.37,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Muana,MUANA TO RODH FARAWAY TO ROAD AGRI LAND,agricultural,467.56,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Muana,MUANA TO SINGHANA ON ROAD AGRI LAND,agricultural,605.37,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Muana,MUANA TO SINGHANA FARAWAY TO ROAD AGRI LAND,agricultural,467.56,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Muana,MUANA VILLAGE ON ROAD AGRI LAND,agricultural,605.37,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,RattaKhera,Ratta Khera,agricultural,787.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,RattaKhera,Ratta Khera,residential,2400,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,RattaKhera,RATTA KHERA TO JIND MAIN ROAD ON ROAD AGRI LAND,agricultural,918.75,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,RattaKhera,RATTA KHERA TO SINGHPURA ON ROAD AGRI LAND,agricultural,630.17,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,RattaKhera,RATTA KHERA VILLAGE ON JIND MAIN ROAD AGRI LAND,agricultural,630.17,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,RattaKhera,RATTA KHERA VILLAGE ON ROAD AGRI LAND,agricultural,687.19,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,RattaKhera,Ratta Khera,agricultural,687.19,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,RattaKhera,Ratta Khera,agricultural,1450.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,RattaKhera,state Highway road ke sath 2 acer,agricultural,1450.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Ramnagar,Ramnagar,agricultural,454.55,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Ramnagar,Ramnagar,residential,2600,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Rampura,RAMNAGAR VILLAGE ON ROAD AGRI LAND,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Rampura,Rampura,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Rampura,Rampura,agricultural,661.16,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Rampura,Rampura,residential,5700,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Rampura,RAMPURA VILLAGE LAND ON ROAD,agricultural,1375.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Rojhla,Rojhla,agricultural,467.56,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Rojhla,Rojhla,residential,2300,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Rojhla,ROJHLA TO HATT ON ROAD AGRI LAND,agricultural,578.51,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Rojhla,ROJHLA TO KAHKHANA ON ROAD AGRI LAND,agricultural,578.51,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Rojhla,ROJHLA TO MALAR ON ROAD AGRI LAND,agricultural,578.51,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Rojhla,ROJHLA VILLAGE ON ROAD AGRI LAND,agricultural,578.51,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Rojhla,Rojhla,agricultural,525.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Rojhla,Rojhla,agricultural,578.51,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Rodh,Rodh,agricultural,687.6,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Rodh,Rodh,residential,2300,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Rodh,RODH VILLAGE ON ROAD AGRI LAND,agricultural,687.6,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Rodh,RODH VILLAGE ON ROAD AGRI LAND,residential,2300,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Rodh,state Highway road ke sath 2 acer,agricultural,1100.21,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,PilluKheri,SHEELA KHERI,agricultural,630.17,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,PilluKheri,SHEELA KHERI,residential,2300,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,PilluKheri,SHEELA KHERI VILLAGE ON ROAD AGRI LAND,agricultural,630.17,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,PilluKheri,state Highway road ke sath 2 acer,agricultural,1239.67,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,32KV STATION TO BAL BHAWAN,commercial,20000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,AGARSEN DHARAMSHALA TO BRAHAMCHARI DERA,residential,8500,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,AGARWAL DHARAMSHALA TO GAS AGENCY,agricultural,1265.08,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,ALORA CINEMA MARKET,commercial,27830,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,ANAND COLONY,residential,15000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,AREA BETWEEN NAHAR AND DRAIN,residential,15000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,BABA RATIRAM COLONY,residential,6800,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,BALMIKI BASTI,residential,9200,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,BALUJA MARKET BESIDE RAILWAY ROAD,commercial,29000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,BOHLI MOHALLA,residential,8740,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,BOTH SIDE ON PANIPAT ROAD,residential,9200,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,BOTH SIDE ON PANIPAT ROAD,commercial,41000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,BYPASS ON ROAD ASSANDH ROAD TO JIND ROAD,residential,12000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,BYPASS ON ROAD ASSANDH ROAD TO JIND ROAD,commercial,17000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,CHAKLA MOHALLA,residential,8500,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,CHANNI CHOWK TO OLD BUS STAND MAIN BAZAR.,commercial,70000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,CHHOTU RAM COLONY,residential,14700,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,CHOLKHIRAM MARKET,commercial,57000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,CHOTURAM COLONY,residential,14600,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,CHOTURAM COLONY,commercial,57000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,CINEMA TO HANSI BRANCH PULL,commercial,51000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,COLONY INFRONT GHORA PULI ROAD,residential,7800,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,COLONY INFRONT OLD SDM OFFICE,residential,14000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,DERA BRAHMANAND TO PANIPAT ROAD,residential,5700,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,DITCHDRAIN PULI TO BESIDE SABJI MANDI R ROAD,commercial,33500,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,DIWAN COLONY,residential,10000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,EMPLOYEES COLONY,residential,14000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,GAGRRA MOHALLA,residential,8500,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,GAS AGENCY,agricultural,1265.08,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,GAS AGENCY,residential,8500,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,Gas Agency Road Rasta Urlana Link Road,agricultural,1305.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,Gas Agency se Urlana Road,agricultural,1486.25,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,GAS AGENCY TO DERA GUMAN,agricultural,1136.36,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,GAS AGENCY TO DERA GUMAN,residential,9800,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,GAUSHALA COLONY,residential,41000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,GEETA COLONY,residential,13625,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,GOPALDAS MANDIR WALA MOHALLA,residential,8000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,GURUDWARA COLONY,residential,13915,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,HANSI BRANCH TO RAILWAY STATION,commercial,72600,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,HAZI KUA TO DHALU GALI MAIN BAZAR,commercial,41000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,HAZIWALA KUA TO 32KV STATION,residential,11200,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,HOLY MOHALLA,residential,8500,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,HUDA SECTOR 7 SINGHPURA H.B. NUMBER 53,residential,20000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,HUDA SECTOR 7 SINGHPURA H.B. NUMBER 53,commercial,20000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,INSIDE MC BYPASS ON ROAD ASSANDH ROAD TO JIND ROAD,agricultural,1952.48,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,INSIDE MC BYPASS ON ROAD ASSANDH ROAD TO JIND ROAD,commercial,15000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,INSIDE MC FARAWAY BYPASS ASSANDH ROAD TO JIND ROAD,agricultural,1177.69,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,INSIDE MC FARAWAY BYPASS ASSANDH ROAD TO JIND ROAD,residential,12000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,INSIDE MC FARAWAY TO ASSANDH ROAD,agricultural,1177.69,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,INSIDE MC FARAWAY TO PANIPAT RAOD,agricultural,2969.09,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,INSIDE MC SFD ON ASSANDH ROAD,agricultural,2969.09,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,INSIDE MC SFD ON ASSANDH ROAD,residential,22500,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,INSIDE MC SFD ON DHARAMGARH ROAD,agricultural,1322.31,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,INSIDE MC SFD ON DHARAMGARH ROAD,residential,10625,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,INSIDE MC SFD ON PANIPAT RAOD,agricultural,3106.25,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,INSIDE MC SFD ON PANIPAT RAOD,residential,19550,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,INSIDE MC SFD ON PANIPAT RAOD,commercial,22500,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,INSIDE MC SFD ON SAHANPUR ROAD,agricultural,1265.08,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,INSIDE MC SFD ON SAHANPUR ROAD,residential,9200,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,INSIDE MC SFD ON TODIKHERI ROAD,agricultural,1265.08,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,INSIDE MC SFD ON TODIKHERI ROAD,residential,9200,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,JHIMRAN MOHALLA,residential,8500,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,JIND ROAD NAHAR TO GALI GOING TO ADV RES,residential,9200,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,KALALO WALA MOHALLA,residential,8800,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,KAZIAN MOHALLA AND OTHER NEARBY MOHALLA,residential,8500,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,KHANSAR CHOWK COLONY,residential,9800,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,KHANSAR MOR TO ASSANDH ROAD UPTO BYPASS,residential,21500,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,KHANSAR MOR TO ASSANDH ROAD UPTO BYPASS,commercial,25000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,KHANSAR MOR TO ON PANIPAT ROAD,residential,8500,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,KHANSAR MOR TO ON PANIPAT ROAD,commercial,12000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,KHANSAR MOR TO SAHANPUR MOR,residential,35100,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,KHANSAR MOR TO SAHANPUR MOR,commercial,43000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,KHANSAR MOR TO SAHANPUR MOR,residential,9200,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,KHANSAR MOR TO SAHANPUR MOD,commercial,42500,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,KHERA KHEMAWATI TO BYPASS ASSAND ROAD,residential,6785,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,KHERA KHEMAWATI TO BYPASS ASSAND ROAD,commercial,12500,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,KUMHARAN MOHALLA,residential,8000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,MAHATMA GANDHI ROAD,commercial,51000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,MAKBRA BESIDE COLONY BEHIND STADIUM,residential,22000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,MAYADEVI HOSPITAL TO SR SEC SCHOOL,residential,14000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,MINI SECRETARIAT COLONY,residential,17000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,MINI SECRETARIAT TO RAMPURA BYPASS,commercial,46000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,MODERN COLONY,residential,11000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,MODERN PUBLIC SCHOOL COLONY,residential,11500,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,MODERN PUBLIC SCHOOL COLONY,commercial,45000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,NAGSKHETRA TO NAHAR PULL,residential,14000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,NAHAR PULL ROAD,residential,9200,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,NEW ANAJ MANDI,residential,50000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,NEW ANAJ MANDI,commercial,51000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,NEW GEETA COLONY,residential,13000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,NEW MODERN COLONY,residential,12000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,NEW MODERN COLONY,commercial,37000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,NEW MODERN COLONY,commercial,45000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,NEW MODERN COLONY,residential,13000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,NEW RAJIV COLONY,commercial,41000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,NEW RAJIV COLONY,residential,17000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,NORTH SIDE TO BEHIND ANAJ MANDI,commercial,50000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,OLD ANAJ MANDI 18X90 FT BRANCH,commercial,56700,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,OLD BUS STAND TO MINI SECRETARIAT UP TO 100 FEET,commercial,51000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,OLD BUS STAND TO MINI SECRETARIAT AFTER 100 FEET,commercial,30000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,OLD BUS STAND TO MINI SECRETARIAT AFTER 100 FEET FOR RESIDENTIAL,residential,17500,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,OLD BUS STAND TO NEW BUS STAND,commercial,51000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,OLD BUS STAND TO VISHVAKARMA MANDIR,commercial,40700,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,OLD CHUNGI TO SAINIAN MANDIR,residential,8400,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,OLD CHUNGI TO SAINIAN MANDIR,residential,8500,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,OLD CHUNGI TO VISHVAKARMA MANDIR,commercial,29000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,OLD POST OFFICE TO CHANNI CHOWK MAIN BAZAR,commercial,35000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,OLD SDM OFFICE TO JAIN SATHANAK,commercial,33500,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,OUTSIDE MC FARAWAY TO PANIPAT ROAD,agricultural,1084.71,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,OUTSIDE MC SFD ON PANIPAT ROAD,agricultural,1677.69,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,OUTSIDE MC SFD ON PANIPAT ROAD,residential,17500,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,OUTSIDE MC SFD FARAWAY TO ASSANDH ROAD,agricultural,1084.71,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,OUTSIDE MC SFD ON ASSANDH ROAD,agricultural,1677.69,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,OUTSIDE MC SFD ON ASSANDH ROAD,residential,17500,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,P W D REST HOUSE,commercial,72600,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,PANCHOLIA MOHALLA,residential,8500,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,PAWAN CHOWDHARI MARKET ON RAILWAY ROAD,commercial,29000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,PIPALWALA MOHALLA,residential,8500,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,PREM BAROD MARKET,commercial,29000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,PURANI CHUNGI TO KHANSAR MOR,commercial,41000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,RAGRAN MOHALLA,residential,8500,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,RAILWAY FATAK TO RAJWAHA GHORA PULI ROAD,residential,8500,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,Railway Station to Gas Agency Link Road,agricultural,1265.08,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,Railway Station to Gas Agency Link Road,residential,14000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,RAJIV COLONY,residential,10000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,RAMA COLONY OLD BUS STAND TO KHANSAR CHOWK,residential,12000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,RAMPURA ROAD COLONY,residential,12000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,RAMSAR COLONY,residential,11000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,RAMSAR COLONY,commercial,41000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,RARDA MOHALLA,residential,10000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,RAVIDAS MOHALLA,residential,8500,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,SABZI MANDI,commercial,72600,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,SABZI MANDI,agricultural,1793.75,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,Safidon,residential,22500,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,Safidon,agricultural,991.74,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,SAFIDON OUTSIDE MC,agricultural,991.74,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,Safidon to Dharmgarh Link Road,agricultural,1265.08,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,Safidon to Sahanpur Link Road,agricultural,1035.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,Safidon to Sarana Kheri Link Road,agricultural,1322.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,SAHANPUR MOR TO TODIKHERI MOR,agricultural,1265.08,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,SAHANPUR MOR TO TODIKHERI MOR,residential,8500,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,SAHANPUR MOR TO TODIKHERI MOR,commercial,22000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,SAINIYAN MOHALLA,commercial,22000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,SAINIYAN MOHALLA,residential,8500,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,SAMRAT HOSPITAL COLONY,residential,12000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,SECTOR 8 AND 9,residential,20000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,SELLER WALI COLONY ON ANAJ MANDI ROAD,residential,14000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,SHANSHI MOHALLA,residential,8500,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,SHIV COLONY,residential,12000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,SITASHYAM COLONY,residential,22000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,SITASHYAM COLONY,commercial,51000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,SUKAN MOHALLA,commercial,8500,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,SUKAN MOHALLA,residential,6800,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,TODIKHERI MOR TO NAHAR PULL,commercial,13000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,TODIKHERI MOR TO NAHAR PULL,residential,8500,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,VISHVAKARMA MANDIR TO OLD CHUNGI,commercial,32000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,SarnaKheri,Sarna Kheri,residential,2500,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,SarnaKheri,VILLAGE ON ROAD AGRI LAND,agricultural,632.64,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,SarnaKheri,VILLAGE ON ROAD AGRI LAND,agricultural,495.87,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,SarnaKheri,Sarna Kheri,residential,2300,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Sarfabad,VILLAGE ON ROAD AGRI LAND,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Sarfabad,Sarfabad,residential,3500,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Sahanpur,VILLAGE ON ROAD AGRI LAND,agricultural,739.67,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Sahanpur,Sahanpur,agricultural,739.67,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Sahanpur,Sahanpur,residential,2400,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Singhpura,Singhpura,agricultural,790.7,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Singhpura,ADARSH COLONY,residential,5600,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Singhpura,ADARSH COLONY,residential,7900,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Singhpura,PASHU HOSPITAL COLONY,commercial,33500,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Singhpura,TARA BASTI,residential,9200,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Singhpura,Singhpura,residential,7400,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Singhpura,TARA BASTI,commercial,26300,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Singhpura,TARA BASTI,residential,14600,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Singhpura,AGARSAIN COLONY,commercial,33500,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Singhpura,AGRI LAND ON ROAD,agricultural,2231.25,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Singhpura,AREA BETWEEN NAHAR AND DRAIN,agricultural,2231.25,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Singhpura,AREA BETWEEN RAILWAYLINE AND ANAJ MANDI,residential,10600,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Singhpura,BDPO OFFICE TO RAILWAY FATAK VIA HATT ROAD,commercial,33500,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Singhpura,BETWEEN JIND ROAD AND NAHAR,residential,10600,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Singhpura,BHAGODEVI HOSPITAL TO GOVT COLLEGE,residential,10600,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Singhpura,COLONY SOUTHSIDE OF RAILWAY STATION,residential,8000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Singhpura,GOVT COLLEGE TO MC BOUNDRY ON JIND ROAD,commercial,24200,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Singhpura,HATKESHWAR COLONY,residential,8000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Singhpura,HATKESHWAR COLONY,commercial,22000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Singhpura,HATT ROAD TO GOVT COLLEGE,commercial,40700,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Singhpura,INSIDE MC FARAWAY TO HATT ROAD,agricultural,1100.21,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Singhpura,INSIDE MC FARAWAY TO JIND ROAD,agricultural,1100.21,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Singhpura,INSIDE MC ON HATT ROAD,agricultural,1925.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Singhpura,INSIDE MC ON JIND ROAD,agricultural,1925.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Singhpura,JIND ROAD TO PASHU HOSPITAL ON HATT ROAD,residential,9200,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Singhpura,KUMHAR BASTI,residential,10600,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Singhpura,NAHAR PULL TO HATT ROAD,commercial,49500,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Singhpura,NEW TARA BASTI,residential,6700,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Singhpura,OLD ANAJ MANDI 18X90 FT,commercial,50000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Singhpura,OLD SDM OFFICE TO JAIN SATHANAK,commercial,33500,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Singhpura,OUTSIDE MC FARAWAY TO JIND ROAD,agricultural,760.33,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Singhpura,OUTSIDE MC ON HATT ROAD,agricultural,1402.48,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Singhpura,OUTSIDE MC ON JIND ROAD,residential,9200,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Singhpura,OUTSIDE MC ON JIND ROAD,commercial,11000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Singhpura,OUTSIDE MC ON JIND ROAD,agricultural,1404.96,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Singhpura,RAILWAY FATAK TO MC BOUNDRY ON HATT ROAD,commercial,22000,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Singhpura,SAMRAT HOSPITAL COLONY,residential,11200,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Singhpura,SINGALPURA COLONY,residential,5400,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Singhpura,SINGALPURA COLONY,commercial,32800,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Singhana,SINGHANA VILLAGE ON ROAD AGRI LAND 24 L,agricultural,591.32,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Singhana,Singhana,agricultural,591.32,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Singhana,Singhana,residential,2300,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Singhana,Singhana,agricultural,661.16,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Siwanamal,National Highway near bumi 2 acer tak,agricultural,661.16,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Siwanamal,Siwanamal,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Siwanamal,Siwanamal,residential,2300,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Siwanamal,SIWANAMAL VILLAGE ON ROAD AGRI LAND,agricultural,619.83,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Harigarh,Harigarh,agricultural,481.4,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Harigarh,Harigarh,residential,2300,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Harigarh,HARIGARH VILLAGE ON ROAD AGRI LAND,agricultural,578.51,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Harigarh,SAFIDON SE SIWANAMALL ON ROAD AGRI LAND,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Harigarh,state Highway road ke sath 2 acer,agricultural,578.51,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Harigarh,Harigarh,agricultural,495.87,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Hatt,Hatt,agricultural,909.09,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Hatt,HATT VILLAGE ON ROAD AGRI LAND,agricultural,909.09,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Hatt,Hatt,residential,6300,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Safidon,nagarpalika seema se bahar safidon v colony nazdeek Royal Place,residential,5700,2026-04-01,jind_gov_in_dc_notification
+Jind,Safidon,Singhpura,rakba Haat Road par nagarpalika seema se bahar,residential,9200,2026-04-01,jind_gov_in_dc_notification

@@ -1,0 +1,392 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Nuh,Nuh,Akbar,Along State highway beyond 2 Acre,agricultural,650.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Akbar,Along State highway upto depth of 2 Acre,agricultural,679.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Akbar,Along State highway upto depth of 2 Acre,agricultural,775.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Akbar,Any other metal or Rural Road beyond 1 Acre,agricultural,650.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Akbar,Any other metal or Rural Road upto depth of 1 Acre,agricultural,650.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Akbar,Any other metal or Rural Road upto depth of 1 Acre,agricultural,700.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Akbar,Akbar,agricultural,700.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Akbar,Akbar,residential,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Akbar,Akbar,commercial,3300,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Allawalpur,Rural Road Beyond 100 mtr,agricultural,550.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Allawalpur,Rural Road up to 100 mtr,agricultural,818.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Allawalpur,Rural Road up to 100 mtr,agricultural,600.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Allawalpur,Rural Road up to 100 mtr,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Allawalpur,Rural Road up to 100 mtr,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Akeda,Any other metal or Rural Road beyond 1 Acre,agricultural,600.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Akeda,Any other metal or Rural Road beyond 1 Acre,residential,2087.25,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Akeda,Any other metal or Rural Road upto depth of 1 Acre,agricultural,775.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Akeda,Any other metal or Rural Road upto depth of 1 Acre,agricultural,891.25,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Akeda,Any other metal or Rural Road upto depth of 1 Acre,agricultural,550.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Akeda,Any other metal or Rural Road upto depth of 1 Acre,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Akeda,Any other metal or Rural Road upto depth of 1 Acre,commercial,3750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Akeda,Main road up to 2 acres,agricultural,775.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Asafika,Any other metal or Rural Road beyond 1 Acre,agricultural,750.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Asafika,Any other metal or Rural Road beyond 1 Acre,agricultural,600.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Asafika,Any other metal or Rural Road beyond 1 Acre,agricultural,812.5,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Asafika,Any other metal or Rural Road upto depth of 1 Acre,agricultural,942.5,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Asafika,Any other metal or Rural Road upto depth of 1 Acre,agricultural,650.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Asafika,Asafika,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Asafika,Asafika,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,UjinaNo1,Along State highway beyond 2 Acre,agricultural,704.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,UjinaNo1,Along State highway upto depth of 2 Acre,agricultural,909.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,UjinaNo1,Along State highway upto depth of 2 Acre,agricultural,862.5,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,UjinaNo1,Along State highway upto depth of 2 Acre,agricultural,1045.45,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,UjinaNo1,Any other metal or Rural Road beyond 1 Acre,agricultural,704.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,UjinaNo1,Any other metal or Rural Road beyond 1 Acre,agricultural,750.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,UjinaNo1,Any other metal or Rural Road upto depth of 1 Acre,agricultural,850.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Ujina,Ujina,agricultural,1181.82,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Ujina,Ujina,agricultural,960.23,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Ujina,Ujina,residential,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Ujina,Ujina,commercial,3300,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Untka,Untka,agricultural,700.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Ausarika,Ausarika,agricultural,525.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Karmchandpur,Karmchandpur,agricultural,525.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Karmchandpur,Karmchandpur,agricultural,600.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Karmchandpur,Access road up to 2 acres,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Karmchandpur,Access road up to 2 acres,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Karmchandpur,Access road up to 2 acres,agricultural,600.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Kalinjar,Along State highway beyond 2 Acre,agricultural,1050.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Kalinjar,Along State highway beyond 2 Acre,agricultural,600.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Kalinjar,Along State highway upto depth of 2 Acre,agricultural,762.5,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Kalinjar,Any other metal or Rural Road beyond 1 Acre,agricultural,600.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Kalinjar,Any other metal or Rural Road beyond 1 Acre,agricultural,1022.73,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Kalinjar,Any other metal or Rural Road beyond 1 Acre,agricultural,1193.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Kalinjar,Any other metal or Rural Road upto depth of 1 Acre,agricultural,700.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Kalinjar,Kalinjar,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Kalinjar,Kalinjar,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Kurana,Along State highway upto depth of 2 Acre,agricultural,1421.88,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Kurana,Any other metal or Rural Road upto depth of 1 Acre,agricultural,1225.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Kurana,Any other metal or Rural Road upto depth of 1 Acre,agricultural,700.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Kutla,Any other metal or Rural Road upto depth of 1 Acre,agricultural,1378.12,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Kutla,Rural Road Beyond 100 mtr,agricultural,650.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Kutla,Kutla,agricultural,1527.27,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Kutla,Kutla,residential,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Kutla,Kutla,commercial,3300,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Keraka,Rural Road up to 100 mtr,agricultural,600.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Keraka,Keraka,agricultural,550.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Keraka,Keraka,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Keraka,Keraka,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Kotla,Kotla,agricultural,700.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Kotla,Kotla,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Kotla,Kotla,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Kotla,Access road up to 2 acres,agricultural,750.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Kotlanka,Kotlanka,agricultural,600.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Kotlanka,Kotlanka,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Kotlanka,Kotlanka,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Kotlanka,Access road up to 2 acres,agricultural,600.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Khedla,Khedla,agricultural,950.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Khedla,Khedla,agricultural,993.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Khedla,Khedla,residential,3850,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Khedla,Khedla,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Khedla,Access road up to 2 acres,agricultural,975.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Khera,Access road up to 2 acres,agricultural,975.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Khera,Main road up to 2 acres,agricultural,950.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,KhetiNuh,Kheti Nuh,agricultural,700.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,KhetiNuh,Kheti Nuh,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,KhetiNuh,Kheti Nuh,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,KhetiNuh,Access road up to 2 acres,agricultural,750.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Gahbar,Gahbar,agricultural,700.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Gahbar,Gahbar,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Gahbar,Gahbar,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Gahbar,Access road up to 2 acres,agricultural,750.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Golpuri,Access road up to 2 acres,agricultural,600.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Golpuri,Access road up to 2 acres,agricultural,818.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Golpuri,Access road up to 2 acres,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Golpuri,Access road up to 2 acres,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Golpuri,Golpuri,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Ghasera,Along National highway beyond 2 Acre,agricultural,1150.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Ghasera,Along National highway upto depth of 2 Acre,agricultural,1670.45,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Ghasera,Along National highway upto depth of 2 Acre,agricultural,1150.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Ghasera,Ghasera,agricultural,1250.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Ghasera,Any other metal or Rural Road beyond 1 Acre,agricultural,1150.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Ghasera,Any other metal or Rural Road beyond 1 Acre,agricultural,1789.77,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Ghasera,Any other metal or Rural Road upto depth of 1 Acre,agricultural,1150.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Ghasera,Any other metal or Rural Road upto depth of 1 Acre,agricultural,1536.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Ghasera,Ghasera,agricultural,1766.82,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Ghasera,Ghasera,residential,3300,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Ghasera,Ghasera,commercial,3850,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Jhundaheri,Rural Road Beyond 100 mtr,agricultural,1025.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Jhundaheri,Jhundaheri,agricultural,1025.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Jhundaheri,Jhundaheri,residential,3850,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Jhundaheri,Jhundaheri,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Chandeni,beyond 1 acre,agricultural,700.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Chandeni,Chandeni,agricultural,700.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Chandeni,Chandeni,agricultural,650.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Chandeni,Chandeni,agricultural,800.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Chandeni,Chandeni,residential,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Chandeni,Chandeni,commercial,3300,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Chandeni,Access road up to 2 acres,agricultural,800.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Chandaki,Chandaki,agricultural,700.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Chandaki,Rural Road Beyond 100 mtr,agricultural,700.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Chandaki,Rural Road up to 100 mtr,agricultural,775.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Jakopur,Jakopur,residential,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Jakopur,Jakopur,commercial,3300,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Jakopur,Rural Road Beyond 100 mtr,agricultural,600.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Jakopur,Rural Road up to 100 mtr,agricultural,1137.5,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Jakopur,Rural Road up to 100 mtr,agricultural,650.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Jaisinghpur,Jaisinghpur,agricultural,650.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Jaisinghpur,State Highway up to 150 mtr,agricultural,837.5,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Jaisinghpur,State Highway up to 150 mtr,agricultural,600.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Jaisinghpur,State Highway up to 150 mtr,agricultural,1145.45,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Jaisinghpur,State Highway up to 150 mtr,agricultural,1240.91,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Jaisinghpur,Jaisinghpur,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Jaisinghpur,Jaisinghpur,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Jajuka,Rural Road Beyond 100 mtr,agricultural,550.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Jajuka,Rural Road up to 100 mtr,agricultural,650.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Jajuka,Jajuka,agricultural,525.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Jajuka,Jajuka,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Jajuka,Jajuka,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Jogipur,Jogipur,residential,3630,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Jogipur,Jogipur,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Jogapur,Access road up to 2 acres,agricultural,950.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Jogapur,Main road up to 2 acres,agricultural,1000.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Tapkan,Any other metal or Rural Road beyond 1 Acre,agricultural,700.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Tapkan,Any other metal or Rural Road upto depth of 1 Acre,agricultural,805.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Tapkan,Any other metal or Rural Road upto depth of 1 Acre,agricultural,750.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Tapkan,Tapkan,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Tapkan,Tapkan,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Tai,Along State highway beyond 2 Acre,agricultural,600.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Tai,Along State highway upto depth of 2 Acre,agricultural,650.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Tai,Any other metal or Rural Road beyond 1 Acre,agricultural,550.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Tai,Any other metal or Rural Road upto depth of 1 Acre,agricultural,600.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Tai,Tai,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Tai,Tai,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Terakpur,Terakpur,agricultural,545.45,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Terakpur,Terakpur,agricultural,613.64,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Terakpur,Terakpur,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Terakpur,Terakpur,commercial,2420,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Dheklaka,Along State highway beyond 2 Acre,agricultural,550.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Dheklaka,Along State highway upto depth of 2 Acre,agricultural,731.82,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Dheklaka,Any other metal or Rural Road beyond 1 Acre,agricultural,731.82,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Dheklaka,Any other metal or Rural Road beyond 1 Acre,agricultural,650.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Dheklaka,Any other metal or Rural Road upto depth of 1 Acre,agricultural,681.82,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Dheklaka,Dheklaka,agricultural,572.73,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Dheklaka,Dheklaka,agricultural,780.99,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Dheklaka,Dheklaka,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Dheklaka,Dheklaka,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Devli,Rural Road Beyond 100 mtr,agricultural,550.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Devli,Rural Road up to 100 mtr,agricultural,650.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Devli,Access road up to 2 acres,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Devli,Access road up to 2 acres,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Devli,Access road up to 2 acres,agricultural,700.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Devli,Devli,agricultural,550.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Devli,Devli,agricultural,525.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Tehsilpur,Tehsilpur,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Tehsilpur,Tehsilpur,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Tehsilpur,Access road up to 2 acres,agricultural,600.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Tajpur,Along State highway beyond 2 Acre,agricultural,650.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Tajpur,Along State highway upto depth of 2 Acre,agricultural,909.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Tajpur,Any other metal or Rural Road beyond 1 Acre,agricultural,892.56,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Tajpur,Any other metal or Rural Road beyond 1 Acre,agricultural,1084.71,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Tajpur,Any other metal or Rural Road beyond 1 Acre,agricultural,654.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Tajpur,Any other metal or Rural Road upto depth of 1 Acre,agricultural,795.45,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Tajpur,Any other metal or Rural Road upto depth of 1 Acre,residential,2530,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Tajpur,Any other metal or Rural Road upto depth of 1 Acre,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Dihana,Any other metal or Rural Road beyond 1 Acre,agricultural,550.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Dihana,Any other metal or Rural Road upto depth of 1 Acre,agricultural,650.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Dihana,Any other metal or Rural Road upto depth of 1 Acre,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Dihana,Any other metal or Rural Road upto depth of 1 Acre,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Durgapur,Durgapur,agricultural,812.5,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Devalanagali,Devalanagali,agricultural,590.91,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Devalanagali,Devalanagali,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Dhanyuka,Dhanyuka,agricultural,550.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Dhanyuka,Dhanyuka,agricultural,650.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Dhanyuka,Dhanyuka,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Dhanyuka,Dhanyuka,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Nalhar,Access road up to 2 acres,agricultural,600.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Nalhar,Any other metal or Rural Road beyond 1 Acre,agricultural,1025.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Nalhar,Any other metal or Rural Road upto depth of 1 Acre,agricultural,1100.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Nalhar,Nalhar,agricultural,975.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Nalhar,Nalhar,agricultural,1100.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Nalhar,Nalhar,residential,3850,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Nalhar,Nalhar,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Nalhar,Access road up to 2 acres,agricultural,1025.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Narayanpur,Any other metal or Rural Road beyond 1 Acre,agricultural,550.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Narayanpur,Any other metal or Rural Road upto depth of 1 Acre,agricultural,600.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Narayanpur,Narayanpur,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Narayanpur,Narayanpur,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Nijampur,Nijampur,agricultural,550.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Nijampur,Along National highway beyond 2 Acre,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Nijampur,Along National highway beyond 2 Acre,agricultural,1409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Nuh,Along National highway upto depth of 2 Acre,agricultural,1704.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Nuh,Nuh,agricultural,1704.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Nuh,Along State highway beyond 2 Acre,agricultural,1400.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Nuh,Along State highway upto depth of 2 Acre,agricultural,1525.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Nuh,Anaj Mandi Nuh,commercial,23100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Nuh,Any other metal or Rural Road beyond 1 Acre,agricultural,1400.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Nuh,Any other metal or Rural Road upto depth of 1 Acre,agricultural,1475.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Nuh,BDPO to Tauru Chowk,commercial,20900,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Nuh,Main Road,residential,10350,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Nuh,Tauru Chowk to HRPP,commercial,22000,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Nuh,Tauru Chowk to HBC,commercial,20900,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Nuh,Tauru Chowk to HBC,residential,15400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Nuh,Ward No 4,residential,10450,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Nuh,Ilhasi Masjid to Bhuteshwar,commercial,16500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Nuh,Jogi Mode Alwar Road Gas Agency,residential,10400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Nuh,Jogi Mode Alwar Road Gas Agency,commercial,13200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Nuh,Inside Municipal Limit,commercial,24000,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Nuh,Inside Municipal Limit,agricultural,1400.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Nuh,Inside Municipal Limit,agricultural,1463.64,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Nuh,Inside Municipal Limit,residential,4067.67,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Nuh,Inside Municipal Limit,commercial,30000,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Nuh,Old Alwar Road to BDPO,commercial,15125,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Nuh,Masjid Front Gaushala Road Ward 4,commercial,22137.5,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Nuh,Masjid Front Gaushala Road Ward 4,residential,10450,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Nagina,Along State highway beyond 2 Acre,agricultural,575.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Nagina,Along State highway upto depth of 2 Acre,agricultural,825.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Nagina,Any other metal or Rural Road beyond 1 Acre,agricultural,575.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Nagina,Any other metal or Rural Road beyond 1 Acre,agricultural,650.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Nagina,Nagina,agricultural,575.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Nosera,Any other metal or Rural Road beyond 1 Acre,agricultural,650.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Nosera,Any other metal or Rural Road upto depth of 1 Acre,agricultural,650.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Nosera,Any other metal or Rural Road upto depth of 1 Acre,agricultural,525.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Nosera,Any other metal or Rural Road upto depth of 1 Acre,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Nosera,Any other metal or Rural Road upto depth of 1 Acre,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Palri,Up to depth of 1 Acre,agricultural,1025.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Palri,Beyond 1 Acre,agricultural,1025.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Palri,Palri,agricultural,1100.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Palri,Palri,residential,3850,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Palri,Palri,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Pratapnagar,Access road up to 2 acres,agricultural,681.82,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Pratapnagar,Pratapnagar,agricultural,579.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Pratapnagar,Pratapnagar,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,FirozpurNamak,Access road up to 2 acres,agricultural,1050.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,FirozpurNamak,Firozpur Namak,agricultural,1025.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,FirozpurNamak,Firozpur Namak,agricultural,1090.91,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,FirozpurNamak,Firozpur Namak,residential,3850,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,FirozpurNamak,Firozpur Namak,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,BadkaAlimuddin,Main road up to 2 acres,agricultural,1025.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,BadkaAlimuddin,Any other metal or Rural Road beyond 1 Acre,agricultural,675.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,BadkaAlimuddin,Any other metal or Rural Road beyond 1 Acre,agricultural,650.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,BadkaAlimuddin,Any other metal or Rural Road upto depth of 1 Acre,agricultural,750.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,BadkaAlimuddin,Any other metal or Rural Road upto depth of 1 Acre,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,BadkaAlimuddin,Any other metal or Rural Road upto depth of 1 Acre,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Badoli,Access road up to 2 acres,agricultural,750.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Badoli,Access road up to 2 acres,agricultural,700.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Badoli,Badoli,agricultural,750.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Badoli,Badoli,agricultural,700.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Badoli,Badoli,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Badoli,Badoli,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Badoda,Rural Road Beyond 100 mtr,agricultural,600.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Badoda,Access road up to 2 acres,agricultural,700.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Badoda,Badoda,agricultural,600.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Badoda,Badoda,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Badoda,Badoda,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Bai,Bai,agricultural,750.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Bai,Bai,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,BabupurNuh,Rural Road Beyond 100 mtr,agricultural,600.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,BabupurNuh,Babupur,agricultural,568.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,BabupurNuh,Babupur,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,BabupurNuh,Babupur,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Birsika,Rural Road Beyond 100 mtr,agricultural,550.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Birsika,Birsika,agricultural,550.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Birsika,Birsika,agricultural,650.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Birsika,Birsika,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Birsika,Birsika,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Bauwa,Bauwa,agricultural,675.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Bauwa,Bauwa,residential,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Bauwa,Bauwa,commercial,3300,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Bainsi,Rural Road up to 100 mtr,agricultural,600.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Bainsi,Bainsi,agricultural,550.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Bainsi,Bainsi,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Bainsi,Bainsi,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Bhatka,beyond 1 acre,agricultural,650.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Bhatka,Access road up to 2 acres,agricultural,750.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Bhatka,Bhatka,agricultural,700.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Bhapavali,Bhapavali,agricultural,550.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Bhapavali,Bhapavali,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Bhapavali,Bhapavali,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Mannaki,Access road up to 2 acres,agricultural,650.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Mannaki,Mannaki,agricultural,600.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Mannaki,Mannaki,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Mannaki,Mannaki,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Marda,Access road up to 2 acres,agricultural,675.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Marda,Access road up to 2 acres,agricultural,997.16,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Marda,Marda,agricultural,675.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Marda,Marda,agricultural,997.16,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Marora,Main road up to 2 acres,agricultural,600.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Malaba,Main road up to 2 acres,agricultural,656.25,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Malaba,Main road up to 2 acres,agricultural,632.5,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Malaba,Access road up to 2 acres,residential,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Malaba,Access road up to 2 acres,commercial,3300,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Muradbas,Access road up to 2 acres,agricultural,600.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Muradbas,Muradbas,agricultural,550.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Muradbas,Muradbas,agricultural,545.45,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Muradbas,Muradbas,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Muradbas,Muradbas,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Mevli,Access road up to 2 acres,agricultural,600.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Mevli,Mevli,agricultural,550.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Mevli,Mevli,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Mevli,Mevli,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Mojpur,Mojpur,agricultural,650.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Mojpur,Mojpur,agricultural,709.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Mojpur,Mojpur,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Mojpur,Mojpur,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,MohammadpurNuh,Access road up to 2 acres,agricultural,750.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,MohammadpurNuh,Mohammadpur Nuh,agricultural,700.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,MohammadpurNuh,Mohammadpur Nuh,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,MohammadpurNuh,Mohammadpur Nuh,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Rehna,Rehna,agricultural,700.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Rehna,Rehna,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Rehna,Rehna,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Raipuri,Raipuri,agricultural,550.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Raipuri,Raipuri,agricultural,962.5,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Raipuri,Raipuri,agricultural,1050.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Raipuri,Raipuri,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Raipuri,Raipuri,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Shadipur,Shadipur,agricultural,550.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Shadipur,Shadipur,agricultural,715.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Shadipur,Shadipur,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Shadipur,Shadipur,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,ShahpurNangli,Shahpur Nangli,agricultural,1025.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,ShahpurNangli,Shahpur Nangli,residential,3850,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,ShahpurNangli,Shahpur Nangli,commercial,4400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Jhungarpur,Along State Highway upto depth of 150 mtr,agricultural,1100.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Shukarpur,Along State Highway upto depth of 450 mtr,agricultural,1100.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Shukarpur,Along State Highway upto depth of 450 mtr,agricultural,950.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Shukarpur,Access road up to 2 acres,agricultural,950.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Shukarpur,Main road up to 2 acres,agricultural,1050.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Shukarpur,Shukarpur,agricultural,950.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Shukarpur,Shukarpur,residential,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Shukarpur,Shukarpur,commercial,3300,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Sangel,Any other metal or Rural Road upto depth of 1 Acre,agricultural,700.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Sangel,Access road up to 2 acres,agricultural,700.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Sangel,Access road up to 2 acres,agricultural,727.27,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Sangel,Sangel,agricultural,602.27,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Sangel,Sangel,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Sangel,Sangel,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Satputiyaka,Satputiyaka,agricultural,550.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Satputiyaka,Satputiyaka,agricultural,687.5,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Satputiyaka,Satputiyaka,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Satputiyaka,Satputiyaka,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Salamba,Along National highway upto depth of 2 Acre,agricultural,1050.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Salamba,Along National highway upto depth of 2 Acre,residential,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Salamba,Along National highway upto depth of 2 Acre,commercial,3300,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Salamba,Along State highway upto depth of 2 Acre,agricultural,975.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Salamba,Any other metal or Rural Road beyond 1 Acre,agricultural,1431.82,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Salamba,Any other metal or Rural Road beyond 1 Acre,agricultural,818.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Salamba,Salamba,residential,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Salamba,Salamba,commercial,3300,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Sadai,Any other metal or Rural Road beyond 1 Acre,agricultural,700.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Sadai,Any other metal or Rural Road upto depth of 1 Acre,agricultural,750.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Salaheri,Salaheri,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Salaheri,Salaheri,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Salaheri,Salaheri,agricultural,650.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Salaheri,Salaheri,agricultural,747.5,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Sudaka,Along State highway beyond 2 Acre,commercial,3300,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Sudaka,Along State highway beyond 2 Acre,residential,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Sudaka,Along State highway beyond 2 Acre,agricultural,550.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Sudaka,Along State highway upto depth of 2 Acre,agricultural,650.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Sudaka,Any other metal or Rural Road beyond 1 Acre,agricultural,550.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Sudaka,Any other metal or Rural Road upto depth of 1 Acre,agricultural,600.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Sudaka,Sudaka,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Sudaka,Sudaka,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Sankh,Along State highway beyond 2 Acre,agricultural,950.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Sankh,Along State highway upto depth of 2 Acre,agricultural,1150.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Sankh,Any other metal or Rural Road beyond 1 Acre,agricultural,950.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Sankh,Any other metal or Rural Road upto depth of 1 Acre,agricultural,1050.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Hassanpur,Access road up to 2 acres,agricultural,709.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Hassanpur,Hassanpur,agricultural,650.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Hassanpur,Hassanpur,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Nuh,Hassanpur,Hassanpur,commercial,2750,2026-04-01,nuh_gov_in_dc_notification

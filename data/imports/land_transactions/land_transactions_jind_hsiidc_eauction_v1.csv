@@ -1,0 +1,6 @@
+district,tehsil,village,sector_type,price_per_sq_yard_inr,area_sq_yards,lat,lng,transaction_date,source,deed_id,consideration_inr,area_unit,notes
+Jind,Narwana,IE Narwana,industrial,12416.49,538.2,29.6006,76.12012,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-narwana-450,6682500,sqm,HSIIDC FY24-25 reserve (IE Narwana); reserve ₹14850/sqm
+Jind,Narwana,IE Narwana,industrial,12416.49,1210.94,29.6014,76.12068,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-narwana-1012.5,15035625,sqm,HSIIDC FY24-25 reserve (IE Narwana); reserve ₹14850/sqm
+Jind,Narwana,IE Narwana,industrial,12416.49,2152.78,29.5966,76.11732,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-narwana-1800,26730000,sqm,HSIIDC FY24-25 reserve (IE Narwana); reserve ₹14850/sqm
+Jind,Narwana,IE Narwana,industrial,12416.49,2690.98,29.5974,76.11788,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-narwana-2250,33412500,sqm,HSIIDC FY24-25 reserve (IE Narwana); reserve ₹14850/sqm
+Jind,Narwana,IE Narwana,industrial,12416.49,3348.77,29.5982,76.11844,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-narwana-2800,41580000,sqm,HSIIDC FY24-25 reserve (IE Narwana); reserve ₹14850/sqm

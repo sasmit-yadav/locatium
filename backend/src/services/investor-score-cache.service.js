@@ -8,7 +8,7 @@ const MEMORY = new Map();
 const DEFAULT_TTL_SEC = Number(process.env.INVESTOR_SCORE_CACHE_TTL_SEC) || 3600;
 const MEMORY_TTL_MS = DEFAULT_TTL_SEC * 1000;
 
-const CACHE_VERSION = 'v4';
+const CACHE_VERSION = 'v7';
 
 function key(zoneId, sector) {
   return `investor:score:${CACHE_VERSION}:${sector}:${zoneId}`;
@@ -25,7 +25,7 @@ function getMemory(k) {
 
 function setMemory(k, data) {
   MEMORY.set(k, { at: Date.now(), data });
-  if (MEMORY.size > 800) MEMORY.delete(MEMORY.keys().next().value);
+  if (MEMORY.size > 5000) MEMORY.delete(MEMORY.keys().next().value);
 }
 
 async function getCachedZoneScore(zoneId, sector) {

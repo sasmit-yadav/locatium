@@ -1,0 +1,527 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Karnal,Karnal,Depot,Depot Mai Gandhi Nagar,residential,18000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Depot,Depot Mai Gandhi Nagar,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Depot,Shanti Nagar Depot,residential,18000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Depot,Shanti Nagar Depot,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Ayogd,Ayogd Krishi Bhumi Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Ayogd,Ayogd Krishi Bhumi Chahi,agricultural,1239.67,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Ayogd,Ayogd Sadak Par Krishi Bhumi,agricultural,1239.67,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Ayogd,Ayogd,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Ayogd,Ayogd,commercial,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Anhera,Anhera Krishi Bhumi Chahi,agricultural,1033.06,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Anhera,Anhera Krishi Bhumi Chahi,agricultural,2272.73,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Anhera,Anhera Krishi Bhumi Gair Mumkin,agricultural,330.58,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Anhera,Anhera Krishi Bhumi Sailabi,agricultural,330.58,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Anhera,Anhera Sadak Par Krishi Bhumi Chahi,agricultural,1033.06,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Anhera,Anhera Sadak Par Krishi Bhumi Chahi,agricultural,2272.73,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Anhera,Anhera,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Anhera,Anhera,commercial,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,AshipurVeeran,Ashipur Veeran Krishi Bhumi Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,AshipurVeeran,Ashipur Veeran Krishi Bhumi Chahi,agricultural,1136.36,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,AshipurVeeran,Ashipur Veeran Sadak Par Krishi Bhumi,agricultural,1136.36,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,AshipurVeeran,Ashipur Veeran,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,AshipurVeeran,Ashipur Veeran,commercial,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Uchana,Near Village Uchana,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Uchana,Near Village Uchana,commercial,18000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Uchana,Uchana Krishi Bhumi Chahi,agricultural,1859.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Uchana,Uchana Krishi Bhumi Chahi,agricultural,4545.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Uchana,Uchana Krishi Bhumi,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Uchana,Uchana Krishi Bhumi,commercial,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Uchana,Uchana Sadak Par 3 to 5 Acre,agricultural,2479.34,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Uchana,Uchana Sadak Par 5 Acre Peeche,agricultural,1859.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Uchana,Uchana Sadak Par 2 Acre Krishi Bhumi,agricultural,4545.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Fatlahedi,Fatlahedi Krishi Bhumi Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Fatlahedi,Fatlahedi Krishi Bhumi Chahi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Fatlahedi,Fatlahedi Krishi Bhumi,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Fatlahedi,Fatlahedi Krishi Bhumi,commercial,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Fatlahedi,Fatlahedi Sadak Par Krishi Bhumi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Fatlahedi,Fatlahedi Sadak Par,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Fatlahedi,Fatlahedi Sadak Par,commercial,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Kambopura,Ashok Vihar,residential,14000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Kambopura,Kambopura,commercial,45000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Kambopura,Kambopura Krishi Bhumi Chahi,agricultural,2066.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Kambopura,Kambopura Krishi Bhumi Chahi,agricultural,4752.07,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Kambopura,Kambopura Krishi Bhumi,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Kambopura,Kambopura Krishi Bhumi,commercial,35000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Kambopura,Kambopura Krishi Bhumi 3 to 5 Acre,agricultural,2479.34,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Kambopura,Kambopura Krishi Bhumi 5 Acre Peeche,agricultural,1859.5,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Kambopura,Kambopura Sadak Par 2 Acre Krishi Bhumi,agricultural,4752.07,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,AmbedkarNagar,Ambedkar Nagar,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,AmbedkarNagar,Ambedkar Nagar,commercial,45000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,AnandViharColony-II,Anand Vihar Colony-II,residential,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,AnandViharColony-II,Anand Vihar Colony-II,commercial,50000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,ArjunGateOldCity,Arjun Gate Old City,residential,20000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,ArjunGateOldCity,Arjun Gate Old City,commercial,45000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,AshokViharPart-II,Ashok Vihar Part-II,residential,17000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,AshokViharPart-II,Ashok Vihar Part-II,commercial,50000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BalaJiColonyOppositeDistrictJail,Bala Ji Colony Opposite District Jail,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BalaJiColonyOppositeDistrictJail,Bala Ji Colony Opposite District Jail,commercial,40000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BalmikiMohallaOldCity,Balmiki Mohalla Old City,residential,18000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BalmikiMohallaOldCity,Balmiki Mohalla Old City,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BhatColony4556-4559,Bhat Colony 4556-4559,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BhatColony4556-4559,Bhat Colony 4556-4559,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BhimNagar,Bhim Nagar,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BhimNagar,Bhim Nagar,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,ChaudharyHouseColony,Chaudhary House Colony,residential,38000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,ChaudharyHouseColony,Chaudhary House Colony,commercial,75000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,ClubMarket,Club Market,commercial,120000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,CommitteeChowktoSarafaBazar,Committee Chowk to Sarafa Bazar,residential,25000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,CommitteeChowktoSarafaBazar,Committee Chowk to Sarafa Bazar,commercial,130000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,DehBastiMangalColony,Deh Basti Mangal Colony,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,DehBastiMangalColony,Deh Basti Mangal Colony,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,DRPColony,DRP Colony,residential,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,DRPColony,DRP Colony,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,FutureLicencedColony,Future Licenced Colony,residential,24000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,FutureLicencedColony,Future Licenced Colony,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,GadariaMohalla,Gadaria Mohalla,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,GadariaMohalla,Gadaria Mohalla,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,GosiyanMohallaOldCity,Gosiyan Mohalla Old City,residential,18000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,GosiyanMohallaOldCity,Gosiyan Mohalla Old City,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,GossiMohalla,Gossi Mohalla,residential,20000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,GossiMohalla,Gossi Mohalla,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,GudMandi,Gud Mandi,commercial,65000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,GuruNanakpuraNaharPar,Guru Nanakpura Nahar Par,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,GuruNanakpuraNaharPar,Guru Nanakpura Nahar Par,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,GuruNanakpura,Guru Nanakpura,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,GuruNanakpura,Guru Nanakpura,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,HakikatNagarNearGogripurFatak,Hakikat Nagar Near Gogripur Fatak,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,HakikatNagarNearGogripurFatak,Hakikat Nagar Near Gogripur Fatak,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,HanumanGaliOldCity,Hanuman Gali Old City,residential,18000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,HanumanGaliOldCity,Hanuman Gali Old City,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,HoliMohalla,Holi Mohalla,residential,18000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,HoliMohalla,Holi Mohalla,commercial,40000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,HSIIDCSector-37,HSIIDC Sector-37,residential,24000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,HSIIDCSector-37,HSIIDC Sector-37,commercial,24000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,IndustrialAreaITItoBudhaKhera,Industrial Area ITI to Budha Khera,residential,25000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,IndustrialAreaITItoBudhaKhera,Industrial Area ITI to Budha Khera,commercial,75000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,IndustrialAreaNearITIChowk,Industrial Area Near ITI Chowk,residential,32000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,IndustrialAreaNearITIChowk,Industrial Area Near ITI Chowk,commercial,32000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,InstitutionalPlotsHSVPSectorandLColony,School,institutional,70000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,InstitutionalPlotsHSVPSectorandLColony,Hospital,institutional,70000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,InstitutionalPlotsHSVPSectorandLColony,Nursing Home,institutional,70000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,ITItoTikriKailashRoad2Acre,ITI to Tikri Kailash Road 2 Acre,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,ITItoTikriKailashRoad2Acre,ITI to Tikri Kailash Road 2 Acre,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,ITItoTikriKailashRoadPeeche,ITI to Tikri Kailash Road Peeche,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,ITItoTikriKailashRoadPeeche,ITI to Tikri Kailash Road Peeche,commercial,40000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,JantaMandi,Janta Mandi,commercial,90000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,JawaharMarket,Jawahar Market,residential,20000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,JawaharMarket,Jawahar Market,commercial,60000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,KalandriGateOldCity,Kalandri Gate Old City,residential,18000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,KanikaViharColony,Kanika Vihar Colony,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,KanikaViharColony,Kanika Vihar Colony,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,KanikaViharExtn,Kanika Vihar Extn,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,KanikaViharExtn,Kanika Vihar Extn,residential,14000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,MCColony,MC Colony,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,MCColony,MC Colony,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,PalmEnclave,Palm Enclave,residential,27000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,PalmEnclave,Palm Enclave,commercial,50000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,PuraniTehsil,Purani Tehsil,commercial,130000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,NamasteChowk,Namaste Chowk,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Sector12DoubleRoad,Sector 12 Double Road,residential,52000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,ShashriColonyExtension,Shashri Colony Extension,residential,20000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,ShashriColonyExtension,Shashri Colony Extension,commercial,60000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,VikasColony,Vikas Colony,residential,13000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,RanwarRoad,Ranwar Road,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,VikasNagar,Vikas Nagar,residential,13000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,PhoosgarhRoad,Phoosgarh Road,commercial,40000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,YamunaVihar,Yamuna Vihar,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,YamunaVihar,Yamuna Vihar,commercial,40000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,ArjunNagarNearRamaHotel,Arjun Nagar Near Rama Hotel,residential,24000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,ArjunNagarNearRamaHotel,Arjun Nagar Near Rama Hotel,commercial,90000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,AlkaCity,Alka City,residential,35000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,AlkaCity,Alka City,commercial,65000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,AvatarColony,Avatar Colony,residential,35000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,AvatarColony,Avatar Colony,commercial,90000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,AshokColony,Ashok Colony,residential,35000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,AshokColony,Ashok Colony,commercial,80000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,AshokNagarMeerutRoad,Ashok Nagar Meerut Road,residential,20000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,AshokNagarMeerutRoad,Ashok Nagar Meerut Road,commercial,60000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,AssandhKaithalRoad2AcrePeeche,Assandh Kaithal Road 2 Acre Peeche,agricultural,2272.73,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,AssandhKaithalRoad2AcreTak,Assandh Kaithal Road 2 Acre Tak,agricultural,4752.07,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,AssandhRoadPar2AcreTak,Assandh Road Par 2 Acre Tak,agricultural,4752.07,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,AssandhRoadPar2AcrePeeche,Assandh Road Par 2 Acre Peeche,agricultural,2272.73,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,AzadNagar,Azad Nagar,residential,24000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,AzadNagar,Azad Nagar,commercial,60000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,AnandVihar,Anand Vihar,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,AnandVihar,Anand Vihar,commercial,44000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,AryanNagar,Aryan Nagar,residential,35000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,AryanNagar,Aryan Nagar,commercial,75000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,AshaRamMarket,Asha Ram Market,residential,25000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,AshaRamMarket,Asha Ram Market,commercial,75000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,IqbalNathColony,Iqbal Nath Colony,residential,35000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,IqbalNathColony,Iqbal Nath Colony,commercial,75000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,IndraColony,Indra Colony,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,IndraColony,Indra Colony,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,IndraColonyBamoGate,Indra Colony Bamo Gate,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,IndraColonyBamoGate,Indra Colony Bamo Gate,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,IndraNagar,Indra Nagar,residential,35000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,IndraNagar,Indra Nagar,commercial,75000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,IbrahimMandi,Ibrahim Mandi,residential,24000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,IbrahimMandi,Ibrahim Mandi,commercial,60000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,IndiraColony,Indira Colony,residential,35000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,IndiraColony,Indira Colony,commercial,60000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,UpkarColony,Upkar Colony,residential,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,UpkarColony,Upkar Colony,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,EktaColony,Ekta Colony,residential,18000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,EktaColony,Ekta Colony,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,CommitteeChowktoRailwayStation,Committee Chowk to Railway Station,residential,35000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,CommitteeChowktoRailwayStation,Committee Chowk to Railway Station,commercial,90000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,CommitteeChowktoKalandriGate,Committee Chowk to Kalandri Gate,residential,25000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,CommitteeChowktoKalandriGate,Committee Chowk to Kalandri Gate,commercial,130000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,KarnalKrishiBhumiOutsideMC,Karnal Krishi Bhumi Outside MC,agricultural,2479.34,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,KaranVihar,Karan Vihar,residential,14000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,KaranVihar,Karan Vihar,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,KaranSinghColony,Karan Singh Colony,residential,25000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,KaranSinghColony,Karan Singh Colony,commercial,75000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,KalandarShahPulTak,Kalandar Shah Pul Tak,commercial,130000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,KalandriGate,Kalandri Gate,residential,18000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,KalandriGate,Kalandri Gate,commercial,58000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,KalandriGatetoNamasteChowk,Kalandri Gate to Namaste Chowk,residential,25000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,KasbaKarnalKrishiBhumi,Chahi,agricultural,2479.34,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,KotMohalla,Kot Mohalla,residential,18000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,KotMohalla,Kot Mohalla,commercial,57000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,GovindNagar,Govind Nagar,residential,18000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Colony,Colony,commercial,75000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Junjad,Junjad,residential,18000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Junjad,Junjad,commercial,75000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,JDGreen,JD Green,residential,28000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,JDGreen,JD Green,commercial,45000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,JyotiNagar,Jyoti Nagar,residential,18000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,JyotiNagar,Jyoti Nagar,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,DakkhanaRoad,Dakkhana Road,residential,50000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,DakkhanaRoad,Dakkhana Road,commercial,150000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,DBColonyMeerutRoad,DB Colony Meerut Road,residential,25000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,DBColonyMeerutRoad,DB Colony Meerut Road,commercial,100000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,DehaBasti,Deha Basti,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,DehaBasti,Deha Basti,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,DayalSinghColony,Dayal Singh Colony,residential,35000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,DayalSinghColony,Dayal Singh Colony,commercial,75000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Dayalpura,Dayalpura,residential,18000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Dayalpura,Dayalpura,commercial,58000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,DaribaLine,Dariba Line,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,DaribaLine,Dariba Line,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,DuggalColony,Duggal Colony,residential,35000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,DuggalColony,Duggal Colony,commercial,75000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,DeviMandirRoadMarket,Devi Mandir Road Market,residential,35000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,DeviMandirRoadMarket,Devi Mandir Road Market,commercial,90000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,MCAreaMechColony2AcreTak,MC Area Mech Colony 2 Acre Tak,residential,14000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,MCAreaMechColony2AcreTak,MC Area Mech Colony 2 Acre Tak,commercial,45000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,NewAnajMandi,New Anaj Mandi,commercial,95000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,NewSabziMandi,New Sabzi Mandi,commercial,130000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,NagarpalikaChowktoAmbedkarGTRoad,Nagarpalika Chowk to Ambedkar GT Road,residential,25000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,NagarpalikaChowktoAmbedkarGTRoad,Nagarpalika Chowk to Ambedkar GT Road,commercial,130000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,NamasteChowktoMCLimit,Namaste Chowk to MC Limit Chahi,agricultural,4752.07,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,NargiVillage,Nargi Village,residential,25000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,NargiVillage,Nargi Village,commercial,45000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,NavalatiRoad,Navalati Road,residential,25000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,NavalatiRoad,Navalati Road,commercial,95000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,NirmalColony,Nirmal Colony,residential,25000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,NirmalColony,Nirmal Colony,commercial,75000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,NehruPalaceMarket,Nehru Palace Market,residential,45000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,NehruPalaceMarket,Nehru Palace Market,commercial,150000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Nyayapuri,Nyayapuri,residential,45000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Nyayapuri,Nyayapuri,commercial,75000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,NewJyotiNagar,New Jyoti Nagar,residential,18000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,NewJyotiNagar,New Jyoti Nagar,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,NewShivColony,New Shiv Colony,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,NewShivColony,New Shiv Colony,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,NewCharNagar,New Char Nagar,residential,38000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,NewCharNagar,New Char Nagar,commercial,100000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,NewPremNagar,New Prem Nagar,residential,24000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,NewPremNagar,New Prem Nagar,commercial,58000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,NewRameshNagar,New Ramesh Nagar,residential,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,NewRameshNagar,New Ramesh Nagar,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,NewRamNagar,New Ram Nagar,residential,24000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,NewRamNagar,New Ram Nagar,commercial,58000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,NewHousingBoardColony,New Housing Board Colony,residential,45000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,NewHousingBoardColony,New Housing Board Colony,commercial,130000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,PatelClothMarket,Patel Cloth Market,commercial,130000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,PuraniSabziMandi,Purani Sabzi Mandi,commercial,130000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,PuraniHousingBoardColony,Purani Housing Board Colony,residential,45000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,PuraniHousingBoardColony,Purani Housing Board Colony,commercial,130000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,PurushottamGarden,Purushottam Garden,residential,35000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,PurushottamGarden,Purushottam Garden,commercial,95000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,PrabhunathCity,Prabhunath City,residential,25000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,PrabhunathCity,Prabhunath City,commercial,45000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,PritamNagar,Pritam Nagar,residential,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,PritamNagar,Pritam Nagar,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,PremColony,Prem Colony,residential,18000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,PremColony,Prem Colony,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,PremNagar,Prem Nagar,residential,24000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,PremNagar,Prem Nagar,commercial,58000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,FurnitureMarket,Furniture Market,commercial,120000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,FriendsColony,Friends Colony,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,FriendsColony,Friends Colony,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BajidaRoad1Acre,Bajida Road 1 Acre Chahi,agricultural,4752.07,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BahadurChandColony,Bahadur Chand Colony,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BahadurChandColony,Bahadur Chand Colony,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,ButaSinghColony,Buta Singh Colony,residential,18000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,ButaSinghColony,Buta Singh Colony,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BudhaKheratoKunjpura2Acre,Budha Khera to Kunjpura 2 Acre Chahi,agricultural,4752.07,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BankColony,Bank Colony,residential,25000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BankColony,Bank Colony,commercial,58000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BrahmanagarBhagwaniKaranagarJainaniTak,Brahmanagar Bhagwani Karanagar Jainani Tak,residential,18000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BrahmanagarBhagwaniKaranagarJainaniTak,Brahmanagar Bhagwani Karanagar Jainani Tak,commercial,58000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BhagatMandi,Bhagat Mandi,residential,18000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BhagatMandi,Bhagat Mandi,commercial,75000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BhatColony,Bhat Colony,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BhatColony,Bhat Colony,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,MangalColony,Mangal Colony,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,MangalColony,Mangal Colony,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,MatakMajri,Matak Majri,residential,14000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,MatakMajri,Matak Majri,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,MahabirDalMarket,Mahabir Dal Market,commercial,120000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,MahilaAshramRoad,Mahila Ashram Road,residential,25000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,MahilaAshramRoad,Mahila Ashram Road,commercial,75000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,ModelTown,Model Town,residential,55000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,ModelTown,Model Town,commercial,110000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,MataBasantiBairun,Mata Basanti Bairun,residential,18000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,MataBasantiBairun,Mata Basanti Bairun,commercial,58000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,MatColony,Mat Colony,residential,18000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,MatColony,Mat Colony,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,MallRoad,Mall Road,residential,45000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,MallRoad,Mall Road,commercial,80000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,MinarRoad,Minar Road,residential,45000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,MinarRoad,Minar Road,commercial,75000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,MeeraGhati,Meera Ghati,residential,17000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,MeeraGhati,Meera Ghati,commercial,45000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,MughalCanalMarket,Mughal Canal Market,commercial,150000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,MeerutRoadBypasstoSector6,Meerut Road Bypass to Sector 6,residential,20000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,MeerutRoadBypasstoSector6,Meerut Road Bypass to Sector 6,commercial,45000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,MeerutRoadMPratapChowkGTRoad,Meerut Road M Pratap Chowk GT Road,residential,25000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,MeerutRoadMPratapChowkGTRoad,Meerut Road M Pratap Chowk GT Road,commercial,95000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,MeerutRoadITItoSugarMillBothSides,Meerut Road ITI to Sugar Mill Both Sides,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,MeerutRoadITItoSugarMillBothSides,Meerut Road ITI to Sugar Mill Both Sides,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,MochiMohalla,Mochi Mohalla,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,MochiMohalla,Mochi Mohalla,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,ModiNagar,Modi Nagar,residential,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,MohallaBajraPurana,Mohalla Bajra Purana,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,MohallaBajraPurana,Mohalla Bajra Purana,residential,18000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Shehar,Shehar,commercial,62000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,RadioMandi,Radio Mandi,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,RavidasNagar,Ravidas Nagar,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,RoadRoadPar2AcrePeeche,Road Road Par 2 Acre Peeche Chahi,agricultural,2272.73,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,RajivColony,Rajiv Colony,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,ShantiNagar,Shanti Nagar,residential,18000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Sector12,Sector 12,commercial,140000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Sector-3IndustriesArea,Sector-3 Industries Area,industrial,22000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Kalwahedi,Kalwahedi Chahi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Kalwahedi,Kalwahedi Krishi Bhumi Chahi,agricultural,1033.06,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Kalwahedi,Kalwahedi Krishi Bhumi,residential,8000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Kalwahedi,Kalwahedi Krishi Bhumi,commercial,18000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Kalwahedi,Kalwahedi Sadak Par Krishi Bhumi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Kailash,Basant Vihar Extension,residential,14000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Kailash,Basant Vihar Extension,commercial,45000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Kunjpura,Kunjpura Main Road,residential,14000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Kachwa,Kachwa,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Kalampura,Kalampura,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Kudak,Kudak,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,KundaKalan,Kunda Kalan,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Kurani,Kurani,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,TikriKailashRoad2AcrePeeche,Tikri Kailash Road 2 Acre Peeche,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,TikriKailashRoad2AcrePeeche,Tikri Kailash Road 2 Acre Peeche,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,TikriKailashRoadParPlot,Tikri Kailash Road Par Plot,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BaypatiColony,Baypati Colony,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Kharajpur,Kharajpur Krishi Bhumi Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Kharajpur,Kharajpur Krishi Bhumi Chahi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Kharajpur,Kharajpur Krishi Bhumi Sailabi,agricultural,330.58,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Kharajpur,Kharajpur,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Kharajpur,Kharajpur,commercial,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Kharajpur,Kharajpur Sadak Par Krishi Bhumi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Khetinaru,Khetinaru Krishi Bhumi Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Khetinaru,Khetinaru Krishi Bhumi Chahi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Khetinaru,Khetinaru,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Khetinaru,Khetinaru,commercial,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Khetinaru,Khetinaru Sadak Par Krishi Bhumi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,GanjoGarhi,Ganjo Garhi Krishi Bhumi Chahi,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,GanjoGarhi,Ganjo Garhi Krishi Bhumi Chahi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,GanjoGarhi,Ganjo Garhi,residential,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,GanjoGarhi,Ganjo Garhi,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,GanjoGarhi,Ganjo Garhi Sadak Par Krishi Bhumi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Gaur,Gaur Krishi Bhumi Chahi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Gaur,Gaur Krishi Bhumi Chahi,agricultural,1239.67,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Gaur,Gaur,residential,5000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Gaur,Gaur,commercial,18000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Gaur,Gaur Sadak Par Krishi Bhumi,agricultural,1239.67,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Gogar,Gogar Krishi Bhumi Chahi,agricultural,1446.28,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Gogar,Gogar Krishi Bhumi Chahi,agricultural,2479.34,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Gogar,Gogar,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Gogar,Gogar,commercial,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Gogar,Gogar Sadak Par Krishi Bhumi,agricultural,2479.34,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Gogripur,Gogripur Krishi Bhumi Chahi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Gogripur,Gogripur Krishi Bhumi Chahi,agricultural,1342.98,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Gogripur,Gogripur,residential,8000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Gogripur,Gogripur,commercial,16000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Gogripur,Gogripur Sadak Par Krishi Bhumi,agricultural,1239.67,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Chaknalvipar,Chaknalvipar Krishi Bhumi Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Chaknalvipar,Chaknalvipar,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Chaknalvipar,Chaknalvipar,commercial,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Chaknalvipar,Chaknalvipar Sadak Par Krishi Bhumi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Chakmandi,Chakmandi Krishi Bhumi Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Chakmandi,Chakmandi Gair Mumkin,agricultural,309.92,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Chakmandi,Chakmandi Sailabi,agricultural,309.92,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Chakmandi,Chakmandi,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Chakmandi,Chakmandi,commercial,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Chakmandi,Chakmandi Sadak Par Krishi Bhumi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Chirav,Chirav Krishi Bhumi Chahi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Chirav,Chirav Krishi Bhumi Chahi,agricultural,1239.67,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Chirav,Chirav Mod Par,residential,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Chunnipur,Chunnipur Krishi Bhumi Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Chunnipur,Chunnipur,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Chunnipur,Chunnipur,commercial,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Churni,Churni Krishi Bhumi Chahi,agricultural,785.12,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Churni,Churni,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Churni,Churni,commercial,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Chorpura,Chorpura Krishi Bhumi Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Chorpura,Chorpura,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Chora,Chora Krishi Bhumi Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Chaumana,Chaumana Krishi Bhumi Chahi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Chaprakheda,Chaprakheda Krishi Bhumi Chahi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Jatpura,Jatpura Krishi Bhumi Chahi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Jadawali,Jadawali Krishi Bhumi Chahi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Zarifabad,Zarifabad Krishi Bhumi Chahi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,JarifaViron,Jarifa Viron Krishi Bhumi Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Jani,Jani Krishi Bhumi Chahi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Jundla,Jani Road,residential,5000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Jundla,Jundla Krishi Bhumi Chahi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Taprana,Taprana Krishi Bhumi Chahi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Teekri,Teekri Krishi Bhumi Chahi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,DabkoliKhurd,Dabkoli Khurd Krishi Bhumi Chahi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Dabarki,Dabarki Krishi Bhumi Chahi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,DabarkiPaar,Dabarki Paar Krishi Bhumi Chahi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Dabri,Dabri Krishi Bhumi Chahi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Dabri,Dabri,commercial,16000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Dabri,Dabri Sadak Par Krishi Bhumi,agricultural,1239.67,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Dabri,Sadak Se 2 Acre Peeche,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Dakwala,Dakwala Krishi Bhumi Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Dakwala,Dakwala Krishi Bhumi Chahi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Dakwala,Dakwala Krishi Bhumi,agricultural,371.9,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Dakwala,Dakwala,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Dakwala,Dakwala,commercial,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Dakwala,Dakwala Sadak Par Krishi Bhumi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Taharpur,Taharpur Sadak Par,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Taharpur,Taharpur Krishi Bhumi Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Taharpur,Taharpur Krishi Bhumi Chahi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Taharpur,Taharpur,residential,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Taharpur,Taharpur,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Daniyalpur,Daniyalpur Krishi Bhumi Chahi,agricultural,1239.67,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Daniyalpur,Daniyalpur Krishi Bhumi Chahi,agricultural,1446.28,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Daniyalpur,Daniyalpur,residential,8000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Daniyalpur,Daniyalpur,commercial,16000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Daniyalpur,Daniyalpur Sadak Par Krishi Bhumi,agricultural,1446.28,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Daniyalpur,Sadak Se 2 Acre Peeche,agricultural,1239.67,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Darad,Darad Krishi Bhumi Chahi,agricultural,1239.67,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Darad,Darad Krishi Bhumi Chahi,agricultural,1962.81,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Darad,Darad,residential,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Darad,Darad,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Darad,Darad Sadak Par Krishi Bhumi,agricultural,1962.81,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,DadupurRamdan,Dadupur Ramdan Krishi Bhumi Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,DadupurRamdan,Dadupur Ramdan Krishi Bhumi Chahi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,DadupurRamdan,Dadupur Ramdan,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,DadupurRamdan,Dadupur Ramdan,commercial,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,DadupurRamdan,Dadupur Ramdan Sadak Par,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,DadupurRodan,Dadupur Rodan Krishi Bhumi Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,DadupurRodan,Dadupur Rodan Krishi Bhumi Chahi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,DadupurRodan,Dadupur Rodan,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,DadupurRodan,Dadupur Rodan,commercial,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,DadupurRodan,Dadupur Rodan Sadak Par,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Daha,Daha Krishi Bhumi Chahi,agricultural,1962.81,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Daha,Daha Krishi Bhumi Chahi,agricultural,4338.84,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Daha,Daha,residential,8000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Daha,Daha,commercial,18000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Daha,Daha Sadak Par 5 Acre Peeche,agricultural,1962.81,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Daha,Daha Sadak Par 3 to 5 Acre,agricultural,2479.34,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Daha,Daha Sadak Par 2 Acre,agricultural,4545.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Dilawara,Dilawara Krishi Bhumi Chahi,agricultural,991.74,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Dilawara,Dilawara Krishi Bhumi Chahi,agricultural,2169.42,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Dilawara,Dilawara Krishi Bhumi,agricultural,330.58,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Dilawara,Dilawara,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Dilawara,Dilawara,commercial,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Dilawara,Dilawara Sadak Par,agricultural,2169.42,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,NaglaMegha,Mankin Bada Lal Dora,residential,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,NaglaMegha,Mankin Bada Lal Dora,commercial,16000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,NaglaMegha,Nagla Chowk Par,residential,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,NaglaMegha,Nagla Chowk Par,commercial,16000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,NaglaMegha,Nagla Megha Chahi,agricultural,1033.06,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,NaglaMegha,Nagla Megha,residential,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,NaglaMegha,Nagla Megha,commercial,16000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Nabipur,Nabipur Sailabi,agricultural,330.58,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Nabipur,Nabipur,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Nabipur,Nabipur,commercial,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,NalviKalan,Nalvi Kalan,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,NalviKalan,Nalvi Kalan,commercial,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,NalviKhurd,Nalvi Khurd,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,NalviKhurd,Nalvi Khurd,commercial,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Nalvipar,Nalvipar,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Nalvipar,Nalvipar,commercial,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Nasirpur,Nasirpur,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Nasirpur,Nasirpur,commercial,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Newal,Newal,residential,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Newal,Newal,commercial,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Pingli,Pingli,residential,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Pingli,Pingli,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Picholia,Picholia,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Picholia,Picholia,commercial,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Pundrak,Pundrak Sadak Par,agricultural,2789.26,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Phusgarh,Bank Colony,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Phusgarh,Bank Colony,commercial,42000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Phusgarh,Durga Colony,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Phusgarh,Durga Colony and Uttam Nagar Extn,commercial,50000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BajidaRodan,Bajida Rodan Krishi Bhumi Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BajidaRodan,Bajida Rodan,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BajidaJatan,Bajida Jatan Krishi Bhumi Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Barouta,Barouta Krishi Bhumi Chahi,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Barouta,Barouta,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Baldi,Baldi Krishi Bhumi Chahi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Baldi,Baldi,residential,8000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Baldi,Baldi,commercial,24000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Baldi,Baldi Krishi Bhumi 5 Acre Peeche,agricultural,2479.34,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Baldi,Baldi Krishi Bhumi 3 to 5 Acre,agricultural,2892.56,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Baldi,Baldi Sadak Par 2 Acre,agricultural,2479.34,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BahalolpurMustaka,Bahalolpur Mustaka Krishi Bhumi Chahi,agricultural,4545.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BahalolpurMustaka,Pakki Sadak Ki Bhumi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BahalolpurMustaka,Teshu Gaon Ki Bhumi Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BahalolpurMustaka,Teshu Gaon Ki Bhumi Chahi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BahalolpurMustaka,Teshu Gaon Ki Bhumi,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BahalolpurMustaka,Teshu Gaon Ki Bhumi,commercial,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Bajidpur,Bajidpur Krishi Bhumi Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Bajidpur,Bajidpur Krishi Bhumi Chahi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Bajidpur,Bajidpur,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Bajidpur,Bajidpur,commercial,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Bajidpur,Bajidpur Sadak Par,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Basu,Basu Krishi Bhumi Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Basu,Basu Krishi Bhumi Chahi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Basu,Basu,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Basu,Basu,commercial,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Basu,Basu Sadak Par,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Bichhpur,Bichhpur Krishi Bhumi Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Bichhpur,Bichhpur,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Bichhpur,Bichhpur,commercial,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Bichhpur,Bichhpur Sadak Par,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Bishangarh,Bishangarh Krishi Bhumi Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Bishangarh,Bishangarh Krishi Bhumi Chahi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Bishangarh,Bishangarh,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Bishangarh,Bishangarh,commercial,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,Bishangarh,Bishangarh Sadak Par,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BeedMajra,Beed Majra Krishi Bhumi Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BeedMajra,Beed Majra Krishi Bhumi Chahi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BeedMajra,Beed Majra,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BeedMajra,Beed Majra,commercial,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BeedMajra,Beed Majra Sadak Par,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BudhanpurAbad,Budhanpur Abad Krishi Bhumi Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BudhanpurAbad,Budhanpur Abad Krishi Bhumi Chahi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BudhanpurAbad,Budhanpur Abad,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BudhanpurAbad,Budhanpur Abad,commercial,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BudhanpurAbad,Budhanpur Abad Sadak Par,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BudhanpurUrfRukanpur,Budhanpur Urf Rukanpur Krishi Bhumi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BudhanpurUrfRukanpur,Shesh Ki Bhumi Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BudhanpurUrfRukanpur,Shesh Ki Bhumi Chahi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BudhanpurUrfRukanpur,Shesh Ki Bhumi,residential,7000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BudhanpurUrfRukanpur,Shesh Ki Bhumi,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BudhanpurVeeran,Budhanpur Veeran Krishi Bhumi Chahi,agricultural,723.14,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BudhanpurVeeran,Budhanpur Veeran Krishi Bhumi Chahi,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BudhanpurVeeran,Budhanpur Veeran,residential,4000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BudhanpurVeeran,Budhanpur Veeran,commercial,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BudhanpurVeeran,Budhanpur Veeran Sadak Par,agricultural,929.75,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BudhaKhera,Budha Khera Colony,residential,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Karnal,BudhaKhera,Budha Khera Colony,commercial,28000,2026-04-01,karnal_gov_in_dc_notification

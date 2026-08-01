@@ -101,19 +101,151 @@ SELECT
     ORDER BY z.centroid <-> l.geom
     LIMIT 1
   ) AS dist_flood_km,
+  (
+    SELECT PERCENTILE_CONT(0.5) WITHIN GROUP (ORDER BY cr.rate_per_sq_yard_inr::float8)
+    FROM circle_rates cr
+    WHERE cr.sector_type = 'industrial'
+      AND cr.source <> 'haryana_seed'
+      AND (
+        LOWER(TRIM(cr.district)) = LOWER(TRIM(z.district))
+        OR (
+          LOWER(TRIM(z.district)) IN ('gurugram', 'gurgaon')
+          AND LOWER(TRIM(cr.district)) IN ('gurugram', 'gurgaon')
+        )
+        OR (
+          LOWER(TRIM(z.district)) IN ('nuh', 'mewat')
+          AND LOWER(TRIM(cr.district)) IN ('nuh', 'mewat')
+        )
+        OR (
+          LOWER(TRIM(z.district)) IN ('mahendragarh', 'mahendergarh')
+          AND LOWER(TRIM(cr.district)) IN ('mahendragarh', 'mahendergarh')
+        )
+        OR (
+          LOWER(TRIM(z.district)) IN ('hisar')
+          AND LOWER(TRIM(cr.district)) IN ('hisar')
+        )
+      )
+      AND cr.effective_from = (
+        SELECT MAX(cr2.effective_from)
+        FROM circle_rates cr2
+        WHERE cr2.sector_type = 'industrial'
+          AND cr2.source <> 'haryana_seed'
+          AND (
+            LOWER(TRIM(cr2.district)) = LOWER(TRIM(z.district))
+            OR (
+              LOWER(TRIM(z.district)) IN ('gurugram', 'gurgaon')
+              AND LOWER(TRIM(cr2.district)) IN ('gurugram', 'gurgaon')
+            )
+            OR (
+              LOWER(TRIM(z.district)) IN ('nuh', 'mewat')
+              AND LOWER(TRIM(cr2.district)) IN ('nuh', 'mewat')
+            )
+            OR (
+              LOWER(TRIM(z.district)) IN ('mahendragarh', 'mahendergarh')
+              AND LOWER(TRIM(cr2.district)) IN ('mahendragarh', 'mahendergarh')
+            )
+            OR (
+              LOWER(TRIM(z.district)) IN ('hisar')
+              AND LOWER(TRIM(cr2.district)) IN ('hisar')
+            )
+          )
+      )
+  ) AS circle_rate_median_inr,
+  (
+    SELECT COUNT(*)::int
+    FROM circle_rates cr
+    WHERE cr.sector_type = 'industrial'
+      AND cr.source <> 'haryana_seed'
+      AND (
+        LOWER(TRIM(cr.district)) = LOWER(TRIM(z.district))
+        OR (
+          LOWER(TRIM(z.district)) IN ('gurugram', 'gurgaon')
+          AND LOWER(TRIM(cr.district)) IN ('gurugram', 'gurgaon')
+        )
+        OR (
+          LOWER(TRIM(z.district)) IN ('nuh', 'mewat')
+          AND LOWER(TRIM(cr.district)) IN ('nuh', 'mewat')
+        )
+        OR (
+          LOWER(TRIM(z.district)) IN ('mahendragarh', 'mahendergarh')
+          AND LOWER(TRIM(cr.district)) IN ('mahendragarh', 'mahendergarh')
+        )
+        OR (
+          LOWER(TRIM(z.district)) IN ('hisar')
+          AND LOWER(TRIM(cr.district)) IN ('hisar')
+        )
+      )
+      AND cr.effective_from = (
+        SELECT MAX(cr2.effective_from)
+        FROM circle_rates cr2
+        WHERE cr2.sector_type = 'industrial'
+          AND cr2.source <> 'haryana_seed'
+          AND (
+            LOWER(TRIM(cr2.district)) = LOWER(TRIM(z.district))
+            OR (
+              LOWER(TRIM(z.district)) IN ('gurugram', 'gurgaon')
+              AND LOWER(TRIM(cr2.district)) IN ('gurugram', 'gurgaon')
+            )
+            OR (
+              LOWER(TRIM(z.district)) IN ('nuh', 'mewat')
+              AND LOWER(TRIM(cr2.district)) IN ('nuh', 'mewat')
+            )
+            OR (
+              LOWER(TRIM(z.district)) IN ('mahendragarh', 'mahendergarh')
+              AND LOWER(TRIM(cr2.district)) IN ('mahendragarh', 'mahendergarh')
+            )
+            OR (
+              LOWER(TRIM(z.district)) IN ('hisar')
+              AND LOWER(TRIM(cr2.district)) IN ('hisar')
+            )
+          )
+      )
+  ) AS circle_rate_sample_count,
+  (
+    SELECT PERCENTILE_CONT(0.5) WITHIN GROUP (ORDER BY lt.price_per_sq_yard_inr::float8)
+    FROM land_transactions lt
+    WHERE lt.geom IS NOT NULL
+      AND lt.sector_type = 'industrial'
+      AND lt.source <> 'seed_comparable'
+      AND lt.transaction_date >= (CURRENT_DATE - INTERVAL '36 months')
+      AND ST_DWithin(
+            lt.geom::geography,
+            z.centroid::geography,
+            10000
+          )
+  ) AS comps_median_inr,
+  (
+    SELECT COUNT(*)::int
+    FROM land_transactions lt
+    WHERE lt.geom IS NOT NULL
+      AND lt.sector_type = 'industrial'
+      AND lt.source <> 'seed_comparable'
+      AND lt.transaction_date >= (CURRENT_DATE - INTERVAL '36 months')
+      AND ST_DWithin(
+            lt.geom::geography,
+            z.centroid::geography,
+            10000
+          )
+  ) AS comps_count,
   now() AS refreshed_at
 FROM zones z;
 
 CREATE UNIQUE INDEX IF NOT EXISTS idx_zone_features_zone_id ON zone_features (zone_id);
 CREATE INDEX IF NOT EXISTS idx_zone_features_district ON zone_features (district);
 
--- Seed outcomes from existing reports when table is empty (bootstrap labels for training pipeline)
+-- Bootstrap / refresh labels: spatial signal + attributable land premium when comps exist
 INSERT INTO zone_outcomes (zone_id, district, occupancy_rate, price_appreciation, time_to_lease_days, label_score)
 SELECT
   zf.zone_id,
   zf.district,
   LEAST(1.0, GREATEST(0.0, (100 - COALESCE(zf.dist_road_km, 20)) / 100.0)) AS occupancy_rate,
-  LEAST(0.5, GREATEST(-0.1, (5 - COALESCE(zf.dist_industrial_km, 10)) / 20.0)) AS price_appreciation,
+  CASE
+    WHEN zf.circle_rate_median_inr IS NOT NULL
+         AND zf.comps_median_inr IS NOT NULL
+         AND zf.circle_rate_median_inr > 0
+      THEN LEAST(0.5, GREATEST(-0.25, (zf.comps_median_inr - zf.circle_rate_median_inr) / zf.circle_rate_median_inr))
+    ELSE LEAST(0.5, GREATEST(-0.1, (5 - COALESCE(zf.dist_industrial_km, 10)) / 20.0))
+  END AS price_appreciation,
   GREATEST(30, LEAST(720, 90 + COALESCE(zf.dist_rail_km, 5)::int * 12)) AS time_to_lease_days,
   LEAST(
     100,
@@ -123,8 +255,44 @@ SELECT
         + CASE WHEN zf.dist_industrial_km IS NOT NULL AND zf.dist_industrial_km < 15 THEN 10 ELSE 0 END
         + LEAST(20, COALESCE(zf.utilities_2km, 0) * 4)
         + LEAST(15, COALESCE(zf.roads_3km, 0))
+        + CASE
+            WHEN zf.circle_rate_median_inr IS NOT NULL AND zf.comps_median_inr IS NOT NULL AND zf.circle_rate_median_inr > 0
+              THEN LEAST(12, GREATEST(-8, ROUND(((zf.comps_median_inr - zf.circle_rate_median_inr) / zf.circle_rate_median_inr) * 40)))
+            WHEN zf.circle_rate_median_inr IS NOT NULL THEN 4
+            ELSE 0
+          END
         - CASE WHEN COALESCE(zf.dist_forest_km, 99) < 3 THEN 15 ELSE 0 END
     )
   )::int AS label_score
 FROM zone_features zf
 ON CONFLICT (zone_id) DO NOTHING;
+
+-- Keep existing rows land-aware after circle_rates / comps imports (idempotent refresh)
+UPDATE zone_outcomes zo SET
+  price_appreciation = CASE
+    WHEN zf.circle_rate_median_inr IS NOT NULL
+         AND zf.comps_median_inr IS NOT NULL
+         AND zf.circle_rate_median_inr > 0
+      THEN LEAST(0.5, GREATEST(-0.25, (zf.comps_median_inr - zf.circle_rate_median_inr) / zf.circle_rate_median_inr))
+    ELSE zo.price_appreciation
+  END,
+  label_score = LEAST(
+    100,
+    GREATEST(
+      0,
+      50
+        + CASE WHEN zf.dist_industrial_km IS NOT NULL AND zf.dist_industrial_km < 15 THEN 10 ELSE 0 END
+        + LEAST(20, COALESCE(zf.utilities_2km, 0) * 4)
+        + LEAST(15, COALESCE(zf.roads_3km, 0))
+        + CASE
+            WHEN zf.circle_rate_median_inr IS NOT NULL AND zf.comps_median_inr IS NOT NULL AND zf.circle_rate_median_inr > 0
+              THEN LEAST(12, GREATEST(-8, ROUND(((zf.comps_median_inr - zf.circle_rate_median_inr) / zf.circle_rate_median_inr) * 40)))
+            WHEN zf.circle_rate_median_inr IS NOT NULL THEN 4
+            ELSE 0
+          END
+        - CASE WHEN COALESCE(zf.dist_forest_km, 99) < 3 THEN 15 ELSE 0 END
+    )
+  )::int,
+  recorded_at = now()
+FROM zone_features zf
+WHERE zo.zone_id = zf.zone_id;

@@ -1,0 +1,59 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Rohtak,Lakhan Majra,KharakJatan,Abadi Deh ke sath Chahi N,agricultural,475.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,KharakJatan,Kharak Jatan Chahi N,agricultural,462.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,KharakJatan,Kharak Jatan,residential,1000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,KharakJatan,Kharak se Kila Zafargarh Chahi N,agricultural,485.54,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,Khareti,Abadi Deh ke sath Chahi N,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,Khareti,Khareti Chahi N,agricultural,437.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,Khareti,Khareti,residential,1100,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,Khareti,Khareti,residential,2550,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,Khareti,Khareti se Girawad pahunch Chahi N,agricultural,464.88,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,Khareti,Khareti se Chandi pahunch Chahi N,agricultural,464.88,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,Khareti,Lakhan Majra se Girawad Chahi N,agricultural,464.88,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,Guggaheri,Abadi Deh ke sath Chahi N,agricultural,487.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,Guggaheri,Guggaheri Chahi N,agricultural,457.39,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,Guggaheri,Guggaheri,residential,1200,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,Guggaheri,Guggaheri se Kharak Jatan Chahi N,agricultural,464.88,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,Guggaheri,Guggaheri se Dorad se pahunch Chahi N,agricultural,464.88,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,Guggaheri,Guggaheri se Nindana Chahi N,agricultural,464.88,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,Guggaheri,Guggaheri se Farmana Badshahpur Chahi N,agricultural,464.88,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,Chandi,Abadi Deh ke sath Chahi N,agricultural,516.53,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,Chandi,Gaon Indargarh pahunch marg Chahi N,agricultural,516.53,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,Chandi,Chandi Chahi N,agricultural,500.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,Chandi,Chandi Nehri N,agricultural,500.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,Chandi,Chandi,residential,1500,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,Chandi,Chandi,residential,3400,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,Chandi,Chandi Rajya Marg ke Chahi N,agricultural,687.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,Chandi,Chandi se Khareti Chahi N,agricultural,516.53,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,Chandi,Chandi se Gharothi Chahi N,agricultural,516.53,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,Chandi,Chandi se Railway Station Chahi N,agricultural,516.53,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,Nindana,Abadi Deh ke sath Chahi N,agricultural,437.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,Nindana,Nindana Chahi N,agricultural,425.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,Nindana,Nindana Nehri N,agricultural,425.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,Nindana,Nindana,residential,1300,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,Nindana,Nindana se Farmana Chahi N,agricultural,437.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,Nindana,Nindana se Ajayab Chahi N,agricultural,437.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,Nindana,Nindana se Guggaheri Chahi N,agricultural,437.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,Nindana,Nindana se Bharan Chahi N,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,Nindana,Nindana se Meham Rajya Chahi N,agricultural,675.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,Nindana,Rajmahi Road Bharan se Bainsi Chahi N,agricultural,516.53,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,Bainsi,Abadi Deh ke sath Chahi N,agricultural,575.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,Bainsi,Guggaheri se Nindana Chahi N,agricultural,516.53,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,Bainsi,Guggaheri se Bainsi Chahi N,agricultural,516.53,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,Bainsi,Bainsi se Farmana Chahi N,agricultural,516.53,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,Bainsi,Bainsi Chahi N,agricultural,495.87,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,Bainsi,Bainsi Nehri N,agricultural,495.87,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,Bainsi,Bainsi,residential,1200,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,Bainsi,Bainsi,residential,3300,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,Bainsi,Bainsi se Ajayab Chahi N,agricultural,516.53,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,Bainsi,Bhiwani Gohana Rajya Marg Chahi N,agricultural,687.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,LakhanMajra,Abadi Deh ke sath Chahi N,agricultural,775.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,LakhanMajra,Gohana se Meham Rajya Chahi N,agricultural,750.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,LakhanMajra,Lakhan Majra Chahi N,agricultural,620.45,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,LakhanMajra,Lakhan Majra,residential,2500,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,LakhanMajra,Lakhan Majra,residential,8800,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,LakhanMajra,Lakhan Majra,commercial,9900,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,LakhanMajra,Lakhan Majra se Jind Chahi N,agricultural,750.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,LakhanMajra,Lakhan Majra Bypass Chahi N,agricultural,625.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,LakhanMajra,Lakhan Majra se Khairanti Chahi N,agricultural,550.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Lakhan Majra,LakhanMajra,Lakhan Majra se Nandal Chahi N,agricultural,550.0,2026-04-01,rohtak_gov_in_dc_notification

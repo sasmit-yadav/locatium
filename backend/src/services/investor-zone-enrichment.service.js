@@ -26,7 +26,8 @@ const {
   resolveInvestableArea,
 } = require('./investor-opportunity.engine');
 
-const ENRICH_CONCURRENCY = 12;
+const ENRICH_CONCURRENCY = Number(process.env.INVESTOR_ENRICH_CONCURRENCY) || 16;
+const ENRICH_CONCURRENCY_LITE = Number(process.env.INVESTOR_ENRICH_CONCURRENCY_LITE) || 32;
 
 async function districtBenchmark(district, sector) {
   const pool = getPool();
@@ -51,33 +52,31 @@ async function applyMlOverlay(zone, sector, analysis, opportunityScore) {
   const zoneId =
     zone.tableId === 'hsiidc_boundary' && zone.featureId != null ? String(zone.featureId) : null;
 
-  const fromZoneOutcomes = async () => {
+  const fromZoneOutcomes = async ({ asFallback = false } = {}) => {
     if (!zoneId || !pool) return null;
     try {
       const { rows } = await pool.query(
-        `SELECT label_score FROM zone_outcomes WHERE zone_id = $1 LIMIT 1`,
+        `SELECT label_score, price_appreciation FROM zone_outcomes WHERE zone_id = $1 LIMIT 1`,
         [zoneId]
       );
       if (rows[0]?.label_score == null) return null;
       const mlScore = Number(rows[0].label_score);
+      // Synthetic spatial/land labels — last resort only; do not outrank live ML/heuristic.
+      const blend = asFallback ? 0.2 : 0.25;
       return {
         mlScore,
-        mlMethod: 'zone_outcomes',
-        mlAdjusted: true,
-        mlModelVersion: 'zone_outcomes-v1',
-        mlConfidence: 0.82,
-        displayScore: Math.round(opportunityScore * 0.55 + mlScore * 0.45),
+        mlMethod: 'zone_outcomes_synthetic',
+        mlAdjusted: false,
+        mlModelVersion: 'zone_outcomes-land-v2',
+        mlConfidence: asFallback ? 0.35 : 0.45,
+        displayScore: Math.round(opportunityScore * (1 - blend) + mlScore * blend),
         trainingRows: null,
+        priceAppreciation: rows[0].price_appreciation != null ? Number(rows[0].price_appreciation) : null,
       };
     } catch {
       return null;
     }
   };
-
-  if (zoneId) {
-    const labeled = await fromZoneOutcomes();
-    if (labeled) return labeled;
-  }
 
   try {
     const mlPayload = await mlClient.scoreInvestment({
@@ -94,44 +93,38 @@ async function applyMlOverlay(zone, sector, analysis, opportunityScore) {
         : mlScore != null
           ? Math.round(opportunityScore * 0.75 + mlScore * 0.25)
           : opportunityScore;
-    if (mlPayload.method === 'ml' && mlScore != null) {
+    if (mlScore != null) {
       return {
         mlScore,
-        mlMethod: 'ml',
+        mlMethod: mlPayload.method === 'ml' ? 'ml' : mlPayload.method || 'heuristic',
         mlAdjusted,
         mlModelVersion: mlPayload.model_version || mlResult.model_version,
         mlConfidence: mlPayload.confidence,
         displayScore: blendedScore,
         trainingRows: mlResult.trainingRows,
+        landFeatures: mlResult.landFeatures || null,
       };
     }
-
-    const fallback = await fromZoneOutcomes();
-    if (fallback) return fallback;
-
-    return {
-      mlScore,
-      mlMethod: mlPayload.method || 'heuristic',
-      mlAdjusted,
-      mlModelVersion: mlPayload.model_version || mlResult.model_version,
-      mlConfidence: mlPayload.confidence,
-      displayScore: blendedScore,
-      trainingRows: mlResult.trainingRows,
-    };
   } catch {
-    const fallback = await fromZoneOutcomes();
-    if (fallback) return fallback;
-    return {
-      mlScore: null,
-      mlMethod: 'unavailable',
-      mlAdjusted: false,
-      displayScore: opportunityScore,
-    };
+    /* fall through */
   }
+
+  const fallback = await fromZoneOutcomes({ asFallback: true });
+  if (fallback) return fallback;
+
+  return {
+    mlScore: null,
+    mlMethod: 'unavailable',
+    mlAdjusted: false,
+    mlModelVersion: null,
+    mlConfidence: null,
+    displayScore: opportunityScore,
+    trainingRows: null,
+  };
 }
 
 async function enrichSingleZone(zone, sector, analysis, nearPoint = null, options = {}) {
-  const { useCache = true, includeNarrative = false, skipMl = false } = options;
+  const { useCache = true, includeNarrative = false, skipMl = false, lite = false } = options;
 
   if (useCache) {
     const cached = await scoreCache.getCachedZoneScore(zone.id, sector);
@@ -147,7 +140,76 @@ async function enrichSingleZone(zone, sector, analysis, nearPoint = null, option
   }
 
   const location = { lat: zone.center.lat, lng: zone.center.lng, sector };
-  const zoneFeatures = zone.tableId === 'hsiidc_boundary' ? await getZoneFeatures(zone.id) : null;
+  const zoneFeatures = !lite && zone.tableId === 'hsiidc_boundary' ? await getZoneFeatures(zone.id) : null;
+
+  // Lite path: ranking-only — analysis + land ₹. Skips plots/policy/comps/ML (huge speedup for full-district scans).
+  if (lite) {
+    const landValue = await estimateLandValue(location, sector);
+    const analysisPack = {
+      ...analysis,
+      location,
+      landValue,
+      insights: buildScoreInsights({ ...analysis, location, landValue }),
+    };
+    const availability = inferAvailability(zone);
+    const cluScore = computeCluScore(analysis.zoning, sector);
+    const utilityScore = computeUtilityScore(analysis.details);
+    const investableArea = resolveInvestableArea(zone, null, sector);
+    zone.investableArea = investableArea;
+    const opportunity = computeOpportunityV3(
+      zone,
+      analysisPack,
+      landValue,
+      sector,
+      {
+        cluScore,
+        utilityScore,
+        policySnippets: [],
+        availability,
+        plotInventory: null,
+      },
+      investableArea
+    );
+    const distanceKm =
+      nearPoint?.lat != null && nearPoint?.lng != null
+        ? Number(haversineKm(nearPoint.lat, nearPoint.lng, zone.center.lat, zone.center.lng).toFixed(2))
+        : null;
+    const enriched = {
+      ...zone,
+      ...opportunity,
+      opportunityScore: opportunity.opportunityScore,
+      formulaScore: opportunity.opportunityScore,
+      mlScore: null,
+      mlMethod: 'skipped_lite',
+      mlAdjusted: false,
+      analysis: analysisPack,
+      landValue,
+      policySnippets: [],
+      regulatoryChecklist: [],
+      financialPreview: buildFinancialPreview(zone, landValue, sector, investableArea),
+      plotInventory: null,
+      investableArea,
+      comparables: null,
+      availability,
+      keyRisk: buildKeyRiskLine(analysisPack),
+      cluScore,
+      utilityScore,
+      utilityReadiness: utilityScore >= 70 ? 'High' : utilityScore >= 45 ? 'Medium' : 'Low',
+      benchmark: { districtAverage: null, sampleSize: 0, source: 'lite_rank' },
+      dataSource: {
+        geometry: zone.tableId,
+        scores: 'Live map data (lite rank)',
+        cache: 'redis+memory',
+        refreshedAt: new Date().toISOString(),
+      },
+      opportunityBreakdown: buildOpportunityBreakdown(opportunity),
+      scoreBreakdown: analysis.scoreBreakdown || [],
+      distanceKm,
+      components: { ...opportunity.components, displayScore: opportunity.opportunityScore, mlScore: null },
+    };
+    if (useCache) await scoreCache.setCachedZoneScore(zone.id, sector, enriched);
+    return enriched;
+  }
 
   const [landValue, policySnippets, benchmark, plotInventory, comparables] = await Promise.all([
     estimateLandValue(location, sector),
@@ -162,7 +224,7 @@ async function enrichSingleZone(zone, sector, analysis, nearPoint = null, option
     location,
     landValue,
     zoneFeatures,
-    insights: buildScoreInsights({ ...analysis, location }),
+    insights: buildScoreInsights({ ...analysis, location, landValue }),
   };
 
   if (includeNarrative) {
@@ -199,7 +261,9 @@ async function enrichSingleZone(zone, sector, analysis, nearPoint = null, option
     plotInventory,
   }, investableArea);
 
-  const ml = skipMl ? { displayScore: opportunity.opportunityScore, mlScore: null, mlMethod: 'skipped_batch' } : await applyMlOverlay(zone, sector, analysisPack, opportunity.opportunityScore);
+  const ml = skipMl
+    ? { displayScore: opportunity.opportunityScore, mlScore: null, mlMethod: 'skipped_batch' }
+    : await applyMlOverlay(zone, sector, analysisPack, opportunity.opportunityScore);
 
   const districtDelta =
     benchmark?.districtAverage != null ? ml.displayScore - benchmark.districtAverage : null;
@@ -261,8 +325,10 @@ async function enrichSingleZone(zone, sector, analysis, nearPoint = null, option
   return enriched;
 }
 
-async function enrichZonesBatch(zones, sector, nearPoint = null) {
+async function enrichZonesBatch(zones, sector, nearPoint = null, options = {}) {
   if (!zones.length) return [];
+  const lite = options.lite === true;
+  const concurrency = lite ? ENRICH_CONCURRENCY_LITE : ENRICH_CONCURRENCY;
 
   const uncached = [];
   const results = [];
@@ -294,13 +360,17 @@ async function enrichZonesBatch(zones, sector, nearPoint = null) {
       batch.results.forEach((r) => analysisByIndex.set(batchOffset + r.index, r));
     }
 
-    for (let offset = 0; offset < uncached.length; offset += ENRICH_CONCURRENCY) {
-      const chunk = uncached.slice(offset, offset + ENRICH_CONCURRENCY);
+    for (let offset = 0; offset < uncached.length; offset += concurrency) {
+      const chunk = uncached.slice(offset, offset + concurrency);
       const chunkResults = await Promise.all(
         chunk.map((zone, chunkIdx) => {
           const globalIdx = offset + chunkIdx;
-          const analysis = analysisByIndex.get(globalIdx) || batch.results[chunkIdx];
-          return enrichSingleZone(zone, sector, analysis, nearPoint, { useCache: true, skipMl: false });
+          const analysis = analysisByIndex.get(globalIdx);
+          return enrichSingleZone(zone, sector, analysis, nearPoint, {
+            useCache: true,
+            skipMl: true,
+            lite,
+          });
         })
       );
       results.push(...chunkResults);

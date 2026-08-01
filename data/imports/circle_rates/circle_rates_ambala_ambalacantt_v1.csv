@@ -1,0 +1,842 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Ambala,Ambalacantt,ZoneNo8,"Zone No 8 Sec 32 Nanhera, 34 Shahpur Resi Herman City",residential,21505,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,ZoneNo8,"Zone No 8 Sec 32 Nanhera, 34 Shahpur Resi Herman City Comm",commercial,26620,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,AmbalaCantt,Ambala Cantt,agricultural,1600.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,AmbalaCantt,Ambala Cantt,agricultural,1500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,AmbalaCantt,Ambala Cantt,agricultural,1375.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,AmbalaCantt,Ambala Cantt,residential,60500,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,AmbalaCantt,Ambala Cantt,commercial,72600,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Ojlaha,Ojlaha,agricultural,700.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Ojlaha,Ojlaha,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Ojlaha,Ojlaha,agricultural,525.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Ojlaha,Ojlaha,residential,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Ojlaha,Ojlaha,commercial,5445,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Ojlaha,Ojlaha - Link Road 100 Meters,agricultural,1250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kapuri,Kapuri,agricultural,826.86,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kapuri,Kapuri,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kapuri,Kapuri,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kapuri,Kapuri,residential,4235,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kapuri,Kapuri,commercial,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kapuri,Kapuri - Link Road 100 Meters,agricultural,1250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kapuri,Kapuri - National Highway 150 Meters,agricultural,1375.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kardhan,Kardhan,agricultural,1776.25,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kardhan,Kardhan,agricultural,1175.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kardhan,Kardhan,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kardhan,Kardhan,residential,11025,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kardhan,Kardhan,commercial,13104,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kardhan,Kardhan - Link Road 100 Meters,agricultural,2652.84,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kardhan,Kardhan - Link Road 100 Meters,agricultural,1750.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kardhan,Kardhan Amarpuri,residential,7935,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kardhan,Kardhan Amarpuri,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kardhan,Kardhan Bank Colony,residential,9918.75,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kardhan,Kardhan Bank Colony,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kardhan,Kardhan Decent Colony,residential,8250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kardhan,Kardhan Decent Colony,commercial,14400,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kardhan,Kardhan Hari Nagar,residential,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kardhan,Kardhan Hari Nagar,commercial,12650,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kardhan,Kardhan Karanpuri,residential,14437.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kardhan,Kardhan Karanpuri,commercial,12650,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kardhan,Kardhan Kunj Vihar,residential,6325,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kardhan,Kardhan Kunj Vihar,commercial,18590,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kardhan,Kardhan Lal Dara 500,residential,4235,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kardhan,Kardhan Lal Dara 500,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kardhan,Kardhan- National Highway 150 Meters,agricultural,1875.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kardhan,Kardhan Nishat Bagh,residential,11250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kardhan,Kardhan Nishat Bagh,commercial,26950,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kardhan,Kardhan Palam Vihar 1,residential,8265.62,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kardhan,Kardhan Palam Vihar 1,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kardhan,Kardhan Panjabi Bhag,residential,8250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kardhan,Kardhan Panjabi Bhag,commercial,15812.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kardhan,Kardhan Patel Nagar,residential,11672.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kardhan,Kardhan Patel Nagar,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kardhan,Kardhan Raja Park,residential,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kardhan,Kardhan Raja Park,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kardhan,Kardhan Rana Park,residential,11068.75,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kardhan,Kardhan Rana Park,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kardhan,Kardhan Shalimar Bagh,residential,8855,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kardhan,Kardhan Shalimar Bagh,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kardhan,Kardhan Shanti Nagar,residential,6957.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kardhan,Kardhan Shanti Nagar,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kardhan,Kardhan Shanti Nagar,residential,7562.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kalarheri,Kalarheri,agricultural,3519.89,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kalarheri,Kalarheri,agricultural,3525.31,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kalarheri,Kalarheri,agricultural,1325.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kalarheri,Kalarheri,agricultural,1225.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kalarheri,Kalarheri,residential,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kalarheri,Kalarheri,commercial,10890,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kalarheri,Kalarheri - National Highway 150 Meters,agricultural,2454.55,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kalarheri,Kalarheri - National Highway 200 Meters,agricultural,2250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kalarheri,Kalarheri Defence Colony,residential,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kalarheri,Kalarheri Defence Colony,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kalarheri,Kalarheri Sec A Defence. Colony,residential,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kalarheri,Kalarheri Sec A Defence. Colony,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kalarheri,Kalarheri Sec B Defence. Colony,residential,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kalarheri,Kalarheri Sec B Defence. Colony,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kalarheri,Kalarheri Sec C Defence. Colony,residential,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kalarheri,Kalarheri Sec C Defence. Colony,commercial,37950,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kalarheri,Kalarheri Sec D Defence. Colony,residential,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Kalarheri,Kalarheri Sec D Defence. Colony,commercial,37812.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,KotKhachwaKalan,Kot Khachwa Kalan,agricultural,700.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,KotKhachwaKalan,Kot Khachwa Kalan,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,KotKhachwaKalan,Kot Khachwa Kalan,agricultural,525.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,KotKhachwaKalan,Kot Khachwa Kalan,residential,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,KotKhachwaKalan,Kot Khachwa Kalan,commercial,5445,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,KotKhachwaKalan,Kot Khachwa Kalan - Link Road 100 Meters,agricultural,1250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,KotKhachwaKhurd,Kot Khachwa Khurd,agricultural,731.82,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,KotKhachwaKhurd,Kot Khachwa Khurd,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,KotKhachwaKhurd,Kot Khachwa Khurd,agricultural,525.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,KotKhachwaKhurd,Kot Khachwa Khurd,residential,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,KotKhachwaKhurd,Kot Khachwa Khurd,commercial,5445,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,KotKhachwaKhurd,Kot Khachwa Khurd - Link Road 100 Meters,agricultural,1250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Khatouli,Khatouli,agricultural,901.7,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Khatouli,Khatouli,agricultural,1502.84,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Khatouli,Khatouli,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Khatouli,Khatouli,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Khatouli,Khatouli,residential,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Khatouli,Khatouli,commercial,8470,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Khatouli,Khatouli - Link Road 100 Meters,agricultural,1250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Khatouli,Khatouli - National Highway 150 Meters,agricultural,2250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Khatouli,Khatouli - National Highway 200 Meters,agricultural,2250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Khudi,Khudi,agricultural,909.55,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Khudi,Khudi,agricultural,2979.55,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Khudi,Khudi,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Khudi,Khudi,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Khudi,Khudi,residential,4235,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Khudi,Khudi,commercial,6325,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Khudi,Khudi - Link Road 100 Meters,agricultural,1250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Khudi,Khudi - National Highway 150 Meters,agricultural,1437.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Khudi,Khudi - National Highway 150 Meters,agricultural,1375.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Khudi,Khudi - National Highway 200 Meters,agricultural,2375.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,KhudaKalan,Khuda Kalan,agricultural,942.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,KhudaKalan,Khuda Kalan,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,KhudaKalan,Khuda Kalan,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,KhudaKalan,Khuda Kalan,residential,4235,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,KhudaKalan,Khuda Kalan,commercial,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,KhudaKalan,Khuda Kalan - Link Road 100 Meters,agricultural,1625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,KhudaKalan,Khuda Kalan - National Highway 150 Meters,agricultural,1375.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,KhudaKalan,Khuda Kalan - National Highway 200 Meters,agricultural,2375.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,KhudaKalan,Khuda Kalan Lal Dora 540,residential,4235,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,KhudaKhurd,Khuda Khurd,agricultural,1670.45,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,KhudaKhurd,Khuda Khurd,agricultural,1175.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,KhudaKhurd,Khuda Khurd,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,KhudaKhurd,Khuda Khurd,residential,4427.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,KhudaKhurd,Khuda Khurd,commercial,8349,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,KhudaKhurd,Khuda Khurd - Link Road 100 Meters,agricultural,1650.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,KhudaKhurd,Khuda Khurd - National Highway 150 Meters,agricultural,1875.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,KhudaKhurd,Khuda Khurd Lal Dora 540,residential,4235,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,KhudaKhurd,Khuda Khurd- National Highway 200 Meters,agricultural,2375.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Khojkipur,Khojkipur,agricultural,1600.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Khojkipur,Khojkipur,agricultural,1500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Khojkipur,Khojkipur,agricultural,1375.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Khojkipur,Khojkipur,residential,10080,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Khojkipur,Khojkipur,commercial,23490,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Khojkipur,Khojkipur - Link Road 100 Meters,agricultural,1750.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Khojkipur,Khojkipur - National Highway 150 Meters,agricultural,1875.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Khojkipur,Khojkipur - National Highway 200 Meters,agricultural,2375.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Khojkipur,Khojkipur Dagri nadhi,residential,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Khojkipur,Khojkipur Lal Dora,residential,4235,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Khojkipur,Khojkipur Lal Dora,commercial,10890,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Khojkipur,Khojkipur Prabhu prem Ashram Block A,residential,8625,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Khojkipur,Khojkipur Prabhu prem Ashram Block A,commercial,22330,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Khojkipur,Khojkipur Prabhu prem Ashram Block B,residential,11040,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Khojkipur,Khojkipur Prabhu prem Ashram Block B,commercial,12650,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Khojkipur,Khojkipur Zone No 6A Preet Nagar,residential,16508.25,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Khojkipur,Khojkipur Zone No 6A Preet Nagar,commercial,38021.88,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Khojkipur,Khojkipur Zone No 6A Tagore Garden,residential,14800.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Khojkipur,Khojkipur Zone No 6A Tagore Garden,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Garnala,Garnala,agricultural,1092.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Garnala,Garnala,agricultural,2587.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Garnala,Garnala,agricultural,800.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Garnala,Garnala,agricultural,700.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Garnala,Garnala,residential,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Garnala,Garnala,commercial,8470,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Garnala,Garnala - National Highway 150 Meters,agricultural,2250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Garnala,Garnala - National Highway 200 Meters,agricultural,2250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Garnala,Garnala- Link Road 100 Meters,agricultural,1250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,ChandPura,Chand Pura,agricultural,1225.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,ChandPura,Chand Pura,agricultural,1500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,ChandPura,Chand Pura,agricultural,1175.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,ChandPura,Chand Pura,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,ChandPura,Chand Pura,residential,4235,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,ChandPura,Chand Pura,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,ChandPura,Chand Pura - Link Road 100 Meters,agricultural,1650.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,ChandPura,Chand Pura - National Highway 150 Meters,agricultural,1875.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Janetpur,Janetpur,agricultural,731.82,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Janetpur,Janetpur,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Janetpur,Janetpur,agricultural,525.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Janetpur,Janetpur,residential,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Janetpur,Janetpur,commercial,5445,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Janetpur,Janetpur - Link Road 100 Meters,agricultural,1363.64,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Janetpur,Janetpur - National Highway 200 Meters,agricultural,2250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone1E,"Zone-1E, Commi, Gurguria Nallah and both side of gurguria Nallah Pacci Sarai Ahata Sagan Chand Gwal",commercial,15840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone1E,"Zone-1E, Resi, Gurguria Nallah and both side of gurguria Nallah Pacci Sarai Ahata Sagan Chand Gwal",residential,7800,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone1A,"Zone-1A, Comm, Starting from indra chowk to Arya Girls College Nallah on jagadhri",commercial,36960,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone1A,"Zone-1A, Resi, Starting from indra chowk to Arya Girls College Nallah on jagadhri",residential,15840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone1H,"Zone-1H, Comm,Topkhana Bazzar",commercial,26400,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone1H,"Zone-1H, Resi, Topkhana Bazzar",residential,9240,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone1G,"Zone-1G, Commi, Sadar Bazaar upto Vijayaratan Chowk and Gurguria Nallah",commercial,74250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone1G,"Zone-1G, Resi, Sadar Bazaar upto Vijayaratan Chowk and Gurguria Nallah",residential,17160,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone1D,"Zone-1D, Comm, BOTh Side of Railway Road And Rai Market",commercial,97440,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone1D,"Zone-1D, Resi, BOTh Side of Railway Road And Rai Market",residential,17160,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone1B,"Zone-1B, Comm, B I Bazar Starting from the chowk of main Municipal which Bridge towards Lakhwati",commercial,42504,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone1B,"Zone-1B, Resi, B I Bazar Starting from the chowk of main Municipal which Bridge towards Lakhwati",residential,15840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone1C,"Zone-1C, Comm, OLD Grant Bungalows Surrounding by The Staff road, Bank Road Along the Staff Road",commercial,36960,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone1C,"Zone-1C, Resi, OLD Grant Bungalows Surrounding by The Staff road, Bank Road Along the Staff Road",residential,15840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone2A,"Zone-2, Resi Starting From premier Motor to Nicholson Road upto",residential,19734,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone2A,"Zone-2, Comm, Starting From premier Motor to Nicholson Road upto",commercial,46200,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone3E,"Zone-3E, Comm, Inner Road Opp. Civil Hospital, Jamana Jawahar Mandir",commercial,33000,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone3E,"Zone-3E, Resi, Inner Road Opp. Civil Hospital, Jamana Jawahar Mandir",residential,15840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone3A,"Zone-3 A, Comm, Area in Between the Nicholson Road to Hill Road",commercial,55440,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone3A,"Zone-3 A, Resi, Area in Between the Nicholson Road to Hill Road",residential,19800,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone3D,"Zone-3D, Commi, Kachha Bazzar Chirimar Mohalla Zone 3D Ambala Cantt",commercial,15840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone3D,"Zone-3D, Resi, Kachha Bazzar Chirimar Mohalla Zone 3D Ambala Cantt",residential,9240,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone3B,"Zone-3 B, Commi Area Between the Cross Road Upto SD College",commercial,36960,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone3B,"Zone-3 B, Resi Area Between the Cross Road Upto SD College",residential,15840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone3C,"Zone-3C Resi, Bengalli Mohalla, Hargolal Road, Palledar Mohalla",residential,9240,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone3C,"Zone-3C, Comm, Bengalli Mohalla, Hargolal Road, Palledar Mohalla",commercial,21120,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone4E,"Zone-4E, Comm, Area In Between Cross Road No 12 and Shaharanpur RLY Line, Bazigar Colony, Mohan Lal",commercial,13200,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone4E,"Zone-4E, Mohan Lal Garden Balmiki Basti Mochi Mandi Ahata Shiv Prasad",residential,8400,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone4E,"Zone-4E, Mohan Lal Garden Balmiki Basti Mochi Mandi Ahata Shiv Prasad",commercial,13200,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone4E,"Zone-4E, Resi, Area between Cross Road No 12 and Shaharanpur RLY Line, Bazigar Colony, Mohan Lal",residential,6600,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone4A,"Zone-4 A, Comm, Panna Cottage, Bipat Garden, D A V School",commercial,22440,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone4A,"Zone-4 A, Resi, Panna Cottage, Bipat Garden, D A V School",residential,10560,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone4F,"Zone-4F, Comm, Area between Cross Road No. 12 and Shahranpur RLY Lines in front of B D Flour Mills",commercial,13200,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone4F,"Zone-4F, Resi, Area between Cross Road No. 12 and Shahranpur RLY Lines in front of B D Flour Mills",residential,6600,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone4D,"Zone-4D, Comm, Area in between Large Road and Housing Board Including Kumhar Mandi H No 1 to 100",commercial,13200,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone4D,"Zone-4D, Resi, Area in between Large Road and Housing Board Including Kumhar Mandi H No 1 to 100",residential,6600,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone4B1,"Zone-4 B1, Comm, Tribune Colony",commercial,60500,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone4B1,"Zone-4 B1, Resi, Tribune Colony",residential,51562.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone4B2,"Zone-4 B2, Comm, Subhash Colony",commercial,36300,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone4B2,"Zone-4 B2, Resi, Subhash Colony",residential,27885,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone4C,"Zone-4C, Comm, Housing Board Colony, Lok Nayak Society",commercial,41745,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone4C,"Zone-4C, Resi, Housing Board Colony, Lok Nayak Society",residential,31102.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone5A,"Zone-5A, Comm, Area in Between Rangla Mandi And Saharanpur RLY Line",commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone5A,"Zone-5A, Resi, Area in Between Rangla Mandi And Saharanpur RLY Line",residential,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone5D,Zone-5D Rangia Mandi,residential,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone5D,Zone-5D Rangia Mandi,commercial,8470,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone5D,"Zone-5D, Ambedkar Colony",residential,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone5D,"Zone-5D, Ambedkar Colony",commercial,8470,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone5D,"Zone-5D, Balmiki Basti-3",residential,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone5D,"Zone-5D, Balmiki Basti-3",commercial,12281.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone5D,"Zone-5D, Bandu Nagar",residential,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone5D,"Zone-5D, Bandu Nagar",commercial,8470,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone5D,"Zone-5D, Bazigar Colony",residential,6600,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone5D,"Zone-5D, Bazigar Colony",commercial,11011,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone5D,"Zone-5D, Deha Colony",residential,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone5D,"Zone-5D, Deha Colony",commercial,8470,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone5D,"Zone-5D, Derabati",residential,10587.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone5D,"Zone-5D, Derabati",commercial,8470,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone5D,"Zone-5D, Dhaka Basti",residential,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone5D,"Zone-5D, Dhaka Basti",commercial,8470,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone5D,"Zone-5D, Gujrati",residential,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone5D,"Zone-5D, Gujrati",commercial,8470,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone5D,"Zone-5D, Indra Colony",residential,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone5D,"Zone-5D, Indra Colony",commercial,8470,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone5D,"Zone-5D, Muda Mandi",residential,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone5D,"Zone-5D, Muda Mandi",commercial,8470,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone5B,"Zone-5B, Comm, Diggi Near Rangia Mandi",commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone5B,"Zone-5B, Resi, Diggi Near Rangia Mandi",residential,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone5C,"Zone-5C, Shashtri Colony",residential,17160,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone5C,"Zone-5C, Shashtri Colony",commercial,38500,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone6E,"Zone-6E, स्लम एरिया टांगरी नदी",residential,4235,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone6E,"Zone-6E, स्लम एरिया टांगरी नदी",commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone6A,"Zone-6A, ग्रीन पार्क",residential,11385,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone6A,"Zone-6A, ग्रीन पार्क",commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone6D,Zone-6D. महेश नगर,residential,19140,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone6D,Zone-6D. महेश नगर,commercial,37812.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone6B,"Zone-6 B, टैगोर नगर",residential,10527,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone6B,"Zone-6 B, टैगोर नगर",commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone7A,"Zone-7, एच एस आई डी सी जगाधरी रोड",residential,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone7A,"Zone-7, एच एस आई डी सी जगाधरी रोड",commercial,17710,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone1F,"Zone-1F, Comm, Area Between the Roads Starting From the Sewa Samiti Chowk",commercial,24200,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Zone1F,"Zone-1F, Resi, Area Between the Roads Starting From the Sewa Samiti Chowk",residential,9680,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Tundla,Tundla,agricultural,950.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Tundla,Tundla,agricultural,800.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Tundla,Tundla,agricultural,700.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Tundla,Tundla,residential,11212.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Tundla,Tundla,commercial,14822.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Tundla,Tundla - Link Road 100 Meters,agricultural,1250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Tundla,Tundla Defence Colony,residential,12650,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Tundla,Tundla Defence Colony,commercial,31625,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Tundla,Tundla Secter A Defence Colony,residential,16500,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Tundla,Tundla Secter A Defence Colony,commercial,31625,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Tundla,Tundla Secter B Defence Colony,residential,15125,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Tundla,Tundla Secter B Defence Colony,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Tundla,Tundla Secter C Defence Colony,residential,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Tundla,Tundla Secter C Defence Colony,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Tundla,Tundla Secter D Defence Colony,residential,12650,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Tundla,Tundla Secter D Defence Colony,commercial,31625,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Tundli,Tundli,agricultural,950.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Tundli,Tundli,agricultural,800.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Tundli,Tundli,agricultural,700.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Tundli,Tundli,residential,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Tundli,Tundli,commercial,8470,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Tundli,Tundli - Link Road 100 Meters,agricultural,1250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Tharwa,Tharwa,agricultural,700.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Tharwa,Tharwa,agricultural,1250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Tharwa,Tharwa,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Tharwa,Tharwa,agricultural,525.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Tharwa,Tharwa,residential,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Tharwa,Tharwa,commercial,5445,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Tharwa,Tharwa - Link Road 100 Meters,agricultural,1250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dukheri,Dukheri,agricultural,1051.25,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dukheri,Dukheri,agricultural,1812.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dukheri,Dukheri,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dukheri,Dukheri,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dukheri,Dukheri,residential,4235,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dukheri,Dukheri,commercial,7562.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dukheri,Dukheri - Link Road 100 Meters,agricultural,1250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dukheri,Dukheri - National Highway 150 Meters,agricultural,1375.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dhankour,Dhankour,agricultural,1475.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dhankour,Dhankour,agricultural,2250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dhankour,Dhankour,agricultural,1325.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dhankour,Dhankour,agricultural,1225.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dhankour,Dhankour,residential,10725,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dhankour,Dhankour,commercial,10890,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dhankour,Dhankour - Link Road 100 Meters,agricultural,2250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dhankour,Dhankour - National Highway 150 Meters,agricultural,2250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dhankour,Dhankour - National Highway 200 Meters,agricultural,2250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dhankour,Dhankour Baldev Nagar,residential,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dhankour,Dhankour Baldev Nagar,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dhankour,Dhankour Dashmesh Nagar,residential,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dhankour,Dhankour Dashmesh Nagar,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dhankour,Dhankour Nai Abadi Hari Nagar,residential,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dhankour,Dhankour Nai Abadi Hari Nagar,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dhankour,Dhankour Parasram Nagar,residential,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dhankour,Dhankour Parasram Nagar,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dhankour,Dhankour Raj Vihar,residential,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dhankour,Dhankour Raj Vihar,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dhankour,Dhankour Resi,residential,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dhankour,Dhankour Resi,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dhankour,Dhankour Subhash Nagar,residential,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dhankour,Dhankour Subhash Nagar,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dhankour,Dhankour p,residential,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dhankour,Dhankour p,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dhanyora,Dhanyora,agricultural,700.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dhanyora,Dhanyora,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dhanyora,Dhanyora,agricultural,525.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dhanyora,Dhanyora,residential,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dhanyora,Dhanyora,commercial,5445,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dhanyora,Dhanyora - Link Road 100 Meters,agricultural,1250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dhanyori,Dhanyori,agricultural,700.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dhanyori,Dhanyori,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dhanyori,Dhanyori,agricultural,525.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dhanyori,Dhanyori,residential,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dhanyori,Dhanyori,commercial,5445,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dhanyori,Dhanyori - Link Road 100 Meters,agricultural,1250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Ghasitpur,Ghasitpur,agricultural,1670.45,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Ghasitpur,Ghasitpur,agricultural,1175.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Ghasitpur,Ghasitpur,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Ghasitpur,Ghasitpur,residential,7411.25,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Ghasitpur,Ghasitpur,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Ghasitpur,Ghasitpur - Link Road 100 Meters,agricultural,1650.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Ghasitpur,Ghasitpur - National Highway 150 Meters,agricultural,1875.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dhurali,Dhurali,agricultural,700.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dhurali,Dhurali,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dhurali,Dhurali,agricultural,525.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dhurali,Dhurali,residential,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dhurali,Dhurali,commercial,5445,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Dhurali,Dhurali - Link Road 100 Meters,agricultural,1250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal,agricultural,1600.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal,agricultural,1500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal,agricultural,1375.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal,residential,14400,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal,commercial,25920,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal - Link Road 100 Meters,agricultural,1750.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal - National Highway 150 Meters,agricultural,1875.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6A Naggal Gobind Ngar,residential,17491.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6A Naggal Gobind Ngar,commercial,42000,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal In Tagrai Nadi,residential,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Kirti Nagar,residential,8937.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Kirti Nagar,commercial,16100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Lal Dora,residential,4235,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal New Indira Puri Colony,residential,8250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal New Indira Puri Colony,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal New Janak Puri,residential,10062.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal New Janak Puri,commercial,17545,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Nirmal Vihar,residential,7150,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Nirmal Vihar,commercial,13200,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Palam Vihar A,residential,6900,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Palam Vihar A,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Palam Vihar C,residential,9918.75,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Palam Vihar C,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal RamKishan Colony,residential,9360,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal RamKishan Colony,commercial,16500,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Shanti Nagar,residential,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Shanti Nagar,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Shanti Nagar,residential,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6A Agarsain Nagar,residential,13612.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6A Agarsain Nagar,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6A Durga Nagar,residential,18009,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6A Durga Nagar,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6A Green Park,residential,14800.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6A Green Park,commercial,33000,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6A Krishna Nagar,residential,11385,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6A Krishna Nagar,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6A New Aggarsain Nagar,residential,10890,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6A New Aggarsain Nagar,commercial,37812.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6A Raja Park,residential,14040,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6A Raja Park,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6A Rani Bagh,residential,17226,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6A Rani Bagh,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6B Amar Nagar,residential,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6B Amar Nagar,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6B Ekta Vihar,residential,10800,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6B Ekta Vihar,commercial,37812.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6B Guru Nank Nagar,residential,10350,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6B Guru Nank Nagar,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6B Inderpuri,residential,10764,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6B Inderpuri,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6B Jai Colony,residential,7590,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6B Jai Colony,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6B Jain Nagar,residential,11616,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6B Jain Nagar,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6B Jankpuri,residential,7590,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6B Jankpuri,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6B Nirmal Vihar,residential,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6B Nirmal Vihar,commercial,31625,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6B Ram Nagar,residential,12075,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6B Ram Nagar,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6B Ramkishan Colony,residential,10800,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6B Ramkishan Colony,commercial,39325,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6B Ravi Dass Nagar,residential,8349,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6B Ravi Dass Nagar,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6B Shivpuri,residential,11385,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6B Shivpuri,commercial,34787.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6B Sukhdham Nagar,residential,7920,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6B Sukhdham Nagar,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6B Tagore Nagar,residential,10800,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6B Tagore Nagar,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6B Tara Nagar,residential,11005.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6B Tara Nagar,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6C Super Market,residential,13200,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,Naggal Zone No 6C Super Market,commercial,31625,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,NaggalGanesh Vihar Ganesh Garden,residential,10500,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Naggal,NaggalGanesh Vihar Ganesh Garden,commercial,18342.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Nanhera,Nanhera,agricultural,1531.25,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Nanhera,Nanhera,agricultural,1175.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Nanhera,Nanhera,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Nanhera,Nanhera,residential,9135,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Nanhera,Nanhera,commercial,16380,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Nanhera,Nanhera - Link Road 100 Meters,agricultural,1650.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Nanhera,Nanhera - National Highway 150 Meters,agricultural,1875.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Nanhera,Nanhera Lal Dora,residential,7411.25,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Nanhera,Nanhera Railwy Line,residential,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Nanhera,Nanhera Railwy Line to uttar purv,residential,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Nanhera,Nanhera Zone 8 HUDA Sector 32,residential,20570,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Nanhera,Nanhera Zone 8 HUDA Sector 32,commercial,26620,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Panjokhra,Panjokhra,agricultural,1187.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Panjokhra,Panjokhra,agricultural,2812.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Panjokhra,Panjokhra,agricultural,800.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Panjokhra,Panjokhra,agricultural,833.75,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Panjokhra,Panjokhra,agricultural,790.91,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Panjokhra,Panjokhra,residential,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Panjokhra,Panjokhra,commercial,9900,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Panjokhra,Panjokhra - Link Road 100 Meters,agricultural,1250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Panjokhra,Panjokhra - National Highway 200 Meters,agricultural,2250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Pilkhani,Pilkhani,agricultural,833.75,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Pilkhani,Pilkhani,agricultural,1437.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Pilkhani,Pilkhani,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Pilkhani,Pilkhani,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Pilkhani,Pilkhani,residential,4235,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Pilkhani,Pilkhani,commercial,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Pilkhani,Pilkhani - Link Road 100 Meters,agricultural,1250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Pilkhani,Pilkhani - National Highway 150 Meters,agricultural,1375.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Fazailpur,Fazailpur,agricultural,725.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Fazailpur,Fazailpur,agricultural,1250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Fazailpur,Fazailpur,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Fazailpur,Fazailpur,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Fazailpur,Fazailpur,residential,4235,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Fazailpur,Fazailpur,commercial,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Fazailpur,Fazailpur - Link Road 100 Meters,agricultural,1250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Farouli,Farouli,agricultural,906.25,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Farouli,Farouli,agricultural,1562.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Farouli,Farouli,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Farouli,Farouli,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Farouli,Farouli,residential,4235,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Farouli,Farouli,commercial,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Farouli,Farouli - Link Road 100 Meters,agricultural,1250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Farouli,Farouli - National Highway 150 Meters,agricultural,1375.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal,agricultural,1750.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal,residential,12180,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal,commercial,21131.25,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal - Link Road 100 Meters,agricultural,1750.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal - National Highway 150 Meters,agricultural,1875.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal New Rana Complex,residential,7800,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal New Rana Complex,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Zone No 6D Mahesh Nagar,residential,17192.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Zone No 6D Mahesh Nagar,commercial,35750,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal 4200,residential,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal 4200,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Aggarwal Complex,residential,13200,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Aggarwal Complex,commercial,13915,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Ajeet Nagar,residential,15525,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Ajeet Nagar,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Anand Nagar Block A,residential,8250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Anand Nagar Block A,commercial,21175,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Anand Nagar Block D,residential,6325,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Anand Nagar Block D,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Basanti Ma Colony,residential,8772.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Basanti Ma Colony,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Basanti Mata Colony,residential,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Basanti Mata Colony,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Bhart Nagar,residential,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Bhart Nagar,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Dalipgarh,residential,8580,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Dalipgarh,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Dalipgarh Colony,residential,8400,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Dalipgarh Colony,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Dinesh Nagar,residential,7273.75,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Dinesh Nagar,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Durga Colony,residential,8625,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Durga Colony,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Guga Mari,residential,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Guga Mari,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Harish Nagar,residential,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Harish Nagar,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal In Tagrai Nadi,residential,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Kismat Nagar,residential,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Kismat Nagar,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Krishana Nagar,residential,8970,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Krishana Nagar,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Kuldeep Nagar,residential,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Kuldeep Nagar,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Kuldeep Nagar B,residential,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Kuldeep Nagar B,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Lal Dora,residential,9432.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Mahesh Nagar,residential,13200,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Mahesh Nagar,commercial,52937.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Mamta Vihar Colony,residential,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Mamta Vihar Colony,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Motti Bagh,residential,10500,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Motti Bagh,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Nasib Nagar,residential,7562.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Nasib Nagar,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal New Dayal Bagh,residential,13440,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal New Dayal Bagh,commercial,22080,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal New Paras Nagar,residential,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal New Paras Nagar,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal New Paras Nagar,residential,7150,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Paras Nagar,residential,9171.25,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Paras Nagar,commercial,19360,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Rajinder Nagar,residential,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Rajinder Nagar,commercial,12650,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Rajindra Nagar,residential,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Rajindra Nagar,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Ram Pur,residential,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Ram Pur,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Rampur,residential,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Rampur,commercial,21175,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Rana Complex,residential,8855,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Rana Complex,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Sainik Nagar,residential,10725,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Sainik Nagar,commercial,13200,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Sainik Nagar Ext,residential,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Sainik Nagar Ext,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Shyam Nagar,residential,9750,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Shyam Nagar,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Vasisht Nagar,residential,10350,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Vasisht Nagar,commercial,16800,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Vijay Nagar,residential,6957.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Vijay Nagar,commercial,13200,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Zone 6B Mati Dass Nagar,residential,12937.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Zone 6B Mati Dass Nagar,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Zone No 6 A Arya Nagar,residential,10890,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Zone No 6 A Arya Nagar,commercial,39531.25,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Zone No 6 B Ashok Nagar,residential,12168,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Zone No 6 B Ashok Nagar,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Zone No 6 B Chhabyana Majri,residential,12705,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Zone No 6 B Chhabyana Majri,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Zone No 6 B Khatik Mandi,residential,7920,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Zone No 6 B Khatik Mandi,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Zone No 6 B Pratap Nagar,residential,9360,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Zone No 6 B Pratap Nagar,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Zone No 6 B Rajindera Park,residential,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Zone No 6 B Rajindera Park,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Zone No 6A Ajit Nagar,residential,13092.75,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Zone No 6A Ajit Nagar,commercial,43862.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Zone No 6B Ashok Vihar,residential,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Zone No 6B Ashok Vihar,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Zone No 6B Dayal Bahg,residential,12558,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Zone No 6B Dayal Bahg,commercial,33000,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Zone No 6B Golden Park,residential,17325,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Zone No 6B Golden Park,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Zone No 6B Kabir Nagar,residential,7590,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Zone No 6B Kabir Nagar,commercial,35750,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Zone No 6B Lajwanti Colony,residential,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Zone No 6B Lajwanti Colony,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Zone No 6B Rajindra Nagar,residential,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Zone No 6B Rajindra Nagar,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Zone No 6B Shashti Nagar,residential,7920,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Zone No 6B Shashti Nagar,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Zone No 6B Shivpartap Nagar,residential,15007.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Zone No 6B Shivpartap Nagar,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Zone No 6B Tubewell Colony,residential,7920,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Zone No 6B Tubewell Colony,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Zone No 6B Vashist Nagar,residential,12075,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Zone No 6B Vashist Nagar,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Zone No 6E Slum Area Between Tangri River and Bandh list of khasra no separately attached,residential,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babyal,Babyal Zone No 6E Slum Area Between Tangri River and Bandh list of khasra no separately attached,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Barnala,Barnala,agricultural,1917.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Barnala,Barnala,agricultural,2659.09,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Barnala,Barnala,agricultural,1325.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Barnala,Barnala,agricultural,1670.45,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Barnala,Barnala,residential,10350,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Barnala,Barnala,commercial,20250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Barnala,Barnala - Great Kailash,residential,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Barnala,Barnala - Great Kailash,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Barnala,Barnala - National Highway 150 Meters,agricultural,2454.55,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Barnala,Barnala - National Highway 200 Meters,agricultural,2250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Barnala,Barnala Raj Bihar राज विहार,residential,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Barnala,Barnala Raj Bihar राज विहार,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Bara,Bara,agricultural,937.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Bara,Bara,agricultural,1562.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Bara,Bara,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Bara,Bara,residential,4427.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Bara,Bara,commercial,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Bara,Bara - Link Road 100 Meters,agricultural,1250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Bara,Bara - National Highway 150 Meters,agricultural,1375.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babaheri,Babaheri,agricultural,700.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babaheri,Babaheri,agricultural,1250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babaheri,Babaheri,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babaheri,Babaheri,agricultural,525.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babaheri,Babaheri,residential,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babaheri,Babaheri,commercial,5445,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Babaheri,Babaheri - Link Road 100 Meters,agricultural,1250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Begampura,Begampura,agricultural,1225.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Begampura,Begampura,agricultural,1175.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Begampura,Begampura,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Begampura,Begampura,residential,5293.75,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Begampura,Begampura,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Begampura,Begampura - Link Road 100 Meters,agricultural,1650.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Begampura,Begampura - National Highway 150 Meters,agricultural,1875.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Boh,Boh,agricultural,1225.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Boh,Boh,agricultural,1625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Boh,Boh,agricultural,1175.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Boh,Boh,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Boh,Boh,residential,8373.75,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Boh,Boh,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Boh,Boh - Link Road 100 Meters,agricultural,1750.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Boh,Boh - National Highway 150 Meters,agricultural,1875.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Boh,Boh Anand Nagar Block A,residential,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Boh,Boh Anand Nagar Block A,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Boh,Boh Bank Colony,residential,8250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Boh,Boh Bank Colony,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Boh,Boh Bus Adda Colony,residential,8772.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Boh,Boh Bus Adda Colony,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Boh,Boh Defense enclave,residential,8937.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Boh,Boh Defense enclave,commercial,16500,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Boh,Boh Lal Dora,residential,4235,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Boh,Boh Near Nala,residential,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Bohawa,Bohawa,agricultural,1225.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Bohawa,Bohawa,agricultural,1175.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Bohawa,Bohawa,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Bohawa,Bohawa,residential,4235,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Bohawa,Bohawa,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Bohawa,Bohawa - Link Road 100 Meters,agricultural,1650.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Bohawa,Bohawa - National Highway 150 Meters,agricultural,1875.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Brahmanmajra,Brahmanmajra,agricultural,725.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Brahmanmajra,Brahmanmajra,agricultural,1250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Brahmanmajra,Brahmanmajra,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Brahmanmajra,Brahmanmajra,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Brahmanmajra,Brahmanmajra,residential,4235,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Brahmanmajra,Brahmanmajra,commercial,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Brahmanmajra,Brahmanmajra - Link Road 100 Meters,agricultural,1250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Brahmanmajra,Brahmanmajra - National Highway 150 Meters,agricultural,1375.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Bhelpura,Bhelpura,agricultural,725.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Bhelpura,Bhelpura,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Bhelpura,Bhelpura,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Bhelpura,Bhelpura,residential,4235,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Bhelpura,Bhelpura,commercial,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Bhelpura,Bhelpura - Link Road 100 Meters,agricultural,1250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Bhelpura,Bhelpura - National Highway 150 Meters,agricultural,1375.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Maglai,Maglai,agricultural,1355.33,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Maglai,Maglai,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Maglai,Maglai,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Maglai,Maglai,residential,4870.25,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Maglai,Maglai,commercial,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Maglai,Maglai - Link Road 100 Meters,agricultural,1250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Maglai,Maglai - National Highway 150 Meters,agricultural,1375.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Maglai,Maglai - National Highway 200 Meters,agricultural,2375.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Machunda,Machunda,agricultural,1225.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Machunda,Machunda,agricultural,1175.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Machunda,Machunda,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Machunda,Machunda,residential,4235,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Machunda,Machunda,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Machunda,Machunda - Link Road 100 Meters,agricultural,1650.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Machunda,Machunda - National Highway 150 Meters,agricultural,1875.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Machunda,Machunda Lal Dora,residential,4235,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Machunda,Machunda Sai ka Bhag,residential,6957.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Machunda,Machunda Sai ka Bhag,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Machundi,Machundi,agricultural,1225.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Machundi,Machundi,agricultural,1175.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Machundi,Machundi,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Machundi,Machundi,residential,4235,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Machundi,Machundi,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Machundi,Machundi - Link Road 100 Meters,agricultural,1650.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Machundi,Machundi - National Highway 150 Meters,agricultural,1875.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Mandhour,Mandhour,agricultural,1475.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Mandhour,Mandhour,agricultural,2250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Mandhour,Mandhour,agricultural,1325.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Mandhour,Mandhour,agricultural,1225.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Mandhour,Mandhour,residential,8470,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Mandhour,Mandhour,commercial,10890,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Mandhour,Mandhour - National Highway 150 Meters,agricultural,2250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Mandhour,Mandhour - National Highway 200 Meters,agricultural,2250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Mandhour,Mandhour Asha Singh Gardan,residential,15125,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Mandhour,Mandhour Asha Singh Gardan,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Mandhour,Mandhour Jaggi Gardan,residential,15812.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Mandhour,Mandhour Jaggi Gardan,commercial,34787.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Mandhour,Mandhour Naraingarh Road,residential,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Mandhour,Mandhour Naraingarh Road,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Mandhour,Mandhour New Jaggi Gardan,residential,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Mandhour,Mandhour New Jaggi Gardan,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Mandhour,Mandhour Sethi Inclave,residential,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Mandhour,Mandhour Sethi Inclave,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Mandhour,Mandhour Sunder Nagar,residential,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Mandhour,Mandhour Sunder Nagar,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Mandhour,Mandhour Tagore Gardan,residential,17875,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Mandhour,Mandhour Tagore Gardan,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Majri,Majri,agricultural,700.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Majri,Majri,agricultural,1000.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Majri,Majri,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Majri,Majri,agricultural,525.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Majri,Majri,residential,5060,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Majri,Majri,commercial,5445,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Majri,Majri - Link Road 100 Meters,agricultural,1250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Mirjapur,Mirjapur,agricultural,700.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Mirjapur,Mirjapur,agricultural,1250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Mirjapur,Mirjapur,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Mirjapur,Mirjapur,agricultural,525.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Mirjapur,Mirjapur,residential,5280,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Mirjapur,Mirjapur,commercial,9281.25,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Mirjapur,Mirjapur - Link Road 100 Meters,agricultural,1250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Mirapur,Mirapur,agricultural,1225.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Mirapur,Mirapur,agricultural,1175.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Mirapur,Mirapur,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Mirapur,Mirapur,residential,4235,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Mirapur,Mirapur,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Mirapur,Mirapur - Link Road 100 Meters,agricultural,1650.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Mirapur,Mirapur - National Highway 150 Meters,agricultural,1875.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Munarheri,Munarheri,agricultural,725.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Munarheri,Munarheri,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Munarheri,Munarheri,agricultural,627.27,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Munarheri,Munarheri,residential,4870.25,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Munarheri,Munarheri,commercial,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Munarheri,Munarheri - Link Road 100 Meters,agricultural,1250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Munarheri,Munarheri - National Highway 150 Meters,agricultural,1375.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Mohra,Mohra,agricultural,1336.36,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Mohra,Mohra,agricultural,1636.36,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Mohra,Mohra,agricultural,1175.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Mohra,Mohra,agricultural,1534.09,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Mohra,Mohra,residential,4870.25,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Mohra,Mohra,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Mohra,Mohra - Link Road 100 Meters,agricultural,1650.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Mohra,Mohra - National Highway 150 Meters,agricultural,1875.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Mohra,Mohra - National Highway 200 Meters,agricultural,2375.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Ratanheri,Ratanheri,agricultural,906.25,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Ratanheri,Ratanheri,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Ratanheri,Ratanheri,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Ratanheri,Ratanheri,residential,4235,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Ratanheri,Ratanheri,commercial,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Ratanheri,Ratanheri - Link Road 100 Meters,agricultural,1250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Ratanheri,Ratanheri - National Highway 150 Meters,agricultural,1375.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Rawala,Rawala,agricultural,1472.78,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Rawala,Rawala,agricultural,1983.75,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Rawala,Rawala,agricultural,1175.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Rawala,Rawala,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Rawala,Rawala,residential,11025,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Rawala,Rawala,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Rawala,Rawala - Link Road 100 Meters,agricultural,1650.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Rawala,Rawala - National Highway 150 Meters,agricultural,1875.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Rampur,Rampur,agricultural,1225.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Rampur,Rampur,agricultural,1175.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Rampur,Rampur,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Rampur,Rampur,residential,8736,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Rampur,Rampur,commercial,15007.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Rampur,Rampur - Link Road 100 Meters,agricultural,1625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Rampur,Rampur - National Highway 150 Meters,agricultural,1750.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Rampur,Rampur - National Highway 200 Meters,agricultural,2375.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Rampur,Rampur Arjun Nagar A,residential,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Rampur,Rampur Arjun Nagar A,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Rampur,Rampur Azad Nagar,residential,7562.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Rampur,Rampur Azad Nagar,commercial,17940,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Rampur,Rampur Indra Colony 2,residential,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Rampur,Rampur Indra Colony 2,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Rampur,Rampur Indra Colony B,residential,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Rampur,Rampur Indra Colony B,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,RamgarhUrfSarifpura,Ramgarh Urf Sarifpura,agricultural,1531.25,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,RamgarhUrfSarifpura,Ramgarh Urf Sarifpura,agricultural,2062.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,RamgarhUrfSarifpura,Ramgarh Urf Sarifpura,agricultural,1225.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,RamgarhUrfSarifpura,Ramgarh Urf Sarifpura,agricultural,1175.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,RamgarhUrfSarifpura,Ramgarh Urf Sarifpura,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,RamgarhUrfSarifpura,Ramgarh Urf Sarifpura,residential,4235,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,RamgarhUrfSarifpura,Ramgarh Urf Sarifpura,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,RamgarhUrfSarifpura,Ramgarh Urf Sarifpura - Link Road 100 Meters,agricultural,1650.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,RamgarhUrfSarifpura,Ramgarh Urf Sarifpura - National Highway 150 Meters,agricultural,1875.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Regeya,Regeya,agricultural,700.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Regeya,Regeya,agricultural,1250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Regeya,Regeya,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Regeya,Regeya,agricultural,525.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Regeya,Regeya,residential,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Regeya,Regeya,commercial,5445,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Regeya,Regeya - Link Road 100 Meters,agricultural,1250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Shahpur,Shahpur,agricultural,1225.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Shahpur,Shahpur,agricultural,1175.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Shahpur,Shahpur,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Shahpur,Shahpur,residential,9135,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Shahpur,Shahpur,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Shahpur,Shahpur - Link Road 100 Meters,agricultural,1650.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Shahpur,Shahpur - National Highway 150 Meters,agricultural,1875.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Shekmajra,Shekmajra,agricultural,725.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Shekmajra,Shekmajra,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Shekmajra,Shekmajra,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Shekmajra,Shekmajra,residential,4235,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Shekmajra,Shekmajra,commercial,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Shekmajra,Shekmajra - Link Road 100 Meters,agricultural,1375.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Shekmajra,Shekmajra - National Highway 150 Meters,agricultural,1625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Saphera,Saphera,agricultural,1447.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Saphera,Saphera,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Saphera,Saphera,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Saphera,Saphera,residential,4235,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Saphera,Saphera,commercial,8250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Saphera,Saphera - Link Road 100 Meters,agricultural,1306.82,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Saphera,Saphera - National Highway 150 Meters,agricultural,1375.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Sarsheri,Sarsheri,agricultural,1225.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Sarsheri,Sarsheri,agricultural,1175.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Sarsheri,Sarsheri,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Sarsheri,Sarsheri,residential,5293.75,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Sarsheri,Sarsheri,commercial,10350,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Sarsheri,Sarsheri - Link Road 100 Meters,agricultural,1225.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Sarsheri,Sarsheri - Link Road 100 Meters,agricultural,1650.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Sarsheri,Sarsheri - Link Road 150 Meters,agricultural,1875.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Sarsheri,Sarsheri In Tagrai Nadi,residential,6325,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Sarsheri,Sarsheri Indra Colony B,residential,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Sarsheri,Sarsheri Indra Colony B,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Sarsheri,Sarsheri Lal Dora,residential,4235,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Sarsheri,Sarsheri New Colony,residential,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Sarsheri,Sarsheri New Colony,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Sarsheri,Sarsheri Zone No 6 E Slum Area Between Tangri River and Bandh list of khasra no seprately attached,residential,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Sarsheri,Sarsheri Zone No 6 E Slum Area Between Tangri River and Bandh list of khasra no seprately attached,commercial,7623,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Sarsheri,Sarsheri Zone No 6B Golden Park,residential,11592,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Sarsheri,Sarsheri Zone No 6B Golden Park,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Salarheri,Pooja Vihar Salarheri,residential,9343.75,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Salarheri,Pooja Vihar Salarheri,commercial,12650,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Salarheri,Salarheri,agricultural,1447.73,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Salarheri,Salarheri,agricultural,1175.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Salarheri,Salarheri,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Salarheri,Salarheri,residential,4235,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Salarheri,Salarheri,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Salarheri,Salarheri - Link Road 100 Meters,agricultural,1625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Salarheri,Salarheri - National Highway 150 Meters,agricultural,1875.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Salarheri,Salarheri - National Highway 200 Meters,agricultural,2375.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Salarheri,Salarheri Lal Dora,residential,4235,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Salarheri,Salarheri New Colony,residential,9343.75,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Salarheri,Salarheri New Colony,commercial,19140,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Sahabpura,Sahabpura,agricultural,906.25,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Sahabpura,Sahabpura,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Sahabpura,Sahabpura,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Sahabpura,Sahabpura,residential,4235,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Sahabpura,Sahabpura,commercial,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Sahabpura,Sahabpura - Link Road 100 Meters,agricultural,1250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Ambalacantt,Sahabpura,Sahabpura - National Highway 150 Meters,agricultural,1375.0,2026-04-01,ambala_gov_in_dc_notification

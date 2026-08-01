@@ -1,0 +1,243 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Panipat,Samalkha,Samalkha,Factory Area/Colony,industrial,4000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Social educational medical institutions,commercial,2200,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Aata,Gairmumkin,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Aata,Gairmumkin,commercial,6655,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Aata,Lal Dora,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Aata,Link Road up to 2 acres,agricultural,450.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Aata,Link Road up to 2 acres,agricultural,625.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Karhans,Gairmumkin,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Karhans,GT Road both sides 3 to 6 acres,agricultural,845.45,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Karhans,GT Road both sides 3 to 6 acres,agricultural,1636.36,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Karhans,GT Road both sides up to 1 acre,agricultural,2250.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Karhans,GT Road both sides up to 1 acre,commercial,6655,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Karhans,Lal Dora,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Karhans,Link Road up to 2 acres,agricultural,810.23,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Karhans,Link Road up to 2 acres,agricultural,1306.82,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Karhans,Link Road up to 2 acres,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Karkauli,Gairmumkin,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Karkauli,Lal Dora,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Karkauli,Link Road up to 2 acres,agricultural,400.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Karkauli,Link Road up to 2 acres,agricultural,550.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Karkauli,Remaining area,agricultural,400.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Kiwana,Kiwana,agricultural,531.82,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Kiwana,Kiwana,agricultural,738.64,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Kiwana,Kiwana,residential,4235,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Kiwana,Kiwana,commercial,6655,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Kiwana,Gairmumkin,residential,4235,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Kiwana,Lal Dora,residential,4235,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,GarhiChhajju,Gairmumkin,residential,4235,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,GarhiChhajju,Lal Dora,residential,4235,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,GarhiChhajju,Link Road up to 2 acres,agricultural,450.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,GarhiChhajju,Link Road up to 2 acres,agricultural,625.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,GarhiChhajju,Remaining area,agricultural,450.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,GarhiChhajju,Samalkha-Bapoli Road up to 2 acres,agricultural,875.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Chulkana,Gairmumkin,residential,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Chulkana,Chulkana,agricultural,653.41,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Chulkana,Chulkana,agricultural,836.36,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Chulkana,Chulkana,residential,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Chulkana,Chulkana,commercial,12100,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Chulkana,Chulkana,commercial,6655,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Chulkana,Lal Dora,residential,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,ChadiyaYusufpur,Gairmumkin,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,ChadiyaYusufpur,Chadiya Yusufpur,agricultural,500.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,ChadiyaYusufpur,Chadiya Yusufpur,agricultural,625.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,ChadiyaYusufpur,Lal Dora,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,JaurasiKhalsa,Gairmumkin,residential,3162.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,JaurasiKhalsa,Lal Dora,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,JaurasiKhalsa,Link Road up to 2 acres,agricultural,450.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,JaurasiKhalsa,Link Road up to 2 acres,agricultural,625.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,JaurasiSurfKhas,Gairmumkin,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,JaurasiSurfKhas,Lal Dora,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,JaurasiSurfKhas,Link Road up to 2 acres,agricultural,400.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,JaurasiSurfKhas,Link Road up to 2 acres,agricultural,550.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Jhatipur,GT Road both sides up to 2 acres,agricultural,2250.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Jhatipur,GT Road 3 to 6 acres,agricultural,1500.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Jhatipur,Lal Dora,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Jhatipur,Link Road up to 2 acres,agricultural,775.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Jhatipur,Link Road up to 2 acres,agricultural,1250.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Jhatipur,Gairmumkin,residential,3575,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Dikadla,Gairmumkin,residential,4235,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Dikadla,Lal Dora,residential,4235,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Dikadla,Link Road up to 2 acres,agricultural,513.22,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Dikadla,Link Road up to 2 acres,agricultural,712.81,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Dhindar,Gairmumkin,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Dhindar,Lal Dora,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Dhindar,Link Road up to 2 acres,agricultural,400.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Dhindar,Link Road up to 2 acres,agricultural,550.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Dhodhpur,Gairmumkin,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Dhodhpur,Lal Dora,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Dhodhpur,Link Road up to 2 acres,agricultural,400.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Dhodhpur,Link Road up to 2 acres,agricultural,550.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Dehra,Gairmumkin,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Dehra,Lal Dora,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Dehra,Link Road up to 2 acres,agricultural,450.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Dehra,Link Road up to 2 acres,agricultural,625.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Narayana,Gairmumkin,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Narayana,Lal Dora,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Narayana,Link Road up to 2 acres,agricultural,450.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Narayana,Link Road up to 2 acres,agricultural,625.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Namunda,Gairmumkin,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Namunda,Lal Dora,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Namunda,Link Road up to 2 acres,agricultural,470.45,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Namunda,Link Road up to 2 acres,agricultural,653.41,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Patkalyana,Gairmumkin,residential,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Patkalyana,GT Road both sides 3 to 6 acres,agricultural,1636.36,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Patkalyana,GT Road both sides up to 2 acres,agricultural,805.79,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Patkalyana,GT Road both sides up to 2 acres,agricultural,2900.83,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Patkalyana,Lal Dora,residential,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Patkalyana,Link Road up to 2 acres,agricultural,867.77,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Patkalyana,Link Road up to 2 acres,agricultural,1388.43,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Pawti,Gairmumkin,residential,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Pawti,Gairmumkin,commercial,12100,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Pawti,Lal Dora,residential,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Pawti,Link Road up to 2 acres,agricultural,712.81,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Pawti,Link Road up to 2 acres,agricultural,1283.06,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Firozpur,Gairmumkin,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Firozpur,Lal Dora,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Firozpur,Link Road up to 2 acres,agricultural,400.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Firozpur,Link Road up to 2 acres,agricultural,625.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Firozpur,Remaining area,agricultural,400.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Basahda,Gairmumkin,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Basahda,Lal Dora,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Basahda,Link Road up to 2 acres,agricultural,400.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Basahda,Link Road up to 2 acres,agricultural,525.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Bilaspur,Gairmumkin,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Bilaspur,Lal Dora,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Bilaspur,Link Road up to 2 acres,agricultural,400.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Bilaspur,Link Road up to 2 acres,agricultural,525.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Biholi,Gairmumkin,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Biholi,Lal Dora,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Biholi,Link Road up to 2 acres,agricultural,450.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Biholi,Link Road up to 2 acres,agricultural,625.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Biholi,Link Road up to 2 acres,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Biholi,Link Road up to 2 acres,commercial,6655,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Budhanpur,Gairmumkin,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Budhanpur,Lal Dora,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Budhanpur,Link Road up to 2 acres,agricultural,400.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Budhanpur,Link Road up to 2 acres,agricultural,525.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Bhapra,Officer Colony Commercial,commercial,20570,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Bhapra,Officer Colony Residential,residential,9487.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Bhapra,Kamla Nagar Bhapra,residential,9075,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Bhapra,Gairmumkin,residential,9075,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Bhapra,GT Road both sides inside MC,commercial,32670,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Bhapra,GT Road up to 2 acres,agricultural,1425.62,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Bhapra,GT Road up to 2 acres,agricultural,3920.45,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Bhapra,MC area width 30 yards or less,commercial,12100,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Bhapra,Inside Municipality remaining,agricultural,2250.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Bhapra,Pashu Aspatal to Khel Stadium both sides,commercial,18150,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Bhapra,Lal Dora,residential,9487.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Bhapra,Shastri Nagar Bhapra,residential,9075,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Bhapra,Sangam Colony Bhapra,residential,9075,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,BhodwalMajri,Gairmumkin,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,BhodwalMajri,Lal Dora,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,BhodwalMajri,Link Road up to 2 acres,agricultural,681.82,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,BhodwalMajri,Link Road up to 2 acres,agricultural,1227.27,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Machhrauli,Gairmumkin,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Machhrauli,GT Road 3 to 6 acres,agricultural,1500.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Machhrauli,GT Road both sides up to 2 acres,agricultural,2250.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Machhrauli,GT Road both sides up to 2 acres,commercial,6655,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Machhrauli,Lal Dora,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Machhrauli,Link Road up to 2 acres,agricultural,1104.86,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Machhrauli,Link Road up to 2 acres,agricultural,1782.02,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Machhrauli,Link Road up to 2 acres,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Manana,Gairmumkin,residential,4235,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Manana,Gairmumkin,commercial,6655,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Manana,GT Road 3 to 6 acres,agricultural,1500.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Manana,GT Road both sides up to 2 acres,agricultural,1152.89,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Manana,GT Road both sides up to 2 acres,agricultural,3347.11,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Manana,Lal Dora,residential,4235,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Manana,Link Road up to 2 acres,agricultural,810.23,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Manana,Link Road up to 2 acres,agricultural,1306.82,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Mahawati,Gairmumkin,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Mahawati,Lal Dora,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Mahawati,Link Road up to 2 acres,agricultural,450.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Mahawati,Link Road up to 2 acres,agricultural,550.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Raksahera,Gairmumkin,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Raksahera,Lal Dora,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Raksahera,Link Road up to 2 acres,agricultural,418.18,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Raksahera,Link Road up to 2 acres,agricultural,575.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,ShaharMalpur,Gairmumkin,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,ShaharMalpur,Lal Dora,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,ShaharMalpur,Link Road up to 2 acres,agricultural,470.45,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,ShaharMalpur,Link Road up to 2 acres,agricultural,575.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Adarsh Nagar,residential,16940,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Adarsh Nagar,commercial,22137.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Industrial Area,commercial,24805,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Kath Mandi,residential,24200,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Krishna Colony,residential,8580,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Khatik Mohalla and Sarai Mohalla,residential,7381,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Gandhi Nagar Purani Anaj Mandi,commercial,18755,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Chand Colony,residential,13915,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Chand Colony,commercial,20240,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Chulkana Road Cinema shops railway line,commercial,25410,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Chulkana Road residential beyond railway,residential,10285,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Chulkana Road railway line shops,commercial,14520,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Jai Hind Complex,residential,21780,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Jai Hind Complex,commercial,26620,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,GT Road both sides,residential,32670,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,GT Road both sides,commercial,35640,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,GT Road up to 2 acres,agricultural,2481.82,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,GT Road up to 2 acres,agricultural,3545.45,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Jaurasi Road behind residential,residential,9075,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Jaurasi Road Samalkha commercial,commercial,12650,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Thana Road and Gulati Road commercial,commercial,37950,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Thana Road and Gulati Road residential,residential,24200,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Durga Colony,residential,9075,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,New Anaj Mandi,commercial,41745,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Outside MC limit plots,residential,7273.75,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Panchvati Colony,residential,16940,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Panchvati Colony,commercial,22385,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Punjabi Market commercial,commercial,14520,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Behind Pawti Road,residential,9075,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Purani Gud Mandi,residential,14520,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Purani Gud Mandi,commercial,19607.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Purani Sabzi Mandi,residential,14520,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Purani Sabzi Mandi,commercial,18342.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Pritampura,residential,5445,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Fatehchand wali Gali,residential,10120,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Bagwala Mohalla,residential,7273.75,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Biholi and Bhapra Road commercial,commercial,18150,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Biholi and Bhapra Road residential,residential,13310,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Behind Biholi Road,residential,9075,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Bluejay Road both sides,residential,11385,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Bluejay Road both sides,commercial,26015,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Bhadbhujo wali Gali,residential,9317,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Bharat Nagar,residential,5445,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Manana and Narayana Road commercial,commercial,11220,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Manana and Narayana Road residential,residential,6655,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Mahavir Basti commercial,commercial,25410,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Mahavir Basti residential,residential,20872.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Mata Mandir Road commercial,commercial,25410,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Mata Mandir Road residential,residential,18150,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Rajiv Colony,residential,9900,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Beyond railway line to Revenue Estate,residential,6655,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Railway Road both sides shops,commercial,59512.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Behind Railway Road residential plots,residential,19800,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Behind Railway Road both sides commercial,commercial,25410,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Railway Road to Samaj Seva Samiti Road,residential,11880,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Railway Road to Samaj Seva Samiti Road,commercial,23402.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Lakshmi Nagar / Gandhi Colony,residential,8855,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Beyond line Chulkana Road plots,residential,6655,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Near Shamshan Ghat Dakaout Colony,residential,6957.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Shiv Colony,residential,6957.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Shri Shyam Enclave Sector,residential,13310,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,GT Road Samalkha,residential,18150,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,GT Road Samalkha,commercial,18150,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Samalkha Abadi,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Samalkha Padav commercial,commercial,31625,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Samalkha Padav residential,residential,22770,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Samalkha Pawti Road commercial,commercial,12100,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Samalkha Model Town,residential,15125,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Samalkha Model Town,commercial,25410,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Samalkha and Bhapra,commercial,13200,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Sita Ram Colony,residential,10890,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Samalkha,Hanuman Basti / Rajasthan Colony,residential,7260,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Hathwala,Gairmumkin,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Hathwala,Lal Dora,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Hathwala,Link Road up to 2 acres,agricultural,450.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Hathwala,Link Road up to 2 acres,agricultural,625.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Haldana,Gairmumkin,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Haldana,Lal Dora,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Haldana,Link Road up to 2 acres,agricultural,600.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Samalkha,Haldana,Link Road up to 2 acres,agricultural,872.73,2026-04-01,panipat_gov_in_dc_notification

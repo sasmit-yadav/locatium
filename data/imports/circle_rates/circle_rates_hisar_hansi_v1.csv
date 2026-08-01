@@ -1,0 +1,614 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Hisar,Hansi,Umra,1 to 5 acres 1000 sqyd,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Umra,1 to 5 acres 1000 sqyd,commercial,6500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Umra,Nahri Chahi,agricultural,371.9,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Umra,Barani Tibba Tal,agricultural,289.26,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Umra,Gair Mumkin,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Umra,Umra,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Umra,Umra Road up to 2 acres,agricultural,578.51,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Umra,Umra Road Umra limit,agricultural,495.87,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Umra,Umra Road 3 to 5 acres,agricultural,475.21,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Kanwari,Nahri Chahi,agricultural,371.9,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Kanwari,Barani Tibba Tal,agricultural,289.26,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Kanwari,Gair Mumkin,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Kanwari,Kanwari,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Kajal,Nahri Chahi,agricultural,371.9,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Kajal,Barani Tibba Tal,agricultural,289.26,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Kajal,Gair Mumkin,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Kajal,Kajal,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Kutubpur,1 to 5 acres 1000 sqyd,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Kutubpur,1 to 5 acres 1000 sqyd,commercial,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Kutubpur,NH10 3 to 5 acres,agricultural,1177.69,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Kutubpur,Nahri Chahi,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Kutubpur,Barani Tibba Tal,agricultural,330.58,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Kutubpur,Gair Mumkin,agricultural,557.85,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Kutubpur,Kutubpur,residential,2300,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Kutubpur,Kutubpur NH10 up to 2 acres,agricultural,2090.91,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Kutubpur,Kutubpur to Dhana Kalan,agricultural,1818.18,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Kutubpur,Kutubpur Road Kutubpur limit,agricultural,578.51,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Kutubpur,Kutubpur Hansi to Kharad Road up to 2 acres,agricultural,805.79,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Kumbha,Nahri Chahi,agricultural,371.9,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Kumbha,Barani Tibba Tal,agricultural,289.26,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Kumbha,Banjar,agricultural,289.26,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Kumbha,Gair Mumkin,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Kumbha,Kumbha,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Kulana,Nahri Chahi,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Kulana,Barani Tibba Tal,agricultural,289.26,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Kulana,Gair Mumkin,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Kulana,Kulana,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Kharkara,Nahri Chahi,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Kharkara,Barani Tibba Tal,agricultural,289.26,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Kharkara,Gair Mumkin,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Kharkara,Kharkara,residential,2500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Khanpur,1 to 5 acres 1000 sqyd,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Khanpur,1 to 5 acres 1000 sqyd,commercial,6500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Khanpur,Nahri Chahi,agricultural,371.9,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Khanpur,Barani Tibba Tal,agricultural,289.26,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Khanpur,Gair Mumkin,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Khanpur,Khanpur,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Khanpur,Khanpur to Hansi Road up to 2 acres,agricultural,431.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Khanpur,Khanpur Road 3 to 5 acres,agricultural,363.64,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,KhediGagan,1 to 5 acres 1000 sqyd,residential,3400,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,KhediGagan,1 to 5 acres 1000 sqyd,commercial,5700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,KhediGagan,Nahri Chahi,agricultural,330.58,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,KhediGagan,Barani Tibba Tal,agricultural,247.93,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,KhediGagan,Gair Mumkin,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,KhediGagan,Khedi Gagan,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,KhediGagan,Khedi Gagan Jind Road 3 to 5 acres,agricultural,363.64,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,KhediGagan,Khedi Gagan Jind Road Hansi up to 2 acres,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,KhediGagan,Jind Bypass Jind Road Khedi Gagan,agricultural,431.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,KhediBarkesh,Khedi Barkesh,residential,1800,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,KhediBarkesh,Nahri Chahi,agricultural,330.58,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,KhediBarkesh,Barani Tibba Tal,agricultural,247.93,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,KhediBarkesh,Gair Mumkin,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Gadhi,1 to 5 acres 1000 sqyd,residential,3500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Gadhi,1 to 5 acres 1000 sqyd,commercial,5700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Gadhi,Nahri Chahi,agricultural,471.28,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Gadhi,Barani Tibba Tal,agricultural,268.6,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Gadhi,Gair Mumkin,agricultural,475.21,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Gadhi,Gadhi,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Gadhi,Gadhi NH10 up to 2 acres,agricultural,1095.04,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Gadhi,Gadhi NH10 3 to 5 acres,agricultural,661.16,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Gurana,Nahri Chahi,agricultural,371.9,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Gurana,Barani Tibba Tal,agricultural,289.26,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Gurana,Gair Mumkin,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Gurana,Gurana,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Ghiraye,1 to 5 acres 1000 sqyd,residential,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Ghiraye,1 to 5 acres 1000 sqyd,commercial,7500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Ghiraye,Nahri Chahi,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Ghiraye,Barani Tibba Tal,agricultural,289.26,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Ghiraye,Gair Mumkin,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Ghiraye,Ghiraye,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Ghiraye,Ghiraye Barwala Road up to 2 acres,agricultural,578.51,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Ghiraye,Barwala Road 3 to 5 acres,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Chanaut,1 to 5 acres 1000 sqyd,residential,3800,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Chanaut,1 to 5 acres 1000 sqyd,commercial,6500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Chanaut,Nahri Chahi,agricultural,371.9,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Chanaut,Barani Tibba Tal,agricultural,289.26,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Chanaut,Gair Mumkin,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Chanaut,Chanaut,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Chanaut,Chanaut Road 3 to 5 acres,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Chanaut,Chanaut to Hansi Road up to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Jamawadi,Nahri Chahi,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Jamawadi,Barani Tibba Tal,agricultural,289.26,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Jamawadi,Gair Mumkin,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Jamawadi,Jamawadi,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Tharva,Nahri Chahi,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Tharva,Barani Tibba Tal,agricultural,289.26,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Tharva,Gair Mumkin,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Tharva,Tharva,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Data,Nahri Chahi,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Data,Barani Tibba Tal,agricultural,289.26,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Data,Gair Mumkin,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Data,Data,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Dundheri,Dundheri,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Dundheri,Nahri Chahi,agricultural,351.24,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Dundheri,Barani Tibba Tal,agricultural,268.6,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Dundheri,Gair Mumkin,agricultural,475.21,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,DhanaKalan,Nahri Chahi,agricultural,549.59,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,DhanaKalan,Barani Tibba Tal,agricultural,371.9,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,DhanaKalan,Gair Mumkin,agricultural,671.49,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,DhanaKalan,Dhana Kalan,residential,4500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,DhanaKalan,1 to 5 acres 1000 sqyd,commercial,7800,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,DhanaKalan,1 to 5 acres 1000 sqyd,residential,5200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,DhanaKalan,Dhana NH10 both sides up to 2 acres,agricultural,1735.54,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,DhanaKalan,Dhana NH10 both sides 3 to 5 acres,agricultural,1198.35,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,DhanaKalan,Dhana New NH10 both sides up to 2 acres,agricultural,1301.65,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,DhanaKalan,Dhana New NH10 3 to 5 acres,agricultural,785.12,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Dhurana,Nahri Chahi,agricultural,330.58,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Dhurana,Barani Tibba Tal,agricultural,247.93,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Dhurana,Gair Mumkin,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Dhurana,Dhurana,residential,1700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Depal,Nahri Chahi,agricultural,361.57,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Depal,Barani Tibba Tal,agricultural,268.6,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Depal,Gair Mumkin,agricultural,475.21,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Depal,Depal,residential,1800,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Dhamian,Nahri Chahi,agricultural,330.58,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Dhamian,Barani Tibba Tal,agricultural,247.93,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Dhamian,Gair Mumkin,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Dhamian,Dhamian,residential,1800,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,PuthiMangalkhan,Nahri Chahi,agricultural,362.6,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,PuthiMangalkhan,Barani Tibba Tal Banjar,agricultural,268.6,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,PuthiMangalkhan,Gair Mumkin,agricultural,475.21,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,PuthiMangalkhan,Puthi Mangalkhan,residential,1700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Bandaheri,1 to 5 acres 1000 sqyd,residential,3400,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Bandaheri,1 to 5 acres 1000 sqyd,commercial,5700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Bandaheri,Nahri Chahi,agricultural,330.58,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Bandaheri,Barani Tibba Tal,agricultural,237.6,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Bandaheri,Gair Mumkin,agricultural,433.88,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Bandaheri,Bandaheri,residential,1900,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,BeedHansi,Bandaheri NH10 both sides up to 2 acres,agricultural,1115.7,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,BeedHansi,Bandaheri NH both sides 3 to 5 acres,agricultural,661.16,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,BeedHansi,1 to 5 acres 1000 sqyd,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,BeedHansi,1 to 5 acres 1000 sqyd,commercial,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,BeedHansi,Beed Sisai Road Hansi both sides up to 2 acres,agricultural,545.45,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,BeedHansi,Beed Sisai Road both sides 3 to 5 acres,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,BeedHansi,Nahri Chahi,agricultural,371.9,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,BeedHansi,Barani Tibba Tal,agricultural,289.26,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,BeedHansi,Gair Mumkin,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,BeedHansi,Beed Hansi,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Bhatla,1 to 5 acres 1000 sqyd,residential,3800,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Bhatla,1 to 5 acres 1000 sqyd,commercial,6500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Bhatla,Bhatla,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Bhatla,Nahri Chahi,agricultural,371.9,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Bhatla,Barani Tibba Tal,agricultural,289.26,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Bhatla,Gair Mumkin,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Bhatla,Bhatla Barwala Road both sides 3 to 5 acres,agricultural,475.21,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Bhatla,Bhatla Hansi to Barwala Road both sides up to 2 acres,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,BhatolJatan,Nahri Chahi,agricultural,371.9,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,BhatolJatan,Barani Tibba Tal,agricultural,289.26,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,BhatolJatan,Gair Mumkin,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,BhatolJatan,Bhatol Jatan,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,BhatolRangran,Nahri Chahi,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,BhatolRangran,Barani Tibba Tal,agricultural,289.26,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,BhatolRangran,Gair Mumkin,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,BhatolRangran,Bhatol Rangdan,residential,2500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Masudpur,Nahri Chahi,agricultural,371.9,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Masudpur,Barani Tibba Tal Banjar,agricultural,289.26,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Masudpur,Gair Mumkin,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Masudpur,Masudpur,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Mahenda,Nahri Chahi,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Mahenda,Barani Tibba Tal,agricultural,289.26,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Mahenda,Gair Mumkin,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Mahenda,Mahenda,residential,2200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Majaud,Nahri Chahi,agricultural,371.9,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Majaud,Barani Tibba Tal,agricultural,289.26,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Majaud,Gair Mumkin,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Majaud,Majaud,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Ramayana,1 to 5 acres 1000 sqyd,residential,4500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Ramayana,1 to 5 acres 1000 sqyd,commercial,7500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Ramayana,Nahri Chahi,agricultural,351.24,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Ramayana,Barani Tibba Tal,agricultural,268.6,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Ramayana,Gair Mumkin,agricultural,475.21,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Ramayana,Ramayana,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Ramayana,Ramayana GT Road 3 to 5 acres,agricultural,1342.98,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Ramayana,Ramayana GT Road up to 2 acres,agricultural,2582.64,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Shaladeri,Nahri Chahi,agricultural,351.24,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Shaladeri,Barani Tibba Tal,agricultural,268.6,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Shaladeri,Gair Mumkin,agricultural,475.21,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Shaladeri,Shaladeri,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Shekhpura,1 to 5 acres 1000 sqyd,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Shekhpura,1 to 5 acres 1000 sqyd,commercial,6000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Shekhpura,Nahri Chahi,agricultural,351.24,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Shekhpura,Barani Tibba Tal,agricultural,247.93,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Shekhpura,Gair Mumkin,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Shekhpura,Shekhpura,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Shekhpura,Shekhpura NH up to 2 acres,agricultural,1136.36,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Shekhpura,Shekhpura New NH 3 to 5 acres,agricultural,826.45,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Shekhpura,Shekhpura New NH 3 to 5 acres,residential,4500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Shekhpura,Shekhpura New NH 3 to 5 acres,commercial,6000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Shekhpura,Shekhpura Hansi Jind Road up to 2 acres,agricultural,1189.67,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Shekhpura,Shekhpura Hansi Jind Road up to 2 acres,residential,5500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Shekhpura,Shekhpura Hansi Jind Road up to 2 acres,commercial,6500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Shekhpura,Shekhpura Hansi Jind Road 3 to 5 acres,agricultural,950.41,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Shekhpura,Shekhpura with Hansi limit up to 1 acre,agricultural,1136.36,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Sindhad,1 to 5 acres 1000 sqyd,residential,3500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Sindhad,1 to 5 acres 1000 sqyd,commercial,5700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Sindhad,Sindhad Barwala Road Hansi up to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Sindhad,Nahri Chahi,agricultural,330.58,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Sindhad,Barani Tibba Tal,agricultural,247.93,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Sindhad,Gair Mumkin,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Sindhad,Sindhad,residential,1700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Sindhad,Sindhad Barwala Road 3 to 5 acres,agricultural,371.9,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,SindhwaRaghav,1 to 5 acres 1000 sqyd,residential,3500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,SindhwaRaghav,1 to 5 acres 1000 sqyd,commercial,5800,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,SindhwaRaghav,Sindhwa Raghav Barwala Road 3 to 5 acres,agricultural,371.9,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,SindhwaRaghav,Barwala Road Hansi up to 2 acres,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,SindhwaRaghav,Sindhwa Raghav,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,SindhwaRaghav,Nahri Chahi,agricultural,403.93,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,SindhwaRaghav,Barani Tibba Tal,agricultural,289.26,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,SindhwaRaghav,Gair Mumkin,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,SisaiKaliravan,Nahri Chahi,agricultural,403.93,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,SisaiKaliravan,Barani Tibba Tal,agricultural,268.6,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,SisaiKaliravan,Gair Mumkin,agricultural,743.8,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,SisaiKaliravan,Sisai Kaliravan,residential,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,SisaiKaliravan,Sisai Kaliravan Hansi Road up to 2 acres,agricultural,557.85,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,SisaiKaliravan,Sisai Kaliravan Hansi Road up to 2 acres,residential,5500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,SisaiKaliravan,Sisai Kaliravan Hansi Road up to 2 acres,commercial,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,SisaiKaliravan,Sisai Kaliravan Hansi Road 3 to 5 acres,agricultural,537.19,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,SisaiKaliravan,Sisai Kaliravan Hansi Road 3 to 5 acres,residential,3800,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,SisaiKaliravan,Sisai Kaliravan Hansi Road 3 to 5 acres,commercial,6500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,SisaiBola,Nahri Chahi,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,SisaiBola,Barani Tibba Tal,agricultural,289.26,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,SisaiBola,Gair Mumkin,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,SisaiBola,Sisai Bola,residential,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,SisaiBola,Sisai Bola Phirni adjoining khasra,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,SisaiBola,Sisai Bola Phirni adjoining khasra Tal,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,SisaiBola,Sisai Bola Phirni adjoining khasra,residential,3800,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Sultanpur,Nahri Chahi,agricultural,371.9,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Sultanpur,Barani Tibba Tal,agricultural,268.6,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Sultanpur,Gair Mumkin,agricultural,495.87,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Sultanpur,Sultanpur,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Sorkhi,1 to 5 acres 1000 sqyd,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Sorkhi,1 to 5 acres 1000 sqyd,commercial,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Sorkhi,Nahri Chahi,agricultural,371.9,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Sorkhi,Barani Tibba Tal,agricultural,289.26,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Sorkhi,Gair Mumkin,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Sorkhi,Sorkhi,residential,2600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Sorkhi,Sorkhi NH10 up to 2 acres,agricultural,1198.35,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Sorkhi,Sorkhi NH10 3 to 5 acres,agricultural,743.8,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Mujadpur,Nahri Chahi,agricultural,371.9,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Mujadpur,Barani Tibba Tal,agricultural,289.26,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Mujadpur,Gair Mumkin,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Mujadpur,Mujadpur,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hajampur,1 to 5 acres 1000 sqyd,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hajampur,1 to 5 acres 1000 sqyd,commercial,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hajampur,Tosham Road Hajampur limit,agricultural,681.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hajampur,Road 3 to 5 acres,agricultural,475.21,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hajampur,Nahri Chahi,agricultural,371.9,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hajampur,Barani Tibba Tal,agricultural,289.26,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hajampur,Gair Mumkin,agricultural,454.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hajampur,Hajampur,residential,2200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hajampur,Hajampur Tosham Road up to 2 acres,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Banda Bahadur Colony,residential,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Banda Bahadur Colony,commercial,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,NH10 Hansi up to 2 acres,agricultural,2004.13,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,BDPO Block Back Side,residential,6500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,BDPO Block Back Side,commercial,8000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Grain Market,commercial,40000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Kath Mandi,residential,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Kath Mandi,commercial,23000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,New Press,residential,7700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,New Press,commercial,18000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Sector 2,residential,11000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Sector 2,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Sector-10 Commercial Colony Hansi,commercial,33000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Agrasen Colony,residential,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Agrasen Colony,commercial,15000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Anaj Mandi,commercial,40000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Amar Market-2,residential,13000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Amar Market-2,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Amar Market,residential,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Amar Market,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Ambedkar Chowk to Court Chowk GT,residential,26000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Ambedkar Chowk to Court Chowk GT,commercial,45000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Ambedkar Chowk to Badsi Gate,residential,18000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Ambedkar Chowk to Badsi Gate,commercial,44000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Ambedkar Nagar Kharad Road,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Ambedkar Nagar Kharad Road,commercial,6100,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Azad Chowk,residential,4500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Azad Chowk,commercial,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Adarsh Nagar Court Colony,residential,7500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Adarsh Nagar Court Colony,commercial,15000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Arya Nagar Hira Nagar,residential,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Arya Nagar Hira Nagar,commercial,14500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Indra Colony,residential,6500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Indra Colony,commercial,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Employees Colony,residential,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Employees Colony,commercial,11000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Umra Gate to Badsi Gate,residential,15000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Umra Gate to Badsi Gate,commercial,40000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Uttam Nagar,residential,13000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Uttam Nagar,commercial,20000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Umra Gate,residential,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Umra Gate,commercial,42000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Umra Gate to Haji Saraye,residential,15000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Umra Gate to Haji Saraye,commercial,35000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Umra Road 2 acres Hansi limit,agricultural,991.74,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,NH10 both sides Hansi up to 2 acres,agricultural,1859.5,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,NH10 Hansi 3 to 5 acres,agricultural,1074.38,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Kachahri Chowk to Umra Gate Main Road,commercial,29000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Karn Kunj,residential,5200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Karn Kunj,commercial,8000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Custodian Colony,residential,6000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Custodian Colony,commercial,15000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Kala Patthar Colony,residential,6000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Kala Patthar Colony,commercial,8000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Kali Devi Chowk to Delhi Pul Main GT Road both sides,commercial,30000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Kali Devi Mandir Colony,residential,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Kali Devi Mandir Colony,commercial,23000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Kalidevi Chowk to Vishwakarma Chowk Main Road both sides,commercial,25000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Kalidevi Chowk Tosham Chungi,residential,11000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Kalidevi Chowk Tosham Chungi,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Qila Bazar,residential,9500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Qila Bazar,commercial,26000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Kutubpur Road Hansi limit,agricultural,826.45,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Kutubpur to Dhana Kalan Road both sides 2 acres Hansi,agricultural,1632.23,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Krishna Nagar,residential,8500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Krishna Nagar,commercial,11500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Krishna Colony,residential,7500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Krishna Colony,commercial,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Opposite Krishna Colony and Yati Nagar,commercial,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Court Road Tehsil Road,residential,11000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Court Road Tehsil Road,commercial,20000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Court Chowk to Hisar Chungi GT,residential,30000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Court Chowk to Hisar Chungi GT,commercial,45000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Kharad Chungi Colony,residential,4500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Kharad Chungi Colony,commercial,7500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Kharad Road,residential,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Kharad Road,commercial,8000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Ganga Sahi Colony,residential,5500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Ganga Sahi Colony,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Garhi Cheta Ramayan Gaja Bagh,residential,8000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Garhi Cheta Ramayan Gaja Bagh,commercial,22500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Ganesh Colony,residential,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Ganesh Colony,commercial,8000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Gali Chand Chole Wali,residential,15000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Gali Chand Chole Wali,commercial,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Gali Pansariyan,residential,8400,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Gali Pansariyan,commercial,23000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Gali Sahriyan,residential,5700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Gali Sahriyan,commercial,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Gali Halwaiyan,residential,13000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Gali Halwaiyan,commercial,26000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Gali Hijde Wali,residential,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Gali Hijde Wali,commercial,8000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Gandhi Colony,residential,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Gandhi Colony,commercial,34000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Gandhi Market,commercial,34000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Guru Nanak Pura,residential,13000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Guru Nanak Pura,commercial,32000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Gusai Gate Gusai,residential,4500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Gusai Gate Gusai,commercial,13000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Gas Agency Road,residential,15000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Gas Agency Road,commercial,30000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Charan Singh Market East Bus Stand,residential,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Charan Singh Market East Bus Stand,commercial,29000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Char Kutub Gate Basti,residential,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Char Kutub Gate Basti,commercial,8000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Chowk Naiyan,residential,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Chowk Naiyan,commercial,8500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Chaupta Bazar to Delhi Gate,residential,20000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Chaupta Bazar to Delhi Gate,commercial,47000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Chaupta to Delhi Gate,residential,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Chaupta to Delhi Gate,commercial,42000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Chaupta Sadar Bazar,residential,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Chaupta Sadar Bazar,commercial,56000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Chhote Ram Colony,residential,9500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Chhote Ram Colony,commercial,19000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Jagdish Colony,residential,6000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Jagdish Colony,commercial,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Jagannath Mandi,residential,14000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Jagannath Mandi,commercial,26000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Jawahar Nagar,residential,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Jawahar Nagar,commercial,20000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Jawahar Nagar-2,residential,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Jawahar Nagar-2,commercial,15500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Jawahar Nagar-3,residential,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Jawahar Nagar-3,commercial,15500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Jat Dharamshala to Umra Gate Main Road both sides,commercial,26000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Jind Chowk Bypass to Barwala,residential,7500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Bypass,commercial,13000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Jind Bypass Road to Jind Chungi Road both sides,commercial,23000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Jind Bypass Jind Road Shekhpura limit,agricultural,1239.67,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Jind Bypass Jind Road Hansi limit,agricultural,1239.67,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Jind Road Near BDPO Block,residential,8000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Jind Road Near BDPO Block,commercial,15000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Jind Road old octroi post Barwala Road Bypass,residential,7500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Jind Road old octroi post Barwala Road Bypass,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Jain Gali,residential,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Jain Gali,commercial,14000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Behind Truck Union,residential,7500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Behind Truck Union,commercial,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Dadal Park,residential,8000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Dadal Park,commercial,11500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Data Road 2 acres Hansi limit,agricultural,929.75,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Diggi Miththan Lal Main Road,residential,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Diggi Miththan Lal Main Road,commercial,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Tosham Chungi to Ambedkar,residential,33000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Tosham Chungi to Ambedkar,commercial,52000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Tosham Road Hansi limit,agricultural,1136.36,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Tosham Road,residential,8000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Tosham Road,commercial,20000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Dada Bazar,residential,11500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Dada Bazar,commercial,30000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Dayal Singh Colony,residential,6500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Dayal Singh Colony,commercial,8500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Durga Colony,residential,6500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Durga Colony,commercial,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Dhola Kuan Lal Sadak,residential,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Dhola Kuan Lal Sadak,commercial,20000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,New Anaj Mandi near BDPO Block,commercial,40000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Near State Bank Shanti Nagar,residential,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Near State Bank Shanti Nagar,commercial,30000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Near Government College,residential,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Near Government College,commercial,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Near Dhobi Talab,residential,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Near Dhobi Talab,commercial,8500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Nand Nagri,residential,6000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Nand Nagri,commercial,8000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Neem Chowk,residential,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Neem Chowk,commercial,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,New Subhash Nagar behind Mukti Dham,residential,7500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,New Subhash Nagar behind Mukti Dham,commercial,13000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Patel Nagar,residential,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Patel Nagar,commercial,8500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Panchayati Dharamshala,residential,8000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Panchayati Dharamshala,commercial,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Palika Bazar,commercial,24000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Power House to Hansi,agricultural,2004.13,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Power House to Hansi limit,agricultural,2004.13,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Old Bus Stand to New Bus Stand,residential,23000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Old Bus Stand to New Bus Stand,commercial,37000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Puthi Mangalkha Road,residential,14000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Puthi Mangalkha Road,commercial,22000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Old Court Chowk to Hisar Chungi GT Road,residential,29000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Old Court Chowk to Hisar Chungi GT Road,commercial,45000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Old Sabzi Mandi Area,residential,8000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Old Sabzi Mandi Area,commercial,15000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Premnagar,residential,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Premnagar,commercial,8000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Fikapeer Gol Kothi Haji Sarai,residential,8000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Fikapeer Gol Kothi Haji Sarai,commercial,18000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Friends Colony-1,residential,8500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Friends Colony-1,commercial,15000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Friends Colony-2,residential,8800,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Friends Colony-2,commercial,15000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Bajaria Chowk Umra Gate to Pratap,residential,24000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Bajaria Chowk Umra Gate to Pratap,commercial,50000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Bajaria Chowk to Dhola Kuan,residential,11500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Bajaria Chowk to Dhola Kuan,commercial,30000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Badsi Gate to Bharat Cinema,residential,21000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Badsi Gate to Bharat Cinema,commercial,50000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Badsi Gate to Vishwakarma Chowk,residential,21000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Badsi Gate to Vishwakarma Chowk,commercial,43000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Barwala Pul to Sainipura,residential,6500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Barwala Pul to Sainipura,commercial,8500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Barwala Pul Petrol Pump,residential,6500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Barwala Pul Petrol Pump,commercial,8500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Barwala Road 2 acres Hansi limit,agricultural,1136.36,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Barwala Road Chanaut Ghiraye Singwa,agricultural,475.21,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Barwala Road Bhatla limit up to 2 acres,agricultural,578.51,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Bag Khuba Wala,residential,7500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Bag Khuba Wala,commercial,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Bag Radha Kishan,residential,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Bag Radha Kishan,commercial,20000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Balmiki Mohalla,residential,6500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Balmiki Mohalla,commercial,9500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Bodha Ram Colony,residential,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Bodha Ram Colony,commercial,15400,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Bhagat Singh Road,residential,15000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Bhagat Singh Road,commercial,34000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Bhatia Colony,residential,5500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Bhatia Colony,commercial,9500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Bhatia Colony-2,residential,5500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Bhatia Colony-2,commercial,9500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Bharat Cinema to Lal Sadak,residential,13000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Bharat Cinema to Lal Sadak,commercial,34000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Bhiwani Road Hansi limit,agricultural,1177.69,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Mandi Sainiyan,residential,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Mandi Sainiyan,commercial,13000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Malik Hospital to Puthi Road limit,residential,7500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Malik Hospital to Puthi Road limit,commercial,21000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Model Town Extension,residential,8000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Model Town Extension,commercial,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Model Town,residential,21000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Model Town,commercial,34000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Mukti Dham Area,residential,8000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Mukti Dham Area,commercial,15000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Multan Colony-2,residential,7700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Multan Colony-2,commercial,14000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Multan Colony,residential,7700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Multan Colony,commercial,14000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Mem Ka Bagh,residential,15000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Mem Ka Bagh,commercial,27000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Mohalla Radhakishan Srinivas License 123,residential,18000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Mohalla Radhakishan Srinivas License 123,commercial,23000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Mohalla Chamaran,residential,4500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Mohalla Chamaran,commercial,15000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Mohalla Chaudhariyan,residential,8000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Mohalla Chaudhariyan,commercial,20000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Mohalla Regdan Balmik Basti,residential,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Mohalla Regdan Balmik Basti,commercial,9100,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Mohalla Sainiyan,residential,6500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Mohalla Sainiyan,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Mohalla Kasaban,residential,7500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Mohalla Kasaban,commercial,11500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Mohalla Khatiyan PMC,residential,6000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Mohalla Khatiyan PMC,commercial,10500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Mohalla Darjiyan,residential,6000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Mohalla Darjiyan,commercial,8500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Yati Nagar,residential,17000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Yati Nagar,commercial,40000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Ravidas Nagar,residential,7500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Ravidas Nagar,commercial,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Ram Nagar Colony,residential,8000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Ram Nagar Colony,commercial,23000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Ram Lal Colony,residential,6500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Ram Lal Colony,commercial,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Ram Singh Colony,residential,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Ram Singh Colony,commercial,8500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Rampura Colony,residential,8000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Rampura Colony,commercial,13000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Roop Nagar Colony,residential,8000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Roop Nagar Colony,commercial,14000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Railway Colony,residential,7500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Railway Colony,commercial,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Lal Sadak to Rampura School,residential,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Lal Sadak to Rampura School,commercial,24000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Vakil Colony,residential,14000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Vakil Colony,commercial,23000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Vakil Colony-2,residential,13000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Vakil Colony-2,commercial,21000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Vikas Nagar,residential,8000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Vikas Nagar,commercial,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Virat Nagar,residential,6000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Virat Nagar,commercial,8000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Vishwakarma Colony,residential,7800,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Vishwakarma Chowk to Aamti Talab,residential,11000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Vishwakarma Chowk to Aamti Talab,commercial,26000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Vishwakarma Chowk to Jind Chungi Main Road,commercial,19000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Vishwakarma Chowk to Jind Chungi,residential,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Vishwakarma Chowk to Jind Chungi,commercial,29000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Vishwakarma Chowk Jind Chowk,residential,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Vishwakarma Chowk Jind Chowk,commercial,29000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Vishwakarma Nagar,residential,6000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Vishwakarma Nagar,commercial,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Shanti Niketan Colony,residential,8000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Shanti Niketan Colony,commercial,20000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Shri Kalidevi Road Jagannath,residential,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Shri Kalidevi Road Jagannath,commercial,24000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Sabzi Mandi,commercial,45000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Samadha Road,residential,4500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Samadha Road,commercial,8000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Sai Baba Colony,residential,6500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Sai Baba Colony,commercial,9000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,City Police Station Area,residential,8500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,City Police Station Area,commercial,21000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Sisai Pul Area,residential,4500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Sisai Pul Area,commercial,8000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Sisai Pul Road,residential,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Sisai Pul Road,commercial,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Sisai Road 2 acres Hansi limit,agricultural,826.45,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Sisai Road Beed Hansi Sisai,agricultural,475.21,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Subhash Nagar,residential,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Subhash Nagar,commercial,15000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Shopping Centre,residential,18000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Shopping Centre,commercial,29000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Hanuman Lakshman Chautara Colony,residential,6500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Hanuman Lakshman Chautara Colony,commercial,12000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Hansi NH10 both sides 3 to 5 acres,agricultural,1342.98,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Hansi NH 3 to 5 acres,agricultural,1342.98,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Hansi outside MC limits Nahri Chahi,agricultural,929.75,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Hansi outside MC limits Barani Tibba Tal,agricultural,867.77,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Hansi outside MC limits Gair Mumkin,agricultural,1239.67,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Hansi outside MC limits,residential,6500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Hansi outside MC limits,commercial,8500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Hansi to Dhana,agricultural,1342.98,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Hansi to Dhani Kutubpur Road up to 2 acres,agricultural,950.41,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Hansi to Tosham Road both sides 3 to 5 acres,agricultural,991.74,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Hansi to Barwala Road both sides 3 to 5 acres,agricultural,991.74,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Hansi to Bandaheri,agricultural,950.41,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Hansi to Bhiwani Road up to 2 acres,agricultural,1342.98,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Hansi to Bhiwani Road 3 to 5 acres,agricultural,991.74,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Housing Board Colony,residential,13000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Housing Board Colony,commercial,15000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Hansi inside MC limits Nahri Chahi,agricultural,1704.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Hansi inside MC limits Gair Mumkin,agricultural,2479.34,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Hansi inside MC limits,residential,8500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Hisar Chungi to Peer Bab GT,residential,13000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Hisar Chungi to Peer Bab GT,commercial,27000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Hudda Colony Sector-5,residential,23000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Hudda Colony Sector-5,commercial,30000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Hudda Colony Sector-6,residential,28000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Hudda Colony Sector-6,commercial,38000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Vaibhav Developer Sector-9,residential,18000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Vaibhav Developer Sector-9,commercial,35000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Auto Market,commercial,35000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Sector-1 Gokuldham Shri Krishna Enclave Park Avenue,residential,18000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Sector-1 Gokuldham Shri Krishna Enclave Park Avenue,commercial,35000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Sector-4 Indravati Enclave,residential,16000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Sector-4 Indravati Enclave,commercial,32000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Hansi to Tosham Road Mauja Hansi up to 2 acres,agricultural,1198.35,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Hansi to Barwala Road Mauja Hansi up to 2 acres,agricultural,1198.35,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Hansi,Hansi,Hansi to Umra Road Mauja Hansi up to 2 acres,agricultural,1198.35,2026-04-01,hisar_gov_in_dc_notification

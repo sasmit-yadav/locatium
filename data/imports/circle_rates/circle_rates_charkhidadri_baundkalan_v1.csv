@@ -1,0 +1,109 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Charkhi Dadri,Baund Kalan,Achina,Achina,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Achina,Achina,agricultural,300.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Achina,Achina,agricultural,250.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Achina,Achina,residential,1670,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Achina,Achina,commercial,3920,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Un,Un,agricultural,400.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Un,Un,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Un,Un,agricultural,250.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Un,Un,residential,1331,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Un,Un,commercial,3267,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Kasni,Kasni,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Kasni,Kasni,agricultural,275.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Kasni,Kasni,agricultural,250.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Kasni,Kasni,residential,1331,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Kasni,Kasni,commercial,3267,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Kohlawas,Kohlawas,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Kohlawas,Kohlawas,agricultural,300.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Kohlawas,Kohlawas,agricultural,250.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Kohlawas,Kohlawas,residential,1331,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Kohlawas,Kohlawas,commercial,3416,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Jhinjhar,Jhinjhar,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Jhinjhar,Jhinjhar,agricultural,375.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Jhinjhar,Jhinjhar,agricultural,325.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Jhinjhar,Jhinjhar,residential,1670,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Jhinjhar,Jhinjhar,commercial,3920,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Nimri,Nimri,agricultural,400.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Nimri,Nimri,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Nimri,Nimri,agricultural,250.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Nimri,Nimri,residential,1331,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Nimri,Nimri,commercial,3267,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Phogat,Phogat,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Phogat,Phogat,agricultural,313.64,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Phogat,Phogat,agricultural,250.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Phogat,Phogat,residential,1391,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Phogat,Phogat,commercial,3267,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Bass,Bass,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Bass,Bass,agricultural,275.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Bass,Bass,agricultural,250.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Bass,Bass,residential,1331,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Bass,Bass,commercial,3267,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,BaundKalan,Baund Kalan,agricultural,500.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,BaundKalan,Baund Kalan,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,BaundKalan,Baund Kalan,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,BaundKalan,Baund Kalan,residential,3509,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,BaundKalan,Baund Kalan,commercial,6413,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,BaundKhurd,Baund Khurd,agricultural,500.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,BaundKhurd,Baund Khurd,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,BaundKhurd,Baund Khurd,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,BaundKhurd,Baund Khurd,residential,1331,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,BaundKhurd,Baund Khurd,commercial,3267,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Bhagyeshwari,Bhagyeshwari,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Bhagyeshwari,Bhagyeshwari,agricultural,375.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Bhagyeshwari,Bhagyeshwari,agricultural,325.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Bhagyeshwari,Bhagyeshwari,residential,1452,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Bhagyeshwari,Bhagyeshwari,commercial,3267,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Malkosh,Malkosh,agricultural,400.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Malkosh,Malkosh,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Malkosh,Malkosh,agricultural,250.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Malkosh,Malkosh,residential,1452,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Malkosh,Malkosh,commercial,3267,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Mirch,Mirch,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Mirch,Mirch,agricultural,275.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Mirch,Mirch,agricultural,250.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Mirch,Mirch,residential,1331,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Mirch,Mirch,commercial,3267,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Rankauli,Rankauli,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Rankauli,Rankauli,agricultural,300.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Rankauli,Rankauli,agricultural,250.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Rankauli,Rankauli,residential,1584,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Rankauli,Rankauli,commercial,4860,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Ranila,Ranila,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Ranila,Ranila,agricultural,375.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Ranila,Ranila,agricultural,325.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Ranila,Ranila,residential,1452,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Ranila,Ranila,commercial,3267,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Lamba,Lamba,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Lamba,Lamba,agricultural,327.27,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Lamba,Lamba,agricultural,250.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Lamba,Lamba,residential,1716,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Lamba,Lamba,commercial,4860,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Sankrod,Sankrod,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Sankrod,Sankrod,agricultural,275.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Sankrod,Sankrod,agricultural,250.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Sankrod,Sankrod,residential,1392,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Sankrod,Sankrod,commercial,3267,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Sajarwas,Sajarwas,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Sajarwas,Sajarwas,agricultural,375.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Sajarwas,Sajarwas,agricultural,325.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Sajarwas,Sajarwas,residential,1391,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Sajarwas,Sajarwas,commercial,3564,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Sanwar,Sanwar,agricultural,381.82,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Sanwar,Sanwar,agricultural,300.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Sanwar,Sanwar,agricultural,250.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Sanwar,Sanwar,residential,1392,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Sanwar,Sanwar,commercial,3267,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Sauph,Sauph,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Sauph,Sauph,agricultural,275.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Sauph,Sauph,agricultural,250.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Sauph,Sauph,residential,1392,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Sauph,Sauph,commercial,3267,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Hindol,Hindol,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Hindol,Hindol,agricultural,275.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Hindol,Hindol,agricultural,250.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Hindol,Hindol,residential,1331,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Hindol,Hindol,commercial,3267,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Sanwar,Rohtak Dadri Highway market both sides,commercial,7865,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,Sajarwas,Rohtak Dadri Highway market both sides,commercial,7865,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Baund Kalan,BaundKalan,Govind RO to College and Main Bus Stand to Post Office,commercial,6413,2026-04-01,charkhidadri_gov_in_dc_notification

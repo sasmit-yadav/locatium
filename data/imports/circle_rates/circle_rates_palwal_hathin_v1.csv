@@ -1,0 +1,409 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Palwal,Hathin,अकबरपुरनाटांल,अकबरपुर नाटांल,agricultural,600.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,अकबरपुरनाटांल,अकबरपुर नाटांल,residential,1452,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,अकबरपुरनाटांल,अकबरपुर नाटांल,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,अकबरपुरनाटांल,लिंक रोड पर 3 एकड़ तक,agricultural,625.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,अन्धेरोला,अन्धेरोला,agricultural,600.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,अन्धेरोला,अन्धेरोला,residential,1452,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,अन्धेरोला,अन्धेरोला,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,अन्धेरोला,लिंक रोड पर 3 एकड़ तक,agricultural,625.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,आलूका,आलूका,agricultural,625.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,आलूका,आलूका,agricultural,1297.31,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,आलूका,आलूका,residential,1716,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,आलूका,आलूका,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,आलूका,लिंक रोड पर 3 एकड़ तक,agricultural,1322.31,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,उटावड,All sides Uttwar Chowk-80Ft,residential,5445,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,उटावड,uttawar chowk 1km 80ft to 80ft,residential,4235,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,उटावड,उटावड,agricultural,600.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,उटावड,उटावड,residential,2178,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,उटावड,उटावड,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,उटावड,ग्राम उटावड से उटावड चौक,commercial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,उटावड,ग्राम उटावड से उटावड चौक था,residential,4235,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,उटावड,ग्राम उटावड से मलूका लिंक रोड पर,agricultural,625.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,उटावड,लिंक रोड पर 3 एकड़ तक,agricultural,625.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,उदाका,लिंक रोड पर 3 एकड़ तक,agricultural,625.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,उदाका,सड़क से 2 एकड़ के बाद 4 एकड़ तक,agricultural,1000.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,उदाका,सड़क से 2 एकड़ तक,agricultural,1125.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,कलवाका,होडल नूंह सड़क से 2 एकड़ तक,agricultural,575.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,कलवाका,कलवाका,agricultural,575.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,कलवाका,कलवाका,residential,1210,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,कलवाका,कलवाका,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,कलसाडा,कलसाडा,agricultural,600.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,कलसाडा,कलसाडा,residential,2178,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,कलसाडा,कलसाडा,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,कलसाडा,लिंक रोड पर 3 एकड़ तक,agricultural,625.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,कलसाडा,लिंक रोड पर 3 एकड़ तक,agricultural,718.75,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,कानौली,कानौली,agricultural,1368.6,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,कानौली,कानौली,residential,2504.7,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,कानौली,कानौली,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,ककराली,सड़क से 2 एकड़ की गहराई तक,agricultural,2290.91,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,ककराली,सड़क से 2 एकड़ के बाद 4 एकड़ तक,agricultural,1859.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,ककराली,ककराली,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,ककराली,ककराली,residential,1210,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,ककराली,ककराली,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,कोन्डल,लिंक रोड पर 3 एकड़ तक,agricultural,575.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,कोन्डल,कोन्डल,agricultural,625.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,कोन्डल,कोन्डल,residential,1452,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,कोन्डल,कोन्डल,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,कोन्डल,लिंक रोड पर 3 एकड़ तक,agricultural,883.41,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,कोन्डल,लिंक रोड पर 3 एकड़ तक,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,कोरालीहथीन,कोराली हथीन,agricultural,600.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,कोरालीहथीन,कोराली हथीन,residential,1452,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,कोरालीहथीन,कोराली हथीन,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,कोरालीहथीन,लिंक रोड पर 3 एकड़ तक,agricultural,625.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,चन्दवली,चन्दवली,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,चन्दवली,चन्दवली,residential,1452,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,चन्दवली,चन्दवली,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,चन्दवली,लिंक रोड पर 3 एकड़ तक,agricultural,575.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,खिल्लूका,खिल्लूका,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,खिल्लूका,खिल्लूका,residential,1452,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,खिल्लूका,खिल्लूका,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,खिल्लूका,लिंक रोड पर 3 एकड़ तक,agricultural,575.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,खेड़लीजीता,खेड़ली जीता,agricultural,1472.73,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,खेड़लीजीता,खेड़ली जीता,residential,3485,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,खेड़लीजीता,खेड़ली जीता,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,खेड़लीजीता,लिंक रोड पर 3 एकड़ तक,agricultural,1508.26,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,खेड़लीजीता,सड़क से 2 एकड़ के बाद 4 एकड़ तक,agricultural,1735.54,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,खेड़लीजीता,सड़क से 2 एकड़ तक,agricultural,1968.75,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,गड़ही,गड़ही,agricultural,690.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,गड़ही,गड़ही,residential,1210,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,गड़ही,गड़ही,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,खेड़लीब्राह्मण,खेड़ली ब्राह्मण,agricultural,718.75,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,खेड़लीब्राह्मण,लिंक रोड पर 3 एकड़ तक,agricultural,718.75,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,खोंखियाका,खोंखियाका,agricultural,600.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,खोंखियाका,खोंखियाका,residential,1452,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,खोंखियाका,खोंखियाका,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,खोंखियाका,लिंक रोड पर 3 एकड़ तक,agricultural,625.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,गढीबनोदा,गढी बनोदा,agricultural,845.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,गढीबनोदा,गढी बनोदा,residential,1452,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,गढीबनोदा,गढी बनोदा,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,गढीबनोदा,लिंक रोड पर 3 एकड़ तक,agricultural,929.75,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,गढीबनोदा,लिंक रोड पर 3 एकड़ तक,residential,1452,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,गढीबनोदा,लिंक रोड पर 3 एकड़ तक,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,गढीबनोदा,सड़क से 2 एकड़ के बाद 4 एकड़ तक,agricultural,1250.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,गढीबनोदा,सड़क से 2 एकड़ तक,agricultural,1446.28,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,गहलव,गहलव,agricultural,750.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,गहलव,गहलव,residential,1452,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,गहलव,गहलव,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,गहलव,सड़क से तीन एकड़ की गहराई तक,agricultural,849.43,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,गुरकसर,गुरकसर,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,गुरकसर,गुरकसर,residential,1210,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,गुरकसर,गुरकसर,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,गुरकसर,लिंक रोड पर 3 एकड़ तक,agricultural,575.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,गुलेसरा,गुलेसरा,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,गुलेसरा,गुलेसरा,residential,1210,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,गुलेसरा,गुलेसरा,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,गुलेसरा,लिंक रोड पर 3 एकड़ तक,agricultural,575.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,गोहपुर,गोहपुर,agricultural,750.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,गोहपुर,गोहपुर,residential,1210,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,गोहपुर,गोहपुर,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,गोहपुर,लिंक रोड पर 3 एकड़ तक,agricultural,785.12,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,गोहपुर,सड़क से 2 एकड़ के बाद 4 एकड़ तक,agricultural,785.12,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,गोहपुर,सड़क से 2 एकड़ तक,agricultural,1000.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,गोहपुर,गोहपुर,agricultural,709.09,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,धर्रोट,धर्रोट,residential,1694,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,धर्रोट,धर्रोट,commercial,9900,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,धर्रोट,लिंक रोड पर 3 एकड़ तक,agricultural,743.8,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,धर्रोट,सड़क से 2 एकड़ के बाद 4 एकड़ तक,agricultural,1045.45,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,धर्रोट,सड़क से 2 एकड़ तक,agricultural,1293.75,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,धर्रोट,धर्रोट,agricultural,709.09,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,धर्रोट,धर्रोट,agricultural,650.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,धीगाडाका,धीगाडाका,agricultural,575.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,धीगाडाका,धीगाडाका,residential,1452,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,धीगाडाका,धीगाडाका,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,धीगाडाका,लिंक रोड पर 3 एकड़ तक,agricultural,600.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,धीगाडाका,सड़क से 2 एकड़ के बाद 4 एकड़ तक,agricultural,600.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,धीगाडाका,सड़क से 2 एकड़ तक,agricultural,1000.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,धीगाडाका,सड़क से 2 एकड़ तक,agricultural,1125.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,चन्दका,चन्दका,agricultural,870.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,चन्दका,चन्दका,residential,1452,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,चन्दका,चन्दका,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,चन्दका,लिंक रोड पर 3 एकड़ तक,agricultural,929.75,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,छांयसा,छांयसा,agricultural,690.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,छांयसा,छांयसा,residential,1452,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,छांयसा,छांयसा,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,छांयसा,लिंक रोड पर 3 एकड़ तक,agricultural,743.8,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,छांयसा,सड़क से 2 एकड़ के बाद 4 एकड़ तक,agricultural,1000.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,छांयसा,सड़क से 2 एकड़ तक,agricultural,1125.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,जनाचौली,जनाचौली,agricultural,1107.95,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,जनाचौली,जनाचौली,residential,1452,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,जनाचौली,जनाचौली,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,जनाचौली,लिंक रोड पर 3 एकड़ तक,agricultural,1157.02,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,जनाचौली,सड़क से 2 एकड़ के बाद 4 एकड़ तक,agricultural,1342.98,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,जनाचौली,सड़क से 2 एकड़ तक,agricultural,1549.59,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,जरारी,जरारी,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,जरारी,जरारी,residential,1210,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,जरारी,जरारी,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,जलालपुरहथीन,लिंक रोड पर 3 एकड़ तक,agricultural,718.75,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,जलालपुरहथीन,जलालपुर हथीन,agricultural,575.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,जलालपुरहथीन,जलालपुर हथीन,residential,1210,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,जलालपुरहथीन,जलालपुर हथीन,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,जरारी,लिंक रोड पर 3 एकड़ तक,agricultural,600.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,जलालपुरहथीन,सड़क से 2 एकड़ के बाद 4 एकड़ तक,agricultural,1000.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,जलालपुरहथीन,सड़क से 2 एकड़ तक,agricultural,1125.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,जैनपुर,जैनपुर,agricultural,812.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,जैनपुर,जैनपुर,residential,1452,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,जैनपुर,जैनपुर,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,जैनपुर,लिंक रोड पर 3 एकड़ तक,agricultural,882.1,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,जैनपुर,सड़क से 2 एकड़ के बाद 4 एकड़ तक,agricultural,1000.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,जैनपुर,सड़क से 2 एकड़ तक,agricultural,1462.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,डोमका,डोमका,agricultural,600.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,डोमका,डोमका,residential,1452,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,डोमका,डोमका,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,डोमका,लिंक रोड पर 3 एकड़ तक,agricultural,625.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,दुरेंची,दुरेंची,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,दुरेंची,दुरेंची,residential,1452,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,दुरेंची,दुरेंची,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,दुरेंची,लिंक रोड पर 3 एकड़ तक,agricultural,575.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,धीरनकी,धीरनकी,agricultural,600.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,धीरनकी,धीरनकी,residential,1452,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,धीरनकी,धीरनकी,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,धीरनकी,लिंक रोड पर 3 एकड़ तक,agricultural,625.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,पदानाका,पदानाका,agricultural,675.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,पदानाका,पदानाका,residential,1452,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,पदानाका,पदानाका,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,पदानाका,लिंक रोड पर 3 एकड़ तक,agricultural,700.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,पहाड़पुर,सड़क से 2 एकड़ तक,agricultural,1125.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,पहाड़पुर,सड़क से 2 एकड़ तक,agricultural,1293.75,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,पहाड़पुर,सड़क से 2 एकड़ के बाद 4 एकड़ तक,agricultural,1000.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,पहाड़पुर,पहाड़पुर,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,पहाड़पुर,पहाड़पुर,residential,1210,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,पहाड़पुर,पहाड़पुर,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,पहाड़पुर,लिंक रोड पर 3 एकड़ तक,agricultural,575.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,पूठली,पूठली,agricultural,575.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,पूठली,पूठली,residential,1210,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,पूठली,पूठली,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,पूठली,लिंक रोड पर 3 एकड़ तक,agricultural,627.27,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,पोण्डरी,पोण्डरी,agricultural,736.36,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,पोण्डरी,पोण्डरी,agricultural,1288.64,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,पोण्डरी,पोण्डरी,residential,1452,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,पोण्डरी,पोण्डरी,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,पोण्डरी,लिंक रोड पर 3 एकड़ तक,agricultural,1322.31,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,पोण्डरी,सड़क से 2 एकड़ के बाद 4 एकड़ तक,agricultural,1528.93,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,पोण्डरी,सड़क से 2 एकड़ तक,agricultural,1694.21,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,फिरोजपुरराजपूत,फिरोजपुर राजपूत,agricultural,650.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,फिरोजपुरराजपूत,फिरोजपुर राजपूत,residential,1452,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,फिरोजपुरराजपूत,फिरोजपुर राजपूत,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,फिरोजपुरराजपूत,लिंक रोड पर 3 एकड़ तक,agricultural,675.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,फिरोजपुरराजपूत,सड़क से 2 एकड़ के बाद 4 एकड़ तक,agricultural,1150.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,फिरोजपुरराजपूत,सड़क से 2 एकड़ तक,agricultural,1301.65,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,बमनोलाजोगी,बमनोला जोगी,agricultural,650.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,बमनोलाजोगी,बमनोला जोगी,residential,1452,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,बमनोलाजोगी,बमनोला जोगी,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,बमनोलाजोगी,लिंक रोड पर 3 एकड़ तक,agricultural,675.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,बाबूपुरहथीन,बाबूपुर हथीन,agricultural,600.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,बाबूपुरहथीन,बाबूपुर हथीन,residential,1452,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,बाबूपुरहथीन,बाबूपुर हथीन,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,बाबूपुरहथीन,लिंक रोड पर 3 एकड़ तक,agricultural,625.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,बिछवली,बिछवली,agricultural,784.09,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,बिछवली,बिछवली,residential,1452,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,बिछवली,बिछवली,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,बिछवली,लिंक रोड पर 3 एकड़ तक रास्ता विधावली से छायंसा,agricultural,826.45,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,बिछवली,लिंक रोड पर 3 एकड़ तक रास्ता विधावली से ढुरेंची,agricultural,826.45,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मिथ्वली,लिंक रोड पर 3 एकड़ तक रास्ता मिथवली से पोंडरी,agricultural,826.45,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मिथ्वली,लिंक रोड पर 3 एकड़ तक रास्ता मिथवली से मंदनाका,agricultural,826.45,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मिथ्वली,लिंक रोड पर 3 एकड़ तक रास्ता मिथवली से मीरिका,agricultural,826.45,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मिथ्वली,लिंक रोड से 3 एकड़ तक मिथवली से अकबरपुर नाटींल,agricultural,826.45,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,बिछपुरी,हथीन से नुह सड़क पर 2 एकड़ की गहराई तक,agricultural,1406.25,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,बिछपुरी,लिंक रोड पर 2 एकड़ की गहराई तक,agricultural,1406.25,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,बिछपुरी,हथीन से नुह सड़क पर सड़क से 2 एकड़ के बाद 4 एकड़ तक,agricultural,1090.91,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,बिछपुरी,लिंक रोड से 3 एकड़ तक विहावली,agricultural,1090.91,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,बिछपुरी,2 एकड़ के बाद 4 एकड़ तक,agricultural,1090.91,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,बिछपुरी,बिछपुरी,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,बिछपुरी,बिछपुरी,residential,1452,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,बिछपुरी,बिछपुरी,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,बुरकाहथीन,लिंक रोड से 3 एकड़ तक,agricultural,575.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,बुरकाहथीन,बुरका हथीन,agricultural,600.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,बुरकाहथीन,बुरका हथीन,residential,1452,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,बुरकाहथीन,बुरका हथीन,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,भँगूरीपलवल,भँगूरी पलवल,agricultural,655.79,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,भँगूरीपलवल,भँगूरी पलवल,agricultural,600.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,भँगूरीपलवल,भँगूरी पलवल,residential,1452,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,भँगूरीपलवल,भँगूरी पलवल,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,भँगूरीपलवल,लिंक रोड पर 3 एकड़ तक,agricultural,625.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,भँगूरीपलवल,लिंक रोड पर 3 एकड़ तक,agricultural,702.48,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,भँगूरीपलवल,सडक के पास दोनों तरफ 2 एकड़ के बाद 4 एकड़ तक,agricultural,1000.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,भँगूरीपलवल,सडक के पास दोनों तरफ 2 एकड़ तक,agricultural,1176.14,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,भीमसीका,भीमसीका,agricultural,600.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,भीमसीका,भीमसीका,residential,1452,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,भीमसीका,भीमसीका,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,भीमसीका,लिंक रोड पर 3 एकड़ तक,agricultural,625.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,भीमसीका,सड़क से 2 एकड़ के बाद 4 एकड़ तक,agricultural,1000.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,भीमसीका,सड़क से 2 एकड़ तक,agricultural,1125.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,भंडपुर,भंडपुर,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,भंडपुर,भंडपुर,residential,1452,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,भंडपुर,भंडपुर,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,भंडपुर,लिंक रोड पर 3 एकड़ तक,agricultural,575.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मंगोरका,मंगोरका,agricultural,500.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मंगोरका,मंगोरका,residential,1210,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मंगोरका,मंगोरका,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मंगोरका,लिंक रोड पर 3 एकड़ तक,agricultural,548.86,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मडनाका,मडनाका,agricultural,1312.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मडनाका,मडनाका,residential,1518,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मडनाका,मडनाका,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मडनाका,लिंक रोड पर 3 एकड़ तक,agricultural,1342.98,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मडनाका,सड़क से 2 एकड़ के बाद 4 एकड़ तक,agricultural,1487.6,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मडनाका,सड़क से 2 एकड़ तक,agricultural,1737.47,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मनकाका,मनकाका,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मनकाका,मनकाका,residential,1210,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मनकाका,मनकाका,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मण्डोरी,लिंक रोड पर 3 एकड़ तक,agricultural,575.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मण्डोरी,मण्डोरी,agricultural,886.36,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मण्डोरी,मण्डोरी,residential,2178,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मण्डोरी,मण्डोरी,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मलाई,लिंक रोड पर 3 एकड़ तक,agricultural,909.09,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मलाई,सड़क से 2 एकड़ के बाद 4 एकड़ तक,agricultural,1150.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मलाई,सड़क से 2 एकड़ तक,agricultural,1150.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मलाई,मलाई,agricultural,690.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मलाई,मलाई,residential,1452,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मलाई,मलाई,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मलाई,लिंक रोड पर 3 एकड़ तक,agricultural,743.8,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मलाई,सड़क से 2 एकड़ के बाद 4 एकड़ तक,agricultural,1000.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मलाई,सड़क से 2 एकड़ तक,agricultural,1125.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मलोखड़ा,होडल नूंह रोड 2 एकड़ तक,agricultural,1125.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मलोखड़ा,मलोखड़ा,agricultural,687.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मलोखड़ा,मलोखड़ा,residential,1452,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मलोखड़ा,मलोखड़ा,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मलोखड़ा,लिंक रोड पर 3 एकड़ तक,agricultural,712.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मलोखड़ा,सड़क से 2 एकड़ तक,agricultural,1125.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मलोखड़ा,सड़क से 2 एकड़ के बाद 4 एकड़ तक,agricultural,1000.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,महलूका,महलूका,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,महलूका,महलूका,residential,1210,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,महलूका,महलूका,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,महलूका,लिंक रोड पर 3 एकड़ तक,agricultural,575.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,महलूका,Mind.Rd.to Syaroli Rd.> 3 Acre,agricultural,1000.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मण्डकोला,मण्डकोला,residential,3630,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मण्डकोला,Nuh Rd.Powhouse to Minor < 20FT,residential,3630,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मण्डकोला,"पलवल रोड से नई रोड, मण्डकोला 2 एकड़ तक",agricultural,1176.14,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मण्डकोला,"पलवल रोड से नई रोड, मण्डकोला 2 एकड़ तक",agricultural,2024.79,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मण्डकोला,"पलवल रोड से नई रोड, मण्डकोला 2 एकड़ तक",residential,5005,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मण्डकोला,"पलवल रोड से नूह रोड, मण्डकोला 2 एकड़ से 4 एकड़ तक",agricultural,1838.84,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मण्डकोला,मण्डकोला गैर मु. Ab. या,residential,2178,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मण्डकोला,मण्डकोला KMP के साथ 2 एकड़ तक,agricultural,2290.91,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मण्डकोला,मण्डकोला KMP के साथ 2 एकड़ से 4 एकड़ तक,agricultural,1838.84,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मण्डकोला,मण्डकोला रोड से सिलानी रोड 2 एकड़ तक,agricultural,2058.24,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मण्डकोला,मण्डकोला रोड से सिलानी रोड 2 एकड़ तक,residential,4174.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मण्डकोला,मण्डकोला रोड से हथीन रोड सड़क से 2 एकड़ तक,agricultural,1838.84,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मण्डकोला,मण्डकोला रोड से हथीन रोड सड़क से 2 एकड़ तक,agricultural,2024.79,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मण्डकोला,मण्डकोला रोड से हथीन रोड सड़क से 2 एकड़ से 4 एकड़ तक,agricultural,1838.84,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मण्डकोला,मण्डकोला,agricultural,1706.25,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मण्डकोला,मण्डकोला,residential,2723,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मण्डकोला,मण्डकोला,commercial,10911,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मण्डकोला,"सरोली-कनौली रोड, मण्डकोला",residential,3630,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मौरका,मौरका,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मौरका,मौरका,residential,1210,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मौरका,मौरका,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मौरका,लिंक रोड पर 3 एकड़ तक,agricultural,575.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मौरका,सड़क से 2 एकड़ तक,agricultural,1125.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मौरका,सड़क से 2 एकड़ के बाद 4 एकड़ तक,agricultural,1000.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मोहम्मदका,मोहम्मदका,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मोहम्मदका,मोहम्मदका,residential,1265,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मोहम्मदका,मोहम्मदका,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,मोहम्मदका,लिंक रोड पर 3 एकड़ तक,agricultural,575.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,रनसीका,रनसीका,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,रनसीका,रनसीका,residential,1210,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,रनसीका,रनसीका,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,रानीकाहथीन,लिंक रोड पर 3 एकड़ तक,agricultural,575.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,रानीकाहथीन,रानीका हथीन,agricultural,600.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,रानीकाहथीन,रानीका हथीन,residential,1452,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,रानीकाहथीन,रानीका हथीन,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,रीन्दका,लिंक रोड पर 3 एकड़ तक,agricultural,625.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,रीन्दका,रीन्दका,agricultural,776.25,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,रीन्दका,रीन्दका,residential,1452,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,रीन्दका,रीन्दका,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,रीन्दका,लिंक रोड पर 3 एकड़ तक,agricultural,805.79,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,रीबड,रीबड,agricultural,846.82,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,रीबड,रीबड,residential,1815,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,रीबड,रीबड,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,रीबड,लिंक रोड पर 3 एकड़ तक,agricultural,888.43,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,रीबड,सड़क से 2 एकड़ तक,agricultural,1176.14,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,रीबड,सड़क से 2 एकड़ से 4 एकड़ तक,agricultural,1000.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,रूपडाका,रूपडाका,agricultural,600.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,रूपडाका,रूपडाका,residential,1452,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,रूपडाका,रूपडाका,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,रूपडाका,लिंक रोड पर 3 एकड़ तक,agricultural,625.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,रूपडाका,सड़क से 2 एकड़ तक,agricultural,1125.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,रूपडाका,सड़क से 2 एकड़ के बाद 4 एकड़ तक,agricultural,1000.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,लखनाका,लखनाका,agricultural,600.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,लखनाका,लखनाका,residential,1452,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,लखनाका,लखनाका,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,लखनाका,लिंक रोड पर 3 एकड़ तक,agricultural,625.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,लडामाकी,लडामाकी,agricultural,625.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,लडामाकी,लिंक रोड पर 3 एकड़ तक,agricultural,625.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,लडामाकी,लडामाकी,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,लडामाकी,लडामाकी,residential,1210,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,लडामाकी,लडामाकी,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,लडामाकी,लिंक रोड पर 3 एकड़ तक,agricultural,575.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,लकाका,लकाका,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,लकाका,लकाका,residential,1210,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,लकाका,लकाका,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,लकाका,लिंक रोड पर 3 एकड़ तक,agricultural,575.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,लकाका,सड़क से 2 एकड़ गहराई तक,agricultural,1125.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,लकाका,सड़क से 2 एकड़ से 4 एकड़ तक,agricultural,1000.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,वजादापहाड़ी,लिंक रोड पर 3 एकड़ तक,agricultural,625.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,वजादापहाड़ी,वजादा पहाड़ी,agricultural,600.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,वजादापहाड़ी,वजादा पहाड़ी,residential,1452,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,वजादापहाड़ी,वजादा पहाड़ी,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,सांपला,लिंक रोड पर 3 एकड़ तक,agricultural,575.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,सांपला,सांपला,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,सांपला,सांपला,residential,1210,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,सांपला,सांपला,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,स्यारौली,लिंक रोड पर 3 एकड़ तक,agricultural,1061.14,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,स्यारौली,स्यारौली,agricultural,877.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,स्यारौली,स्यारौली,residential,1452,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,स्यारौली,स्यारौली,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,स्वामीका,लिंक रोड पर 3 एकड़ तक,agricultural,675.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,स्वामीका,सड़क से 2 एकड़ के बाद 4 एकड़ तक,agricultural,1000.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,स्वामीका,सड़क से 2 एकड़ तक,agricultural,1125.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,स्वामीका,स्वामीका,agricultural,650.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,स्वामीका,स्वामीका,residential,1452,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,स्वामीका,स्वामीका,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हथीन,Hathin Bypass On Road 100 Feet Depath,residential,6050,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हथीन,Hathin Bypass On Road After 100 Feet Depath,residential,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हथीन,Hathin to F.Rajput Road 100 Feet Depth,residential,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हथीन,Hathin to F.Rajput Road After 100 Feet Depth,residential,4235,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हथीन,Hosp.to Kunda Mandir > 100Ft,residential,5445,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हथीन,Hosp.to Kunda Mandir < 100Ft,residential,6050,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हथीन,MDACoI.BusStand100Ft depth,residential,6655,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हथीन,MDACoI.BusStand100Ft depth behind,residential,5445,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हथीन,Plot of Ind.Area,industrial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हथीन,R.H-Hospital Jayanti to Utd Road after 100 FT,residential,6050,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हथीन,R.H.to Hud 1Km.upto 100Ft.,residential,6050,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हथीन,R.H.toHud.1Km.above100Ft.,residential,5445,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हथीन,R.H.toPwl.Rd.1Km.Ab.80Ft FT,residential,5445,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हथीन,R.H-Hospital to Jayanti Mod 100 FT,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हथीन,Rest House to Pwl Road 100 Fit,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हथीन,Ut.Rd. to Lak.Rd. MDA Upto 100Ft,residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हथीन,Ut.Rd.to Lak.Rd MDA above Rt 100FT,residential,6050,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हथीन,अ.र.से मंडकोला माई.100फु.अन्द,residential,6655,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हथीन,अ.र.से मंडकोला माई.100फु.पीछे,residential,5445,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हथीन,अ.र.से.मडकोला माई.100फु.पीछे,residential,13800,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हथीन,अनाज मंडी के प्लाट,commercial,14000,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हथीन,अन्दर आबादी For Comericail Use,commercial,15180,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हथीन,अन्दर आबादी कोमरशियल गहलब मोड,commercial,24200,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हथीन,अन्दर आबादी कोमरशियल गहलब मोड,commercial,32890,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हथीन,गै.मु.रिहायशी भूमि(UnderLaidora),residential,5520,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हथीन,जयंती मोड़ से गहलब 100 FT गहराई तक,residential,5445,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हथीन,जयंती मोड़ से गहलब 100 FT गहराई के बाद,residential,5445,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हथीन,जयंती मोड़ से गुराक्सर 100 FT गहराई तक,residential,6050,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हथीन,जयंती मोड़ से गुराक्सर 100 FT गहराई के बाद,residential,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हथीन,दूभुआ से कोन्डल रोड पर 1 K.M. तक और 100 FT गहराई तक,residential,4235,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हथीन,दूभुआ से कोन्डल रोड पर 1 K.M. तक और 100 FT गहराई के बाद,residential,4235,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हथीन,दूभुआ से कोन्डल रोड पर 1 K.M. तक और 100 FT गहराई तक,residential,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हथीन,दूभुआ से कोन्डल रोड पर 1 K.M. तक और 100 FT गहराई के बाद,residential,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हथीन,परमिट लाईन रोड पर 100 तक,residential,5445,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हथीन,परमिट लाईन रोड पर 100 फुट के बाद,residential,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हथीन,शहर हथीन से रीन्डका रोड तक और 100 FT गहराई तक,residential,3993,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हथीन,शहर हथीन से रीन्डका रोड तक और 100 FT गहराई के बाद,residential,3993,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हथीन,शहर हथीन से रीण्डका रोड तक और 100 FT गहराई तक,residential,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हथीन,सड़क पर 2 एकड़ की गहराई तक,agricultural,1595.45,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हथीन,सड़क से 2 एकड़ के बाद 4 एकड़ तक,agricultural,1000.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हथीन,हथीन से गाँव के लिंक रोड 3 एकड़ तक,agricultural,940.91,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हथीन,हथीन ग्रामीण,agricultural,875.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हथीन,हथीन ग्रामीण,residential,6038,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हथीन,हथीन ग्रामीण कॉमर्शियल,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हथीन,हथीन ग्रामीण कॉमर्शियल,commercial,11860,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हुड़ीथल,लिंक रोड पर 3 एकड़ तक,agricultural,575.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हुड़ीथल,हुड़ीथल,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हुड़ीथल,हुड़ीथल,residential,1210,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Hathin,हुड़ीथल,हुड़ीथल,commercial,9075,2026-04-01,palwal_gov_in_dc_notification

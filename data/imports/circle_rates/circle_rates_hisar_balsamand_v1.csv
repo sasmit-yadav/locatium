@@ -1,0 +1,132 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Hisar,Balsamand,Balsamand,Nehri Chahi,agricultural,340.91,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Balsamand,Tal Barani,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Balsamand,Tibba,agricultural,227.27,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Balsamand,Gair Mumkin,agricultural,386.36,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Budak,Nehri Chahi,agricultural,250.0,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Budak,Tal Barani,agricultural,215.91,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Budak,Tibba,agricultural,181.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Budak,Gair Mumkin,agricultural,363.64,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Bandaheri,Nehri Chahi,agricultural,250.0,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Bandaheri,Tal Barani,agricultural,215.91,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Bandaheri,Tibba,agricultural,181.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Bandaheri,Gair Mumkin,agricultural,363.64,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Dhobi,Nehri Chahi,agricultural,318.18,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Dhobi,Tal Barani,agricultural,215.91,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Dhobi,Tibba,agricultural,190.08,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Dhobi,Gair Mumkin,agricultural,363.64,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Siswala,Nehri Chahi,agricultural,318.18,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Siswala,Tal Barani,agricultural,215.91,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Siswala,Tibba,agricultural,181.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Siswala,Gair Mumkin,agricultural,363.64,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,BhiwaniRohila,Nehri Chahi,agricultural,371.9,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,BhiwaniRohila,Tal Barani,agricultural,285.12,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,BhiwaniRohila,Tibba,agricultural,204.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,BhiwaniRohila,Gair Mumkin,agricultural,363.64,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Kharia,Nehri Chahi,agricultural,261.36,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Kharia,Tal Barani,agricultural,215.91,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Kharia,Tibba,agricultural,165.29,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Kharia,Gair Mumkin,agricultural,363.64,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Kirtan,Nehri Chahi,agricultural,306.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Kirtan,Tal Barani,agricultural,238.64,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Kirtan,Tibba,agricultural,204.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Kirtan,Gair Mumkin,agricultural,363.64,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Salemgarh,Nehri Chahi,agricultural,272.73,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Salemgarh,Tal Barani,agricultural,238.64,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Salemgarh,Tibba,agricultural,204.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Salemgarh,Gair Mumkin,agricultural,526.86,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Sundawas,Nehri Chahi,agricultural,250.0,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Sundawas,Tal Barani,agricultural,215.91,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Sundawas,Tibba,agricultural,181.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Sundawas,Gair Mumkin,agricultural,363.64,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,RawalwasKalan,Nehri Chahi,agricultural,356.4,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,RawalwasKalan,Tal Barani,agricultural,247.93,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,RawalwasKalan,Tibba,agricultural,204.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,RawalwasKalan,Gair Mumkin,agricultural,386.36,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Dhiranwas,Nehri Chahi,agricultural,340.91,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Dhiranwas,Tal Barani,agricultural,238.64,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Dhiranwas,Tibba,agricultural,204.55,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Dhiranwas,Gair Mumkin,agricultural,386.36,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Sarsana,Nehri Chahi,agricultural,306.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Sarsana,Tal Barani,agricultural,238.64,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Sarsana,Tibba,agricultural,181.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Sarsana,Gair Mumkin,agricultural,363.64,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Gawar,Nehri Chahi,agricultural,284.09,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Gawar,Tal Barani,agricultural,238.64,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Gawar,Tibba,agricultural,181.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Gawar,Gair Mumkin,agricultural,363.64,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Gorchi,Nehri Chahi,agricultural,284.09,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Gorchi,Tal Barani,agricultural,238.64,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Gorchi,Tibba,agricultural,190.08,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Gorchi,Gair Mumkin,agricultural,363.64,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Ghursal,Nehri Chahi,agricultural,284.09,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Ghursal,Tal Barani,agricultural,238.64,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Ghursal,Tibba,agricultural,181.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Ghursal,Gair Mumkin,agricultural,363.64,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Telanwali,Nehri Chahi,agricultural,284.09,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Telanwali,Tal Barani,agricultural,238.64,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Telanwali,Tibba,agricultural,284.09,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Telanwali,Gair Mumkin,agricultural,363.64,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Kutiyakhedi,Nehri Chahi,agricultural,284.09,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Kutiyakhedi,Tal Barani,agricultural,215.91,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Kutiyakhedi,Tibba,agricultural,181.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Kutiyakhedi,Gair Mumkin,agricultural,363.64,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,ChoudhariWali,Nehri Chahi,agricultural,284.09,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,ChoudhariWali,Tal Barani,agricultural,238.64,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,ChoudhariWali,Tibba,agricultural,181.82,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,ChoudhariWali,Gair Mumkin,agricultural,363.64,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Balsamand,Balsamand,residential,2420,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Balsamand,Balsamand,commercial,6600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Budak,Budak,residential,2200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Budak,Budak,commercial,5500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Bandaheri,Bandaheri,residential,2200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Bandaheri,Bandaheri,commercial,5500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Dhobi,Dhobi,residential,2200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Dhobi,Dhobi,commercial,5500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Siswala,Siswala,residential,2200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Siswala,Siswala,commercial,5500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,BhiwaniRohila,Bhiwani Rohila,residential,2200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,BhiwaniRohila,Bhiwani Rohila,commercial,5500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Kharia,Kharia,residential,2200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Kharia,Kharia,commercial,5500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Kirtan,Kirtan,residential,2200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Kirtan,Kirtan,commercial,5500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Salemgarh,Salemgarh,residential,2200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Salemgarh,Salemgarh,commercial,5500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Sundawas,Sundawas,residential,2200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Sundawas,Sundawas,commercial,5500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,RawalwasKalan,Rawalwas Kalan,residential,2200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,RawalwasKalan,Rawalwas Kalan,commercial,5500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Dhiranwas,Dhiranwas,residential,2200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Dhiranwas,Dhiranwas,commercial,5500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Sarsana,Sarsana,residential,2200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Sarsana,Sarsana,commercial,5500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Gawar,Gawar,residential,2200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Gawar,Gawar,commercial,5500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Gorchi,Gorchi,residential,2200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Gorchi,Gorchi,commercial,5500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Ghursal,Ghursal,residential,2200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Ghursal,Ghursal,commercial,5500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Telanwali,Telanwali,residential,2200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Telanwali,Telanwali,commercial,5500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Kutiyakhedi,Kutiyakhedi,residential,2200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Kutiyakhedi,Kutiyakhedi,commercial,5500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,ChoudhariWali,Choudhari Wali,residential,2200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,ChoudhariWali,Choudhari Wali,commercial,5500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Balsamand,Balsamand to Hisar Road Chahi Tal Barani Tibba Gair Mumkin,agricultural,613.64,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Balsamand,Balsamand to Hisar Road Nahri,agricultural,659.09,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Balsamand,Balsamand to Hisar Road,residential,3080,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Balsamand,Balsamand to Hisar Road,commercial,7150,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Balsamand,Balsamand to Bhadra Road,agricultural,590.91,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Balsamand,Balsamand to Bhadra Road,residential,2860,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Balsamand,Balsamand to Bhadra Road,commercial,7150,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,RawalwasKalan,Hisar Road Chahi Tal Barani Tibba Gair Mumkin,agricultural,613.64,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,RawalwasKalan,Hisar Road Nahri,agricultural,641.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,RawalwasKalan,Hisar Road,residential,2640,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,RawalwasKalan,Hisar Road,commercial,6050,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,BhiwaniRohila,Road-side Nahri Chahi Tal Barani Tibba Gair Mumkin,agricultural,636.36,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,BhiwaniRohila,Road-side,residential,2860,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,BhiwaniRohila,Road-side,commercial,6050,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Dhiranwas,Road-side Nahri Chahi Tal Barani Tibba Gair Mumkin,agricultural,590.91,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Dhiranwas,Road-side,residential,2860,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Balsamand,Dhiranwas,Road-side,commercial,6050,2026-04-01,hisar_gov_in_dc_notification

@@ -1,0 +1,136 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Gurugram,Harsaru,Industrial,Any Converted Land,industrial,18150,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Institutional,Inst. in Other Area,institutional,29040,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Institutional,Inst./School in Huda/Lic,institutional,36300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Kankrola,Agri open pub utility,agricultural,5175.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Kankrola,Kankrola,agricultural,9039.26,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Kankrola,Kankrola,residential,23595,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Kankrola,Kankrola,commercial,36300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Kankrola,R Zone Com Ind Inst,agricultural,13068.18,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Kankrola,R Zone Com Ind Inst,agricultural,13068.18,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Kankrola,R Zone Com Ind Inst,residential,23595,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Garhi Harsaru,Agri open pub utility,agricultural,3750.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Garhi Harsaru,Garhi Harsaru,agricultural,6860.8,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Garhi Harsaru,Garhi Harsaru,residential,25410,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Garhi Harsaru,Garhi Harsaru,commercial,29040,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Garhi Harsaru,R Zone Com Ind Inst,agricultural,9876.03,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Gopalpur,Agri open pub utility,agricultural,6689.05,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Gopalpur,Gopalpur,agricultural,7592.98,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Gopalpur,Gopalpur,residential,22750,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Gopalpur,Gopalpur,commercial,21175,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Gopalpur,R Zone Com Ind Inst,agricultural,10330.58,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Gopalpur,R Zone Com Ind Inst,agricultural,10330.58,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Chandu,Chandu,agricultural,3437.5,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Chandu,Chandu,residential,9680,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Chandu,Chandu,commercial,13310,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Chandu,Major Road 10 Percent,agricultural,3575.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Chandu,Major Road 10 Percent,agricultural,3575.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Dhana,Dhana,agricultural,5750.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Dhana,Dhana,residential,18150,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Dhana,Dhana,commercial,24200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Dhorka,Agri open pub utility,agricultural,5000.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Dhorka,Agri open pub utility,residential,12100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Dhorka,Dhorka,agricultural,9581.61,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Dhorka,Dhorka,agricultural,9000.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Dhorka,Dhorka,residential,15125,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Dhorka,Dhorka,commercial,27530,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Dhorka,Major Road 10 Percent,agricultural,10312.5,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Dhorka,Open Space Major Rd,agricultural,5000.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Dhorka,R Zone Com Ind Inst,agricultural,17137.19,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Dhorka,R Zone Com Ind Inst,agricultural,17137.19,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Dhorka,R Zone Com Ind Inst,residential,19360,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Baskushla,Any Land Converted into Industrial Use,industrial,18150,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Baskushla,Baskushla,agricultural,10264.46,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Baskushla,Baskushla,agricultural,9000.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Baskushla,Baskushla,residential,19800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Baskushla,Baskushla,commercial,36300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Bashariya,Bashariya,agricultural,12272.73,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Bashariya,Bashariya,agricultural,9000.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Bashariya,Bashariya,residential,26320,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Bashariya,Bashariya,commercial,36300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Budhera,Budhera,agricultural,4090.91,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Budhera,Budhera,agricultural,4090.91,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Budhera,Budhera,residential,9680,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Budhera,Budhera,commercial,10590,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Budhera,Major Road 10 Percent,agricultural,4140.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Budhera,Major Road 10 Percent,agricultural,4350.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Budhera,najafgarh drain area,agricultural,575.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Bhangrola,Agri open pub utility,agricultural,5880.68,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Bhangrola,Bhangrola,agricultural,13946.28,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Bhangrola,Bhangrola,residential,24750,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Bhangrola,Bhangrola,commercial,37510,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Bhangrola,R Zone Com Ind Inst,agricultural,19886.36,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Bhangrola,R Zone Com Ind Inst,residential,24200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Makdola,Makdola,agricultural,2125.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Makdola,Makdola,residential,9680,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Makdola,Makdola,commercial,8470,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Meoka,Meoka,agricultural,13429.75,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Meoka,Meoka,agricultural,5000.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Meoka,Meoka,residential,19140,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Meoka,Meoka,commercial,37060,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Meoka,R Zone Com Ind Inst,agricultural,14400.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Meoka,R Zone Com Ind Inst,agricultural,14400.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Wazirpur,Agri open pub utility,agricultural,5645.45,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Wazirpur,Agri open pub utility,residential,13200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Wazirpur,Major Road 10 Percent,agricultural,6022.73,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Wazirpur,Major Road 10 Percent,agricultural,6926.14,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Wazirpur,Major Road 10 Percent 2,agricultural,6926.14,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Wazirpur,Major Road 10 Percent 2,residential,16500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Wazirpur,Major Road 10 Percent 2,residential,16500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Wazirpur,R Zone Com Ind Inst,agricultural,10227.27,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Wazirpur,R Zone Com Ind Inst,agricultural,11761.36,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Wazirpur,R Zone Com Ind Inst,residential,22770,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Wazirpur,R Zone Com Ind,agricultural,10925.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Wazirpur,R Zone Com Ind,agricultural,10925.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Wazirpur,Wazirpur,agricultural,9400.83,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Wazirpur,Wazirpur,agricultural,9400.83,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Wazirpur,Wazirpur,residential,22770,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Wazirpur,Wazirpur,residential,20880,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Wazirpur,Wazirpur,commercial,38720,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Sadhrana,Sadhrana,agricultural,4687.5,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Sadhrana,Sadhrana,residential,12100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Sadhrana,Sadhrana,commercial,18150,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Hamirpur,Hamirpur,agricultural,3409.09,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Hamirpur,Hamirpur,residential,12100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Hamirpur,Hamirpur,commercial,10890,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Hayatpur,Agri open pub utility,agricultural,4909.09,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Hayatpur,Agri open pub utility,agricultural,5175.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Hayatpur,Hayatpur,agricultural,9371.9,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Hayatpur,Hayatpur,residential,26910,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Hayatpur,Hayatpur,commercial,32830,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Hayatpur,Major Road 10 Percent,agricultural,8700.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Hayatpur,Major Road 10 Percent,agricultural,9600.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Hayatpur,Major Road 10 Percent,residential,27515,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Hayatpur,R Zone Com Ind Inst,agricultural,10909.09,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Hayatpur,R Zone Com Ind Inst,agricultural,10909.09,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Hayatpur,R Zone Com Ind Inst,residential,23720,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Harsaru,Agri open pub utility,agricultural,4500.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Harsaru,Harsaru,agricultural,9762.4,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Harsaru,Harsaru,residential,27825,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Harsaru,Harsaru,commercial,37060,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Harsaru,NPR HARSARU,agricultural,8125.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Harsaru,Open Space Major Rd,agricultural,4500.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Harsaru,Open Space NPR 25 Percent,agricultural,5000.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Harsaru,Open Space NPR 25 Percent,agricultural,5000.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Harsaru,R Zone Com Ind Inst,agricultural,17256.2,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Harsaru,R Zone Com Ind Inst,agricultural,17256.2,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Huda Sectors,Industrial Area of IMT Manesar Falling In Harsaru Tehsil,industrial,27500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Huda Sectors,"Industrial Area Sector M9, M10, M12, M12A, M13, M14",industrial,25000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Huda Sectors,Institutional School Site,residential,36300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Huda Sectors,Institutional School Site,commercial,33880,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Huda Sectors,Institutional School Site,institutional,33880,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Huda Sectors,New Builder Sector,residential,52440,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Huda Sectors,New Builder Sector,commercial,98010,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Huda Sectors,New Builder Sector,institutional,36300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Huda Sectors,New Huda Sector,residential,57800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Huda Sectors,New Huda Sector,commercial,155150,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Huda Sectors,"Residential Area Sector M9, M10, M12, M12A, M13, M14",residential,39000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Huda Sectors,"Sector 88, 88A, 89, 89A",residential,65208,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Huda Sectors,"Sector 88, 88A, 89, 89A",commercial,204750,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Huda Sectors,"Sector 88, 88A, 89, 89A",institutional,39600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Huda Sectors,"Sector 88, 88A, 89, 89A",institutional,36300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Huda Sectors,"Sector 88B, 95, 95A, 95B, 94, 89B, 99A, 90, 91, 92, 93",residential,68250,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Huda Sectors,"Sector 88B, 95, 95A, 95B, 94, 89B, 99A, 90, 91, 92, 93",commercial,204750,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Huda Sectors,"Sector 88B, 95, 95A, 95B, 94, 89B, 99A, 90, 91, 92, 93",institutional,39600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Huda Sectors,"Sector 88B, 95, 95A, 95B, 94, 89B, 99A, 90, 91, 92, 93",institutional,36300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Harsaru,Huda Sectors,"Sector 89, 89A, 89B",residential,59774,2026-04-01,gurugram_gov_in_dc_notification

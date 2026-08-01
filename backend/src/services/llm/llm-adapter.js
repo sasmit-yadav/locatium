@@ -15,7 +15,24 @@ function getConfig() {
   };
 }
 
-async function complete({ systemPrompt, userPrompt, maxTokens = 800, temperature = 0.2 }) {
+/**
+ * @param {{
+ *   systemPrompt: string,
+ *   userPrompt?: string,
+ *   messages?: Array<{role: string, content: string}>,
+ *   maxTokens?: number,
+ *   temperature?: number,
+ *   timeoutMs?: number,
+ * }} opts
+ */
+async function complete({
+  systemPrompt,
+  userPrompt,
+  messages,
+  maxTokens = 800,
+  temperature = 0.2,
+  timeoutMs = DEFAULT_TIMEOUT_MS,
+}) {
   const config = getConfig();
   if (!config.enabled || !config.apiKey) {
     const err = new Error('LLM not configured');
@@ -23,8 +40,15 @@ async function complete({ systemPrompt, userPrompt, maxTokens = 800, temperature
     throw err;
   }
 
+  const chatMessages = Array.isArray(messages) && messages.length
+    ? [{ role: 'system', content: systemPrompt }, ...messages]
+    : [
+        { role: 'system', content: systemPrompt },
+        { role: 'user', content: userPrompt || '' },
+      ];
+
   const controller = new AbortController();
-  const timer = setTimeout(() => controller.abort(), DEFAULT_TIMEOUT_MS);
+  const timer = setTimeout(() => controller.abort(), timeoutMs);
 
   try {
     const response = await fetch(`${config.baseUrl}/chat/completions`, {
@@ -37,10 +61,7 @@ async function complete({ systemPrompt, userPrompt, maxTokens = 800, temperature
         model: config.model,
         temperature,
         max_tokens: maxTokens,
-        messages: [
-          { role: 'system', content: systemPrompt },
-          { role: 'user', content: userPrompt },
-        ],
+        messages: chatMessages,
       }),
       signal: controller.signal,
     });

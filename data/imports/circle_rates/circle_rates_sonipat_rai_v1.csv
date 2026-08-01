@@ -1,0 +1,482 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Sonipat,Rai,Rai,004b - लिंक रोड पर तीन एकड़ तक,agricultural,2582.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Rai,004c - नहरी-चाही,agricultural,2789.26,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Rai,004e - लाल डोरे के अन्दर/बाहर,residential,10200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Rai,004e - लाल डोरे के अन्दर/बाहर,commercial,15000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Rai,004a - जी.टी रोड दो एकड़ तक,agricultural,5681.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Rai,HSIIDC इण्डस्ट्रीयल प्लाट राई,industrial,38670.89,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Rai,HSIIDC राई दुकान,commercial,38461.86,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Rai,HSIIDC राई-रिहायशी प्लाट,residential,16625,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Rai,Institutional Plot,residential,14000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Rai,RAI VILLAGE COLONY RAI,residential,10500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Rai,RAI VILLAGE COLONY RAI,commercial,15000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Rai,SWAMITVA PLOTS,residential,10200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Rai,जी.टी रोड 3-5 एकड़ तक,agricultural,4545.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Rai,राज्य रोड एक से तीन एकड़ तक,agricultural,3454.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Patla,004b - लिंक रोड पर,agricultural,1181.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Patla,004c - नहरी-चाही,agricultural,1810.02,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Patla,004e - लाल डोरे के अन्दर/बाहर,residential,16100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Patla,004e - लाल डोरे के अन्दर/बाहर,commercial,16450,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Jatheri,Institutional Plot,residential,14000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Jatheri,SWAMITVA PLOTS,residential,6800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Jatheri,004b - लिंक रोड पर,agricultural,2659.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Jatheri,004c - नहरी-चाही,agricultural,3137.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Jatheri,004e - लाल डोरे के अन्दर/बाहर,residential,12765,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Jatheri,004e - लाल डोरे के अन्दर/बाहर,commercial,15000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Jatheri,Biswamil Jatheri Colony Residence,residential,12000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Jatheri,Biswamil Jatheri commercial colony,commercial,16000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Jatheri,EWS Max height township,residential,13500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Jatheri,HSIIDC उद्योग कुन्ज इन्डस्ट्रीयल प्लाट जठेडी,industrial,30100.59,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Jatheri,Max height township & Projects,residential,25200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Jatheri,Max height township & Projects,commercial,65000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Jatheri,SWAMITVA PLOTS,residential,9400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Jatheri,इंडस्ट्रीयल प्लाट,industrial,15500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Jatheri,मु. रा0 रोड से 1 से 3 एकड,agricultural,3454.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,JoshiJat,004b-लिंक रोड पर 1 से 3,agricultural,2272.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,JoshiJat,004c-नहरी-चाही,agricultural,3292.87,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,JoshiJat,004e-लाल डोरे के अन्दर/बाहर,residential,9400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,JoshiJat,004e-लाल डोरे के अन्दर/बाहर,commercial,14000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,JoshiJat,004a-जी.टी रोड पर 1 से 2,agricultural,4545.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,JoshiJat,Industrial Plot Joshi Jat,industrial,19375,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,JoshiJat,SWAMITVA PLOTS,residential,9400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Liwaspur,जी.टी रोड पर 3 से 5 एकड़,agricultural,4090.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Liwaspur,राज्य रोड के साथ 1 से 3 एकड़,agricultural,3409.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Liwaspur,004b-लिंक रोड पर,agricultural,2500.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Liwaspur,004c-नहरी-चाही,agricultural,3136.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Liwaspur,004e-लाल डोरे के अन्दर/बाहर,residential,10200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Liwaspur,004e-लाल डोरे के अन्दर/बाहर,commercial,17600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Liwaspur,004a-जी.टी रोड दो एकड़ तक,agricultural,5681.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Liwaspur,Industrial Plot Liwaspur,industrial,15500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Liwaspur,SWAMITVA PLOTS,residential,10200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Liwaspur,जी.टी रोड 3-5 एकड़ तक,agricultural,4545.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Bahalgarh,राज्य रोड एक से तीन एकड़ तक,agricultural,3409.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Bahalgarh,004b-लिंक रोड पर 1 से 3,agricultural,2727.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Bahalgarh,004c - नहरी-चाही,agricultural,5309.66,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Bahalgarh,004e - लाल डोरे के अन्दर/बाहर,residential,15000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Bahalgarh,004e - लाल डोरे के अन्दर/बाहर,commercial,22125,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Bahalgarh,004ia - जी.टी रोड दो एकड़ तक,agricultural,10485.54,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Bahalgarh,004ia - जी.टी रोड दो एकड़ तक,commercial,18500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Bahalgarh,Bahalgarh Village Colony Residence,residential,16000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Bahalgarh,Industrial Plot Bahalgarh,industrial,18700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Bahalgarh,Katha Factory Bahalgarh Colony Commercial,commercial,18500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Bahalgarh,Katha Factory Bahalgarh Colony Residential,residential,16000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Bahalgarh,Rupali Impex Colony Commercial,commercial,18500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Bahalgarh,Rupali Impex Colony Residential,residential,16000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Bahalgarh,SWAMITVA PLOTS,residential,15000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Bahalgarh,जी.टी रोड 3-5 एकड़ तक,agricultural,4545.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Bahalgarh,राज्य रोड 3 एकड़ तक,agricultural,3636.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Bahalgarh,व्यावसायिक दुकानें - नगर निगम के अन्दर,commercial,17700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,AkbarpurBarota,004b -लिंक रोड 1 से 3 एकड़,agricultural,3625.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,AkbarpurBarota,004c - नहरी-चाही,agricultural,4943.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,AkbarpurBarota,004e - लाल डोरे के अन्दर/बाहर,residential,17000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,AkbarpurBarota,Deendayal Anand lok plots Ansal sec 35 commercial,commercial,44000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,AkbarpurBarota,Deendayal Anand lok plots Ansal sec 35 Residential,residential,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,AkbarpurBarota,EWS टुलिप ग्राण्ड,residential,13950,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,AkbarpurBarota,EWS अंसल प्रो. एण्ड इन्फ्रा.लि.,residential,13950,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,AkbarpurBarota,Flat Sq.Ft. टुलिप ग्राण्ड,residential,24750,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,AkbarpurBarota,Industrial Plot Akbarpur Barota Sec. 35 Commercial,commercial,14500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,AkbarpurBarota,Sec. 35 Commercial,commercial,59400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,AkbarpurBarota,Sq.Ft. अंसल प्रो. एण्ड इन्फ्रा,residential,24750,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,AkbarpurBarota,SWAMITVA PLOTS,residential,9400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,AkbarpurBarota,अंसल प्रो. एण्ड इन्फ्रा. लि.,residential,23575,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,AkbarpurBarota,टुलिप ग्राण्ड,residential,24750,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,KheriManajat,राज्य सडक के साथ 1 से 3 एकड़,agricultural,3522.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,KheriManajat,004b -लिंक रोड पर,agricultural,1818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,KheriManajat,004c - नहरी-चाही,agricultural,1477.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,KheriManajat,004e - लाल डोरे के अन्दर/बाहर,residential,9700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,KheriManajat,004e - लाल डोरे के अन्दर/बाहर,commercial,12100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,KheriManajat,SWAMITVA PLOTS,residential,9700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,SafiyabadPanaPaporian,004c - नहरी-चाही,agricultural,2747.93,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,SafiyabadPanaPaporian,004e - लाल डोरे के अन्दर/बाहर,residential,10000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,SafiyabadPanaPaporian,004e - लाल डोरे के अन्दर/बाहर,commercial,14000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,SafiyabadPanaPaporian,Safiabad Colony 3 Commercial,commercial,15000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,SafiyabadPanaPaporian,Safiabad Colony 3 Residential,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,SafiyabadPanaPaporian,Safiabad shiv mandir colony commercial,commercial,15000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,SafiyabadPanaPaporian,Safiabad shiv mandir colony residential,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,SafiyabadPanaPaporian,Safiyabad Village Extension Colony Commercial,commercial,15000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,SafiyabadPanaPaporian,Safiyabad Village Extension Colony Residential,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,SafiyabadPanaPaporian,SWAMITVA PLOTS,residential,10000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,SafiyabadPanaPaporian,इंडस्ट्रियल प्लाट,industrial,13500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,SafiyabadPanaPaporian,राज्य रोड एक से तीन एकड़ तक,agricultural,3977.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Pabsara,004b - लिंक रोड पर,agricultural,727.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Pabsara,004c - नहरी-चाही,agricultural,742.51,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Pabsara,004e - लाल डोरे के अन्दर/बाहर,residential,4100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Pabsara,004e - लाल डोरे के अन्दर/बाहर,commercial,5200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Pabsara,Pabsara Village Extention Colony Commercial,commercial,6000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Pabsara,Pabsara Village Extention Colony Residential,residential,5000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Pabsara,SWAMITVA PLOTS,residential,4100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,JatiKhurd,004b -लिंक रोड पर,agricultural,2272.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,JatiKhurd,004c - नहरी-चाही,agricultural,1575.31,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,JatiKhurd,004e - लाल डोरे के अन्दर/बाहर,residential,7400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,JatiKhurd,SWAMITVA PLOTS,commercial,9600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,JatiKhurd,SWAMITVA PLOTS,residential,7400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Khewra,004b -लिंक रोड पर,agricultural,1590.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Khewra,004c - नहरी-चाही,agricultural,1425.62,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Khewra,004d - जी.टी व लिंक कमर्शियल,commercial,15000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Khewra,004e - लाल डोरे के अन्दर/बाहर,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Khewra,004a - राज्य रोड 3 एकड़ तक,agricultural,2045.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Khewra,Shiv Mandir Colony Khewra Commercial,commercial,15000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Khewra,Shiv Mandir Colony Khewra Residential,residential,12000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Khewra,SWAMITVA PLOTS,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Khewra,इंडस्ट्रियल प्लाट,industrial,14300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Khewra,जी टी रोड से 2 एकड़ तक,agricultural,2500.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Khewra,जी टी रोड से 3 से 5 एकड़,agricultural,2227.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,JantiKalan,004e-लाल डोरे के अन्दर/बाहर,residential,7300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,JantiKalan,Janti kalan and Sersa village colony commercial,commercial,10000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,JantiKalan,Janti kalan and Sersa village colony residential,residential,8000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,JantiKalan,Janti Kalan commercial,commercial,10000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,JantiKalan,Janti Kalan residential,residential,8000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,JantiKalan,SWAMITVA PLOTS,residential,7300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,JantiKalan,004b-लिंक रोड पर,agricultural,2727.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,JantiKalan,004c-नहरी-चाही,agricultural,5167.87,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Kundli,004d-जी.टी रोड के साथ 200 फु,commercial,41000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Kundli,004e-लाल डोरे के अन्दर/बाहर,residential,23200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Kundli,004f-व्यवसायिक,commercial,20500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Kundli,004g-HSIIDC इण्डस्ट्रीयल प्लाट,industrial,44231.14,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Kundli,004h-जी.टी रोड 3-5 एकड़ तक,agricultural,5940.08,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Kundli,004i-जी.टी रोड दो एकड़ तक,agricultural,9297.52,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Kundli,DADA BHAIYA COLONY KUNDLI,residential,16000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Kundli,DADA BHAIYA COLONY KUNDLI,commercial,25625,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Kundli,HARSHWARDHAN COLONY KUNDLI,residential,18400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Kundli,HARSHWARDHAN COLONY KUNDLI,commercial,20500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Kundli,HSIIDC कुण्डली दुकान,commercial,64256.39,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Kundli,HSIIDC कुण्डली रिहायशी प्लाट,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Kundli,Institutional Plot,residential,14000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Kundli,KUNDLI COLONY KUNDLI,residential,16000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Kundli,KUNDLI COLONY KUNDLI,commercial,30125,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Kundli,PIOU G T ROAD COLONY KUNDLI,residential,16000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Kundli,PIOU G T ROAD COLONY KUNDLI,commercial,24100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Kundli,SHIVAPURI COLONY KUNDLI,residential,16000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Kundli,SHIVAPURI COLONY KUNDLI,commercial,20500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Kundli,SINGHU BORDER COLONY KUNDLI,residential,16000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Kundli,SINGHU BORDER COLONY KUNDLI,commercial,21300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Kundli,SWAMITVA PLOTS,residential,16000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Kundli,TIKARAM COLONY KUNDLI,residential,16000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Kundli,TIKARAM COLONY KUNDLI,commercial,20500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Kundli,प्याउ मनियारी से नरेला तक सडक,commercial,28100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Kundli,प्याउ मनियारी से नरेला तक सडक,residential,20500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Sersa,राज्य रोड एक से तीन एकड़ तक,agricultural,4204.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Sersa,004b - लिंक रोड पर,agricultural,1818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Sersa,004c - नहरी-चाही,agricultural,1853.31,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Sersa,004e - लाल डोरे के अन्दर/बाहर,residential,10700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Sersa,"HSIIDC Sec 53,54,55,56,57 IND.",industrial,14000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Sersa,"HSIIDC Sec 53,54,55,56,57 IND.",industrial,48077.33,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Sersa,"HSIIDC Sec 53,54,55,56,57 दुकान",commercial,40970.24,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Sersa,"HSIIDC Sec 53,54,55,56,57 रिहायशी प्लाट",residential,18200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Sersa,SWAMITVA PLOTS,residential,14000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,BajitpurSaboli,004b - लिंक रोड पर,agricultural,1818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,BajitpurSaboli,004c - नहरी-चाही,agricultural,3037.19,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,BajitpurSaboli,004e - लाल डोरे के अन्दर/बाहर,residential,11200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,BajitpurSaboli,Ambedkar and Baba Colony,commercial,14000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,BajitpurSaboli,Commercial,commercial,15000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,BajitpurSaboli,Ambedkar and Baba Colony,residential,12000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,BajitpurSaboli,New Shivpuri Colony Commercial,commercial,15000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,BajitpurSaboli,New Shivpuri Colony Residential,residential,12000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,BajitpurSaboli,SWAMITVA PLOTS,residential,10700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Munipur,इंडस्ट्रियल प्लाट,industrial,14300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Munipur,004b - लिंक रोड पर,agricultural,931.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Munipur,004c - नहरी-चाही,agricultural,829.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Munipur,004e - लाल डोरे के अन्दर/बाहर,residential,7300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Munipur,004e - लाल डोरे के अन्दर/बाहर,commercial,9500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Munipur,SWAMITVA PLOTS,residential,7300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Safiabad,004b - लिंक रोड पर,agricultural,1818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Safiabad,004c - नहरी-चाही,agricultural,2411.67,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Safiabad,004e - लाल डोरे के अन्दर/बाहर,residential,9700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Safiabad,004e - लाल डोरे के अन्दर/बाहर,commercial,12100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Safiabad,SWAMITVA PLOTS,residential,9700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Khatkar,004b - लिंक रोड पर,agricultural,1136.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Khatkar,004c - नहरी-चाही,agricultural,795.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Khatkar,004e - लाल डोरे के अन्दर/बाहर,residential,5000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Khatkar,Khatkar Village 02 Colony Commercial,commercial,6100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Khatkar,Commercial,commercial,7000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Khatkar,Khatkar Village 02 Colony Residential,residential,6000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Khatkar,Khatkar Village-03 commercial,commercial,7000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Khatkar,Khatkar Village-03 Residence,residential,6000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Khatkar,New Village Abadi Khatkar towards South Side commercial,commercial,7000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Khatkar,New Village Abadi Khatkar towards South Side Residence,residential,6000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Khatkar,SWAMITVA PLOTS,residential,6100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Dahisra,004b - लिंक रोड पर,agricultural,840.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Dahisra,004c - नहरी-चाही,agricultural,750.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Dahisra,004e - लाल डोरे के अन्दर/बाहर,residential,4900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Dahisra,004f - जमना की धार,agricultural,217.19,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Dahisra,004f - जमना की धार,commercial,6000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Dahisra,004g - जमना से 3 एकड़ तक,agricultural,172.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Dahisra,004h - 3 एकड़ से बान्ध तक,agricultural,250.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Dahisra,SWAMITVA PLOTS,residential,4900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Mahra,004b - लिंक रोड पर,agricultural,727.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Mahra,004c - नहरी-चाही,agricultural,568.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Mahra,004e - लाल डोरे के अन्दर/बाहर,residential,4900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Mahra,004e - लाल डोरे के अन्दर/बाहर,commercial,6000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Mahra,004f - जमना की धार,agricultural,106.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Mahra,004g-3 एकड़ से बान्ध तक,agricultural,250.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Mahra,004h-जमना से 3 एकड़ तक,agricultural,172.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Mahra,SWAMITVA PLOTS,residential,4900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Bakipur,004b -लिंक रोड पर,agricultural,727.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Bakipur,004c -नहरी-चाही,agricultural,568.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Bakipur,004e -लाल डोरे के अन्दर/बाहर,residential,5800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Bakipur,004e -लाल डोरे के अन्दर/बाहर,commercial,6000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Bakipur,004f-जमना की धार,agricultural,168.07,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Bakipur,004g-जमना से 3 एकड़ तक,agricultural,255.17,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Bakipur,004h-3 एकडसे बान्ध तक,agricultural,250.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Bakipur,SWAMITVA PLOTS,residential,4900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Basantpur,004b -लिंक रोड पर,agricultural,727.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Basantpur,004c -नहरी-चाही,agricultural,994.32,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Basantpur,004e -लाल डोरे के अन्दर/बाहर,residential,4900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Basantpur,004e -लाल डोरे के अन्दर/बाहर,commercial,6000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Basantpur,004f-जमना की धार,agricultural,166.42,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Basantpur,004g-जमना से 3 एकड़ तक,agricultural,225.72,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Basantpur,004h-3 एकड़ सेबान्ध तक,agricultural,250.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Basantpur,SWAMITVA PLOTS,residential,4900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,NangalKalan,004b -लिंक रोड पर,agricultural,2500.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,NangalKalan,004c - नहरी-चाही,agricultural,5857.44,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,NangalKalan,004e - लाल डोरे के अन्दर/बाहर,residential,20300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,NangalKalan,004e - लाल डोरे के अन्दर/बाहर,commercial,15000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,NangalKalan,004a - जी.टी रोड दो एकड़ तक,agricultural,5681.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,NangalKalan,04 - टी.डी.आई. सैक्टर 61,residential,20500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,NangalKalan,04 - टी.डी.आई. सैक्टर 61,commercial,57500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,NangalKalan,Constructed Build. indp. floor,residential,14000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,NangalKalan,Deendayal AMBAR PARK PARILOK SEC 64 COMMERCIAL,residential,32400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,NangalKalan,Deendayal AMBAR PARK PARILOK SEC 64 COMMERCIAL,commercial,44000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,NangalKalan,Deendayal AMBAR PARK PARILOK SEC 64 residential,residential,33000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,NangalKalan,Deendayal ANANDAM REGARDS DEVELOPERS SEC 63 COMMERCIAL,commercial,44000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,NangalKalan,Deendayal ANANDAM REGARDS DEVELOPERS SEC 63 RESIDENTIAL,residential,33000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,NangalKalan,Deendayal BLOSSOM PARK PUSHPRATTAN SEC 64 COMMERCIAL,commercial,44000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,NangalKalan,Deendayal BLOSSOM PARK PUSHPRATTAN SEC 64 residential,residential,33000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,NangalKalan,Deendayal CHITRAKOOT TDI MANSION SEC 64 COMMERCIAL,commercial,44000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,NangalKalan,Deendayal CHITRAKOOT TDI MANSION SEC 64 RESIDENTIAL,residential,33000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,NangalKalan,Deendayal CORAL PARK J S BROADCAST SEC 64 COMMERCIAL,commercial,44000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,NangalKalan,Deendayal CORAL PARK J S BROADCAST SEC 64 residential,residential,33000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,NangalKalan,Deendayal MANTOSH QUATARAGE SEC 63-64 COMMERCIAL,commercial,44000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,NangalKalan,Deendayal MANTOSH QUATARAGE SEC 63-64 RESIDENTIAL,residential,33000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,NangalKalan,Deendayal VAIKUNTH PARDESI DEVELOPERS SEC 63 COMMERCIAL,commercial,44000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,NangalKalan,Deendayal VAIKUNTH PARDESI DEVELOPERS SEC 63 RESIDENTIAL,residential,33000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,NangalKalan,EWS Flats TDI,residential,14400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,NangalKalan,EWS HBC Sec 60,residential,17100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,NangalKalan,EWS एवरेस्ट बिल्डटैक सैक्टर-61,residential,15300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,NangalKalan,EWS टी.डी.आई. सैक्टर 58,residential,6200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,NangalKalan,Flat Sq.Ft. सैक्टर 61,residential,26100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,NangalKalan,Institution Plots,residential,14000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,NangalKalan,New Stone park sec 63-64 commercial,commercial,44000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,NangalKalan,New Stone park sec 63-64 Residence,residential,33000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,NangalKalan,NewStone Gardens 1 sec 64 commercial,commercial,44000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,NangalKalan,NewStone Gardens 1 sec 64 Residence,residential,33000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,NangalKalan,Sec. 61 Commercial,commercial,59400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,NangalKalan,Shop in mall G. T. Road Facing,commercial,89100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,NangalKalan,Shops in Mall,commercial,79200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,NangalKalan,Shops other then G.T. Road,commercial,69300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,NangalKalan,SWAMITVA PLOTS,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,NangalKalan,एवरैस्ट बिल्ड्टैक सैकटर-61,residential,24750,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,NangalKalan,जी.टी रोड 3-5 एकड तक,agricultural,4545.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,NangalKalan,राज्य रोड एक से तीन एकड तक,agricultural,3409.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Khurrampur,004b -लिंक रोड़ पर,agricultural,727.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Khurrampur,004c -नहरी-चाही,agricultural,617.77,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Khurrampur,004e -लाल डोरे के अन्दर/बाहर,residential,4100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Khurrampur,004f-जमाना की धार तक,commercial,5200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Khurrampur,004f-जमना की धार,agricultural,1068.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Khurrampur,004g-जमना से 3 एकड़ तक,agricultural,172.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Khurrampur,004h-3 एकड़ से बान्ध तक,agricultural,250.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Khurrampur,SWAMITVA PLOTS,residential,4100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Halsapur,004b-लिंक रोड़ पर,agricultural,977.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Halsapur,004c -नहरी-चाही,agricultural,940.08,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Halsapur,004e -लाल डोरे के अन्दर/बाहर,residential,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Halsapur,SWAMITVA PLOTS,residential,4100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Aterna,004b-लिंक रोड़ पर,agricultural,2272.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Aterna,004c -नहरी-चाही,agricultural,3534.35,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Aterna,004e -लाल डोरे के अन्दर/बाहर,residential,6300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Aterna,Eastern Peripheral Expy to Village Aterna Road Colony Commercial,commercial,9000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Aterna,Eastern Peripheral Expy to Village Aterna Road Colony Residential,residential,7000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Aterna,Pardhan Colony Commercial,commercial,9000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Aterna,Pardhan Colony Residential,residential,7000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Aterna,SWAMITVA PLOTS,residential,6300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Jakhauli,004b-लिंक रोड़ पर,agricultural,1250.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Jakhauli,004c - नहरी-चाही,agricultural,1663.22,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Jakhauli,004e - लाल डोरे के अन्दर/बाहर,residential,7000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Jakhauli,004e - लाल डोरे के अन्दर/बाहर,commercial,9200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Jakhauli,Baba Colony Jakhauli Commercial,commercial,10000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Jakhauli,Baba Colony Jakhauli Residential,residential,8000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Jakhauli,Institutional Plot,residential,14000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Jakhauli,SWAMITVA PLOTS,residential,7000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Jakhauli,इंडस्ट्रियल प्लाट,industrial,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Jakhauli,लिंक रोड़ पर 1 से 3 एकड़,agricultural,1136.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Manauli,004b - लिंक रोड़ पर,agricultural,727.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Manauli,004c - नहरी-चाही,agricultural,856.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Manauli,004e - लाल डोरे के अन्दर/बाहर,residential,4100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Manauli,004e - लाल डोरे के अन्दर/बाहर,commercial,5200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Manauli,004f-जमना की धार,agricultural,136.98,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Manauli,004g-जमना से 3 एकड़ तक,agricultural,171.23,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Manauli,004h-3 एकड़ से बान्ध तक,agricultural,246.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Manauli,SWAMITVA PLOTS,residential,4100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Manauli,004b - लिंक रोड़ पर,agricultural,250.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Sevali,004b - लिंक रोड़ पर,agricultural,250.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Sevali,004c - नहरी-चाही,agricultural,1590.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Sevali,004c - नहरी-चाही,agricultural,2246.9,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Sevali,004e - लाल डोरे के अन्दर/बाहर,residential,7200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Sevali,004e - लाल डोरे के अन्दर/बाहर,commercial,9200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Sevali,Institutional Plot,residential,14000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Sevali,SWAMITVA PLOTS,residential,6900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Sevali,इंडस्ट्रियल प्लाट,industrial,9900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Aurangabad,004b -लिंक रोड़ पर,agricultural,1477.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Aurangabad,004c - नहरी-चाही,agricultural,954.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Aurangabad,004e - लाल डोरे के अन्दर/बाहर,residential,6300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Aurangabad,SWAMITVA PLOTS,commercial,8300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Aurangabad,SWAMITVA PLOTS,residential,6300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Asavarpur,004b -लिंक रोड़ पर,agricultural,2454.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Asavarpur,004c - नहरी-चाही,agricultural,2970.04,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Asavarpur,004e - लाल डोरे के अन्दर/बाहर,residential,14000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Asavarpur,व्यवसायिक,commercial,14000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Asavarpur,004a - जी.टी रोड़ दो एकड़ तक,agricultural,5681.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Asavarpur,Institutional Plot,residential,14000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Asavarpur,SWAMITVA PLOTS,residential,9400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Asavarpur,Varinda Apartment commercial,commercial,15000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Asavarpur,Varinda Apartment Residence,residential,10000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Asavarpur,जी.टी रोड़ 3-5 एकड़ तक,agricultural,4545.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Asavarpur,राज्य रोड़ एक से तीन एकड़ तक,agricultural,3409.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Badmalik,004b -लिंक रोड पर,agricultural,2454.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Badmalik,004c -नहरी-चाही,agricultural,2272.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Badmalik,004e -लाल डोरे के अन्दर/बाहर,residential,9400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Badmalik,004e -लाल डोरे के अन्दर/बाहर,commercial,14000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Badmalik,004 a - जी.टी. रोड दो एकड़ तक,agricultural,5681.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Badmalik,Durga Colony commercial,commercial,15000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Badmalik,Durga Colony Residence,residential,10000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Badmalik,Ram Nagar Colony commercial,commercial,15000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Badmalik,Ram Nagar Colony Residence,residential,10000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Badmalik,SWAMITVA PLOTS,residential,9400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Badmalik,SWAMITVA PLOTS,commercial,15500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Badmalik,इंडस्ट्रियल प्लाट,industrial,15500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Badmalik,जी.टी. रोड3-5एकड़ तक,agricultural,3409.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Badmalik,व्यवसायिक दुकानें - नगर निगम के अन्दर,commercial,17500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Badkhalsa,004b -लिंक रोड पर,agricultural,2454.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Badkhalsa,004c -नहरी-चाही,agricultural,2685.95,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Badkhalsa,004e -लाल डोरे के अन्दर/बाहर,residential,13500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Badkhalsa,004e -लाल डोरे के अन्दर/बाहर,commercial,15000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Badkhalsa,004 a - जी.टी. रोड दो एकड़ तक,agricultural,5681.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Badkhalsa,Constructed Buil. Indp. floor,residential,32400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Badkhalsa,EWS- नारंग कन्सट्रक्शन,residential,19890,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Badkhalsa,Flat Sq. Ft. नारंग कन्सट्रक्शन,residential,25200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Badkhalsa,HSIIDC राई इन्डस्ट्रीयल प्लाट,industrial,29682.52,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Badkhalsa,HSIIDC राई रिहायशी प्लाट,residential,9000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Badkhalsa,HSIIDC राई व्यावसायिक दुकान,commercial,32190.9,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Badkhalsa,Institutional Plots,residential,14000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Badkhalsa,Shops in Mall,commercial,81000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Badkhalsa,Shops in Mall G.T Road Facing,commercial,94500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Badkhalsa,SWAMITVA PLOTS,residential,10500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Badkhalsa,जी.टी रोड 3-5 एकड़ तक,agricultural,4545.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Badkhalsa,नारंग कान्सट्रक्शन दुकान,commercial,74700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Badkhalsa,राज्य रोड एक से तीन एकड़ तक,agricultural,3409.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Pitampura,Brami Janta Colony Pitampura Commercial,commercial,15000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Pitampura,Brami Janta Colony Pitampura Residential,residential,10000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Pitampura,SWAMITVA PLOTS,residential,9400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Pitampura,जी.टी. रोड 3-5 एकड तक,agricultural,4545.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Pitampura,राज्य रोड दो एकड तक,agricultural,3409.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Pitampura,लिंक रोड पर,agricultural,2454.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Pitampura,नहरी-चाही,agricultural,2272.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Pitampura,लाल डोरे के अन्दर/बाहर,residential,8300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,FirozpurBangar,004a - जी.टी. रोड दो एकड तक,commercial,13800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,FirozpurBangar,004a - जी.टी. रोड दो एकड तक,agricultural,5681.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,FirozpurBangar,SWAMITVA PLOTS,residential,8300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,FirozpurBangar,जी.टी. रोड 3-5 एकड तक,agricultural,4545.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,FirozpurBangar,राज्य रोड दो एकड तक,agricultural,3409.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,FirozpurBangar,004b - लिंक रोड पर,agricultural,4090.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,FirozpurBangar,004c - नहरी-चाही,agricultural,3099.17,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,FirozpurBangar,004e - लाल डोरे के अन्दर/बाहर,residential,14500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Rasoi,व्यवसायिक,commercial,20500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Rasoi,004a - जी.टी. रोड दो एकड तक,agricultural,5681.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Rasoi,Constructed Build. Indp. Floor,residential,32400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Rasoi,Deendayal Rishika Estates AT Educone P LTD sec 58,commercial,77000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Rasoi,Deendayal Rishika Estates AT Educone P LTD sec 58 residential,residential,44000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Rasoi,EWS Pardesi Dev. Pvt. Ltd.,residential,14400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Rasoi,EWS- Parker Est. Dev. P. Ltd.,residential,14400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Rasoi,EWS मै. अन्शल प्रो.&इन्फ्रा,residential,7200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Rasoi,Flat Sq.ft Parker Estate Dev.,residential,24750,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Rasoi,Flat Sq.ft. मै. अन्शल प्रो.&इन्फ्रा,residential,24750,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Rasoi,Industrial Plot Rasoi,industrial,14300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Rasoi,Institutional Plots,residential,14000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Rasoi,Pardesi Dev. Pvt. Ltd.,residential,24750,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Rasoi,Parker Estate Dev. Pvt. Ltd.,residential,24750,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Rasoi,Shops in Mall,commercial,41800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Rasoi,Shops in Mall,commercial,79200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Rasoi,Shops in Mall G.t. Road Facing,commercial,89100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Rasoi,Shops other than G.T. Road,commercial,69300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Rasoi,SWAMITVA PLOTS,residential,10500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Rasoi,जी.टी. रोड 3-5एकड़ तक,agricultural,4545.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Rasoi,जी.टी रोड 3-5 एकड़ तक,residential,25625,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Rasoi,मै. अनन्त प्रो.&इनका. लि.,commercial,48300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Rasoi,मै. अनन्त प्रो.&इनका. लि.,residential,14000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Nathupur,राज्य रोड दो एकड़ तक,agricultural,3409.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Nathupur,004b-लिंक रोड पर,agricultural,2822.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Nathupur,004c-नहरी-चाही,agricultural,5423.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Nathupur,004e-लाल डोरे के अन्दर/बाहर,residential,12190,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Nathupur,004e-लाल डोरे के अन्दर/बाहर,commercial,17250,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Nathupur,Industrial Plot Nathupur,industrial,14500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Nathupur,SWAMITVA PLOTS,residential,10200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Nathupur,जी.टी रोड 3-5 एकड़ तक,agricultural,4545.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Nathupur,जी.टी रोड़ दो एकड़ तक,agricultural,5113.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Kundpur,004b-लिंक रोड पर,agricultural,1448.86,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Kundpur,004c-नहरी-चाही,agricultural,2711.78,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Kundpur,004e-लाल डोरे के अन्दर/बाहर,residential,6325,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Kundpur,004e-लाल डोरे के अन्दर/बाहर,commercial,8855,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Kundpur,004f-जमाना की धार,agricultural,229.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Jhundpur,004g-जमना से 3 एकड़ तक,agricultural,244.96,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Jhundpur,004h-3 एकड़ से बान्ध तक,agricultural,312.5,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Jhundpur,SWAMITVA PLOTS,residential,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Jhundpur,इंडस्ट्रियल प्लाट,industrial,9900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Jajal,जी टी रोड़ से 2 एकड़ तक,agricultural,1250.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Jajal,जी टी रोड़ से 3 से 5 एकड़,agricultural,1136.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Jajal,राज्य रोड़ के साथ 1 से 3 एकड़ तक,agricultural,1022.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Jajal,004b-लिंक रोड़ पर,agricultural,681.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Jajal,004c-नहरी-चाही,agricultural,568.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Jajal,004e-लाल डोरे के अन्दर/बाहर,residential,4000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Jajal,004e-लाल डोरे के अन्दर/बाहर,commercial,5000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Jajal,004f-जमना की धार,agricultural,178.08,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Jajal,004g-जमना से 3 एकड़ तक,agricultural,237.6,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Jajal,004h-3 एकड़ से बान्ध तक,agricultural,250.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Jajal,SWAMITVA PLOTS,residential,4000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,PaldiKalan,004b-लिंक रोड़ पर,agricultural,1136.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,PaldiKalan,004c-नहरी-चाही,agricultural,1880.17,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,PaldiKalan,004e-लाल डोरे के अन्दर/बाहर,residential,5000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,PaldiKalan,004e-लाल डोरे के अन्दर/बाहर,commercial,7700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,PaldiKalan,004a-राज्य रोड़ 3 एकड़ तक,agricultural,1704.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,PaldiKalan,SWAMITVA PLOTS,residential,5000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,PaldiKalan,जमना की धार,agricultural,106.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,PaldiKalan,जमना की धार 3 एकड़ से अधिक बान्ध तक,agricultural,250.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,PaldiKalan,जमना की धार से 3 एकड़ तक,agricultural,172.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,PaldiKalan,जी टी रोड से 2 एकड़ तक,agricultural,2272.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,PaldiKalan,जी टी रोड से 3 से 5 एकड़ तक,agricultural,1818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Palda,004e - लाल डोरे के अन्दर/बाहर,residential,5625,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Palda,व्यावसायिक,commercial,7300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Palda,3 एकड़ से आगे जमना बांध,agricultural,250.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Palda,SWAMITVA PLOTS,residential,4500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Palda,जमना की धार,agricultural,135.74,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Palda,जमना की धार 3 एकड़ तक,agricultural,180.58,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Palda,जी टी रोड एक से दो एकड़ तक,agricultural,2954.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Palda,जी टी रोड तीन से पांच एकड़ तक,agricultural,1818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Palda,राज्य रोड एक से तीन एकड़ तक,agricultural,1590.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Palda,004b - लिंक रोड पर,agricultural,1136.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,PaldiKhurd,004c - नहरी-चाही,agricultural,954.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,PaldiKhurd,004e - लाल डोरे के अन्दर/बाहर,residential,5405,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,PaldiKhurd,004e - लाल डोरे के अन्दर/बाहर,commercial,7300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,PaldiKhurd,004a - राज्य रोड 3 एकड़ तक,agricultural,1704.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,PaldiKhurd,SWAMITVA PLOTS,residential,4700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Misarpur,जमना की धार,agricultural,106.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Misarpur,जमना की धार 3 एकड़ से अधिक,agricultural,250.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Misarpur,जमना की धार से 3 एकड़ तक,agricultural,172.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Misarpur,जी टी रोड से 2 एकड़ तक,agricultural,2272.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Misarpur,जी टी रोड से 3 से 5 एकड़,agricultural,1818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Misarpur,state road upto 1 to 3 acre,agricultural,1863.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Misarpur,SWAMITVA PLOTS,residential,14000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Misarpur,अन्य मार्ग पर 3 एकड़ तक,agricultural,1136.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Misarpur,नहरी-चाही,agricultural,863.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Misarpur,लाल डोरे के अन्दर बाहर,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Misarpur,लाल डोरे के अन्दर बाहर,commercial,14000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Misarpur,004b - लिंक रोड पर,agricultural,1136.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Misarpur,004c - नहरी-चाही,agricultural,2169.42,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Mirakpur,004e - लाल डोरे के अन्दर/बाहर,residential,4500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Mirakpur,004e - लाल डोरे के अन्दर/बाहर,commercial,7300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Mirakpur,004a - राज्य रोड़ 2 एकड तक,agricultural,1250.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Mirakpur,SWAMITVA PLOTS,residential,4500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Mirakpur,इंडस्ट्रियल प्लाट,industrial,9000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Mirakpur,जमना की धार,agricultural,258.16,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Mirakpur,जमना की धार 3 एकड़ से बांध तक,agricultural,313.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Mirakpur,जमना की धार से 3 एकड़,agricultural,227.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Mirakpur,जी टी रोड से 2 एकड तक,agricultural,1590.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Rai,Mirakpur,जी टी रोड से 3 से 5 एकड,agricultural,1477.27,2026-04-01,sonipat_gov_in_dc_notification

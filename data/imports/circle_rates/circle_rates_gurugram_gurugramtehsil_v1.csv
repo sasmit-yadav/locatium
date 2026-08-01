@@ -1,0 +1,341 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Gurugram,Gurugram,Gurgaon Gaon,"2acres depth from NH,NPR",agricultural,10330.58,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon Gaon,"2acres depth from NH,NPR",residential,45000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon Gaon,Gurgaon gaon,agricultural,10022.73,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon Gaon,Gurgaon gaon,agricultural,10022.73,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon Gaon,Gurgaon gaon,residential,65100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon Gaon,Gurgaon gaon,commercial,100500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon Gaon,Gurgaon gaon,residential,56300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon Gaon,TEK CHAND NAGAR,residential,45000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon Gaon,TEK CHAND NAGAR,commercial,69300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Hidayatpur Chhawni,Hidayatpur Chhawni,residential,48200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Hidayatpur Chhawni,Hidayatpur Chhawni,commercial,97300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Inayatpur,Inayatpur,agricultural,12522.73,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Inayatpur,Inayatpur,residential,31000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Inayatpur,Inayatpur,commercial,67100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Carterpuri,Carterpuri,agricultural,13621.8,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Carterpuri,Carterpuri,residential,49300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Carterpuri,Carterpuri,commercial,77200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Rly.fatak to Daultabad with mc area,residential,35600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Rly.fatak to Daultabad with mc area,commercial,62000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,4 Marla,residential,69800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,4 Marla,commercial,97600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,8 Marla,residential,72600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,8 Marla,commercial,100300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Acharyapuri,residential,47700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Acharyapuri,commercial,69100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Adarsh Nagar,residential,55800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Adarsh Nagar,commercial,83400,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Aman Pura,residential,58100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Aman Pura,commercial,69000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Amar Colony,residential,33900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Amar Colony,commercial,64200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Anamika Enclave,residential,63000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Anamika Enclave,commercial,76250,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Anand Garden,residential,42900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Anand Garden,commercial,49800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Arjun Nagar,residential,50300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Arjun Nagar,commercial,77200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Ashok Vihar,residential,52600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Ashok Vihar,commercial,126300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Ashokpuri,residential,53400,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Ashokpuri,commercial,69100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Barf Khana,residential,84800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Barf Khana,commercial,197300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Bhim Colony,residential,72600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Bhim Colony,commercial,84700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Bhim Nagar,residential,52800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Bhim Nagar,commercial,87400,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Bhimgarh Kheri Phase-II,residential,48400,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Bhimgarh Kheri Phase-II,commercial,52100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,BHINDE CIVIL LINE,residential,58500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,BHINDE CIVIL LINE,commercial,105500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,BHUTESHWAR MANDIR TO PATAUDI CHOWK AND ANAJ MANDI,commercial,156100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Cancon Colony,residential,66600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Cancon Colony,commercial,84700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Civil Line to Jail Road,residential,100300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Civil Line to Jail Road,commercial,282300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Dayanand Colony,residential,51000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Dayanand Colony,commercial,64500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Devi Lal Colony,residential,49800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Devi Lal Colony,commercial,64300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Dhanak Basti Near DSD College,residential,29100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Dhanak Basti Near DSD College,commercial,41800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,DLF Colony Old,residential,104900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,DLF Colony Old,commercial,230100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Feroz Gandhi Colony,residential,42500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Feroz Gandhi Colony,commercial,43600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Friends Colony,residential,70000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Friends Colony,commercial,117500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Gandhi Nagar,residential,53400,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Gandhi Nagar,commercial,69100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Gopal Nagar,residential,53400,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Gopal Nagar,commercial,133600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Heera nagar,residential,50800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Heera nagar,commercial,70100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,idgaha area,residential,38900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,idgaha area,commercial,64300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Inderpuri,residential,53400,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Inderpuri,commercial,64300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Jacubpura,residential,77600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Jacubpura,commercial,166300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,JAWAHAR NAGAR,residential,67000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,JAWAHAR NAGAR,commercial,69100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,JYOTI PARK,residential,58400,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,JYOTI PARK,commercial,64300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,KRISHNA COLONY,residential,67000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,KRISHNA COLONY,commercial,86400,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Krishna Nagar,residential,58100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Krishna Nagar,commercial,61800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,LAXMAN VIHAR,residential,57100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,LAXMAN VIHAR,commercial,104300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,LAXMI GARDEN,residential,48600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,LAXMI GARDEN,commercial,64300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,MADANPURI,residential,55800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,MADANPURI,commercial,70100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,MAHAVIR CHOWK TO OLD NJF. GARH ROAD,commercial,127100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,MAHAVIR PURA,residential,50800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,MAHAVIR PURA,commercial,68000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Mahroli Road to Delhi Road,commercial,256900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,"MAJOR ATUL KATRIA CHOWK TO SEC 5 CHOWK ON Rly ROAD, SHEETLA MATA ROAD",commercial,127100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,MANOHAR NAGAR-BALDEV NAGAR,residential,50300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,MANOHAR NAGAR-BALDEV NAGAR,commercial,64300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,MIYANWALI COLONY,residential,63100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,MIYANWALI COLONY,commercial,83600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Nai Aabadi,residential,53300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Nai Aabadi,commercial,86300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,NAI BASTI,residential,55800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,NAI BASTI,commercial,68900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,NAI BASTI SAMSHAN GHAT,residential,37100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,NAI BASTI SAMSHAN GHAT,commercial,60700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Near Dev Cinema opp DHBVN,residential,53300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Near Dev Cinema opp DHBVN,commercial,76300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Nehru Lane,residential,66800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Nehru Lane,commercial,122300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,NEW COLONY,residential,97000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,NEW COLONY,commercial,139800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,NEW COLONY MOD TO PATUADI CHOWK,commercial,143000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,NEW RAILYWAY ROAD GGM POST OFFICE TO HUDA CHOWK,commercial,249300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Old Judicial Complex,commercial,173900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,"OLD RAILWAY ROAD,RAILWAY STATION TO RAJIV CHOWK",commercial,142800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,OLD SABJI MANDI,residential,77500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,OLD SABJI MANDI,commercial,118700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,OM NAGAR,residential,50300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,OM NAGAR,commercial,93200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,PATEL NAGAR,residential,61300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,PATEL NAGAR,commercial,99300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,PO-Jail Chowk via HospitalRoad,commercial,194700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Police Line Mehrauli Road to Old DLF More -Cut Both Side,residential,58700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Police Line Mehrauli Road to Old DLF More -Cut Both Side,commercial,84700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,PRATAP NAGAR,residential,63000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,PRATAP NAGAR,commercial,69600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,PREM NAGAR BHUTESHWAR MANDIR,residential,60500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,PREM NAGAR BHUTESHWAR MANDIR,commercial,94800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,PREM NAGAR GURGAON GAON,residential,43700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,PREM NAGAR GURGAON GAON,commercial,133600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,RAJ NAGAR,residential,53300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,RAJ NAGAR,commercial,97900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,RAJEEV NAGAR,residential,36200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,RAJEEV NAGAR,commercial,64200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,RAJENDRA PARK,residential,57000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,RAJENDRA PARK,commercial,73800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,RAM NAGAR,residential,55700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,RAM NAGAR,commercial,67100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,RATTAN GARDEN,residential,64200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,RATTAN GARDEN,commercial,88600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Ravi Nagar,residential,43600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Ravi Nagar,commercial,64200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,"ROSHANPURA,MANOHAR STREET",residential,83500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,"ROSHANPURA,MANOHAR STREET",commercial,151800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,SADAR BAZAR TO BHUTESHWAR MANDIR,commercial,284000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,SAMA RESTRORENT TO JHARSA CHOWK,commercial,142800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,SANJAY COLONY,residential,48400,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,SANJAY COLONY,commercial,64200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Sarup garden,residential,54500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Sarup garden,commercial,64200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Sec-7 Extn.Krishna Colony,residential,81000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Sec-7 Extn.Krishna Colony,commercial,163500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Sector-5 Chowk Rly. Rd. Chowk Sec-9,commercial,127100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,SHAKTI NAGAR,residential,62200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,SHAKTI NAGAR,commercial,54500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,SHANTI NAGAR CITY,residential,48800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,SHANTI NAGAR CITY,commercial,76300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Sheetla Colony,residential,27900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Sheetla Colony,commercial,64200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Sheetla Enclave,residential,27900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Sheetla Enclave,commercial,64200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Shiv Nagar,residential,48000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Shiv Nagar,commercial,57200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,SHIVAJI NAGAR,residential,82300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,SHIVAJI NAGAR,commercial,87200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,SHIVJI PARK,residential,46600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,SHIVJI PARK,commercial,75800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,SHIVPURI,residential,72600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,SHIVPURI,commercial,91100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Shri Ram Colony,residential,58100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Shri Ram Colony,commercial,76300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,SUBHASH NAGAR DHANAK BASTI,residential,38000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,SUBHASH NAGAR DHANAK BASTI,commercial,48400,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,SUBHASH NAGAR NEAR JAWAHAR NAGAR,residential,57000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,SUBHASH NAGAR NEAR JAWAHAR NAGAR,commercial,63600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,SUBHASH NAGAR NEAR PARTAP NAGAR,residential,61300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,SUBHASH NAGAR NEAR PARTAP NAGAR,commercial,67800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,SUKHRALI,residential,23900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,SURAT NAGAR,residential,47000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,SURAT NAGAR,commercial,53400,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,SURYA VIHAR,residential,43600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,SURYA VIHAR,commercial,64200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,VIJAYA PARK,residential,50700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,VIJAYA PARK,commercial,100900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,VISHANU GARDEN,residential,62100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,VISHANU GARDEN,commercial,69000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Delhi Road and Mehrauli Road,residential,256900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Shop and Office (Commercial),commercial,23700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Lajpat Nagar,residential,52400,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Gurgaon City,Lajpat Nagar,commercial,53400,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Choma,"2acres depth from NH,NPR",agricultural,10931.82,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Choma,CHANDAN VIHAR,residential,55000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Choma,CHANDAN VIHAR,commercial,77000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Choma,choma,agricultural,14211.36,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Choma,choma,agricultural,27500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Choma,choma,residential,46000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Choma,choma,commercial,67100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Choma,GANGA VIHAR,residential,55000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Choma,GANGA VIHAR,commercial,70000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Choma,INSIDE R ZONE DWARKA EXPRESSWAY,agricultural,13429.75,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Choma,New Palam Vihar,residential,42900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Choma,New Palam Vihar,commercial,67100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Choma,SAHIB KUNJ,residential,55000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Choma,SAHIB KUNJ,commercial,70000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Choma,SAI KUNJ,residential,49400,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Choma,SAI KUNJ,commercial,67100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Choma,SHANKAR VIHAR,residential,25000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Choma,SHANKAR VIHAR,commercial,30000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Dundahera,2acres depth from Major road,agricultural,9680.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Dundahera,"2acres depth from NH,NPR",agricultural,11000.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Dundahera,agri open space public utility as per master plan,agricultural,4950.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Dundahera,Dundahera,agricultural,8802.27,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Dundahera,Dundahera,residential,48000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Dundahera,Dundahera,commercial,93200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Naharpur Rupa,"2acres depth from NH,NPR",agricultural,10312.73,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Naharpur Rupa,Hans Enclave,residential,37700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Naharpur Rupa,Hans Enclave,commercial,60500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Naharpur Rupa,Hari Nagar,residential,51300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Naharpur Rupa,Hari Nagar,commercial,66000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Naharpur Rupa,Rajiv Colony,residential,37700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Naharpur Rupa,Rajiv Colony,commercial,96800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Naharpur Rupa,Naharpur Rupa,agricultural,8252.27,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Naharpur Rupa,Naharpur Rupa,residential,37700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Naharpur Rupa,Naharpur Rupa,commercial,91800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,National Highway Commercial,DLF PHASE II,residential,217000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,National Highway Commercial,DLF PHASE II,commercial,327500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Bajghera,agri open space public utility as per master plan,agricultural,5460.27,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Bajghera,Bajghera,agricultural,15558.37,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Bajghera,Bajghera,agricultural,8252.27,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Bajghera,Bajghera,residential,22000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Bajghera,Bajghera,commercial,90500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Bajghera,INSIDE R ZONE DWARKA EXPRESSWAY,agricultural,13429.75,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Babupur,Babupur,agricultural,8204.55,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Babupur,Babupur,residential,31900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Babupur,Babupur,commercial,42900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Babupur,UPVAN SOCIETY,residential,42900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Molahera,Molahera,agricultural,8800.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Molahera,Molahera,residential,42600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Molahera,Molahera,commercial,63600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Molahera,Molahera_town,residential,26000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Shahpur,"2acres depth from NH,NPR",agricultural,11002.27,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Shahpur,Shahpur,agricultural,8802.27,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Shahpur,Shahpur,residential,38500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Shahpur,Shahpur,commercial,53900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Sarhol,2acres depth from Major road,agricultural,9680.23,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Sarhol,"2acres depth from NH,NPR",agricultural,11002.27,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Sarhol,agri open space public utility as per master plan,agricultural,5445.23,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Sarhol,Inside R zone etc,agricultural,15022.73,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Sarhol,Inside R zone etc_P,agricultural,11002.27,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Sarhol,Sarhol,agricultural,9680.23,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Sarhol,Sarhol,residential,48200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Sarhol,Sarhol,commercial,84800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Sarai Allawardi,BHIM COLONY,residential,55000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Sarai Allawardi,BHIM COLONY,commercial,70000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Sarai Allawardi,New Palam Vihar,residential,49500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Sarai Allawardi,New Palam Vihar,commercial,67100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Sarai Allawardi,NIHAL COLONY,residential,42900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Sarai Allawardi,NIHAL COLONY,commercial,67100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Sarai Allawardi,Sarai Allawardi,agricultural,19691.53,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Sarai Allawardi,Sarai Allawardi,residential,53700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Sarai Allawardi,Sarai Allawardi,commercial,107400,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Sukhrali,"2acres depth from NH,NPR",agricultural,11000.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Sukhrali,Sukhrali,agricultural,16800.41,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Sukhrali,Sukhrali,residential,43700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Sukhrali,Sukhrali,commercial,66700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Sushant Lok 2,I D C OPPOSITE SECTOR 14,commercial,55200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Sushant Lok 2,I D C OPPOSITE SECTOR 14,industrial,55200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Sushant Lok 2,Indl. Area Except HSIDC & Huda,commercial,99400,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Sushant Lok 2,Instt School Clubs Hospital,commercial,54600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Sushant Lok 2,"Maruti Ind Area and Udyog Vihar phase 1 to 5 and sec 18, 35",commercial,124600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Sushant Lok 2,"Maruti Ind Area and Udyog Vihar phase 1 to 5 and sec 18, 35",industrial,107500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Sushant Lok 2,PALAM VIHAR,residential,92000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Sushant Lok 2,PALAM VIHAR,commercial,312500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Housing Board Colonies,Chakkarpur (Saraswati Vihar),residential,51000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Housing Board Colonies,Sector 17 Sukhrali,residential,86500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Housing Board Colonies,Sector 7 Extension,residential,92400,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Ind. Sector-18,commercial,95200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,"Institution Sec-18,32,44",commercial,109100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,"INSTIUTIONAL PLOT, SCHOOL PLOT, CLUB HOSPITALS etc. IN HUDA SECTOR AND LICENCE COLONIES",commercial,55000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,"INSTIUTIONAL PLOT, SCHOOL PLOT, CLUB HOSPITALS etc. IN OTHER AREA",commercial,55000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sec-18,commercial,159900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sec-18,industrial,109500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sec-19,commercial,145500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sec-2,residential,70000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sec-2,commercial,196700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sec-20,commercial,145500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sec-22A,residential,66400,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sec-22A,commercial,204400,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sec-25,residential,157300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sec-25,commercial,159000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sec-3,residential,60900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sec-3,commercial,196700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sector-1,residential,58200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sector-1,commercial,223500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sector-12,residential,58200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sector-12,commercial,196700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sector-12A,residential,63600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sector-12A,commercial,226200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sector-14,residential,111900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sector-14,commercial,456800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sector-15,residential,149600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sector-15,commercial,220000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sector-16-17,residential,124600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sector-16-17,commercial,274600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sector-17 (P),residential,93800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sector-17 (P),commercial,181700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sector-21,residential,83000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sector-21,commercial,265700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sector-22,residential,104600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sector-22,commercial,222600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sector-23-23A,residential,100300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sector-23-23A,commercial,356800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sector-27,residential,92100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sector-27,commercial,324000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sector-28,residential,135000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sector-28,commercial,312000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sector-38,residential,74700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sector-38,commercial,221900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sector-3A,residential,58200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sector-3A,commercial,196700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sector-4,residential,79300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sector-4,commercial,279000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sector-40,residential,114300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sector-40,commercial,274600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sector-42,residential,116000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sector-42,commercial,299700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sector-43,residential,126500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sector-43,commercial,347600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sector-5,residential,96300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sector-5,commercial,224300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sector-6,residential,58200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sector-6,commercial,196700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sector-7,residential,86500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,Sector-7,commercial,196700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,"Sectors Sec 104 to 106, 109 to 115",residential,96000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Gurugram,Huda Sectors,"Sectors Sec 104 to 106, 109 to 115",commercial,224800,2026-04-01,gurugram_gov_in_dc_notification

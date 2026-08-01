@@ -1,0 +1,8 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Palwal,Omaxe City,Palwal,Omaxe City 3rd Floor,residential,8250,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Omaxe City,Palwal,Omaxe City 4th Floor,residential,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Omaxe City,Palwal,Omaxe First Floor,residential,6600,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Omaxe City,Palwal,omaxe Ground Floor,residential,6600,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Omaxe City,Palwal,Omaxe Group Second Floor,residential,6600,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Omaxe City,Palwal,Omaxe residential plot,residential,22548.62,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Omaxe City,Palwal,Omaxe second floor,residential,6600,2026-04-01,palwal_gov_in_dc_notification

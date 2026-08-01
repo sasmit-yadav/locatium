@@ -1,0 +1,951 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Palwal,Palwal,अकबरपुरडकोरा,akbarpur dakora,agricultural,731.82,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अकबरपुरडकोरा,akbarpur dakora,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अकबरपुरडकोरा,akbarpur dakora,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अगवानपुर,Agwanpur Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अगवानपुर,Agwanpur Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अगवानपुर,With in M.C. Area,residential,12705,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अगवानपुर,With in M.C. Area,commercial,26620,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अगवानपुर,अगवानपुर (2 एकड से पीछे),agricultural,3867.77,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अगवानपुर,अगवानपुर (2 एकड से पीछे),residential,9295,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अगवानपुर,अगवानपुर (2 एकड से पीछे),commercial,26620,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अगवानपुर,अगवानपुर (राजमार्ग से 2 एकड तक),agricultural,5922.52,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अगवानपुर,अगवानपुर (राजमार्ग से 2 एकड तक),residential,10648,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अगवानपुर,अगवानपुर (राजमार्ग से 2 एकड तक),commercial,26620,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अगवानपुर,After 2 Acre From N.H.2,agricultural,1176.14,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अगवानपुर,Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अगवानपुर,Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अटोंहा,On N.H. (Depth Of 2 Acre),agricultural,1875.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अटोंहा,अटोंहा on NH(3 Acre),agricultural,1875.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अटोंहा,अटोंहा NH After 3 Acre,agricultural,1176.14,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अटोंहा,अटोंहा NH After 3 Acre,residential,3267,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अटोंहा,अटोंहा NH After 3 Acre,commercial,26620,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अतरचटा,Atarchata,residential,3267,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अतरचटा,Atarchata,commercial,26620,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अतरचटा,Atarchata,agricultural,818.18,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अतरचटा,Atarchata,agricultural,600.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अतरचटा,Atarchata,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अतरचटा,Atarchata,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अतरचटा,Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अतरचटा,Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अतवा,Atwa,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अतवा,Atwa,agricultural,715.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अतवा,Atwa,residential,3327.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अतवा,Atwa,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अमरपुर,amarpur,agricultural,1431.82,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अमरपुर,amarpur,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अमरपुर,amarpur,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अमरोली,amroli,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अमरोली,amroli,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अमरोली,amroli,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अलावलपुर,Alawalpur,agricultural,800.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अलावलपुर,Alawalpur,residential,3267,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अलावलपुर,Alawalpur,commercial,18150,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अल्लीका,After 2 Acre Of K.M.P.,agricultural,921.82,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अल्लीका,Allika,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अल्लीका,Allika,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अल्लीका,On K.M.P. (Depth Of 2 Acre,agricultural,1100.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,असावटा,असावटा (रेलवे लाईन के बाद),agricultural,1406.25,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,असावटा,असावटा (रेलवे लाईन के बाद),residential,3267,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,असावटा,असावटा (रेलवे लाईन के बाद),commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,असावटा,असावटा GT Rd से रेललाईन तक,agricultural,2968.75,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,असावटा,असावटा GT Rd से रेललाईन तक,residential,4598,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,असावटा,असावटा GT Rd से रेललाईन तक,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,असावटी,Asawati,agricultural,2454.55,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,असावटी,Asawati,residential,5566,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,असावटी,Asawati,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,असावटी,After 2 Acre K.M.P.,agricultural,500.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,असावटी,After 2 Acre Form K.M.P.,agricultural,500.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अहरवां,Aharwan,agricultural,522.73,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अहरवां,Aharwan,agricultural,500.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अहरवां,Aharwan,residential,2904,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अहरवां,Aharwan,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अहरवां,On K.M.P. (Depth Of 2 Acre),agricultural,1000.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अहरवां,On K.M.P. (Depth Of 2 Acre),commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,आदुपुर,Adupur,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,आदुपुर,Adupur,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,आदुपुर,After 2 Acre From K.M.P.,agricultural,1125.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,आदुपुर,On K.M.P. (Depth Of 2 Acre),agricultural,1250.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,आमरु,Amru,agricultural,1190.08,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,आमरु,Amru,agricultural,800.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,आमरु,Amru,residential,3388,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,आमरु,Industrial rate after 2 Acre,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,आमरु,Industrial rate on 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,आलापुर,Alhapur Industrial rate after 2 Acre,industrial,13915,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,आलापुर,Alhapur Industrial rate on 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,आलापुर,Approve Group Housing Society,residential,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,आलापुर,first floor,residential,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,आलापुर,Ground Floor,residential,4477,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,आलापुर,second floor,residential,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,आलापुर,With In M.C. Area,residential,4477,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,आलापुर,आलापुर (2 एकड़ से पीछे),residential,12705,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,आलापुर,आलापुर (2 एकड़ से पीछे),commercial,26620,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,आलापुर,Alhapur,agricultural,3742.25,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,आलापुर,आलापुर (राजमार्ग से 2 एकड़ तक),residential,6292,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,आलापुर,आलापुर (राजमार्ग से 2 एकड़ तक),commercial,24200,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,आलापुर,आलापुर (राजमार्ग से 2 एकड़ तक),agricultural,5667.61,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,आलापुर,आलापुर (राजमार्ग से 2 एकड़ तक),residential,11253,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,आलापुर,आलापुर (राजमार्ग से 2 एकड़ तक),commercial,26620,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,आलापुर,एस. आर. एस. सैक्टर-6 प्रथम तल,residential,4477,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,उलैण्डा,उलैण्डा,agricultural,1078.51,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,उलैण्डा,उलैण्डा,residential,3025,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,उलैण्डा,उलैण्डा,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,कंकराली,कंकराली,agricultural,763.64,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,कंकराली,कंकराली,residential,2904,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,कंकराली,कंकराली,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,ककड़ीपुर,ककड़ीपुर,agricultural,500.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,ककड़ीपुर,ककड़ीपुर,residential,2420,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,ककड़ीपुर,ककड़ीपुर,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,ककड़ीपुर,ककड़ीपुर,agricultural,627.27,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,कटेसरा,कटेसरा,residential,2904,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,कटेसरा,कटेसरा,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,कटेसरा,Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,कटेसरा,Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,कटेसरा,कटेसरा,agricultural,1344.32,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,कलवाका,कलवाका,residential,2904,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,कलवाका,कलवाका,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,करना,Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,करना,Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,करना,करना,agricultural,1268.75,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,करना,करना,residential,2904,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,करना,करना,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,काशीपुर,काशीपुर,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,काशीपुर,काशीपुर,residential,2904,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,काशीपुर,काशीपुर,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,काशीपुर,kashipur,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,काशीपुर,kashipur,residential,2904,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,काशीपुर,kashipur,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,किठवाडी,Kithwari Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,किठवाडी,Kithwari Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,किठवाडी,With in M.C. Area,residential,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,किठवाडी,किठवाडी अलीगढ Rd दो एकड पीछे,agricultural,1125.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,किठवाडी,किठवाडी अलीगढ Rd दो एकड पीछे,residential,7411.25,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,किठवाडी,किठवाडी अलीगढ Rd दो एकड पीछे,commercial,26620,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,किठवाडी,किठवाडीअलीगढ Rd से दो एकड तक,agricultural,2843.75,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,किठवाडी,किठवाडीअलीगढ Rd से दो एकड तक,residential,6655,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,किठवाडी,किठवाडीअलीगढ Rd से दो एकड तक,residential,12705,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,किठवाडी,किठवाडीअलीगढ Rd से दो एकड तक,commercial,26620,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,किठवाडी,किठवाड़ी अलीगढ़ Rd से दो एकड़ तक,commercial,26620,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,किशोरपुर,kishorepur,agricultural,1145.45,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,किशोरपुर,kishorepur,residential,2904,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,किशोरपुर,kishorepur,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,कुराराशाहपुर,Kurara Sahpur,agricultural,867.77,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,कुराराशाहपुर,Kurara Sahpur,residential,2904,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,कुराराशाहपुर,Kurara Sahpur,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,कुलैना,kulina,agricultural,1309.09,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,कुलैना,kulina,residential,3061.3,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,कुलैना,kulina,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अच्छेजा,accheja,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अच्छेजा,accheja,residential,2904,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अच्छेजा,accheja,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,अच्छेजा,accheja,agricultural,500.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,भवाना,Bhawana,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,भवाना,Bhawana,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,भवाना,Bhawana,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,करीमनपुर,Karimpur,residential,2904,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,करीमनपुर,Karimpur,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,करीमनपुर,Karimpur,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,कुशाक,kushak,residential,2904,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,कुशाक,kushak,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,कुशाक,kushak,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,कुशाक,kushak,agricultural,375.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,कैराका,Kairaka,residential,2904,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,कैराका,Kairaka,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,कैराका,Kairaka,agricultural,750.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,खजूरका,Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,खजूरका,Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,खजूरका,Khajurka,agricultural,1143.47,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,खजूरका,Khajurka,residential,3339.6,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,खजूरका,Khajurka,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,खुसरूपुर,Khusrupur Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,खुसरूपुर,Khusrupur Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,खुसरूपुर,Khusrupur With In MC Area,residential,12705,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,खुसरूपुर,Khusrupur With In MC Area,commercial,32670,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,खुसरूपुर,खुसरूपुर (रा.मा.से 2 एकड तक ),agricultural,5122.93,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,खुसरूपुर,खुसरूपुर (रा.मा.से 2 एकड तक ),residential,10285,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,खुसरूपुर,खुसरूपुर (रा.मा.से 2 एकड तक ),commercial,39930,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,खुसरूपुर,खुसरूपुर(2 एकड से पीछे),agricultural,2012.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,खुसरूपुर,खुसरूपुर(2 एकड से पीछे),residential,7986,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,खुसरूपुर,खुसरूपुर(2 एकड से पीछे),commercial,32670,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,खेडलाफरीजनपुर,Kherla Farizanpur,agricultural,690.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,खेडलाफरीजनपुर,Kherla Farizanpur,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,खेडलाफरीजनपुर,Kherla Farizanpur,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,खेडासराय,bamnikhera on 2 acre,agricultural,2250.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,खेडासराय,bamnikhera on 2 acre,residential,9317,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,खेडासराय,Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,खेडासराय,Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,खेडासराय,prime rate on 2 acre,residential,9317,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,खेडासराय,खेडासराय /बामनीखेडा (2एकड तक),agricultural,3937.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,खेडासराय,खेडासराय /बामनीखेडा (2एकड तक),residential,9317,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,खेडासराय,खेडासराय /बामनीखेडा (2एकड तक),commercial,39930,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,खेडासराय,खेडासराय/बामनीखेड(2एकड पीछे),agricultural,2199.61,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,खेडासराय,खेडासराय/बामनीखेड(2एकड पीछे),residential,7260,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,खेडासराय,खेडासराय/बामनीखेड(2एकड पीछे),commercial,39930,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,गदपुरी,Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,गदपुरी,Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,गदपुरी,गदपुरी (रा.मा.से 2 एकड तक),agricultural,3483.86,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,गदपुरी,गदपुरी (रा.मा.से 2 एकड तक),residential,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,गदपुरी,गदपुरी (रा.मा.से 2 एकड तक),commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,गदपुरी,गदपुरी(2 एकड से पीछे),agricultural,3029.44,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,गदपुरी,गदपुरी(2 एकड से पीछे),residential,6050,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,गदपुरी,गदपुरी(2 एकड से पीछे),commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,गुरवाडी,Gurwari,agricultural,632.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,गुरवाडी,Gurwari,residential,2904,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,गुरवाडी,Gurwari,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,गैलपुर,After 2 Acre From K.M.P.,agricultural,1093.75,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,गैलपुर,Gailpur,agricultural,1093.75,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,गैलपुर,Gailpur,residential,2904,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,गैलपुर,Gailpur,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,गैलपुर,On K.M.P. (Depth Of 2 Acre),agricultural,1250.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,गैलपुर,गैलपुर on 2 acre prime,agricultural,1250.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,गैलपुर,गैलपुर on 2 acre prime,residential,2904,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,गोपीखेडा,Gopi Khera,agricultural,700.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,गोपीखेडा,Gopi Khera,residential,3036,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,गोपीखेडा,Gopi Khera,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,घाघोट,ghaghot,agricultural,661.25,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,घाघोट,ghaghot,residential,2904,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,घाघोट,ghaghot,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,घूघेरा,After 2 Acre From Highway,residential,2904,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,घूघेरा,Ghughera,agricultural,1160.33,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,घूघेरा,Ghughera,residential,2904,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,घूघेरा,Ghughera,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,घूघेरा,Highway to 2 Acre,agricultural,1534.09,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,घूघेरा,Highway to 2 Acre,residential,2904,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,घूघेरा,Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,घूघेरा,Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,घोडी,Ghori,agricultural,962.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,घोडी,Ghori,residential,2904,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,घोडी,Ghori,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,चांदपुर,After 2 Acre From Highway,agricultural,2684.66,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,चांदपुर,After 2 Acre From Highway,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,चांदपुर,Chandpur,agricultural,2684.66,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,चांदपुर,Chandpur,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,चांदपुर,Chandpur,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,चांदपुर,Highway to 2 Acre,agricultural,2806.69,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,चांदपुर,Highway to 2 Acre,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,चान्दहट,chandhut,agricultural,1023.24,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,चान्दहट,chandhut,residential,3146,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,चान्दहट,chandhut,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,चान्दहट,ON 2 ACRE FROM N.H.-334-D,agricultural,1176.72,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,चिरवाडी,Chirwari,agricultural,812.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,चिरवाडी,Chirwari,agricultural,2904,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,चिरवाडी,Chirwari,residential,2904,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,चिरवाडी,Chirwari,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,चिरावटा,After 2 Acre From K.M.P.,agricultural,1150.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,चिरावटा,Chirawta,agricultural,1150.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,चिरावटा,Chirawta,residential,3146,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,चिरावटा,Chirawta,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,चिरावटा,On K.M.P.(Depth Of 2 Acre,agricultural,1176.14,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,छज्जुनगर,Chhaju Nagar,agricultural,700.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,छज्जुनगर,Chhaju Nagar,residential,3146,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,छज्जुनगर,Chhaju Nagar,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,छज्जुनगर,Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,छज्जुनगर,Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,छपरोला,Chhaprola,agricultural,1713.64,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,छपरोला,Chhaprola,residential,3146,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,छपरोला,Chhaprola,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,छपरोला,Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,छपरोला,Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,जटौला,Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,जटौला,Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,जटौला,Jatola,agricultural,2090.91,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,जटौला,Jatola,residential,3630,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,जटौला,Jatola,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,जनौली,Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,जनौली,Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,जनौली,janoli,agricultural,2613.64,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,जनौली,janoli,residential,3388,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,जनौली,janoli,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,जलालपुरखालसा,Jalalpur Khalsa,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,जलालपुरखालसा,Jalalpur Khalsa,residential,2904,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,जलालपुरखालसा,Jalalpur Khalsa,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,जल्हाका,Jalhaka,agricultural,845.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,जल्हाका,Jalhaka,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,जल्हाका,Jalhaka,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,जैंदापुर,After 2 Acre Form Highway,agricultural,1759.83,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,जैंदापुर,Highway to 2 Acre,agricultural,2982.95,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,जैंदापुर,Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,जैंदापुर,Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,जैंदापुर,Jaindapur,agricultural,1759.83,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,जैंदापुर,Jaindapur,residential,4158,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,जैंदापुर,Jaindapur,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,जैंदापुर,prime jaindapur on 2 acre,agricultural,2982.95,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,जैंदापुर,prime jaindapur on 2 acre,residential,3267,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,जैबाबाबादखेड़ली,Jaibabad Khedli,agricultural,805.79,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,जैबाबाबादखेड़ली,Jaibabad Khedli,residential,3168,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,जैबाबाबादखेड़ली,Jaibabad Khedli,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,जोधपुर,Jodhpur,agricultural,1591.7,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,जोधपुर,Jodhpur,residential,3630,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,जोधपुर,Jodhpur,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,जोहरखेड़ा,JoharKhera,agricultural,962.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,जोहरखेड़ा,JoharKhera,residential,2904,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,जोहरखेड़ा,JoharKhera,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,झुप्पा,jhuppa,agricultural,1527.27,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,झुप्पा,jhuppa,residential,3339.6,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,झुप्पा,jhuppa,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,टहरकी,Tehraki,agricultural,1431.82,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,टहरकी,Tehraki,residential,2904,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,टहरकी,Tehraki,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,टीकरीगुजर,Teekri Gurjar,agricultural,687.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,टीकरीगुजर,Teekri Gurjar,residential,2904,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,टीकरीगुजर,Teekri Gurjar,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,टीकरीब्राह्मन,Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,टीकरीब्राह्मन,Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,टीकरीब्राह्मन,Teekri Brahman,agricultural,825.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,टीकरीब्राह्मन,Teekri Brahman,residential,3267,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,टीकरीब्राह्मन,Teekri Brahman,commercial,15730,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,डाडौता,Dadota,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,डाडौता,Dadota,residential,2783,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,डाडौता,Dadota,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,डूंगरपुर,Dungarpur,agricultural,1186.36,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,डूंगरपुर,Dungarpur,residential,3267,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,डूंगरपुर,Dungarpur,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,डूंडा,Dundsa,agricultural,1656.25,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,डूंडा,Dundsa,residential,3267,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,डूंडा,Dundsa,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,डूंडा,Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,डूंडा,Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,ततारपुर,Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,ततारपुर,Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,ततारपुर,Tatarpur,agricultural,3818.18,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,ततारपुर,Tatarpur,residential,5190.9,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,ततारपुर,Tatarpur,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,ताराका,Taraka,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,ताराका,Taraka,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,ताराका,Taraka,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,थन्तरी,Thanthri,agricultural,833.75,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,थन्तरी,Thanthri,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,थन्तरी,Thanthri,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,दुर्गापुर,Durgapur,agricultural,1312.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,दुर्गापुर,Durgapur,residential,3327.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,दुर्गापुर,Durgapur,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,दूधोला,Dudhola,agricultural,3385.85,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,दूधोला,Dudhola,residential,8318.75,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,दूधोला,Dudhola,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,दूधोला,Industrial rate after 2 Acre,industrial,11132,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,दूधोला,Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,देवली,Devli,agricultural,2395.04,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,देवली,Devli,residential,4598,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,देवली,Devli,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,देवली,Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,देवली,Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,देहलाका,Dehlaka,agricultural,1197.52,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,देहलाका,Dehlaka,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,देहलाका,Dehlaka,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,दोस्तपुर,Dostpur,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,दोस्तपुर,Dostpur,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,दोस्तपुर,दोस्तपुर,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,धतीर,After 2 Acre From Highway,agricultural,2499.17,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,धतीर,dhatir,agricultural,2499.17,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,धतीर,dhatir,residential,4598,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,धतीर,dhatir,commercial,13915,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,धतीर,Highway to 2 Acre,agricultural,3235.54,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,धतीर,Highway to 2 Acre,residential,4598,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,धतीर,Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,धतीर,Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,धमाका,Dhamaka,agricultural,590.91,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,धमाका,Dhamaka,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,धमाका,Dhamaka,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,धौलागढ़,Dhaulagarh Out Side M.C. Area,residential,10120,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,धौलागढ़,Dhaulagarh Out Side M.C. Area,commercial,16800,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,धौलागढ़,Dhaulagarh WITH IN MC AREA,residential,14610.75,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,धौलागढ़,Dhaulagarh WITH IN MC AREA,commercial,24200,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,धौलागढ़,Dholagarh After 2 Acre,agricultural,2169.32,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,धौलागढ़,Dholagarh After 2 Acre,agricultural,2075.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,धौलागढ़,Dholagarh After 2 Acre,residential,12705,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,धौलागढ़,Dholagarh After 2 Acre,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,धौलागढ़,Dholagarh Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,धौलागढ़,Dholagarh Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,धौलागढ़,Dholagarh on 2 Acre,agricultural,5031.25,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,धौलागढ़,Dholagarh on 2 Acre,residential,12705,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,धौलागढ़,Dholagarh on 2 Acre,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,नंगलाभीकू,Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,नंगलाभीकू,Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,नंगलाभीकू,Nagla Bhiku,agricultural,1846.18,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,नंगलाभीकू,Nagla Bhiku,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,नंगलाभीकू,Nagla Bhiku,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,नंगलिया,Nagalia,agricultural,1822.31,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,नंगलिया,Nagalia,agricultural,2904,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,नंगलिया,Nagalia,residential,4867.2,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,नंगलिया,Nagalia,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,नंगलीपचानकी,Nangli Pachanki,agricultural,500.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,नंगलीपचानकी,Nangli Pachanki,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,नंगलीपचानकी,Nangli Pachanki,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,नांगलब्राह्मण,Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,नांगलब्राह्मण,Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,नांगलब्राह्मण,Nangal Brahman,agricultural,650.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,नांगलब्राह्मण,Nangal Brahman,residential,2904,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,नांगलब्राह्मण,Nangal Brahman,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,8 Marla or 4 marla,residential,30946.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,8 Marla or 4 marla,commercial,44275,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Adarsh colony,residential,15969.19,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Adarsh colony,commercial,32890,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Agra Chowk se Bhawan kund,residential,26496,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Agra Chowk se Bhawan kund,commercial,55440,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Agra chowk to Bhanguri Rajwah,residential,25121.25,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Agra chowk to Bhanguri Rajwah,commercial,31460,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Alawalpur chowk se Agra chowk,residential,18150,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Alawalpur chowk se Agra chowk,commercial,59455,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Alawalpur chowk se Malgodam,residential,18150,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Alawalpur chowk se Malgodam,commercial,29221.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Alawalpur mod se railway Fatak,residential,12705,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Alawalpur mod se railway Fatak,commercial,33396,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Along other L/Rd दो एकड़ तक,agricultural,5953.3,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Along other Rd दो एकड़ से पीछे,agricultural,5176.78,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Anaj Mandi,residential,17160,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Anaj Mandi,commercial,50820,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Anaj Mandi pirti Booth,residential,18150,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Anaj Mandi pirti Booth,commercial,63525,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Anaj Mandi Shop,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,App. Comm. Comp.Area (S.F.),commercial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,App. Comm. Complex Area (F.F),commercial,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,App. Group Housing Society,residential,5060,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,App. Group Housing Society,commercial,6655,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,App.Comm.Complex Area (G.F.),commercial,5445,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Arya Nagar,residential,13886.25,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Arya Nagar,commercial,31680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Arya Nagar,residential,5082,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Arya Nagar ( Shiv Raj Apart.),residential,6600,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Bali nagar,residential,32665.75,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Bali nagar,commercial,43642.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Bhanguri Rajwah se Mangla Udyog,residential,18150,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Bhanguri Rajwah se Mangla Udyog,commercial,36179,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Bhatia colony,residential,12705,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Bhatia colony,commercial,33033,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Bhawan kund se highway Bai pass,residential,18422.25,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Bhawan kund se highway Bai pass,commercial,49126,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Bijli Board colony,residential,16170,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Bijli Board colony,commercial,24035,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Bus Stand se Minar gate Tak,residential,18150,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Bus Stand se Minar gate Tak,commercial,68400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,BUs Stand se Railway station tak,residential,35887.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,BUs Stand se Railway station tak,commercial,45980,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Chhabra nagar gandanala,residential,16380,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Chhabra nagar gandanala,commercial,39531.25,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Civil Hos. to Panchwati Road,residential,12705,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Civil Hos. to Panchwati Road,commercial,30250,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Civil Hospital ke peechhe,residential,17325,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Civil Hospital ke peechhe,commercial,26620,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Civil Hospital ke peechhe,residential,5082,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Civil Hospital se Hathin Mod,residential,12705,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Civil Hospital se Hathin Mod,commercial,31460,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,committee chowk to delhi chowk,commercial,78650,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,court ke peechhe Bhanguri nagar tak,residential,17267.25,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,court ke peechhe Bhanguri nagar tak,commercial,31460,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Dalip Nagar Nai Basti,residential,12705,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Dalip Nagar Nai Basti,commercial,26620,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Daya colony,residential,12705,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Daya colony,commercial,25410,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Dev nagar,residential,15939,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Dev nagar,commercial,35750,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Dharam nagar Hari nagar,residential,21131.25,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Dharam nagar Hari nagar,commercial,30360,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Ekta Nagar,residential,13282.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Ekta Nagar,commercial,32890,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Era Group,residential,10890,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Era Group,commercial,22990,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Era Group First Floor,residential,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Era Group Ground Floor,residential,5445,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Era Group Second Floor,residential,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Era Group Second Floor,commercial,6655,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Era Groupx,residential,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Fifth Floor,residential,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Gair Mumkin OUT SIDE MC AREA,residential,12705,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Gair Mumkin WITH IN MC AREA,residential,12705,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Geeta colony,residential,12705,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Geeta colony,commercial,37823.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Hari Nagar,residential,12705,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Hari Nagar,commercial,29221.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,HB Colony,residential,32760,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,HB Colony,commercial,48070,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,HUDA Sec-12,residential,21528,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,HUDA Sec-12,commercial,48400,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Inderpuri Guptaganj,residential,16905,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Inderpuri Guptaganj,commercial,37950,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Jawahar Nagar,residential,30946.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Jawahar Nagar,commercial,42981.25,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Kailash Apartment,residential,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Kailash Apartment,commercial,6655,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Kalra colony,residential,19519.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Kalra colony,commercial,30250,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Kalyan Enclave,residential,19259.62,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Kalyan Enclave,commercial,25410,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,kishan Ganj,commercial,114042.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Krishan colony Harijan Basti,residential,13156,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Krishan colony Harijan Basti,commercial,22990,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Krishna Apartment,residential,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Krishna Apartment,commercial,6655,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Krishna colony,residential,18052.12,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Krishna colony,commercial,37812.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Lakhi singh nangla,residential,12705,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Lakhi singh nangla,commercial,26565,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Lakhi singh nangla,residential,20328,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Lakhi vihar,commercial,26620,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Lakhi vihar,residential,4235,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,M.C.Area से बाहर,residential,12705,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,M.C.Area से बाहर,commercial,26620,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Mansa City residential Plots,residential,15730,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Mansha 1st floor,commercial,22990,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Mansha 1st floor,residential,6655,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Mansha ground Floor,residential,78650,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Minar gate se sadar bajar moti bajar,commercial,122992.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Mohan nagar Kailash nagar,residential,12705,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Moti bajar,commercial,25410,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Moti bajar,residential,78650,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Moti Colony,residential,17640,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Moti Colony,commercial,34320,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,N.H To 3 Acre,agricultural,5953.3,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,N.H To After 3 Acre,agricultural,5176.78,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Naj Cinema se Panchwati,residential,13282.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Naj Cinema se Panchwati,commercial,22990,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Naj Cinema se Panchwati Mandir,residential,15274.88,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Naj Cinema se Panchwati Mandir,commercial,31460,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Nangla Gulab singh,residential,12705,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Nangla Gulab singh,commercial,25410,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Nangla Ishlamabad,residential,12705,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Nangla Ishlamabad,commercial,25410,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,National Highway to 3 Acre,agricultural,5953.3,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,New Basti committee ke ander,residential,16940,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,New Basti committee ke ander,commercial,26620,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,New colony,residential,36104.25,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,New colony,commercial,40920,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,New Colony (Flats),residential,5566,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,New Colony (Flats),commercial,6655,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,New Extension colony,residential,16729.62,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,New Extension colony,commercial,29040,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Omaxe City 3rd Floor,residential,8250,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Omaxe City 3rd Floor,residential,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Omaxe City 4th Floor,residential,5060,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Omaxe First Floor,residential,11550,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,omaxe Ground Floor,residential,5280,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Omaxe Ground Floor,residential,5280,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Omaxe Group Second Floor,residential,6600,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Omaxe residential plot,residential,22548.62,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Omaxe residential plot,commercial,36368.75,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Omaxe second floor,residential,22548.62,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Omaxe second floor,commercial,40353.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Omaxe ग्राउण्ड तल,residential,11550,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Omaxe ग्राउण्ड तल,residential,5280,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,On Delhi Mathura Road,commercial,59455,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Out Side of M.C. Limit,residential,12705,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,palwal,commercial,25410,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,palwal,agricultural,3029.44,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,palwal,residential,13282.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Palwal Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Palwal Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Palwal on along 2acre prime,agricultural,5953.3,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Palwal on along 2acre prime,residential,12705,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Palwal on along 2acre prime,commercial,31460,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Palwal on NH2 prime,agricultural,5953.3,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Palwal on NH2 prime,residential,12705,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Palwal on NH2 prime,residential,18150,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Palwal on NH2 prime,commercial,56870,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Panchwati Apartment,residential,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Panchwati Apartment,commercial,6655,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Panchwati Colony,residential,14610.75,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Panchwati Colony,residential,26620,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Panchwati Colony,commercial,13860,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Panchwati mod to Hathin mod,residential,12705,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Panchwati mod to Hathin mod,commercial,31460,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Parasram Nagar,residential,12705,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Parasram Nagar,commercial,25410,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Parkash Vihar Basant Vihar,residential,13282.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Parkash Vihar Basant Vihar,commercial,36368.75,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Prem vihar,residential,13282.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Prem vihar,commercial,25410,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Purani Anaj mandi main bajar,residential,13282.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Purani Anaj mandi main bajar,commercial,75020,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,pushpa complex,residential,5445,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,pushpa complex,commercial,5945.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Radha Apartment,residential,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Radha Apartment,commercial,6655,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,radha colony,residential,25410,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,radha colony,commercial,43560,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,rajiv colony,residential,12705,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,rajiv colony,commercial,29221.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Ram Nagar,residential,12705,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Ram Nagar,commercial,25410,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Sabhi Mohalla Purana Sahar,residential,13282.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Sabhi Mohalla Purana Sahar,commercial,15274.88,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Sabji Mandi,residential,29640,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Sabji Mandi,commercial,42978,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Saini nagar rasulpur road,residential,18150,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Saini nagar rasulpur road,commercial,68062.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Saini nagar rasulpur road,residential,14610.75,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Saini nagar rasulpur road,commercial,44460,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Saini nagar rasulpur road,residential,20328,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Sanwal vihar,commercial,25410,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Sanwal vihar,residential,25410,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Sec-2 HUDA,commercial,115200,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Sec-2 HUDA,residential,40500,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Sekhpura kithwari raod,commercial,18768.75,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Sekhpura kithwari raod,residential,12705,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Shamshabad,commercial,36708,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Shamshabad,residential,25410,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Shamshabad,commercial,25410,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Shamshabad,residential,12705,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Shiv colony,commercial,25410,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Shiv colony,residential,17357.81,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Shri Bala ji Apartment,commercial,46585,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Shri Bala ji Apartment,residential,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Shyam nagar,commercial,22761.38,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Shyam nagar,residential,6655,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Sohna mod se Hathin mod,commercial,36000,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Sohna mod se Hathin mod,residential,12705,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,SRS Group,commercial,29040,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,SRS Group,residential,20748,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,SRS Group First Floor,residential,4477,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,SRS Group Ground Floor,residential,6050,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,SRS Group Ground Floor,commercial,6105,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,SRS Group Second Floor,residential,18112.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,SRS Group Second Floor,commercial,31625,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Tuhi ram colony,residential,14490,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Tuhi ram colony,commercial,31625,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Valmax 2nd floor,residential,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Valmax 2nd floor,commercial,6655,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,Valmax City residential plots,residential,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,valmax first floor,residential,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,valmax first floor,commercial,6655,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,valmax ground floor,residential,4840,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,valmax ground floor,commercial,6655,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,With in M.C. Limit Palwal City,residential,12705,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,With in M.C. Limit Palwal City,commercial,43543.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,अनाज मण्डी Shop 1st&H.F,commercial,50820,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,अनाज मण्डी दुकान 30 वर्ग गज,commercial,50820,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,अन्य कालोनियां कमेटी के अन्दर,residential,14610.75,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,अन्य कालोनियां कमेटी के अन्दर,commercial,35280,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,सल्लागढ़ GT Rd. से Rly.Crs.,residential,13886.25,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पलवल,सल्लागढ़ GT Rd. से Rly.Crs.,commercial,31625,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पातलीकंला,Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पातलीकंला,Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पातलीकंला,पातली कंला,agricultural,900.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पातलीकंला,पातली कंला,agricultural,825.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पातलीखुर्द,पातली खुर्द,residential,2904,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पातलीखुर्द,पातली खुर्द,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पातलीखुर्द,Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पातलीखुर्द,Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पातलीखुर्द,पातली खुर्द,agricultural,1227.27,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पातलीखुर्द,पातली खुर्द,agricultural,900.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पापड़ी,पापड़ी,residential,2904,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पापड़ी,पापड़ी,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पापड़ी,पापड़ी,agricultural,825.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पारोली,पारोली,residential,2904,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पारोली,पारोली,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पारोली,पारोली,agricultural,1041.32,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पारोली,पारोली,agricultural,763.64,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पृथला,Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पृथला,Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पृथला,Prime rate Prithla,agricultural,6016.53,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पृथला,Prime rate Prithla,residential,9922,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पृथला,Prime rate Prithla,residential,15730,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पृथला,Prime rate Prithla,commercial,39930,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पृथला,Prithla After to 2 Acre,agricultural,6016.53,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पृथला,Prithla After to 2 Acre,residential,9922,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पृथला,Prithla After to 2 Acre,commercial,36300,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पृथला,Prithla After to 2 Acre,industrial,7590,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पृथला,Prithla N H 2 Acre,agricultural,6919.01,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पृथला,Prithla N H 2 Acre,residential,15730,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पृथला,Prithla N H 2 Acre,commercial,39930,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पृथला,Prithla N H 2 Acre,industrial,8470,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पेलक,ON 2 ACRE FROM N.H.-334-D,agricultural,1065.65,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पेलक,Pelak,agricultural,926.65,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पेलक,Pelak,residential,2904,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,पेलक,Pelak,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,प्रहलादपुर,Prahladpur,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,प्रहलादपुर,Prahladpur,residential,2904,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,प्रहलादपुर,Prahladpur,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,फजलपुर,Fazalpur Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,फजलपुर,Fazalpur Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,फजलपुर,Fazalpur naya goan,agricultural,2236.36,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,फजलपुर,Fazalpur naya goan,residential,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,फजलपुर,Fazalpur naya goan,commercial,26620,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,फजलपुर,Out Side M.C. Area,residential,9317,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,फजलपुर,Out Side M.C. Area,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,फजलपुर,With In M.C. Area,residential,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,फजलपुर,With In M.C. Area,commercial,26620,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,फरीदाबादमीसा,फरीदाबाद मीसा,agricultural,654.55,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,फरीदाबादमीसा,फरीदाबाद मीसा,agricultural,600.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,फरीदाबादमीसा,फरीदाबाद मीसा,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,फरीदाबादमीसा,फरीदाबाद मीसा,commercial,13915,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,फरीदाबादमीसा,ON 2 ACRE FROM N.H.-334-D,agricultural,929.75,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,फिरोजपुर,Ferozpur,agricultural,2221.59,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,फिरोजपुर,Ferozpur,agricultural,2125.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,फिरोजपुर,Ferozpur,residential,12584,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,फिरोजपुर,Ferozpur,commercial,30250,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,फिरोजपुर,Ferozpur (WITH IN MC AREA),agricultural,2125.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,फिरोजपुर,Ferozpur (WITH IN MC AREA),residential,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,फिरोजपुर,Ferozpur (WITH IN MC AREA),commercial,39930,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,फिरोजपुर,Firozpur Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,फिरोजपुर,Firozpur Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,फिरोजपुर,Out Side MC Area,residential,10648,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,फिरोजपुर,Out Side MC Area,commercial,32670,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,फुलवाड़ी,Phulwari after to 2 acre,agricultural,1787.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,फुलवाड़ी,Phulwari after to 2 acre,agricultural,1375.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,फुलवाड़ी,Phulwari after to 2 acre,residential,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,फुलवाड़ी,Phulwari after to 2 acre,commercial,26620,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,फुलवाड़ी,Phulwari N H to 2 acre,agricultural,1875.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,फुलवाड़ी,Phulwari N H to 2 acre,residential,10285,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,फुलवाड़ी,Phulwari N H to 2 acre,commercial,26620,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बधौला,industrial land after NH 2 acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बधौला,industrial land on NH 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बधौला,industrial land after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बधौला,industrial land on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बधौला,बधौला (राजमार्ग से 2 एकड़ तक),agricultural,4812.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बधौला,बधौला,agricultural,2750.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बधौला,बधौला,residential,10648,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बधौला,बधौला,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बधौला,बधौला (राजमार्ग से 2 एकड़ तक),industrial,13552,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बधौला,बधौला (2 एकड़ से पीछे),agricultural,4341.01,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बधौला,बधौला (2 एकड़ से पीछे),residential,6957.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बधौला,बधौला (2 एकड़ से पीछे),commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बधौला,बधौला (2 एकड़ से पीछे),industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बड़ौली,Baroli,agricultural,718.75,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बड़ौली,Baroli,residential,2904,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बड़ौली,Baroli,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बदरांव,Badram,agricultural,750.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बदरांव,Badram,residential,2904,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बदरांव,Badram,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बढा,Badha,agricultural,784.09,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बढा,Badha,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बढा,Badha,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बलई,Balai,agricultural,962.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बलई,Balai,residential,2904,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बलई,Balai,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बागपुरखुर्द,बागपुर खुर्द,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बागपुरखुर्द,बागपुर खुर्द,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बागपुरखुर्द,बागपुर खुर्द,agricultural,650.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बाता,Bata,residential,2904,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बाता,Bata,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बाता,Bata,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बामनीका,After 2 Acre From K.M.P.,agricultural,1925.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बामनीका,Bamnika,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बामनीका,Bamnika,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बामनीका,Bamnika,agricultural,1100.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बामनीका,On K.M.P. (Depth Of 2 Acre),agricultural,1925.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बिलोचपुर,Bilochpur,agricultural,962.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बिलोचपुर,Bilochpur,residential,3478.75,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बिलोचपुर,Bilochpur,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बेला,Bela,agricultural,500.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बेला,Bela,residential,2783,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बेला,Bela,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,भांल्डोला,Bholra,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,भांल्डोला,Bholra,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,भांल्डोला,Bholra,agricultural,750.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,भूर्जा,Bhurja,agricultural,962.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,भूर्जा,Bhurja,residential,4870.25,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,भूर्जा,Bhurja,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,भूर्जा,Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,भूर्जा,Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,भुड,BHUD,agricultural,632.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,भुड,BHUD,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,भुड,BHUD,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,मकसूदपुर,Maksoodpur,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,मकसूदपुर,Maksoodpur,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,मकसूदपुर,Maksoodpur,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,मकसूदपुर,Maksoodpur,agricultural,1035.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,महेशपुर,Maheshpur,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,महेशपुर,Maheshpur,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,मानदकौल,Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,मानदकौल,Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,मानदकौल,mandkol,agricultural,1034.09,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,मानदकौल,mandkol,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,मानदकौल,mandkol,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,मिलकगनी,Milkagni,agricultural,600.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,मिलकगनी,Milkagni,residential,3061.3,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,मिलकगनी,Milkagni,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,मिलकपुर,Milakpur,agricultural,1301.65,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,मिलकपुर,Milakpur,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,मिलकपुर,Milakpur,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,मीरापुर,Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,मीरापुर,Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,मीरापुर,meerapur,agricultural,681.82,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,मुस्तफाबाद,Mustfabad,residential,3146,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,मुस्तफाबाद,Mustfabad,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,मुस्तफाबाद,Mustfabad,agricultural,687.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,मेघपुर,मेघपुर,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,मेघपुर,मेघपुर,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,मेघपुर,After 2 Acre From Highway,agricultural,1631.25,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,मेघपुर,Highway to 2 Acre,agricultural,1968.75,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,मेघपुर,meghpur Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,मेघपुर,meghpur Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,मेघपुर,megpur,agricultural,1125.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,मैंदापुर,Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,मैंदापुर,Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,मैंदापुर,Maindapur,agricultural,1283.06,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,मैंदापुर,Maindapur,agricultural,1176.14,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,मैंदापुर,Maindapur,residential,2783,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,मैंदापुर,Maindapur,commercial,13915,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,राजपुरा,Rajpura,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,राजपुरा,Rajpura,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,राजपुरा,Rajpura,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रजोलाका,After 2 Acre From K.M.P.,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रजोलाका,On K.M.P. (Depth Of 2 Acre),agricultural,1125.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रजोलाका,रजोलाका,agricultural,1125.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रजोलाका,रजोलाका,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रजोलाका,रजोलाका,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रजोलाका,After 2 Acre From K.M.P.,agricultural,914.77,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रजोलाका,After 2 Acre From K.M.P.,agricultural,875.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रजोलाका,On K.M.P. (Depth Of 2 Acre),agricultural,1306.82,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रजोलाका,On K.M.P. (Depth Of 2 Acre),agricultural,1250.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रतीपुर,रतीपुर,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रतीपुर,रतीपुर,agricultural,1363.64,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रतीपुर,रतीपुर,agricultural,1250.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रतीपुर,रतीपुर,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रतीपुर,Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रसूलपुर,Rasulpur,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रसूलपुर,Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रसूलपुर,Rasulpur,agricultural,991.88,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रसूलपुर,Rasulpur,residential,3267,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रसूलपुर,Rasulpur,commercial,24200,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रहाना,After 2 Acre From K.M.P.,agricultural,1150.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रहाना,Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रहाना,Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रहाना,On K.M.P. (Depth Of 2 Acre),agricultural,1150.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रहाना,Rahrana,agricultural,1150.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रहाना,Rahrana,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रहाना,Rahrana,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रहीमपुर,After 2 Acre From Aligarh Road,agricultural,600.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रहीमपुर,After 2 Acre From Aligarh Road,agricultural,1627.07,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रहीमपुर,Aligarh Road to 2 Acre,agricultural,1627.07,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रहीमपुर,Aligarh Road to 2 Acre,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रहीमपुर,ON 2 ACRE FROM N.H.-334-D,agricultural,1627.07,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रहीमपुर,रहीमपुर,agricultural,1050.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रहीमपुर,रहीमपुर,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रहीमपुर,रहीमपुर,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,राखोता,राखोता,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,राखोता,राखोता,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,राखोता,राखोता,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,राजपुरबांगर,राजपुर बांगर,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,राजपुरबांगर,राजपुर बांगर,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,राजपुरबांगर,राजपुर बांगर,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,राजपुरखादर,राजपुर खादर,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,राजपुरखादर,राजपुर खादर,residential,3146,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,राजपुरखादर,राजपुर खादर,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रामपुरखोर,रामपुर खोर,agricultural,721.36,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रामपुरखोर,Rampur Khore,agricultural,721.36,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रामपुरखोर,Rampur Khore,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रामपुरखोर,Rampur Khore,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रायदासका,Raidaska,agricultural,679.55,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रायदासका,Raidaska,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रायदासका,Raidaska,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रायपुर,Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रायपुर,Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रायपुर,Raipur,agricultural,784.09,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रायपुर,Raipur,residential,3630,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रायपुर,Raipur,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रून्धी,RUNDHI,agricultural,937.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रून्धी,RUNDHI,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रून्धी,RUNDHI,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रोनीजा,RONIJA,agricultural,906.25,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रोनीजा,RONIJA,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बलई,Balai,agricultural,784.09,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बहरामपुर,Bahrampur,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बहरामपुर,Bahrampur,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बहरोला,Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बहरोला,Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बहरोला,बहरोला (रा.मा.से 2 एकड़ तक),agricultural,3400.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बहरोला,बहरोला (रा.मा.से 2 एकड़ तक),residential,9317,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बहरोला,बहरोला (रा.मा.से 2 एकड़ तक),commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बहरोला,बहरोला (2 एकड़ के पीछे),agricultural,2843.75,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बहरोला,बहरोला (2 एकड़ के पीछे),residential,7273.75,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बहरोला,बहरोला (2 एकड़ के पीछे),commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बागपुरकलां,Bagpur kalan,agricultural,1111.98,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बागपुरकलां,Bagpur kalan,residential,2904,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बागपुरकलां,Bagpur kalan,commercial,20184,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,बागपुरखुर्द,बागपुर खुर्द,agricultural,980.11,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रोनीजा,RONIJA,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रोनीजा,Ronija Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रोनीजा,Ronija Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,रोनीजा,with MC Area,residential,13282.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,लाडपुर,Ladpur,agricultural,1375.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,लाडपुर,Ladpur,residential,2904,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,लाडपुर,Ladpur,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,लाडियाका,Ladiaka,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,लाडियाका,Ladiaka,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,लाडियाका,Ladiaka,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,लालगढ़,Lalgarh,agricultural,625.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,लालगढ़,Lalgarh,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,लालगढ़,Lalgarh,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,लालपुरकदीम,Lalpur Quidim,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,लालपुरकदीम,Lalpur Quidim,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,लालपुरकदीम,Lalpur Quidim,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,लालवा,Lalwa,agricultural,1531.25,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,लालवा,Lalwa,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,लालवा,Lalwa,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,लुलवाडी,Lulwari,agricultural,500.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,लुलवाडी,Lulwari,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,लुलवाडी,Lulwari,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,लोहागढ़,Lohagarh,agricultural,1750.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,लोहागढ़,Lohagarh,residential,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,लोहागढ़,Lohagarh,commercial,32670,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,लोहागढ़,Lohagarh Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,लोहागढ़,Lohagarh Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,शेखपुर,With in M.C. Area,residential,17303,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,शेखपुर,Sekhpur,agricultural,750.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,शेखपुर,Sekhpur,residential,3061.3,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,शेखपुर,Sekhpur,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सदरपुर,SADARPUR,agricultural,661.25,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सदरपुर,SADARPUR,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सदरपुर,SADARPUR,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सदरपुर,Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सदरपुर,Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सहराला,Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सहराला,Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सहराला,Sahrala,agricultural,1128.1,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सहराला,Sahrala,agricultural,954.55,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सहराला,Sahrala,residential,3388,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सहराला,Sahrala,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सिकन्दरपुर,Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सिकन्दरपुर,Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सिकन्दरपुर,Sikanderpur,agricultural,1041.32,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सिकन्दरपुर,Sikanderpur,agricultural,818.18,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सिकन्दरपुर,Sikanderpur,residential,3630,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सिकन्दरपुर,Sikanderpur,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सिहोल,Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सिहोल,Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सिहोल,ON 2 ACRE FROM N.H.-334-D,agricultural,929.75,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सिहोल,Sehol,agricultural,750.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सिहोल,Sehol,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सिहोल,Sehol,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सुजवाड़ी,सुजवाड़ी,agricultural,600.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सुजवाड़ी,सुजवाड़ी,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सुजवाड़ी,सुजवाड़ी,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सुल्तानपुर,सुल्तानपुर,agricultural,575.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सुल्तानपुर,सुल्तानपुर,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सुल्तानपुर,सुल्तानपुर,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सैदपुर,सैदपुर,agricultural,632.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सैदपुर,सैदपुर,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सैदपुर,सैदपुर,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सैलोठी,सैलोठी,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सैलोठी,सैलोठी,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सैलोठी,Industrial rate after 2 Acre,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सैलोठी,Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सैलोठी,Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सैलोठी,सैलोठी,agricultural,3068.18,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सैलोठी,सैलोठी,agricultural,3920.45,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सैलोठी,सैलोठी,agricultural,2250.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सोफता,Softa after 2 acre,residential,5324,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सोफता,Softa after 2 acre,commercial,39930,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सोफता,Softa on 2 acre,agricultural,5861.08,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सोफता,Softa,residential,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सोफता,Softa,commercial,39930,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सोफता,Softa,agricultural,1309.09,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सोलडा,Solra,residential,6930,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सोलडा,Solra,commercial,15306.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,सोलडा,Solra,agricultural,687.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,हंसपुर,Hansapur,residential,6930,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,हंसपुर,Hansapur,commercial,15306.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,हंसपुर,Hansapur,agricultural,687.5,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,हंसपुर,Hansapur,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,हंसपुर,Hansapur,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,हरफली,Harphali,agricultural,1489.09,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,हरफली,Harphali,residential,3630,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,हरफली,Harphali,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,हिदायतपुर,Industrial rate after 2 Acre,industrial,9680,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,हिदायतपुर,Industrial rate on 2 Acre,industrial,12100,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,हिदायतपुर,Hidayatpur,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,हिदायतपुर,Hidayatpur,residential,2662,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,हिदायतपुर,Hidayatpur,commercial,13310,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,होशंगाबाद,Hosangabad,agricultural,715.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,होशंगाबाद,Hosangabad,residential,2783,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Palwal,होशंगाबाद,Hosangabad,commercial,13310,2026-04-01,palwal_gov_in_dc_notification

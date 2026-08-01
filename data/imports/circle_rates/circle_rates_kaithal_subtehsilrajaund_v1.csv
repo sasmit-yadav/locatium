@@ -1,0 +1,64 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Kaithal,Rajaund,फरीयाबाद,नहरी/चाही,agricultural,375.0,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,फरीयाबाद,गै0मुमकिन प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,बेहबाहरी,नहरी/चाही,agricultural,375.0,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,बेहबाहरी,गै0मुमकिन प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,माजरारोहेडा,नहरी/चाही,agricultural,375.0,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,माजरारोहेडा,गै0मुमकिन प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,खेडीरायवाली,नहरी/चाही,agricultural,375.0,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,खेडीरायवाली,गै0मुमकिन प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,खेडीसिम्बलवाली,नहरी/चाही,agricultural,375.0,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,खेडीसिम्बलवाली,गै0मुमकिन प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,सोंगरी,नहरी/चाही,agricultural,375.0,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,सोंगरी,गै0मुमकिन प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,मण्डवाल,नहरी/चाही,agricultural,413.22,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,मण्डवाल,गै0मुमकिन प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,रोहेडा,नहरी/चाही,agricultural,375.0,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,रोहेडा,गै0मुमकिन प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,बीरबांगडा,नहरी/चाही,agricultural,375.0,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,बीरबांगडा,बीरबांगडा राजौन्द रोड नहरी/चाही,agricultural,402.89,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,बीरबांगडा,गैर मुमकिन प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,नरवल,नहरी/चाही,agricultural,375.0,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,नरवल,असन्ध कैथल रोड नहरी/चाही,agricultural,450.0,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,नरवल,गैर मुमकिन प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,गुलियाणी,नहरी/चाही,agricultural,375.0,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,गुलियाणी,जीन्द कैथल रोड नहरी/चाही,agricultural,433.88,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,गुलियाणी,गैर मुमकिन प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,किच्छाना,नहरी/चाही,agricultural,375.0,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,किच्छाना,असन्ध कैथल रोड नहरी/चाही,agricultural,433.88,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,किच्छाना,गैर मुमकिन प्लाट,residential,2000,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,कोटडा,नहरी/चाही,agricultural,375.0,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,कोटडा,असन्ध कैथल रोड नहरी/चाही,agricultural,433.88,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,कोटडा,गैर मुमकिन प्लाट,residential,1800,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,सन्तोखमाजरा,नहरी/चाही,agricultural,375.0,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,सन्तोखमाजरा,असन्ध पुण्डरी रोड नहरी/चाही,agricultural,433.88,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,सन्तोखमाजरा,गैर मुमकिन प्लाट,residential,1900,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,किठाना,नहरी/चाही,agricultural,413.22,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,किठाना,जीन्द कैथल रोड नहरी/चाही,agricultural,506.2,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,किठाना,जीन्द कैथल रोड व्यवसायिक,commercial,12100,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,किठाना,आबादी देह के साथ,residential,2500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,सेरधा,नहरी/चाही,agricultural,375.0,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,सेरधा,राजौन्द पुण्डरी रोड नहरी/चाही,agricultural,454.55,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,सेरधा,गै0मुमकिन प्लाट,residential,1900,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,राजौन्द,नहरी/चाही,agricultural,454.55,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,राजौन्द,खुरडा आबादी गै0मुमकिन प्लाट,residential,3500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,राजौन्द,गैर मुमकिन प्लाट व आबादी व अन्दर लाल डोरा,residential,3500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,राजौन्द,व्यवसायिक,commercial,15600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,राजौन्द,कैथल असन्ध रोड गोगा माडी से नए स्टैण्ड तक निवासीय,residential,3600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,राजौन्द,कैथल असन्ध रोड तीन एकड़ की गहराई तक नहरी/चाही,agricultural,625.0,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,राजौन्द,मु.नं 345/346/344/388/389 व्यवसायिक,commercial,15600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,राजौन्द,पुण्डरी चौक से बी.पी.आर. स्कूल तक,residential,3500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,राजौन्द,तीन एकड़ की गहराई तक नहरी/चाही,agricultural,506.2,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,राजौन्द,व्यवसायिक (मु.नं विस्तार),commercial,16200,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,राजौन्द,राजौन्द मण्डवाल रोड (पीर मगदूम शाह तक),residential,3500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,राजौन्द,राजौन्द मण्डवाल रोड (पीर मगदूम शाह तक) नहरी/चाही,agricultural,506.2,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,राजौन्द,असन्ध रोड से थाने तक (बीर बागडा रोड),residential,3600,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,राजौन्द,असन्ध रोड से थाने तक (बीर बागडा रोड) नहरी/चाही,agricultural,506.2,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,राजौन्द,कैथल रोड से वाटर वर्क्स तक (अलेवा रोड),residential,3500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,राजौन्द,कैथल रोड से वाटर वर्क्स तक (अलेवा रोड) तीन एकड़ गहराई नहरी/चाही,agricultural,506.2,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,राजौन्द,व्यवसायिक (मु.नं 329 आदि),commercial,12100,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,राजौन्द,कैथल रोड से पंजाबी पैलेस तक (किठाना रोड),residential,3500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,राजौन्द,कैथल रोड से पंजाबी पैलेस तक (किठाना रोड) तीन एकड़ गहराई नहरी/चाही,agricultural,506.2,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,राजौन्द,राजौन्द-खेड़ी राववाली रोड नहरी/चाही,agricultural,454.55,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,राजौन्द,राजौन्द-खेड़ी राववाली रोड,residential,3500,2026-04-01,kaithal_gov_in_dc_notification
+Kaithal,Rajaund,मण्डवाल,प्रस्तावित नेशनल हाईवे तीन एकड़ गहराई नहरी/चाही,agricultural,454.55,2026-04-01,kaithal_gov_in_dc_notification

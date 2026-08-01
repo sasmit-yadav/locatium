@@ -1,0 +1,342 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Jind,Uchana,Alipura,Alipura,agricultural,467.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Alipura,Alipura,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Alipura,Alipura,residential,3070,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,Green City Sector-7,residential,9240,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,NH 71 aabadi se 1 kilometer ke andar v gair mumkin,agricultural,1237.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,Old Grain Market Uchana,residential,45920,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,Old Grain Market Uchana,commercial,52280,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,PNB Bank ke peeche residential,residential,7935,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,anaj mandi ki dukane v residential,residential,50100,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,anaj mandi ki dukane v residential,commercial,77760,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,andar hadud nagarpalika uchana kalan,agricultural,1100.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,andar hadud nagarpalika uchana kalan,agricultural,1575.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,andar hadud nagarpalika uchana kalan,residential,4175,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,amandi state bank se geeta vidya mandir,residential,8350,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,amandi state bank se geeta vidya mandir,commercial,23250,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,arya samaj mandir se shamshan tak nai basti,residential,4810,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,uchana kalan rajkiya school se shiv mandir hote hue gaon ke bypass ke charo aur,residential,5800,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,nagarpalika hadud se bahar,agricultural,687.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,Uchana Kalan,agricultural,1400.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,Uchana Kalan,agricultural,2147.73,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,Uchana Kalan,residential,4800.68,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,Uchana Kalan,commercial,9528.75,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,uchana kalan se uchana khurd andar MC area,agricultural,962.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,uchana kalan se uchana khurd andar MC area,agricultural,1375.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,uchana kalan se uchana khurd andar MC area,agricultural,1575.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,uchana kalan se uchana khurd andar MC area,residential,4991.25,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,uchana kalan se uchana khurd andar MC area,commercial,4600,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,uchana kalan OUT,agricultural,1450.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,uchana kalan NH 71,agricultural,1781.82,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,uchana kalan NH 71,agricultural,2545.45,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,uchana kalan NH 71,agricultural,1575.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,uchana kalan NH 71,residential,4600,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,uchana kalan se bhangra andar MC area,agricultural,962.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,uchana kalan se bhangra andar MC area,agricultural,1375.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,uchana kalan se bhangra andar MC area,agricultural,1575.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,uchana kalan se bhangra andar MC area,residential,4600,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,uchana kalan se khapard andar MC area,agricultural,962.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,uchana kalan se khapard andar MC area,agricultural,1375.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,uchana kalan se khapard andar MC area,agricultural,1575.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,uchana kalan se khapard andar MC area,residential,4600,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,uchana kalan ke lal dore ke andar aaspaas,residential,4600,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,up mandal adhikari nagrik ke karyalaya se thana,residential,9610,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,up mandal adhikari nagrik ke karyalaya se thana,commercial,17450,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,jind narwana road se barf factory tak bypass road par,residential,6200,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,jind narwana road se barf factory tak bypass road par,commercial,10300,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,thana se rajiv gandhi college tak,residential,8400,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,thana se rajiv gandhi college tak,commercial,16000,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,pahlwa chowk se purani anaj mandi gate tak sadak ke dono or,residential,14500,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,pahlwa chowk se purani anaj mandi gate tak sadak ke dono or,commercial,21100,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,pahlwa chowk se godam se rajbaha,residential,9200,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,pahlwa chowk se godam se rajbaha,commercial,18900,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,pahlwa jal ghar ke peeche teenon taraf residential,residential,6150,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,pahlwa jal ghar ke peeche teenon taraf residential,commercial,8000,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,purani anaj mandi se nai anaj mandi ke beech,residential,5450,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,purani anaj mandi se nai anaj mandi ke beech,commercial,6400,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,purani anaj mandi ke aas paas ka area,residential,8350,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,purani anaj mandi ke aas paas ka area,commercial,14520,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,purani mandi krishna dal mill ke aas paas,residential,8350,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,purani mandi krishna dal mill ke aas paas,commercial,14520,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,purane bus stand se pahlwa vara digawa ki taraf pahlwa wala dadre ke aaspaas,residential,4810,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,purane bus stand se pahlwa vara digawa ki taraf pahlwa wala dadre ke aaspaas,commercial,6125,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,puru printing ke peeche mahila mahavidyalaya,residential,6215,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,puru printing ke peeche mahila mahavidyalaya,commercial,8000,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,bahar hadud nagarpalika uchana kalan,agricultural,962.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,bahar hadud nagarpalika uchana kalan,agricultural,825.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,bahar hadud nagarpalika uchana kalan,agricultural,1575.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,bahar hadud nagarpalika uchana kalan,residential,4600,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,rajbaha sadak ke dono or 60 foot,residential,7906.25,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,rajbaha sadak ke dono or 60 foot,commercial,9075,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,rajbaha se up mandal adhikari nagrik ke karyalaya tak,residential,8350,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,rajbaha se up mandal adhikari nagrik ke karyalaya tak,commercial,15250,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,rajendra colony,residential,8772.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,rajendra colony,commercial,16603,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,railway fatak se barf factory tak,residential,6960,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,railway fatak se barf factory tak,commercial,9649.75,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,railway fatak se sedha majra road tak,residential,4600,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,railway fatak se sedha majra road tak,commercial,6550,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,lodhar nirman vibhag vishram grah ke charon or residential,residential,6960,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,lodhar nirman vibhag vishram grah ke,commercial,10454,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,sai mandir ke aaspaas,residential,4600,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,sai mandir ke aaspaas,commercial,5520,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,southern bypass uchana,agricultural,1750.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,civil hospital ke peeche nai basti v anya basti,residential,6410,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKalan,civil hospital ke peeche nai basti v anya basti,commercial,10648,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKhurd,Uchana Khurd,agricultural,467.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKhurd,Uchana Khurd,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKhurd,Uchana Khurd,residential,3070,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,UchanaKhurd,Uchana Khurd,commercial,3200,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Udaypur,Udaypur,agricultural,467.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Udaypur,Udaypur,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Udaypur,Udaypur,residential,4175,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Karsindhu,karsindhu se alipura,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Karsindhu,karsindhu se alipura,agricultural,661.25,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Karsindhu,karsindhu se chatar,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Karsindhu,karsindhu se chatar,agricultural,661.25,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Karsindhu,karsindhu se chatar,agricultural,862.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Karsindhu,karsindhu se chatar,agricultural,901.7,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Karsindhu,karsindhu se pahlwa,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Karsindhu,karsindhu se pahlwa,agricultural,661.25,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Karsindhu,karsindhu se pahlwa road,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Karsindhu,karsindhu se pahlwa road,agricultural,661.25,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Karsindhu,Karsindhu,agricultural,467.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Karsindhu,Karsindhu,agricultural,661.25,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Karsindhu,Karsindhu,residential,3070,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Kasuhan,Kasuhan,agricultural,552.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Kasuhan,Kasuhan,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Kasuhan,Kasuhan,residential,3070,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Kakrod,Kakrod,agricultural,743.75,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Kakrod,Kakrod,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Kakrod,Kakrod,residential,3070,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Kabarchha,Kabarchha,agricultural,467.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Kabarchha,Kabarchha,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Kabarchha,Kabarchha,residential,3070,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Kalwa,Kalwa,agricultural,467.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Kalwa,Kalwa,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Kalwa,Kalwa,residential,3070,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Khatkar,Khatkar,agricultural,522.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Khatkar,Khatkar,agricultural,718.75,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Khatkar,Khatkar,residential,3070,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Khatkar,khatkar se kasuhan,agricultural,1350.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Khatkar,khatkar se kasuhan,agricultural,1411.36,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Khatkar,khatkar se barsola station,agricultural,907.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Khatkar,khatkar se barsola station,agricultural,948.75,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Khatkar,khatkar se bhounsla,agricultural,907.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Khatkar,khatkar se bhounsla,agricultural,948.75,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Khatkar,khatkar se mohangarh,agricultural,907.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Khatkar,khatkar se mohangarh,agricultural,948.75,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Khatkar,khatkar se mohangarh 008,agricultural,907.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Khatkar,jind narwana road,agricultural,907.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Khatkar,jind narwana road,agricultural,948.75,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Khatkar,jind narwana road par lagti,agricultural,907.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Khatkar,jind narwana road par lagti,agricultural,948.75,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Kharkbhura,Kharkbhura,agricultural,575.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Kharkbhura,Kharkbhura,agricultural,862.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Kharkbhura,Kharkbhura,residential,3070,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Kharkbhura,jind narwana road par lagti,agricultural,1100.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Khapard,Khapard,agricultural,467.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Khapard,Khapard,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Khapard,Khapard,residential,3070,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,KheraGendawala,Khera Gendawala,agricultural,467.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,KheraGendawala,Khera Gendawala,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,KheraGendawala,Khera Gendawala,residential,3070,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,KheraGendawala,khera gendawala se alipura,agricultural,605.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,KheriMasaniyan,Kheri Masaniyan,agricultural,467.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,KheriMasaniyan,Kheri Masaniyan,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,KheriMasaniyan,Kheri Masaniyan,residential,3070,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,KheriMasaniyan,kheri masaniyan se khark bhura,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,KheriMasaniyan,kheri masaniyan se sedha majra,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,KheriMasaniyan,kheri masaniyan se sedha majra,agricultural,605.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,GhasoKalan,ghaso kalan se ghaso khurd,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,GhasoKalan,Ghaso Kalan,agricultural,488.75,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,GhasoKalan,Ghaso Kalan,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,GhasoKalan,Ghaso Kalan,residential,3070,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,GhasoKhurd,Ghaso Khurd,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,GhasoKhurd,Ghaso Khurd,agricultural,891.25,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,GhasoKhurd,Ghaso Khurd,residential,3070,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,GhasoKhurd,sadak ke sath lagti bhoomi,agricultural,1470.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Ghoghrian,Ghoghrian,agricultural,467.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Ghoghrian,Ghoghrian,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Ghoghrian,Ghoghrian,residential,3070,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Ghoghrian,ghoghrian se kasuhan,agricultural,605.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Ghoghrian,ghoghrian se kuchrana khurd,agricultural,605.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Ghoghrian,ghoghrian se badhana,agricultural,605.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Ghoghrian,ghoghrian se roz khera,agricultural,605.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Chatar,Chatar,agricultural,467.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Chatar,Chatar,agricultural,661.25,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Chatar,Chatar,residential,3070,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Chatar,chatar se karsindhu,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Chatar,chatar se karsindhu,agricultural,661.25,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Chatar,chatar se kuchrana,agricultural,721.36,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Chatar,chatar se kuchrana,agricultural,690.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Chatar,chatar se dahola,agricultural,690.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Chatar,chatar se dahola,agricultural,721.36,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Chatar,chatar se thua,agricultural,862.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Chatar,chatar se thua,agricultural,901.7,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Chatar,chatar se mandi kalan,agricultural,605.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Chatar,chatar se mandi kalan,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Jheel,Jheel,agricultural,467.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Jheel,Jheel,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Jheel,Jheel,residential,3070,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Jheel,jheel se dumarkha kalan,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Jheel,jheel se dumarkha kalan,agricultural,605.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Jheel,jheel se badanpur,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Jheel,jheel se bhagwanpura,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,DumarkhaKalan,Dumarkha Kalan,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,DumarkhaKalan,Dumarkha Kalan,agricultural,1006.25,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,DumarkhaKalan,Dumarkha Kalan,residential,6352.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,DumarkhaKalan,sadak ke sath lagti bhoomi,agricultural,1237.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,DumarkhaKalan,sadak ke sath lagti bhoomi,agricultural,1293.75,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,DumarkhaKhurd,Dumarkha Khurd,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,DumarkhaKhurd,Dumarkha Khurd,agricultural,1006.25,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,DumarkhaKhurd,Dumarkha Khurd,residential,3070,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,DumarkhaKhurd,sadak ke sath lagti bhoomi,agricultural,1237.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,DohanaKhera,Dohana Khera,agricultural,467.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,DohanaKhera,Dohana Khera,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,DohanaKhera,Dohana Khera,residential,3070,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,DohanaKhera,road ke sath lagti jameen,agricultural,605.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Tarkha,tarkha se kabarchha,agricultural,605.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Tarkha,tarkha se kheri safa,agricultural,605.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Tarkha,tarkha se dumarkha,agricultural,605.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Tarkha,Tarkha,agricultural,467.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Tarkha,Tarkha,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Tarkha,Tarkha,residential,3070,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,DaraunthKhera,Daraunth Khera,agricultural,467.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,DaraunthKhera,Daraunth Khera,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,DaraunthKhera,Daraunth Khera,residential,3070,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,DarauliKhera,Darauli Khera,agricultural,467.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,DarauliKhera,Darauli Khera,residential,3070,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,DarauliKhera,Darauli Khera,commercial,3070,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,DarauliKhera,road ke sath lagti jameen,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Durjanpur,Durjanpur,agricultural,467.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Durjanpur,Durjanpur,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Durjanpur,Durjanpur,residential,3070,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Dhankhari,Dhankhari,agricultural,467.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Dhankhari,Dhankhari,agricultural,653.16,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Dhankhari,Dhankhari,residential,3070,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,NacharKhera,uchana se litani,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,NacharKhera,uchana se litani,agricultural,605.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,NacharKhera,Nachar Khera,agricultural,467.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,NacharKhera,Nachar Khera,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,NacharKhera,Nachar Khera,residential,3070,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Pahalwan,SDM office uchana se thana,residential,9200,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Pahalwan,SDM office uchana se thana,commercial,17450,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Pahalwan,jind narwana road se barf factory,residential,6122.6,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Pahalwan,jind narwana road se barf factory,commercial,8000,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Pahalwan,jind narwana main road,agricultural,1237.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Pahalwan,jind narwana main road,agricultural,1293.75,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Pahalwan,jind narwana main road,agricultural,1575.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Pahalwan,pahlwa jal ghar ke teen or residential plots,residential,6125,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Pahalwan,pahlwa jal ghar ke teen or residential plots,commercial,7653.25,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Pahalwan,Pahalwan,agricultural,1000.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Pahalwan,Pahalwan,agricultural,1225.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Pahalwan,Pahalwan,residential,4600,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Pahalwan,purane bus stand se pahlwa ke lal dora ke aas paas,residential,5010,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Pahalwan,purane bus stand se pahlwa ke lal dora ke aas paas,commercial,6970,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Pahalwan,rajbahe se up mandal adhikari nagrik ke karyalaya tak,residential,8350,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Pahalwan,rajbahe se up mandal adhikari nagrik ke karyalaya tak,commercial,15250,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Baroda,jind narwana road par lagti,agricultural,962.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Baroda,jind narwana road par lagti,agricultural,1006.25,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Baroda,Baroda,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Baroda,Baroda,agricultural,718.75,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Baroda,Baroda,residential,3070,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Baroda,baroda se kasuhan,agricultural,962.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Baroda,baroda se kasuhan,agricultural,1006.25,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Baroda,baroda se khapard,agricultural,962.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Baroda,baroda se khapard,agricultural,1006.25,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Baroda,baroda se roz khera,agricultural,962.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Baroda,baroda se roz khera,agricultural,1006.25,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Badanpur,Badanpur,agricultural,425.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Badanpur,Badanpur,agricultural,500.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Badanpur,Badanpur,residential,2662,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Badanpur,sadak ke sath langti bhoomi,agricultural,925.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Badanpur,sadak ke sath langti bhoomi,agricultural,1177.27,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Budayan,Budayan,agricultural,510.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Budayan,Budayan,agricultural,533.18,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Budayan,Budayan,agricultural,467.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Budayan,Budayan,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Budayan,Budayan,residential,3070,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,BhagwanPura,Bhagwan Pura,agricultural,467.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,BhagwanPura,Bhagwan Pura,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,BhagwanPura,Bhagwan Pura,residential,3070,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,BhagwanPura,Bhagwan Pura,commercial,3070,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,BhagwanPura,road ke sath langti jameen,agricultural,605.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Bhongra,Bhongra,agricultural,467.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Bhongra,Bhongra,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Bhongra,Bhongra,residential,3070,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Bhounsla,Bhounsla,agricultural,467.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Bhounsla,Bhounsla,residential,3070,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Bhounsla,bhounsla se kasuhan,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Bhounsla,bhounsla se khatkar,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Bhounsla,bhounsla se dhankhari,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Bhounsla,bhounsla se dhankhari,agricultural,605.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Bhounsla,bhounsla se mohangarh,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Mangalpur,Mangalpur,agricultural,510.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Mangalpur,Mangalpur,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Mangalpur,Mangalpur,residential,3070,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Makhand,Makhand,agricultural,467.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Makhand,Makhand,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,RozKhera,Roz Khera,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,NarayanGarh,Narayan Garh,agricultural,687.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Palwan,Palwan,agricultural,467.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Palwan,Palwan,agricultural,687.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Palwan,Palwan,residential,3070,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Pegan,Pegan,agricultural,687.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Poli,Poli,agricultural,687.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Poli,Poli,agricultural,467.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Poli,Poli,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Poli,Poli,residential,3070,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Raunwali,Raunwali,agricultural,467.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Raunwali,Raunwali,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Raunwali,Raunwali,residential,3070,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,RamRai,Ram Rai,agricultural,467.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,RamRai,Ram Rai,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,RamRai,Ram Rai,residential,3070,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Makhand,Makhand,residential,3327.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,MandiKalan,mandi kalan se kheri serkha,agricultural,687.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,MandiKalan,Mandi Kalan,agricultural,467.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,MandiKalan,Mandi Kalan,agricultural,718.75,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,MandiKalan,Mandi Kalan,residential,3070,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,MandiKalan,mandi se chatar,agricultural,687.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,MandiKalan,mandi se sandil,agricultural,687.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Mohangarh,Mohangarh,agricultural,467.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Mohangarh,Mohangarh,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Mohangarh,Mohangarh,residential,3070,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,RozKhera,Roz Khera,agricultural,467.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,RozKhera,Roz Khera,residential,3070,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,RozKhera,roz khera se baroda-ghoghrian,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,RozKhera,roz khera se baroda-ghoghrian,agricultural,605.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Lodhar,Lodhar,agricultural,467.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Lodhar,Lodhar,agricultural,575.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Lodhar,Lodhar,residential,3070,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Lodhar,sadak ke sath lagti bhoomi,agricultural,1480.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Lodhar,sadak ke sath lagti bhoomi lodhar,agricultural,1480.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,SafaKheri,kheri safa se khark bhura,agricultural,1100.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,SafaKheri,kheri safa se tarkha,agricultural,1100.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,SafaKheri,jind narwana road par lagti,agricultural,1200.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,SafaKheri,Safa Kheri,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,SafaKheri,Safa Kheri,agricultural,862.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,SafaKheri,Safa Kheri,residential,3070,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,SudkainKalan,sadak ke sath lagti bhoomi,agricultural,1017.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,SudkainKalan,Sudkain Kalan,agricultural,467.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,SudkainKalan,Sudkain Kalan,agricultural,575.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,SudkainKalan,Sudkain Kalan,residential,3070,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,SudkainKhurd,sadak ke sath lagti bhoomi,agricultural,1017.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,SudkainKhurd,Sudkain Khurd,agricultural,467.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,SudkainKhurd,Sudkain Khurd,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,SudkainKhurd,Sudkain Khurd,residential,3070,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Sundarpur,sadak ke sath lagti bhoomi,agricultural,1125.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Sundarpur,Sundarpur,agricultural,425.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Sundarpur,Sundarpur,agricultural,500.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Sundarpur,Sundarpur,residential,2662,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Surbra,Surbra,agricultural,467.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Surbra,Surbra,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,Surbra,Surbra,residential,3070,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,SedaMajra,Seda Majra,agricultural,467.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,SedaMajra,Seda Majra,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,SedaMajra,Seda Majra,residential,3070,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,SedaMajra,seda majra se daroli kheda,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,SedaMajra,seda majra se daroli kheda,agricultural,605.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,SedaMajra,seda majra se seda majra,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Uchana,SedaMajra,seda majra se uchana khurd,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification

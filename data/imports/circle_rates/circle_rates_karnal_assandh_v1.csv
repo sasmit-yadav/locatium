@@ -1,0 +1,537 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Karnal,Assandh,Alawla,Alawla Karnal Road,agricultural,888.43,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Alawla,Alawla Karnal Road,residential,5000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Alawla,Alawla Karnal Road,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Alawla,Alawla land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Alawla,Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Alawla,Alawla to Gonder Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Alawla,Gair Mumkin residential,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Alawla,Gair Mumkin residential,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Achhanpur,Achhanpur land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Achhanpur,Achhanpur to Dachar Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Achhanpur,Achhanpur to Badanara Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Achhanpur,Achhanpur to Rugsana Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Achhanpur,Achhanpur to Pundri Kaithal Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Achhanpur,Gair Mumkin residential,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Achhanpur,Gair Mumkin residential,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Achhanpur,Link road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Ardana,Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Ardana,Road up to 2 acres Prime,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Ardana,Ardana land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Ardana,Ardana to Gangotehdi,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Ardana,Ardana to Muana Jind,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Ardana,Ardana road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Ardana,Ardana to Assandh road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Ardana,Ardana Jind Road,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Ardana,Gair Mumkin residential,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Ardana,Gair Mumkin residential,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Karnal Road Dera Jaisinghpura Bijli,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Karnal Road Dera Jaisinghpura Bijli,commercial,21000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Assandh Karnal Road,agricultural,867.77,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Assandh land,agricultural,1549.59,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Land outside beyond 2 acres,agricultural,867.77,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Land outside beyond 2 acres,residential,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Land outside beyond 2 acres,commercial,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Inside municipal limit,agricultural,1549.59,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Outside municipal limit Nahri,agricultural,867.77,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Outside municipal limit,residential,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Outside municipal limit,commercial,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Agricultural land inside limit,agricultural,1549.59,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Assandh to Kohand Road beyond 2 acres,agricultural,867.77,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Assandh to Khizrabad beyond,agricultural,867.77,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Assandh to Khizrabad beyond Prime,agricultural,867.77,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Assandh to Khizrabad beyond,residential,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Assandh to Khizrabad beyond,commercial,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Assandh to Dera Gamali beyond,agricultural,867.77,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Assandh to Dera Gamali beyond Prime,agricultural,867.77,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Assandh to Dera Gamali beyond,residential,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Assandh to Dera Gamali beyond,commercial,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Assandh to Malikpur beyond limit,agricultural,867.77,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Assandh to Malikpur beyond limit Prime,agricultural,867.77,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Assandh to Malikpur beyond limit,residential,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Assandh to Malikpur beyond limit,commercial,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Karnal Road inside 2 acres both sides,agricultural,1549.59,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Karnal Road inside 2 acres both sides,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Karnal Road inside 2 acres both sides,commercial,21000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Karnal Road outside MC up to 2 acres,agricultural,1342.98,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Karnal Road outside MC up to 2 acres,residential,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Karnal Road outside MC up to 2 acres,commercial,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Karnal Road beyond 2 acres outside,agricultural,867.77,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Kastur Colony,residential,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Kastur Colony,commercial,40000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Colony City Tech Prime Zone,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Colony City Tech Prime Zone,commercial,22000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Kaithal Road beyond 2 acres,agricultural,867.77,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Kaithal Road Assandh limit 2 acres both sides,agricultural,1549.59,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Kaithal Road Gurudwara BSNL Office,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Kaithal Road Gurudwara BSNL Office,commercial,18000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Kaithal Road drain to Assandh limit,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Kaithal Road drain to Assandh limit,commercial,40000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Kaithal Road outside limit 2 acres both sides,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Kaithal Road outside limit 2 acres both sides,commercial,18000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Kaithal Road outside limit 2 acres both sides,agricultural,1342.98,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Kohand Salwan Road outside up to 2 acres,residential,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Kohand Salwan Road outside up to 2 acres,commercial,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Kohand Salwan Road outside up to 2 acres,agricultural,1342.98,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Khizrabad Road to Kaithal Bypass,residential,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Khizrabad Road to Kaithal Bypass,commercial,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Geeta Colony commercial Karnal Road behind,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Geeta Colony commercial Karnal Road behind,commercial,18000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Chhabra Shamshan Ghat to drain Jind Chowk,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Chhabra Shamshan Ghat to drain Jind Chowk,commercial,18000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Jind Road outside MC up to 2 acres,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Jind Road outside MC up to 2 acres,commercial,30000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Jind Road outside MC up to 2 acres zone 2,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Jind Road outside MC up to 2 acres zone 2,commercial,40000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Jind Road outside MC up to 2 acres,agricultural,1342.98,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Jind Road beyond 2 acres outside,residential,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Jind Road beyond 2 acres outside,commercial,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Jind Road beyond 2 acres outside,agricultural,867.77,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Jind Chowk Safidon Road New Bus Stand,residential,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Jind Chowk Safidon Road New Bus Stand,commercial,35000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Jind Chowk to Kabar Chowk,residential,14000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Jind Chowk to Kabar Chowk,commercial,62000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Jind Chowk to Kabar Chowk Karnal side,residential,14000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Jind Chowk to Kabar Chowk Karnal side,commercial,62000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Jind Chowk to Kaithal Road drain,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Jind Chowk to Kaithal Road drain,commercial,40000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Jind Chowk to Jind Road drain,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Jind Chowk to Jind Road drain,commercial,40000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Jind Chowk to Bal Bhawan Chowk Karnal Road,residential,14000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Jind Chowk to Bal Bhawan Chowk Karnal Road,commercial,62000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Jind Road drain inside 2 acres both sides,agricultural,1549.59,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Jind Road drain inside 2 acres both sides,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Jind Road drain inside 2 acres both sides,commercial,21000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Jind Road drain to Assandh limit,agricultural,1549.59,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Jind Road drain to Assandh limit,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Jind Road drain to Assandh limit,commercial,21000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Darbara Colony,residential,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Darbara Colony,commercial,40000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,New Anaj Mandi,commercial,55000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,New Anaj Mandi inside MC,commercial,55000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Inside MC beyond 2 acres,commercial,55000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Nanakpura Colony Bypass,agricultural,1549.59,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Nanakpura Colony Bypass,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Nanakpura Colony Bypass,commercial,30000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Nirankari Colony,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Nirankari Colony,commercial,30000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Purani Abadi Ward 3,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Purani Abadi Ward 3,commercial,30000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Purani Anaj Mandi adjoining land,residential,14000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Purani Anaj Mandi adjoining land,commercial,40000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Purane Dakkhana Gali Main Bazar,residential,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Purane Dakkhana Gali Main Bazar,commercial,62000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Bypass Road Deragama Road drain,residential,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Bypass Road Deragama Road drain,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Bypass to Khizrabad Road drain,residential,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Bypass to Khizrabad Road drain,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Bypass to Deragama Road drain,residential,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Bypass to Deragama Road drain,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Bal Bhawan Chowk to Karnal Road drain,residential,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Bal Bhawan Chowk to Karnal Road drain,commercial,40000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Bal Bhawan Chowk to Khizrabad Road,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Bal Bhawan Chowk to Khizrabad Road,commercial,30000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Valmiki Harijan Ward 1 2,residential,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Valmiki Harijan Ward 1 2,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Main Road to Jaisinghpura Bijli Board,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Main Road to Jaisinghpura Bijli Board,commercial,21000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Ramnagar behind Karnal Road,residential,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Ramnagar behind Karnal Road,commercial,30000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Ward 6 9 10 Chhabra Colony,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Ward 4 Shimla Basti,residential,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Ward 1 2 Valmiki Harijan Basti,residential,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Ward 1 2 Valmiki Harijan Basti,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Vishwakarma Colony SDM Shamshan Ghat,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Vishwakarma Colony SDM Shamshan Ghat,commercial,30000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Shimla Basti Sirsa Road inside,residential,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Shimla Basti Sirsa Road inside,commercial,15000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Satsang Bhawan to Nagar Nahar,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Satsang Bhawan to Nagar Nahar,commercial,20000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Safidon Road outside beyond 2 acres,agricultural,867.77,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Safidon Road to Incents Bhawan,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Safidon Road to Incents Bhawan,commercial,20000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Safidon Road outside limit 2 acres both sides,agricultural,1342.98,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Safidon Road outside limit 2 acres both sides,residential,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Safidon Road outside limit 2 acres both sides,commercial,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Salwan Chowk to Salwan Road drain,agricultural,1549.59,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Salwan Chowk to Salwan Road drain,residential,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Salwan Chowk to Salwan Road drain,commercial,40000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Salwan Chowk to Salwan line,agricultural,1549.59,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Salwan Chowk to Salwan line,residential,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Salwan Chowk to Salwan line,commercial,40000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Salwan Road drain to limit 2 acres both sides,agricultural,1549.59,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Salwan Road drain to limit 2 acres both sides,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Salwan Road drain to limit 2 acres both sides,commercial,21000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Sirsal Road Chowk to drain,agricultural,867.77,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Sirsal Road Chowk to drain,residential,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,Sirsal Road Chowk to drain,commercial,13000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,State Highway Karnal Road beyond 2 acres,agricultural,867.77,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,State Highway Karnal Road beyond 2 acres,residential,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Assandh,State Highway Karnal Road beyond 2 acres,commercial,12000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Uplana,Outer Bypass Assandh all sides,residential,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Uplana,Outer Bypass Assandh all sides,commercial,30000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Uplana,Uplana land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Uplana,Uplana to Uplani Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Uplana,Uplana to Kabulpur Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Uplana,Uplana to Karnal Road Jamala,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Uplana,Uplana to Gaushala Road Thari,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Uplana,Uplana to Chochra Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Uplana,Uplana to Jalmana Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Uplana,Uplana to Padhala Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Uplana,Uplana to Ratak Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Uplana,Uplana adjoining roads,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Uplana,Uplana Karnal Road State Highway,agricultural,867.77,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Uplana,Gair Mumkin residential,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Uplana,Gair Mumkin residential,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Uplani,Gair Mumkin residential,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Uplani,Gair Mumkin residential,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Uplani,Uplani land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Uplani,Uplani to Uplana Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Uplani,Uplani to Jalmana Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Kabulpur,Kabulpur Kheda Link Road 2 acre,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Kabulpur,Kabulpur Kheda to Kudlan,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Kabulpur,Kabulpur land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Kabulpur,Gair Mumkin residential,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Kabulpur,Gair Mumkin residential,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,KarasaChor,Karasa Chor land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,KarasaChor,Gair Mumkin residential,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,KarasaChor,Gair Mumkin residential,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,KarasaChor,Adjoining Chorkarsa numbers,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,KarasaChor,Link road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,KaulKheda,Kaul Kheda to Popda Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,KaulKheda,Kaul Kheda land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,KaulKheda,Gair Mumkin residential,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,KaulKheda,Gair Mumkin residential,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,KaulKheda,Link road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,KhandaKheri,Ratak Road Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,KhandaKheri,Khanda Kheri Assandh Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,KhandaKheri,Khanda Kheri land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,KhandaKheri,Gair Mumkin residential,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,KhandaKheri,Gair Mumkin residential,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Khizrabad,Jabhala Road Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Khizrabad,Jaisinghpura Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Khizrabad,Jaisinghpura Link Road 2,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Khizrabad,Rangruti Kheda,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Khizrabad,Gair Mumkin residential,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Khizrabad,Gair Mumkin residential,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Khizrabad,Rangruti Kheda Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Khizrabad,Khizrabad Assandh Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Khizrabad,Khizrabad land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Khizrabad,Khizrabad to Chaugawan Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Khizrabad,Khizrabad to Dera Gama Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Khizrabad,Khizrabad to Bilona Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,KheriSarfAli,Kheri Sarf Ali Kaithal Road,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,KheriSarfAli,Kheri Sarf Ali to Thal 1,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,KheriSarfAli,Kheri Sarf Ali to Thal 2,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,KheriSarfAli,Kheri Sarf Ali to Bassi,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,KheriSarfAli,Kheri Sarf Ali to Mundwal,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,KheriSarfAli,Kheri Sarf Ali to Mund,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,KheriSarfAli,Kheri Sarf Ali land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,KheriSarfAli,Kheri Sarf Ali land Prime,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,KheriSarfAli,Gair Mumkin residential,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,KheriSarfAli,Gair Mumkin residential,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,KheriSarfAli,Beyond highway and link road 2 acres,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,GangaTehri,Assandh to Jind State Highway,agricultural,826.45,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,GangaTehri,Ganga Tehri to Ardana Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,GangaTehri,Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,GangaTehri,Ganga Tehri land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,GangaTehri,Gair Mumkin residential,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,GangaTehri,Gair Mumkin residential,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Chochra,Jind Road to Ganga Tehri Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Chochra,Chochra land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Chochra,Gair Mumkin residential,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Chochra,Gair Mumkin residential,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Chochra,Chochra to Uplana Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Chochra,Chochra to Chorkarsa Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Chochra,Chochra to Dig Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Chochra,Chochra to Padhala Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Chochra,Chochra to Bakal Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Chochra,Chochra to Rugsana Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Chochra,Link road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Chaugawan,Gair Mumkin residential,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Chaugawan,Gair Mumkin residential,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Chaugawan,Chaugawan to Kaithal Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Chaugawan,Chaugawan to Khizrabad Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Chaugawan,Chaugawan to Bassi Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Chaugawan,Chaugawan land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Chaugawan,Chaugawan land Prime,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Jabhala,Gair Mumkin residential,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Jabhala,Gair Mumkin residential,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Jabhala,Jabhala to Thari Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Jabhala,Jabhala Karnal Road,agricultural,888.43,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Jabhala,Jabhala Karnal Road,residential,5000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Jabhala,Jabhala Karnal Road,commercial,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Jabhala,Jabhala land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Jabhala,Jabhala land Prime,agricultural,888.43,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Jabhala,Jabhala to Phaphadana,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,JaisinghPura,Gair Mumkin residential,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,JaisinghPura,Gair Mumkin residential,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,JaisinghPura,Jaisinghpura land,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,JaisinghPura,Jaisinghpura to Uplana Link Road 1,agricultural,661.16,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,JaisinghPura,Jaisinghpura to Uplana Link Road 1,residential,5000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,JaisinghPura,Jaisinghpura to Uplana Link Road 2,agricultural,661.16,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,JaisinghPura,Jaisinghpura to Uplana Link Road 2,residential,5000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,JaisinghPura,Jaisinghpura to Uplana Link Road 2,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,JaisinghPura,Jaisinghpura to Karnal Road,agricultural,661.16,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,JaisinghPura,Jaisinghpura to Karnal Road,residential,5000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,JaisinghPura,Jaisinghpura to Karnal Road,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,JaisinghPura,Jaisinghpura to Khanda Kheri,agricultural,661.16,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,JaisinghPura,Jaisinghpura to Khanda Kheri,residential,5000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,JaisinghPura,Jaisinghpura to Khanda Kheri,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,JaisinghPura,Jaisinghpura to Dupendi Link Road,agricultural,661.16,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,JaisinghPura,Jaisinghpura to Dupendi Link Road,residential,5000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,JaisinghPura,Jaisinghpura to Dupendi Link Road,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,JaisinghPura,Jaisinghpura to Phaphadana Link Road,agricultural,661.16,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,JaisinghPura,Jaisinghpura to Phaphadana Link Road,residential,5000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,JaisinghPura,Jaisinghpura to Phaphadana Link Road,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,JaisinghPura,Jaisinghpura State Highway,agricultural,888.43,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,JaisinghPura,Jaisinghpura State Highway,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,JaisinghPura,Jaisinghpura State Highway,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,JaisinghPura,Along SH Lal Dora 2 acre,agricultural,888.43,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,JaisinghPura,Along SH Lal Dora 2 acre,residential,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,JaisinghPura,Along SH Lal Dora 2 acre,commercial,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,JaisinghPura,Beyond highway link road 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,JaisinghPura,Beyond highway link road 2 acres,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,JaisinghPura,Beyond highway link road 2 acres,commercial,8000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Jalmana,Gair Mumkin residential,residential,5000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Jalmana,Gair Mumkin residential,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Jalmana,Jalmana Karnal Road State Highway,agricultural,909.09,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Jalmana,Jalmana Karnal Road State Highway,residential,6000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Jalmana,Jalmana Karnal Road State Highway,commercial,13000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Jalmana,Jalmana land,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Jalmana,Jalmana land Prime,agricultural,888.43,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Jalmana,Jalmana Canal bridge to Dachar Link Road,agricultural,661.16,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,JhimariKheda,Near Jalmana main stand up to 2 acres,agricultural,888.43,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,JhimariKheda,Near Jalmana main stand up to 2 acres,residential,6500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,JhimariKheda,Near Jalmana main stand up to 2 acres,commercial,13000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,JhimariKheda,Jalmana to Uplana Link Road,agricultural,661.16,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,JhimariKheda,Jalmana to Kabulpur Kheda Link Road,agricultural,661.16,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,JhimariKheda,Jalmana to Karasa Chor Link Road,agricultural,661.16,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,JhimariKheda,Jalmana to Kudlan Link Road,agricultural,661.16,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,JhimariKheda,Jalmana to Thari Link Road,agricultural,661.16,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,JhimariKheda,Jalmana to Dachar Link Road,agricultural,661.16,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,JhimariKheda,Gair Mumkin residential,residential,5000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,JhimariKheda,Gair Mumkin residential,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,JhimariKheda,Jhimari Kheda land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,JhimariKheda,Jhimari Kheda to Alanjogi Kheda,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,JhimariKheda,Jhimari Kheda to Popda,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,JhimariKheda,Jhimari Kheda to Ritoli,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,TharwaMajra,Gair Mumkin residential,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,TharwaMajra,Gair Mumkin residential,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,TharwaMajra,Tharwa Majra land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,TharwaMajra,Tharwa Majra to Alawla,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,TharwaMajra,Tharwa Majra to Kudlan,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,TharwaMajra,Tharwa Majra to Kudlan 2,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,TharwaMajra,Tharwa Majra to Jalmana,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,TharwaMajra,Tharwa Majra to Padha,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Thari,Gair Mumkin residential,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Thari,Gair Mumkin residential,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Thari,Thari Karnal Road,agricultural,888.43,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Thari,Thari land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Thari,Thari land Prime,agricultural,888.43,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Thari,Thari to Kabulpur Kheda Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Thari,Thari to Karnal Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Thari,Thari to Ambhala Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Thari,Thari to Jalmana Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Thal,Gair Mumkin residential,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Thal,Gair Mumkin residential,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Thal,Thal land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Thal,Thal to Khurda,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Thal,Thal to Kheri Sarf Ali,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Thal,Thal to Bahri,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Thal,Thal to Madan Hedi,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Thal,Thal to Mund,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Danoli,Gair Mumkin residential,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Danoli,Gair Mumkin residential,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Danoli,Danoli Assandh Safidon Road,agricultural,847.11,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Danoli,Danoli land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Danoli,Danoli to Dupendi,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Danoli,Danoli to Malikpur Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Danoli,Via Danoli to Malikpur Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Danoli,Safidon Road to Danoli,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Dupendi,Gair Mumkin residential,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Dupendi,Gair Mumkin residential,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Dupendi,Dupendi Panipat Road State Highway,agricultural,847.11,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Dupendi,Dupendi land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Dupendi,Dupendi to Danoli,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Dupendi,Dupendi to Malikpur,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Dupendi,Panipat Road to Dupendi Link Road 1,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Dupendi,Panipat Road to Dupendi Link Road 2,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Dupendi,Beyond highway link road 2 acres,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,NewJhinda,Gair Mumkin residential,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,NewJhinda,Gair Mumkin residential,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,NewJhinda,Gair Mumkin residential on road,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,NewJhinda,Gair Mumkin residential on road,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,NewJhinda,New Jhinda Link Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,NewJhinda,New Jhinda land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,NewJhinda,New Jhinda road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,PakkaKhera,Pakka Khera Karnal Road,agricultural,888.43,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,PakkaKhera,Pakka Khera Karnal Road,residential,5000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,PakkaKhera,Pakka Khera Karnal Road,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,PakkaKhera,Pakka Khera land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,PakkaKhera,Gair Mumkin residential,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,PakkaKhera,Gair Mumkin residential,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Popda,Pakka Khera Peot Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Popda,Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Popda,Pakka Khera Karnal Main Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Popda,Pakka Khera Padha Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Popda,Gair Mumkin residential,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Popda,Gair Mumkin residential,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Popda,Popda land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Popda,Popda land Prime,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Popda,Popda to Kaul Kheda Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Popda,Popda to Jhimari Kheda Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Popda,Popda Gandouli Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Popda,Popda to Khanda Link Road Jind,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Popda,Popda to Mohammad Kheda Jind,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Popda,Link road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Phaphadana,Gair Mumkin residential,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Phaphadana,Gair Mumkin residential,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Phaphadana,Thari Canal Salwan Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Phaphadana,Phaphadana land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Phaphadana,Phaphadana land Prime,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Phaphadana,Phaphadana Salwan Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Phaphadana,Phaphadana to Jabhala,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Phaphadana,Phaphadana to Dupendi,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Phaphadana,Phaphadana to Padhana,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Bandrala,Gair Mumkin residential,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Bandrala,Gair Mumkin residential,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Bandrala,Bandrala land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Bandrala,Bandrala land Prime,agricultural,847.11,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Bandrala,Bandrala to Assandh Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Bandrala,Bandrala to Madan Hedi Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Bandrala,Bandrala Road Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Bandrala,Bandrala State Highway,agricultural,847.11,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Bandrala,Bandrala State Highway,residential,5000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Bandrala,Bandrala State Highway,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Bassi,Beyond highway link road 2 acres,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Bassi,Gair Mumkin residential,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Bassi,Gair Mumkin residential,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Bassi,Bassi land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Bassi,Bassi to Bilona Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Bassi,Bassi to Beed Bassi Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Bassi,Bassi to Mundwal Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Bassi,Link road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Bahri,Gair Mumkin residential,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Bahri,Gair Mumkin residential,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Bahri,Bahri land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Bahri,Bahri land Prime,agricultural,847.11,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Bahri,Bahri Jind Road,agricultural,847.11,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Bahri,Bahri Bhigana Road,agricultural,847.11,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Bahri,Bahri to Ardana Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Bahri,Bahri to Thal Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Bahri,Bahri to Mund Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Bahri,Bahri to Birthe Bahri Kaithal,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Bilona,Gair Mumkin residential,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Bilona,Gair Mumkin residential,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Bilona,Bilona to Khizrabad 1,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Bilona,Bilona to Khizrabad 2,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Bilona,Bilona to Ratak,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Bilona,Bilona to Rahra,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Bilona,Bilona to Sherda,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Bilona,Bilona land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Bilona,Link road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,BeedBassi,Gair Mumkin residential,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,BeedBassi,Gair Mumkin residential,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,BeedBassi,Beed Bassi to Khizrabad,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,BeedBassi,Beed Bassi to Bassi,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,BeedBassi,Beed Bassi to Bilona,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,BeedBassi,Beed Bassi land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,BeedBassi,Link road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,MadanHedi,Assandh to Mund via Madan Hedi,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,MadanHedi,Gair Mumkin residential,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,MadanHedi,Gair Mumkin residential,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,MadanHedi,Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,MadanHedi,Madan Hedi land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,MadanHedi,Madan Hedi Kaithal Road,agricultural,847.11,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,MadanHedi,Madan Hedi to Assandh Link Road,agricultural,847.11,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,MadanHedi,Madan Hedi to Jind Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,MadanHedi,Madan Hedi to Jind Road Prime,agricultural,847.11,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,MadanHedi,Madan Hedi to Mund Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,MadanHedi,Madan Hedi to Mund Link Road Prime,agricultural,847.11,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Mund,Mund land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Mund,Gair Mumkin residential,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Mund,Gair Mumkin residential,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Mund,Mund Jind Road State Highway,agricultural,847.11,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Mund,Mund to Thal,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Mund,Mund to Bahri,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Mund,Mund to Madan Hedi,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Mund,Beyond highway link road 2 acres,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,RangrutiKheda,Gair Mumkin residential,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,RangrutiKheda,Gair Mumkin residential,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,RangrutiKheda,Rangruti Kheda land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,RangrutiKheda,Road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Ratak,Gair Mumkin residential,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Ratak,Gair Mumkin residential,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Ratak,Ratak to Assandh Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Ratak,Ratak to Uplana Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Ratak,Ratak to Chochra Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Ratak,Ratak to Pangala Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Ratak,Ratak to Bilona Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Ratak,Ratak to Lallain Link,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Ratak,Ratak land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Rahra,Gair Mumkin residential,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Rahra,Gair Mumkin residential,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Rahra,Rahra land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Rahra,Rahra to Khizrabad Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Rahra,Rahra to Dig Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Rahra,Rahra to Pangala Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Rahra,Rahra to Bilona Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Rahra,Rahra to Lallain Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Rahra,Link road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Rugsana,Gair Mumkin residential,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Rugsana,Gair Mumkin residential,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Rugsana,Chorkarsa Road Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Rugsana,Rugsana Sirsal Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Rugsana,Rugsana to Achhanpur Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Rugsana,Rugsana to Dachar Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Rugsana,Rugsana to Dig Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Rugsana,Rugsana land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Rugsana,Gama Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,LallainPangala,Gair Mumkin residential,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,LallainPangala,Gair Mumkin residential,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,LallainPangala,Lallain Pangala land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,LallainPangala,Lallain Pangala to Khizrabad,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,LallainPangala,Lallain Pangala to Chochra,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,LallainPangala,Lallain Pangala to Bakal Link Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,LallainPangala,Lallain Pangala to Ratak,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,LallainPangala,Lallain Pangala to Rahra,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,LallainPangala,Link road up to 2 acres,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,ShekhpuraManchuri,Karnal Main Road to Gularpur,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,ShekhpuraManchuri,Gair Mumkin residential,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,ShekhpuraManchuri,Gair Mumkin residential,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,ShekhpuraManchuri,Manchuri to Karnal Main Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,ShekhpuraManchuri,Manchuri to Gularpur,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,ShekhpuraManchuri,Manchuri to Gonder Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,ShekhpuraManchuri,Shekhpura Manchuri land,agricultural,557.85,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,ShekhpuraManchuri,Shekhpura Manchuri Karnal Road,agricultural,888.43,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,ShekhpuraManchuri,Shekhpura Manchuri Karnal Road,residential,5000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,ShekhpuraManchuri,Shekhpura Manchuri Karnal Road,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,ShekhpuraManchuri,Shekhpura to Karnal Main Road,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,ShekhpuraManchuri,Shekhpura to Kudlan,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,ShekhpuraManchuri,Shekhpura to Kudlan Prime,agricultural,888.43,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,ShekhpuraManchuri,Shekhpura to Gonder,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,ShekhpuraManchuri,Shekhpura to Pakka Khera,agricultural,599.17,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,ShekhpuraManchuri,Shekhpura to Pakka Khera Prime,agricultural,971.07,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Salwan,Village land,agricultural,661.16,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Salwan,Village land,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Salwan,Village land,commercial,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Salwan,Main stand Panipat State Highway,agricultural,971.07,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Salwan,Main stand Panipat State Highway,residential,5500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Salwan,Main stand Panipat State Highway,commercial,11000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Salwan,Salwan to Kabulpur Kheda Road,agricultural,661.16,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Salwan,Salwan to Kudlan Road,agricultural,661.16,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Salwan,Salwan to Goli Link Road,agricultural,661.16,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Salwan,Salwan to Didwara Road,agricultural,661.16,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Salwan,Salwan to Padhana Road,agricultural,661.16,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Salwan,Salwan to Phaphadana Main Road,agricultural,847.11,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Salwan,Salwan to Phaphadana Main Road,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Salwan,Salwan to Phaphadana Main Road,commercial,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Salwan,Salwan to Phaphadana Road,agricultural,661.16,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Salwan,Gair Mumkin residential,residential,4500,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Salwan,Gair Mumkin residential,commercial,9000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Salwan,Salwan to Malakpur Road,commercial,10000,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Salwan,Salwan to Manpura Road,agricultural,661.16,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Salwan,Salwan to Risalwa Road,agricultural,661.16,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Salwan,Salwan Ballah Road,agricultural,661.16,2026-04-01,karnal_gov_in_dc_notification
+Karnal,Assandh,Salwan,Salwan Ballah Road up to 2 acres,agricultural,971.07,2026-04-01,karnal_gov_in_dc_notification

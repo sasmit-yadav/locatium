@@ -1,0 +1,134 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Panipat,Israna,Ahar,Ahar,agricultural,550.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Ahar,Ahar,agricultural,750.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Ahar,Ahar,residential,2662,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Israna,NH 71 up to 150 ft other khasra,residential,11550,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Israna,NH 71 up to 150 ft other khasra,commercial,13200,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Israna,Other Gair Mumkin colony,residential,6050,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Israna,Other Gair Mumkin colony,commercial,7260,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Israna,Between both Anaj Mandi,residential,26620,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Israna,Between both Anaj Mandi,commercial,29095,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Israna,Israna-1,agricultural,627.27,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Israna,Israna-1,agricultural,855.37,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Israna,Khushi Ram Colony,residential,12100,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Israna,Khushi Ram Colony,commercial,12705,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Israna,Geeta Colony,residential,15730,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Israna,Geeta Colony,commercial,15972,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Israna,Gair Mumkin Bada Jaat va Gadha Khad,residential,4620,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Israna,Chhotu Ram Colony,residential,10890,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Israna,Chhotu Ram Colony,commercial,11132,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Israna,Panipat Road both sides up to 2 acres,agricultural,1375.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Israna,Bijli Ghar to Mandi Mod 150 ft main road NH 71A,residential,35420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Israna,Bijli Ghar to Mandi Mod 150 ft main road NH 71A,commercial,44044,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Israna,Mandi Mod to NC College 150 ft main road NH 71A,residential,9317,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Israna,Mandi Mod to NC College 150 ft main road NH 71A,commercial,10648,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Israna,Mandi Mod to Tehsil office,residential,12705,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Israna,Mandi Mod to Tehsil office,commercial,13310,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Israna,Main Road 3 to 6 acres,agricultural,1000.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Israna,Lakshmi Nagar Colony,residential,10373,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Israna,Lakshmi Nagar Colony,commercial,10285,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Israna,Lal Dora,residential,3630,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Israna,Vishram Grah Rajbaha Chidana Minor,residential,5445,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Israna,Vishram Grah Rajbaha Chidana Minor,commercial,6050,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Israna,Remaining colonies,residential,7865,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Israna,Remaining colonies,commercial,11550,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Kakonda,Kakonda,agricultural,550.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Kakonda,Kakonda,agricultural,800.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Kakonda,Kakonda,residential,2662,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Kayat,Kayat,agricultural,601.14,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Kayat,Kayat,agricultural,819.73,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Kayat,Kayat,residential,2662,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Kayat,Kayat Bus Stand road,residential,15125,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Kayat,Kayat Bus Stand road,commercial,15730,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Kayat,Main Road up to 2 acres,agricultural,1375.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Kayat,Main Road 3 to 6 acres,agricultural,1000.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Kurana,Kurana,agricultural,550.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Kurana,Kurana,agricultural,750.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Kurana,Kurana,residential,2662,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,KheriShahpurBaichirag,Kheri Shahpur Baichirag,agricultural,550.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,KheriShahpurBaichirag,Kheri Shahpur Baichirag,agricultural,750.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,KheriShahpurBaichirag,Kheri Shahpur Baichirag,residential,2662,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,KhalilaMajraNayan,Khalila Majra Nayan,agricultural,550.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,KhalilaMajraNayan,Khalila Majra Nayan,agricultural,800.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,KhalilaMajraNayan,Khalila Majra Nayan,residential,2662,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,KhalilaMajraNayan,Remaining area,agricultural,550.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Gwalda,Gwalda,agricultural,575.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Gwalda,Gwalda,agricultural,836.36,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Gwalda,Gwalda,residential,2662,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Chamrada,Chamrada,agricultural,575.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Chamrada,Chamrada,agricultural,836.36,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Chhichhrana,Chhichhrana,residential,2662,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Chhichhrana,Chhichhrana,agricultural,550.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Chhichhrana,Chhichhrana,agricultural,750.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Chhichhrana,Chhichhrana,residential,3146,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,JaunDhanKalan,Jaun Dhan Kalan,agricultural,550.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,JaunDhanKalan,Jaun Dhan Kalan,agricultural,750.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,JaunDhanKalan,Jaun Dhan Kalan,residential,2662,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,JaunDhanKhurd,Jaun Dhan Khurd,agricultural,550.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,JaunDhanKhurd,Jaun Dhan Khurd,agricultural,750.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,JaunDhanKhurd,Jaun Dhan Khurd,residential,2662,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,JaunDhanKhurd,Main Road up to 2 acres,agricultural,1375.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,JaunDhanKhurd,Main Road 3 to 6 acres,agricultural,1000.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Didwari,Didwari,agricultural,700.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Didwari,Didwari,agricultural,954.55,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Didwari,Didwari,residential,2662,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Naultha,Naultha,agricultural,655.79,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Naultha,Naultha,agricultural,901.7,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Naultha,Naultha,residential,3168,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Naultha,Naultha Bus Stand roadside,residential,15125,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Naultha,Naultha Bus Stand roadside,commercial,15730,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Naultha,NH Road both sides 150 ft khasra,residential,9680,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Naultha,NH Road both sides 150 ft khasra,commercial,10890,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Naultha,Panipat Road both sides up to 2 acres,agricultural,1375.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Naultha,Link Road up to 2 acres,agricultural,1000.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Pardhana,Pardhana,agricultural,625.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Pardhana,Pardhana,agricultural,862.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Pardhana,Pardhana,residential,2662,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Palri,Palri,agricultural,550.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Palri,Palri,agricultural,750.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Palri,Palri,residential,2662,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Pathri,Pathri,agricultural,550.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Pathri,Pathri,agricultural,750.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Pathri,Pathri,residential,2662,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Putthar,Putthar,agricultural,550.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Putthar,Putthar,agricultural,750.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Putthar,Putthar,residential,2662,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Balana,Balana,agricultural,627.27,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Balana,Balana,agricultural,862.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Balana,Balana,residential,3388,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Balana,Balana,commercial,21450,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Balana,Balana Bus Stand and roadside both sides,residential,15125,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Balana,Balana Bus Stand and roadside both sides,commercial,15730,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Balana,Main Road up to 2 acres,agricultural,1375.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Balana,Main Road 3 to 6 acres,agricultural,1000.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Badh,Badh,agricultural,550.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Badh,Badh,agricultural,750.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Badh,Badh,residential,2662,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,BuanaLakhu,Buana Lakhu,agricultural,550.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,BuanaLakhu,Buana Lakhu,agricultural,750.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,BuanaLakhu,Buana Lakhu,residential,2662,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Bhaupur,Bhaupur,agricultural,550.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Bhaupur,Bhaupur,agricultural,750.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Bhaupur,Bhaupur,residential,2662,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Mandi,Mandi,agricultural,550.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Mandi,Mandi,agricultural,800.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Mandi,Mandi,residential,2662,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,WazirpurTitana,Wazirpur Titana,agricultural,575.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,WazirpurTitana,Wazirpur Titana,agricultural,836.36,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,WazirpurTitana,Wazirpur Titana,residential,2662,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Vijawa,Vijawa,agricultural,575.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Vijawa,Vijawa,agricultural,784.09,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Vijawa,Vijawa,residential,2662,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Shahpur,Main Road 3 to 6 acres,agricultural,1000.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Shahpur,Link Road up to 2 acres,agricultural,1375.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Shahpur,Shahpur,agricultural,600.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Shahpur,Shahpur,agricultural,818.18,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Shahpur,Shahpur,residential,3146,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Shahpur,Shahpur Bus Stand road,residential,15125,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Shahpur,Shahpur Bus Stand road,commercial,15730,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Seek,Seek,agricultural,550.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Seek,Seek,agricultural,750.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Seek,Seek,residential,2662,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Karad,Karad,agricultural,550.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Karad,Karad,agricultural,750.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Israna,Karad,Karad,residential,2662,2026-04-01,panipat_gov_in_dc_notification

@@ -1,0 +1,72 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Jhajjar,Salhawas,Salhawas,Industrial plots (all villages),industrial,3000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Salhawas,Institutional plots (all villages),commercial,3000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Amboli,Amboli,agricultural,674.91,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Amboli,Amboli,agricultural,561.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Amboli,Amboli,agricultural,2750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Amboli,Amboli,residential,3162.5,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Kondrawali,Kondrawali,agricultural,712.81,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Kondrawali,Kondrawali,agricultural,512.27,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Kondrawali,Kondrawali,agricultural,2750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Kondrawali,Kondrawali,residential,2750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Jamalpur,Jamalpur,agricultural,1189.57,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Jamalpur,Jamalpur,agricultural,982.39,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Jamalpur,Jamalpur,agricultural,2750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Jamalpur,Jamalpur,residential,2750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Jhanswa,Jhanswa,agricultural,906.25,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Jhanswa,Jhanswa,agricultural,713.52,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Jhanswa,Jhanswa,agricultural,3162.5,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Jhanswa,Jhanswa,residential,2750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Dana,Dana,agricultural,1106.04,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Dana,Dana,agricultural,811.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Dana,Dana,agricultural,2750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Dana,Dana,residential,2750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Dhaniya,Dhaniya,agricultural,1435.43,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Dhaniya,Dhaniya,agricultural,1068.8,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Dhaniya,Dhaniya,agricultural,2750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Dhaniya,Dhaniya,residential,3575,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Dhanirwas,Dhanirwas,agricultural,1106.04,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Dhanirwas,Dhanirwas,agricultural,811.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Dhanirwas,Dhanirwas,agricultural,2750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Dhanirwas,Dhanirwas,residential,2750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Niwada,Niwada,agricultural,570.25,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Niwada,Niwada,agricultural,445.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Niwada,Niwada,agricultural,2750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Niwada,Niwada,residential,2750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Nilaheri,Nilaheri,agricultural,852.27,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Nilaheri,Nilaheri,agricultural,695.23,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Nilaheri,Nilaheri,agricultural,2750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Nilaheri,Nilaheri,residential,2750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Bithla,Bithla,agricultural,605.37,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Bithla,Bithla,agricultural,472.73,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Bithla,Bithla,agricultural,2750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Bithla,Bithla,residential,2750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Birad,Birad,agricultural,595.91,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Birad,Birad,agricultural,510.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Birad,Birad,agricultural,2750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Birad,Birad,residential,2750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Bhurawas,Bhurawas,agricultural,648.76,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Bhurawas,Bhurawas,agricultural,620.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Bhurawas,Bhurawas,agricultural,3437.5,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Bhurawas,Bhurawas,residential,2750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Mundahera,Mundahera,agricultural,606.92,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Mundahera,Mundahera,agricultural,470.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Mundahera,Mundahera,agricultural,3437.5,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Mundahera,Mundahera,residential,2750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Ladayan,Ladayan,agricultural,738.64,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Ladayan,Ladayan,agricultural,611.59,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Ladayan,Ladayan,agricultural,2750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Ladayan,Ladayan,residential,2750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Salhawas,Salhawas,agricultural,883.68,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Salhawas,Salhawas,agricultural,701.7,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Salhawas,Salhawas,agricultural,3500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Salhawas,Salhawas,residential,3500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Salhawas,Salhawas,commercial,7700,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Salhawas,Salhawas Dhaniya Road,agricultural,6600,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Salhawas,Salhawas Dhaniya Road,residential,6050,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Salhawas,Salhawas to Sudhrana Road,agricultural,3500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Salhawas,Salhawas to Sudhrana Road,residential,3500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Humayupur,Humayupur,agricultural,948.04,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Humayupur,Humayupur,agricultural,695.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Humayupur,Humayupur,agricultural,2750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Salhawas,Humayupur,Humayupur,residential,2750,2026-04-01,jhajjar_gov_in_dc_notification

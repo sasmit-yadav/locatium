@@ -47,10 +47,16 @@ CREATE TABLE IF NOT EXISTS circle_rates (
   source TEXT NOT NULL DEFAULT 'haryana_seed'
 );
 
-CREATE INDEX IF NOT EXISTS idx_circle_rates_district ON circle_rates (district, sector_type);
+ALTER TABLE circle_rates ADD COLUMN IF NOT EXISTS village TEXT;
+ALTER TABLE circle_rates ADD COLUMN IF NOT EXISTS segment TEXT;
 
-INSERT INTO circle_rates (district, tehsil, sector_type, rate_per_sq_yard_inr)
-SELECT d, NULL, s, r FROM (VALUES
+CREATE INDEX IF NOT EXISTS idx_circle_rates_district ON circle_rates (district, sector_type);
+CREATE INDEX IF NOT EXISTS idx_circle_rates_district_sector_effective
+  ON circle_rates (district, sector_type, effective_from DESC);
+
+-- Legacy invent rows (only if table empty). Prefer curated DC CSVs in production.
+INSERT INTO circle_rates (district, tehsil, sector_type, rate_per_sq_yard_inr, source)
+SELECT d, NULL, s, r, 'haryana_seed' FROM (VALUES
   ('Gurugram', 'industrial', 85000),
   ('Gurugram', 'commercial', 120000),
   ('Gurugram', 'residential', 95000),
@@ -79,23 +85,20 @@ CREATE TABLE IF NOT EXISTS land_transactions (
   geom GEOMETRY(Point, 4326)
 );
 
-CREATE INDEX IF NOT EXISTS idx_land_transactions_geom ON land_transactions USING GIST (geom);
+ALTER TABLE land_transactions ADD COLUMN IF NOT EXISTS tehsil TEXT;
+ALTER TABLE land_transactions ADD COLUMN IF NOT EXISTS village TEXT;
+ALTER TABLE land_transactions ADD COLUMN IF NOT EXISTS deed_id TEXT;
+ALTER TABLE land_transactions ADD COLUMN IF NOT EXISTS consideration_inr NUMERIC(14, 2);
+ALTER TABLE land_transactions ADD COLUMN IF NOT EXISTS area_unit TEXT;
+ALTER TABLE land_transactions ADD COLUMN IF NOT EXISTS notes TEXT;
 
-INSERT INTO land_transactions (district, sector_type, price_per_sq_yard_inr, area_sq_yards, lat, lng, geom)
-SELECT district, sector_type, price, area, lat, lng, ST_SetSRID(ST_MakePoint(lng, lat), 4326)
-FROM (VALUES
-  ('Gurugram', 'industrial', 92000, 500, 28.4510, 76.9100),
-  ('Gurugram', 'industrial', 88000, 800, 28.4380, 76.8950),
-  ('Gurugram', 'industrial', 95000, 1200, 28.4620, 76.9280),
-  ('Gurugram', 'commercial', 125000, 300, 28.4590, 76.9200),
-  ('Gurugram', 'residential', 98000, 200, 28.4480, 76.9050),
-  ('Faridabad', 'industrial', 45000, 600, 28.4100, 77.3200),
-  ('Faridabad', 'industrial', 43000, 900, 28.3950, 77.3050),
-  ('Karnal', 'industrial', 30000, 1500, 29.6900, 76.9900),
-  ('Panipat', 'industrial', 38000, 700, 29.3900, 76.9600),
-  ('Rewari', 'industrial', 34000, 1000, 28.2000, 76.8000)
-) AS v(district, sector_type, price, area, lat, lng)
-WHERE NOT EXISTS (SELECT 1 FROM land_transactions LIMIT 1);
+CREATE INDEX IF NOT EXISTS idx_land_transactions_geom ON land_transactions USING GIST (geom);
+CREATE INDEX IF NOT EXISTS idx_land_transactions_district_sector ON land_transactions (district, sector_type);
+CREATE INDEX IF NOT EXISTS idx_land_transactions_date ON land_transactions (transaction_date DESC);
+CREATE INDEX IF NOT EXISTS idx_land_transactions_source ON land_transactions (source);
+
+-- Purge invented seed comps; do not re-seed invents when curated/empty table is preferred.
+DELETE FROM land_transactions WHERE source = 'seed_comparable';
 
 CREATE TABLE IF NOT EXISTS policy_documents (
   id SERIAL PRIMARY KEY,

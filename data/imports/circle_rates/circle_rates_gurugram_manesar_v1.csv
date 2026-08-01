@@ -1,0 +1,226 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Gurugram,Manesar,ANSAL PLOT,INDUSTRIAL AND RESIDENTIAL PLOT,residential,18700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,ANSAL PLOT,INDUSTRIAL AND RESIDENTIAL PLOT,commercial,28300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Baslambi,2 Acre depth road,agricultural,3709.09,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Baslambi,Baslambi,agricultural,3665.5,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Baslambi,Baslambi,residential,9100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Baslambi,Baslambi,commercial,18200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Fakharpur,2 Acre depth road,agricultural,3177.07,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Fakharpur,Fakharpur,agricultural,2730.17,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Fakharpur,Fakharpur,residential,9100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Fakharpur,Fakharpur,commercial,18200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Huda Sectors,Institutional School hosp club,residential,26700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Huda Sectors,Institutional School hosp club,commercial,30700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Huda Sectors,Institutional School hosp club,institutional,46000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Huda Sectors,Sec 36A,residential,83500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Huda Sectors,Sec 36A,commercial,194900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Huda Sectors,Sec 76,residential,86600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Huda Sectors,Sec 76,commercial,206800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Huda Sectors,Sec 77,residential,90500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Huda Sectors,Sec 77,commercial,228100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Huda Sectors,Sec 78,residential,79600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Huda Sectors,Sec 78,commercial,200400,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Huda Sectors,Sec 79,residential,95000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Huda Sectors,Sec 79,commercial,106500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Huda Sectors,Sec 80,residential,69300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Huda Sectors,Sec 80,commercial,191700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Huda Sectors,Sec 81,residential,90500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Huda Sectors,Sec 81,commercial,130700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Huda Sectors,Sec 82,residential,69300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Huda Sectors,Sec 82,commercial,144100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Huda Sectors,Sec 83,residential,79600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Huda Sectors,Sec 83,commercial,164000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Huda Sectors,Sec 85,residential,78300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Huda Sectors,Sec 85,commercial,158400,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Huda Sectors,Sec 86,residential,78300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Huda Sectors,Sec 86,commercial,202800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Huda Sectors,Sec 87,residential,62700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Huda Sectors,Sec 87,commercial,106500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Huda Sectors,Sec 90,residential,53300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Huda Sectors,Sec 90,commercial,197500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Huda Sectors,"Sec M1 A,C",residential,59900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Huda Sectors,"Sec M1 A,C",commercial,106500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Huda Sectors,Sec84,residential,72100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Huda Sectors,Sec84,commercial,221800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Huda Sectors,Sec84,institutional,33900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Huda Sectors,"Sec-M1D,B",residential,69300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Huda Sectors,"Sec-M1D,B",commercial,119800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Huda Sectors,VILLA,residential,63000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,IMT Sectors,IMT Sectors,commercial,39500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,IMT Sectors,IMT Sectors,industrial,38000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,IMT Sectors,Sector 1,residential,48800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,IMT Sectors,Sector 1,commercial,152100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Kharkhari,2 Acre depth road,agricultural,3360.12,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Kharkhari,kharkhari,agricultural,3360.12,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Kharkhari,kharkhari,residential,9100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Kharkhari,kharkhari,commercial,12800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,KHERKI,1 Acre depth from link road,agricultural,3543.6,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,KHERKI,Kherki,agricultural,3090.5,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,KHERKI,Kherki,residential,7800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,KHERKI,Kherki,commercial,12800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Mokalwas,2 Acre depth road,agricultural,3054.75,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Mokalwas,Mokalwas,agricultural,2630.17,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Mokalwas,Mokalwas,residential,9100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Mokalwas,Mokalwas,commercial,12600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Tatarpur,Tatarpur,agricultural,1818.45,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Tatarpur,Tatarpur,residential,6300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Tatarpur,Tatarpur,commercial,12600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Udaipuri,Udaipuri,agricultural,2070.04,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Udaipuri,Udaipuri,residential,7000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Udaipuri,Udaipuri,commercial,22300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Kasan,Kasan,agricultural,2790.08,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Kasan,Kasan,residential,19200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Kasan,Kasan,commercial,27900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Kukrola,2Acre NH48,agricultural,3750.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Kukrola,KUKROLA,agricultural,2850.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Kukrola,KUKROLA,residential,10900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Kukrola,KUKROLA,commercial,33300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Khedki Daula,2Acre NH48,agricultural,13125.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Khedki Daula,2Acre NH48,agricultural,21875.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Khedki Daula,Agri Pub utility open spc,agricultural,8625.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Khedki Daula,Kherki Daula,agricultural,14318.18,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Khedki Daula,Kherki Daula,agricultural,34700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Khedki Daula,Kherki Daula,residential,35700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Khedki Daula,Kherki Daula,commercial,58100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Khedki Daula,R Zone 2AcreNH48,agricultural,21875.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Khedki Daula,R Zone 2AcreNH48,residential,26700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Khedki Daula,R Zone comm ind inst,agricultural,19389.26,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Khoh,Khoh,agricultural,3750.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Khoh,Khoh,residential,21800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Khoh,Khoh,commercial,37900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Gwaliar,1 Acre depth from link road,agricultural,4462.6,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Gwaliar,1 Acre depth from NH8,agricultural,4462.6,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Gwaliar,Gwaliar,agricultural,4462.6,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Gwaliar,Gwaliar,residential,13700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Gwaliar,Gwaliar,commercial,22400,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Chandla Dungarwas,Chandla Dungarwas,agricultural,2340.08,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Chandla Dungarwas,Chandla Dungarwas,residential,9800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Chandla Dungarwas,Chandla Dungarwas,commercial,14000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Dinokri,Dinokri,agricultural,1860.12,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Dinokri,Dinokri,residential,5000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Dinokri,Dinokri,commercial,13400,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Nakhrola,1 Acre depth from link road,agricultural,14375.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Nakhrola,1 Acre depth from NH8,agricultural,14375.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Nakhrola,2Acre NH48,agricultural,15681.82,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Nakhrola,Nakhrola,agricultural,11376.45,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Nakhrola,Nakhrola,residential,24100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Nakhrola,Nakhrola,commercial,41800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Nakhrola,R Zone 2AcreNH48,agricultural,14375.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Nakhrola,R Zone comm ind inst,agricultural,10781.4,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Nawada Fatehpur,1 Acre depth from link road,agricultural,9559.5,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Nawada Fatehpur,Nawada Fatehpur,agricultural,11376.45,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Nawada Fatehpur,Nawada Fatehpur,residential,24100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Nawada Fatehpur,Nawada Fatehpur,commercial,52200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Nawada Fatehpur,R Zone comm ind inst,agricultural,12578.31,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Nawada Fatehpur,R Zone comm ind inst,residential,21200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Naharpur Kasan,1 Acre depth from link road,agricultural,7187.6,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Naharpur Kasan,Naharpur Kasan,agricultural,4887.6,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Naharpur Kasan,Naharpur Kasan,residential,20900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Naharpur Kasan,Naharpur Kasan,commercial,41800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Noorpur Bhora,Noorpur Bhora,agricultural,2242.56,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Noorpur Bhora,Noorpur Bhora,residential,6300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Noorpur Bhora,Noorpur Bhora,commercial,15400,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Nainwal,Nainwal,agricultural,2757.73,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Nainwal,Nainwal,residential,10100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Nainwal,Nainwal,commercial,20900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Nurangpur,1 Acre depth from link road,agricultural,12923.14,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Nurangpur,INDUSTRIAL LAND 2.5,commercial,19406.4,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Nurangpur,INDUSTRIAL LAND 2.5,industrial,19406.4,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Nurangpur,Nurangpur,agricultural,10948.76,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Nurangpur,Nurangpur,agricultural,10977.27,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Nurangpur,Nurangpur,residential,15200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Nurangpur,Nurangpur,commercial,49000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Nurangpur,R Zone comm ind inst,agricultural,13584.5,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Pathredi,1 Acre depth from link road,agricultural,4025.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Pathredi,INDUSTRIAL,commercial,29500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Pathredi,Pathreri,agricultural,3567.77,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Pathredi,Pathreri,residential,20100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Pathredi,Pathreri,commercial,25100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Pathredi,residential plot,residential,18700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Parasoli,1 Acre depth from link road,agricultural,3521.9,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Parasoli,Parasoli,agricultural,3018.8,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Parasoli,Parasoli,residential,6300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Parasoli,Parasoli,commercial,14000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Fazalwas,2Acre Major Road,agricultural,3593.8,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Fazalwas,2Acre Major Road,agricultural,3593.8,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Fazalwas,2Acre Major Road,residential,10600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Fazalwas,2Acre NH48,agricultural,4673.55,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Fazalwas,Fazalwas,agricultural,3125.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Fazalwas,Fazalwas,residential,10600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Fazalwas,Fazalwas,commercial,30900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Badha,Badha,agricultural,9371.9,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Badha,Badha,residential,25100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Badha,Badha,commercial,58300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Badha,R Zone comm ind inst,agricultural,11718.8,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Badha,R Zone comm ind inst,residential,22700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Baghanki,1 Acre depth from link road,agricultural,4101.65,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Baghanki,Baghanki,agricultural,3579.55,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Baghanki,Baghanki,residential,7650,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Baghanki,Baghanki,commercial,14000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Bar Gujar,1 Acre depth from link road,agricultural,1950.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Bar Gujar,Bar Gujar,agricultural,1950.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Bar Gujar,Bar Gujar,residential,6300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Bar Gujar,Bar Gujar,commercial,12800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Binola,2Acre NH48,agricultural,4062.6,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Binola,Binola,agricultural,3681.82,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Binola,Binola,residential,9800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Binola,Binola,commercial,14000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Binola,Binola,industrial,14000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Binola,PRIME KHASRA,agricultural,4062.6,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Bilaspur,2Acre NH48,agricultural,4312.6,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Bilaspur,Bilaspur,agricultural,3575.62,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Bilaspur,Bilaspur,residential,12200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Bilaspur,Bilaspur,commercial,49100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Bilaspur,prime no,agricultural,4312.6,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Bhudka,1 Acre depth from link road,agricultural,2515.7,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Bhudka,2Acre Major Road,agricultural,2616.32,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Bhudka,Bhudka,agricultural,2446.49,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Bhudka,Bhudka,residential,5000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Bhudka,Bhudka,commercial,18100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Bhokarka,Bhokarka,agricultural,2262.19,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Bhokarka,Bhokarka,residential,5000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Bhokarka,Bhokarka,commercial,12800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Bhora khurd,2Acre NH48,agricultural,2156.26,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Bhora khurd,Bhora khurd,agricultural,1967.36,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Bhora khurd,Bhora khurd,residential,5000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Bhora khurd,Bhora khurd,commercial,12800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Manesar,1 Acre depth from NH8,agricultural,18125.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Manesar,2Acre NH48,agricultural,16406.4,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Manesar,Manesar,agricultural,14914.88,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Manesar,Manesar,residential,34100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Manesar,Manesar,commercial,75700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Manesar,Manesar,institutional,30300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Rathiwas,1 Acre depth from NH8,agricultural,4779.75,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Rathiwas,2Acre NH48,agricultural,4780.37,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Rathiwas,Rathiwas,agricultural,4116.53,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Rathiwas,Rathiwas,residential,9100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Rathiwas,Rathiwas,commercial,25100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Langra,Langra,agricultural,2164.26,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Langra,Langra,residential,8000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Langra,Langra,commercial,15200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Shikohpur,2Acre NH48,agricultural,18400.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Shikohpur,R Zone 2AcreNH48,agricultural,18400.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Shikohpur,R Zone 2AcreNH48,residential,23600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Shikohpur,R Zone comm ind inst,agricultural,16351.65,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Shikohpur,SHIKOHPUR,agricultural,9280.79,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Shikohpur,SHIKOHPUR,residential,28600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Shikohpur,SHIKOHPUR,commercial,52200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Sehrawan,2Acre NH48,agricultural,2948.14,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Sehrawan,Sehrawan,agricultural,2357.5,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Sehrawan,Sehrawan,residential,9100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Sehrawan,Sehrawan,commercial,25100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Sikandarpur Badha,1 Acre depth from link road,agricultural,14231.4,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Sikandarpur Badha,R Zone comm ind inst,agricultural,14231.4,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Sikandarpur Badha,Sikandarpur Badha,agricultural,11975.21,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Sikandarpur Badha,Sikandarpur Badha,residential,36600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Sikandarpur Badha,Sikandarpur Badha,commercial,73100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Sidhrawali,1 Acre depth from link road,agricultural,4168.8,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Sidhrawali,1 Acre depth from NH8,agricultural,4168.8,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Sidhrawali,2Acre NH48,agricultural,4168.8,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Sidhrawali,SIDHRAWALI,agricultural,3410.95,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Sidhrawali,SIDHRAWALI,residential,18100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Sidhrawali,SIDHRAWALI,commercial,22900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Sihi,R Zone comm ind inst,agricultural,15093.8,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Sihi,Sihi,agricultural,11975.21,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Sihi,Sihi,residential,26200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Manesar,Sihi,Sihi,commercial,76400,2026-04-01,gurugram_gov_in_dc_notification

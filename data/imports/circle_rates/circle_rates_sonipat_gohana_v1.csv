@@ -1,0 +1,535 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Sonipat,Gohana,AhmadpurMajra,चाही/नहरी/बरानी,agricultural,454.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,AhmadpurMajra,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,568.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,AhmadpurMajra,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,AhmadpurMajra,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,4000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,AhmadpurMajra,सड़क पर 3 से 5 एकड़ तक,agricultural,545.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Aavli,चाही/नहरी/बरानी,agricultural,472.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Aavli,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,597.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Aavli,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Aavli,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,4000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Aavli,सड़क पर 3 से 5 एकड़ तक,agricultural,522.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Ahulana,Ex.H. दिल्ली कटड़ा सड़क पर 2 एकड़ तक,agricultural,1022.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Ahulana,चाही/नहरी/बरानी,agricultural,647.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Ahulana,चाही/नहरी/बरानी,agricultural,809.66,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Ahulana,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,847.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Ahulana,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Ahulana,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,5000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Ahulana,सड़क पर 3 से 5 एकड़ तक,agricultural,772.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,IshapurKhedi,Ex.H. दिल्ली कटड़ा सड़क पर 2 एकड़ तक,agricultural,727.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,IshapurKhedi,चाही/नहरी/बरानी,agricultural,568.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,IshapurKhedi,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,590.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,IshapurKhedi,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,IshapurKhedi,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,8300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,IshapurKhedi,सड़क पर 3 से 5 एकड़ तक,agricultural,568.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Katwal,चाही/नहरी/बरानी,agricultural,522.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Katwal,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,572.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Katwal,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Katwal,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,4000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Kathura,सड़क पर 3 से 5 एकड़ तक,agricultural,547.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Kathura,चाही/नहरी/बरानी,agricultural,522.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Kathura,चाही/नहरी/बरानी,agricultural,601.14,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Kathura,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,579.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Kathura,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Kathura,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,4000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Kathura,सड़क पर 3 से 5 एकड़ तक,agricultural,556.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Kohalpa,चाही/नहरी/बरानी,agricultural,409.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Kohalpa,चाही/नहरी/बरानी,agricultural,470.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Kohalpa,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,522.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Kohalpa,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Kohalpa,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,4000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Kohalpa,सड़क पर 3 से 5 एकड़ तक,agricultural,500.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,KailanaTalkaMahmadpur,चाही/नहरी/बरानी,agricultural,636.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,KailanaTalkaMahmadpur,चाही/नहरी/बरानी,agricultural,864.88,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,KailanaTalkaMahmadpur,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,909.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,KailanaTalkaMahmadpur,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,KailanaTalkaMahmadpur,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,4000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,KailanaTalkaMahmadpur,सड़क पर 3 से 5 एकड़ तक,agricultural,886.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Kohla,चाही/नहरी/बरानी,agricultural,431.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Kohla,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,590.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Kohla,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Kohla,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,4000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Kohla,सड़क पर 3 से 5 एकड़ तक,agricultural,545.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Khandrai,चाही/नहरी/बरानी,agricultural,1011.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Khandrai,चाही/नहरी/बरानी,agricultural,1850.34,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Khandrai,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,1500.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Khandrai,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,2625.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Khandrai,लालडोरे के अन्दर/बाहर/सड़क पर,agricultural,988.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Khandrai,लालडोरे के अन्दर/बाहर/सड़क पर,residential,4700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Khandrai,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,10500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Khandrai,सड़क पर 3 से 5 एकड़ तक,agricultural,1363.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,KhanpurKhurd,Ex. H. दिल्ली कटड़ा सड़क पर 2 एकड़ तक,agricultural,795.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,KhanpurKhurd,चाही/नहरी/बरानी,agricultural,522.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,KhanpurKhurd,चाही/नहरी/बरानी,agricultural,601.14,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,KhanpurKhurd,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,613.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,KhanpurKhurd,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,KhanpurKhurd,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,4000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,KhanpurKhurd,सड़क पर 3 से 5 एकड़ तक,agricultural,568.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,KhediDamkan,चाही/नहरी/बरानी,agricultural,727.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,KhediDamkan,चाही/नहरी/बरानी,agricultural,1272.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,KhediDamkan,चाही/नहरी/बरानी,agricultural,840.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,KhediDamkan,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,840.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,KhediDamkan,राष्ट्रीय राजमार्ग 2 एकड़ तक,agricultural,954.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,KhediDamkan,राष्ट्रीय राजमार्ग 3 से 5 एकड़ तक,agricultural,1022.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,KhediDamkan,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,KhediDamkan,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,8300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gagana,सड़क पर 3 से 5 एकड़ तक,agricultural,818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gagana,चाही/नहरी/बरानी,agricultural,454.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gagana,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,579.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gagana,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,840.34,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gagana,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gagana,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,4000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gangeshwar,सड़क पर 3 से 5 एकड़ तक,agricultural,545.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gangeshwar,चाही/नहरी/बरानी,agricultural,454.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gangeshwar,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,568.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gangeshwar,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gangeshwar,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,4000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,GadiUjaleKha,चाही/नहरी/बरानी,agricultural,1818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,GadiUjaleKha,चाही/नहरी/बरानी,agricultural,2386.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,GadiUjaleKha,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,2090.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,GadiUjaleKha,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,3460.23,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,GadiUjaleKha,राष्ट्रीय राजमार्ग 2 एकड़ तक,agricultural,2500.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,GadiUjaleKha,राष्ट्रीय राजमार्ग 3 से 5 एकड़ तक,agricultural,2500.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,GadiUjaleKha,लालडोरे के अन्दर/बाहर/सड़क पर,residential,5060,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,GadiUjaleKha,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,8800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,GadiUjaleKha,सड़क पर 3 से 5 एकड़ तक,agricultural,2386.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,GarhiSarai,चाही/नहरी/बरानी,agricultural,2745.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,GarhiSarai,चाही/नहरी/बरानी,agricultural,2242.38,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,GarhiSarai,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,2397.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,GarhiSarai,राष्ट्रीय राजमार्ग 2 एकड़ तक,agricultural,2454.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,GarhiSarai,राष्ट्रीय राजमार्ग 3 से 5 एकड़ तक,agricultural,2318.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,GarhiSarai,लालडोरे के अन्दर/बाहर/सड़क पर,residential,4700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,GarhiSarai,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,9300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,GarhiSarai,सड़क पर 3 से 5 एकड़ तक,agricultural,2318.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,Ex.H. दिल्ली कटड़ा सड़क पर 2 एकड़ तक,agricultural,722.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,चाही/नहरी/बरानी,agricultural,472.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,597.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,4000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,सड़क पर 3 से 5 एकड़ तक,agricultural,522.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gudha,चाही/नहरी/बरानी,agricultural,2745.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gudha,चाही/नहरी/बरानी,agricultural,2339.88,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gudha,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,2454.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gudha,राष्ट्रीय राजमार्ग 3 से 5 एकड़ तक,agricultural,2397.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gudha,लालडोरे के अन्दर/बाहर/सड़क पर,residential,6125,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gudha,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,13485,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gudha,सड़क पर 3 से 5 एकड़ तक,agricultural,2295.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,1- 100 फुट से ज्यादा,residential,9400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,10- 100 फुट से ज्यादा,residential,5405,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,10' सड़क से 100 फुट अधिक,residential,10500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,10' सड़क से 100 फुट तक,commercial,16000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,10' सड़क से 100 फुट तक,commercial,15000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,11- 100 फुट से ज्यादा,residential,6100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,11- सड़क से 100 फुट तक,commercial,16000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,12- 100 फुट से ज्यादा,residential,8000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,12- सड़क से 100 फुट तक,commercial,47000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,13- सड़क से 100 फुट तक,commercial,26500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,13- 100 फुट से ज्यादा,commercial,6100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,13- 100 फुट से ज्यादा,residential,4700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,14- 100 फुट से ज्यादा,commercial,12100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,14- सड़क से 100 फुट तक,residential,5875,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,15- 100 फुट से ज्यादा,commercial,23700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,15- सड़क से 100 फुट तक,residential,6375,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,16- 100 फुट से ज्यादा,commercial,17300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,16- सड़क से 100 फुट तक,residential,8000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,16ए सड़क से 100 फुट अधिक,residential,7875,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,17- 100 फुट से ज्यादा,commercial,22490,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,17- सड़क से 100 फुट तक,residential,12250,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,18- 100 फुट से ज्यादा,commercial,32240,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,18- सड़क से 100 फुट तक,residential,19800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,19- 100 फुट से ज्यादा,commercial,36200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,19- सड़क से 100 फुट तक,residential,32000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,1- सड़क से 100 फुट तक,commercial,6625,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,2- 100 फुट से ज्यादा,residential,28750,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,2- सड़क से 100 फुट तक,commercial,10005,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,20- सड़क से 100 फुट तक,commercial,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,21- 100 फुट से ज्यादा,residential,6000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,21- 100 फुट से ज्यादा,commercial,23600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,21- सड़क से 100 फुट तक,residential,5300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,22- 100 फुट से ज्यादा,residential,34100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,22- सड़क से 100 फुट तक,commercial,13200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,23- 100 फुट से ज्यादा,residential,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,23ए सड़क से 100 फुट अधिक,residential,34100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,23- सड़क से 100 फुट तक,commercial,34100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,24- 100 फुट से ज्यादा,residential,5900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,24- सड़क से 100 फुट तक,commercial,34100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,25- 50 मी० से ज्यादा,residential,6370,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,25- सड़क से 100 फुट तक,commercial,14700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,26- 100 फुट से ज्यादा,residential,5800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,26- सड़क से 100 फुट तक,commercial,23900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,27- 100 फुट से ज्यादा,residential,11600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,27- सड़क से 100 फुट तक,commercial,52800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,28- 100 फुट से ज्यादा,residential,12500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,28- सड़क से 100 फुट तक,commercial,50375,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,29- 100 फुट से ज्यादा,residential,5100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,29- सड़क से 100 फुट तक,residential,5100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,29- सड़क से 100 फुट तक,commercial,12000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,29ए सड़क से 100 फुट तक,commercial,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,29ए सड़क से 100 फुट से अधिक दूर,residential,4700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,3- 100 फुट से ज्यादा,residential,5700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,3- सड़क से 100 फुट तक,commercial,21500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,3- सड़क से 100 फुट तक,residential,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,30- 100 फुट से ज्यादा,residential,13200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,30- 100 फुट से ज्यादा,commercial,61100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,30- सड़क से 100 फुट तक,commercial,12500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,31- सड़क से 100 फुट तक,commercial,43700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,31- सड़क से 100 फुट तक,residential,19800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,31ए सड़क से 100 फुट अधिक,residential,13200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,32- 100 फुट से ज्यादा,residential,55200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,32- सड़क से 100 फुट तक,commercial,14750,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,33- 100 फुट से ज्यादा,residential,36900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,33- सड़क से 100 फुट तक,commercial,7800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,34- 100 फुट से ज्यादा,residential,19300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,34- सड़क से 100 फुट तक,commercial,8600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,35- 100 फुट से ज्यादा,residential,30600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,35- सड़क से 100 फुट तक,commercial,5800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,36- 100 फुट से ज्यादा,residential,6670,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,36- सड़क से 100 फुट तक,commercial,21315,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,36- सड़क से 100 फुट तक,residential,5060,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,37- 100 फुट से ज्यादा,commercial,14750,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,37- सड़क से 100 फुट तक,commercial,16200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,38- 100 फुट तक,commercial,8800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,38- 100 फुट से ज्यादा,residential,25900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,39- सड़क से 100 फुट तक,residential,9545,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,39- सड़क से 100 फुट से ज्यादा,residential,5300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,39- सड़क से 100 फुट अधिक,commercial,26400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,4- 100 फुट से ज्यादा,commercial,5300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,4- सड़क से 100 फुट तक,commercial,7700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,40- सड़क से 100 फुट तक,residential,24200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,40- सड़क से 100 फुट से ज्यादा,residential,10625,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,41- सड़क से 100 फुट तक,commercial,34800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,41- सड़क से 100 फुट से ज्यादा,residential,11600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,42- सड़क से 100 फुट तक,commercial,55545,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,42- सड़क से 100 फुट से ज्यादा,residential,11900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,43- सड़क से 100 फुट तक,commercial,69120,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,43- सड़क से 100 फुट से ज्यादा,residential,15375,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,44- सड़क से 100 फुट तक,commercial,48400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,45- सड़क से 100 फुट से ज्यादा,residential,37000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,45- सड़क से 100 फुट से ज्यादा,commercial,42500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,46- सड़क से 100 फुट तक,commercial,5300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,47- सड़क से 100 फुट से ज्यादा,residential,12125,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,48- सड़क से 100 फुट तक,residential,5875,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,48- सड़क से 100 फुट से ज्यादा,residential,10800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,49- सड़क से 100 फुट तक,commercial,35190,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,49- सड़क से 100 फुट तक,residential,10800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,5- 100 फुट से ज्यादा,residential,8000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,5- सड़क से 100 फुट तक,residential,10700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,5- सड़क से 100 फुट से ज्यादा,commercial,61525,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,50- सड़क से 100 फुट तक,residential,5300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,50- सड़क से 100 फुट तक,commercial,10695,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,50- सड़क से 100 फुट से ज्यादा,residential,22600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,51- सड़क से 100 फुट तक,residential,5100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,51- सड़क से 100 फुट से ज्यादा,residential,6375,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,51- सड़क से 100 फुट से ज्यादा,commercial,16905,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,52- सड़क से 100 फुट तक,residential,5300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,52- सड़क से 100 फुट से ज्यादा,residential,5300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,52- सड़क से 100 फुट से ज्यादा,commercial,11100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,53- सड़क से 100 फुट तक,residential,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,53- सड़क से 100 फुट से ज्यादा,residential,6875,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,53- सड़क से 100 फुट से ज्यादा,commercial,10600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,54- सड़क से 100 फुट तक,residential,10600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,54- सड़क से 100 फुट से ज्यादा,residential,4800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,55- सड़क से 100 फुट तक,commercial,13200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,55- सड़क से 100 फुट से ज्यादा,residential,4900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,6- 100 फुट से ज्यादा,residential,8800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,6- सड़क से 100 फुट तक,commercial,26400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,7- 100 फुट से ज्यादा,residential,9000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,7- सड़क से 100 फुट तक,commercial,25125,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,8- सड़क से 100 फुट तक,commercial,17500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,8- 100 फुट से ज्यादा,residential,4700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,9- 100 फुट से ज्यादा,residential,16000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,9- सड़क से 100 फुट तक,commercial,60000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,अन्दर 3 से 5 एकड़ तक,agricultural,2295.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,न० के अन्दर रिहायशी,residential,4700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,न० के अन्दर हर किस्म की भूमि,agricultural,1731.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,न० के अन्दर हर किस्म की भूमि,agricultural,2264.2,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,न० के बाहर 3 से 5 एकड़ तक,agricultural,2336.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,न० के बाहर सड़क पर 2 एकड़ तक,agricultural,2477.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,न० के बाहर हर किस्म की भूमि,agricultural,1647.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,न० के बाहर हर किस्म की भूमि,agricultural,1894.89,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,न० अन्दर कमर्शियल,commercial,9500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,नगरपालिका के अन्दर 2 एकड़ तक,agricultural,2420.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Ghadwal,चाही/नहरी/बरानी,agricultural,454.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Ghadwal,चाही/नहरी/बरानी,agricultural,579.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Ghadwal,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,790.29,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Ghadwal,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Ghadwal,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,4000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Chhatehara,सड़क पर 3 से 5 एकड़ तक,agricultural,556.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Chhatehara,चाही/नहरी/बरानी,agricultural,454.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Chhatehara,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,590.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Chhatehara,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Chhatehara,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,4000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Chhapra,सड़क पर 3 से 5 एकड़ तक,agricultural,545.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Chhapra,चाही/नहरी/बरानी,agricultural,409.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Chhapra,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,545.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Chhapra,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Chhapra,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,4000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Chhapra,सड़क पर 3 से 5 एकड़ तक,agricultural,500.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Chhidana,चाही/नहरी/बरानी,agricultural,454.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Chhidana,चाही/नहरी/बरानी,agricultural,450.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Chhidana,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,636.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Chhidana,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Chhidana,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,4000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Chhidana,सड़क पर 3 से 5 एकड़ तक,agricultural,613.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Jasarana,चाही/नहरी/बरानी,agricultural,447.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Jasarana,चाही/नहरी/बरानी,agricultural,538.29,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Jasarana,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,597.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Jasarana,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Jasarana,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,4000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Jasarana,सड़क पर 3 से 5 एकड़ तक,agricultural,522.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Jagsi,चाही/नहरी/बरानी,agricultural,795.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Jagsi,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,522.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Jagsi,लालडोरे के अन्दर/बाहर/सड़क पर,residential,4400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Jagsi,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,3900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Jagsi,सड़क पर 3 से 5 एकड़ तक,agricultural,545.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Joli,चाही/नहरी/बरानी,agricultural,795.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Joli,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,840.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Joli,राष्ट्रीय राजमार्ग 2 एकड़ तक,agricultural,879.13,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Joli,राष्ट्रीय राजमार्ग 3 से 5 एकड़ तक,agricultural,886.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Joli,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3795,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Joli,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,8300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Joli,सड़क पर 3 से 5 एकड़ तक,agricultural,840.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Joti,Ex.H. दिल्ली कटड़ा सड़क पर 2 एकड़ तक,agricultural,1022.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Joti,चाही/नहरी/बरानी,agricultural,622.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Joti,चाही/नहरी/बरानी,agricultural,778.41,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Thaska,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,847.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Thaska,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Thaska,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,4000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Thaska,सड़क पर 3 से 5 एकड़ तक,agricultural,772.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,TiharMalik,चाही/नहरी/बरानी,agricultural,772.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,TiharMalik,चाही/नहरी/बरानी,agricultural,712.81,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,TiharMalik,चाही/नहरी/बरानी,agricultural,1128.1,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,TiharMalik,चाही/नहरी/बरानी,agricultural,644.63,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,TiharMalik,चाही/नहरी/बरानी,agricultural,1247.42,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,TiharMalik,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,795.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,TiharMalik,राज्यराजमार्ग 2 एकड़ तक,agricultural,917.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,TiharMalik,राज्यराजमार्ग 2 एकड़ तक,agricultural,1146.69,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,TiharMalik,राष्ट्रीय राजमार्ग 2 एकड़ तक,agricultural,872.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,TiharMalik,राष्ट्रीय राजमार्ग 3 से 5 एकड़ तक,agricultural,847.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,TiharMalik,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,TiharMalik,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,8300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,TiharMalik,सड़क पर 3 से 5 एकड़ तक,agricultural,772.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,DayanandAladpur,चाही/नहरी/बरानी,agricultural,431.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,DayanandAladpur,चाही/नहरी/बरानी,agricultural,545.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,DayanandAladpur,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,545.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,DayanandAladpur,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,DayanandAladpur,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,4400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,DayanandAladpur,सड़क पर 3 से 5 एकड़ तक,agricultural,500.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Nagar,चाही/नहरी/बरानी,agricultural,3332.23,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Nagar,चाही/नहरी/बरानी,agricultural,1636.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Nagar,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,2397.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Nagar,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,2615.7,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Nagar,लालडोरे के अन्दर/बाहर/सड़क पर,residential,4700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Nagar,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,9300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Nagar,सड़क पर 3 से 5 एकड़ तक,agricultural,2318.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Nizampur,चाही/नहरी/बरानी,agricultural,431.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Nizampur,चाही/नहरी/बरानी,agricultural,539.77,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Nizampur,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,590.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Nizampur,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Nizampur,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,4400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Nizampur,लिंक रोड के साथ लगता,agricultural,568.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Nizampur,सड़क पर 3 से 5 एकड़ तक,agricultural,545.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Nurkheda,Ex.H. दिल्ली कटड़ा सड़क पर 2 एकड़ तक,agricultural,727.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Nurkheda,चाही/नहरी/बरानी,agricultural,568.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Nurkheda,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,590.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Nurkheda,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Nurkheda,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,8800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Nurkheda,सड़क पर 3 से 5 एकड़ तक,agricultural,568.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Noorankheda,चाही/नहरी/बरानी,agricultural,545.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Noorankheda,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,590.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Noorankheda,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3795,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Noorankheda,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,4400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Noorankheda,सड़क पर 3 से 5 एकड़ तक,agricultural,590.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Noorankheda,सड़क पर 3 से 5 एकड़ तक,agricultural,525.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Puthi,Ex.H. दिल्ली कटड़ा सड़क पर 2 एकड़ तक,agricultural,1068.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Puthi,चाही/नहरी/बरानी,agricultural,568.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Puthi,चाही/नहरी/बरानी,agricultural,710.23,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Puthi,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,597.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Puthi,राष्ट्रीय राजमार्ग 3 से 5 एकड़ तक,agricultural,1045.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Puthi,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Puthi,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,4200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Puthi,सड़क पर 3 से 5 एकड़ तक,agricultural,572.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Badala,चाही/नहरी/बरानी,agricultural,1011.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Badala,चाही/नहरी/बरानी,agricultural,1533.14,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Badala,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,1500.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Badala,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,2045.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Badala,राष्ट्रीय राजमार्ग 2 एकड़ तक,agricultural,1636.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Badala,राष्ट्रीय राजमार्ग 3 से 5 एकड़ तक,agricultural,1590.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Badala,लालडोरे के अन्दर/बाहर/सड़क पर,residential,4400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Badala,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,9300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Badala,सड़क पर 3 से 5 एकड़ तक,agricultural,1363.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Banbasa,चाही/नहरी/बरानी,agricultural,409.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Banbasa,चाही/नहरी/बरानी,agricultural,427.69,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Banbasa,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,545.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Banbasa,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Banbasa,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,4000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Banbasa,सड़क पर 3 से 5 एकड़ तक,agricultural,500.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,BarodaThuan,Ex.H. दिल्ली कटड़ा सड़क पर 2 एकड़ तक,agricultural,772.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,BarodaThuan,चाही/नहरी/बरानी,agricultural,500.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,BarodaThuan,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,625.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,BarodaThuan,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,BarodaThuan,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,4000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,BarodaThuan,सड़क पर 3 से 5 एकड़ तक,agricultural,556.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,BarodaMor,Ex.H. दिल्ली कटड़ा सड़क पर 2 एकड़ तक,agricultural,727.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,BarodaMor,चाही/नहरी/बरानी,agricultural,500.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,BarodaMor,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,579.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,BarodaMor,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,666.48,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,BarodaMor,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,BarodaMor,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,4000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,BarodaMor,सड़क पर 3 से 5 एकड़ तक,agricultural,556.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,BaliBrahmanan,चाही/नहरी/बरानी,agricultural,572.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,BaliBrahmanan,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,622.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,BaliBrahmanan,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,BaliBrahmanan,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,4000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,BaliBrahmanan,सड़क पर 3 से 5 एकड़ तक,agricultural,597.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Bichpari,चाही/नहरी/बरानी,agricultural,500.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Bichpari,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,659.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Bichpari,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Bichpari,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,8300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Bichpari,सड़क पर 3 से 5 एकड़ तक,agricultural,636.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Bidhal,चाही/नहरी/बरानी,agricultural,659.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Bidhal,चाही/नहरी/बरानी,agricultural,757.95,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Bidhal,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,820.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Bidhal,राष्ट्रीय राजमार्ग 2 एकड़ तक,agricultural,872.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Bidhal,राष्ट्रीय राजमार्ग 3 से 5 एकड़ तक,agricultural,847.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Bidhal,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Bidhal,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,8300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Bidhal,सड़क पर 3 से 5 एकड़ तक,agricultural,795.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Bilbilan,चाही/नहरी/बरानी,agricultural,472.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Bilbilan,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,572.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Bilbilan,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Bilbilan,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,4000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Bilbilan,सड़क पर 3 से 5 एकड़ तक,agricultural,547.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,ButanaKundu,चाही/नहरी/बरानी,agricultural,590.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,ButanaKundu,चाही/नहरी/बरानी,agricultural,679.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,ButanaKundu,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,661.16,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,ButanaKundu,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,ButanaKundu,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,8300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,ButanaKundu,सड़क पर 3 से 5 एकड़ तक,agricultural,568.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,ButanaKhetlan,Ex.H. दिल्ली कटड़ा सड़क पर 2 एकड़ तक,agricultural,727.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,ButanaKhetlan,चाही/नहरी/बरानी,agricultural,590.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,ButanaKhetlan,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,661.16,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,ButanaKhetlan,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,ButanaKhetlan,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,8300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Mandri,सड़क पर 3 से 5 एकड़ तक,agricultural,599.17,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Mandri,चाही/नहरी/बरानी,agricultural,500.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Mandri,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,622.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Mandri,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Mandri,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,4000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Antri,सड़क पर 3 से 5 एकड़ तक,agricultural,597.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Antri,चाही/नहरी/बरानी,agricultural,454.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Bhawad,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,568.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Bhawad,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Bhawad,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,4000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Bhawad,सड़क पर 3 से 5 एकड़ तक,agricultural,556.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Bhawad,चाही/नहरी/बरानी,agricultural,556.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,BhaiswanKhurd,Ex.H. दिल्ली कटड़ा सड़क पर 2 एकड़ तक,agricultural,1045.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,BhaiswanKhurd,चाही/नहरी/बरानी,agricultural,704.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,BhaiswanKhurd,चाही/नहरी/बरानी,agricultural,736.57,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,BhaiswanKhurd,चाही/नहरी/बरानी,agricultural,818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,BhaiswanKhurd,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,BhaiswanKhurd,राष्ट्रीय राजमार्ग 3 से 5 एकड़ तक,agricultural,1045.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,BhaiswanKhurd,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,BhaiswanKhurd,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,8800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,BhaiswanKhurd,सड़क पर 3 से 5 एकड़ तक,agricultural,772.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,BhaiswanKalanBawla,चाही/नहरी/बरानी,agricultural,447.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,BhaiswanKalanBawla,चाही/नहरी/बरानी,agricultural,538.29,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,BhaiswanKalanBawla,चाही/नहरी/बरानी,agricultural,572.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,BhaiswanKalanBawla,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,572.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,BhaiswanKalanBawla,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,715.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,BhaiswanKalanBawla,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,BhaiswanKalanBawla,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,4000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,BhaiswanKalanBawla,सड़क पर 3 से 5 एकड़ तक,agricultural,547.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,BhaiswalKalanMalan,चाही/नहरी/बरानी,agricultural,447.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,BhaiswalKalanMalan,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,572.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,BhaiswalKalanMalan,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,BhaiswalKalanMalan,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,4000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,BhaiswalKalanMalan,सड़क पर 3 से 5 एकड़ तक,agricultural,547.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Madina,Ex.H. दिल्ली कटड़ा सड़क पर 2 एकड़ तक,agricultural,772.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Madina,चाही/नहरी/बरानी,agricultural,500.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Madina,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,672.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Madina,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Madina,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,4000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Madina,सड़क पर 3 से 5 एकड़ तक,agricultural,597.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Mahmudpur,चाही/नहरी/बरानी,agricultural,636.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Mahmudpur,चाही/नहरी/बरानी,agricultural,731.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Mahmudpur,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,950.41,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Mahmudpur,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Mahmudpur,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,4000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Mahmudpur,सड़क पर 3 से 5 एकड़ तक,agricultural,909.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Matand,चाही/नहरी/बरानी,agricultural,454.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Matand,चाही/नहरी/बरानी,agricultural,522.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Matand,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,590.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Matand,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Matand,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,4000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Matand,सड़क पर 3 से 5 एकड़ तक,agricultural,545.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Mahra,चाही/नहरी/बरानी,agricultural,704.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Mahra,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,795.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Mahra,राष्ट्रीय राजमार्ग 2 एकड़ तक,agricultural,1045.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Mahra,राष्ट्रीय राजमार्ग 3 से 5 एकड़ तक,agricultural,795.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Mahra,लालडोरे के अन्दर/बाहर/सड़क पर,residential,4200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Mahra,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,8400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Mahra,सड़क पर 3 से 5 एकड़ तक,agricultural,772.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,MirzapurKheri,चाही/नहरी/बरानी,agricultural,500.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,MirzapurKheri,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,625.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,MirzapurKheri,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,MirzapurKheri,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,4000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,MirzapurKheri,सड़क पर 3 से 5 एकड़ तक,agricultural,602.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Mohadda,Ex.H. दिल्ली कटड़ा सड़क पर 2 एकड़ तक,agricultural,722.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Mohadda,चाही/नहरी/बरानी,agricultural,572.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Mohadda,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,597.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Mohadda,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Mohadda,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,4200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Mohadda,सड़क पर 3 से 5 एकड़ तक,agricultural,572.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Ramda,चाही/नहरी/बरानी,agricultural,447.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Ramda,चाही/नहरी/बरानी,agricultural,559.66,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Ramda,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,622.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Ramda,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Ramda,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,4200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Ramda,सड़क पर 3 से 5 एकड़ तक,agricultural,597.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,RanaKheri,चाही/नहरी/बरानी,agricultural,454.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,RanaKheri,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,590.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,RanaKheri,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,RanaKheri,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,4000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,RanaKheri,सड़क पर 3 से 5 एकड़ तक,agricultural,568.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Rindhana,चाही/नहरी/बरानी,agricultural,386.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Rindhana,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,590.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Rindhana,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Rindhana,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,4000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Rindhana,सड़क पर 3 से 5 एकड़ तक,agricultural,545.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Riwara,चाही/नहरी/बरानी,agricultural,447.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Riwara,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,572.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Riwara,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Riwara,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,4000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Riwara,सड़क पर 3 से 5 एकड़ तक,agricultural,547.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Rukhi,Ex.H. दिल्ली कटड़ा सड़क पर 2 एकड़ तक,agricultural,1068.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Rukhi,चाही/नहरी/बरानी,agricultural,772.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Rukhi,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Rukhi,राष्ट्रीय राजमार्ग 3 से 5 एकड़ तक,agricultural,1045.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Rukhi,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Rukhi,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,8800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Lath,सड़क पर 3 से 5 एकड़ तक,agricultural,772.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Lath,चाही/नहरी/बरानी,agricultural,781.25,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Lath,चाही/नहरी/बरानी,agricultural,670.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Lath,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,953.98,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Lath,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,829.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Lath,राष्ट्रीय राजमार्ग 2 एकड़ तक,agricultural,895.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Lath,राष्ट्रीय राजमार्ग 3 से 5 एकड़ तक,agricultural,893.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Lath,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Lath,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,8800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Lath,सड़क पर 3 से 5 एकड़ तक,agricultural,818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,SikandarpurMajra,चाही/नहरी/बरानी,agricultural,447.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,SikandarpurMajra,चाही/नहरी/बरानी,agricultural,585.1,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,SikandarpurMajra,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,622.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,SikandarpurMajra,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,SikandarpurMajra,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,4000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,SikandarpurMajra,सड़क पर 3 से 5 एकड़ तक,agricultural,597.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Siwanaka,चाही/नहरी/बरानी,agricultural,454.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Siwanaka,राज्यराजमार्ग पर सड़क से 2 एकड़ तक,agricultural,590.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Siwanaka,लालडोरे के अन्दर/बाहर/सड़क पर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Siwanaka,लालडोरे के अन्दर/बाहर/सड़क पर,commercial,4000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Siwanaka,सड़क पर 3 से 5 एकड़ तक,agricultural,545.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,श्रेणी-1 निर्माण,residential,10800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,श्रेणी-2 निर्माण,residential,9000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,श्रेणी-3 निर्माण,residential,8100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Gohana,Gohana,CLU / Institutional / Industrial,industrial,7500,2026-04-01,sonipat_gov_in_dc_notification

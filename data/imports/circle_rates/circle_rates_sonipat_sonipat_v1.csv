@@ -1,0 +1,1395 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Sonipat,Sonipat,Murthal,004c - नहरी-चाही,agricultural,1226.03,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Murthal,004e - लाल डोरे के अन्दर/बाहर,residential,10120,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Murthal,004e - लाल डोरे के अन्दर/बाहर,commercial,12100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Murthal,New Sohna Warehouse Pvt. Ltd. आवासीय,residential,25300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Murthal,New Sohna Warehouse Pvt. Ltd. व्यवसायिक,commercial,44000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Murthal,अन्य पक्के मार्गों के साथ 3 एकड,agricultural,1998.24,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Murthal,आर.के. कालोनी,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Murthal,आर.के. कालोनी,commercial,28600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Murthal,इण्डस्ट्रीयल एरिया सोनीपत मुरथल व्यवसायिक मुरथल,commercial,24200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Murthal,इण्डस्ट्रीयल एरिया सोनीपत व मुरथल HSIIDC,commercial,21154.02,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Murthal,जी.टी. रोड 3 से 5 एकड तक,agricultural,4772.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Murthal,जी.टी.रोड के साथ 2 एकड तक,agricultural,5340.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Murthal,जी.टी. रोड के साथ 2 एकड तक,agricultural,5340.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Murthal,फिरनी के साथ 2 एकड तक,agricultural,1477.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Murthal,मुरथल कालोनी,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Murthal,मुरथल कालोनी,commercial,28600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,KuradIbrahimpur,जी.टी. रोड दो एकड तक,agricultural,4090.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,KuradIbrahimpur,004c - नहरी-चाही,agricultural,2431.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,KuradIbrahimpur,004e - लाल डोरे के अन्दर/बाहर,residential,9400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,KuradIbrahimpur,004e - लाल डोरे के अन्दर/बाहर,commercial,12700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,KuradIbrahimpur,अन्य पक्के मार्ग,agricultural,2954.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,KuradIbrahimpur,जी.टी. रोड 3-5 एकड तक,agricultural,3704.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,KuradIbrahimpur,फिरनी के साथ भूमि 2 एकड तक,agricultural,2522.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Hasanpur,004c - नहरी-चाही,agricultural,2431.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Hasanpur,004e - लाल डोरे के अन्दर/बाहर,residential,9900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Hasanpur,004e - लाल डोरे के अन्दर/बाहर,commercial,13200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Hasanpur,004a - जी.टी. रोड दो एकड तक,agricultural,4090.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Hasanpur,004a - जी.टी रोड दो एकड तक,agricultural,4090.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Hasanpur,अन्य पक्के मार्गो के साथ 3 ए.,agricultural,2954.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Hasanpur,जी.टी रोड 3-5 एकड तक,agricultural,3704.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Hasanpur,फिरनी के साथ भूमि 2 एकड तक,agricultural,2522.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kamaspur,004b - कच्चा रास्ता,agricultural,2727.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kamaspur,004c - नहरी-चाही,agricultural,3564.05,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kamaspur,004e - लाल डोरे के अन्दर/बाहर,residential,14080,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kamaspur,004e - लाल डोरे के अन्दर/बाहर,commercial,10500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kamaspur,004a - जी.टी रोड दो एकड तक,agricultural,7244.32,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kamaspur,GPB Trading LLP निवासिय,residential,28600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kamaspur,GPB Trading LLP व्यवसायिक,commercial,63250,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kamaspur,अन्य पक्के मार्गो के साथ 3 ए.,agricultural,4700.41,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kamaspur,जी.टी रोड 3-5 एकड तक,agricultural,5113.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kamaspur,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,2727.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kamaspur,मंशा बिल्डकॉन प्रा० लि०,residential,33000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kamaspur,मंशा बिल्डकॉन प्रा० लि०,commercial,55000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,JoshiChauhan,004c - नहरी-चाही,agricultural,3625.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,JoshiChauhan,004e - लाल डोरे के अन्दर/बाहर,residential,8300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,JoshiChauhan,004e - लाल डोरे के अन्दर/बाहर,commercial,9900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,JoshiChauhan,004a - जी.टी रोड दो एकड़ तक,agricultural,5340.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,JoshiChauhan,अन्य पक्के मार्गों के साथ 3 ए.,agricultural,6016.53,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,JoshiChauhan,जी.टी रोड 3-5 एकड़ तक,agricultural,4772.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,JoshiChauhan,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,4414.77,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kishora,004c - नहरी-चाही,agricultural,5170.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kishora,004e - लाल डोरे के अन्दर/बाहर,residential,8300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kishora,004e - लाल डोरे के अन्दर/बाहर,commercial,9900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kishora,004a - जी.टी रोड दो एकड़ तक,agricultural,5340.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kishora,अन्य पक्के मार्गो के साथ 3 ए.,agricultural,4284.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kishora,जी.टी रोड 3-5 एकड़ तक,agricultural,5965.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kishora,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,2522.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,NangalKhurd,004c - नहरी-चाही,agricultural,2500.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,NangalKhurd,004e - लाल डोरे के अन्दर/बाहर,residential,14525,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,NangalKhurd,004e - लाल डोरे के अन्दर/बाहर,commercial,9900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,NangalKhurd,अन्य पक्के मार्गो के साथ 3 ए.,agricultural,5452.48,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,NangalKhurd,जी.टी रोड 2 एकड़ तक,agricultural,5340.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,NangalKhurd,जी.टी रोड 3-5 एकड़ तक,agricultural,4772.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,NangalKhurd,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,2522.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Karauri,004b राष्ट्रीय राजमार्ग के साथ 3 से 5 एकड़ तक,agricultural,1363.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Karauri,004c - नहरी-चाही,agricultural,831.61,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Karauri,004e - लाल डोरे के अन्दर/बाहर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Karauri,004e - लाल डोरे के अन्दर/बाहर,commercial,5000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Karauri,004d/a राष्ट्रीय राजमार्ग के साथ 2 एकड़ तक,agricultural,1500.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Karauri,अन्य पक्के मार्गों के साथ 3 ए,agricultural,2082.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Karauri,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,831.61,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,BadshahpurMajri,004c - नहरी-चाही,agricultural,1369.83,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,BadshahpurMajri,004e - लाल डोरे के अन्दर/बाहर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,BadshahpurMajri,004e - लाल डोरे के अन्दर/बाहर,commercial,4950,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,BadshahpurMajri,004d/a राष्ट्रीय राजमार्ग के साथ 2 एकड़ तक,agricultural,1725.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,BadshahpurMajri,अन्य पक्के मार्गों के साथ 3 ए,agricultural,1887.4,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,BadshahpurMajri,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,1084.71,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,BadshahpurMajri,राष्ट्रीय राजमार्ग 3 से 5 एकड़ तक,agricultural,1704.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mohana,राष्ट्रीय राजमार्ग के साथ 2 एकड तक,agricultural,1727.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mohana,004c - नहरी-चाही,agricultural,1363.12,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mohana,004e - लाल डोरे के अन्दर/बाहर,residential,4625,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mohana,004e - लाल डोरे के अन्दर/बाहर,commercial,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mohana,अन्य पक्के मार्गों के साथ 3 ए.,agricultural,1653.72,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mohana,फिरनी के साथ भूमि 2 एकड तक,agricultural,993.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mohana,राष्ट्रीय राजमार्ग 3 से 5 एकड तक,agricultural,1318.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Pinana,राष्ट्रीय राजमार्ग के साथ 2 एकड तक,agricultural,1727.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Pinana,राष्ट्रीय राजमार्ग 3 से 5 एकड तक,agricultural,1318.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Pinana,004c - नहरी-चाही,agricultural,888.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Pinana,004e - लाल डोरे के अन्दर/बाहर,residential,3900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Pinana,004e - लाल डोरे के अन्दर/बाहर,commercial,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Pinana,अन्य पक्के मार्गों के साथ 3 ए.,agricultural,1544.42,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Pinana,फिरनी के साथ भूमि 2 एकड तक,agricultural,1099.17,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Badwasni,राष्ट्रीय राजमार्ग के साथ 2 एकड तक,agricultural,2386.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Badwasni,राष्ट्रीय राजमार्ग के साथ 3 से 5 एकड तक,agricultural,1931.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Badwasni,004c - नहरी-चाही,agricultural,1363.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Badwasni,004e - लाल डोरे के अन्दर/बाहर,residential,8800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Badwasni,004e - लाल डोरे के अन्दर/बाहर,commercial,12100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Badwasni,अन्य पक्के मार्गो के साथ 3 ए.,agricultural,2131.3,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Badwasni,फिरनी के साथ भूमि 2 एकड तक,agricultural,1438.02,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Badwasni,राजो कालोनी बडवासनी,residential,13200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Badwasni,राजो कालोनी बडवासनी,commercial,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,NainaTatarpur,राष्ट्रीय राजमार्ग के साथ 2 एकड तक,agricultural,1590.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,NainaTatarpur,राष्ट्रीय राजमार्ग के साथ 3 से 5 एकड तक,agricultural,1204.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,NainaTatarpur,004c - नहरी-चाही,agricultural,832.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,NainaTatarpur,004e - लाल डोरे के अन्दर/बाहर,residential,4000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,NainaTatarpur,004e - लाल डोरे के अन्दर/बाहर,commercial,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,NainaTatarpur,अन्य पक्के मार्गों के साथ 3 ए.,agricultural,1704.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,NainaTatarpur,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,795.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,KhizarpurMajra,राष्ट्रीय राजमार्ग के साथ 2 एकड़ तक,agricultural,1772.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,KhizarpurMajra,राष्ट्रीय राजमार्ग के साथ 3 से 5 एकड़ तक,agricultural,1363.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,KhizarpurMajra,004c - नहरी-चाही,agricultural,1053.72,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,KhizarpurMajra,004e - लाल डोरे के अन्दर/बाहर,residential,3600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,KhizarpurMajra,004e - लाल डोरे के अन्दर/बाहर,commercial,4700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,KhizarpurMajra,अन्य पक्के मार्गों के साथ 3 ए.,agricultural,1952.48,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,KhizarpurMajra,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,940.08,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Ratangarh,अन्य पक्के मार्गों के साथ 3 ए.,agricultural,825.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Hasamabad,004c - नहरी-चाही,agricultural,5061.98,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Hasamabad,004e - लाल डोरे के अन्दर/बाहर,residential,8300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Hasamabad,004e - लाल डोरे के अन्दर/बाहर,commercial,9900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Hasamabad,अन्य पक्के मार्गो के साथ 3 ए.,agricultural,6446.28,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Hasamabad,फिरनी के साथ भूमि 2 एकड तक,agricultural,2386.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Hasamabad,राज्य राजमार्ग 2 से 5 एकड तक,agricultural,3113.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Hasamabad,राज्य राजमार्ग के साथ 2 एकड तक,agricultural,3250.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Fazilpur,004c - नहरी-चाही,agricultural,3099.17,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Fazilpur,004e - लाल डोरे के अन्दर/बाहर,residential,12870,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Fazilpur,004e - लाल डोरे के अन्दर/बाहर,commercial,13200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Fazilpur,अन्य पक्के मार्गो के साथ 3 ए.,agricultural,4028.93,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Fazilpur,कालोनी नियर गांव आबादी फाजिलपुर,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Fazilpur,कालोनी नियर गांव आबादी फाजिलपुर,commercial,28600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Fazilpur,कालोनी नियर गांव आबादी फाजिलपुर व्यवसायिक,commercial,28600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Fazilpur,खान कालोनी निवासीय,residential,30800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Fazilpur,खान कालोनी व्यवसायिक,commercial,55000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Fazilpur,पावर हाउस से दीवान पैलेस बहाल गड रोड 100 फुट व्यवसायिक फाजिलपुर,commercial,46200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Fazilpur,फिरनी के साथ भूमि 2 एकड तक,agricultural,2386.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Fazilpur,मैमोरियल हस्पताल से ईसीई फैक्ट्री तक 100 फुट के बाद पावर हाउस तक रिहायशी फाजिलपुर,residential,30800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Fazilpur,मैमोरियल हस्पताल से ईसीई फैक्ट्री तक 100 फुट के बाद पावर हाउस तक व्यवसायिक फाजिलपुर,commercial,55000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Fazilpur,राज्य राजमार्ग 2 से 5 एकड तक,agricultural,3409.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Fazilpur,राज्य राजमार्ग के साथ 2 एकड तक,agricultural,3636.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Ahmedpur,004c - नहरी-चाही,agricultural,2136.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Ahmedpur,004e - लाल डोरे के अन्दर/बाहर,residential,13280,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Ahmedpur,004e - लाल डोरे के अन्दर/बाहर,commercial,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Ahmedpur,अन्य पक्के मार्गों के साथ 3 ए.,agricultural,4028.93,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Ahmedpur,फिरनी के साथ भूमि 2 एकड तक,agricultural,2363.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Ahmedpur,राज्य राजमार्ग 2 से 5 एकड तक,agricultural,4261.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Ahmedpur,राज्य राजमार्ग के साथ 2 एकड तक,agricultural,3636.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sultanpur,004c - नहरी-चाही,agricultural,2136.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sultanpur,004e - लाल डोरे के अन्दर/बाहर,residential,13282.5,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sultanpur,004e - लाल डोरे के अन्दर/बाहर,commercial,18700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sultanpur,अन्य पक्के मार्गों के साथ 3 ए.,agricultural,3693.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sultanpur,जनता कॉलोनी लक्ष्मी नगर बसंत विहार तबस्सुम कॉलोनी सिद्धार्थ इनकलेव कॉलोनी रिहायशी,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sultanpur,जनता कॉलोनी लक्ष्मी नगर बसंत विहार तबस्सुम कॉलोनी सिद्धार्थ इनकलेव कॉलोनी व्यवसायिक,commercial,23100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sultanpur,पावर हाउस से दीवान पैलेस बहालगढ़ रोड 100 फुट व्यवसायिक,commercial,46200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sultanpur,फिरनी के साथ भूमि 2 एकड तक,agricultural,2363.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sultanpur,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,2363.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sultanpur,राज्य राजमार्ग 2 से 5 एकड़ तक,agricultural,3409.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sultanpur,राज्य राजमार्ग के साथ 2 एकड़ तक,agricultural,3636.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sultanpur,सिद्धार्थ कालोनी आवासीय,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sultanpur,सिद्धार्थ कालोनी व्यवसायिक,commercial,23100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Baiyapur,004c - नहरी-चाही,agricultural,2000.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Baiyapur,004e - लाल डोरे के अन्दर/बाहर,residential,9900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Baiyapur,004e - लाल डोरे के अन्दर/बाहर,commercial,13200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Baiyapur,अन्य पक्के मार्ग के साथ 3 ए.,agricultural,2909.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Baiyapur,गोविन्द नगर आवासीय,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Baiyapur,गोविन्द नगर व्यवसायिक,commercial,24200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Baiyapur,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,2068.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Baiyapur,मोहन नगर 2,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Baiyapur,मोहन नगर 2 व्यवसायिक,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Baiyapur,राजीव एवं उत्तम नगर पार्ट 1,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Baiyapur,राजीव एवं उत्तम नगर पार्ट 1,commercial,25300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Baiyapur,राजीव एवं उत्तम नगर पार्ट 1 व्यवसायिक,commercial,25300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Baiyapur,राजीव एवं उत्तम नगर पार्ट 2,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Baiyapur,राजीव एवं उत्तम नगर पार्ट 2 व्यवसायिक,commercial,25300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Baiyapur,राजीव एवं उत्तम नगर पार्ट 2 व्यवसायिक,commercial,31625,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Laharara,राष्ट्रीय राजमार्ग 2 से 5 एकड़ तक,agricultural,3636.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Laharara,राष्ट्रीय राजमार्ग के साथ 2 एकड़ तक,agricultural,3795.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Laharara,004c - नहरी-चाही,agricultural,2954.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Laharara,004e - लाल डोरे के अन्दर/बाहर,residential,13200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Laharara,004e - लाल डोरे के अन्दर/बाहर,commercial,18700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Laharara,अन्य पक्के मार्गों के साथ 3 ए.,agricultural,6314.57,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Laharara,एटलस राम मंदिर से फ्लाई ओवर से पुराना डी0सी0 ऑफिस तक डबल स्टोरी वाला मुख्य रोड मिल्टन कमर्शियल लहरड़ा,commercial,55000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Laharara,एटलस राम मंदिर फ्लाईओवर पुराना डी०ओ० आफिस डबल स्टोरी मुख्य रोड मिल्टन के पीछे 100 फुट के बाद रिहायशी,residential,19800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Laharara,एटलस राम मंदिर फ्लाईओवर पुराना डी०ओ० आफिस डबल स्टोरी मुख्य रोड मिल्टन के पीछे 100 फुट के बाद व्यवसायिक,commercial,30800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Laharara,कालुपुर चुंगी रोहतक रोड के आस पास कालोनियां भगत सिंह ब्रह्म नगर रिहायशी,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Laharara,कालुपुर चुंगी रोहतक रोड के आस पास कालोनियां भगत सिंह ब्रह्म नगर व्यवसायिक,commercial,36000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Laharara,कैलाश नगर एक्स. निवासीय,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Laharara,कैलाश नगर एक्स. व्यवसायिक,commercial,25300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Laharara,गोबिन्द नगर राजीव नगर रिहायशी,residential,16100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Laharara,गोबिन्द नगर राजीव नगर व्यवसायिक,commercial,25300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Laharara,गोबिन्द नगर निवासीय,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Laharara,गोबिन्द नगर व्यवसायिक,commercial,25300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Laharara,डबल स्टोरी इण्डस्ट्रियल कालोनी निकट डबल स्टोरी रिहायशी लहराड़ा,residential,19800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Laharara,डबल स्टोरी इण्डस्ट्रियल कालोनी निकट डबल स्टोरी व्यवसायिक लहराड़ा,commercial,30800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Laharara,नई अनाज मण्डी कमर्शियल लहराड़ा,commercial,61600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Laharara,नरेन्द्र नगर रूपनगर चमन नगर पटेल नगर आईटीआई व मिल्टन के पीछे होली चाईल्ड स्कूल रिहायशी लहराड़ा,residential,17600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Laharara,नरेन्द्र नगर रूपनगर चमन नगर पटेल नगर आईटीआई व मिल्टन के पीछे होली चाईल्ड स्कूल व्यवसायिक लहराड़ा,commercial,30800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Laharara,पंचशील कालोनी निवासीय,residential,17600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Laharara,पंचशील कालोनी व्यवसायिक,commercial,30800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Laharara,फिरनी के साथ भूमि 2 एकड तक,agricultural,5448.86,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Laharara,बाबा कालोनी रिहायशी लहराड़ा,residential,15000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Laharara,बाबा कालोनी व्यवसायिक लहराड़ा,commercial,23100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Laharara,भगतसिंह कालोनी निवासीय,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Laharara,भगतसिंह कालोनी व्यवसायिक,commercial,28600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Laharara,मोहन नगर 2,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Laharara,मोहन नगर 2 व्यवसायिक,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Laharara,मोहन नगर बाबा कॉलोनी रिहायशी लहराड़ा,residential,14300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Laharara,मोहन नगर बाबा कॉलोनी व्यवसायिक लहराड़ा,commercial,28600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Laharara,राष्ट्रीय राजमार्ग 2 से 5 एकड तक,agricultural,4772.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Laharara,राष्ट्रीय राजमार्ग के साथ 2 एकड तक,agricultural,5113.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,HarsanaKalan,004c - नहरी-चाही,agricultural,1561.98,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,HarsanaKalan,004e - लाल डोरे के अन्दर/बाहर,residential,9900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,HarsanaKalan,004e - लाल डोरे के अन्दर/बाहर,commercial,13200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,HarsanaKalan,अन्य पक्के मार्गो के साथ 3 ए.,agricultural,1796.28,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,HarsanaKalan,देवी मंदिर हरसाना कालोनी,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,HarsanaKalan,फिरनी के साथ भूमि 2 एकड तक,agricultural,1092.98,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,HarsanaKalan,राष्ट्रीय राजमार्ग 2 से 5 एकड तक,agricultural,1931.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,HarsanaKalan,राष्ट्रीय राजमार्ग के साथ 2 एकड तक,agricultural,2545.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,HarsanaKhurd,004c - नहरी-चाही,agricultural,997.93,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,HarsanaKhurd,004e - लाल डोरे के अन्दर/बाहर,residential,8800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,HarsanaKhurd,004e - लाल डोरे के अन्दर/बाहर,commercial,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,HarsanaKhurd,अन्य पक्के मार्ग के साथ 3 ए.,agricultural,1496.9,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,HarsanaKhurd,फिरनी के साथ भूमि 2 एकड तक,agricultural,1045.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,HarsanaKhurd,राष्ट्रीय राजमार्ग 2 से 5 एकड तक,agricultural,1931.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,HarsanaKhurd,राष्ट्रीय राजमार्ग के साथ 2 एकड तक,agricultural,2363.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBala,004c - नहरी-चाही,agricultural,955.68,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBala,004e - लाल डोरे के अन्दर/बाहर,residential,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBala,004e - लाल डोरे के अन्दर/बाहर,commercial,6600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBala,अन्य पक्के मार्ग के साथ 3 ए.,agricultural,1447.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBala,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,750.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBala,राज्य राजमार्ग 2 से 5 एकड़ तक,agricultural,1090.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBala,राज्य राजमार्ग के साथ 2 एकड़ तक,agricultural,1250.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,ChhatehraBahadurpur,004c - नहरी-चाही,agricultural,1163.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,ChhatehraBahadurpur,004e - लाल डोरे के अन्दर/बाहर,residential,5200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,ChhatehraBahadurpur,004e - लाल डोरे के अन्दर/बाहर,commercial,6600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,ChhatehraBahadurpur,अन्य पक्के मार्ग के साथ 3 ए.,agricultural,1410.12,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,ChhatehraBahadurpur,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,879.13,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,ChhatehraBahadurpur,राज्य राजमार्ग 2 से 5 एकड़ तक,agricultural,1250.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,ChhatehraBahadurpur,राज्य राजमार्ग के साथ 2 एकड़ तक,agricultural,1363.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Rohat,004c - नहरी-चाही,agricultural,1551.86,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Rohat,004e - लाल डोरे के अन्दर/बाहर,residential,5000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Rohat,004e - लाल डोरे के अन्दर/बाहर,commercial,6600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Rohat,अन्य पक्के मार्ग के साथ 3 ए.,agricultural,2277.89,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Rohat,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,1185.95,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Rohat,राष्ट्रीय राजमार्ग 2 से 5 एकड़ तक,agricultural,1363.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Rohat,राष्ट्रीय राजमार्ग के साथ 2 एकड़ तक,agricultural,2136.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Inayatpur,004c - नहरी-चाही,agricultural,1330.58,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Inayatpur,004e - लाल डोरे के अन्दर/बाहर,residential,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Inayatpur,004e - लाल डोरे के अन्दर/बाहर,commercial,6600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Inayatpur,अन्य पक्के मार्ग के साथ 3 एकड़,agricultural,1745.87,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Inayatpur,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,1069.21,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Inayatpur,राज्य राजमार्ग 2 से 5 एकड़ तक,agricultural,1454.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Inayatpur,राज्य राजमार्ग के साथ 2 एकड़ तक,agricultural,1454.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Nahra,004c - नहरी-चाही,agricultural,2223.97,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Nahra,004e - लाल डोरे के अन्दर/बाहर,residential,8800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Nahra,004e - लाल डोरे के अन्दर/बाहर,commercial,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Nahra,अन्य पक्के मार्गो के साथ 3 एकड,agricultural,2779.96,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Nahra,फिरनी के साथ भूमि 2 एकड तक,agricultural,1663.22,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Nahra,राज्य राजमार्ग 2 से 5 एकड तक,agricultural,2159.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Nahra,राज्य राजमार्ग के साथ 2 एकड तक,agricultural,2272.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,ManhaMajra,004c - नहरी-चाही,agricultural,1617.77,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,ManhaMajra,004e - लाल डोरे के अन्दर/बाहर,residential,6600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,ManhaMajra,004e - लाल डोरे के अन्दर/बाहर,commercial,8800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,ManhaMajra,अन्य पक्के मार्गो के साथ 3 एकड,agricultural,1846.59,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,ManhaMajra,फिरनी के साथ भूमि 2 एकड तक,agricultural,1136.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,ManhaMajra,राज्य राजमार्ग 2 से 5 एकड तक,agricultural,1363.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,ManhaMajra,राज्य राजमार्ग के साथ 2 एकड तक,agricultural,1988.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Revli,004c - नहरी-चाही,agricultural,3409.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Revli,004e - लाल डोरे के अन्दर/बाहर,residential,9900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Revli,004e - लाल डोरे के अन्दर/बाहर,commercial,13200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Revli,अन्य पक्के मार्ग के साथ 3 एकड,agricultural,3719.01,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Revli,फिरनी के साथ भूमि 2 एकड तक,agricultural,2500.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Revli,राज्य राजमार्ग 2 से 5 एकड तक,agricultural,2840.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Revli,राज्य राजमार्ग के साथ 2 एकड तक,agricultural,3113.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,004c - नहरी-चाही,agricultural,3113.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,004e - लाल डोरे के अन्दर/बाहर,residential,13200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,004e - लाल डोरे के अन्दर/बाहर,commercial,20900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,अग्रसेन नगर तीर्थ मार्किट पुरानी अनाज मण्डी के निकट स्थित कालोनियां निवासीय कालुपुर,residential,23100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,अग्रसेन नगर तीर्थ मार्किट पुरानी अनाज मण्डी के निकट स्थित कालोनियां व्यवसायिक कालुपुर,commercial,46200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,अन्य पक्के मार्ग के साथ 3 एकड,agricultural,4834.71,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,आनन्द नगर विकास पुरी रिहायशी कालपुर,residential,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,आनन्द नगर विकास पुरी व्यवसायिक कालपुर,commercial,38875,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,आनन्द सिनेमा तथा पावर हाउस के आस पास रिहायशी कालपुर,residential,19800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,आनन्द सिनेमा से राठधना रोड आईटीआई चौक व्यवसायिक सडक के दोनो ओर 100 फुट कालपुर,commercial,60500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,इण्डस्ट्रीयल एरिया सोनीपत मुख्य व्यवसायिक कालपुर,commercial,23100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,एटलस राम मंदिर से फ्लाई ओवर से पुराना डी0सी0 आफिस तक डबल स्टोरी वाला मुख्य रोड मिल्टन कमर्शियल कालपुर,commercial,64900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,एटलस राममंदिर से मिलवदी सिनेमा पी.डब्ल्यू.डी रेस्ट हा. से रेलवे स्टे. 100 फुट तक व्यवसायिक कालपुर,commercial,83600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,एटलस राम मंदिर फ्लाईओवर पुराना डी सी ओ आफिस डबल स्टोरी मुख्य रोड मिल्टन उक्त के पीछे 100 फुट के बाद रिहायशी कालुपुर,residential,19800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,एटलस राम मंदिर फ्लाईओवर पुराना डी सी ओ आफिस डबल स्टोरी मुख्य रोड मिल्टन उक्त के पीछे 100 फुट के बाद व्यवसायिक कालुपुर,commercial,30800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,एटलस राम मंदिर से मिनर्वा सिनेमा पी डब्लू डी रेस्ट हा से रेलवे स्टे उक्त के पीछे टीयर को रिहायशी कालुपुर,residential,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,कालुपुर चुंगी रोहतक रोड के आस पास कालोनियां भगत सिंह ब्रह्म नगर रिहायशी कालुपुर,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,कालुपुर चुंगी रोहतक रोड के आस पास कालोनियां भगत सिंह ब्रह्म नगर व्यवसायिक कालुपुर,commercial,26400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,किर्ती नगर एक्स निवासीय,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,किर्ती नगर एक्स व्यवसायिक,commercial,26400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,कैलाश कालोनी शान्ति विहार सर्जिकल सेंटर के आस पास रिहायशी कालुपुर,residential,16100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,कैलाश कालोनी शान्ति विहार सर्जीकल सेंटर के आस पास व्यवसायिक कालुपुर,commercial,25300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,कैलाश नगर एक्स. निवासीय,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,कैलाश नगर एक्स. व्यवसायिक,commercial,25300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,गोकल नगर रिहायशी कालुपुर,residential,17600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,गोकल नगर व्यवसायिक कालुपुर,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,जवाहर नगर सुभाषनगर विशाल नगर वेस्ट रामनगर व इसके आसपास रिहायशी कालुपुर,residential,17600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,जवाहर नगर सुभाषनगर विशाल नगर वेस्ट रामनगर व इसके आसपास व्यवसायिक कालुपुर,commercial,31625,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,टीकाराम गर्ल्स कॉलेज से हुकमचन्द कोठी से होस्टल से आगे काले खम्भे चौक तक व्यवसायिक कालुपुर,commercial,46200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,दहिया कालोनी निवासीय,residential,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,दहिया कालोनी व्यवसायिक,commercial,44000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,न्यू कालोनी सुजान सिंह पार्क रिहायशी कालुपुर,residential,25300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,न्यू कालोनी सुजान सिंह पार्क व्यवसायिक कालुपुर,commercial,41800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,पुरानी अनाज मण्डी व्यवसायिक,commercial,61600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,कालुपुर आवासीय,residential,27115,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,प्रभु नगर मण्डी कृष्णा नगर गांधी नगर भरतपुर व आसपास स्थित कालोनिया रिहायशी कालुपुर,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,प्रभु नगर मण्डी कृष्णा नगर गांधी नगर भरतपुर व आसपास स्थित कालोनिया व्यवसायिक कालुपुर,commercial,39875,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,प्रीत विहार रिहायशी,residential,25300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,प्रीत विहार व्यवसायिक,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,प्रेम नगर रिहायशी,residential,46200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,3113.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,बाबा कालोनी रिहायशी कालुपुर,residential,14300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,बाबा कालोनी व्यवसायिक कालुपुर,commercial,23100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,भगत हस्पताल से आनन्द सिनेमा तक व्यवसायिक 100 फुट तक दोनों,commercial,69300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,मायापुरी एक्स. रिहायशी,residential,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,मायापुरी एक्स. व्यवसायिक,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,मिशन चौक टीकाराम गर्ल्स कॉलेज मार्ग होते हुए रोहतक रोड के मिलान तक कमर्शियल 100 फुट कालुपुर,commercial,69300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,मिशन रोड देव नगर सुभाष नगर के बीच स्थित चर्च की भूमि रिहायशी कालुपुर,residential,19800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,मिशन रोड देव नगर सुभाष नगर के बीच स्थित चर्च की भूमि व्यवसायिक कालुपुर,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,मोहन नगर बाबा कॉलोनी रिहायशी कालुपुर,residential,14300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,मोहन नगर बाबा कॉलोनी व्यवसायिक कालुपुर,commercial,26400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,राज्य राजमार्ग 2 से 5 एकड तक,agricultural,4727.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,राज्य राजमार्ग के साथ 2 एकड तक,agricultural,5022.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,"रेलवे फाटक से हिन्दू स्कूल कॉलेज, रोहतक रोड सूरी पेट्रोल पम्प तक कमर्शियल सडक 100 फुट कालुपुर",commercial,110000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,वैक्सन कालोनी रिहायशी कालुपुर,residential,25300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,वैक्सन कालोनी व्यवसायिक कालुपुर,commercial,34100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,शिव मॉडर्न कालोनी,residential,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,शिव मॉडर्न कालोनी,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,शिव मॉडर्न कालोनी व्यवसायिक,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,सिंचाई विभाग कार्यालय से राठधाना रोड पर व्यवसायिक कालुपुर,commercial,46200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,सिटी हस्पताल चौक से ककरोई रोड सेक्टर 23 पुलिस पोस्ट 100 फुट दोनो ओर कमर्शियल,commercial,69300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kalupur,सूरी पेट्रोल पम्प से रोहतक रोड कालुपुर चुंगी तक कमर्शियल सड़क के दोनों ओर 100 फुट कालुपुर,commercial,99000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,004c - नहरी-चाही,agricultural,3113.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,004e - लाल डोरे के अन्दर/बाहर,residential,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,004e - लाल डोरे के अन्दर/बाहर,commercial,20900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,अन्य पक्के मार्गों के साथ 3 एकड,agricultural,4834.71,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,अशोक विहार चौहान कालोनी अनिल विहार मालवीय नगर विकास नगर रिहायशी गढी ब्राह्मणान,residential,24200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,अशोक विहार चौहान कालोनी अनिल विहार मालवीय नगर विकास नगर व्यवसायिक गढी ब्राह्मणान,commercial,37400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,ईदगाह कालोनी रिहायशी गढी ब्राहमनान,residential,14300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,ईदगाह कालोनी व्यवसायिक गढी ब्राहमनान,commercial,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,गढ़ी घसीटा शिवनगर देवनगर रिहायशी गढी ब्राहमनान,residential,18400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,गढ़ी घसीटा शिवनगर देवनगर व्यवसायिक गढी ब्राहमनान,commercial,29900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,गढीब्राहमनान गेट से नगरपरिषद सीमा धनखड आयल मिल गोहानारोड जेल तक कमर्शियल सडक के 100 फुट गढीब्राहमनान,commercial,26400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,"गोहाना रोड नगरपरिषद चुंगी से आगे रजबाहे, गोहानारोड चुंगी से साउथप्वाइंट स्कूल रिहायशी गढी ब्राहमनान",residential,22100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,"गोहाना रोड नगरपरिषद चुंगी से आगे रजबाहे, गोहानारोड चुंगी से साउथप्वाइंटस्कूल व्यवसायिक गढीब्राहमनान",commercial,42900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,छोटूराम चौक गोहाना रोड पुलिस लाईन तक कमर्शियल सडक 100 फुट गढी ब्राहमनान,commercial,91200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,छोटूराम चौक से गोहाना रोड शमशान घाट सड़क के दोनो ओर 100 फुट व्यवसायिक गढी ब्राह्मणान,commercial,84700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,छोटूरामचौक गोहाना रोड पुलिसलाईन तक छोटूराम प्रगतनगर मतिककालोनी 100 फुटके बाद रिहायशी गढी ब्राह्मणान,residential,19600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,छोटूरामचौक गोहाना रोड पुलिसलाईन तक छोटूराम प्रगतनगर मतिककालोनी 100 फुटके बाद व्यवसायिक गढी ब्राह्मणान,commercial,42000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,जैन बाग कानूनी रिहायशी गढी ब्राह्मणान,residential,30000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,टीकाराम गर्ल्स कॉलेज से हुकमचन्द कोठी से होस्टल से आगे काले खम्बे चौक तक व्यवसायिक गढी ब्राह्मणान,commercial,46200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,दवात वाले चौक से पुराना अड्डा होते हुए रेलवे अंडर ब्रिज 100 फुट गहराई तक व्यवसायिक गढ़ी ब्राह्मणान,commercial,69300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,पुलिस लाईन से नगर परिषद चुंगी तक कमर्शियल सड़क के दोनो ओर 100 फुट गढ़ी ब्राह्मणान,commercial,69300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,प्रोफेसर कालोनी से ककरोई रोड पुरानी चुंगी सेक्टर 23 पुलिस नाका तक आर्य नगर कमर्शियल गढ़ी ब्राह्मनान,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,प्रोफेसर कालोनी से ककरोई रोड पुरानी चुंगी सेक्टर 23 पुलिस नाका तक आर्य नगर रिहायशी गढ़ी ब्राह्मनान,residential,18975,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,3113.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,मयूर विहार एक्सटेंसन महलाना रोड,residential,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,मयूर विहार एक्सटेंसन महलाना रोड व्यवसायिक,commercial,27600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,महलाना रोड शमशान घाट ओम पेट्रोल पम्प रेलवे फाटक तक कमर्शियल सडक 100 फुट गढ़ी ब्राह्मनान,commercial,33000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,महलाना रोड शमशान घाट ओम पेट्रोल पम्प रेलवे फाटक तक,commercial,84700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,महाबीर कालोनी नई रिहायशी गढ़ी ब्राह्मनान,residential,29920,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,महाबीर कालोनी नई व्यवसायिक गढ़ी ब्राह्मनान,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,महावीर कालोनी पुरानी रिहायशी,residential,26400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,महावीर कालोनी पुरानी व्यवसायिक,commercial,45100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,मिशन चौक टीकाराम गर्ल्स कॉलेज मार्ग रोहतक रोड,commercial,69300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,मिशन रोड देव नगर सुभाष नगर चर्च भूमि रिहायशी,residential,19800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,मिशन रोड देव नगर सुभाष नगर चर्च भूमि व्यवसायिक,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,राज्य राजमार्ग 2 से 5 एकड़ तक,agricultural,4727.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,राज्य राजमार्ग के साथ 2 एकड़ तक,agricultural,5022.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,रेलवे अंडर ब्रिज से शम्भुदयाल स्कूल गोहाना रोड,commercial,61600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,"रेलवे फाटक से हिन्दू स्कूल कॉलेज, रोहतक रोड सूरी पेट्रोल पम्प तक कमर्शियल सडक 100 फुट गढी ब्राह्मणन",commercial,110000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,रेड रोज स्कूल कालोनी,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,रेड रोज स्कूल कालोनी,commercial,26400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,लक्ष्मी नगर निवासीय,residential,18515,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,लक्ष्मी नगर व्यवसायिक,commercial,26400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,"शमशान घाट चौक से गढी ब्राह्मणन गेट, गहाना रोड से ककरोई रोड सै0 23 तक व्यवसायिक गढी ब्राह्मणन",commercial,26400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,शास्त्री कालोनी मयूर विहार इण्डियन कालोनी पुराने बाग व वाटर सप्लाई रिहायशी गढी ब्राह्मणन,residential,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,शास्त्री कालोनी मयूर विहार इण्डियन कालोनी पुराने बाग व वाटर सप्लाई व्यवसायिक गढी ब्राह्मणन,commercial,61600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,श्याम नगर रिहायशी गढी ब्राह्मणन,residential,38280,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,सरस्वती विहार रिहायशी गढी ब्राह्मणन,residential,22000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,सरस्वती विहार,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,सिटी हस्पताल चौक से ककरोई रोड सेक्टर 23 पुलिस पोस्ट 100 फुट दोनो ओर कमर्शियल गढी ब्राह्मनान,commercial,69300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,"सुन्दर सांवरी, घटी कानूनगोयान रिहायशी गढी ब्राह्मनान",residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBrahmanan,"सुन्दर सांवरी, घटी कानूनगोयान व्यवसायिक गढी ब्राह्मनान",commercial,18700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Jaji,004c - नहरी-चाही,agricultural,1538.48,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Jaji,004e - लाल डोरे के अन्दर/बाहर,residential,4000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Jaji,004e - लाल डोरे के अन्दर/बाहर,commercial,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Jaji,अन्य पक्के मार्गो के साथ 3 एकड,agricultural,1729.75,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Jaji,फिरनी के साथ भूमि 2 एकड तक,agricultural,1221.59,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kilohrad,004c - नहरी-चाही,agricultural,840.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kilohrad,004e - लाल डोरे के अन्दर/बाहर,residential,4000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kilohrad,004e - लाल डोरे के अन्दर/बाहर,commercial,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kilohrad,अन्य पक्के मार्गो के साथ 3 एकड,agricultural,977.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kilohrad,फिरनी के साथ भूमि 2 एकड तक,agricultural,977.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Bohtha,004c - नहरी-चाही,agricultural,681.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Bohtha,004e - लाल डोरे के अन्दर/बाहर,residential,3700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Bohtha,004e - लाल डोरे के अन्दर/बाहर,commercial,5100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Bohtha,अन्य पक्के मार्गों के साथ 3 एकड,agricultural,950.41,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Bohtha,फिरनी के साथ भूमि 2 एकड तक,agricultural,909.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SamarpurMajra,004c - नहरी-चाही,agricultural,681.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SamarpurMajra,004e - लाल डोरे के अन्दर/बाहर,residential,3700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SamarpurMajra,004e - लाल डोरे के अन्दर/बाहर,commercial,5100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SamarpurMajra,अन्य पक्के मार्गों के साथ 3 एकड,agricultural,909.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SamarpurMajra,फिरनी के साथ भूमि 2 एकड तक,agricultural,909.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Jua,004c - नहरी-चाही,agricultural,772.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Jua,004e - लाल डोरे के अन्दर/बाहर,residential,3700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Jua,004e - लाल डोरे के अन्दर/बाहर,commercial,5100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Jua,अन्य पक्के मार्गों के साथ 3 एकड,agricultural,909.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Jua,फिरनी के साथ भूमि 2 एकड तक,agricultural,909.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Jua,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,909.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SalimpurTali,004c - नहरी-चाही,agricultural,681.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SalimpurTali,004e - लाल डोरे के अन्दर/बाहर,residential,3700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SalimpurTali,004e - लाल डोरे के अन्दर/बाहर,commercial,5100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SalimpurTali,अन्य पक्के मार्गों के साथ 3 एकड़,agricultural,909.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SalimpurTali,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,909.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SalimpurMajra,004c - नहरी-चाही,agricultural,836.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SalimpurMajra,004e - लाल डोरे के अन्दर/बाहर,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SalimpurMajra,004e - लाल डोरे के अन्दर/बाहर,commercial,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SalimpurMajra,अन्य पक्के मार्गों के साथ 3 एकड़,agricultural,1136.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SalimpurMajra,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,1022.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Chitana,004c - नहरी-चाही,agricultural,681.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Chitana,004e - लाल डोरे के अन्दर/बाहर,residential,3700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Chitana,004e - लाल डोरे के अन्दर/बाहर,commercial,5100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Chitana,अन्य पक्के मार्गों के साथ 3 एकड़,agricultural,909.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Chitana,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,909.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,BhatanaJafarabad,004c - नहरी-चाही,agricultural,750.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,BhatanaJafarabad,004e - लाल डोरे के अन्दर/बाहर,residential,4000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,BhatanaJafarabad,004e - लाल डोरे के अन्दर/बाहर,commercial,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,BhatanaJafarabad,अन्य पक्के मार्गों के साथ 3 एकड़,agricultural,977.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,BhatanaJafarabad,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,977.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Hullahedi,004c - नहरी-चाही,agricultural,879.13,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Hullahedi,004e - लाल डोरे के अन्दर/बाहर,residential,4400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Hullahedi,004e - लाल डोरे के अन्दर/बाहर,commercial,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Hullahedi,अन्य पक्के मार्गों के साथ 3 एकड़,agricultural,1239.67,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Hullahedi,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mahra,004c - नहरी-चाही,agricultural,681.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mahra,004e - लाल डोरे के अन्दर/बाहर,residential,3900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mahra,004e - लाल डोरे के अन्दर/बाहर,commercial,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mahra,अन्य पक्के मार्गों के साथ 3 एकड़,agricultural,818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mahra,अन्य पक्के मार्गो के साथ 3 एकड,agricultural,818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mahra,फिरनी के साथ भूमि 2 एकड तक,agricultural,750.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Shahzadpur,004c - नहरी-चाही,agricultural,613.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Shahzadpur,004e - लाल डोरे के अन्दर/बाहर,residential,3900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Shahzadpur,004e - लाल डोरे के अन्दर/बाहर,commercial,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Shahzadpur,अन्य पक्के मार्गो के साथ 3 एकड,agricultural,818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Shahzadpur,फिरनी के साथ भूमि 2 एकड तक,agricultural,750.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Tharu,004c - नहरी-चाही,agricultural,681.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Tharu,004e - लाल डोरे के अन्दर/बाहर,residential,4400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Tharu,004e - लाल डोरे के अन्दर/बाहर,commercial,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Tharu,अन्य पक्के मार्गो के साथ 3 एकड,agricultural,909.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Tharu,फिरनी के साथ भूमि 2 एकड तक,agricultural,795.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Uldepur,004c - नहरी-चाही,agricultural,681.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Uldepur,004e - लाल डोरे के अन्दर/बाहर,residential,4400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Uldepur,004e - लाल डोरे के अन्दर/बाहर,commercial,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Uldepur,अन्य पक्के मार्गों के साथ 3 ए,agricultural,909.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Uldepur,फिरनी के साथ भूमि 2 एकड तक,agricultural,795.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Raipur,004c - नहरी-चाही,agricultural,2272.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Raipur,004e - लाल डोरे के अन्दर/बाहर,residential,8800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Raipur,004e - लाल डोरे के अन्दर/बाहर,commercial,13200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Raipur,अन्य पक्के मार्गों के साथ 3 ए,agricultural,3088.84,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Raipur,फिरनी के साथ भूमि 2 एकड तक,agricultural,2522.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Raipur,मैमोरियल हस्पताल से ईसीई फैक्ट्री तक 100 फुट के बाद पावर हाउस तक रिहायशी रायपुर,residential,30800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Raipur,मैमोरियल हस्पताल से ईसीई फैक्ट्री तक 100 फुट के बाद पावर हाउस तक व्यवसायिक रायपुर,commercial,69300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Shadipur,004c - नहरी-चाही,agricultural,1818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Shadipur,004e - लाल डोरे के अन्दर/बाहर,residential,15870,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Shadipur,004e - लाल डोरे के अन्दर/बाहर,commercial,18700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Shadipur,अन्य पक्के मार्गों के साथ 3 ए,agricultural,2954.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Shadipur,अन्य पक्के मार्ग के साथ 3 ए,agricultural,2954.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Shadipur,कैलाश कालोनी शान्ति विहार सर्जीकल सेंटर के आस पास निवासीय शादीपुर,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Shadipur,कैलाश कालोनी शान्ति विहार सर्जीकल सेंटर के आस पास व्यवसायिक शादीपुर,commercial,30475,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Shadipur,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,2068.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Shadipur,मदीना मस्जिद पटेल नगर कालोनी,residential,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Shadipur,मदीना मस्जिद पटेल नगर कालोनी,commercial,30800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Shadipur,मदीना मस्जिद पटेल नगर कालोनी व्यवसायिक,commercial,30800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Shadipur,शादीपुर कालोनी निवासीय,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Shadipur,शादीपुर कालोनी व्यवसायिक,commercial,25300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Shadipur,सांई पुरम निवासीय,residential,14300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Shadipur,सांई पुरम व्यवसायिक,commercial,18700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kabirpur,004c - नहरी-चाही,agricultural,1818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kabirpur,004e - लाल डोरे के अन्दर/बाहर,residential,15180,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kabirpur,004e - लाल डोरे के अन्दर/बाहर,commercial,26400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kabirpur,अन्य पक्के मार्ग के साथ 3 ए,agricultural,2954.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kabirpur,अन्य पक्के मार्गों के साथ 3 ए,agricultural,2954.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kabirpur,आनन्द नगर विकास पुरी रिहायशी कबीरपुर,residential,21000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kabirpur,आनन्द नगर विकास पुरी व्यवसायिक कबीरपुर,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kabirpur,आनन्द सिनेमा तथा पावर हाउस के आस पास रिहायशी कबीरपुर,residential,19800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kabirpur,आनन्द सिनेमा से कबीरपुर रोड सडक से दोनों ओर 100 फुट व्यवसायिक कबीरपुर,commercial,37400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kabirpur,कबीरपुर कालोनी निवासीय,residential,20625,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kabirpur,कबीरपुर कालोनी व्यवसायिक,commercial,31625,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kabirpur,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,2068.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kabirpur,भगत हस्पताल से आनन्द सिनेमा तक व्यवसायिक 100 फुट तक दोनों कबीरपुर,commercial,69300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kabirpur,मदीना मस्जिद पटेल नगर कालोनी,residential,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kabirpur,मदीना मस्जिद पटेल नगर कालोनी,commercial,30800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kabirpur,मदीना मस्जिद पटेल नगर कालोनी व्यवसायिक,commercial,30800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kabirpur,रामेश्वर कालोनी निवासीय,residential,14300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kabirpur,रामेश्वर कालोनी व्यवसायिक,commercial,23100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kabirpur,शनिचराय बस्ती रिहायशी कबीरपुर,residential,15000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kabirpur,शनिचराय बस्ती व्यवसायिक कबीरपुर,commercial,18700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Bandepur,004c - नहरी-चाही,agricultural,1818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Bandepur,004e - लाल डोरे के अन्दर/बाहर,residential,13200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Bandepur,004e - लाल डोरे के अन्दर/बाहर,commercial,24200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Bandepur,अन्य पक्के मार्गो के साथ 3 ए,agricultural,2954.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Bandepur,उत्तम नगर निवासीय,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Bandepur,उत्तम नगर व्यवसायिक,commercial,25300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Bandepur,कलावती कालोनी,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Bandepur,कलावती कालोनी,commercial,25300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Bandepur,कलावती कालोनी व्यवसायिक,commercial,25300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Bandepur,गोबिन्द नगर राजीव नगर रिहायशी बन्देपुर,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Bandepur,गोबिन्द नगर राजीव नगर व्यवसायिक बन्देपुर,commercial,25300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Bandepur,पटेल नगर एक्सटेंशन,residential,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Bandepur,पटेल नगर एक्सटेंशन,commercial,30800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Bandepur,पटेल नगर एक्सटेंशन व्यवसायिक,commercial,30800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Bandepur,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,2068.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Bandepur,सिंचाई विभाग कार्यालय से राठधाना रोड पर बन्डेपुर व्यवसायिक,commercial,46200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Guna,004c - नहरी-चाही,agricultural,738.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Guna,004e - लाल डोरे के अन्दर/बाहर,residential,4400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Guna,004e - लाल डोरे के अन्दर/बाहर,commercial,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Guna,अन्य पक्के मार्गों के साथ 3 ए,agricultural,909.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Guna,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,750.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Tubheta,004c - नहरी-चाही,agricultural,590.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Tubheta,004e - लाल डोरे के अन्दर/बाहर,residential,4400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Tubheta,004e - लाल डोरे के अन्दर/बाहर,commercial,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Tubheta,अन्य पक्के मार्गों के साथ 3 ए,agricultural,909.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Tubheta,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,750.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Moi,004c - नहरी-चाही,agricultural,590.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Moi,004e - लाल डोरे के अन्दर/बाहर,residential,3900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Moi,004e - लाल डोरे के अन्दर/बाहर,commercial,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Moi,अन्य पक्के मार्गों के साथ 3 ए,agricultural,818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Moi,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,681.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Majri,004c - नहरी-चाही,agricultural,590.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Majri,004e - लाल डोरे के अन्दर/बाहर,residential,4100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Majri,004e - लाल डोरे के अन्दर/बाहर,commercial,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Majri,अन्य पक्के मार्गों के साथ 3 ए,agricultural,818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Majri,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,681.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Totwa,004c - नहरी-चाही,agricultural,590.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Totwa,004e - लाल डोरे के अन्दर/बाहर,residential,4400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Totwa,004e - लाल डोरे के अन्दर/बाहर,commercial,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Totwa,अन्य पक्के मार्गों के साथ 3 ए,agricultural,818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Totwa,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,784.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,RimadNatifpur,004c - नहरी-चाही,agricultural,590.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,RimadNatifpur,004e - लाल डोरे के अन्दर/बाहर,residential,4400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,RimadNatifpur,004e - लाल डोरे के अन्दर/बाहर,commercial,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,RimadNatifpur,अन्य पक्के मार्ग के साथ 3 ए,agricultural,818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,RimadNatifpur,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,681.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Bhadi,004c - नहरी-चाही,agricultural,590.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Bhadi,004e - लाल डोरे के अन्दर/बाहर,residential,4400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Bhadi,004e - लाल डोरे के अन्दर/बाहर,commercial,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Bhadi,अन्य पक्के मार्ग के साथ 3 ए,agricultural,818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Bhadi,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,681.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Titawali,004c - नहरी-चाही,agricultural,590.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Titawali,004e - लाल डोरे के अन्दर/बाहर,residential,4400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Titawali,004e - लाल डोरे के अन्दर/बाहर,commercial,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Titawali,अन्य पक्के मार्ग के साथ 3 ए,agricultural,818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Titawali,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,681.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Titawali,फिरनी के साथ भूमि 2 एकड तक,agricultural,681.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,ChatiaDeva,004c - नहरी-चाही,agricultural,590.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,ChatiaDeva,004e - लाल डोरे के अन्दर/बाहर,residential,4400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,ChatiaDeva,004e - लाल डोरे के अन्दर/बाहर,commercial,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,ChatiaDeva,अन्य पक्के मार्गो के साथ 3 ए,agricultural,818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,ChatiaDeva,फिरनी के साथ भूमि 2 एकड तक,agricultural,681.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GhatiaAulia,004c - नहरी-चाही,agricultural,590.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GhatiaAulia,004e - लाल डोरे के अन्दर/बाहर,residential,4400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GhatiaAulia,004e - लाल डोरे के अन्दर/बाहर,commercial,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GhatiaAulia,अन्य पक्के मार्गो के साथ 3 ए,agricultural,1063.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GhatiaAulia,फिरनी के साथ भूमि 2 एकड तक,agricultural,681.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Rehmana,004c - नहरी-चाही,agricultural,590.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Rehmana,004e - लाल डोरे के अन्दर/बाहर,residential,4400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Rehmana,004e - लाल डोरे के अन्दर/बाहर,commercial,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Rehmana,अन्य पक्के मार्गो के साथ 3 ए,agricultural,818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Rehmana,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,681.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,NasirpurBangar,004c - नहरी-चाही,agricultural,867.77,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,NasirpurBangar,004e - लाल डोरे के अन्दर/बाहर,residential,5060,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,NasirpurBangar,004e - लाल डोरे के अन्दर/बाहर,commercial,6600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,NasirpurBangar,अन्य पक्के मार्ग के साथ 3 ए,agricultural,1822.31,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,NasirpurBangar,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,988.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,NasirpurBangar,रा. राज. के साथ 2 एकड़ तक,agricultural,1772.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,NasirpurBangar,रा. राज. के साथ 2 से 5 एकड़ तक,agricultural,1568.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mohammadabad,004c - नहरी-चाही,agricultural,681.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mohammadabad,004e - लाल डोरे के अन्दर/बाहर,residential,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mohammadabad,004e - लाल डोरे के अन्दर/बाहर,commercial,7150,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mohammadabad,अन्य पक्के मार्ग के साथ 3 ए,agricultural,1083.47,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mohammadabad,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,727.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Bindhroli,004c - नहरी-चाही,agricultural,681.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Bindhroli,004e - लाल डोरे के अन्दर/बाहर,residential,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Bindhroli,004e - लाल डोरे के अन्दर/बाहर,commercial,7200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Bindhroli,अन्य पक्के मार्गों के साथ 3 ए,agricultural,954.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Bindhroli,फिरनी के साथ भूमि 2 एकड तक,agricultural,795.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Fatehpur,004c - नहरी-चाही,agricultural,1090.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Fatehpur,004e - लाल डोरे के अन्दर/बाहर,residential,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Fatehpur,004e - लाल डोरे के अन्दर/बाहर,commercial,7200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Fatehpur,अन्य पक्के मार्गों के साथ 3 ए,agricultural,1384.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Fatehpur,फिरनी के साथ भूमि 2 एकड तक,agricultural,795.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Fatehpur,रा. राज. के साथ 2 एकड तक,agricultural,2090.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Fatehpur,रा. राज. के साथ 2 से 5 एकड तक,agricultural,1363.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mithapur,004c - नहरी-चाही,agricultural,999.12,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mithapur,004e - लाल डोरे के अन्दर/बाहर,residential,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mithapur,004e - लाल डोरे के अन्दर/बाहर,commercial,7200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mithapur,अन्य पक्के मार्गो के साथ 3 ए,agricultural,1295.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mithapur,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,795.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Nandpur,004c - नहरी-चाही,agricultural,750.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Nandpur,004e - लाल डोरे के अन्दर/बाहर,residential,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Nandpur,004e - लाल डोरे के अन्दर/बाहर,commercial,7200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Nandpur,अन्य पक्के मार्गो के साथ 3 ए,agricultural,954.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Nandpur,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,993.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Abbaspur,004c - नहरी-चाही,agricultural,772.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Abbaspur,004e - लाल डोरे के अन्दर/बाहर,residential,6000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Abbaspur,004e - लाल डोरे के अन्दर/बाहर,commercial,7200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Abbaspur,अन्य पक्के मार्गो के साथ 3 ए,agricultural,977.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Abbaspur,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,886.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kakroi,004c - नहरी-चाही,agricultural,1068.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kakroi,004e - लाल डोरे के अन्दर/बाहर,residential,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kakroi,004e - लाल डोरे के अन्दर/बाहर,commercial,7200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kakroi,अन्य पक्के मार्गो के साथ 3 ए,agricultural,1636.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kakroi,फिरनी के साथ भूमि 2 एकड तक,agricultural,1136.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Bhadana,004c - नहरी-चाही,agricultural,863.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Bhadana,004e - लाल डोरे के अन्दर/बाहर,residential,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Bhadana,004e - लाल डोरे के अन्दर/बाहर,commercial,7200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Bhadana,अन्य पक्के मार्गो के साथ 3 ए,agricultural,977.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Bhadana,फिरनी के साथ भूमि 2 एकड तक,agricultural,909.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mahalana,004c - नहरी-चाही,agricultural,1136.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mahalana,004e - लाल डोरे के अन्दर/बाहर,residential,8800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mahalana,004e - लाल डोरे के अन्दर/बाहर,commercial,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mahalana,अन्य पक्के मार्गो के साथ 3 ए,agricultural,2290.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mahalana,फिरनी के साथ भूमि 2 एकड तक,agricultural,1227.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mahalana,मयूर विहार एक्सटेंशन महलाना रोड,residential,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mahalana,मयूर विहार एक्सटेंशन महलाना रोड,commercial,26400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mahalana,मयूर विहार एक्सटेंशन महलाना रोड व्यवसायिक,commercial,26400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mahalana,रेड रोज स्कूल कालोनी,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mahalana,रेड रोज स्कूल कालोनी,commercial,26400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mahalana,रेड रोज स्कूल कालोनी व्यवसायिक,commercial,26400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,TajpurTahadKhurd,004c - नहरी-चाही,agricultural,909.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,TajpurTahadKhurd,004e - लाल डोरे के अन्दर/बाहर,residential,3900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,TajpurTahadKhurd,004e - लाल डोरे के अन्दर/बाहर,commercial,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,TajpurTahadKhurd,अन्य पक्के मार्गो के साथ 3 ए,agricultural,1022.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,TajpurTahadKhurd,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,954.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Baghru,004c - नहरी-चाही,agricultural,1420.87,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Baghru,004e - लाल डोरे के अन्दर/बाहर,residential,4400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Baghru,004e - लाल डोरे के अन्दर/बाहर,commercial,8250,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Baghru,अन्य पक्के मार्गो के साथ 3 ए,agricultural,2570.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Baghru,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,1409.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Baghru,फिरनी के साथ भूमि 2 एकड तक,agricultural,1409.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,BhatgaonDugran,004c - नहरी-चाही,agricultural,1376.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,BhatgaonDugran,004e - लाल डोरे के अन्दर/बाहर,residential,4400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,BhatgaonDugran,004e - लाल डोरे के अन्दर/बाहर,commercial,6600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,BhatgaonDugran,अन्य पक्के मार्गों के साथ 3 ए,agricultural,2097.11,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,BhatgaonDugran,फिरनी के साथ भूमि 2 एकड तक,agricultural,1389.98,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,BhatgaonMalayan,004c - नहरी-चाही,agricultural,1071.59,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,BhatgaonMalayan,004e - लाल डोरे के अन्दर/बाहर,residential,4400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,BhatgaonMalayan,004e - लाल डोरे के अन्दर/बाहर,commercial,6600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,BhatgaonMalayan,अन्य पक्के मार्गों के साथ 3 ए,agricultural,1549.59,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,BhatgaonMalayan,फिरनी के साथ भूमि 2 एकड तक,agricultural,1022.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,LuhariTibba,004c - नहरी-चाही,agricultural,983.47,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,LuhariTibba,004e - लाल डोरे के अन्दर/बाहर,residential,3600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,LuhariTibba,004e - लाल डोरे के अन्दर/बाहर,commercial,5800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,LuhariTibba,अन्य पक्के मार्गों के साथ 3 ए,agricultural,1123.86,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,LuhariTibba,फिरनी के साथ भूमि 2 एकड तक,agricultural,1128.1,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mahipur,004c - नहरी-चाही,agricultural,727.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mahipur,004e - लाल डोरे के अन्दर/बाहर,residential,3600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mahipur,004e - लाल डोरे के अन्दर/बाहर,commercial,5800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mahipur,अन्य पक्के मार्गो के साथ 3 ए,agricultural,909.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mahipur,फिरनी के साथ भूमि 2 एकड तक,agricultural,818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Nahari,004c - नहरी-चाही,agricultural,1704.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Nahari,004e - लाल डोरे के अन्दर/बाहर,residential,13200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Nahari,004e - लाल डोरे के अन्दर/बाहर,commercial,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Nahari,अन्य पक्के मार्गो के साथ 3 ए,agricultural,1931.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Nahari,नाहरी - 4 कालोनी,residential,13200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Nahari,नाहरी - 4 कालोनी,commercial,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Nahari,नाहरी - 5 कालोनी,residential,13200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Nahari,नाहरी - 5 कालोनी,commercial,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Nahari,फिरनी के साथ भूमि 2 एकड तक,agricultural,1818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Didoli,004c - नहरी-चाही,agricultural,795.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Didoli,004e - लाल डोरे के अन्दर/बाहर,residential,5300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Didoli,004e - लाल डोरे के अन्दर/बाहर,commercial,7000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Didoli,अन्य पक्के मार्गो के साथ 3 ए,agricultural,1254.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Didoli,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,954.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Rathdhana,004c - नहरी-चाही,agricultural,4687.5,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Rathdhana,004e - लाल डोरे के अन्दर/बाहर,residential,11385,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Rathdhana,004e - लाल डोरे के अन्दर/बाहर,commercial,13200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Rathdhana,Skylark Flying Real Estate Pvt. Ltd निवासीय,residential,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Rathdhana,Skylark Flying Real Estate Pvt. Ltd व्यवसायिक,commercial,55000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Rathdhana,The Golden Avenue Sector 33 निवासीय,residential,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Rathdhana,The Golden Avenue Sector 33 व्यवसायिक,commercial,55000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Rathdhana,अन्य पक्के मार्गो के साथ 3 ए,agricultural,6664.46,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Rathdhana,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,5696.54,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Rathdhana,राष्ट्रीय राजमार्ग के साथ 2 एकड़ तक,agricultural,3545.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Jagdishpur,004c - नहरी-चाही,agricultural,3492.77,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Jagdishpur,004e - लाल डोरे के अन्दर/बाहर,residential,9900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Jagdishpur,004e - लाल डोरे के अन्दर/बाहर,commercial,13200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Jagdishpur,अन्य पक्के मार्गों के साथ 3 ए,agricultural,3396.69,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Jagdishpur,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,2670.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Jagdishpur,राष्ट्रीय राजमार्ग के साथ 2 एकड़ तक,agricultural,3545.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Bakhtawarpur,004c - नहरी-चाही,agricultural,772.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Bakhtawarpur,004e - लाल डोरे के अन्दर/बाहर,residential,5100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Bakhtawarpur,004e - लाल डोरे के अन्दर/बाहर,commercial,6600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Bakhtawarpur,अन्य पक्के मार्गों के साथ 3 ए,agricultural,1022.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Bakhtawarpur,जमना की धार,agricultural,250.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Bakhtawarpur,जमना की धार 3 एकड़ से बांध तक,agricultural,454.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Bakhtawarpur,जमना की धार से 3 एकड़ तक,agricultural,318.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Bakhtawarpur,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,886.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBakhtawarpur,004c - नहरी-चाही,agricultural,772.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBakhtawarpur,004e - लाल डोरे के अन्दर/बाहर,residential,5100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBakhtawarpur,004e - लाल डोरे के अन्दर/बाहर,commercial,6600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBakhtawarpur,अन्य पक्के मार्गो के साथ 3 ए,agricultural,1022.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBakhtawarpur,जमना की धार,agricultural,250.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBakhtawarpur,जमना की धार 3 एकड से बांध तक,agricultural,454.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBakhtawarpur,जमना की धार से 3 एकड तक,agricultural,318.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhiBakhtawarpur,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,886.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Devru,004c - नहरी-चाही,agricultural,3959.19,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Devru,004e - लाल डोरे के अन्दर/बाहर,residential,12375,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Devru,004e - लाल डोरे के अन्दर/बाहर,commercial,13200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Devru,अन्य पक्के मार्गो के साथ 3 ए,agricultural,4472.11,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Devru,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,1931.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Devru,राष्ट्रीय राजमार्ग के साथ 2 एकड़ तक,agricultural,5236.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Devru,शिव कालोनी एक्स,residential,14300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Devru,शिव कालोनी एक्स,commercial,17600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Abdulpur,004c - नहरी-चाही,agricultural,1340.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Abdulpur,004e - लाल डोरे के अन्दर/बाहर,residential,9900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Abdulpur,004e - लाल डोरे के अन्दर/बाहर,commercial,13200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Abdulpur,अन्य पक्के मार्गो के साथ 3 ए,agricultural,6020.14,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Abdulpur,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,1636.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Abdulpur,राष्ट्रीय राजमार्ग के साथ 2 एकड़ तक,agricultural,4254.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhShahjahanpur,004c - नहरी-चाही,agricultural,2454.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhShahjahanpur,004e - लाल डोरे के अन्दर/बाहर,residential,12375,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhShahjahanpur,004e - लाल डोरे के अन्दर/बाहर,commercial,13200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhShahjahanpur,अन्य पक्के मार्गो के साथ 3 ए,agricultural,4028.93,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,GarhShahjahanpur,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,2727.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,ShahpurTurk,004c - नहरी-चाही,agricultural,2454.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,ShahpurTurk,004e - लाल डोरे के अन्दर/बाहर,residential,9900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,ShahpurTurk,004e - लाल डोरे के अन्दर/बाहर,commercial,13200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,ShahpurTurk,अन्य पक्के मार्गो के साथ 3 ए,agricultural,5170.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,ShahpurTurk,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,2727.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Malikpur,004c - नहरी-चाही,agricultural,1022.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Malikpur,004e - लाल डोरे के अन्दर/बाहर,residential,6600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Malikpur,004e - लाल डोरे के अन्दर/बाहर,commercial,8300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Malikpur,अन्य पक्के मार्गो के साथ 3 ए,agricultural,1735.54,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Malikpur,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,1159.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,NasirpurKhadar,004c - नहरी-चाही,agricultural,888.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,NasirpurKhadar,004e - लाल डोरे के अन्दर/बाहर,residential,8580,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,NasirpurKhadar,004e - लाल डोरे के अन्दर/बाहर,commercial,9900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,NasirpurKhadar,अन्य पक्के मार्गो के साथ 3 ए,agricultural,1482.95,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,NasirpurKhadar,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,909.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,NasirpurKhadar,फिरनी के साथ भूमि 2 एकड तक,agricultural,909.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Dhaturi,004c - नहरी-चाही,agricultural,1682.23,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Dhaturi,004e - लाल डोरे के अन्दर/बाहर,residential,9400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Dhaturi,004e - लाल डोरे के अन्दर/बाहर,commercial,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Dhaturi,अन्य पक्के मार्गो के साथ 3 ए,agricultural,2588.43,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Dhaturi,फिरनी के साथ भूमि 2 एकड तक,agricultural,1545.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mimarpur,004c - नहरी-चाही,agricultural,965.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mimarpur,004e - लाल डोरे के अन्दर/बाहर,residential,5100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mimarpur,004e - लाल डोरे के अन्दर/बाहर,commercial,6600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mimarpur,004f - जमना की धार,agricultural,250.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mimarpur,अन्य पक्के मार्गो के साथ 3 ए,agricultural,1750.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mimarpur,जमना की धार 3 एकड से बांध तक,agricultural,454.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mimarpur,जमना की धार से 3 एकड तक,agricultural,318.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mimarpur,फिरनी के साथ भूमि 2 एकड तक,agricultural,886.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Jainpur,004c - नहरी-चाही,agricultural,772.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Jainpur,004e - लाल डोरे के अन्दर/बाहर,residential,5100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Jainpur,004e - लाल डोरे के अन्दर/बाहर,commercial,6600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Jainpur,अन्य पक्के मार्गो के साथ 3 ए,agricultural,1000.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Jainpur,जमुना की धार,agricultural,272.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Jainpur,जमुना की धार 3 एकड़ से बांध तक,agricultural,454.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Jainpur,जमुना की धार से 3 एकड़ तक,agricultural,332.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Jainpur,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,886.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Tikola,004c - नहरी-चाही,agricultural,772.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Tikola,004e - लाल डोरे के अन्दर/बाहर,residential,5100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Tikola,004e - लाल डोरे के अन्दर/बाहर,commercial,6600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Tikola,अन्य पक्के मार्गो के साथ 3 ए,agricultural,1000.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Tikola,जमुना की धार,agricultural,250.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Tikola,जमुना की धार 3 एकड़ से बांध तक,agricultural,454.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Tikola,जमुना की धार से 3 एकड़ तक,agricultural,318.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Tikola,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,886.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Tajpur,004c - नहरी-चाही,agricultural,909.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Tajpur,004e - लाल डोरे के अन्दर/बाहर,residential,5100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Tajpur,004e - लाल डोरे के अन्दर/बाहर,commercial,6600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Tajpur,अन्य पक्के मार्गो के साथ 3 ए,agricultural,1159.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Tajpur,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,1022.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Nandaur,004c - नहरी-चाही,agricultural,772.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Nandaur,004e - लाल डोरे के अन्दर/बाहर,residential,5100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Nandaur,004e - लाल डोरे के अन्दर/बाहर,commercial,6600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Nandaur,अन्य पक्के मार्गो के साथ 3 ए,agricultural,1022.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Nandaur,जमना की धार,agricultural,312.5,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Nandaur,जमना की धार 3 एकड़ से बांध तक,agricultural,454.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Nandaur,जमना की धार से 3 एकड़ तक,agricultural,318.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Nandaur,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,886.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mehndipur,004c - नहरी-चाही,agricultural,888.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mehndipur,004e - लाल डोरे के अन्दर/बाहर,residential,5100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mehndipur,004e - लाल डोरे के अन्दर/बाहर,commercial,6600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mehndipur,अन्य पक्के मार्गो के साथ 3 ए,agricultural,1022.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mehndipur,जमना की धार,agricultural,272.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mehndipur,जमना की धार 3 एकड से बांध तक,agricultural,454.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mehndipur,जमना की धार से 3 एकड तक,agricultural,332.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mehndipur,फिरनी के साथ भूमि 2 एकड तक,agricultural,886.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Asadpur,004c - नहरी-चाही,agricultural,772.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Asadpur,004e - लाल डोरे के अन्दर/बाहर,residential,5100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Asadpur,004e - लाल डोरे के अन्दर/बाहर,commercial,6600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Asadpur,अन्य पक्के मार्गों के साथ 3 ए,agricultural,1045.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Asadpur,जमना पानी की धार,agricultural,250.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Asadpur,जमना पानी की धार से तीन तक,agricultural,318.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Asadpur,तीन एकड से आगे बाध तक,agricultural,454.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Asadpur,फिरनी के साथ भूमि 2 एकड तक,agricultural,909.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Machhraula,004c - नहरी-चाही,agricultural,772.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Machhraula,004e - लाल डोरे के अन्दर/बाहर,residential,5300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Machhraula,004e - लाल डोरे के अन्दर/बाहर,commercial,6600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Machhraula,अन्य पक्के मार्गों के साथ 3 ए,agricultural,1069.21,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Machhraula,जमना की धार,agricultural,250.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Machhraula,जमना की धार 3 एकड़ से बांध तक,agricultural,454.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Machhraula,जमना की धार से 3 एकड़ तक,agricultural,318.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Machhraula,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,886.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Deepalpur,004c - नहरी-चाही,agricultural,1417.05,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Deepalpur,004e - लाल डोरे के अन्दर/बाहर,residential,6600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Deepalpur,004e - लाल डोरे के अन्दर/बाहर,commercial,9900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Deepalpur,अन्य पक्के मार्गो के साथ 3 ए,agricultural,1431.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Deepalpur,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,1136.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mukinpur,004c - नहरी-चाही,agricultural,1136.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mukinpur,004e - लाल डोरे के अन्दर/बाहर,residential,6630,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mukinpur,004e - लाल डोरे के अन्दर/बाहर,commercial,7500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mukinpur,अन्य पक्के मार्गो के साथ 3 ए,agricultural,1204.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Mukinpur,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,1045.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Masadpur,004c - नहरी-चाही,agricultural,909.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Masadpur,004e - लाल डोरे के अन्दर/बाहर,residential,5100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Masadpur,004e - लाल डोरे के अन्दर/बाहर,commercial,7500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Masadpur,अन्य पक्के मार्गो के साथ 3 ए,agricultural,2107.95,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Masadpur,फिरनी के साथ भूमि 2 एकड तक,agricultural,1045.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Basodi,004c - नहरी-चाही,agricultural,772.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Basodi,004e - लाल डोरे के अन्दर/बाहर,residential,5100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Basodi,004e - लाल डोरे के अन्दर/बाहर,commercial,7500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Basodi,अन्य पक्के मार्गो के साथ 3 ए,agricultural,1000.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Basodi,फिरनी के साथ भूमि 2 एकड तक,agricultural,886.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Badoli,004c - नहरी-चाही,agricultural,772.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Badoli,004e - लाल डोरे के अन्दर/बाहर,residential,5100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Badoli,004e - लाल डोरे के अन्दर/बाहर,commercial,7500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Badoli,004f - जमना की धार,agricultural,250.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Badoli,अन्य पक्के मार्गो के साथ 3 ए,agricultural,1045.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Badoli,जमना की धार 3 एकड से बांध तक,agricultural,454.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Badoli,जमना की धार से 3 एकड तक,agricultural,318.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Badoli,फिरनी के साथ भूमि 2 एकड तक,agricultural,886.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SandalKalan,अन्य पक्के मार्गों के साथ 3 ए,agricultural,1000.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SandalKalan,नहरी चाही,agricultural,772.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SandalKalan,फिरनी के साथ भूमि 2 एकड तक,agricultural,886.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SandalKalan,लाल डोरे के अन्दर/बाहर,residential,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SandalKalan,लाल डोरे के अन्दर/बाहर,commercial,7700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SandalKhurd,004c - नहरी-चाही,agricultural,772.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SandalKhurd,004e - लाल डोरे के अन्दर/बाहर,residential,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SandalKhurd,004e - लाल डोरे के अन्दर/बाहर,commercial,7700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SandalKhurd,अन्य पक्के मार्गों के साथ 3 ए,agricultural,1000.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SandalKhurd,फिरनी के साथ भूमि 2 एकड तक,agricultural,886.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,MadalKhurd,004c - नहरी-चाही,agricultural,700.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,MadalKhurd,004e - लाल डोरे के अन्दर/बाहर,residential,4600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,MadalKhurd,004e - लाल डोरे के अन्दर/बाहर,commercial,6800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,MadalKhurd,अन्य पक्के मार्ग के साथ 3 एकड़,agricultural,940.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,MadalKhurd,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,800.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Dharaya,004c - नहरी-चाही,agricultural,840.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Dharaya,004e - लाल डोरे के अन्दर/बाहर,residential,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Dharaya,004e - लाल डोरे के अन्दर/बाहर,commercial,8100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Dharaya,अन्य पक्के मार्ग के साथ 3 ए,agricultural,1068.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Dharaya,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,954.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kami,004c - नहरी-चाही,agricultural,1670.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kami,004e - लाल डोरे के अन्दर/बाहर,residential,6100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kami,004e - लाल डोरे के अन्दर/बाहर,commercial,13280,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kami,अन्य पक्के मार्ग के साथ 3 ए,agricultural,1611.57,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Kami,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,1306.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Jawahri,004c - नहरी-चाही,agricultural,2060.12,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Jawahri,004e - लाल डोरे के अन्दर/बाहर,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Jawahri,004e - लाल डोरे के अन्दर/बाहर,commercial,14300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Jawahri,अन्य पक्के मार्ग के साथ 3 ए,agricultural,3177.94,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Jawahri,"गोहना रोड नगर परिषद् चुंगी से आगे रजबाहे, गोहना रोड चुंगी से साउथ प्वाइंट स्कूल रिहायशी जवाहरी",residential,18700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Jawahri,"गोहना रोड नगर परिषद् चुंगी से आगे रजबाहे, गोहना रोड चुंगी से साउथ प्वाइंट स्कूल व्यवसायिक जवाहरी",commercial,42900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Jawahri,जवाहरी बाई पास,residential,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Jawahri,जवाहरी बाई पास,commercial,26400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Jawahri,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,1636.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Jawahri,राष्ट्रीय राजमार्ग के साथ 2 एकड़ तक,agricultural,3545.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,HusnyarpurTiharKalan,004c - नहरी-चाही,agricultural,795.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,HusnyarpurTiharKalan,004e - लाल डोरे के अन्दर/बाहर,residential,3900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,HusnyarpurTiharKalan,004e - लाल डोरे के अन्दर/बाहर,commercial,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,HusnyarpurTiharKalan,अन्य पक्के मार्ग के साथ 3 ए,agricultural,909.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,HusnyarpurTiharKalan,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,012- सैक्टर 14 सोनीपत 400 वर्ग गज तक के प्लाट,residential,40900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,013- सैक्टर 14 सोनीपत 400 वर्ग गज से अधिक के प्लाट,residential,41745,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,015- HBC Sector-14,residential,34500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,015- HBC Sector-14,commercial,57750,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,016-सैक्टर 15 सोनीपत 400 वर्ग गज तक के प्लॉट Corner प्लॉट और 100 फुट वाले रोड पर स्थित प्लाट,residential,47035,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,017- सैक्टर 15 सोनीपत 400 वर्ग गज से अधिक तक,residential,36800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,018- HBC Sector 15,residential,27600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,019- सैक्टर 12 सोनीपत 400 वर्ग गज तक के प्लाट,residential,53360,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,020- सैक्टर 12 सोनीपत 400 वर्ग गज से अधिक के प्लाट,residential,45500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,021- एच0बी0सी0 सैक्टर -12,residential,35880,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,022- सैक्टर-13 सोनीपत 400 वर्ग गज तक के प्लाट,residential,34500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,023- सैक्टर- 13 सोनीपत 400 वर्ग गज से अधिक के प्लाट,residential,23100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,024- सैक्टर- 10-11 सोनीपत प्लॉट Corner Plot and 100 फुट वाले रोड,residential,25200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,025- सैक्टर-7 सोनीपत हुड्डा 400 वर्ग गज तक के प्लाट,residential,44965,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,026- सैक्टर-7 सोनीपत हुड्डा 400 वर्ग गज से अधिक के प्लाट,residential,47840,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,027- HBC Sector 7,residential,33400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,028- सैक्टर-8 सोनीपत हुड्डा 400 वर्ग गज तक के प्लाट,residential,33400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,029- सैक्टर-8 सोनीपत हुड्डा 400 वर्ग गज से अधिक के प्लाट,residential,35750,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,030- सैक्टर-8 सोनीपत ओमैक्स 400 वर्ग गज तक के प्लाट,residential,30250,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,031- सैक्टर-8 सोनीपत ओमैक्स 400 वर्ग गज से अधिक के प्लाट,residential,21300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,032- सैक्टर-8 सोनीपत पार्श्वनाथ 400 वर्ग गज तक के प्लाट,residential,27830,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,033- सैक्टर-8 सोनीपत पार्श्वनाथ 400 वर्ग गज से अधिक के प्लाट,residential,23460,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,034-सैक्टर-9 सोनीपत ओमैक्स 400 वर्ग गज तक के प्लाट,residential,30250,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,035-सैक्टर-9 सोनीपत ओमैक्स 400 वर्ग गज से अधिक के प्लाट,residential,26250,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,036- सैक्टर-17 सोनीपत ओमैक्स 400 वर्ग गज तक के प्लाट,residential,23100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,037- सैक्टर-17 सोनीपत ओमैक्स 400 वर्ग गज से अधिक के प्लाट,residential,20900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,038- सैक्टर-18 सोनीपत ओमैक्स 400 वर्ग गज तक के प्लाट,residential,28875,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,039- सैक्टर-18 सोनीपत ओमैक्स 400 वर्ग गज से अधिक के प्लाट,residential,20900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,040- सैक्टर-19 सोनीपत ओमैक्स 400 वर्ग गज तक के प्लाट,residential,30250,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,041- सैक्टर-19 सोनीपत ओमैक्स 400 वर्ग गज से अधिक के प्लाट,residential,27375,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,042- सैक्टर-19 सोनीपत एल्डिको 400 वर्ग गज तक के प्लाट,residential,49010,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,043- सैक्टर-19 सोनीपत एल्डिको 400 वर्ग गज से अधिक के प्लाट,residential,40320,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,044- Sector-26 Mapsko Jaikrishna Artech JV 400 वर्ग गज तक,residential,23100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,045- Sector-26 Mapsko Jaikrishna Artech JV 400 वर्ग गज से अधिक,residential,20900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,046- Sector-27 Mapsko Jaikrishna Artech JV 400 वर्ग गज तक,residential,27830,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,047- Sector-27 Mapsko Jaikrishna Artech JV 400 वर्ग गज से अधिक,residential,20900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,048- Sector 16-20-26 A-33-34-35 400 वर्ग गज तक,residential,31500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,049- Sector 16-20-26 A-33-34-35 400 वर्ग गज से अधिक,residential,28470,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,050- Sector 23 400 वर्ग गज तक,residential,36000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,051- Sector 23 400 वर्ग गज से अधिक,residential,24000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,052- HBC Sector 23,residential,39585,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,053- हाउसिंग बोर्ड कालोनी निकट सब्जी मण्डी रिहायशी,residential,28800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,054- हाउसिंग बोर्ड कालोनी निकट सब्जी मण्डी कमर्शियल,commercial,96250,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,055- हाउसिंग बोर्ड कालोनी फ्लैट सैक्टर-12-14-15-23 रिहायशी,residential,43200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,100- माडल टाऊन बस कालोनी कमर्शियल रिहायशी,residential,31900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,100- माडल टाऊन बस कालोनी कमर्शियल,commercial,55000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,154- नगर एवं ग्राम योजना विभाग से लाईसैंस प्राप्त औद्योगिक क्षेत्र,industrial,17710,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,160- EWS Category Rate,residential,13920,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,162- सोनीपत के शहरी क्षेत्र में HSIIDC के अलावा फैक्ट्री रेट,industrial,24200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,165-रिशिका बिल्डवैल फेज-1 and फेज-2,residential,33000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,165-रिशिका बिल्डवैल फेज-1 and फेज-2,commercial,66000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,166-श्रीराम रेजीडैंशिज,residential,33000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,166-श्रीराम रेजीडैंशिज,commercial,66000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,All Builders Sec 8 9 16 18 19 34 35 36 etc Commercial rate Independent Property,commercial,110000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,All Commercial Plots in all private builders society,commercial,52780,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,All institutional plots in sectors,commercial,20625,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,AUTO MARKET SEC 3 SONIPAT BB workshop 2 storeyed without basement 1 to 7 total area 450 Sq M,commercial,37400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,BGCC Developers private Ltd. commercial,commercial,55000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,BGCC Developers private Ltd. Residential,residential,26400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,Booth Site Single Story with basement with store size 22.69 Sq M Sec 14,commercial,352000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,Booth Site Single Story with basement with store size 22.69 Sq M Sec 15,commercial,214500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,Booth Site Single Story with basement with store size 22.69 Sq M Sec 23,commercial,171600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,Booth Site Single Story with basement with store size 22.69 Sq M Sec 7 12 13,commercial,157300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,Booth Site Single Story without basement with store size 22.69 Sq M Sec 14,commercial,343200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,Booth Site Single Story without basement with store size 22.69 Sq M Sec 15,commercial,214500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,Booth Site Single Story without basement with store size 22.69 Sq M Sec 23,commercial,171600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,Booth Site Single Story without basement with store size 22.69 Sq M Sec 7 12 13,commercial,157300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,Building upto three story rates in per Sq Feet residential,residential,45540,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,Built up Booth Corner Site Total area 23.64 Sq M Sec 14,commercial,231000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,Built up Booth Corner Site Total area 23.64 Sq M Sec 15,commercial,187000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,Built up Booth Corner Site Total area 23.64 Sq M Sec 23,commercial,122100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,Built up Booth Corner Site Total area 23.64 Sq M Sec 7 12 13,commercial,150700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,Dhaba without Basement Size 5.5 X 5.5 M total area 30.25,commercial,55000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,DSS with SSB area 75.63 sq m without basement Sec 14,commercial,137500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,DSS with SSB area 75.63 sq m without basement Sec 15,commercial,66000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,DSS with SSB area 75.63 sq m without basement Sec 23,commercial,66000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,DSS with SSB area 75.63 sq m without basement Sec 7 12 13,commercial,66000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,Flats per Floor per Sq Feet,residential,36000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,Grand Imperial Developers LLP Commercial,commercial,55000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,Grand Imperial Developers LLP Residential,residential,30800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,Institutional Plots Independent floors Flats Shops in Mall,commercial,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,Kiosk Area 7.56 sq m sec12 snp,commercial,122100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,Kiosk Area 7.56 sq m sec13 snp,commercial,122100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,Kiosk Area 7.56 sq m sec14 snp,commercial,137500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,Kiosk Area 7.56 sq m sec15 snp,commercial,158125,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,Kiosk Area 7.56 sq m sec23 snp,commercial,92400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,Kiosk Area 7.56 sq m sec7 snp,commercial,106700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,KIOSK Size 2.75 X 2.75 M Total area 7.56 Sq M,commercial,68200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,Kristina Infrastructure Pvt. Ltd.,commercial,110000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,Repair and Service Shop without purposed to be 2 storied as per new policy 23 to 33 and 161 to 182,commercial,46200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,Repair Spare parts basement purposed to be with storage as per new policy 323 to 332 and 333 to 350,commercial,61600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,Repair Spare parts without basement at the back of Service shop total area 45.38 Sq m,commercial,57200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,Repair Spare parts without basement back to back shop total area 22.69 Sq m,commercial,61600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,SCO Site Triple Story with basement double side corridor total area 137.5 Sq m Sec 14,commercial,100100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,SCO Site Triple Story with basement double side corridor total area 137.5 Sq m Sec 15,commercial,90200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,SCO Site Triple Story with basement double side corridor total area 137.5 Sq m Sec 23,commercial,50400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,SCO Site Triple Story with basement double side corridor total area 137.5 Sq m Sec 7 12 13,commercial,89375,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,Sector 07 Institutional Site building,commercial,17600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,Service Shop without basement purposed to be 2 storied as per new policy 8 to 22 and 183 to 232,commercial,55000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,Shop SCO in multistories building per Sq ft 20 percent extra on front facing GT Road,commercial,168300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,Shop SCO Multi Story Build.,commercial,148500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,The Golden Avenue Commercial,commercial,55000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,The Golden Avenue Residential,residential,26400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,अग्रसैन तिर्थ मार्किट पुरानी अनाज मण्डी के निकट स्थित कालोनिया अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,24150,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,अग्रसैन तिर्थ मार्किट पुरानी अनाज मण्डी के निकट स्थित कालोनिया अन्दर आबादी बिना खसरा नम्बर व्यावसायिक,commercial,46200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,अग्रसैन नगर तिर्थ मार्किट पुरानी अनाज मण्डी के निकट कालोनिया अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,30360,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,अग्रसैन नगर तिरछे मार्किट पुरानी अनाज मण्डी के निकट कालोनियां अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,58800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,अतुल नर्सरी से जी०टी० रोड मुरथल 100 फुट पट्टी मुसलमान अन्दर आबादी बिना खसरा नम्बर आवासीय,residential,14300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,अतुल नर्सरी से जी०टी० रोड मुरथल 100 फुट पट्टी मुसलमान अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,28600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,अशोक नगर अन्दर आबादी बिना खसरा नम्बर आवासीय,residential,43500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,अशोक विहार चौहान कालोनी अनील विहार मालवीय नगर विकास नगर अन्दर आबादी बिना खसरा नम्बर आवासीय,residential,23100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,अशोक विहार चौहान कालोनी अनील विहार मालवीय नगर विकास नगर अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,37400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,आनन्द नगर विकास पुरी अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,17300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,आनन्द नगर विकास पुरी अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,आनन्द सि० राठधाना रोड ITI चौक कबीरपुर बाईपास तक 100 फुट तक अन्दर आबादी बिना खसरा व्यवसायिक,commercial,60500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,आनन्द सिनेमा से कबीरपुर रोड सडक के दोनो ओर 100 फुट गहराई अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,37400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,आदर्श नगर जानकीदास ह० के पिछे कैलाश पुर व समसान व गीता कालेज आस पास अन्दर आबादी बिना खसरा व्यवसायिक,commercial,38500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,आदर्श नगर जानकीदास ह० के पिछे कैलाश पुर व समसान व गीता कालेज आस पास अन्दर आबादी बिना खसरा निवासीय,residential,23100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,इण्डस्ट्रीयल एरिया सोनीपत व मुरथल अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,24200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,इण्डस्ट्रीयल एरिया सोनीपत व मुरथल अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,19314.54,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,इण्डियन कालोनी एक्स-1 अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,इण्डियन कालोनी एक्स-1 अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,26400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,इन्द्र पुरी अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,22800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,इन्द्र पुरी अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,37400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,उत्तम नगर अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,उत्तम नगर अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,25300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,उपरोक्त के पिछे आनन्द सिनेमा तथा पावर हाउस के आस पास अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,19800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,उपरोक्त के पिछे इदगाह कालोनी आदि अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,14300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,उपरोक्त के पिछे इदगाह कालोनी आदि अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,उपरोक्त के पिछे इन्द्र गीता कालोनी आठ मरला MC कालोनी जसवन्त नगर अन्दर आबादी बिना खसरा निवासीय,residential,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,उपरोक्त के पिछे इन्द्र गीता कालोनी आठ मरला MC कालोनी जसवन्त नगर अन्दर आबादी बिना खसरा व्यवसायिक,commercial,46200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,उपरोक्त के पिछे कमर्शियल रिहायशी व बाबा कालोनी अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,14300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,उपरोक्त के पिछे कमर्शियल रिहायशी व बाबा कालोनी अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,26400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,उपरोक्त के पिछे कमर्शियल रिहायशी प्लाट व राजिव कालोनी अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,14300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,उपरोक्त के पिछे कमर्शियल रिहायशी प्लाट व राजिव कालोनी अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,36300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,उपरोक्त के पिछे छोटू राम कालोनी प्रगती नगर मलिक कालोनी आदि अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,18700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,उपरोक्त के पिछे छोटू राम कालोनी प्रगती नगर मलिक कालोनी आदि अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,38500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,उपरोक्त के पिछे जैन बाग कालोनी अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,22000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,उपरोक्त के पिछे टीचर कालौनी अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,उपरोक्त के पिछे व सरस्वती विहार अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,उपरोक्त के पिछे शास्त्री इन्डीयन कालौनी मयूर विहार पुराने बाग के आस पास अन्दर आबादी बिना ख0 निवासी,residential,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,उपरोक्त के पिछे शास्त्री इन्डीयन कालौनी मयूर विहार पुराने बाग के आस पास अन्दर आबादी बिना ख0 व्यव0,commercial,26400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,उपरोक्त के पिछे शिवाजी कालौनी आदि अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,42900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,उपरोक्त के पिछे शिवाजी कालौनी आदिअन्दर आबादी बिना खसरा नम्बर निवासीय,residential,25300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,उपरोक्त के पिछे श्याम नगर रिहाईशी अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,22000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,उपरोक्त के पिछे सड़क के दोनो ओर प्रोफेसर कालोनी से ककरोई रोड चुंगी व सै0 23 अन्दर आबादी बिना ख0 निव0,residential,18975,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,उपरोक्त के पिछे सड़क के दोनो ओर प्रोफेसर कालोनी से ककरोई रोड चुंगी व सै0 23 अन्दर आबादी बिना ख0 व्यव0,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,उपरोक्त से आगे पावर हाउस तक अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,30800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,उपरोक्त से आगे पावर हाउस तक अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,69300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,कच्ची कालोनी अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,कच्ची कालोनी अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,एटलस राम मन्दिर से फलाई रोड पुराना डी0सी0 ऑफिस तक डबल स्टोरी रोड अन्दर आबादी बिना खसरा व्यवसायिक,commercial,64900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,एटलस राम मन्दिर से मिनर्वा सि० डोनो ओर PWD रैस्ट हाउस से रेलवे स्टेशन तक अन्दर आबादी बिना खसरा व्य०,commercial,87400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,कबीरपुर कालोनी अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,कबीरपुर कालोनी अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,कालूपुर चुंगी रोहतक रोड के आस पास स्थित भगत सिंह कालोनी ब्रह्म नगर आदि अन्दर आबादी बिना खसरा निवासीय,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,कालूपुर चुंगी रोहतक रोड के आस पास स्थित भगत सिंह कालोनी ब्रह्म नगर आदि अन्दर आबादी बिना खसरा व्य०,commercial,26400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,किर्ती नगर एक्स० अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,किर्ती नगर एक्स० अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,26400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,कुम्हार गेट अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,22770,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,कुम्हार गेट अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,60500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,कैलाश कालोनी शान्ति विहार सर्जीकल सैन्टर के आस पास अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,कैलाश कालोनी शान्ति विहार सर्जीकल सैन्टर के आस पास अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,25300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,कैलाश नगर एक्स. अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,कैलाश नगर एक्स. अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,25300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,कोट मोहल्ला अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,13915,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,कोट मोहल्ला अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,17600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,खान कालोनी अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,30800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,खान कालोनी अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,69300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,गंज बाजार अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,19800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,गंज बाजार अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,60500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,मंडी गेट से नगर परिषद सीमा तथा मंडी ब्राह्मणान गेट से गोहाना रोड जेल तक अन्दर आबादी बिना खसरा व्यव०,commercial,26400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,गढ़ी पसीटा शिव नगर देव नगर अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,17600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,गढ़ी घसीटा शिव नगर देव नगर अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,30800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,गीता भवन चौक से गुरूद्वारा रोड SD स्कूल होते हुए दयाल चौक 100 फुट की गहराई अन्दर आबादी बिना खसरा व्यव,commercial,106700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,गीता भवन चौक से ठाकुर मोहन लाल वाली सड़क पर ओल्ड DC रोड चौराहे तक 100 फुट अन्दर आबादी बिना ख0 व्यव0,commercial,106700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,गोकल नगर अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,22000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,गोकल नगर अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,गोविन्द नगर अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,गोविन्द नगर अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,25300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,गोविन्द नगर राजिव नगर अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,गोविन्द नगर राजिव नगर अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,25300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,गोहाना बाई पास नियर रेलवे क्रोसिंग अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,18700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,गोहाना बाई पास नियर रेलवे क्रोसिंग अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,42900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,गोहाना रोड परिषद चुंगी से रजभाये तक गोहाना रोड चुंगी से साऊथ प्वाईंट स्कूल अन्दर आबादी बिना ख0 निवासीय,residential,18700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,गोहाना रोड परिषद चुंगी से रजभाये तक गोहाना रोड चुंगी से साऊथ प्वाईंट स्कूल अन्दर आबादी बिना ख0 व्यव0,commercial,42900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,चावला कालोनी एक्स. अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,चावला कालोनी एक्स. अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,चिंतपूर्णी कालोनी शर्मा नर्सिंग होम के पिछे व आस पास अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,28600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,चिंतपूर्णी कालोनी शर्मा नर्सिंग होम के पिछे व आस पास अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,50600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,छोटू राम चौक गोहाना रोड पुलिस लाईन तक सडक के दोनो ओर 100 फुट अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,83600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,छोटू राम चौक से गोहाना रोड समसान घाट सडक के दोनों ओर 100 फुट तक अन्दर आबादी बिना खसरा व्यवसायिक,commercial,84700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,जनता क लक्ष्मी नगर बसन्त विहार तबस्सुम क सिदार्थ इन्क सिदार्थ व आस पास अन्दर आबादी बिना खसरा निवासीय,residential,16800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,जनता क लक्ष्मी नगर बसन्त विहार तबस्सुम क सिदार्थ इन्क सिदार्थ व आस पास अन्दर आबादी बिना खसरा व्यव,commercial,31500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,जमातपुरा अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,22000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,जवाहर नगर सुभाष नगर विशाल नगर वैस्ट राम नगर व इसके आस पास अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,17600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,जवाहर नगर सुभाष नगर विशाल नगर वैस्ट राम नगर व इसके आस पास अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,जीवन विहार अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,जीवन विहार अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,जीवन विहार एक्स. अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,जीवन विहार एक्स. अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,जीवन विहार से आगे गांव देवडू तक अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,14300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,जीवन विहार से आगे गांव देवडू तक अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,33000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,जे०पी० जैन स्कूल कालोनी न्यू अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,जे०पी० जैन स्कूल कालोनी न्यू अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,19800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,टीकाराम गर्ल्स कालेज से श्री हुकम सिंह की कोठी से टीकाराम हास्टल अन्दर आबादी बिना खसरा नम्बर टयब0,commercial,46200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,डबल स्टोरी इन्डस्ट्रीयल कालोनी निकट डबल स्टोरी अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,19800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,डबल स्टोरी इन्डस्ट्रीयल कालोनी निकट डबल स्टोरी अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,30800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,डाक्टर कर्म चन्द हस० के आस पास पुराना सैल टैक्स आफिस के पिछे व उपरोक्त अन्दर आबादी बिना खसरा टयब0,commercial,90200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,दयाल चौक से पुरखास अडडा होते हुए रेलवे अंडर ब्रिज तक 100 फुट तक अन्दर आबादी बिना खसरा नम्बर टयब,commercial,69300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,दहिया कालोनी अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,दहिया कालोनी अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,दिल्ली कैम्प अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,19800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,दिल्ली कैम्प अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,30800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,देवी लाल चौक से अम्बाला रोड मुरथल रोड अग्रसेन चौक 100 फुट तक अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,25300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,देवी लाल चौक से अम्बाला रोड मुरथल रोड अग्रसेन चौक 100 फुट तक अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,92400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,धोबी वाडा अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,धोबी वाडा अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,42900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,नई अनाज मण्डी अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,61600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,नजदीक जाटवाडा गांव अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,नजदीक जाटवाडा गांव अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,ननंदवानी नगर अन्दर आबादी बिना खसरा नम्बर आवासीय,residential,29095,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,ननंदवानी नगर अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,37400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,ननंदवानी नगर से आगे खानचन्द बग वाली जमीन अन्दर आबादी बिना खसरा नम्बर आवासीय,residential,21505,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,ननंदवानी नगर से आगे खानचन्द बग वाली जमीन अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,33000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,नरेन्द्र रूप चमन पटेल नगर ITI के पिछे मिल्टन होली च० स्कूल के आस पास अन्दर आबादी बिना खसरा निवासीय,residential,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,नरेन्द्र रूप चमन पटेल नगर ITI के पिछे मिल्टन होली च० स्कूल के आस पास अन्दर आबादी बिना खसरा व्यवसायिक,commercial,40040,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,न्यू कालोनी सुजान सिंह पार्क अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,34450,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,न्यू कालोनी सुजान सिंह पार्क अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,42900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,न्यू क्लाथ मार्किट शहीद चौक अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,110000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,पंचशील कालोनी अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,पंचशील कालोनी अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,30800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,पावर हाउस से दिवान पैलेस तक बहालगढ रोड़ 100 फुट तक दोनो ओर अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,46200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,पुराना शहर कमर्शियल सड़क के दोनों ओर 100 फुट की गहराई तक अन्दर आबादी बिना खसरा व्यवसायिक,commercial,61985,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,पुराना शहर रिहाईशी अन्दर आबादी बिना खसरा नम्बर निवासी,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,पुरानी अनाज मण्डी अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,61600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,पुलिस लाईन से नगर परिषद चुंगी तक कमर्शियल सड़क के दोनों ओर अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,69300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,प्रगती नगर एक्स अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,18700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,प्रगती नगर एक्स अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,38500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,प्रगती नगर एक्स. अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,18700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,प्रगती नगर एक्स. अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,38500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,प्रभू नगर मण्डी कृष्णा नगर गांधी नगर भरत पूरी व आस पास स्थित कालोनी अन्दर आबादी बिना खसरा निवासीय,residential,31900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,प्रभू नगर मण्डी कृष्णा नगर गांधी नगर भरत पूरी व आस पास स्थित कालोनी अन्दर आबादी बिना खसरा व्यवसायिक,commercial,58870,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,प्रित विहार अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,प्रित विहार अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,25300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,प्रेम नगर अंदर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,69300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,प्रेम नगर अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,प्रेम नगर अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,46200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,फ़राश खाना मोहल्ला कलां मोहल्ला कोट जमालपुरा देवी वाड़ा तेली वाड़ा अन्दर आबादी बिना खसरा निवासीय,residential,12700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,फ़राश खाना मोहल्ला कलां मोहल्ला कोट जमालपुरा देवी वाड़ा तेली वाड़ा अन्दर आबादी बिना खसरा व्यवसायिक,commercial,24960,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,बड़ा बाजार कुम्हार गेट से गंज बाजार मण्डी आर्य कन्या से मुरथल अडडा चौक के पिछे अन्दर आबादी बिना ख0 नि,residential,19800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,बड़ा बाजार कुम्हार गेट से गंज बाजार मण्डी आर्य कन्या स्कूल से मुरथल अडडा चौक तक अन्दर आबादी बिना ख0 व्य,commercial,60500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,बड़ा कालोनी कल्याण नगर कृषि नगर अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,29095,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,बडा कालोनी कल्याण नगर कृषि नगर अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,48300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,बडा कालोनी भगतपुरा तारानगर जीवननगर न्यूभगतपूरा न्यूब्रह्म न्यूतारांनगर पंचमंनगर अन्दर आबादी बिना ख० व्य,commercial,40800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,बडा कालोनी भगतपुरा तारानगर जीवननगर न्यूभगतपूरा न्यूब्रह्म न्यूतारांनगर पंचमंनगर अन्दर आबादी बिना ख० नि,residential,20900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,बहालगढ रोड पर सिविल ह0 से 14 वाली सडक पर टी0पी0 स्कीम अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,69300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,बैराजी मोहल्ला अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,बैराजी मोहल्ला अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,42900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,ब्रह्म कालोनी चार मरला प्रेम कालोनी शांति नगर अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,31625,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,ब्रह्म कालोनी चार मरला प्रेम कालोनी शांति नगर अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,20900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,भगत हस० से आनन्द सिनेमा तक दोनों ओर 100 फुट तक अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,75600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,भगतसिंह कालोनी अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,भगतसिंह कालोनी अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,26400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,मसंद स्कूल आत्म प्रकाश डा० की दुकान से मामा भांजा चौक तक दोनों ओर 100 फुट अन्दर आबादी बिना खसरा व्यव०,commercial,113850,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,महलाना रोड समसान घाट से ओम पैट्रोल पम्प होते हुए फाटक तक दोनो ओर 100 फुट अन्दर आबादी बिना ख० व्यव०,commercial,84700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,महाबीर कालोनी नई कमर्शियल रिहायशी अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,18700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,महाबीर कालोनी नई कमर्शियल रिहायशी अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,महाबीर कालोनी पुरानी अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,26400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,महाबीर कालोनी पुरानी अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,45100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,माडल टाउन बस कालोनी अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,31900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,माडल टाउन बस कालोनी अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,61985,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,मामचन्द कालोनी एक्स. अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,14300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,मामचन्द कालोनी एक्स. अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,18700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,मामा भांजा चौक से देवी लाल चौक अन्दर आबादी बिना खसरा नम्बर,residential,25300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,मामा भांजा चौक से देवी लाल चौक से होते हुए क्लॉथ मार्किट अन्दर आबादी बिना खसरा नम्बर,commercial,110000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,मायापुरी एक्स. अन्दर आबादी बिना खसरा नम्बर,residential,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,मायापुरी एक्स. अन्दर आबादी बिना खसरा नम्बर,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,मिनर्वा सि0 से सुभाष चौक गीता भवन चौक से आगे कलोथ मार्किट तक अन्दर आबादी बिना खसरा,commercial,137500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,मिशन चौक से टीकाराम गर्ल्स कालेज रोहतक रोड के मिलान तक अन्दर आबादी बिना खसरा नम्बर,commercial,69300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,मिशन रोड व देव नगर सुभाष नगर के बीच चर्च की भूमि पर काटी गई कालोनी अन्दर आबादी बिना खसरा,residential,19800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,मिशन रोड व देव नगर सुभाष नगर के बीच चर्च की भूमि पर काटी गई कालोनी अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,मुरथल अडडा से नई सब्जी मण्डी की ओर सडक के दोनो ओर 100 फुट अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,63800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,मुरथल देवडू लिंक रोड से जे0पी0 जैन स्कूल तक सडक के दोनो ओर अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,18700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,मुरथल देवडू लिंक रोड से जे0पी0 जैन स्कूल तक सडक के दोनो ओर अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,30800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,मेमोरियल ह0 से भगत ह0 तक सडक के दोनो और 100 फुट अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,83600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,मेमोरियल हस्पताल से ई0सी0ई0 फैक्टरी सडक के दोनों ओर 100 फुट तक अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,112585,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,मोहन नगर बाबा कालोनी अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,14300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,मोहन नगर बाबा कालोनी अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,26400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,मोहन नगर-2 अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,15000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,मोहन नगर-2 अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,26400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,मोहन पुरा अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,18700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,मोहन पुरा अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,38500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,मोहल्ला जटवाडा अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,42900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,मोहल्ला जटवाडा अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,मोहल्ला भोटन जटवाडा लालदरवाजा बाल्मीकीबस्ती मोहल्ला सैनीयान पुरखास रोड चुंगी अन्दर आबादी बिना खसरा नम्बर नि,residential,20930,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,मोहल्ला भाटन जाटवाडा नाल दरवाजा बाल्मीकी बस्ती मोहल्ला सैनीयान पुरखास रोड चुंगी अन्दर आबादी बिना ख0 न0,commercial,42900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,राज धोबी मोहल्ला भीम नगर ज्ञान दताय संत गौतम नगर मोहल्ला धानकान अन्दर आबादी बिना खसरा निवासीय,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,राज धोबी मोहल्ला भीम नगर ज्ञान दताय संत गौतम नगर मोहल्ला धानकान अन्दर आबादी बिना खसरा व्यवसायिक,commercial,28600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,रामेश्वर कालोनी अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,14300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,रामेश्वर कालोनी अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,23100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,रेलवे अण्डर ब्रिज से SD स्कूल के पिछे सिटी हस्प0 होते हुए गोहाना रोड तक अन्दर आबादी बिना खसरा व्यवसायिक,commercial,61600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,रेलवे फाटक से हिन्दू कालेज होते हुए रोहतक रोड सुरी पैट्रोल पम्प तक अन्दर आबादी बिना खसरा व्यव0,commercial,110000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,लक्ष्मी नगर अन्दर आबादी बिना खसरा नम्बर,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,लक्ष्मी नगर अन्दर आबादी बिना खसरा नम्बर,commercial,26400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,लाजपत नगर वार्ड नं0 12 तक अन्दर आबादी बिना खसरा नम्बर,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,लाजपत नगर वार्ड नं0 12 तक अन्दर आबादी बिना खसरा नम्बर,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,लाल दरवाजा अन्दर आबादी बिना खसरा नम्बर,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,लाल दरवाजा अन्दर आबादी बिना खसरा नम्बर,commercial,42900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,विकास नगर एक्स. अन्दर आबादी बिना खसरा नम्बर,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,विकास नगर एक्स. अन्दर आबादी बिना खसरा नम्बर,commercial,28600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,विकास नगर कालोनी अन्दर आबादी बिना खसरा नम्बर,residential,22330,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,विकास नगर कालोनी अन्दर आबादी बिना खसरा नम्बर,commercial,28600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,विवेकानन्द चौक से सैक्टर 14 15 के डिवाइडिंग रोड के पिछे अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,69300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,विवेकानन्द चौक से सैक्टर 14 15 के डिवाइडिंग रोड के पिछे अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,वैकसन कालोनी अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,34100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,वैकसन कालोनी अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,29095,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,शनिचराण बस्ती अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,14300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,शनिचराण बस्ती अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,18700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,शमसान घाट से गढी गेट तथा महलाना रोड ककरोई रोड सै0 23 का 100 फुट का रोड अन्दर आबादी बिना खसरा व्यव0,commercial,61600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,शहीद चौक से राम बाजार तक तथा फैज बाजार अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,82500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,शादीपुर कालोनी अन्दर आबादी बिना खसरा नम्बर आवासीय,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,शादीपुर कालोनी अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,25300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,शास्त्री कालेज जमालपुरा से कुम्हार गेट अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,30800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,शास्त्री कालोनी एक्स. अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,शास्त्री कालोनी एक्स. अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,26400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,शिव कालोनी एक्स. अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,14300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,शिव कालोनी एक्स. अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,17600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,सब्जी मण्डी से शुगर मील के पीछे कृषी कालोनी अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,सब्जी मण्डी से शुगर मील के पीछे कृषी कालोनी अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,सब्जी मण्डी से शुगर मील तक सड़क के दानो ओर 100 फुट अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,31900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,सांई पुरम अन्दर आबादी बिना खसरा नम्बर आवासीय,residential,14300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,सांई पुरम अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,18700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,सामान्य बस अडडा से बाबा तराना से महात्मा गांधी चौक अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,115000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,सिक्का कालोनी अन्दर आबादी बिना खसरा नम्बर आवासीय,residential,25300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,सिक्का कालोनी अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,46750,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,सिंचाई विभाग कार्यालय से राठधाना रोड पर अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,46200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,सिटी हस्पताल से ककरोई रोड सै0 23 पुलिस पोस्ट तक सड़क के दोनो ओर 100 फुट अन्दर आबादी बिना खसरा व्य0,commercial,69300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,सिद्धार्थ कालोनी अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,सिद्धार्थ कालोनी अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,26400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,सिविल हस्पताल के पिछे ई0सी0ई0 फैक्टरी के पिछे अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,23100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,सिविल हस्पताल के पिछे ई0सी0ई0 फैक्टरी के पिछे अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,30800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,सुंदर सावरी घटी कानूनगोयान अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,सुंदर सावरी घटी कानूनगोयान अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,18700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,सुभाष चौक नगर परिषद् दुकानों के पिछे माडल टाउन दुकान सपड़ा हसू० पिछे अन्दर आबादी बिना खसरा व्यय०,commercial,83600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,सुभाष चौक से ESI Dis डैम्बला बटन फै० अशोक नगर कच्चे कवाटर मार्किट अन्दर आबादी बिना ख० व्यय०,commercial,150000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,सूरी पैट्रोल पम्प से रोहतक रोड कालूपुर चुंगी तक दोनो और 100 फुटतक अन्दर आबादी बिना खसरा नम्बर टयूब0,commercial,99000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,सैक्टर -14 15 अग्रसैन चौक से अतुल नर्सरी 100 फुट तक अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,सैक्टर -14 15 अग्रसैन चौक से अतुल नर्सरी 100 फुट तक अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,46200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,सैक्टर -14 15 विभाजन रोड अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,सैक्टर -14 15 विभाजन रोड अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,46200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,सैक्टर -14 15 विभाजन रोड से अतुल नर्सरी तक 100 फुट के बाद अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,सैक्टर -14 15 विभाजन रोड से अतुल नर्सरी तक 100 फुट के बाद अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,37400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,सैनीपुरा अन्दर आबादी बिना खसरा नम्बर निवासिय,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,सैनीपुरा अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,42900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,सोनीपत पट्टी जाटान पट्टी मुसलमान जमालपुर खुर्द जमालपुर कलां अन्दर आबादी बिना खसरा नम्बर निवासिय,residential,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,सोनीपत पट्टी जाटान पट्टी मुसलमान जमालपुर खुर्द जमालपुर कलां अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,30800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,हनुमान नगर एक्स. अन्दर आबादी बिना खसरा नम्बर निवासिय,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,हनुमान नगर एक्स. अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,हेम नगर खन्ना कालोनी हीरा नगर अन्दर आबादी बिना खसरा नम्बर व्यवसायिक,commercial,52635,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,हेम नगर खन्ना कालोनी हीरा नगर अन्दर आबादी बिना खसरा नम्बर निवासीय,residential,30360,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,148b- Jattan inside भूमि,agricultural,5022.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,149b - Muslman inside भूमि,agricultural,5022.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,अग्रसैन नगर तीर्थ मार्किट पुरानी अनाज मण्डी के निकट स्थित कालोनियां निवासीय पट्टी मुसलान,residential,25300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,अग्रसैन नगर तीर्थ मार्किट पुरानी अनाज मण्डी के निकट स्थित कालोनियां व्यवसायिक पट्टी मुसलान,commercial,53130,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,अतुल नर्सरी से नीटी रोड मुखयन 100 फुट रिहायशी पट्टी मुसलान,residential,15000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,अतुल नर्सरी से नीटी रोड मुखयन 100 फुट व्यवसायिक पट्टी मुसलान,commercial,28600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,आदर्श नगर व जानकी दास हस्पताल के पीछे केंमापुर व शमशान गीता भवन कालेज रिहायशी पट्टी मुसलान,residential,22000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,आदर्श नगर व जानकी दास हस्पताल के पीछे कैलाशपुर व शमशान गीता भवन कालेज व्यवसायिक पट्टी मुसलमान,commercial,41400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,आनन्द सिनेमा से कबीरपुर रोड सडक से दोनो ओर 100 फुट व्यवसायिक पट्टी मुसलमान,commercial,37400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,आनन्द सिनेमा से राठधना रोड आईटीआई चौक व्यवसायिक सडक के दोनो ओर 100 फुट पट्टी मुसलमान,commercial,60500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,इन्द्रपुरी रिहायशी पट्टी मुसलमान,residential,20900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,इन्द्रपुरी व्यवसायिक पट्टी मुसलमान,commercial,37400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,उक्त के पीछे राजीव कालोनी अतुल नर्सरी से जीटी रोड मुरथल रिहायशी पट्टी मुसलमान,residential,14300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,उक्त के पीछे राजीव कालोनी अतुल नर्सरी से जीटी रोड मुरथल व्यवसायिक पट्टी मुसलमान,commercial,48125,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,एटलस राममंदिर से मिनर्वासिनेमा पीडब्ल्यूडी रेस्ट हा. से रेलवे स्टे 100फुट तक व्यवसायिक पट्टी मुसलमान,commercial,82500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,एटलसराममंदिर से मिनर्वासिनेमा पीडब्ल्यूडी रेस्ट हा. से रेलवे स्टे. उक्त केपीछे टीयरको० रि० पट्टी मुसलमान,residential,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,"कुम्हार गेट से गंज बाजार मोहल्ला, मण्डी आर्य कन्या हाई स्कूल - मुरथल चौक व्यवसायिक पट्टी मुसलमान",commercial,60500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,गीताभवन चौक गुरूद्वारा रोड से दयाल चौक से कुम्हार गेट व सांरंग रोड मुख्य डाकघर से गीताभवन चौक व्य० पट्टी मु०,commercial,104500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,चावला कालोनी एक्स.,residential,16100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,चावला कालोनी एक्स.,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,चिन्तपूर्णी कॉलोनी शर्मा नर्सिंग के पीछे व इसके आस पास रिहायशी पट्टी मुसलमान,residential,35750,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,चिन्तपूर्णी कॉलोनी शर्मा नर्सिंग के पीछे व इसके आस पास व्यवसायिक पट्टी मुसलमान,commercial,46200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,जनता कॉलोनी लक्ष्मी नगर बसंत विहार तबस्सुम कॉलोनी सिद्धार्थ इनक्लेव कॉलोनी रिहायशी पट्टी मुसलमान,residential,17710,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,जनता कॉलोनी लक्ष्मी नगर बसंत विहार तबस्सुम कॉलोनी सिद्धार्थ इनकलेव कॉलोनी व्यवसायिक पट्टी मुसलमान,commercial,55125,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,जीवन विहार उपरोक्त कालोनियां से आगे गांव देवडू की तरफ रिहायशी पट्टी मुसलमान,residential,14300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,जीवन विहार उपरोक्त कालोनियां से आगे गांव देवडू की तरफ व्यवसायिक पट्टी मुसलमान,commercial,33000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,जीवन विहार कमर्शियल पट्टी मुसलमान,commercial,32500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,जीवन विहार रिहायशी पट्टी मुसलमान,residential,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,जे.पी. जैन स्कूल कालोनी UC 4686,residential,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,जे.पी. जैन स्कूल कालोनी UC 4686,commercial,19800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,दयाल वाले चौक से पुरखास अड्डा होते हुए रेलवे अंडर ब्रिज 100 फुट गहराई तक व्यवसायिक पट्टी मुसलमान,commercial,69300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,दिल्ली कैम्प रिहायशी पट्टी मुसलमान,residential,19800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,दिल्ली कैम्प व्यवसायिक पट्टी मुसलमान,commercial,30800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,देवीलालचौक से अम्बालारोड मुरथल से 14व15अग्रसैन चौक 100फुटकेबाद शिवाजीकालोनी रिहायशी पट्टीमुसलमान,residential,25300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,देवीलालचौक से अम्बालारोड मुरथल से 14व15अग्रसैन चौक 100फुटकेबाद शिवाजीकालोनी व्यवसायिक पट्टीमुसलमान,commercial,92400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,नन्दवानी नगर रिहायशी पट्टी मुसलमान,residential,25300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,नन्दवानी नगर व्यवसायिक पट्टी मुसलमान,commercial,37400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,नन्दवानी नगर से आगे खानचन्द बत्रा वाली जमीन रिहायशी पट्टी मुसलमान,residential,18700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,नन्दवानी नगर से आगे खानचन्द बत्रा वाली जमीन व्यवसायिक पट्टी मुसलमान,commercial,34500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,न्यू कालोनी सुजान सिंह पार्क रिहायशी पट्टी मुसलमान,residential,27600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,न्यू कालोनी सुजान सिंह पार्क व्यवसायिक पट्टी मुसलमान,commercial,49400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,"पट्टीजातान, पट्टीमुसलमान जमालपुरखुर्द जमालपुरकलां भूमि प्रति वर्गगज रिहायशी पट्टीमुसलमान",residential,18975,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,"पट्टीजातान, पट्टीमुसलमान जमालपुरखुर्द जमालपुरकलां भूमि प्रति वर्गगज व्यवसायिक पट्टीमुसलमान",commercial,30800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,पावर हाउस से दीवान पैलस बहालगढ रोड 100 फुट व्यवसायिक पट्टी मुसलमान,commercial,53130,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,पुराना शहर कमर्शियल सडक के 100 फुट तक पट्टी मुसलमान,commercial,53900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,पुराना शहर रिहायशी पट्टी मुसलमान,residential,16100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,प्रगति नगर एक्सटैंसन,residential,18700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,प्रगति नगर एक्सटैंसन,commercial,38500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,प्रेम नगर निवासीय,residential,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,प्रेम नगर व्यवसायिक,commercial,48300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,प्रोफेसर कालोनी से ककरोई रोड पुरानी चुंगी सैक्टर 23 पुलिस नाका तक आर्य नगर कमर्शियल पट्टी मुसलमान,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,प्रोफेसर कालोनी से ककरोई रोड पुरानी चुंगी सैक्टर 23 पुलिस नाका तक आर्य नगर रिहायशी पट्टी मुसलमान,residential,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,बड़ा कालोनी कल्याण नगर कृषि नगर रिहायशी पट्टी मुसलमान,residential,30417.5,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,बड़ा कालोनी कल्याण नगर कृषि नगर व्यवसायिक पट्टी मुसलमान,commercial,46200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,बड़ा कालोनी भगतपुरा तारानगर जीवन नगर न्यू भगतपुरा न्यू ब्रहम कालोनी न्यू तारा नगर पंचम नगर कमर्शियल,commercial,37400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,बड़ा कालोनी भगतपुरा तारानगर जीवन नगर न्यू भगतपुरा न्यू ब्रहम कालोनी न्यू तारा नगर पंचम नगर रिहायशी,residential,20900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,बहालगढ़ रोड पर सिविल हस्पताल के निकट से 0-14 टी०पी० स्कीम में कमर्शियल प्लाट 100 फुट पट्टी मुसलमान,commercial,88200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,ब्रहम कॉलोनी चार मरला प्रेम कॉलोनी शांति नगर रिहायशी पट्टी मुसलमान,residential,20900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,ब्रह्म कॉलोनी चार मरला पेम कॉलोनी शांति नगर व्यवसायिक पट्टी मुसलमान,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,भगत हस्पताल से आनन्द सिनेमा तक कमर्शियल सडक के दोनो ओर 100 फुट गहराई तक पट्टी मुसलमान,commercial,69300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,मामचन्द कॉलोनी एक्टेंशन,residential,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,मामचन्द कॉलोनी एक्टेंशन,commercial,33000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,मामचन्द कॉलोनी शिव कॉलोनी रिहायशी पट्टी मुसलमान,residential,14300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,मामचन्द कॉलोनी शिव कॉलोनी व्यवसायिक पट्टी मुसलमान,commercial,25500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,मुरथल चौक से नई सब्जी मण्डी 100 फुट व्यवसायिक पट्टी मुसलमान,commercial,75400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,मुरथल देवडू लिंक रोड से जेपी जैन स्कूल तक सड़क के दोनों ओर 100 फुट रिहायशी पट्टी मुसलमान,residential,25520,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,मुरथल देवडू लिंक रोड से जेपी जैन स्कूल तक सड़क के दोनों ओर 100 फुट व्यवसायिक पट्टी मुसलमान,commercial,32200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,मेमोरियल हस्पताल से ईसीटी फैक्ट्री तक 100 फुट के बाद पावर हाउस तक रिहायशी पट्टी मुसलमान,residential,38500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,मैमोरियल हस्पताल से ईसीई फैक्ट्री तक 100 फुट के बाद पावर हाउस तक व्यवसायिक पट्टी मुसलमान,commercial,69300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,मैमोरियल हस्पताल से भगत हस्पताल तक कमर्शियल सडक के दोनोओर 100 फुट गहराई तक,commercial,82500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,मोहनपुरा रिहायशी पट्टी मुसलमान,residential,28160,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,मोहनपुरा व्यवसायिक पट्टी मुसलमान,commercial,38500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,मोहल्ला भाटान जटवाडा लाल दरवाजा बाल्मीकीबस्ती मोहल्लानैनियान पुरखासरोडचुंगी व्यवसायिक पट्टी मुसलमानन,commercial,42900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,"राज, घोसी मोहल्ला भीम नगर ज्ञान नगर दयालनगर संत नगर मोहल्लाधानकान गौतम नगर रिहायशी पट्टी मुसलमान",residential,16100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,"राज, घोसी मोहल्ला भीम नगर ज्ञान नगर दयालनगर संत नगर मोहल्लाधानकान गौतम नगर व्यवसायिक पट्टी मुसलमान",commercial,26400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,"रेलवे फाटक से हिन्दू स्कूल कॉलेज, रोहतक रोड सूरी पेट्रोल पम्प तक कमर्शियल सडक 100 फुट पट्टी मुसलमान",commercial,137500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,लाजपत नगर वार्ड नं0 12 निवासीय पट्टी मुसलमान,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,लाजपत नगर वार्ड नं0 12 व्यवसायिक पट्टी मुसलमान,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,विकास नगर एक्सटैसन,residential,21450,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,विकास नगर एक्सटैसन,commercial,28600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,विवेकनन्द चौक से सै0 14-15 के डिवाइडिंग रोड उपरोक्त के पीछे रिहायशी पट्टी मुसलमान,residential,35750,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,विवेकनन्द चौक से सै0 14-15 के डिवाइडिंग रोड व्यवसायिक पट्टी मुसलमान,commercial,68200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,वेस्ट राम नगर पट्टी मुसलमान,residential,17600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,वेस्ट राम नगर पट्टी मुसलमान,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,शनिचरा बस्ती रिहायशी पट्टी मुसलमान,residential,15000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,शनिचरा बस्ती व्यवसायिक पट्टी मुसलमान,commercial,18700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,शिव कालोनी एक्स. निवासीय,residential,15000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,शिव कालोनी एक्स. व्यवसायिक,commercial,17600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,सब्जी मण्डी से शुगर मिल 100 फुट व्यवसायिक पट्टी मूसल मान,commercial,31900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,सब्जी मण्डी से शुगर मिल उक्त के पिछे कृषि कालोनी कमर्शियल पट्टी मूसल मान,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,सब्जी मण्डी से शुगर मिल उक्त के पिछे कृषि कालोनी रिहायशी पट्टी मूसल मान,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,सामान्य बस अड्डा से बाबा तराना सिनेमा महात्मा गांधी चौक सड़क से 100 फुट व्यवसायिक पट्टी मूसल मान,commercial,130625,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,सिक्का कॉलोनी रिहायशी पट्टी मूसल मान,residential,25300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,सिक्का कॉलोनी व्यवसायिक पट्टी मूसल मान,commercial,59160,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,सिविल हस्पताल के पीछे ईसीई फैक्टी रिहायशी पट्टी मूसल मान,residential,22000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,सिविल हस्पताल के पीछे ईसीई फैक्टी व्यवसायिक पट्टी मूसल मान,commercial,30800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,सै0 14-15 अग्रसैन चौक से अतुल नर्सरी 100 फुट तक रिहायशी पट्टी मुसलनाम,residential,16800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,सै0 14-15 अग्रसैन चौक से अतुल नर्सरी 100 फुट तक व्यवसायिक पट्टी मुसलनाम,commercial,46200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,सै0 14-15 विभाजन रोड से अतुल नर्सरी तक 100 फुट के बाद रिहायशी पट्टी मुसलनाम,residential,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,सै0 14-15 विभाजन रोड से अतुल नर्सरी तक 100 फुट के बाद व्यवसायिक पट्टी मुसलनाम,commercial,36300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,हेमनगर खन्ना कॉलोनी हीरानगर रिहायशी पट्टी मुसलनाम,residential,25300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Sonipat,हेमनगर खन्ना कॉलोनी हीरानगर व्यवसायिक पट्टी मुसलनाम,commercial,36300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,JamalpurKhurd,004c - नहरी-चाही,agricultural,5022.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,JamalpurKhurd,जवाहर नगर सुभाष नगर विशाल नगर वैस्ट राम नगर व इसके आस पास,residential,18400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,JamalpurKhurd,जवाहर नगर सुभाष नगर विशाल नगर वैस्ट राम नगर व इसके आस पास,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,JamalpurKhurd,विकास नगर कालोनी निवासीय,residential,16800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,JamalpurKhurd,विकास नगर कालोनी व्यवसायिक,commercial,38870,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,JamalpurKhurd,अतुल नर्सरी से जीटी रोड मुरथल 100 फुट रिहायशी पट्टी जाटान,residential,17875,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,JamalpurKhurd,अतुल नर्सरी से जीटी रोड मुरथल 100 फुट व्यवसायिक पट्टी जाटान,commercial,35750,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,JamalpurKhurd,आदर्श नगर सोनीपत पट्टी जाटान,residential,22000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,JamalpurKhurd,आदर्श नगर सोनीपत पट्टी जाटान,commercial,39600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,JamalpurKhurd,इण्डियन कालोनी एक्सैंन 1,residential,22000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,JamalpurKhurd,इण्डियन कालोनी एक्सैंन 1,commercial,26400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,JamalpurKhurd,उक्त के पिछेराजीव कालोनी अतुल नर्सरी से जीटी रोड मुरथल रिहायशी पट्टी जाटान,residential,14300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,JamalpurKhurd,उक्त के पिछेराजीव कालोनी अतुल नर्सरी से जीटी रोड मुरथल व्यवसायिक पट्टी जाटान,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,JamalpurKhurd,ऋषि कालोनी निवासीय,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,JamalpurKhurd,ऋषि कालोनी व्यवसायिक,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,JamalpurKhurd,कृषि चाही,agricultural,5022.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,JamalpurKhurd,गोहाना बाई पास नियर रेलवे करोसिंग,residential,18700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatPattiJatan,गोहाना बाई पास नियर रेलवे क्रासिंग निवासीय,residential,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatPattiJatan,गोहाना बाई पास नियर रेलवे क्रासिंग व्यवसायिक,commercial,26400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatPattiJatan,चावला कालोनी एक्स. निवासीय,residential,16100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatPattiJatan,चावला कालोनी एक्स. व्यवसायिक,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatPattiJatan,छोटूरामचौक गोहाना रोड़ पुलिस लाईन तक छोटूराम प्रगतिनगर मलिक कालोनी 100 फुट के बाद रिहायशी पट्टी जाटान,residential,18700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatPattiJatan,छोटूरामचौक गोहाना रोड़ पुलिस लाईन तक छोटूराम प्रगतिनगर मलिक कालोनी 100 फुट के बाद व्यवसायिक पट्टी जाटान,commercial,38500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatPattiJatan,जीवन विहार एक्स. निवासीय,residential,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatPattiJatan,जीवन विहार एक्स. व्यवसायिक,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatPattiJatan,नियर जटवाड़ा गांव,residential,20625,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatPattiJatan,नियर जटवाड़ा गांव,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatPattiJatan,प्रगति नगर एक्सटेंशन,residential,18700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatPattiJatan,प्रगति नगर एक्सटेंशन,commercial,38500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatPattiJatan,माम चन्द कॉलोनी शिव कॉलोनी रिहायशी पट्टी जाटान,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatPattiJatan,मामचन्द कॉलोनी शिव कॉलोनी व्यवसायिक पट्टी जाटान,commercial,38500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatPattiJatan,विकास नगर एक्सटेंशन,residential,20625,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatPattiJatan,विकास नगर एक्सटेंशन,commercial,28600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatPattiJatan,शास्त्री कॉलोनी एक्स. निवासीय,residential,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatPattiJatan,शास्त्री कॉलोनी एक्स. व्यवसायिक,commercial,33000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatPattiJatan,शास्त्री कॉलोनी मयूर विहार इण्डियन कॉलोनी पुराने बाग व वाटर सप्लाई रिहायशी पट्टी जाटान,residential,16500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatPattiJatan,शास्त्री कॉलोनी मयूर विहार इण्डियन कॉलोनी पुराने बाग व वाटर सप्लाई व्यवसायिक पट्टी जाटान,commercial,31740,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatPattiJatan,शिव कॉलोनी एक्स. निवासीय,residential,14300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatPattiJatan,शिव कॉलोनी एक्स. व्यवसायिक,commercial,17600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatPattiJatan,हनुमान नगर एक्स. निवासीय,residential,15400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatPattiJatan,हनुमान नगर एक्स. व्यवसायिक,commercial,27500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Liwan,004c - नहरी-चाही,agricultural,2482.95,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Liwan,004e - लाल डोरे के अन्दर/बाहर,residential,10100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Liwan,004e - लाल डोरे के अन्दर/बाहर,commercial,13200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Liwan,अन्य पक्के मार्गो के साथ 3 एकड,agricultural,3956.1,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Liwan,फिरनी के साथ भूमि 2 एकड़ तक,agricultural,2386.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Liwan,राज्य राजमार्ग 2 से 5 एकड़ तक,agricultural,3863.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Liwan,राज्य राजमार्ग के साथ 2 एकड़ तक,agricultural,4136.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Murthal,Soha Developers Private Limited,commercial,125000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Murthal,"Mathur Developers and Infrastructure Pvt. Ltd, Sector -87, Murthal, Sonipat",residential,45000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,Murthal,"Mathur Developers and Infrastructure Pvt. Ltd, Sector -87, Murthal, Sonipat",commercial,65000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,Mashad Mohalla – 174 Sonipat City,residential,20000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Sonipat,SonipatCity,Mashad Mohalla – 174 Sonipat City,commercial,25000,2026-04-01,sonipat_gov_in_dc_notification

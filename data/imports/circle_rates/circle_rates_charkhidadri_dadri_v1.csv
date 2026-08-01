@@ -1,0 +1,476 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Charkhi Dadri,Dadri,Dadri,Dadri MC ke andar,agricultural,2613.64,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,Dadri MC ke bahar,agricultural,1500.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,Dadri MC ke bahar,agricultural,1375.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,Dadri MC ke bahar,residential,5687,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,Dadri MC ke bahar,commercial,6325,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Charkhi,Charkhi,agricultural,1250.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Charkhi,Charkhi,agricultural,800.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Charkhi,Charkhi,residential,4427.5,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Charkhi,Charkhi,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Jhonjhu,Jhonjhu,agricultural,1363.64,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Jhonjhu,Jhonjhu,agricultural,1250.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Jhonjhu,Jhonjhu,agricultural,1000.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Jhonjhu,Jhonjhu,residential,4235,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Jhonjhu,Jhonjhu,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Samaspur,Samaspur,agricultural,1909.09,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Samaspur,Samaspur,agricultural,1500.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Samaspur,Samaspur,agricultural,1375.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Samaspur,Samaspur,residential,4840,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Samaspur,Samaspur,commercial,6325,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,DhaniPhogat,Dhani Phogat,agricultural,875.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,DhaniPhogat,Dhani Phogat,agricultural,800.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,DhaniPhogat,Dhani Phogat,residential,3630,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,DhaniPhogat,Dhani Phogat,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Kaluri,Kaluri,agricultural,800.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Kaluri,Kaluri,agricultural,625.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Kaluri,Kaluri,residential,3630,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Kaluri,Kaluri,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Ghasola,Ghasola,agricultural,1500.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Ghasola,Ghasola,agricultural,1375.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Ghasola,Ghasola,residential,3630,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Ghasola,Ghasola,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Tikkan,Tikkan,agricultural,750.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Tikkan,Tikkan,agricultural,625.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Tikkan,Tikkan,residential,2420,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Tikkan,Tikkan,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,JhandiPura,Jhandi Pura,agricultural,625.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,JhandiPura,Jhandi Pura,agricultural,475.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,JhandiPura,Jhandi Pura,residential,2420,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,JhandiPura,Jhandi Pura,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Sahuwas,Sahuwas,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Sahuwas,Sahuwas,agricultural,375.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Sahuwas,Sahuwas,residential,2420,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Sahuwas,Sahuwas,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Kamod,Kamod,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Kamod,Kamod,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Kamod,Kamod,residential,2420,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Kamod,Kamod,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Misri,Misri,agricultural,575.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Misri,Misri,agricultural,450.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Misri,Misri,residential,2530,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Misri,Misri,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Jayshree,Jayshree,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Jayshree,Jayshree,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Jayshree,Jayshree,residential,2420,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Jayshree,Jayshree,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Khatiwas,Khatiwas,agricultural,500.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Khatiwas,Khatiwas,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Khatiwas,Khatiwas,residential,2420,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Khatiwas,Khatiwas,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Samaspur,Samaspur,agricultural,825.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Samaspur,Samaspur,agricultural,575.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Samaspur,Samaspur,residential,3630,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Samaspur,Samaspur,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Loharwada,Loharwada,agricultural,475.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Loharwada,Loharwada,agricultural,375.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Loharwada,Loharwada,residential,2662,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Loharwada,Loharwada,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,BeedSamaspur,Beed Samaspur,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,BeedSamaspur,Beed Samaspur,agricultural,463.64,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,BeedSamaspur,Beed Samaspur,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,BeedSamaspur,Beed Samaspur,residential,2420,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,BeedSamaspur,Beed Samaspur,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,KheriSanwal,Kheri Sanwal,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,KheriSanwal,Kheri Sanwal,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,KheriSanwal,Kheri Sanwal,residential,2420,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,KheriSanwal,Kheri Sanwal,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,TikanKhurd,Tikan Khurd,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,TikanKhurd,Tikan Khurd,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,TikanKhurd,Tikan Khurd,residential,2420,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,TikanKhurd,Tikan Khurd,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,TikanKalan,Tikan Kalan,agricultural,750.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,TikanKalan,Tikan Kalan,agricultural,450.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,TikanKalan,Tikan Kalan,residential,2299,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,TikanKalan,Tikan Kalan,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Kaliyana,Kaliyana,agricultural,475.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Kaliyana,Kaliyana,agricultural,375.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Kaliyana,Kaliyana,residential,2299,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Kaliyana,Kaliyana,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Mandoli,Mandoli,agricultural,475.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Mandoli,Mandoli,agricultural,375.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Mandoli,Mandoli,residential,2299,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Mandoli,Mandoli,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,DudiwalaKishanpura,Dudiwala Kishanpura,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,DudiwalaKishanpura,Dudiwala Kishanpura,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,DudiwalaKishanpura,Dudiwala Kishanpura,residential,2420,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,DudiwalaKishanpura,Dudiwala Kishanpura,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,DudiwalaNandkaran,Dudiwala Nandkaran,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,DudiwalaNandkaran,Dudiwala Nandkaran,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,DudiwalaNandkaran,Dudiwala Nandkaran,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,DudiwalaNandkaran,Dudiwala Nandkaran,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,DohkaMauji,Dohka Mauji,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,DohkaMauji,Dohka Mauji,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,DohkaMauji,Dohka Mauji,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,DohkaMauji,Dohka Mauji,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,DohkaDina,Dohka Dina,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,DohkaDina,Dohka Dina,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,DohkaDina,Dohka Dina,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,DohkaDina,Dohka Dina,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Ranpura,Ranpura,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Ranpura,Ranpura,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Ranpura,Ranpura,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Ranpura,Ranpura,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Sarngpur,Sarngpur,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Sarngpur,Sarngpur,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Sarngpur,Sarngpur,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Sarngpur,Sarngpur,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Narsinghwas,Narsinghwas,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Narsinghwas,Narsinghwas,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Narsinghwas,Narsinghwas,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Narsinghwas,Narsinghwas,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,DohkaHariya,Dohka Hariya,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,DohkaHariya,Dohka Hariya,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,DohkaHariya,Dohka Hariya,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,DohkaHariya,Dohka Hariya,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,AtelaKalan,Atela Kalan,agricultural,575.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,AtelaKalan,Atela Kalan,agricultural,450.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,AtelaKalan,Atela Kalan,residential,2299,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,AtelaKalan,Atela Kalan,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,AtelaKhurd,Atela Khurd,agricultural,575.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,AtelaKhurd,Atela Khurd,agricultural,450.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,AtelaKhurd,Atela Khurd,residential,2420,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,AtelaKhurd,Atela Khurd,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Barsana,Barsana,agricultural,575.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Barsana,Barsana,agricultural,450.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Barsana,Barsana,residential,2420,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Barsana,Barsana,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Tiwala,Tiwala,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Tiwala,Tiwala,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Tiwala,Tiwala,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Tiwala,Tiwala,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,DiggiKhurd,Diggi Khurd,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,DiggiKhurd,Diggi Khurd,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,DiggiKhurd,Diggi Khurd,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,DiggiKhurd,Diggi Khurd,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,DiggiKalan,Diggi Kalan,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,DiggiKalan,Diggi Kalan,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,DiggiKalan,Diggi Kalan,residential,2150.5,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,DiggiKalan,Diggi Kalan,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Chhapar,Chhapar,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Chhapar,Chhapar,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Chhapar,Chhapar,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Chhapar,Chhapar,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Ramibas,Ramibas,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Ramibas,Ramibas,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Ramibas,Ramibas,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Ramibas,Ramibas,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Jhojhu,Jhojhu,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Jhojhu,Jhojhu,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Jhojhu,Jhojhu,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Jhojhu,Jhojhu,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Akhtiyarpura,Akhtiyarpura,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Akhtiyarpura,Akhtiyarpura,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Akhtiyarpura,Akhtiyarpura,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Akhtiyarpura,Akhtiyarpura,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Mankawas,Mankawas,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Mankawas,Mankawas,agricultural,477.27,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Mankawas,Mankawas,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Mankawas,Mankawas,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,PaintawasKhurd,Paintawas Khurd,agricultural,550.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,PaintawasKhurd,Paintawas Khurd,agricultural,450.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,PaintawasKhurd,Paintawas Khurd,residential,2299,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,PaintawasKhurd,Paintawas Khurd,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,PaintawasKalan,Paintawas Kalan,agricultural,550.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,PaintawasKalan,Paintawas Kalan,agricultural,575.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,PaintawasKalan,Paintawas Kalan,agricultural,450.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,PaintawasKalan,Paintawas Kalan,residential,2403.5,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,PaintawasKalan,Paintawas Kalan,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Fatehgarh,Fatehgarh,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Fatehgarh,Fatehgarh,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Fatehgarh,Fatehgarh,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Fatehgarh,Fatehgarh,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,KheriBattar,Kheri Battar,agricultural,450.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,KheriBattar,Kheri Battar,agricultural,470.45,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,KheriBattar,Kheri Battar,agricultural,511.36,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,KheriBattar,Kheri Battar,residential,2299,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,KheriBattar,Kheri Battar,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Pandwan,Pandwan,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Pandwan,Pandwan,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Pandwan,Pandwan,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Pandwan,Pandwan,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,JhojhuKalan,Jhojhu Kalan,agricultural,550.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,JhojhuKalan,Jhojhu Kalan,agricultural,475.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,JhojhuKalan,Jhojhu Kalan,residential,3630,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,JhojhuKalan,Jhojhu Kalan,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Mehra,Mehra,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Mehra,Mehra,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Mehra,Mehra,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Mehra,Mehra,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Balali,Balali,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Balali,Balali,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Balali,Balali,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Balali,Balali,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Ramnagar,Ramnagar,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Ramnagar,Ramnagar,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Ramnagar,Ramnagar,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Ramnagar,Ramnagar,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Rudrol,Rudrol,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Rudrol,Rudrol,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Rudrol,Rudrol,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Rudrol,Rudrol,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Aksawari,Aksawari,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Aksawari,Aksawari,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Aksawari,Aksawari,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Aksawari,Aksawari,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Badal,Badal,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Badal,Badal,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Badal,Badal,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Badal,Badal,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Shishwala,Shishwala,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Shishwala,Shishwala,agricultural,540.91,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Shishwala,Shishwala,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Shishwala,Shishwala,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Shishwala,Shishwala,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Gudana,Gudana,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Gudana,Gudana,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Gudana,Gudana,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Gudana,Gudana,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Java,Java,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Java,Java,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Java,Java,residential,2178,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Java,Java,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Bijna,Bijna,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Bijna,Bijna,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Bijna,Bijna,residential,2150.5,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Bijna,Bijna,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,PichopaKalan,Pichopa Kalan,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,PichopaKalan,Pichopa Kalan,agricultural,365.91,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,PichopaKalan,Pichopa Kalan,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,PichopaKalan,Pichopa Kalan,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Bhangrod,Bhangrod,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Bhangrod,Bhangrod,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Bhangrod,Bhangrod,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Bhangrod,Bhangrod,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Balrod,Balrod,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Balrod,Balrod,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Balrod,Balrod,residential,2178,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Balrod,Balrod,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Paldi,Paldi,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Paldi,Paldi,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Paldi,Paldi,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Paldi,Paldi,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,NaurangabasJatan,Naurangabas Jatan,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,NaurangabasJatan,Naurangabas Jatan,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,NaurangabasJatan,Naurangabas Jatan,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,NaurangabasJatan,Naurangabas Jatan,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,NaarangabasRajputan,Naarangabas Rajputan,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,NaarangabasRajputan,Naarangabas Rajputan,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,NaarangabasRajputan,Naarangabas Rajputan,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,NaarangabasRajputan,Naarangabas Rajputan,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Chandeni,Chandeni,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Chandeni,Chandeni,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Chandeni,Chandeni,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Chandeni,Chandeni,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,JhaiKalan,Jhai Kalan,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,JhaiKalan,Jhai Kalan,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,JhaiKalan,Jhai Kalan,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,JhaiKalan,Jhai Kalan,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,JhaiKhurd,Jhai Khurd,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,JhaiKhurd,Jhai Khurd,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,JhaiKhurd,Jhai Khurd,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,JhaiKhurd,Jhai Khurd,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Badhwana,Badhwana,agricultural,450.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Badhwana,Badhwana,agricultural,392.05,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Badhwana,Badhwana,residential,2299,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Badhwana,Badhwana,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,UnMajraBadhwana,Un Majra Badhwana,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,UnMajraBadhwana,Un Majra Badhwana,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,UnMajraBadhwana,Un Majra Badhwana,residential,2805,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,UnMajraBadhwana,Un Majra Badhwana,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Ramlwas,Ramlwas,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Ramlwas,Ramlwas,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Ramlwas,Ramlwas,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Ramlwas,Ramlwas,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Gokal,Gokal,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Gokal,Gokal,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Gokal,Gokal,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Gokal,Gokal,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,JhojhuKhurd,Jhojhu Khurd,agricultural,450.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,JhojhuKhurd,Jhojhu Khurd,agricultural,375.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,JhojhuKhurd,Jhojhu Khurd,residential,2299,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,JhojhuKhurd,Jhojhu Khurd,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Maharana,Maharana,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Maharana,Maharana,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Maharana,Maharana,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Maharana,Maharana,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Patuwas,Patuwas,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Patuwas,Patuwas,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Patuwas,Patuwas,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Patuwas,Patuwas,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Gothra,Gothra,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Gothra,Gothra,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Gothra,Gothra,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Gothra,Gothra,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Santokhpura,Santokhpura,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Santokhpura,Santokhpura,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Santokhpura,Santokhpura,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Santokhpura,Santokhpura,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Modi,Modi,agricultural,500.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Modi,Modi,agricultural,365.91,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Modi,Modi,residential,2178,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Modi,Modi,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Balkara,Balkara,agricultural,500.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Balkara,Balkara,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Balkara,Balkara,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Balkara,Balkara,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Chiriya,Chiriya,agricultural,500.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Chiriya,Chiriya,agricultural,522.73,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Chiriya,Chiriya,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Chiriya,Chiriya,residential,2178,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Chiriya,Chiriya,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Nauswa,Nauswa,agricultural,500.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Nauswa,Nauswa,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Nauswa,Nauswa,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Nauswa,Nauswa,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Datauli,Datauli,agricultural,500.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Datauli,Datauli,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Datauli,Datauli,residential,2299,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Datauli,Datauli,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Makrana,Makrana,agricultural,500.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Makrana,Makrana,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Makrana,Makrana,residential,2299,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Makrana,Makrana,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Makrani,Makrani,agricultural,500.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Makrani,Makrani,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Makrani,Makrani,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Makrani,Makrani,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dudhwa,Dudhwa,agricultural,500.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dudhwa,Dudhwa,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dudhwa,Dudhwa,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dudhwa,Dudhwa,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,DhaniChhiller,Dhani Chhiller,agricultural,500.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,DhaniChhiller,Dhani Chhiller,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,DhaniChhiller,Dhani Chhiller,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,DhaniChhiller,Dhani Chhiller,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,DhaniBana,Dhani Bana,agricultural,500.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,DhaniBana,Dhani Bana,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,DhaniBana,Dhani Bana,residential,2420,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,DhaniBana,Dhani Bana,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Abidpura,Abidpura,agricultural,500.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Abidpura,Abidpura,agricultural,681.82,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Abidpura,Abidpura,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Abidpura,Abidpura,residential,2178,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Abidpura,Abidpura,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Kalali,Kalali,agricultural,500.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Kalali,Kalali,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Kalali,Kalali,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Kalali,Kalali,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Mandola,Mandola,agricultural,450.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Mandola,Mandola,agricultural,375.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Mandola,Mandola,residential,2420,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Mandola,Mandola,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Morwala,Morwala,agricultural,450.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Morwala,Morwala,agricultural,470.45,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Morwala,Morwala,agricultural,375.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Morwala,Morwala,residential,2299,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Morwala,Morwala,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Kanheti,Kanheti,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Kanheti,Kanheti,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Kanheti,Kanheti,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Kanheti,Kanheti,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Saroopgarh,Saroopgarh,agricultural,425.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Saroopgarh,Saroopgarh,agricultural,350.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Saroopgarh,Saroopgarh,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Saroopgarh,Saroopgarh,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Imlota,Imlota,agricultural,450.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Imlota,Imlota,agricultural,375.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Imlota,Imlota,residential,2299,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Imlota,Imlota,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Sataur,Sataur,agricultural,450.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Sataur,Sataur,agricultural,375.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Sataur,Sataur,residential,2150.5,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Sataur,Sataur,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Bhagwi,Bhagwi,agricultural,450.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Bhagwi,Bhagwi,agricultural,375.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Bhagwi,Bhagwi,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Bhagwi,Bhagwi,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Bigowa,Bigowa,agricultural,450.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Bigowa,Bigowa,agricultural,375.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Bigowa,Bigowa,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Bigowa,Bigowa,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Kidara,Kidara,agricultural,450.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Kidara,Kidara,agricultural,375.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Kidara,Kidara,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Kidara,Kidara,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Neeli,Neeli,agricultural,450.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Neeli,Neeli,agricultural,375.0,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Neeli,Neeli,residential,2057,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Neeli,Neeli,commercial,3520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,Gair Mumkin Pahar,agricultural,2727.27,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,Pahar adjacent up to 2 acre depth,agricultural,1363.64,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,State/National Highway villages,commercial,6000,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"नगरपरिषद कार्यालय से फव्वारा चौक से काठ मण्डी तक (सूर्य नगर, सैनीपुरा, कोर्ट कॉम्पलेक्स, ऑफिसर कालोनी, डा० रामदत्त नगर) वार्ड नम्बर 06, 07, 08, 16, 20",commercial,114950,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"नगरपरिषद कार्यालय से फव्वारा चौक से काठ मण्डी तक (सूर्य नगर, सैनीपुरा, कोर्ट कॉम्पलेक्स, ऑफिसर कालोनी, डा० रामदत्त नगर) वार्ड नम्बर 06, 07, 08, 16, 20",residential,30360,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"रेलवे फाटक सी.आई से पुराना बस स्टैंड (कोर्ट कॉम्पलेक्स, ऑफिसर कालोनी) वार्ड नम्बर 06, 07, 08",commercial,114950,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"रेलवे फाटक सी.आई से पुराना बस स्टैंड (कोर्ट कॉम्पलेक्स, ऑफिसर कालोनी) वार्ड नम्बर 06, 07, 08",residential,27830,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,जीवन सिंह जैन मार्ग से तिकोना पार्क वार्ड नम्बर 06,commercial,63250,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,जीवन सिंह जैन मार्ग से तिकोना पार्क वार्ड नम्बर 06,residential,30350,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"दिल्ली रोड पर तिलक पार्क से सी.आई बाईपास (गांधी नगर, प्रेम नगर) वार्ड नम्बर 02, 03",commercial,42350,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"दिल्ली रोड पर तिलक पार्क से सी.आई बाईपास (गांधी नगर, प्रेम नगर) वार्ड नम्बर 02, 03",residential,15730,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"रेलवे स्टेशन से पुराना बस स्टैंड (कोर्ट कॉम्पलेक्स, ऑफिसर कालोनी) वार्ड नम्बर 07",commercial,94875,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"रेलवे स्टेशन से पुराना बस स्टैंड (कोर्ट कॉम्पलेक्स, ऑफिसर कालोनी) वार्ड नम्बर 07",residential,27830,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"रोहतक चौक से रेलवे फाटक (सूर्य नगर, कोर्ट कॉम्पलैक्स, हरिनगर) वार्ड नम्बर 07, 16",commercial,48400,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"रोहतक चौक से रेलवे फाटक (सूर्य नगर, कोर्ट कॉम्पलैक्स, हरिनगर) वार्ड नम्बर 07, 16",residential,29040,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"रेलवे फाटक से दिल्ली चुंगी (विवेक नगर, विकास नगर) वार्ड नम्बर 01",commercial,32670,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"रेलवे फाटक से दिल्ली चुंगी (विवेक नगर, विकास नगर) वार्ड नम्बर 01",residential,15730,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"नगरपरिषद का० से भिवानी रोड पर माईनर तक (सूर्य नगर, सूर्य नगर एक्सटेंशन, रामनारायण विहार) वार्ड नम्बर 16, 17, 18, 20",commercial,60500,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"नगरपरिषद का० से भिवानी रोड पर माईनर तक (सूर्य नगर, सूर्य नगर एक्सटेंशन, रामनारायण विहार) वार्ड नम्बर 16, 17, 18, 20",residential,24200,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"भिवानी रोड पर माईनर से भिवानी चौक (सूर्य नगर एक्सटेंशन, रामनारायण विहार) वार्ड नम्बर 17, 14",commercial,60500,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"भिवानी रोड पर माईनर से भिवानी चौक (सूर्य नगर एक्सटेंशन, रामनारायण विहार) वार्ड नम्बर 17, 14",residential,21780,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"महेन्द्रगढ़ बाईपास से भिवानी चौक (रामनारायण विहार, सूर्य नगर, आदर्श नगर) वार्ड नम्बर 13, 14, 17",commercial,32670,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"महेन्द्रगढ़ बाईपास से भिवानी चौक (रामनारायण विहार, सूर्य नगर, आदर्श नगर) वार्ड नम्बर 13, 14, 17",residential,12100,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"महेन्द्रगढ़ बाईपास से टिकोना पार्क (गामड़ी, वाल्मिकी बस्ती, बाबा रामदास नगर, कबीर नगर एक्सटेंशन, प्रोफेसर कालोनी) वार्ड नम्बर 04, 05, 10, 11, 12, 13",commercial,42350,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"महेन्द्रगढ़ बाईपास से टिकोना पार्क (गामड़ी, वाल्मिकी बस्ती, बाबा रामदास नगर, कबीर नगर एक्सटेंशन, प्रोफेसर कालोनी) वार्ड नम्बर 04, 05, 10, 11, 12, 13",residential,15730,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,ढाणी रोड (प्रेम नगर) वार्ड नम्बर 03,commercial,24200,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,ढाणी रोड (प्रेम नगर) वार्ड नम्बर 03,residential,12100,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"झिकाड़ा रोड (सूर्य नगर, हरि नगर, हरिनगर एक्सटेंशन) वार्ड नम्बर 07, 16, 19, 20",commercial,24200,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"झिकाड़ा रोड (सूर्य नगर, हरि नगर, हरिनगर एक्सटेंशन) वार्ड नम्बर 07, 16, 19, 20",residential,14520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,एम. सी. कालोनी वार्ड नम्बर 18,commercial,66550,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,एम. सी. कालोनी वार्ड नम्बर 18,residential,24200,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,गांधी नगर वार्ड नम्बर 02,commercial,33880,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,गांधी नगर वार्ड नम्बर 02,residential,15730,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,सैनी पुरा वार्ड नम्बर 06,commercial,28600,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,सैनी पुरा वार्ड नम्बर 06,residential,14520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,लालदास जोहड़ से रामदास नगर वार्ड नम्बर 08,commercial,24200,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,लालदास जोहड़ से रामदास नगर वार्ड नम्बर 08,residential,14520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,रविदास बस्ती वार्ड नम्बर 12,commercial,15730,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,रविदास बस्ती वार्ड नम्बर 12,residential,9680,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"बाल्मीकी बस्ती वार्ड नम्बर 11, 13",commercial,15730,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"बाल्मीकी बस्ती वार्ड नम्बर 11, 13",residential,9680,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"बधवाना गेट से गामड़ी तक (गामडी, बाल्मीकी बस्ती, कबीर नगर) वार्ड नम्बर 12, 13",commercial,20570,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"बधवाना गेट से गामड़ी तक (गामडी, बाल्मीकी बस्ती, कबीर नगर) वार्ड नम्बर 12, 13",residential,12100,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"घरखी गेट से राधास्वामी आश्रम (रामनारायण विहार, रविदास नगर) वार्ड नम्बर 17",commercial,25410,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"घरखी गेट से राधास्वामी आश्रम (रामनारायण विहार, रविदास नगर) वार्ड नम्बर 17",residential,13915,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"पुराना शहर वार्ड नम्बर 09, 10, 13, 14, 15",commercial,31625,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"पुराना शहर वार्ड नम्बर 09, 10, 13, 14, 15",residential,14520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"भिवानी चौक से पावर हाऊस (पूर्ण नगर, पूर्ण नगर एक्सटेंशन, आदर्श नगर) वार्ड नम्बर 18",commercial,30250,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"भिवानी चौक से पावर हाऊस (पूर्ण नगर, पूर्ण नगर एक्सटेंशन, आदर्श नगर) वार्ड नम्बर 18",residential,13310,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,रोहतक रोड से दिल्ली बाईपास (विकास नगर) वार्ड नम्बर 01,commercial,30250,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,रोहतक रोड से दिल्ली बाईपास (विकास नगर) वार्ड नम्बर 01,residential,13310,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"रोहतक चौक से हाई स्कूल (कोर्ट कॉम्पलैक्स, रामनारायण विहार, रामदास नगर) वार्ड नम्बर 08, 16",commercial,54450,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"रोहतक चौक से हाई स्कूल (कोर्ट कॉम्पलैक्स, रामनारायण विहार, रामदास नगर) वार्ड नम्बर 08, 16",residential,14520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"हाई स्कूल से गऊशाला दरवाजा वार्ड नम्बर 08, 09, 10",commercial,30250,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"हाई स्कूल से गऊशाला दरवाजा वार्ड नम्बर 08, 09, 10",residential,13310,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"रंगीला मन्दिर से गर्ल्स कालेज (रामदास नगर) वार्ड नम्बर 05, 08, 09, 10",commercial,30250,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"रंगीला मन्दिर से गर्ल्स कालेज (रामदास नगर) वार्ड नम्बर 05, 08, 09, 10",residential,20020,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"गऊशाला से महेन्द्रगढ़ चुंगी वार्ड नम्बर 10, 11",commercial,30250,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"गऊशाला से महेन्द्रगढ़ चुंगी वार्ड नम्बर 10, 11",residential,15730,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"भिवानी चौक से लोहारु रोड (रामनारायण विहार) वार्ड नम्बर 12, 13, 14, 17",commercial,26620,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"भिवानी चौक से लोहारु रोड (रामनारायण विहार) वार्ड नम्बर 12, 13, 14, 17",residential,13310,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"हाई स्कूल से चरखी दरवाजा वार्ड नम्बर 15, 16, 17",commercial,30250,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"हाई स्कूल से चरखी दरवाजा वार्ड नम्बर 15, 16, 17",residential,13310,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"मयूरी घाटी से गुड्डीया कॉलोनी वार्ड नम्बर 16, 17",commercial,15730,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"मयूरी घाटी से गुड्डीया कॉलोनी वार्ड नम्बर 16, 17",residential,13915,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"रोहतक गेट से अनाज मण्डी गेट वार्ड नम्बर 06, 07, 08",commercial,102850,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"रोहतक गेट से अनाज मण्डी गेट वार्ड नम्बर 06, 07, 08",residential,36300,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,चिड़िया मोड़ से नहर तक वार्ड नम्बर 04,commercial,30250,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,चिड़िया मोड़ से नहर तक वार्ड नम्बर 04,residential,15730,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"लाला रामप्रसाद मार्ग वार्ड नम्बर 12, 14",commercial,24200,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,"लाला रामप्रसाद मार्ग वार्ड नम्बर 12, 14",residential,14520,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,पुरानी अनाज मण्डी वार्ड नम्बर 07,commercial,114950,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,विद्या विहार / शंकर कॉलोनी वार्ड नं 4,commercial,60500,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,विद्या विहार / शंकर कॉलोनी वार्ड नं 4,residential,42350,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,नई अनाज मण्डी / सब्जी मण्डी वार्ड नम्बर 04,commercial,121000,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,हुडा सैक्टर 8-9-10,commercial,60500,2026-04-01,charkhidadri_gov_in_dc_notification
+Charkhi Dadri,Dadri,Dadri,हुडा सैक्टर 8-9-10,residential,24200,2026-04-01,charkhidadri_gov_in_dc_notification

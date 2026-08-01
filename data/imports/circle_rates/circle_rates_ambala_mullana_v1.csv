@@ -1,0 +1,277 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Ambala,Mullana,Mullana,Mullana,agricultural,1002.39,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Mullana,Mullana,agricultural,1664.05,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Mullana,Mullana,agricultural,385.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Mullana,Mullana,agricultural,1050.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Mullana,Mullana,agricultural,357.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Mullana,Mullana,agricultural,390.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Mullana,Mullana,agricultural,1145.45,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Mullana,Mullana,residential,5051.15,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Mullana,Mullana,commercial,12161.71,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Mullana,Mullana link road to 100 mtr. tk,agricultural,900.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Alipur,Alipur,agricultural,444.32,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Alipur,Alipur,agricultural,375.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Alipur,Alipur,agricultural,300.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Alipur,Alipur,residential,1815,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Alipur,Alipur,commercial,2178,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Aliyaspur,Aliyaspur,agricultural,533.18,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Aliyaspur,Aliyaspur,agricultural,350.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Aliyaspur,Aliyaspur,agricultural,300.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Aliyaspur,Aliyaspur,residential,1815,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Aliyaspur,Aliyaspur,commercial,2722.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Uplana,Uplana,agricultural,555.4,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Uplana,Uplana,agricultural,1176.14,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Uplana,Uplana,agricultural,381.82,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Uplana,Uplana,agricultural,981.82,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Uplana,Uplana,agricultural,300.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Uplana,Uplana,agricultural,900.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Uplana,Uplana,residential,1815,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Uplana,Uplana,commercial,2178,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Kakarkunda,Kakarkunda,agricultural,425.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Kakarkunda,Kakarkunda,agricultural,350.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Kakarkunda,Kakarkunda,agricultural,300.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Kakarkunda,Kakarkunda,residential,1815,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Kakarkunda,Kakarkunda,commercial,2178,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Kalpi,Kalpi,agricultural,1060.09,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Kalpi,Kalpi,agricultural,1759.83,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Kalpi,Kalpi,agricultural,385.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Kalpi,Kalpi,agricultural,1050.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Kalpi,Kalpi,agricultural,425.45,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Kalpi,Kalpi,agricultural,1249.59,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Kalpi,Kalpi,residential,2262.7,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Kalpi,Kalpi,commercial,9545.69,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Kalpi,kalpi to Naraigarh Road,agricultural,900.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,kansapur,kansapur,agricultural,575.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,kansapur,kansapur,agricultural,350.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,kansapur,kansapur,agricultural,300.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,kansapur,kansapur,residential,1573,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,kansapur,kansapur,commercial,2178,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Khera,Khera,agricultural,712.31,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Khera,Khera,agricultural,1508.43,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Khera,Khera,agricultural,350.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Khera,Khera,agricultural,900.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Khera,Khera,agricultural,446.28,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Khera,Khera,agricultural,1338.84,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Khera,Khera,residential,2178,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Khera,Khera,commercial,2783,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Gaganheri,Gaganheri,agricultural,425.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Gaganheri,Gaganheri,agricultural,350.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Gaganheri,Gaganheri,agricultural,300.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Gaganheri,Gaganheri,residential,1815,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Gaganheri,Gaganheri,commercial,2178,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Gokalgarh,Gokalgarh,agricultural,653.41,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Gokalgarh,Gokalgarh,agricultural,1176.14,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Gokalgarh,Gokalgarh,agricultural,350.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Gokalgarh,Gokalgarh,agricultural,900.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Gokalgarh,Gokalgarh,agricultural,313.64,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Gokalgarh,Gokalgarh,agricultural,940.91,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Gokalgarh,Gokalgarh,residential,2178,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Gokalgarh,Gokalgarh,commercial,3036,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Gola,Gola,agricultural,644.26,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Gola,Gola,agricultural,1364.32,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Gola,Gola,agricultural,560.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Gola,Gola,agricultural,1440.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Gola,Gola,agricultural,300.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Gola,Gola,agricultural,900.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Gola,Gola,residential,2178,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Gola,Gola,commercial,2783,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Goli,Goli,agricultural,463.64,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Goli,Goli,agricultural,350.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Goli,Goli,agricultural,300.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Goli,Goli,residential,2178,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Goli,Goli,commercial,2783,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Zafarpur,Zafarpur,agricultural,425.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Zafarpur,Zafarpur,agricultural,900.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Zafarpur,Zafarpur,agricultural,350.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Zafarpur,Zafarpur,agricultural,300.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Zafarpur,Zafarpur,residential,1815,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Zafarpur,Zafarpur,commercial,2178,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Jamalmajra,Jamalmajra,agricultural,425.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Jamalmajra,Jamalmajra,agricultural,350.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Jamalmajra,Jamalmajra,agricultural,300.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Jamalmajra,Jamalmajra,residential,1815,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Jamalmajra,Jamalmajra,commercial,3158.1,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Jahangirpur,Jahangirpur,agricultural,444.32,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Jahangirpur,Jahangirpur,agricultural,350.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Jahangirpur,Jahangirpur,agricultural,300.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Jahangirpur,Jahangirpur,residential,1573,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Jahangirpur,Jahangirpur,commercial,2178,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,ZahruMarja,ZahruMarja,agricultural,603.87,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,ZahruMarja,ZahruMarja,agricultural,1278.78,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,ZahruMarja,ZahruMarja,agricultural,445.45,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,ZahruMarja,ZahruMarja,agricultural,1145.45,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,ZahruMarja,ZahruMarja,agricultural,300.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,ZahruMarja,ZahruMarja,agricultural,900.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,ZahruMarja,ZahruMarja,residential,2376,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,ZahruMarja,ZahruMarja,commercial,2783,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Tangail,Tangail,agricultural,682.63,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Tangail,Tangail,agricultural,1445.58,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Tangail,Tangail,agricultural,350.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Tangail,Tangail,agricultural,900.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Tangail,Tangail,agricultural,300.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Tangail,Tangail,residential,2468.4,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Tangail,Tangail,commercial,2928.2,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Tappriyan,Tappriyan,agricultural,425.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Tappriyan,Tappriyan,agricultural,350.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Tappriyan,Tappriyan,agricultural,300.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Tappriyan,Tappriyan,residential,1815,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Tappriyan,Tappriyan,commercial,2178,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Tamnoli,Tamnoli,agricultural,653.41,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Tamnoli,Tamnoli,agricultural,1176.14,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Tamnoli,Tamnoli,agricultural,350.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Tamnoli,Tamnoli,agricultural,900.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Tamnoli,Tamnoli,agricultural,300.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Tamnoli,Tamnoli,residential,2178,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Tamnoli,Tamnoli,commercial,2783,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Tharwa,Tharwa,agricultural,425.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Tharwa,Tharwa,agricultural,350.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Tharwa,Tharwa,agricultural,300.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Tharwa,Tharwa,residential,1815,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Tharwa,Tharwa,commercial,2178,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Thakurpura,Thakurpura,agricultural,555.4,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Thakurpura,Thakurpura,agricultural,1176.14,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Thakurpura,Thakurpura,agricultural,402.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Thakurpura,Thakurpura,agricultural,1035.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Thakurpura,Thakurpura,agricultural,300.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Thakurpura,Thakurpura,agricultural,900.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Thakurpura,Thakurpura,residential,2178,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Thakurpura,Thakurpura,commercial,2783,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Duliyana,Duliyana,agricultural,772.21,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Duliyana,Duliyana,agricultural,1389.98,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Duliyana,Duliyana,agricultural,350.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Duliyana,Duliyana,agricultural,900.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Duliyana,Duliyana,agricultural,300.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Duliyana,Duliyana,residential,1815,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Duliyana,Duliyana,commercial,2178,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Duliyana,Tangel to Dhanoura Link Road,agricultural,900.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Duliyani,Duliyani,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Duliyani,Duliyani,agricultural,900.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Duliyani,Duliyani,agricultural,350.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Duliyani,Duliyani,agricultural,300.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Duliyani,Duliyani,residential,2371.88,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Duliyani,Duliyani,commercial,7865,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,TelheriGujran,Telheri Gujran,agricultural,550.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,TelheriGujran,Telheri Gujran,agricultural,900.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,TelheriGujran,Telheri Gujran,agricultural,357.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,TelheriGujran,Telheri Gujran,agricultural,302.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,TelheriGujran,Telheri Gujran,residential,2142.91,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,TelheriGujran,Telheri Gujran,commercial,7320.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Dhanoura,Dhanoura,agricultural,570.25,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Dhanoura,Dhanoura,agricultural,1026.45,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Dhanoura,Dhanoura,agricultural,350.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Dhanoura,Dhanoura,agricultural,900.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Dhanoura,Dhanoura,agricultural,300.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Dhanoura,Dhanoura,residential,1815,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Dhanoura,Dhanoura,commercial,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Dhanori,Dhanori,agricultural,579.55,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Dhanori,Dhanori,agricultural,1227.27,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Dhanori,Dhanori,agricultural,350.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Dhanori,Dhanori,agricultural,900.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Dhanori,Dhanori,agricultural,300.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Dhanori,Dhanori,residential,1815,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Dhanori,Dhanori,commercial,2178,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Nahoni,Nahoni,agricultural,906.82,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Nahoni,Nahoni,agricultural,1561.98,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Nahoni,Nahoni,agricultural,357.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Nahoni,Nahoni,agricultural,900.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Nahoni,Nahoni,agricultural,302.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Nahoni,Nahoni,residential,2722.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Nahoni,Nahoni,commercial,11115,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Nurudh,Nurudh,agricultural,425.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Nurudh,Nurudh,agricultural,350.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Nurudh,Nurudh,agricultural,300.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Nurudh,Nurudh,residential,1815,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Nurudh,Nurudh,commercial,2178,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,PattiChnarthal,Patti Chnarthal,agricultural,750.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,PattiChnarthal,Patti Chnarthal,agricultural,357.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,PattiChnarthal,Patti Chnarthal,agricultural,302.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,PattiChnarthal,Patti Chnarthal,residential,3049.2,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,PattiChnarthal,Patti Chnarthal,commercial,10115.6,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,PattiChnarthal,Patti Chnarthal,agricultural,900.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,AnajMandiMullanaPattiBhageru,Anaj Mandi Mullana Patti Bhageru,agricultural,1050.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,AnajMandiMullanaPattiBhageru,Anaj Mandi Mullana Patti Bhageru,residential,4392.3,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,AnajMandiMullanaPattiBhageru,Anaj Mandi Mullana Patti Bhageru,commercial,10769,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,PattiBhageru,Patti Bhageru,agricultural,864.07,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,PattiBhageru,Patti Bhageru,agricultural,1736.4,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,PattiBhageru,Patti Bhageru,agricultural,385.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,PattiBhageru,Patti Bhageru,agricultural,1050.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,PattiBhageru,Patti Bhageru,agricultural,487.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,PattiBhageru,Patti Bhageru,agricultural,1431.82,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,PattiBhageru,Patti Bhageru,residential,4591.95,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,PattiBhageru,Patti Bhageru,commercial,13794,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Paplotha,Paplotha,agricultural,775.54,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Paplotha,Paplotha,agricultural,1916.03,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Paplotha,Paplotha,agricultural,350.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Paplotha,Paplotha,agricultural,1050.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Paplotha,Paplotha,agricultural,300.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Paplotha,Paplotha,residential,2831.4,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Paplotha,Paplotha,commercial,5692.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Bijalpur,Bijalpur,agricultural,531.25,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Bijalpur,Bijalpur,agricultural,1125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Bijalpur,Bijalpur,agricultural,350.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Bijalpur,Bijalpur,agricultural,900.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Bijalpur,Bijalpur,agricultural,300.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Bijalpur,Bijalpur,residential,1815,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Bijalpur,Bijalpur,commercial,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Ramgarh,Ramgarh,agricultural,463.64,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Ramgarh,Ramgarh,agricultural,981.82,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Ramgarh,Ramgarh,agricultural,350.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Ramgarh,Ramgarh,agricultural,900.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Ramgarh,Ramgarh,agricultural,300.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Ramgarh,Ramgarh,residential,2178,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Ramgarh,Ramgarh,commercial,2783,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Rollanheri,Rollanheri,agricultural,488.75,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Rollanheri,Rollanheri,agricultural,350.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Rollanheri,Rollanheri,agricultural,300.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Rollanheri,Rollanheri,residential,1815,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Rollanheri,Rollanheri,commercial,2178,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Sherpur,Sherpur,agricultural,684.92,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Sherpur,Sherpur,agricultural,1450.41,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Sherpur,Sherpur,agricultural,350.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Sherpur,Sherpur,agricultural,900.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Sherpur,Sherpur,agricultural,300.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Sherpur,Sherpur,residential,1897.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Sherpur,Sherpur,commercial,5929,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Sardaheri,Sardaheri,agricultural,602.73,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Sardaheri,Sardaheri,agricultural,1276.36,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Sardaheri,Sardaheri,agricultural,350.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Sardaheri,Sardaheri,agricultural,900.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Sardaheri,Sardaheri,agricultural,300.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Sardaheri,Sardaheri,residential,1815,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Sardaheri,Sardaheri,commercial,5929,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Salepur,Salepur,agricultural,425.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Salepur,Salepur,agricultural,350.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Salepur,Salepur,agricultural,300.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Salepur,Salepur,residential,1573,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Salepur,Salepur,commercial,2178,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Sirasgarh,Barara to Sadhaura Road,agricultural,900.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Sirasgarh,Sirasgarh,agricultural,862.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Sirasgarh,Sirasgarh,agricultural,1431.82,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Sirasgarh,Sirasgarh,agricultural,385.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Sirasgarh,Sirasgarh,agricultural,1050.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Sirasgarh,Sirasgarh,agricultural,357.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Sirasgarh,Sirasgarh,residential,4392.3,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Sirasgarh,Sirasgarh,commercial,13820.12,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Sulakhni,Sulakhni,agricultural,425.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Sulakhni,Sulakhni,agricultural,350.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Sulakhni,Sulakhni,agricultural,300.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Sulakhni,Sulakhni,residential,1815,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Sulakhni,Sulakhni,commercial,5929,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Sehla,Sehla,agricultural,531.25,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Sehla,Sehla,agricultural,350.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Sehla,Sehla,agricultural,300.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Sehla,Sehla,residential,1716,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Sehla,Sehla,commercial,2178,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Hamidpur,Hamidpur,agricultural,691.31,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Hamidpur,Hamidpur,agricultural,1147.62,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Hamidpur,Hamidpur,agricultural,385.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Hamidpur,Hamidpur,agricultural,1050.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Hamidpur,Hamidpur,agricultural,455.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Hamidpur,Hamidpur,agricultural,1336.36,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Hamidpur,Hamidpur,residential,1863.4,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Hamidpur,Hamidpur,commercial,5662.8,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Hemamajra,Hemamajra,agricultural,425.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Hemamajra,Hemamajra,agricultural,350.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Hemamajra,Hemamajra,agricultural,300.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Hemamajra,Hemamajra,residential,2178,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Mullana,Hemamajra,Hemamajra,commercial,2783,2026-04-01,ambala_gov_in_dc_notification

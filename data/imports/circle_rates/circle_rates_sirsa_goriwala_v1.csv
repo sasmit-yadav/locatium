@@ -1,0 +1,383 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Sirsa,Goriwala,अहमदपुरदारेवाला,kacha rasta,agricultural,333.62,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,अहमदपुरदारेवाला,kacha rasta,agricultural,257.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,अहमदपुरदारेवाला,kacha rasta,residential,2000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,अहमदपुरदारेवाला,अहमदपुर दारेवाला,agricultural,317.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,अहमदपुरदारेवाला,अहमदपुर दारेवाला,agricultural,245.45,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,अहमदपुरदारेवाला,अहमदपुर दारेवाला,agricultural,2000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,अहमदपुरदारेवाला,अहमदपुर दारेवाला,residential,1600,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,अहमदपुरदारेवाला,अहमदपुर दारेवाला से कालूआना,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,अहमदपुरदारेवाला,अहमदपुर दारेवाला से कालूआना,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,अहमदपुरदारेवाला,अहमदपुर दारेवाला से केहरवाला,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,अहमदपुरदारेवाला,अहमदपुर दारेवाला से केहरवाला,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,अहमदपुरदारेवाला,अहमदपुर दारेवाला से गोदिका,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,अहमदपुरदारेवाला,अहमदपुर दारेवाला से गोदिका,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,अहमदपुरदारेवाला,अहमदपुर दारेवाला से चकफरीदपुर,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,अहमदपुरदारेवाला,अहमदपुर दारेवाला से चकफरीदपुर,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,अहमदपुरदारेवाला,अहमदपुर दारेवाला से बिज्जुवाली,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,अहमदपुरदारेवाला,अहमदपुर दारेवाला से बिज्जुवाली,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,अहमदपुरदारेवाला,अहमदपुर दारेवाला से मम्मद खेड़ा,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,अहमदपुरदारेवाला,अहमदपुर दारेवाला से मम्मद खेड़ा,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,कालूआना,अहमदपुर दारेवाला से लिंक रोड़,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,कालूआना,अहमदपुर दारेवाला से लिंक रोड़,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,कालूआना,कच्चा रास्ता,agricultural,333.62,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,कालूआना,कच्चा रास्ता,agricultural,257.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,कालूआना,कच्चा रास्ता,residential,2000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,कालूआना,कालूआना,agricultural,317.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,कालूआना,कालूआना,agricultural,245.45,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,कालूआना,कालूआना,agricultural,2000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,कालूआना,कालूआना,residential,1800,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,कालूआना,कालूआना से गंगा ढाणी,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,कालूआना,कालूआना से गंगा ढाणी,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,कालूआना,कालूआना से गंगा लिंक रोड़,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,कालूआना,कालूआना से गंगा लिंक रोड़,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,कालूआना,कालूआना से गोदिका लिंक रोड़,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,कालूआना,कालूआना से गोदिका लिंक रोड़,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,कालूआना,कालूआना से जण्डवाला लिंक रोड़,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,कालूआना,कालूआना से जण्डवाला लिंक रोड़,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,कालूआना,कालूआना से बचेर लिंक रोड़,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,कालूआना,कालूआना से बचेर लिंक रोड़,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,कालूआना,कालूआना से मम्मड़ लिंक रोड़,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,कालूआना,कालूआना से मम्मड़ लिंक रोड़,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,कालूआना,सालीवाला से लिंक रोड़,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,कालूआना,सालीवाला से लिंक रोड़,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गंगा,kacha rasta,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गंगा,kacha rasta,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गंगा,kacha rasta,residential,2800,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गंगा,गंगा,agricultural,317.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गंगा,गंगा,agricultural,282.27,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गंगा,गंगा,agricultural,2800,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गंगा,गंगा,residential,2800,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गंगा,गंगा से अबूबशहर लिंक रोड़,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गंगा,गंगा से अबूबशहर लिंक रोड़,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गंगा,गंगा से कालूआना लिंक रोड़,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गंगा,गंगा से कालूआना लिंक रोड़,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गंगा,गंगा से खारा लिंक रोड़,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गंगा,गंगा से खारा लिंक रोड़,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गंगा,गंगा से गिदड़खेड़ा कच्चा रास्ता,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गंगा,गंगा से गिदड़खेड़ा कच्चा रास्ता,agricultural,310.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गंगा,गंगा से जण्डवाला बिश्नोईया लिंक रोड़,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गंगा,गंगा से जण्डवाला बिश्नोईया लिंक रोड़,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गंगा,गंगा से मटदादू लिंक रोड़,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गंगा,गंगा से मटदादू लिंक रोड़,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गंगा,गंगा से मुन्नावाली लिंक रोड़,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गंगा,गंगा से मुन्नावाली लिंक रोड़,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गंगा,गंगा से मोडी लिंक रोड़,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गंगा,गंगा से मोडी लिंक रोड़,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गंगा,गंगा से लखुआना लिंक रोड़,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गंगा,गंगा से लखुआना लिंक रोड़,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गंगा,गंगा से लम्बी लिंक रोड़,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गंगा,गंगा से लम्बी लिंक रोड़,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गिदड़खेड़ा,kacha rasta,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गिदड़खेड़ा,kacha rasta,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गिदड़खेड़ा,गिदड़खेड़ा,agricultural,317.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गिदड़खेड़ा,गिदड़खेड़ा,agricultural,245.45,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गिदड़खेड़ा,गिदड़खेड़ा,agricultural,2000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गिदड़खेड़ा,गिदड़खेड़ा,residential,1800,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गिदड़खेड़ा,लिंक रोड़ गिदड़खेड़ा से लम्बी,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गिदड़खेड़ा,लिंक रोड़ गिदड़खेड़ा से लम्बी,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गोदिका,kacha rasta,agricultural,333.62,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गोदिका,kacha rasta,agricultural,257.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गोदिका,kacha rasta,residential,2000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गोदिका,गोदिका,agricultural,317.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गोदिका,गोदिका,agricultural,245.45,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गोदिका,गोदिका,agricultural,2000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गोदिका,गोदिका,residential,1800,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गोदिका,गोदिका से अहमदपुर दारेवाला लिंक रोड,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गोदिका,गोदिका से अहमदपुर दारेवाला लिंक रोड,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गोदिका,गोदिका से कालूआना,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गोदिका,गोदिका से कालूआना,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गोदिका,गोदिका से गंगा लिंक रोड,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गोदिका,गोदिका से गंगा लिंक रोड,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गोदिका,गोदिका से बिज्जुवाली लिंक रोड,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गोदिका,गोदिका से बिज्जुवाली लिंक रोड,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गोदिका,गोदिका से मुन्नावाली लिंक रोड,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गोदिका,गोदिका से मुन्नावाली लिंक रोड,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गोरीवाला,Goriwala main road Ellnabad to Dabwali upto 2 acre,agricultural,635.45,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गोरीवाला,Goriwala main road Ellnabad to Dabwali upto 2 acre,agricultural,490.91,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गोरीवाला,Goriwala main road Ellnabad to Dabwali upto 2 acre,residential,2800,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गोरीवाला,Goriwala main road Ellnabad to Dabwali upto 2 acre,commercial,12125,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गोरीवाला,kacha rasta,agricultural,367.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गोरीवाला,kacha rasta,agricultural,272.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गोरीवाला,State highway se 3 acre se 5 acre tak,agricultural,381.14,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गोरीवाला,State highway se 3 acre se 5 acre tak,agricultural,318.18,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गोरीवाला,गोरीवाला,agricultural,332.17,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गोरीवाला,गोरीवाला,agricultural,245.45,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गोरीवाला,गोरीवाला,agricultural,2700,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गोरीवाला,गोरीवाला,residential,2900,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गोरीवाला,गोरीवाला,commercial,12625,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गोरीवाला,गोरी0 जी0टी0 रोड बस ऐ0 से डब0,agricultural,635.45,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गोरीवाला,गोरी0 जी0टी0 रोड बस ऐ0 से डब0,agricultural,490.91,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गोरीवाला,गोरी0 जी0टी0 रोड बस ऐ0 से डब0,residential,6650,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गोरीवाला,गोरी0 जी0टी0 रोड बस ऐ0 से डब0,commercial,11155,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गोरीवाला,गोरी0 रामपूरा रोड के नज0,agricultural,367.54,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गोरीवाला,गोरी0 रामपूरा रोड के नज0,residential,2700,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गोरीवाला,गोरी0 रामपूरा रोड के नज0,commercial,8600,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गोरीवाला,गोरीवाला से चकजालू रोड,agricultural,367.54,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गोरीवाला,गोरीवाला से चकजालू रोड,residential,2700,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गोरीवाला,गोरीवाला से झूठीखेडा रोड,agricultural,367.54,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,गोरीवाला,गोरीवाला से झूठीखेडा रोड,residential,2700,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,चकफरीदपुर,ऐलनाबाद से डबवाली रोड़,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,चकफरीदपुर,ऐलनाबाद से डबवाली रोड़,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,चकफरीदपुर,कच्चा रास्ते रकबा चक फरीदपुर,agricultural,643.12,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,चकफरीदपुर,कच्चा रास्ते रकबा चक फरीदपुर,agricultural,272.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,चकफरीदपुर,चक फरीदपुर,agricultural,317.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,चकफरीदपुर,चक फरीदपुर,agricultural,245.45,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,चकफरीदपुर,चक फरीदपुर,agricultural,2000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,चकफरीदपुर,चक फरीदपुर,residential,1840,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,चकफरीदपुर,चक फरीदपुर से अहमदपुर दारेवाला,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,चकफरीदपुर,चक फरीदपुर से अहमदपुर दारेवाला,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,चकफरीदपुर,चक फरीदपुर से बिज्जुवाली,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,चकफरीदपुर,चक फरीदपुर से बिज्जुवाली,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,चकजालू,chakjalu se state highway ke bich ka link Road,agricultural,367.54,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,चकजालू,chakjalu se state highway ke bich ka link Road,residential,2700,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,चकजालू,chakjalu se state highway ke 2 acre tak,agricultural,635.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,चकजालू,chakjalu se state highway ke 2 acre tak,agricultural,490.95,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,चकजालू,chakjalu se state highway ke 3 se 5 acre tak,agricultural,381.14,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,चकजालू,chakjalu se state highway ke 3 se 5 acre tak,agricultural,294.55,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,चकजालू,kachha rasta,agricultural,367.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,चकजालू,kachha rasta,agricultural,272.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,चकजालू,चकजालू,agricultural,317.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,चकजालू,चकजालू,agricultural,245.45,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,चकजालू,चकजालू,agricultural,2700,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,चकजालू,चकजालू,residential,1600,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,चकजालू,चकजालू से गोरीवाला लिंक रोड,agricultural,367.54,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,चकजालू,चकजालू से गोरीवाला लिंक रोड,residential,2700,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,जण्डवालाबिश्नोईया,कच्चा रास्ता गांव जण्डवाला बिश्नोईया,agricultural,333.62,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,जण्डवालाबिश्नोईया,कच्चा रास्ता गांव जण्डवाला बिश्नोईया,agricultural,257.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,जण्डवालाबिश्नोईया,जण्डवाला बिश्नोईया से आसाखेड़ा लिंक रोड,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,जण्डवालाबिश्नोईया,जण्डवाला बिश्नोईया से आसाखेड़ा लिंक रोड,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,जण्डवालाबिश्नोईया,जण्डवाला बिश्नोईया से कालूआना लिंक रोड,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,जण्डवालाबिश्नोईया,जण्डवाला बिश्नोईया से कालूआना लिंक रोड,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,जण्डवालाबिश्नोईया,जण्डवाला बिश्नोईया से गंगा लिंक रोड,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,जण्डवालाबिश्नोईया,जण्डवाला बिश्नोईया से गंगा लिंक रोड,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,जण्डवालाबिश्नोईया,जण्डवाला बिश्नोईया से भारुखेड़ा लिंक रोड,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,जण्डवालाबिश्नोईया,जण्डवाला बिश्नोईया से भारुखेड़ा लिंक रोड,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,जण्डवालाबिश्नोईया,जण्डवाला बिश्नोईया से साबुआना लिंक रोड,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,जण्डवालाबिश्नोईया,जण्डवाला बिश्नोईया से साबुआना लिंक रोड,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,जण्डवालाबिश्नोईया,जण्डवाला बिश्नोईया से सुखेराखेड़ा लिंक रोड,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,जण्डवालाबिश्नोईया,जण्डवाला बिश्नोईया से सुखेराखेड़ा लिंक रोड,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,जण्डवालाबिश्नोईया,जण्डवाला बिश्नोईया,agricultural,317.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,जण्डवालाबिश्नोईया,जण्डवाला बिश्नोईया,agricultural,245.45,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,जण्डवालाबिश्नोईया,जण्डवाला बिश्नोईया,agricultural,2000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,जण्डवालाबिश्नोईया,जण्डवाला बिश्नोईया,residential,1800,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,झट्टीखेड़ा,kacha rasta,agricultural,333.62,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,झट्टीखेड़ा,kacha rasta,agricultural,257.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,झट्टीखेड़ा,Lambi se Matdadu Link Road,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,झट्टीखेड़ा,Lambi se Matdadu Link Road,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,झट्टीखेड़ा,state highway 2 acre tak,agricultural,635.45,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,झट्टीखेड़ा,state highway 2 acre tak,agricultural,490.91,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,झट्टीखेड़ा,State highway se 3 acre se 5 acre tak,agricultural,381.28,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,झट्टीखेड़ा,State highway se 3 acre se 5 acre tak,agricultural,294.55,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,झट्टीखेड़ा,झट्टी खेड़ा,agricultural,317.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,झट्टीखेड़ा,झट्टी खेड़ा,agricultural,245.45,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,झट्टीखेड़ा,झट्टी खेड़ा,agricultural,2000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,झट्टीखेड़ा,झट्टी खेड़ा,residential,1700,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,झट्टीखेड़ा,झुटीखेड़ा से गोरीवाला लिंक रोड़,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,झट्टीखेड़ा,झुटीखेड़ा से गोरीवाला लिंक रोड़,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,झट्टीखेड़ा,झुटीखेड़ा से मतदादू लिंक रोड़,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,झट्टीखेड़ा,झुटीखेड़ा से मतदादू लिंक रोड़,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,झट्टीखेड़ा,झुटीखेड़ा से मलिकपुरा लिंक रोड़,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,झट्टीखेड़ा,झुटीखेड़ा से मलिकपुरा लिंक रोड़,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,झट्टीखेड़ा,झुटीखेड़ा से रामपुरा बिशनोईया लिंक रोड़,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,झट्टीखेड़ा,झुटीखेड़ा से रामपुरा बिशनोईया लिंक रोड़,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,बिज्जूवाली,bijuwali Dabwali ellenabad highway 3 se 5 acre tak,agricultural,476.42,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,बिज्जूवाली,bijuwali Dabwali ellenabad highway 3 se 5 acre tak,agricultural,381.14,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,बिज्जूवाली,kacha rasta,agricultural,367.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,बिज्जूवाली,kacha rasta,agricultural,272.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,बिज्जूवाली,kacha rasta,residential,2800,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,बिज्जूवाली,बिज्जूवाली,agricultural,317.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,बिज्जूवाली,बिज्जूवाली,agricultural,245.45,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,बिज्जूवाली,बिज्जूवाली,agricultural,2800,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,बिज्जूवाली,बिज्जूवाली,residential,2900,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,बिज्जूवाली,बिज्जूवाली,commercial,9300,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,बिज्जूवाली,बिज्जूवाली चौक पर कर्मशियल,commercial,9300,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,बिज्जूवाली,बिज्जूवाली जरनेली सड़क,agricultural,494.69,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,बिज्जूवाली,बिज्जूवाली जरनेली सड़क,agricultural,362.79,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,बिज्जूवाली,बिज्जूवाली जरनेली सड़क,residential,2800,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,बिज्जूवाली,बिज्जूवाली मे०रोड ऐल०डब०,agricultural,635.45,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,बिज्जूवाली,बिज्जूवाली मे०रोड ऐल०डब०,agricultural,490.91,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,बिज्जूवाली,बिज्जूवाली मे०रोड ऐल०डब०,residential,2800,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,बिज्जूवाली,बिज्जूवाली मे०रोड ऐल०डब०,commercial,9300,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,बिज्जूवाली,बिज्जूवाली से गोदीकां रोड,agricultural,362.79,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,बिज्जूवाली,बिज्जूवाली से गोदीकां रोड,residential,2800,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,बिज्जूवाली,बिज्जूवाली से दारेवाला रोड,agricultural,362.79,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,बिज्जूवाली,बिज्जूवाली से दारेवाला रोड,residential,2800,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,बिज्जूवाली,बिज्जूवाली से रामगढ रोड,agricultural,362.79,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,बिज्जूवाली,बिज्जूवाली से रामगढ रोड,residential,2800,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मतदादू,kacha rasta,agricultural,333.62,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मतदादू,kacha rasta,agricultural,257.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मतदादू,state highway 2 acre tak,agricultural,635.45,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मतदादू,state highway 2 acre tak,agricultural,490.91,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मतदादू,state highway ke 3 se 5 acre tak,agricultural,381.28,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मतदादू,state highway ke 3 se 5 acre tak,agricultural,257.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मतदादू,खुईयां मलकानी लिंक रोड़ गहराई 2 एकड़,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मतदादू,खुईयां मलकानी लिंक रोड़ गहराई 2 एकड़,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मतदादू,गांव लम्बी हाईवे लिंक रोड़ गहराई 2 एकड़,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मतदादू,गांव लम्बी हाईवे लिंक रोड़ गहराई 2 एकड़,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मतदादू,झुटीखेड़ा लिंक रोड़ गहराई 2 एकड़,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मतदादू,झुटीखेड़ा लिंक रोड़ गहराई 2 एकड़,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मतदादू,मतदादू,agricultural,317.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मतदादू,मतदादू,agricultural,245.45,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मतदादू,मतदादू,agricultural,2000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मतदादू,मतदादू,residential,2250,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मतदादू,मतदादू बस स्टैण्ड से गांव लिंक रोड़ गहराई 2 एकड़,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मतदादू,मतदादू बस स्टैण्ड से गांव लिंक रोड़ गहराई 2 एकड़,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मतदादू,मलिकपुरा लिंक रोड़ गहराई 2 एकड़,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मतदादू,मलिकपुरा लिंक रोड़ गहराई 2 एकड़,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मतदादू,रामपुरा लिंक रोड़ गहराई 2 एकड़,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मतदादू,रामपुरा लिंक रोड़ गहराई 2 एकड़,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मतदादू,हाईवे के 2 एकड़ से मतदादू लिंक रोड,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मतदादू,हाईवे के 2 एकड़ से मतदादू लिंक रोड,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मुन्नावाली,kacha rasta,agricultural,333.62,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मुन्नावाली,kacha rasta,agricultural,257.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मुन्नावाली,state highway 2 acre tak,agricultural,635.45,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मुन्नावाली,state highway 2 acre tak,agricultural,490.91,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मुन्नावाली,state highway ke 3 se 5 acre tak,agricultural,381.28,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मुन्नावाली,state highway ke 3 se 5 acre tak,agricultural,294.55,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मुन्नावाली,गोदिका रोड़,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मुन्नावाली,गोदिका रोड़,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मुन्नावाली,गोरीवाला से मुन्नावाली कच्चा रास्ता,agricultural,333.62,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मुन्नावाली,गोरीवाला से मुन्नावाली कच्चा रास्ता,agricultural,257.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मुन्नावाली,बिज्जुवाली से गंगा,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मुन्नावाली,बिज्जुवाली से गंगा,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मुन्नावाली,बिज्जुवाली से मुन्नावाली,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मुन्नावाली,बिज्जुवाली से मुन्नावाली,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मुन्नावाली,मुन्नावाली,agricultural,317.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मुन्नावाली,मुन्नावाली,agricultural,245.45,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मुन्नावाली,मुन्नावाली,agricultural,2000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मुन्नावाली,मुन्नावाली,residential,1800,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मोडी,kacha rasta,agricultural,367.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मोडी,kacha rasta,agricultural,272.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मोडी,मोडी,agricultural,317.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मोडी,मोडी,agricultural,245.45,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मोडी,मोडी,agricultural,2700,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मोडी,मोडी,residential,2375,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मोडी,मोडी,commercial,10695,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मोडी,मोडी से मुन्नावाली लिंक रोड,agricultural,367.56,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मोडी,मोडी से मुन्नावाली लिंक रोड,residential,2700,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मोडी,मौडी मे डबवाली रोड,agricultural,367.56,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मोडी,मौडी मे डबवाली रोड,residential,2700,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मोडी,मौडी मैन रोड ऐल0 से डबवाली,agricultural,367.56,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मोडी,मौडी मैन रोड ऐल0 से डबवाली,residential,2900,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मोडी,मौडी मैन रोड ऐल0 से डबवाली,commercial,9300,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मोडी,मौडी लिंक रोड,agricultural,367.56,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,मोडी,मौडी लिंक रोड,residential,2700,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रत्ताखेड़ा,कच्चा रास्ता,agricultural,333.62,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रत्ताखेड़ा,कच्चा रास्ता,agricultural,257.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रत्ताखेड़ा,रत्ताखेड़ा से गोरीवाला लिंक रोड़,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रत्ताखेड़ा,रत्ताखेड़ा से गोरीवाला लिंक रोड़,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रत्ताखेड़ा,रत्ताखेड़ा से रामगढ़ लिंक रोड़,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रत्ताखेड़ा,रत्ताखेड़ा से रामगढ़ लिंक रोड़,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रत्ताखेड़ा,रत्ताखेड़ा से रामपुरा बिशनोईया लिंक रोड़,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रत्ताखेड़ा,रत्ताखेड़ा से रामपुरा बिशनोईया लिंक रोड़,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रत्ताखेड़ा,रत्ताखेड़ा से रिसालिया खेड़ा लिंक रोड़,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रत्ताखेड़ा,रत्ताखेड़ा से रिसालिया खेड़ा लिंक रोड़,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रत्ताखेड़ा,रत्ताखेड़ा,agricultural,317.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रत्ताखेड़ा,रत्ताखेड़ा,agricultural,245.45,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रत्ताखेड़ा,रत्ताखेड़ा,agricultural,2000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रत्ताखेड़ा,रत्ताखेड़ा,residential,2070,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,राजपुरा,kacha rasta,agricultural,333.62,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,राजपुरा,kacha rasta,agricultural,257.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,राजपुरा,राजपुरा,agricultural,317.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,राजपुरा,राजपुरा,agricultural,245.45,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,राजपुरा,राजपुरा,agricultural,1900,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,राजपुरा,राजपुरा,residential,1800,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,राजपुरा,राजपुरा से जण्डवाला जाटान लिंक रोड़,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,राजपुरा,राजपुरा से जण्डवाला जाटान लिंक रोड़,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,राजपुरा,राजपुरा से बनवाला लिंक रोड़,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,राजपुरा,राजपुरा से बनवाला लिंक रोड़,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,राजपुरा,राजपुरा से भागसर लिंक रोड़,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,राजपुरा,राजपुरा से भागसर लिंक रोड़,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,राजपुरा,लिंक रोड़ राजपुरा से नुहियावाली,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,राजपुरा,लिंक रोड़ राजपुरा से नुहियावाली,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रामगढ़,kacha rasta,agricultural,333.62,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रामगढ़,kacha rasta,agricultural,257.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रामगढ़,kacha rasta,residential,2000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रामगढ़,गिदड़ा रोड़ से चक्का लिंक रोड़ 2 एकड़ तक,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रामगढ़,गिदड़ा रोड़ से चक्का लिंक रोड़ 2 एकड़ तक,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रामगढ़,गिदड़ा रोड़ से सादेवाला लिंक रोड़ 2 एकड़ तक,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रामगढ़,गिदड़ा रोड़ से सादेवाला लिंक रोड़ 2 एकड़ तक,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रामगढ़,रामगढ़,agricultural,317.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रामगढ़,रामगढ़,agricultural,245.45,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रामगढ़,रामगढ़,agricultural,2000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रामगढ़,रामगढ़,residential,1800,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रामगढ़,रामगढ़ रोड़ रिसालिया खेड़ा से चक्का लिंक रोड़ 2 एकड़ तक,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रामगढ़,रामगढ़ रोड़ रिसालिया खेड़ा से चक्का लिंक रोड़ 2 एकड़ तक,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रामगढ़,रामगढ़ से केहरवाला लिंक रोड़ 2 एकड़ तक,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रामगढ़,रामगढ़ से केहरवाला लिंक रोड़ 2 एकड़ तक,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रामगढ़,रामगढ़ से गिदड़ा लिंक रोड़ 2 एकड़ तक,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रामगढ़,रामगढ़ से गिदड़ा लिंक रोड़ 2 एकड़ तक,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रामपुराबिशनोईया,kacha rasta,agricultural,333.62,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रामपुराबिशनोईया,kacha rasta,agricultural,257.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रामपुराबिशनोईया,रामपुरा बिशनोईया,agricultural,317.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रामपुराबिशनोईया,रामपुरा बिशनोईया,agricultural,245.45,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रामपुराबिशनोईया,रामपुरा बिशनोईया,agricultural,2000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रामपुराबिशनोईया,रामपुरा बिशनोईया,residential,1800,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रामपुराबिशनोईया,रामपुरा बिशनोईया से किंगरा,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रामपुराबिशनोईया,रामपुरा बिशनोईया से किंगरा,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रामपुराबिशनोईया,"रामपुरा बिशनोईया से गोरीवाला, संगरिया-सिरसा",agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रामपुराबिशनोईया,"रामपुरा बिशनोईया से गोरीवाला, संगरिया-सिरसा",agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रामपुराबिशनोईया,रामपुरा बिशनोईया से जण्डवाला जाटान,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रामपुराबिशनोईया,रामपुरा बिशनोईया से जण्डवाला जाटान,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रामपुराबिशनोईया,रामपुरा बिशनोईया से जण्डवाला जाटान -राजपुरा,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रामपुराबिशनोईया,रामपुरा बिशनोईया से जण्डवाला जाटान -राजपुरा,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रामपुराबिशनोईया,रामपुरा बिशनोईया से झुटीखेड़ा,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रामपुराबिशनोईया,रामपुरा बिशनोईया से झुटीखेड़ा,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रामपुराबिशनोईया,रामपुरा बिशनोईया से नुहियावाली,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रामपुराबिशनोईया,रामपुरा बिशनोईया से नुहियावाली,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रामपुराबिशनोईया,रामपुरा बिशनोईया से मलिकपुरा,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रामपुराबिशनोईया,रामपुरा बिशनोईया से मलिकपुरा,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रामपुराबिशनोईया,रामपुरा बिशनोईया से रताखेड़ा,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रामपुराबिशनोईया,रामपुरा बिशनोईया से रताखेड़ा,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रामपुराबिशनोईया,रामपुरा बिशनोईया से रामगढ़,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रामपुराबिशनोईया,रामपुरा बिशनोईया से रामगढ़,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रिसालियाखेड़ा,कच्चा रास्ता,agricultural,333.62,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रिसालियाखेड़ा,कच्चा रास्ता,agricultural,257.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रिसालियाखेड़ा,कच्चा रास्ता,residential,2000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रिसालियाखेड़ा,रामगढ़ से रताखेड़ा लिंक रोड़ गहराई 2 एकड़ तक,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रिसालियाखेड़ा,रामगढ़ से रताखेड़ा लिंक रोड़ गहराई 2 एकड़ तक,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रिसालियाखेड़ा,रामगढ़ से रिसालिया खेड़ा लिंक रोड़ गहराई 2 एकड़ तक,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रिसालियाखेड़ा,रामगढ़ से रिसालिया खेड़ा लिंक रोड़ गहराई 2 एकड़ तक,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रिसालियाखेड़ा,रिसालिया खेड़ा,agricultural,317.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रिसालियाखेड़ा,रिसालिया खेड़ा,agricultural,245.45,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रिसालियाखेड़ा,रिसालिया खेड़ा,agricultural,2000,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रिसालियाखेड़ा,रिसालिया खेड़ा,residential,1800,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रिसालियाखेड़ा,रिसालिया खेड़ा लिंक रोड़ रामगढ़ से चकजालू गहराई 2 एकड़ तक,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रिसालियाखेड़ा,रिसालिया खेड़ा लिंक रोड़ रामगढ़ से चकजालू गहराई 2 एकड़ तक,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रिसालियाखेड़ा,रिसालिया खेड़ा लिंक रोड़ रामगढ़ से बिज्जुवाली गहराई 2 एकड़ तक,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रिसालियाखेड़ा,रिसालिया खेड़ा लिंक रोड़ रामगढ़ से बिज्जुवाली गहराई 2 एकड़ तक,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रिसालियाखेड़ा,रिसालिया खेड़ा लिंक रोड़ रामगढ़ से रामपुरा बिश्नोईया गहराई 2 एकड़ तक,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रिसालियाखेड़ा,रिसालिया खेड़ा लिंक रोड़ रामगढ़ से रामपुरा बिश्नोईया गहराई 2 एकड़ तक,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रिसालियाखेड़ा,रिसालिया खेड़ा से बनवाला गहराई 2 एकड़ तक,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रिसालियाखेड़ा,रिसालिया खेड़ा से बनवाला गहराई 2 एकड़ तक,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रिसालियाखेड़ा,रिसालिया खेड़ा से रताखेड़ा लिंक रोड़ गहराई 2 एकड़ तक,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रिसालियाखेड़ा,रिसालिया खेड़ा से रताखेड़ा लिंक रोड़ गहराई 2 एकड़ तक,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रिसालियाखेड़ा,रिसालिया खेड़ा से रामगढ़ लिंक रोड़ गहराई 2 एकड़ तक,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रिसालियाखेड़ा,रिसालिया खेड़ा से रामगढ़ लिंक रोड़ गहराई 2 एकड़ तक,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रिसालियाखेड़ा,लिंक रोड़ बिज्जुवाली से चंका वाया रिसालिया खेड़ा गहराई 2 एकड़ तक,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रिसालियाखेड़ा,लिंक रोड़ बिज्जुवाली से चंका वाया रिसालिया खेड़ा गहराई 2 एकड़ तक,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रिसालियाखेड़ा,लिंक रोड़ रिसालिया खेड़ा से केहरवाला गहराई 2 एकड़ तक,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रिसालियाखेड़ा,लिंक रोड़ रिसालिया खेड़ा से केहरवाला गहराई 2 एकड़ तक,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रिसालियाखेड़ा,लिंक रोड़ रिसालिया खेड़ा से गिन्दड़ तक,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,रिसालियाखेड़ा,लिंक रोड़ रिसालिया खेड़ा से गिन्दड़ तक,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,लम्बी,kacha rasta,agricultural,333.62,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,लम्बी,kacha rasta,agricultural,257.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,लम्बी,state highway 3 acre se 5 acre tak,agricultural,381.28,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,लम्बी,state highway 3 acre se 5 acre tak,agricultural,294.55,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,लम्बी,state highway 2 acre tak,agricultural,635.45,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,लम्बी,state highway 2 acre tak,agricultural,490.91,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,लम्बी,झुटी खेड़ा से गंगा रोड़,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,लम्बी,झुटी खेड़ा से गंगा रोड़,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,लम्बी,लम्बी,agricultural,317.73,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,लम्बी,लम्बी,agricultural,245.45,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,लम्बी,लम्बी,agricultural,3200,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,लम्बी,लम्बी,residential,1600,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,लम्बी,लम्बी से गंगा रोड़,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,लम्बी,लम्बी से गंगा रोड़,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,लम्बी,लम्बी से गिदड़खेड़ा रोड़,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,लम्बी,लम्बी से गिदड़खेड़ा रोड़,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,लम्बी,लम्बी से झुटी खेड़ा रोड़,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,लम्बी,लम्बी से झुटी खेड़ा रोड़,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,लम्बी,लम्बी से मतदाता रोड़,agricultural,349.5,2026-04-01,sirsa_gov_in_dc_notification
+Sirsa,Goriwala,लम्बी,लम्बी से मतदाता रोड़,agricultural,270.0,2026-04-01,sirsa_gov_in_dc_notification

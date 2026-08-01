@@ -27,6 +27,109 @@ llm_adapter/
 ```
 Rule: **no feature code ever imports a provider SDK directly.** Everything calls `llm_adapter.complete(...)`. This means when you finalize which fast provider you're using, it's a config change, not a rewrite. Pick the actual provider in Week 18 Day 1 — flagged below.
 
+Node backend mirrors this via `backend/src/services/llm/llm-adapter.js` (OpenAI-compatible: Groq, Together, Fireworks).
+
+---
+
+## PHASE 3.5 — SCORING HARDENING & INTELLIGENCE UPGRADE (Week 14+)
+
+**Status baseline:** 2026-07-20 · Engine **`v3-investment`**
+
+This phase closes every limitation identified in the scoring/intelligence audit. Items are grouped by priority; checkboxes reflect implementation in repo.
+
+### Audit → fix mapping
+
+| Original limitation | Resolution | Status |
+|---------------------|------------|--------|
+| Not true AI — rule-only insights | LLM narrative layer (`narrative-insights.service.js`) with rule-based fallback; PostGIS scores remain ground truth | ✅ Scaffold |
+| Infrastructure saturates at 100 | Per-category log saturation: health / education / civic curves, weighted blend | ✅ Done |
+| Environmental label confusing | UI: **Env. suitability** + tooltip “Higher = safer” | ✅ Done |
+| Air quality = 0 placeholder | CPCB seed stations (`aqi_stations`) + blend with spatial proxy | ✅ Done |
+| Govt offices = jails table | Electric stations, transformers, ITI within 5 km | ✅ Done |
+| Zone fit coarse / binary | Continuous proximity + HSIIDC inside + `lu_lc` land use + controlled/development plan | ✅ Done |
+| Same sector everywhere | Sector weight profiles (industrial/residential/commercial/agricultural) | ✅ Done |
+| No land price / ROI | `circle_rates` + `land_transactions` → `land-value.service.js` | ✅ Done |
+| No historical outcomes | `zone_outcomes` seed + `train_investment_model.py` | ✅ Scaffold |
+| No formula transparency | `scoreBreakdown` API + `ScoreBreakdown.jsx` UI | ✅ Done |
+| No comparables | `comparable-sites.service.js` — sites within 10 km scored | ✅ Done |
+| No policy citations | `policy_documents` RAG corpus + retrieval in insights | ✅ Done |
+
+### Quick wins (1–2 weeks) — **complete**
+
+- [x] Rename Environmental → Environmental suitability + tooltip
+- [x] Log-scaled infrastructure (separate curves per amenity class)
+- [x] Formula breakdown in UI (`details.*.metrics.formula`, expandable breakdown)
+- [x] Sector-specific composite weights
+- [x] ML service on port **8002** (`ML_SERVICE_URL=http://127.0.0.1:8002`)
+
+**Verify quick wins:**
+
+```powershell
+cd backend && npm test
+$body = @{ lat = 28.45; lng = 76.9; sector = 'industrial' } | ConvertTo-Json -Compress
+Invoke-RestMethod http://localhost:3002/api/analysis/score-location -Method Post -ContentType application/json -Body $body |
+  Select-Object scoringVersion, overallScore, @{n='infra';e={$_.scores.infrastructure}}
+```
+
+### Medium term (Phase 4–5) — **implemented (seed data; production feeds TBD)**
+
+| Task | Implementation | Production next step |
+|------|----------------|---------------------|
+| Real air quality | `aqi_stations` table + nearest-station blend | Ingest live CPCB API nightly |
+| CLU / zoning | `zoning-context.service.js` — HSIIDC, `lu_lc`, controlled/DP layers | Add CLU status attribute table when sourced |
+| Power & water utilities | Count water/sewer/electric/HVPNL lines + power assets in zone score | DIS/HVPNL live capacity API |
+| Comparable parcels | `comparable-sites.service.js` | Expand `land_transactions` from registrar feed |
+| Train XGBoost | `ml-service/scripts/train_investment_model.py` | Replace seed labels with real occupancy/lease data |
+
+**Train model (dev):**
+
+```powershell
+cd ml-service
+$env:ML_MIN_TRAINING_ROWS=30
+python scripts/train_investment_model.py
+uvicorn main:app --host 127.0.0.1 --port 8002
+```
+
+**Migrate new tables:**
+
+```powershell
+cd backend && npm run db:migrate
+```
+
+### True AI insights (Week 18+ roadmap) — **scaffold in place**
+
+- [x] LLM adapter interface (`backend/src/services/llm/llm-adapter.js`) — Groq/OpenAI-compatible
+- [x] Grounded narrative: structured JSON context → memo; never invent numbers
+- [x] Rule-based fallback when `LLM_ENABLED` false or timeout
+- [x] Policy RAG seed corpus (`policy_documents`) — keyword retrieval, citations in UI
+- [x] Full `POST /api/assistant/ask` conversational widget (Week 18)
+- [x] SSE streaming + map grounding (Week 18 Day 3–4)
+- [ ] PDF narrative block (Week 19)
+
+**Enable LLM narrative (optional):**
+
+```env
+LLM_ENABLED=true
+GROQ_API_KEY=your_key
+LLM_MODEL=llama-3.3-70b-versatile
+LLM_BASE_URL=https://api.groq.com/openai/v1
+```
+
+### Key files (Phase 3.5)
+
+| Concern | Path |
+|---------|------|
+| Scoring v3 formulae | `backend/src/services/scoring-engine.js` |
+| AQI stations | `backend/db/scoring_extensions.sql`, `aqi.service.js` |
+| Zoning context | `zoning-context.service.js` |
+| Land value / market premium vs floor | `land-value.service.js` |
+| Comparables | `comparable-sites.service.js` |
+| LLM + narrative | `llm/llm-adapter.js`, `narrative-insights.service.js` |
+| Policy RAG | `policy-rag.service.js` |
+| Orchestrator (merge all) | `scoringOrchestrator.js` |
+
+Full formulae and test guide: [`docs/PROJECT-STATUS.md`](docs/PROJECT-STATUS.md).
+
 ---
 
 ## PHASE 4 — AI FOUNDATIONS (Weeks 13–16)

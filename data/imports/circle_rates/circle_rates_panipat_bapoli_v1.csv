@@ -1,0 +1,276 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Panipat,Bapoli,Bapoli,Sigma Panipat Industrial Park and other licensed Industrial Area,industrial,11000,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Atolapur,Inside Lal Dora and Topi Abadi,residential,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Atolapur,Road up to 2 acres,agricultural,400.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Atolapur,Road up to 2 acres,agricultural,500.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Atolapur,Road up to 2 acres,residential,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Atolapur,Road up to 2 acres,commercial,3630,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Atolapur,Road up to 2 acres,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Adhmi,Per acre all types,agricultural,483.47,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Adhmi,Per acre all types Sailabi,agricultural,75.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Adhmi,Per acre all types,residential,1815,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Adhmi,Per acre all types,commercial,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Adhmi,Per acre all types,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Ujah,Haridwar Road up to 2 acres,agricultural,580.17,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Ujah,Haridwar Road up to 2 acres,agricultural,1128.1,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Ujah,Haridwar Road up to 2 acres,residential,2178,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Ujah,Haridwar Road up to 2 acres,residential,3630,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Ujah,Haridwar Road up to 2 acres,commercial,5445,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Ujah,Haridwar Road up to 2 acres,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Kamashpur,Per acre all types,agricultural,418.18,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Kamashpur,Per acre all types Sailabi,agricultural,100.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Kamashpur,Per acre all types,residential,2238.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Kamashpur,Per acre all types,commercial,3630,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Kamashpur,Per acre all types,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Kundla,Per acre all types,agricultural,375.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Kundla,Per acre all types Sailabi,agricultural,75.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Kundla,Per acre all types,residential,1815,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Kundla,Per acre all types,commercial,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Kundla,Per acre all types,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Kurad,3 to 6 acres,agricultural,1050.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Kurad,Commercial,commercial,3960,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Kurad,Road up to 2 acres,agricultural,784.09,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Kurad,Road up to 2 acres,agricultural,891.01,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Kurad,Haridwar Road up to 2 acres,agricultural,1550.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Kurad,Haridwar Road up to 2 acres,residential,2662,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Kurad,Haridwar Road up to 2 acres,commercial,7920,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Kurad,Haridwar Road up to 2 acres,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Khojkipur,Per acre salam rakba,agricultural,350.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Khojkipur,Per acre salam rakba Sailabi,agricultural,87.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Khojkipur,Per acre salam rakba,residential,1815,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Khojkipur,Per acre salam rakba,commercial,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Khojkipur,Per acre salam rakba,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,GarhiBhallaur,Link Road up to 1 acre,agricultural,350.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,GarhiBhallaur,Link Road up to 1 acre,agricultural,450.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,GarhiBhallaur,Link Road up to 1 acre,residential,1815,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,GarhiBhallaur,Link Road up to 1 acre,commercial,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,GarhiBhallaur,Link Road up to 1 acre,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,GoylaKalan,Per acre all types,agricultural,375.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,GoylaKalan,Per acre all types Sailabi,agricultural,87.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,GoylaKalan,Per acre all types,residential,1815,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,GoylaKalan,Per acre all types,commercial,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,GoylaKalan,Per acre all types,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,GoylaKhurd,Per acre all types,agricultural,375.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,GoylaKhurd,Per acre all types Sailabi,agricultural,87.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,GoylaKhurd,Per acre all types,residential,1815,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,GoylaKhurd,Per acre all types,commercial,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,GoylaKhurd,Per acre all types,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,ChhajpurKalan,3 to 6 acres,agricultural,653.41,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,ChhajpurKalan,3 to 6 acres,agricultural,1176.14,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,ChhajpurKalan,Haridwar Road up to 2 acres,agricultural,1568.18,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,ChhajpurKalan,Haridwar Road up to 2 acres,residential,3162.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,ChhajpurKalan,Haridwar Road up to 2 acres,commercial,7260,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,ChhajpurKalan,Haridwar Road up to 2 acres,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,ChhajpurKalan,Haridwar Road 100 ft residential,residential,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,ChhajpurKhurd,3 to 6 acres,agricultural,743.8,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,ChhajpurKhurd,3 to 6 acres,agricultural,1338.84,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,ChhajpurKhurd,Haridwar Road 100 ft residential,residential,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,ChhajpurKhurd,Haridwar Road up to 2 acres,agricultural,1500.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,ChhajpurKhurd,Haridwar Road up to 2 acres,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,ChhajpurKhurd,Haridwar Road up to 2 acres,commercial,6325,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,ChhajpurKhurd,Haridwar Road up to 2 acres,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Jalmana,Per acre all types,agricultural,545.45,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Jalmana,Per acre all types Sailabi,agricultural,87.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Jalmana,Per acre all types,residential,2277,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Jalmana,Per acre all types,commercial,3630,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Jalmana,Per acre all types,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Jalalpur1,Link Road up to 1 acre,agricultural,509.09,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Jalalpur1,Link Road up to 1 acre,agricultural,636.36,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Jalalpur1,Link Road up to 1 acre,residential,2970,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Jalalpur1,Link Road up to 1 acre,commercial,3630,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Jalalpur1,Link Road up to 1 acre,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Jalalpur1,Haridwar Road up to 2 acres,agricultural,1125.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Jalalpur1,Haridwar Road 3 to 6 acres,agricultural,800.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Jalalpur2,Per acre all types,agricultural,400.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Jalalpur2,Per acre all types Sailabi,agricultural,85.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Jalalpur2,Per acre all types,residential,2178,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Jalalpur2,Per acre all types,commercial,3630,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Jalalpur2,Per acre all types,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Jalpad,Link Road up to 1 acre,agricultural,743.8,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Jalpad,Link Road up to 1 acre,agricultural,929.75,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Jalpad,Haridwar Road up to 2 acres,agricultural,1500.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Jalpad,Haridwar Road up to 2 acres,residential,2783,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Jalpad,Haridwar Road up to 2 acres,commercial,4320,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Jalpad,Haridwar Road up to 2 acres,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Jalpad,Haridwar Road 3 to 6 acres,agricultural,1050.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Jhamba,3 to 6 acres,agricultural,470.45,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Jhamba,3 to 6 acres,agricultural,784.09,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Jhamba,Link Road 30 ft commercial,commercial,5060,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Jhamba,Haridwar Road up to 2 acres,agricultural,1000.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Jhamba,Haridwar Road up to 2 acres,residential,2700,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Jhamba,Haridwar Road up to 2 acres,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Jhamba,Haridwar Road 30 ft commercial,commercial,6655,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Jhamba,Haridwar Road 100 ft residential,residential,3630,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Dadola,Road up to 2 acres,agricultural,392.05,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Dadola,Road up to 2 acres,agricultural,522.73,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Dadola,Road up to 2 acres,residential,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Dadola,Road up to 2 acres,commercial,3146,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Dadola,Road up to 2 acres,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Dadoli,Road up to 2 acres,agricultural,534.61,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Dadoli,Road up to 2 acres,agricultural,712.81,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Dadoli,Road up to 2 acres,residential,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Dadoli,Road up to 2 acres,commercial,2662,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Dadoli,Road up to 2 acres,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Tajpur,2 to 6 acres,agricultural,370.66,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Tajpur,2 to 6 acres,agricultural,427.69,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Tajpur,Link Road up to 1 acre,agricultural,450.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Tajpur,Link Road up to 1 acre,residential,1815,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Tajpur,Link Road up to 1 acre,commercial,2178,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Tajpur,Link Road up to 1 acre,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Tamshawad,Per acre all types,agricultural,400.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Tamshawad,Per acre all types Sailabi,agricultural,80.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Tamshawad,Per acre all types,residential,2178,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Tamshawad,Per acre all types,commercial,3630,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Tamshawad,Per acre all types,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Dhansoli,Per acre all types,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Dhansoli,Per acre all types,agricultural,350.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Dhansoli,Per acre all types Sailabi,agricultural,75.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Dhansoli,Per acre all types,residential,1815,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Dhansoli,Per acre all types,commercial,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,NaglaAr,Per acre all types,agricultural,350.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,NaglaAr,Per acre all types,residential,1815,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,NaglaAr,Per acre all types,commercial,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,NaglaAr,Per acre all types,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Nanhera,Per acre all types,agricultural,350.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Nanhera,Per acre all types Sailabi,agricultural,75.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Nanhera,Per acre all types,residential,1815,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Nanhera,Per acre all types,commercial,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Nanhera,Per acre all types,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,NawadaAr,Per acre all types,agricultural,365.91,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,NawadaAr,Per acre all types Sailabi,agricultural,75.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,NawadaAr,Per acre all types,residential,1815,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,NawadaAr,Per acre all types,commercial,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,NawadaAr,Per acre all types,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,NawadaPar,Per acre all types,agricultural,350.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,NawadaPar,Per acre all types Sailabi,agricultural,75.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,NawadaPar,Per acre all types,residential,1815,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,NawadaPar,Per acre all types,commercial,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,NawadaPar,Per acre all types,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,NoorpurGujran,Per acre all types,agricultural,375.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,NoorpurGujran,Per acre all types,residential,1815,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,NoorpurGujran,Per acre all types,commercial,2178,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,NoorpurGujran,Per acre all types,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,NoorpurMuglan,Per acre all types,agricultural,392.05,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,NoorpurMuglan,Per acre all types,residential,1815,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,NoorpurMuglan,Per acre all types,commercial,2178,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,NoorpurMuglan,Per acre all types,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,PasinaKalan,Next 3 to 6 acres,agricultural,2500.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,PasinaKalan,GT Road up to 2 acres,agricultural,1300.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,PasinaKalan,GT Road up to 2 acres,residential,3600,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,PasinaKalan,GT Road up to 2 acres,commercial,6655,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,PasinaKalan,GT Road up to 2 acres,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,PasinaKalan,GT Road in plot form,residential,6655,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,PasinaKalan,Link Road up to 1 acre,agricultural,712.81,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,PasinaKalan,Link Road up to 1 acre,agricultural,1197.52,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,PasinaKhurd,Next 3 to 6 acres,agricultural,1300.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,PasinaKhurd,GT Road in plot form,residential,7260,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,PasinaKhurd,Link Road up to 1 acre,agricultural,625.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,PasinaKhurd,Link Road up to 1 acre,agricultural,1050.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,PasinaKhurd,Siwah GT Road up to 2 acres,agricultural,2500.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,PasinaKhurd,Siwah GT Road up to 2 acres,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,PasinaKhurd,Siwah GT Road up to 2 acres,commercial,7260,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,PasinaKhurd,Siwah GT Road up to 2 acres,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Bahrampur,Up to 2 acres road and Mandi side,agricultural,625.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Bahrampur,Up to 2 acres road and Mandi side,residential,3025,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Bahrampur,Up to 2 acres road and Mandi side,commercial,8250,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Bahrampur,Up to 2 acres road and Mandi side,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Bahrampur,3 to 6 acres,agricultural,669.42,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Bahrampur,3 to 6 acres,agricultural,743.8,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Bapoli,Next 3 to 6 acres,agricultural,418.18,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Bapoli,Next 3 to 6 acres,agricultural,522.73,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Bapoli,Road up to 2 acres,agricultural,625.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Bapoli,Road up to 2 acres,residential,3630,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Bapoli,Road up to 2 acres,commercial,7700,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Bapoli,Road up to 2 acres,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,BegampurTaharpur,Per acre salam rakba,agricultural,381.82,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,BegampurTaharpur,Per acre salam rakba,residential,1815,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,BegampurTaharpur,Per acre salam rakba,commercial,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,BegampurTaharpur,Per acre salam rakba,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Bhalaur,Per acre salam rakba,agricultural,350.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Bhalaur,Per acre salam rakba,residential,1815,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Bhalaur,Per acre salam rakba,commercial,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Bhalaur,Per acre salam rakba,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Bhaudinpur,Per acre all types,agricultural,375.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Bhaudinpur,Per acre all types Sailabi,agricultural,75.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Bhaudinpur,Per acre all types,residential,1815,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Bhaudinpur,Per acre all types,commercial,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Bhaudinpur,Per acre all types,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Bhanauli,Per acre all types,agricultural,409.09,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Bhanauli,Per acre all types Sailabi,agricultural,100.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Bhanauli,Per acre all types,residential,1980,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Bhanauli,Per acre all types,commercial,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Bhanauli,Per acre all types,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Matnauli,Per acre salam rakba,agricultural,413.64,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Matnauli,Per acre salam rakba,residential,1815,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Matnauli,Per acre salam rakba,commercial,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Matnauli,Per acre salam rakba,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Mirzapur,Per acre salam rakba,agricultural,350.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Mirzapur,Per acre salam rakba Sailabi,agricultural,100.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Mirzapur,Per acre salam rakba,residential,1815,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Mirzapur,Per acre salam rakba,commercial,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Mirzapur,Per acre salam rakba,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Mohali,Per acre all types,agricultural,509.09,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Mohali,Per acre all types,residential,1815,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Mohali,Per acre all types,commercial,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Mohali,Per acre all types,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Raslapur,3 to 6 acres,agricultural,456.2,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Raslapur,3 to 6 acres,agricultural,513.22,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Raslapur,Road up to 2 acres,agricultural,550.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Raslapur,Road up to 2 acres,residential,2772,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Raslapur,Road up to 2 acres,commercial,3630,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Raslapur,Road up to 2 acres,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Rahimpur,Per acre all types,agricultural,375.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Rahimpur,Per acre all types Sailabi,agricultural,87.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Rahimpur,Per acre all types,residential,1815,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Rahimpur,Per acre all types,commercial,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Rahimpur,Per acre all types,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Ranamajra,Per acre all types,agricultural,392.05,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Ranamajra,Per acre all types Sailabi,agricultural,87.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Ranamajra,Per acre all types,residential,1897.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Ranamajra,Per acre all types,commercial,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Ranamajra,Per acre all types,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Raymal,Per acre salam rakba,agricultural,350.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Raymal,Per acre salam rakba Sailabi,agricultural,85.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Raymal,Per acre salam rakba,residential,1815,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Raymal,Per acre salam rakba,commercial,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Raymal,Per acre salam rakba,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Rishipur,Per acre all types,agricultural,476.03,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Rishipur,Per acre all types Sailabi,agricultural,87.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Rishipur,Per acre all types,residential,2178,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Rishipur,Per acre all types,commercial,3630,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Rishipur,Per acre all types,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Ladhupur,Per acre all types,agricultural,350.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Ladhupur,Per acre all types Sailabi,agricultural,100.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Ladhupur,Per acre all types,residential,1815,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Ladhupur,Per acre all types,commercial,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Ladhupur,Per acre all types,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Shahadpura,Per acre all types,agricultural,400.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Shahadpura,Per acre all types,residential,1815,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Shahadpura,Per acre all types,commercial,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Shahadpura,Per acre all types,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,ShimlaGujran,3 to 6 acres,agricultural,443.18,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,ShimlaGujran,3 to 6 acres,agricultural,472.73,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,ShimlaGujran,Inside Lal Dora and Topi Abadi,residential,2178,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,ShimlaGujran,Road up to 2 acres,agricultural,450.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,ShimlaGujran,Road up to 2 acres,residential,2178,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,ShimlaGujran,Road up to 2 acres,commercial,2662,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,ShimlaGujran,Road up to 2 acres,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,SanoliKhurd,Link Road 30 ft commercial,commercial,5082,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,SanoliKhurd,Road 3 to 6 acres,agricultural,613.64,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,SanoliKhurd,Road 3 to 6 acres,agricultural,1090.91,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,SanoliKhurd,Road 3 to 6 acres Sailabi,agricultural,80.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,SanoliKhurd,Road 3 to 6 acres,residential,3993,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,SanoliKhurd,Road 3 to 6 acres,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,SanoliKhurd,Haridwar Road up to 2 acres,agricultural,1125.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,SanoliKhurd,Haridwar Road 30 ft commercial,commercial,6655,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,SanoliKhurd,Haridwar Road 100 ft residential,residential,3630,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,SanoliKalan,Per acre all types,agricultural,350.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,SanoliKalan,Per acre all types Sailabi,agricultural,87.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,SanoliKalan,Per acre all types,residential,1815,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,SanoliKalan,Per acre all types,commercial,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,SanoliKalan,Per acre all types,industrial,4840,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Sanjoli,Per acre all types,agricultural,375.0,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Sanjoli,Per acre all types Sailabi,agricultural,87.5,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Sanjoli,Per acre all types,residential,1815,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Sanjoli,Per acre all types,commercial,2420,2026-04-01,panipat_gov_in_dc_notification
+Panipat,Bapoli,Sanjoli,Per acre all types,industrial,4840,2026-04-01,panipat_gov_in_dc_notification

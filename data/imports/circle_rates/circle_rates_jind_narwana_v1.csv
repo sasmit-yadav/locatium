@@ -1,0 +1,534 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Jind,Narwana,Amargarh,Amargarh,agricultural,343.76,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Amargarh,Amargarh,agricultural,261.26,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Amargarh,Amargarh,residential,2550,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Amargarh,Amargarh,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Amargarh,aabadi se ek kilometer tak,agricultural,495.04,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Amargarh,sadak ke sath lagti bhoomi,agricultural,632.64,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Ambarsar,Ambarsar,agricultural,426.24,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Ambarsar,Ambarsar,agricultural,316.26,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Ambarsar,Ambarsar,residential,2550,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Ambarsar,Ambarsar,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Ambarsar,aabadi se ek kilometer tak,agricultural,426.24,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Ambarsar,sadak ke sath lagti bhoomi,agricultural,440.08,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Ismailpur,aabadi se ek kilometer tak,agricultural,494.83,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Ismailpur,Ismailpur,agricultural,503.75,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Ismailpur,Ismailpur,agricultural,309.92,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Ismailpur,Ismailpur,residential,2550,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Ismailpur,Ismailpur,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Ismailpur,sadak ke sath lagti bhoomi,agricultural,632.44,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Ujhana,aabadi se ek kilometer tak,agricultural,564.55,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Ujhana,aabadi se ek kilometer tak,residential,2550,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Ujhana,Ujhana,agricultural,426.24,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Ujhana,Ujhana,agricultural,343.6,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Ujhana,Ujhana,residential,2550,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Ujhana,Ujhana,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Ujhana,sadak ke sath lagti bhoomi,agricultural,1440.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Karamgarh,aabadi se ek kilometer tak,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Karamgarh,Karamgarh,agricultural,343.8,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Karamgarh,Karamgarh,agricultural,289.26,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Karamgarh,Karamgarh,residential,2550,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Karamgarh,Karamgarh,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Karamgarh,sadak ke sath lagti bhoomi,agricultural,750.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,KalaudaKalan,aabadi se ek kilometer tak,agricultural,385.12,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,KalaudaKalan,Kalauda Kalan,agricultural,343.8,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,KalaudaKalan,Kalauda Kalan,agricultural,261.36,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,KalaudaKalan,Kalauda Kalan,residential,2550,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,KalaudaKalan,Kalauda Kalan,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,KalaudaKalan,sadak ke sath lagti bhoomi,agricultural,632.44,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,KalaudaKhurd,aabadi se ek kilometer tak,agricultural,385.12,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,KalaudaKhurd,Kalauda Khurd,agricultural,343.8,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,KalaudaKhurd,Kalauda Khurd,agricultural,261.36,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,KalaudaKhurd,Kalauda Khurd,residential,2550,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,KalaudaKhurd,Kalauda Khurd,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,KalaudaKhurd,sadak ke sath lagti bhoomi,agricultural,632.44,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Kanhakheda,aabadi se ek kilometer tak,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Kanhakheda,Kanhakheda,agricultural,343.8,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Kanhakheda,Kanhakheda,agricultural,261.16,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Kanhakheda,Kanhakheda,residential,2550,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Kanhakheda,Kanhakheda,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Kanhakheda,sadak ke sath lagti bhoomi,agricultural,687.6,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Kalwan,aabadi se ek kilometer tak,agricultural,495.04,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Kalwan,Kalwan,agricultural,481.2,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Kalwan,Kalwan,agricultural,371.28,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Kalwan,Kalwan,residential,2550,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Kalwan,Kalwan,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Kalwan,sadak ke sath lagti bhoomi,agricultural,577.69,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Koyal,aabadi se ek kilometer tak,agricultural,510.12,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Koyal,Koyal,agricultural,426.45,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Koyal,Koyal,agricultural,343.6,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Koyal,Koyal,residential,2550,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Koyal,Koyal,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Koyal,sadak ke sath lagti bhoomi,agricultural,510.12,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Kharadwal,aabadi se ek kilometer tak,agricultural,495.04,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Kharadwal,Kharadwal,agricultural,343.8,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Kharadwal,Kharadwal,agricultural,273.12,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Kharadwal,Kharadwal,residential,2550,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Kharadwal,Kharadwal,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Kharadwal,sadak ke sath lagti bhoomi,agricultural,577.48,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Kharal,aabadi se ek kilometer tak,agricultural,477.27,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Kharal,Kharal,agricultural,454.55,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Kharal,Kharal,agricultural,371.9,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Kharal,Kharal,residential,2550,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Kharal,Kharal,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Kharal,sadak ke sath lagti bhoomi,agricultural,702.48,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Khanpur,aabadi se ek kilometer tak,agricultural,495.87,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Khanpur,Khanpur,agricultural,343.8,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Khanpur,Khanpur,agricultural,289.26,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Khanpur,Khanpur,residential,2550,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Khanpur,Khanpur,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Khanpur,sadak ke sath lagti bhoomi,agricultural,578.51,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Gurthali,aabadi se ek kilometer tak,agricultural,632.44,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Gurthali,Gurthali,agricultural,426.24,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Gurthali,Gurthali,agricultural,357.44,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Gurthali,Gurthali,residential,2550,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Gurthali,Gurthali,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Gurthali,sadak ke sath lagti bhoomi,agricultural,714.88,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Gusar,aabadi se ek kilometer tak,agricultural,577.48,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Gusar,Gusar,agricultural,426.24,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Gusar,Gusar,agricultural,316.32,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Gusar,Gusar,residential,2550,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Gusar,Gusar,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Gusar,sadak ke sath lagti bhoomi,agricultural,632.44,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,ChakUjhana,aabadi se ek kilometer tak,agricultural,440.08,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,ChakUjhana,Chak Ujhana,agricultural,426.45,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,ChakUjhana,Chak Ujhana,agricultural,343.8,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,ChakUjhana,Chak Ujhana,residential,2500,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,ChakUjhana,Chak Ujhana,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,ChakUjhana,sadak ke sath lagti bhoomi,agricultural,570.45,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Jajanwala,aabadi se ek kilometer tak,agricultural,501.82,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Jajanwala,Jajanwala,agricultural,739.77,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Jajanwala,Jajanwala,agricultural,413.22,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Jajanwala,Jajanwala,residential,2550,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Jajanwala,Jajanwala,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Jajanwala,sadak ke sath lagti bhoomi,agricultural,747.93,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Julehda,aabadi se ek kilometer tak,agricultural,522.52,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Julehda,Julehda,agricultural,426.24,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Julehda,Julehda,agricultural,316.32,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Julehda,Julehda,residential,2550,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Julehda,Julehda,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Julehda,sadak ke sath lagti bhoomi,agricultural,687.6,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Indoli,aabadi se ek kilometer tak,agricultural,524.79,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Indoli,Indoli,agricultural,481.4,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Indoli,Indoli,agricultural,371.28,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Indoli,Indoli,residential,2550,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Indoli,Indoli,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Indoli,sadak ke sath lagti bhoomi,agricultural,540.08,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Dhakal,aabadi se ek kilometer tak,agricultural,632.44,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Dhakal,Dhakal,agricultural,477.27,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Dhakal,Dhakal,agricultural,343.8,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Dhakal,Dhakal,residential,2800,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Dhakal,Dhakal,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Dhakal,sadak ke sath lagti bhoomi,agricultural,942.56,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,DhabitekSingh,aabadi se ek kilometer tak,agricultural,568.18,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,DhabitekSingh,Dhabitek Singh,agricultural,481.2,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,DhabitekSingh,Dhabitek Singh,agricultural,371.28,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,DhabitekSingh,Dhabitek Singh,residential,2550,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,DhabitekSingh,Dhabitek Singh,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,DhabitekSingh,sadak ke sath lagti bhoomi,agricultural,1002.27,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,DanaudaKalan,aabadi se ek kilometer tak,agricultural,480.17,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,DanaudaKalan,Danauda Kalan,agricultural,486.14,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,DanaudaKalan,Danauda Kalan,agricultural,343.8,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,DanaudaKalan,Danauda Kalan,residential,2800,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,DanaudaKalan,Danauda Kalan,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,DanaudaKalan,sadak ke sath lagti bhoomi,agricultural,727.27,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,DanaudaKhurd,aabadi se ek kilometer tak,agricultural,627.27,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,DanaudaKhurd,Danauda Khurd,agricultural,426.45,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,DanaudaKhurd,Danauda Khurd,agricultural,343.8,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,DanaudaKhurd,Danauda Khurd,residential,2800,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,DanaudaKhurd,Danauda Khurd,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,DanaudaKhurd,sadak ke sath lagti bhoomi,agricultural,747.52,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Dabhlain,aabadi se ek kilometer tak,agricultural,500.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Dabhlain,Dabhlain,agricultural,454.55,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Dabhlain,Dabhlain,agricultural,316.32,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Dabhlain,Dabhlain,residential,2800,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Dabhlain,Dabhlain,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Dabhlain,sadak ke sath lagti bhoomi,agricultural,636.36,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,DatasinghWala,aabadi se ek kilometer tak,agricultural,540.08,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,DatasinghWala,Datasingh Wala,agricultural,503.31,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,DatasinghWala,Datasingh Wala,agricultural,371.28,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,DatasinghWala,Datasingh Wala,residential,2550,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,DatasinghWala,Datasingh Wala,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,DatasinghWala,sadak ke sath lagti bhoomi,agricultural,577.69,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,DhamtanSahib,aabadi se ek kilometer tak,agricultural,831.25,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,DhamtanSahib,Dhamtan Sahib,agricultural,454.55,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,DhamtanSahib,Dhamtan Sahib,agricultural,371.28,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,DhamtanSahib,Dhamtan Sahib,residential,2800,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,DhamtanSahib,Dhamtan Sahib,commercial,7200,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,DhamtanSahib,sadak ke sath lagti bhoomi,agricultural,1434.53,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Dharaudi,aabadi se ek kilometer tak,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Dharaudi,Dharaudi,agricultural,531.88,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Dharaudi,Dharaudi,agricultural,316.32,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Dharaudi,Dharaudi,residential,2800,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Dharaudi,Dharaudi,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Dharaudi,sadak se do ekad tak,agricultural,632.44,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Dharaudi,sadak ke sath lagti bhoomi,agricultural,862.6,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Basant Bihar Colony,residential,18100,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,HSIIDC Narwana Industrial,commercial,13900,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,HSIIDC Narwana Industrial narwana,commercial,14500,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,HSIIDC Narwana Industrial narwana,industrial,14500,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,HSIIDC Narwana Industrial sq meetar,industrial,16000,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,HSIIDC Narwana Institutional,residential,20950,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,ITI Narwana se Railway Phatak tak,commercial,35000,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Krishi Bhumi Road ke Sath,agricultural,2337.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,LIC Karyalaya Road par,commercial,29000,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Narwana,agricultural,2337.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Narwana,residential,16965,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Narwana,agricultural,929.75,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Narwana 1,agricultural,1320.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Narwana Greens-2 Sector 19 DCNG Mansion LLP,residential,15750,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Narwana Greens-2 Sector 19 DCNG Mansion LLP Booth,commercial,29400,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Narwana Greens-2 Sector 19 DCNG Mansion LLP Booth,commercial,36750,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Agrasen Nagar,residential,19700,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,aabadi se ek kilometer tak,agricultural,1239.67,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Arya Up Nagar,residential,32000,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Arya Up Nagar Gate ke Andar,commercial,49000,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Arya School ke Peeche Babu Ram wali Gali,residential,18900,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Inke alawa anya vyaparik site ke rate,commercial,18100,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Indira Colony,residential,7900,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Uklana Road National Highway do ekad ke baad Nagar Parishad se bahar,agricultural,940.08,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Uklana Road par Railway Line ke aas paas ka rihayashi kshetra,residential,14600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Uklana Road National Highway do ekad ki gehrai tak Nagar Parishad se bahar,agricultural,1239.67,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Uklana Road National Highway do ekad tak Nagar Parishad se andar,agricultural,2337.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Uklana Road National Highway do ekad se door haddud ke andar,agricultural,2337.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Udmi Ram Road park ke sath jaane wali sadak nai anaj mandi tak,commercial,34800,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Udmi Ram wali Gali,residential,13900,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,SD Kanya College ke Saamne wali Donon Galiyan,residential,32000,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Kasai Basti,residential,8000,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Kasai Basti,commercial,85700,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Kakuram Road Mandi ki Aur,commercial,65400,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Kakuram Road Railway Line ki Taraf,commercial,8700,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,College Stadium,residential,32000,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Kishan Chand Colony va uske sath lagta area,residential,34750,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Krishna Gali,residential,85700,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Krishna Gali,commercial,34800,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Court Road se Nai Anaj Mandi ke Beech,commercial,7600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Gandhi Nagar,residential,29210,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Gurthali Road National Highway do ekad ke baad Nagar Parishad se bahar,agricultural,950.41,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Gurthali Road do ekad ki gehrai tak Nagar Parishad se bahar,agricultural,1033.06,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Gurthali Road do ekad tak Nagar Parishad se andar,agricultural,2337.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Gurthali Road do ekad se door Nagar Parishad se andar,agricultural,2337.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Gopal Krishna Market,commercial,65400,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Gopi Chand Market,commercial,34800,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Chamela Colony,residential,10400,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Paunda Patti,residential,8750,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Paunda Patti mein Bhashan Ghat tak,commercial,35400,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Jind Patiala Road par Arora Nursing Home se Dhakal Road par Nagarpalika haddud tak dono aur 30 foot tak,commercial,30500,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Jind Road National Highway do ekad ki gehrai tak Nagar Parishad se bahar,agricultural,1239.67,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Jind Road National Highway do ekad tak Nagar Parishad se andar,agricultural,2337.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Jind Road National Highway do ekad se door Nagar Parishad se andar,agricultural,2337.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Joga wali Johri,residential,7600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Johri Dasawali,residential,7600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Tohana Road State Highway do ekad ki gehrai tak Nagar Parishad se bahar,agricultural,1239.67,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Tohana Road National Highway do ekad ke baad Nagar Parishad se bahar,agricultural,940.08,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Tohana Road State Highway do ekad tak Nagar Parishad se andar,agricultural,2337.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Tohana Road State Highway do ekad se door Nagar Parishad se andar,agricultural,2337.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Dadhi Kheda Road par Vyapaarik,commercial,35400,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Dadhi wala Gama,residential,16600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,DAV School Narwana Minor ke Beech ki Basti,residential,13900,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Dhakal Road National Highway do ekad ki gehrai tak Nagar Parishad se bahar,agricultural,1033.06,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Dhakal Road National Highway via Kainchal do ekad ki gehrai tak Nagar Parishad se bahar,agricultural,1239.67,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Dhakal Road KM College ki diwar ke sath lagti dukan,commercial,48600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Dhakal Road National Highway via Kainchal do ekad se door Nagar Parishad se andar,agricultural,2337.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Dhakal Road National Highway via Kainchal do ekad tak Nagar Parishad se andar,agricultural,2337.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Dhakal Road Link Road do ekad tak Nagar Parishad se andar,agricultural,2337.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Dhakal Road Link Road do ekad se door Nagar Parishad se andar,agricultural,2337.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Dhakal Link Road National Highway se do ekad ke baad Dhakal se Narwana Nagar Parishad se bahar,agricultural,940.08,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Dhakal Link Road Narwana se Dhakal 2 ekad ki gehrai tak Nagar Palika haddud se bahar sadak ke sath lagta,agricultural,1239.67,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Tambaku Gali,commercial,85700,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Dara Mohalla,residential,8000,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Dabhlain Road Narwana se Kharadwal via Fairan Kala Naihra do ekad ki gehrai tak Nagar Parishad se bahar,agricultural,1202.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Dabhlain Road Narwana se Kharadwal via Farain Kala Naihra do ekad tak Nagar Parishad se andar,agricultural,2337.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Dabhlain Road Narwana se Kharadwal via Farain Kala Naihra do ekad se door Nagar Parishad se andar,agricultural,2337.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Dabhlain Narwana Road National Highway do ekad ke baad Nagar Parishad se bahar,agricultural,940.08,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Dharam Singh Colony,residential,8700,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Dhaula Kua,residential,8000,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Nai Anaj Mandi aur Nai Sabzi Mandi,commercial,82110,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Nai Dharamshala wali Gali,residential,7600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Nai Sabzi Mandi Road se Apollo Chowk tak sadak ke dono aur,commercial,65400,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Nagarpalika wali Gali,residential,31970,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Nagarpalika wali Sadak,commercial,85700,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Nagarpalika haddud mein kaashta bhoomi do ekad ki gehrai tak,agricultural,2337.6,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Nagarpalika haddud mein kaashta bhoomi sadak se door,agricultural,2157.02,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Naya Karkhana,residential,18975,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Naye Bus Stand ke Saamne ki Dukan Dhakal Road Chowk tak,commercial,65400,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Naye Bus Stand Gate Mandir ki Taraf se Narwana Minor,commercial,65400,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Naye Stand ke Saamne ki Dukano ke Peeche ke Booth,commercial,30500,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Narwana,residential,12012,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Narwana Green Sector 15,residential,16500,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Narwana Green Sector 15 ke Booth,commercial,43900,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Narwana Minor Railway Phatak se PWD Rest House tak,commercial,30500,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Narwana Minor Railway Phatak se Uklana Link Road Pul tatha isse aage Sarmen Road Chowk tak,commercial,36000,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Narwana Minor Railway Phatak se Jind Patiala Road tak,commercial,30500,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Narwana Minor se Hariyal tak sadak ke dono taraf,commercial,50400,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Narwana Lal Dore ke Andar ki Pattiyan,residential,7600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Narwana se Dharaudi Road,agricultural,1017.56,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Narwana haddud se bahar sadak se door Nagar Parishad se bahar,agricultural,1196.25,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Nirankari Colony,residential,15180,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Nirankari Colony ke Booth,commercial,29210,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Punjabi Chowk se Purana Bus Stand,commercial,50625,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Patiala Road National Highway haddud se bahar do ekad ki gehrai tak Nagar Parishad se bahar,agricultural,1239.67,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Patiala Road National Highway do ekad tak Nagar Parishad se andar,agricultural,2337.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Patiala Road National Highway do ekad se door Nagar Parishad se andar,agricultural,2337.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Patiala Road National Highway do ekad ke baad Nagar Parishad se bahar,agricultural,1177.69,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Patiala Road se Gurthali Road Civil Hospital ke Saamne,commercial,31900,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Patel Nagar,residential,10400,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Patram Nagar,residential,32000,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Patram Nagar Gate ke Andar sadak ke dono aur,commercial,65400,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Poona wali Johri,residential,9000,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Purana Karkhana,residential,32000,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Purana Karkhana,commercial,85700,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Purana Bazaar,residential,7600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Purani Anaj Mandi,commercial,85680,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Purani Kachehri Road Water Works Chowk se Narwana Minor tak,residential,19700,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Purani Tehsil Karyalaya se Lakshmi Cinema tak dono taraf ki rihayashi bastiyan,residential,32000,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Purani Sabzi Mandi,commercial,85700,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Prem Nagar,residential,10925,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Professor Colony,residential,32000,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Bagichi Dalip Singh,residential,19700,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Basant Vihar,residential,18100,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Basant Vihar Booth,commercial,47800,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Baba Kundi Tempu Union ke Saath wali,residential,18900,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Bishna Bhada,residential,7800,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Birbal Nagar,residential,18900,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Birbal Nagar se Apollo Chowk se Jaane wali Sadak ke Dono Aur Lala Bhavan tak,commercial,50900,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Bhagat Singh Chowk se Punjabi Chowk,commercial,65400,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Bhagat Singh Chowk se Waterworks Chowk,commercial,65400,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Bhagat Singh Nagar,residential,10400,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Mahajan Mohalla,residential,7600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Minor ke Uttar Taraf se Jind Patiala Road tak,commercial,30500,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Model Town,residential,32000,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Model Town Booth,commercial,65400,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Model Town Booth Andar ki Aur,commercial,89700,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Mal Godam Road Station se Bhagat Singh Chowk sadak ke dono aur,commercial,35000,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Mal Godam wali Gali,residential,8250,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Nirdhi Patti,residential,8200,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Mor Patti,residential,30500,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Radha Swami Satsang Bhavan se Narwana Minor tak,commercial,7600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Ramdasiya Mohalla,residential,7600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Ramnagar Naye Bus Stand ke Peeche tatha Dono Taraf Saath Lagti Basti,residential,13900,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Railway Colony ke Saath Rihayashi Basti,residential,15125,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Railway Chungi se Canal Road par Patram Rice Mills ke Ant tak,commercial,74250,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Railway Station ke Saamne,commercial,33200,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Rewari Mohalla,residential,8000,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Lakshmi Market,commercial,89500,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Lajpat Rai Market,residential,40700,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Lajpat Rai Market,commercial,85700,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Lohchab Patti,residential,7600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Water Works se Jind Patiala Road,commercial,50900,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Vishwakarma Chowk se Nehar Park va Aage Shahidi Chowk tak Dono Aur,commercial,76200,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Shakti Nagar,residential,18900,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Shastri Nagar,residential,7800,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Shiv Shankar Market,commercial,85700,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Sachivalaya ke Saamne Deviko Industry ke Saath Lagti Market,commercial,50400,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Sachivalaya ke Saamne va Saath-Saath,commercial,48600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Sir Chhotu Ram Colony,residential,13900,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Sarafa Bazaar,commercial,85700,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Senior Secondary School va Civil Hospital ke Peeche ki Bastiyan,residential,9200,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,CIA Staff wali Gali,residential,7600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Sunar wali Gali,residential,7600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Saini Mauhla,residential,7600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Hanuman Nagar Road va Harinagar Road,residential,17480,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Hanuman Nagar Sadak se Hatkar,residential,14490,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Harinagar Sadak se Hatkar,residential,14990,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Hariyal Chowk se Uklana Railway Phatak tak sadak ke dono aur 30 foot tak,commercial,30500,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Hariyal Chowk se Diwan Bal Krishna School ke Beech ki Basti,residential,10400,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Hariyal Chowk se Naya SD Model School tak Jind Road sadak ke dono aur 30 foot tak,commercial,30500,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Hariyal se Patiala Railway Phatak tak,commercial,50625,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Housing Board Colony,residential,16675,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Housing Board Colony Booth,commercial,48600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narwana,Hafed Godam,residential,10500,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narayangarh,aabadi se ek kilometer tak,agricultural,503.2,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narayangarh,Narayangarh,agricultural,481.4,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narayangarh,Narayangarh,agricultural,371.28,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narayangarh,Narayangarh,residential,2550,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narayangarh,Narayangarh,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Narayangarh,sadak ke sath lagti bhoomi,agricultural,526.86,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Nepewala,aabadi se ek kilometer tak,agricultural,440.08,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Nepewala,Nepewala,agricultural,426.24,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Nepewala,Nepewala,agricultural,343.8,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Nepewala,Nepewala,residential,2550,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Nepewala,Nepewala,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Nepewala,sadak ke sath lagti bhoomi,agricultural,495.04,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Naihra,aabadi se ek kilometer tak,agricultural,495.04,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Naihra,Naihra,agricultural,343.8,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Naihra,Naihra,agricultural,288.84,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Naihra,Naihra,residential,2550,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Naihra,Naihra,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Naihra,sadak ke sath lagti bhoomi,agricultural,632.44,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Padarshkheda,aabadi se ek kilometer tak,agricultural,516.53,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Padarshkheda,Padarshkheda,agricultural,481.2,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Padarshkheda,Padarshkheda,agricultural,371.07,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Padarshkheda,Padarshkheda,residential,2550,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Padarshkheda,Padarshkheda,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Padarshkheda,sadak ke sath lagti bhoomi,agricultural,629.96,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Pipalya,aabadi se ek kilometer tak,agricultural,522.52,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Pipalya,Pipalya,agricultural,503.12,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Pipalya,Pipalya,agricultural,371.28,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Pipalya,Pipalya,residential,2550,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Pipalya,Pipalya,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Pipalya,sadak ke sath lagti bhoomi,agricultural,1006.25,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,FaranKalan,aabadi se ek kilometer tak,agricultural,385.12,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,FaranKalan,Faran Kalan,agricultural,343.8,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,FaranKalan,Faran Kalan,agricultural,261.78,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,FaranKalan,Faran Kalan,residential,2550,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,FaranKalan,Faran Kalan,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,FaranKalan,sadak ke sath lagti bhoomi,agricultural,632.44,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,FaranKhurd,aabadi se ek kilometer tak,agricultural,385.12,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,FaranKhurd,Faran Khurd,agricultural,343.8,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,FaranKhurd,Faran Khurd,agricultural,261.36,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,FaranKhurd,Faran Khurd,residential,2550,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,FaranKhurd,Faran Khurd,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,FaranKhurd,sadak ke sath lagti bhoomi,agricultural,632.44,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,FuliyaKalan,aabadi se ek kilometer tak,agricultural,522.52,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,FuliyaKalan,Fuliya Kalan,agricultural,390.62,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,FuliyaKalan,Fuliya Kalan,agricultural,288.84,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,FuliyaKalan,Fuliya Kalan,residential,2550,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,FuliyaKalan,Fuliya Kalan,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,FuliyaKalan,sadak ke sath lagti bhoomi,agricultural,750.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,FuliyaKhurd,aabadi se ek kilometer tak,agricultural,522.52,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,FuliyaKhurd,Fuliya Khurd,agricultural,359.38,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,FuliyaKhurd,Fuliya Khurd,agricultural,288.84,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,FuliyaKhurd,Fuliya Khurd,residential,2550,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,FuliyaKhurd,Fuliya Khurd,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,FuliyaKhurd,sadak ke sath lagti bhoomi,agricultural,687.6,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Badanpur,Badanpur,agricultural,467.56,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Badanpur,Badanpur,residential,3000,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Badanpur,sadak ke sath lagti bhoomi,agricultural,1017.56,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,BadaulaDharamgarh,aabadi se ek kilometer tak,agricultural,715.08,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,BadaulaDharamgarh,Badaula Dharamgarh,agricultural,577.48,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,BadaulaDharamgarh,Badaula Dharamgarh,agricultural,385.02,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,BadaulaDharamgarh,Badaula Dharamgarh,residential,2800,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,BadaulaDharamgarh,Badaula Dharamgarh,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,BadaulaDharamgarh,sadak ke sath lagti bhoomi,agricultural,879.96,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Bidhrana,aabadi se ek kilometer tak,agricultural,632.64,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Bidhrana,Bidhrana,agricultural,343.8,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Bidhrana,Bidhrana,agricultural,261.36,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Bidhrana,Bidhrana,residential,2500,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Bidhrana,Bidhrana,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Bidhrana,sadak se do ekad ke baad,agricultural,619.83,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Bidhrana,sadak ke sath lagti bhoomi,agricultural,840.08,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Belarkhan,aabadi se ek kilometer tak,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Belarkhan,Belarkhan,agricultural,536.36,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Belarkhan,Belarkhan,agricultural,357.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Belarkhan,Belarkhan,residential,2800,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Belarkhan,Belarkhan,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Belarkhan,sadak ke sath lagti bhoomi,agricultural,716.32,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,BhanaBrahman,aabadi se ek kilometer tak,agricultural,601.24,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,BhanaBrahman,Bhana Brahman,agricultural,343.76,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,BhanaBrahman,Bhana Brahman,agricultural,288.84,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,BhanaBrahman,Bhana Brahman,residential,2550,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,BhanaBrahman,Bhana Brahman,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,BhanaBrahman,sadak ke sath lagti bhoomi,agricultural,752.69,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Bhikhewala,aabadi se ek kilometer tak,agricultural,440.08,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Bhikhewala,Bhikhewala,agricultural,376.03,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Bhikhewala,Bhikhewala,agricultural,261.36,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Bhikhewala,Bhikhewala,residential,2500,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Bhikhewala,Bhikhewala,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Bhikhewala,sadak ke sath lagti bhoomi,agricultural,770.04,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,MohalKheda,aabadi se ek kilometer tak,agricultural,862.6,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,MohalKheda,Mohal Kheda,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,MohalKheda,Mohal Kheda,agricultural,385.02,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,MohalKheda,Mohal Kheda,residential,2800,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,MohalKheda,Mohal Kheda,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,MohalKheda,sadak ke sath lagti bhoomi,agricultural,866.32,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Rasida,aabadi se ek kilometer tak,agricultural,516.53,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Rasida,Rasida,agricultural,481.2,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Rasida,Rasida,agricultural,371.28,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Rasida,Rasida,residential,2550,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Rasida,Rasida,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Rasida,sadak ke sath lagti bhoomi,agricultural,830.45,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,RajgarhDhobi,aabadi se ek kilometer tak,agricultural,495.04,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,RajgarhDhobi,Rajgarh Dhobi,agricultural,426.24,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,RajgarhDhobi,Rajgarh Dhobi,agricultural,316.32,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,RajgarhDhobi,Rajgarh Dhobi,residential,2550,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,RajgarhDhobi,Rajgarh Dhobi,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,RajgarhDhobi,sadak ke sath lagti bhoomi,agricultural,630.17,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Rewar,aabadi se ek kilometer tak,agricultural,495.04,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Rewar,Rewar,agricultural,481.2,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Rewar,Rewar,agricultural,371.28,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Rewar,Rewar,residential,2550,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Rewar,Rewar,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Rewar,sadak ke sath lagti bhoomi,agricultural,578.51,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Lon,aabadi se ek kilometer tak,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Lon,Lon,agricultural,426.24,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Lon,Lon,agricultural,316.12,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Lon,Lon,residential,2550,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Lon,Lon,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Lon,sadak ke sath lagti bhoomi,agricultural,632.64,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Lohchab,aabadi se ek kilometer tak,agricultural,495.04,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Lohchab,Lohchab,agricultural,343.8,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Lohchab,Lohchab,agricultural,289.26,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Lohchab,Lohchab,residential,2550,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Lohchab,Lohchab,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Lohchab,sadak ke sath lagti bhoomi,agricultural,687.6,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Sacchakheda,aabadi se ek kilometer tak,agricultural,440.08,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Sacchakheda,Sacchakheda,agricultural,426.24,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Sacchakheda,Sacchakheda,agricultural,316.12,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Sacchakheda,Sacchakheda,residential,2800,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Sacchakheda,Sacchakheda,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Sacchakheda,sadak ke sath lagti bhoomi,agricultural,797.52,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Singhwal,aabadi se ek kilometer tak,agricultural,577.48,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Singhwal,sadak ke sath lagti bhoomi,agricultural,797.52,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Singhwal,Singhwal,agricultural,343.8,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Singhwal,Singhwal,agricultural,261.26,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Singhwal,Singhwal,residential,2550,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Singhwal,Singhwal,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Sisar,aabadi se ek kilometer tak,agricultural,578.51,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Sisar,sadak ke sath lagti bhoomi,agricultural,742.56,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Sisar,Sisar,agricultural,343.8,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Sisar,Sisar,agricultural,261.36,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Sisar,Sisar,residential,2550,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Sisar,Sisar,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Sundarpur,sadak ke sath lagti bhoomi,agricultural,1237.6,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Sundarpur,Sundarpur,agricultural,467.36,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Sundarpur,Sundarpur,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Sundarpur,Sundarpur,residential,2800,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Sulehda,aabadi se ek kilometer tak,agricultural,522.52,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Sulehda,sadak ke sath lagti bhoomi,agricultural,687.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Sulehda,Sulehda,agricultural,426.24,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Sulehda,Sulehda,agricultural,316.32,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Sulehda,Sulehda,residential,2550,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Sulehda,Sulehda,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,SurajkhedaShyogarh,aabadi se ek kilometer tak,agricultural,632.44,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,SurajkhedaShyogarh,sadak ke sath lagti bhoomi,agricultural,714.88,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,SurajkhedaShyogarh,Surajkheda Shyogarh,agricultural,578.51,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,SurajkhedaShyogarh,Surajkheda Shyogarh,agricultural,371.9,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,SurajkhedaShyogarh,Surajkheda Shyogarh,residential,2550,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,SurajkhedaShyogarh,Surajkheda Shyogarh,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Sainthli,aabadi se ek kilometer tak,agricultural,440.08,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Sainthli,sadak ke sath lagti bhoomi,agricultural,715.08,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Sainthli,Sainthli,agricultural,426.24,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Sainthli,Sainthli,agricultural,289.26,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Sainthli,Sainthli,residential,2550,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Sainthli,Sainthli,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Hansdaihar,aabadi se ek kilometer tak,agricultural,516.53,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Hansdaihar,sadak ke sath lagti bhoomi,agricultural,546.25,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Hansdaihar,Hansdaihar,agricultural,546.88,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Hansdaihar,Hansdaihar,agricultural,371.28,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Hansdaihar,Hansdaihar,residential,2550,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Hansdaihar,Hansdaihar,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Hatho,aabadi se ek kilometer tak,agricultural,632.44,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Hatho,sadak ke sath lagti bhoomi,agricultural,805.79,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Hatho,Hatho,agricultural,454.55,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Hatho,Hatho,agricultural,316.32,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Hatho,Hatho,residential,2550,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Hatho,Hatho,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Hamirgarh,aabadi se ek kilometer tak,agricultural,384.92,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Hamirgarh,sadak ke sath lagti bhoomi,agricultural,495.04,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Hamirgarh,Hamirgarh,agricultural,453.72,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Hamirgarh,Hamirgarh,agricultural,316.12,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Hamirgarh,Hamirgarh,residential,2550,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Hamirgarh,Hamirgarh,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Harnampura,aabadi se ek kilometer tak,agricultural,467.56,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Harnampura,sadak ke sath lagti bhoomi,agricultural,522.52,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Harnampura,Harnampura,agricultural,426.24,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Harnampura,Harnampura,agricultural,316.32,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Harnampura,Harnampura,residential,2550,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Harnampura,Harnampura,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Gadhi,aabadi se ek kilometer tak,agricultural,675.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Gadhi,Gadhi,agricultural,503.12,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Gadhi,Gadhi,agricultural,371.28,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Gadhi,Gadhi,residential,2550,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Gadhi,Gadhi,commercial,6600,2026-04-01,jind_gov_in_dc_notification
+Jind,Narwana,Gadhi,sadak ke sath lagti bhoomi,agricultural,690.08,2026-04-01,jind_gov_in_dc_notification

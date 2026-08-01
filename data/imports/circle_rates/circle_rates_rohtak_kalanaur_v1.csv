@@ -1,0 +1,343 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Rohtak,Kalanaur,Anwal,Anwal se Patwapur Chahi P,agricultural,650.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Anwal,Anwal se Patwapur Nehri P,agricultural,650.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Anwal,Anwal se Patwapur Barani P,agricultural,650.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Anwal,Anwal se Jindran Road Chahi P,agricultural,650.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Anwal,Anwal se Jindran Road Nehri P,agricultural,650.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Anwal,Anwal se Jindran Road Barani P,agricultural,650.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Anwal,Anwal se Nigana Road Chahi P,agricultural,650.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Anwal,Anwal se Nigana Road Nehri P,agricultural,650.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Anwal,Anwal se Nigana Road Barani P,agricultural,650.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Anwal,Anwal se Lahli Chahi P,agricultural,650.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Anwal,Anwal se Lahli Nehri P,agricultural,650.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Anwal,Anwal se Lahli Barani P,agricultural,650.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Anwal,Anwal Chahi N,agricultural,575.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Anwal,Anwal Nehri N,agricultural,575.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Anwal,Anwal Nehri P,agricultural,601.14,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Anwal,Anwal,residential,2420,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Anwal,Anwal,commercial,4840,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Anwal,Kalanaur se Beri Road Chahi P,agricultural,954.55,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Anwal,Kalanaur se Beri Road Nehri P,agricultural,954.55,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Anwal,Kalanaur se Beri Road Barani P,agricultural,954.55,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Anwal,Phirni ke sath lagti bhumi Chahi N,agricultural,575.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Anwal,Phirni ke sath lagti bhumi Nehri N,agricultural,575.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Anwal,Phirni ke sath lagti bhumi Barani N,agricultural,575.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Anwal,Rammarg se Nigana Road Chahi P,agricultural,954.55,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Anwal,Rammarg se Nigana Road Nehri P,agricultural,954.55,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Anwal,Rammarg se Nigana Road Barani P,agricultural,954.55,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Kakrana,Kakrana Chahi N,agricultural,475.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Kakrana,Kakrana Chahi P,agricultural,475.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Kakrana,Kakrana Nehri N,agricultural,475.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Kakrana,Kakrana Nehri P,agricultural,475.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Kakrana,Kakrana Barani N,agricultural,475.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Kakrana,Kakrana Barani P,agricultural,475.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Kakrana,Kakrana,residential,1815,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Kakrana,Phirni ke sath lagte khasra Chahi P,agricultural,518.18,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Kakrana,Phirni ke sath lagte khasra Nehri P,agricultural,518.18,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Kakrana,Phirni ke sath lagte khasra Barani P,agricultural,518.18,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Kakrana,Road ke sath lagte khasra Chahi P,agricultural,572.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Kakrana,Road ke sath lagte khasra Nehri P,agricultural,572.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Kakrana,Road ke sath lagte khasra Barani P,agricultural,572.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Katesra,Abadi ke sath lagti bhumi Chahi P,agricultural,518.18,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Katesra,Abadi ke sath lagti bhumi Nehri P,agricultural,518.18,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Katesra,Katesra Chahi N,agricultural,475.21,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Katesra,Katesra Nehri N,agricultural,475.21,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Katesra,Katesra Nehri P,agricultural,475.21,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Katesra,Katesra,residential,2150,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Katesra,Katesra se Un sadak ke Chahi P,agricultural,531.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Katesra,Katesra se Un sadak ke Nehri P,agricultural,531.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Katesra,Sadak Gudhan se Katesra Chahi P,agricultural,531.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Katesra,Sadak Gudhan se Katesra Nehri P,agricultural,531.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKalan,13 Nigana Road se Ved Model School tak,residential,4620,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKalan,Kalanaur Kalan,commercial,15840,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKalan,14 Jindran Mor se DAV School tak,residential,5280,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKalan,15 CHC se Jindran Mor tak,residential,5280,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKalan,Kalanaur Kalan Chahi N,agricultural,600.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKalan,Kalanaur Kalan Nehri N,agricultural,627.27,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKalan,Kalanaur Kalan Nehri P,agricultural,627.27,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKalan,Kalanaur Kalan Barani N,agricultural,600.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKalan,Kalanaur Kalan Barani P,agricultural,600.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKalan,Kalanaur Kalan Gair Mumkin N,agricultural,600.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKalan,Kalanaur Kalan Gair Mumkin P,agricultural,600.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKalan,Kalanaur Kalan Chahi P,agricultural,600.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKalan,Kalanaur Kalan Nehri P,agricultural,1172.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKalan,Kalanaur Kalan Nehri N,agricultural,600.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKalan,Kalanaur Kalan,residential,4620,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKalan,Kalanaur Bypass ke sath lagte,commercial,22440,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKalan,Kalanaur Bypass ke sath lagte Chahi P,agricultural,1075.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKalan,Kalanaur Bypass ke sath lagte Chahi N,agricultural,1075.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKalan,Kalanaur Bypass ke sath lagte Nehri P,agricultural,1075.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKalan,Kalanaur Bypass ke sath lagte Nehri N,agricultural,1075.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKalan,Kalanaur Bypass ke sath lagte Barani P,agricultural,1075.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKalan,Guga Mor se Chindran Mor,commercial,20570,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKalan,Kalanaur Kalan,residential,5280,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKalan,Chindran Mor se Power House Kalanaur Kalan,residential,15840,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKalan,Chindran Mor se Power House Kalanaur Kalan,commercial,15840,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKalan,Railway Road Harijan Basti se lekar Kuan,residential,5300,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKalan,Railway Road Harijan Basti se lekar Kuan,commercial,5300,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKalan,Kalanaur Kalan,residential,19800,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKalan,Kalanaur Kalan,commercial,19800,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKhurd,1. Girls School se Bhiwani Chungi tak,residential,5940,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKhurd,1. Girls School se Bhiwani Chungi tak,commercial,5940,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKhurd,Kalanaur Khurd,residential,5280,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKhurd,Kalanaur Khurd,commercial,52800,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKhurd,2. Nayi School se Gudan Mor tak,residential,5940,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKhurd,2. Nayi School se Gudan Mor tak,commercial,36960,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKhurd,4. Rohtak Bhiwani Road se PNB Main Bazar,commercial,52800,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKhurd,8. PNB se Chameli Ghat gali tak,residential,5280,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKhurd,8. PNB se Chameli Ghat gali tak,commercial,18150,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKhurd,Abadi ke sath lagti bhumi Chahi P,agricultural,654.55,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKhurd,Abadi ke sath lagti bhumi,residential,4620,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKhurd,Kalanaur Khurd Chahi N,agricultural,654.55,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKhurd,Kalanaur Khurd Nehri N,agricultural,654.55,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKhurd,Kalanaur Khurd Nehri P,agricultural,714.05,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKhurd,Kalanaur Khurd Gair Mumkin N,agricultural,654.55,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKhurd,Kalanaur Khurd,residential,4620,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKhurd,Kalanaur Khurd,commercial,35420,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKhurd,Kalanaur Khurd Chahi P,agricultural,714.05,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKhurd,Kalanaur Khurd Bypass ke dono or Nehri N,agricultural,654.55,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKhurd,Kalanaur Khurd Bypass ke dono or Nehri P,agricultural,714.05,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKhurd,Kalanaur Khurd Bypass ke dono or Barani N,agricultural,654.55,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKhurd,Kalanaur Khurd Bypass ke dono or Chahi P,agricultural,1172.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKhurd,Kalanaur Khurd Bypass ke dono or Nehri P,agricultural,1172.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKhurd,Bhiwani Road Main Sadak Chahi N,agricultural,1172.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKhurd,Bhiwani Road Main Sadak Nehri N,agricultural,1172.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKhurd,Bhiwani Road Main Sadak Chahi P,agricultural,1172.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKhurd,Bhiwani Road Main Sadak Nehri P,agricultural,1172.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKhurd,Bhiwani Road Main Sadak Barani P,agricultural,1172.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKhurd,Bhiwani Chungi se Santoshi Mata Mandir tak,residential,5940,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKhurd,Bhiwani Chungi se Santoshi Mata Mandir tak,commercial,36960,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKhurd,Bhiwani Chungi se Santoshi Mata Mandir tak Chahi P,agricultural,818.18,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKhurd,Bhiwani Chungi se Santoshi Mata Mandir tak Nehri P,agricultural,818.18,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKhurd,Saihal se Kalanaur sadak ke sath Barani P,agricultural,818.18,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKhurd,Harijan Basti se lekar Kutia ke aas-paas,residential,4680,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,KalanaurKhurd,Harijan Basti se lekar Kutia ke aas-paas,commercial,18975,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Kahnaur,Kahnaur se Beri Marg Chahi P,agricultural,822.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Kahnaur,Kahnaur se Beri Marg Nehri P,agricultural,822.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Kahnaur,Kahnaur se Jaitpur Pukhta Road Chahi P,agricultural,575.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Kahnaur,Kahnaur se Jaitpur Pukhta Road Nehri P,agricultural,575.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Kahnaur,Kahnaur Chahi N,agricultural,525.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Kahnaur,Kahnaur Nehri N,agricultural,525.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Kahnaur,Kahnaur Barani N,agricultural,525.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Kahnaur,Kahnaur Gair Mumkin N,agricultural,525.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Kahnaur,Kahnaur,residential,2530,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Kahnaur,Kahnaur se Nigana Road Chahi P,agricultural,525.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Kahnaur,Kahnaur se Nigana Road Nehri P,agricultural,575.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Kahnaur,Kahnaur se Chimni Road Chahi P,agricultural,575.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Kahnaur,Kahnaur se Chimni Road Nehri P,agricultural,575.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Kahnaur,Phirni ke sath lagti bhumi Chahi P,agricultural,548.97,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Kahnaur,Phirni ke sath lagti bhumi Nehri P,agricultural,548.97,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Kahnaur,Abadi ke najdeek Chahi P,agricultural,681.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Kahnaur,Abadi ke najdeek Nehri P,agricultural,681.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Kahnaur,Kahnaur,commercial,33000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Khairari,Khairari Chahi N,agricultural,681.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Khairari,Khairari Nehri N,agricultural,681.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Khairari,Khairari Barani N,agricultural,681.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Khairari,Khairari Nehri P,agricultural,738.64,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Khairari,Khairari Chahi P,agricultural,681.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Khairari,Khairari Barani P,agricultural,738.64,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Khairari,Khairari,residential,2640,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Khairari,Khairari,commercial,24840,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Khairari,Kheti sadak se Dadri sadak Chahi P,agricultural,1385.95,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Khairari,Kheti sadak se Dadri sadak Nehri P,agricultural,1385.95,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Khairari,Kheti sadak se Dadri sadak Nehri N,agricultural,1385.95,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Khairari,Kheti sadak se Dadri sadak Barani P,agricultural,1385.95,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Khairari,Kheti sadak se Dadri sadak Chahi N,agricultural,1221.59,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Khairari,Kheti sadak se Dadri sadak Nehri N,agricultural,1221.59,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Khairari,Rohtak sadak se Bhiwani sadak Barani P,agricultural,1221.59,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Khairari,Rohtak sadak se Bhiwani sadak Chahi P,agricultural,1221.59,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Khairari,Rohtak sadak se Bhiwani sadak Nehri P,agricultural,1221.59,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Khairari,Rohtak sadak se Bhiwani sadak Barani N,agricultural,1221.59,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Khairari,Rohtak sadak se Bhiwani sadak Nehri N,agricultural,1221.59,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,GarhiBallab,Abadi ke sath lagti bhumi Chahi P,agricultural,562.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,GarhiBallab,Abadi ke sath lagti bhumi Nehri P,agricultural,562.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,GarhiBallab,Abadi ke sath lagti bhumi Barani P,agricultural,562.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,GarhiBallab,Abadi ke sath lagti bhumi Chahi N,agricultural,562.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,GarhiBallab,Garhi Ballab Nehri N,agricultural,562.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,GarhiBallab,Garhi Ballab Barani N,agricultural,562.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,GarhiBallab,Garhi Ballab Chahi N,agricultural,562.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,GarhiBallab,Garhi Ballab Nehri P,agricultural,562.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,GarhiBallab,Sadak Pukhta Garhi se Ballab Barani P,agricultural,562.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,GarhiBallab,Garhi Ballab,residential,2100,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,GarhiBallab,Sadak Pukhta Garhi Ballab se Patwa Chahi P,agricultural,627.27,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,GarhiBallab,Sadak Pukhta Garhi Ballab se Patwa Nehri P,agricultural,627.27,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,GarhiBallab,Sadak Pukhta Garhi Ballab se Patwa Barani P,agricultural,627.27,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,GarhiBallab,Sadak Pukhta Garhi Ballab se Patwa Chahi N,agricultural,627.27,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,GarhiBallab,Sadak Pukhta Garhi Ballab se Patwa Nehri N,agricultural,627.27,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,GarhiBallab,Sadak Pukhta Garhi Ballab se Patta Barani P,agricultural,627.27,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,GarhiBallab,Sadak Pukhta Garhi Ballab se Beri Chahi P,agricultural,627.27,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Gajjanawati,Phirni ke sath lagti bhumi,residential,1980,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Gajjanawati,Rohtak se Beri Road ke sath Chahi P,agricultural,845.45,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Gajjanawati,Rohtak se Beri Road ke sath Nehri P,agricultural,845.45,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Gajjanawati,Rohtak se Beri Road ke sath Barani P,agricultural,845.45,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Gudan,Abadi ke sath lagti bhumi Chahi P,agricultural,518.18,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Gudan,Abadi ke sath lagti bhumi Nehri P,agricultural,518.18,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Gudan,Abadi ke sath lagti bhumi Barani P,agricultural,518.18,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Gudan,Kalanaur se Gudan Road Chahi P,agricultural,531.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Gudan,Kalanaur se Gudan Road Nehri P,agricultural,531.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Gudan,Kalanaur se Gudan Road Barani P,agricultural,531.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Gudan,Kalanaur se Nigana Road Chahi P,agricultural,531.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Gudan,Kalanaur se Nigana Road Nehri P,agricultural,531.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Gudan,Kalanaur se Nigana Road Barani P,agricultural,531.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Gudan,Gugga Chahi P,agricultural,518.18,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Gudan,Gugga Nehri P,agricultural,518.18,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Gudan,Gugga se Katesra Road,residential,2000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Gudan,Gudan Chahi N,agricultural,518.18,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Gudan,Gudan Nehri N,agricultural,518.18,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Gudan,Kalanaur se Nigana Road Nehri N,agricultural,531.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Jindran,Abadi ke sath lagti bhumi Nehri P,agricultural,709.09,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Jindran,Kalanaur se Jindran Kalan Nehri P,agricultural,612.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Jindran,Kalanaur Bypass ke sath lagte Nehri P,agricultural,1159.09,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Jindran,Kalanaur Mor se Beri Road Chahi P,agricultural,1159.09,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Jindran,Jindran Nehri N,agricultural,612.6,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Jindran,Jindran Chahi N,agricultural,612.6,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Jindran,Jindran Nehri P,agricultural,773.55,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Jindran,Jindran Barani N,agricultural,612.6,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Jindran,Jindran Gair Mumkin N,agricultural,556.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Jindran,Jindran,residential,2700,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Jindran,Rohtak se Kalanaur Main Road Nehri P,agricultural,1159.09,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Jindran,Rohtak se Kalanaur Main Road Barani P,agricultural,1159.09,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,TaimurPur,Abadi ke sath lagti Chahi P,agricultural,475.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,TaimurPur,Abadi ke sath lagti Nehri P,agricultural,475.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,TaimurPur,Abadi ke sath lagti Barani P,agricultural,475.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,TaimurPur,Taimur Pur Chahi N,agricultural,475.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,TaimurPur,Taimur Pur Nehri N,agricultural,475.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,TaimurPur,Taimur Pur Barani N,agricultural,475.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,TaimurPur,Bar se Taimur Pur Road,residential,1850,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,TaimurPur,Bar se Taimur Pur Road Chahi P,agricultural,531.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,TaimurPur,Bar se Taimur Pur Road Nehri P,agricultural,531.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,TaimurPur,Bar se Taimur Pur Road Barani P,agricultural,531.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Nigana,Abadi ke sath lagti bhumi Chahi P,agricultural,600.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Nigana,Abadi ke sath lagti bhumi Nehri P,agricultural,600.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Nigana,Abadi ke sath lagti bhumi Barani P,agricultural,600.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Nigana,Abadi ke sath lagti bhumi Nehri N,agricultural,545.45,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Nigana,Abadi ke sath lagti bhumi Chahi N,agricultural,545.45,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Nigana,Kalanaur se Nigana Road Nehri P,agricultural,654.55,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Nigana,Kalanaur se Nigana Road Chahi P,agricultural,654.55,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Nigana,Kalanaur se Nigana Road Nehri N,agricultural,654.55,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Nigana,Kalanaur se Nigana Road Barani P,agricultural,654.55,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Nigana,Nigana Chahi N,agricultural,600.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Nigana,Nigana Nehri N,agricultural,600.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Nigana,Nigana Nehri P,agricultural,654.55,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Nigana,Nigana Barani N,agricultural,600.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Nigana,Nigana Gair Mumkin N,agricultural,1200.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Nigana,Nigana,residential,2000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Nigana,Sadak Nigana se Anwal Chahi P,agricultural,654.55,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Nigana,Sadak Nigana se Katesra Nehri P,agricultural,654.55,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Nigana,Sadak Nigana se Kahlor Chahi P,agricultural,654.55,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Nigana,Sadak Nigana se Garhi Ballab Nehri P,agricultural,654.55,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Nigana,Sadak Nigana se Sangaheda Chahi P,agricultural,654.55,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Nigana,Sadak Nigana se Sanjha Nehri P,agricultural,654.55,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Patwapur,Patwapur Chahi N,agricultural,562.6,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Patwapur,Patwapur Nehri N,agricultural,654.55,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Patwapur,Patwapur Barani N,agricultural,562.6,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Patwapur,Patwapur,residential,2200,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Patwapur,Sadak Patwapur se Baniyani Nehri P,agricultural,654.55,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Patwapur,Sadak Patwapur se Baniyani Barani P,agricultural,654.55,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Patwapur,Sadak Patwapur se Baniyani Chahi P,agricultural,654.55,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Patwapur,Sadak Patwapur se Garhi Ballab Nehri P,agricultural,654.55,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Patwapur,Sadak Patwapur se Garhi Ballab Barani P,agricultural,654.55,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Patwapur,Sadak Patwapur se Garhi Ballab Chahi P,agricultural,654.55,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Pilana,Abadi ke sath lagti bhumi Nehri P,agricultural,518.18,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Pilana,Abadi ke sath lagti bhumi Barani P,agricultural,518.18,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Pilana,Abadi ke sath lagti bhumi Chahi P,agricultural,518.18,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Pilana,Kalanaur se Pilana Road Nehri P,agricultural,545.45,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Pilana,Kalanaur se Pilana Road Barani P,agricultural,545.45,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Pilana,Kalanaur se Pilana Road Chahi P,agricultural,545.45,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Pilana,Pilana Nehri N,agricultural,475.21,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Pilana,Pilana Barani N,agricultural,475.21,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Pilana,Pilana Gair Mumkin N,agricultural,950.41,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Pilana,Pilana,residential,2100,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Pilana,Pilana Chahi N,agricultural,475.21,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Pilana,Pilana Chahi P,agricultural,518.18,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Pilana,Pilana Nehri P,agricultural,518.18,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Pilana,Sadak Pilana se Siwana Chahi P,agricultural,500.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Pilana,Sadak Pilana se Siwana Nehri P,agricultural,500.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Pilana,Sadak Pilana se Siwana Barani P,agricultural,500.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Pilana,Sadak Pilana se Ranila Chahi P,agricultural,500.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Pilana,Sadak Pilana se Ranila Nehri P,agricultural,500.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Pilana,Sadak Pilana se Ranila Barani P,agricultural,500.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Baniyani,Baniyani Chahi N,agricultural,625.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Baniyani,Baniyani Nehri N,agricultural,625.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Baniyani,Baniyani Nehri P,agricultural,625.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Baniyani,Baniyani,residential,2640,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Baniyani,Abadi ke sath lagti bhumi Chahi P,agricultural,681.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Baniyani,Abadi ke sath lagti bhumi Nehri P,agricultural,681.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Baniyani,Abadi ke sath lagti bhumi Barani P,agricultural,681.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Baniyani,Baniyani Chahi P,agricultural,681.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Baniyani,Baniyani Nehri P,agricultural,681.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Baniyani,Baniyani Nehri N,agricultural,743.8,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Baniyani,Baniyani Barani P,agricultural,681.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Baniyani,Baniyani Barani N,agricultural,743.8,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Baniyani,Baniyani Gair Mumkin N,agricultural,681.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Baniyani,Baniyani se Patwapur sadak Chahi P,agricultural,818.18,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Baniyani,Baniyani se Patwapur sadak Nehri P,agricultural,818.18,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Baniyani,Baniyani se Patwapur sadak Barani P,agricultural,818.18,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Baniyani,Anandpur se Baniyani sadak Chahi P,agricultural,852.27,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Baniyani,Anandpur se Baniyani sadak Nehri P,agricultural,852.27,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Baniyani,Anandpur se Baniyani sadak Barani P,agricultural,852.27,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Baniyani,Rohtak se Bhiwani Road Chahi P,agricultural,1221.59,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Baniyani,Rohtak se Bhiwani Road Nehri P,agricultural,1221.59,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Baniyani,Rohtak se Bhiwani Road Barani P,agricultural,1221.59,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Ballab,Abadi ke sath lagti bhumi Chahi P,agricultural,561.98,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Ballab,Abadi ke sath lagti bhumi Nehri P,agricultural,561.98,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Ballab,Abadi ke sath lagti bhumi Barani P,agricultural,561.98,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Ballab,Ballab Chahi N,agricultural,561.98,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Ballab,Ballab Nehri N,agricultural,561.98,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Ballab,Ballab Barani N,agricultural,561.98,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Bar,Bar Chahi N,agricultural,575.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Ballab,Ballab Nehri P,agricultural,575.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Ballab,Ballab Barani P,agricultural,561.98,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Ballab,Ballab,residential,1980,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Ballab,Sadak Ballab se Kalanaur Chahi P,agricultural,600.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Ballab,Sadak Ballab se Kalanaur Nehri P,agricultural,600.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Ballab,Sadak Ballab se Surana Chahi P,agricultural,600.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Ballab,Sadak Ballab se Surana Barani P,agricultural,600.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Ballab,Sadak Ballab se Surana Nehri P,agricultural,600.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Ballab,Sadak Pukhta Ballab se Madodhi Chahi P,agricultural,600.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Ballab,Sadak Pukhta Ballab se Madodhi Barani P,agricultural,600.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Ballab,Sadak Pukhta Ballab se Madodhi Nehri P,agricultural,600.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Ballab,Sadak Ballab se Garhi Chahi P,agricultural,600.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Ballab,Sadak Ballab se Garhi Barani P,agricultural,600.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Ballab,Sadak Ballab se Garhi Nehri P,agricultural,600.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Basana,Abadi ke paas Chahi P,agricultural,525.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Basana,Abadi ke paas Nehri P,agricultural,525.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Basana,Abadi ke paas Barani P,agricultural,525.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Basana,Basana Chahi N,agricultural,475.21,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Basana,Basana Nehri N,agricultural,475.21,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Basana,Basana Barani N,agricultural,475.21,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Basana,Basana Chahi P,agricultural,525.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Basana,Basana Nehri P,agricultural,525.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Basana,Basana Barani P,agricultural,525.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Basana,Basana,residential,2000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Basana,Road ke paas lagti Chahi P,agricultural,687.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Basana,Road ke paas lagti Nehri P,agricultural,687.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Basana,Basana se Jind Chahi P,agricultural,525.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Basana,Basana se Jind Nehri P,agricultural,525.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Basana,Basana se Sampla Chahi P,agricultural,525.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Basana,Basana se Sampla Nehri P,agricultural,525.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Basana,Basana se Kalanaur Chahi P,agricultural,525.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Basana,Basana se Kalanaur Nehri P,agricultural,525.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Basana,Basana se Mokhra Chahi P,agricultural,525.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,Basana,Basana se Mokhra Nehri P,agricultural,525.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,BhaliAnandpur,Abadi ke sath lagti bhumi Chahi P,agricultural,681.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,BhaliAnandpur,Abadi ke sath lagti bhumi Nehri P,agricultural,681.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,BhaliAnandpur,Bhali Anandpur se Bahuakbarpur Chahi P,agricultural,750.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,BhaliAnandpur,Bhali Anandpur se Bahuakbarpur Nehri P,agricultural,750.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,BhaliAnandpur,Bhali Anandpur Chahi N,agricultural,625.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,BhaliAnandpur,Bhali Anandpur Nehri N,agricultural,625.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,BhaliAnandpur,Bhali Anandpur Chahi P,agricultural,750.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,BhaliAnandpur,Bhali Anandpur Nehri P,agricultural,625.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,BhaliAnandpur,Bhali Anandpur Barani N,agricultural,625.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,BhaliAnandpur,Bhali Anandpur Barani P,agricultural,625.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,BhaliAnandpur,Bhali Anandpur,residential,2640,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,BhaliAnandpur,Rohtak se Bhiwani Road Chahi P,agricultural,1221.59,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,BhaliAnandpur,Rohtak se Bhiwani Road Nehri P,agricultural,1221.59,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,BhaliAnandpur,Rohtak se Bhiwani Road Barani P,agricultural,1221.59,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,BhaliAnandpur,Bhali Anandpur se Baniyani Chahi P,agricultural,852.27,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,BhaliAnandpur,Bhali Anandpur se Baniyani Nehri P,agricultural,852.27,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,BhaliAnandpur,Bhali Anandpur se Baniyani Barani P,agricultural,852.27,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,BhaliAnandpur,Phirni ke sath lagti bhumi Chahi P,agricultural,681.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,BhaliAnandpur,Phirni ke sath lagti bhumi Nehri P,agricultural,681.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,BhaliAnandpur,Phirni ke sath lagti bhumi Barani P,agricultural,681.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Kalanaur,BhaliAnandpur,Bhali Anandpur Gair Mumkin N,agricultural,1250.0,2026-04-01,rohtak_gov_in_dc_notification

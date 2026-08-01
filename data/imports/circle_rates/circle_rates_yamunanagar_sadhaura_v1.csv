@@ -1,0 +1,377 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Yamunanagar,Sadhaura,असगरपुर,Asgarpur.,residential,2200,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,असगरपुर,Asgarpur.,commercial,3800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,असगरपुर,असगरपुर,agricultural,879.85,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,असगरपुर,असगरपुर,agricultural,625.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,असगरपुर,असगरपुर,agricultural,575.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,असगरपुर,असगरपुर,residential,4100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,असगरपुर,असगरपुर,commercial,7100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,असगरपुर,असगरपुर प्राईम न0 सडक,agricultural,1680.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,ईस्माईलपुर,ईस्माईलपुर,agricultural,500.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,ईस्माईलपुर,ईस्माईलपुर,agricultural,475.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,ईस्माईलपुर,ईस्माईलपुर,agricultural,450.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,ईस्माईलपुर,ईस्माईलपुर,residential,3100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,ईस्माईलपुर,ईस्माईलपुर,commercial,6600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,ईस्लामनगर,ईस्लामनगर,agricultural,450.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,ईस्लामनगर,ईस्लामनगर,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,ईस्लामनगर,ईस्लामनगर,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,ईस्लामनगर,ईस्लामनगर,residential,3100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,ईस्लामनगर,ईस्लामनगर,commercial,6600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,उधमगढ़165,उधमगढ़ 165,agricultural,450.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,उधमगढ़165,उधमगढ़ 165,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,उधमगढ़165,उधमगढ़ 165,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,उधमगढ़165,उधमगढ़ 165,residential,3100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,उधमगढ़165,उधमगढ़ 165,commercial,6600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,उधमगढ़329,उधमगढ़ 329,agricultural,500.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,उधमगढ़329,उधमगढ़ 329,agricultural,475.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,उधमगढ़329,उधमगढ़ 329,agricultural,450.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,उधमगढ़329,उधमगढ़ 329,residential,3100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,उधमगढ़329,उधमगढ़ 329,commercial,6600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,कण्डईवाला,कण्डईवाला,agricultural,475.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,कण्डईवाला,कण्डईवाला,agricultural,450.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,कण्डईवाला,कण्डईवाला,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,कण्डईवाला,कण्डईवाला,residential,2200,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,कण्डईवाला,कण्डईवाला,commercial,3800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,कनीपला,कनीपला,agricultural,522.73,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,कनीपला,कनीपला,agricultural,475.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,कनीपला,कनीपला,agricultural,450.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,कनीपला,कनीपला,residential,3100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,कनीपला,कनीपला,commercial,6600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,कनीपला,कनीपला प्राईम सडक के साथ,agricultural,1207.5,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,कल्याणपुरअटारी,कल्याणपुर अटारी,agricultural,475.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,कल्याणपुरअटारी,कल्याणपुर अटारी,agricultural,450.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,कल्याणपुरअटारी,कल्याणपुर अटारी,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,कल्याणपुरअटारी,कल्याणपुर अटारी,residential,3100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,कल्याणपुरअटारी,कल्याणपुर अटारी,commercial,6600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,कोटला,कोटला,agricultural,500.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,कोटला,कोटला,agricultural,450.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,कोटला,कोटला,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,कोटला,कोटला,residential,2530,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,कोटला,कोटला,commercial,6650,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,गढीविरान,गढी विरान,agricultural,475.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,गढीविरान,गढी विरान,agricultural,450.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,गढीविरान,गढी विरान,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,गढीविरान,गढी विरान,residential,3100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,गढीविरान,गढी विरान,commercial,6600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,गलौडी,गलौडी,agricultural,500.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,गलौडी,गलौडी,agricultural,475.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,गलौडी,गलौडी,agricultural,450.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,गलौडी,गलोडी,residential,3100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,गलौडी,गलोडी,commercial,6600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,गुलांपुर,गुलांपुर,agricultural,475.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,गुलांपुर,गुलांपुर,agricultural,450.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,गुलांपुर,गुलांपुर,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,गुलांपुर,गुलांपुर,residential,2200,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,गुलांपुर,गुलांपुर,commercial,3800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,चकमौजूदात,चकमौजूदात,agricultural,500.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,चकमौजूदात,चकमौजूदात,agricultural,475.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,चकमौजूदात,चकमौजूदात,agricultural,450.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,चकमौजूदात,चकमौजूदात,residential,3100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,चकमौजूदात,चकमौजूदात,commercial,6600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,चकमौजूदात,प्राईम खसरा चकमौजूदात,agricultural,1050.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,चाणचक,चाणचक,agricultural,475.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,चाणचक,चाणचक,agricultural,450.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,चाणचक,चाणचक,residential,2200,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,चाणचक,चाणचक,commercial,3800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,जाफरपुरजाफरी,जाफरपुर जाफरी,agricultural,500.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,जाफरपुरजाफरी,जाफरपुर जाफरी,agricultural,450.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,जाफरपुरजाफरी,जाफरपुर जाफरी,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,जाफरपुरजाफरी,जाफरपुर जाफरी,residential,2200,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,जाफरपुरजाफरी,जाफरपुर जाफरी,commercial,3800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,झण्डा,झण्डा,agricultural,522.73,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,झण्डा,झण्डा,agricultural,475.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,झण्डा,झण्डा,agricultural,450.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,झण्डा,झण्डा,residential,2200,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,झण्डा,झण्डा,commercial,3800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,टीबडी,टीबडी,agricultural,906.1,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,टीबडी,टीबडी,agricultural,918.75,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,टीबडी,टीबडी,agricultural,500.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,टीबडी,टीबडी,residential,3100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,टीबडी,टीबडी,commercial,7590,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,टीबडी,टिबडी कालोनी,residential,4800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,टीबडी,टिबडी कालोनी,commercial,9700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,टीबडी,टिबडी प्राईम सडक के साथ,agricultural,1207.5,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,टुण्डाबाग,टुण्डा बाग,agricultural,500.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,टुण्डाबाग,टुण्डा बाग,agricultural,475.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,टुण्डाबाग,टुण्डा बाग,agricultural,450.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,टुण्डाबाग,टुण्डा बाग,residential,3100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,टुण्डाबाग,टुण्डा बाग,commercial,6600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,टोडपुर,टोडपुर,agricultural,450.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,टोडपुर,टोडपुर,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,टोडपुर,टोडपुर,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,टोडपुर,टोडपुर,residential,2200,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,टोडपुर,टोडपुर,commercial,3800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,ठसका,ठसका,agricultural,500.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,ठसका,ठसका,agricultural,475.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,ठसका,ठसका,agricultural,450.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,ठसका,ठसका,residential,2200,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,ठसका,ठसका,commercial,3800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,डूमावाला,डूमावाला,agricultural,500.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,डूमावाला,डूमावाला,agricultural,475.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,डूमावाला,डूमावाला,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,डूमावाला,डूमावाला,residential,3100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,डूमावाला,डूमावाला,commercial,6600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,तेवर,तेवर,agricultural,475.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,तेवर,तेवर,agricultural,450.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,तेवर,तेवर,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,तेवर,तेवर,residential,3100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,तेवर,तेवर,commercial,6600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,नवांगांव,नवांगांव,agricultural,475.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,नवांगांव,नवांगांव,agricultural,450.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,नवांगांव,नवांगांव,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,नवांगांव,नवांगांव,residential,2200,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,नवांगांव,नवांगांव,commercial,3800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,नानहेडी,नानहेडी,agricultural,475.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,नानहेडी,नानहेडी,agricultural,450.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,नानहेडी,नानहेडी,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,नानहेडी,नानहेडी,residential,2200,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,नानहेडी,नानहेडी,commercial,3800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,निजामपुर,नजामपुर,agricultural,550.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,निजामपुर,नजामपुर,agricultural,500.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,निजामपुर,नजामपुर,agricultural,450.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,निजामपुर,नजामपुर,residential,3100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,निजामपुर,नजामपुर,commercial,6600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,नौशहरा,नौशहरा,agricultural,575.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,नौशहरा,नौशहरा,agricultural,500.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,नौशहरा,नौशहरा,agricultural,450.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,नौशहरा,नौशहरा,residential,3100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,नौशहरा,नौशहरा,commercial,6600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,पम्मूवाला,पम्मूवाला,agricultural,475.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,पम्मूवाला,पम्मूवाला,agricultural,450.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,पम्मूवाला,पम्मूवाला,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,पम्मूवाला,पम्मूवाला,residential,2200,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,पम्मूवाला,पम्मूवाला,commercial,3800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,पहाडीपुर,पहाडीपुर,agricultural,718.75,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,पहाडीपुर,पहाडीपुर,agricultural,500.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,पहाडीपुर,पहाडीपुर,agricultural,450.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,पहाडीपुर,पहाडीपुर,residential,3100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,पहाडीपुर,पहाडीपुर,commercial,6600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,पहाडीपुर,पहाडीपुर प्राईम सडक के साथ,agricultural,1207.5,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,पान्ड़ों,पान्ड़ो प्राईम सडक के साथ,agricultural,1050.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,पान्ड़ों,पान्ड़ों,agricultural,632.5,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,पान्ड़ों,पान्ड़ों,agricultural,525.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,पान्ड़ों,पान्ड़ों,agricultural,500.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,पान्ड़ों,पान्ड़ों,residential,3100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,पान्ड़ों,पान्ड़ों,commercial,6600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,पीरभोली,पीरभोली,agricultural,500.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,पीरभोली,पीरभोली,agricultural,475.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,पीरभोली,पीरभोली,agricultural,450.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,पीरभोली,पीरभोली,residential,2200,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,पीरभोली,पीरभोली,commercial,3800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,पीरवाली,पीरवाली,agricultural,500.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,पीरवाली,पीरवाली,agricultural,475.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,पीरवाली,पीरवाली,agricultural,450.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,पीरवाली,पीरवाली,residential,3100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,पीरवाली,पीरवाली,commercial,6600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,फाजलपुर,फाजलपुर,agricultural,500.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,फाजलपुर,फाजलपुर,agricultural,475.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,फाजलपुर,फाजलपुर,agricultural,450.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,फाजलपुर,फाजलपुर,residential,3100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,फाजलपुर,फाजलपुर,commercial,6600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,फिरोजपुरराईया,फिरोजपुर राईयां,agricultural,550.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,फिरोजपुरराईया,फिरोजपुर राईयां,agricultural,500.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,फिरोजपुरराईया,फिरोजपुर राईयां,agricultural,450.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,फिरोजपुरराईया,फिरोजपुर राईयां,residential,3100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,फिरोजपुरराईया,फिरोजपुर राईयां,commercial,6600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,बकाला,बकाला,agricultural,550.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,बकाला,बकाला,agricultural,500.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,बकाला,बकाला,agricultural,450.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,बकाला,बकाला,residential,3100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,बकाला,बकाला,commercial,6600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,बनाबहादुरपुर,बना बहादुरपुर,agricultural,475.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,बनाबहादुरपुर,बना बहादुरपुर,agricultural,450.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,बनाबहादुरपुर,बना बहादुरपुर,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,बनाबहादुरपुर,बना बहादुरपुर,residential,2200,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,बनाबहादुरपुर,बना बहादुरपुर,commercial,3800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,बुर्जजामनावाला,बुर्ज जामना वाला,agricultural,500.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,बुर्जजामनावाला,बुर्ज जामना वाला,agricultural,475.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,बुर्जजामनावाला,बुर्ज जामना वाला,agricultural,450.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,बुर्जजामनावाला,बुर्ज जामना वाला,residential,3100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,बुर्जजामनावाला,बुर्ज जामना वाला,commercial,6600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,भोलीवाला,भोलीवाला,agricultural,475.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,भोलीवाला,भोलीवाला,agricultural,450.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,भोलीवाला,भोलीवाला,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,भोलीवाला,भोलीवाला,residential,2200,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,भोलीवाला,भोलीवाला,commercial,3800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,महमदपुर,महमदपुर,agricultural,550.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,महमदपुर,महमदपुर,agricultural,500.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,महमदपुर,महमदपुर,agricultural,475.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,महमदपुर,महमदपुर,residential,3100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,महमदपुर,महमदपुर,commercial,6600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,माजरी,माजरी,agricultural,575.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,माजरी,माजरी,agricultural,475.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,माजरी,माजरी,agricultural,450.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,माजरी,माजरी,residential,3100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,माजरी,माजरी,commercial,6600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,मिरजापुर,मिरजापुर,agricultural,625.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,मिरजापुर,मिरजापुर,agricultural,475.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,मिरजापुर,मिरजापुर,agricultural,450.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,मिरजापुर,मिरजापुर,residential,3100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,मिरजापुर,मिरजापुर,commercial,6600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,मिलकझवालीयां,मिलकझवालीयां,agricultural,550.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,मिलकझवालीयां,मिलकझवालीयां,agricultural,500.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,मिलकझवालीयां,मिलकझवालीयां,agricultural,450.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,मिलकझवालीयां,मिलकझवालीयां,residential,2200,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,मिलकझवालीयां,मिलकझवालीयां,commercial,3800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,रठाली,रठाली,agricultural,500.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,रठाली,रठाली,agricultural,475.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,रठाली,रठाली,agricultural,450.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,रठाली,रठाली,residential,3100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,रठाली,रठाली,commercial,6600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,रतौली,रतौली,agricultural,500.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,रतौली,रतौली,agricultural,475.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,रतौली,रतौली,agricultural,450.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,रतौली,रतौली,residential,3100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,रतौली,रतौली,commercial,6600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,र्तुवाला,र्तुवाला,agricultural,500.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,र्तुवाला,र्तुवाला,agricultural,546.49,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,र्तुवाला,र्तुवाला,agricultural,517.5,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,र्तुवाला,र्तुवाला,residential,3100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,र्तुवाला,र्तुवाला,commercial,6600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,रसुलपुर,Rasulpur with prime land,agricultural,1680.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,रसुलपुर,रसुलपुर,agricultural,917.39,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,रसुलपुर,रसुलपुर,agricultural,625.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,रसुलपुर,रसुलपुर,agricultural,600.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,रसुलपुर,रसुलपुर,residential,4100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,रसुलपुर,रसुलपुर,commercial,7100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,रसुलपुर,रसुलपुर प्राईम सडक के साथ,agricultural,1680.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,राईयावाला,राईयावाला,agricultural,500.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,राईयावाला,राईयावाला,agricultural,475.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,राईयावाला,राईयावाला,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,राईयावाला,राईयावाला,residential,3100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,राईयावाला,राईयावाला,commercial,6600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,राजपुर,Rajpur.,industrial,2200,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,राजपुर,कृष्णा कालोनी,residential,4800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,राजपुर,कृष्णा कालोनी,commercial,9700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,राजपुर,गैर मु0 फैक्ट्री,commercial,2700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,राजपुर,राजपुर,agricultural,575.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,राजपुर,राजपुर,agricultural,525.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,राजपुर,राजपुर,agricultural,875.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,राजपुर,राजपुर,residential,4715,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,राजपुर,राजपुर,commercial,9230,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,राजपुर,राजपुर प्राईम सडक के साथ,agricultural,1312.5,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,राजपुर333,राजपुर 333,agricultural,500.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,राजपुर333,राजपुर 333,agricultural,475.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,राजपुर333,राजपुर 333,agricultural,450.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,राजपुर333,राजपुर 333,residential,3100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,राजपुर333,राजपुर 333,commercial,6600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,रामपुरराईयां,रामपुर राईयां,agricultural,687.5,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,रामपुरराईयां,रामपुर राईयां,agricultural,500.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,रामपुरराईयां,रामपुर राईयां,agricultural,450.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,रामपुरराईयां,रामपुर राईयां,residential,3100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,रामपुरराईयां,रामपुर राईयां,commercial,6600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,लाहड़पुर,लाहड़पुर,agricultural,550.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,लाहड़पुर,लाहड़पुर,agricultural,500.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,लाहड़पुर,लाहड़पुर,agricultural,475.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,लाहड़पुर,लाहड़पुर,residential,3100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,लाहड़पुर,लाहड़पुर,commercial,6600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,शामपुर,शामपुर,agricultural,550.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,शामपुर,शामपुर,agricultural,500.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,शामपुर,शामपुर,agricultural,475.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,शामपुर,शामपुर,residential,3100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,शामपुर,शामपुर,commercial,6600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सढौरा,Balmika Basti Khasra 100 Abadi,residential,3300,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सढौरा,Balmika Basti Khasra 100 Abadi,commercial,10500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सढौरा,"Bus Stand Area, Hindu School Area",residential,5375,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सढौरा,"Bus Stand Area, Hindu School Area",commercial,20700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सढौरा,Dosarka chowk to Sadhaura Bus stand,agricultural,1837.5,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सढौरा,"Gohanpur-01, Hunuman Mandir, Jain School Old abadi Area Khasra -96",residential,7500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सढौरा,"Gohanpur-01, Hunuman Mandir, Jain School Old abadi Area Khasra -96",commercial,20200,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सढौरा,Grain Market,residential,6641,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सढौरा,Grain Market,commercial,43750,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सढौरा,Jamil Colony,residential,4625,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सढौरा,Jamil Colony,commercial,10500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सढौरा,"Kumhar ghati, Jain Mandir, Wastiyan",residential,5000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सढौरा,"Kumhar ghati, Jain Mandir, Wastiyan",commercial,18500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सढौरा,Main Bazar Old abadi area,residential,12100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सढौरा,Main Bazar Old abadi area,commercial,47850,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सढौरा,Main Road Dosarka Chowk se Mandi Gate tak,residential,8280,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सढौरा,Main Road Dosarka Chowk se Mandi Gate tak,commercial,20500,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सढौरा,"Mohalla Gagarwala, gohanpur, Vedvayas",residential,5750,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सढौरा,"Mohalla Gagarwala, gohanpur, Vedvayas",commercial,24265,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सढौरा,"Mohalla Kacha Killa, Krishna Colony",residential,4400,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सढौरा,"Mohalla Kacha Killa, Krishna Colony",commercial,15125,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सढौरा,"Mohalla magaan, Manokamna Mandir, Peer Budosha gurudwara",residential,3900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सढौरा,"Mohalla magaan, Manokamna Mandir, Peer Budosha gurudwara",commercial,26825,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सढौरा,Mohalla Ramdasiya,residential,6825,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सढौरा,Mohalla Ramdasiya,commercial,16900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सढौरा,"Narayan Dharmshala ,Thane wali gali, Residential Near MC office Area",residential,7250,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सढौरा,"Narayan Dharmshala ,Thane wali gali, Residential Near MC office Area",commercial,27000,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सढौरा,New Toli,residential,5405,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सढौरा,New Toli,commercial,18900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सढौरा,"Prem Nagar,Samta Yog Ashram,स्टेडियम, Sawaniya Mohalla",residential,4600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सढौरा,"Prem Nagar,Samta Yog Ashram,स्टेडियम, Sawaniya Mohalla",commercial,16900,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सढौरा,सढौरा,agricultural,1400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सढौरा,सढौरा,agricultural,725.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सढौरा,सढौरा,agricultural,675.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सढौरा,साढौरा प्राईम सडक के साथ,agricultural,1312.5,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सन्धौली,संधौली,agricultural,475.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सन्धौली,संधौली,agricultural,450.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सन्धौली,संधौली,agricultural,433.88,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सन्धौली,संधौली,residential,2200,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सन्धौली,संधौली,commercial,3800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सबडी,सबडी,agricultural,450.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सबडी,सबडी,agricultural,425.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सबडी,सबडी,agricultural,400.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सबडी,सबडी,residential,3100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सबडी,सबडी,commercial,6600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सभापुर,सभापुर,agricultural,500.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सभापुर,सभापुर,agricultural,475.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सभापुर,सभापुर,agricultural,450.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सभापुर,सभापुर,residential,3100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सभापुर,सभापुर,commercial,6600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सरावा,दुर्गा कालोनी,residential,4800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सरावा,दुर्गा कालोनी,commercial,9700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सरावा,महालक्ष्मी कालोनी,residential,4800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सरावा,महालक्ष्मी कालोनी,commercial,9700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सरावा,शिव कालोनी,residential,4800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सरावा,शिव कालोनी,commercial,9700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सरावा,शिव विहार कालोनी,residential,4800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सरावा,शिव विहार कालोनी,commercial,9700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सरावा,सरावा,agricultural,700.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सरावा,सरावा,agricultural,650.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सरावा,सरावा,agricultural,600.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सरावा,सरावा,residential,4100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सरावा,सरावा,commercial,8875,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सरावां,सरावां प्राइम न0 सडक,agricultural,1050.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सलेमपुर,सलेमपुर,agricultural,500.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सलेमपुर,सलेमपुर,agricultural,475.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सलेमपुर,सलेमपुर,agricultural,450.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सलेमपुर,सलेमपुर,residential,3100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सलेमपुर,सलेमपुर,commercial,6600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,साढौरानदीपार,साढौरा नदीपार,agricultural,628.45,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,साढौरानदीपार,साढौरा नदीपार,agricultural,525.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,साढौरानदीपार,साढौरा नदीपार,agricultural,475.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,साढौरानदीपार,साढौरा नदीपार,residential,3100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,साढौरानदीपार,साढौरा नदीपार,commercial,6600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,साढौरानदीपार,साढौरा प्राइम सडक के साथ,agricultural,1050.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सादकपुर,सादकपुर,agricultural,575.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सादकपुर,सादकपुर,agricultural,525.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सादकपुर,सादकपुर,agricultural,500.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सादकपुर,सादकपुर,residential,3100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सादकपुर,सादकपुर,commercial,6600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सादकपुर,सादिकपुर प्राईमरेट सडक के साथ,agricultural,1050.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सालहेपुर,सालहेपुर,agricultural,500.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सालहेपुर,सालहेपुर,agricultural,475.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सालहेपुर,सालहेपुर,agricultural,450.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सालहेपुर,सालहेपुर,residential,2200,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सालहेपुर,सालहेपुर,commercial,3800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सुलतानपुर,सुलतानपुर,agricultural,525.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सुलतानपुर,सुलतानपुर,agricultural,500.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सुलतानपुर,सुलतानपुर,agricultural,475.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सुलतानपुर,सुलतानपुर,residential,3100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सुलतानपुर,सुलतानपुर,commercial,6600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सैदपुर,सैदपुर,agricultural,525.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सैदपुर,सैदपुर,agricultural,500.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सैदपुर,सैदपुर,agricultural,475.21,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सैदपुर,सैदपुर,residential,3100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,सैदपुर,सैदपुर,commercial,6600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,हवेली,गुरुद्वारा कालोनी,residential,4800,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,हवेली,गुरुद्वारा कालोनी,commercial,9700,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,हवेली,हवेली,agricultural,781.25,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,हवेली,हवेली,agricultural,1312.5,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,हवेली,हवेली,agricultural,600.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,हवेली,हवेली,agricultural,575.0,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,हवेली,हवेली,residential,3100,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,हवेली,हवेली,commercial,6600,2026-04-01,yamunanagar_gov_in_dc_notification
+Yamunanagar,Sadhaura,हवेली,हवेली प्राईम सडक के साथ,agricultural,1050.0,2026-04-01,yamunanagar_gov_in_dc_notification

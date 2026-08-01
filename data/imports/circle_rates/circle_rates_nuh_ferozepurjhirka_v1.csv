@@ -1,0 +1,271 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Nuh,Ferozepur Jhirka,Agon,Agon Any other Road Beyond 100 Meters,agricultural,444.32,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Agon,Agon Any other Road up to Depth of 100 Meters,agricultural,539.77,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Agon,Agon NH Road Beyond 200 Meters,agricultural,511.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Agon,Agon NH Road Beyond 200 Meters,agricultural,1278.41,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Agon,Agon NH Road up to Depth of 200 Meters,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Agon,Agon NH Road up to Depth of 200 Meters,agricultural,1363.64,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Agon,Agon NH Road up to Depth of 200 Meters,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Ahmedbass,Ahmedbass Any other Road Beyond 100 Meters,agricultural,386.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Ahmedbass,Ahmedbass Any other Road Beyond 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Akhnaka,Akhnaka Any other Road Beyond 100 Meters,agricultural,522.73,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Akhnaka,Akhnaka Any other Road up to Depth of 100 Meters,agricultural,568.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Akhnaka,Akhnaka Any other Road up to Depth of 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Alipurtighra,Alipur Tighra Any other Road Beyond 100 Meters,agricultural,495.87,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Alipurtighra,Alipur Tighra Any other Road Beyond 100 Meters,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Alipurtighra,Alipur Tighra Any other Road up to Depth of 100 Meters,agricultural,568.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Alipurtighra,Alipur Tighra Any other Road up to Depth of 100 Meters,residential,3000,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Alipurtighra,Alipur Tighra Any other Road up to Depth of 100 Meters,commercial,3300,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Alipurtighra,Alipur Tighra Any other Road Beyond 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Badopur,Badopur Any other Road Beyond 100 Meters,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Badopur,Badopur Any other Road up to Depth of 100 Meters,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Badopur,Badopur Any other Road up to Depth of 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Badopur,Badopur Any other Road up to Depth of 100 Meters,commercial,14520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Baghola,Baghola Any other Road Beyond 100 Meters,agricultural,363.64,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Baghola,Baghola Any other Road up to Depth of 100 Meters,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Baghola,Baghola Any other Road up to Depth of 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Baghola,Baghola Any other Road up to Depth of 100 Meters,commercial,14520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Baikhera,Baikhera Any other Road Beyond 100 Meters,agricultural,363.64,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Baikhera,Baikhera Any other Road Beyond 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Baikhera,Baikhera Any other Road Beyond 100 Meters,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Bairiyabass,Bairiyabass Any other Road Beyond 100 Meters,agricultural,363.64,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Bairiyabass,Bairiyabass Any other Road Beyond 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Bairiyabass,Bairiyabass Any other Road Beyond 100 Meters,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Bairiyabass,Bairiyabass Any other Road up to Depth of 100 Meters,agricultural,386.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Bairiyabass,Bairiyabass Any other Road up to Depth of 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Bairiyabass,Bairiyabass Any other Road up to Depth of 100 Meters,commercial,14520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Basaimeo,Basai Meo Any other Road Beyond 100 Meters,agricultural,1084.71,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Basaimeo,Basai Meo Any other Road up to Depth of 100 Meters,agricultural,681.82,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Basaimeo,Basai Meo Any other Road up to Depth of 100 Meters,residential,3150,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Behripur,Behripur Any other Road Beyond 100 Meters,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Behripur,Behripur Any other Road up to Depth of 100 Meters,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Behripur,Behripur Any other Road up to Depth of 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Bewan,Bewan Any other Road Beyond 100 Meters,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Bewan,Bewan Any other Road up to Depth of 100 Meters,residential,1914,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Bhakdoji,Bhakdoji Any other Road Beyond 100 Meters,agricultural,363.64,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Bhakdoji,Bhakdoji Any other Road Beyond 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Bhond,Bhond Any other Road Beyond 100 Meters,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Bhond,Bhond Any other Road Beyond 100 Meters,residential,1430,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Bhond,Bhond Any other Road up to Depth of 100 Meters,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Bilakpur,Bilakpur Any other Road up to Depth of 100 Meters,agricultural,568.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Bilakpur,Bilakpur Any other Road up to Depth of 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Bilakpur,Bilakpur Any other Road Beyond 100 Meters,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Chakrangala,Chakrangala Any other Road Beyond 100 Meters,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Chakrangala,Chakrangala Any other Road up to Depth of 100 Meters,agricultural,500.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Chakrangala,Chakrangala Any other Road up to Depth of 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Chakrangala,Chakrangala Any other Road up to Depth of 100 Meters,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Chakrangala,Chakrangala NH Road Beyond 200 Meters,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Chakrangala,Chakrangala NH Road up to Depth of 200 Meters,agricultural,1363.64,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Chakrangala,Chakrangala NH Road up to Depth of 200 Meters,residential,1430,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Chitora,Chitora Any other Road Beyond 100 Meters,agricultural,363.64,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Chitora,Chitora Any other Road up to Depth of 100 Meters,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Chitora,Chitora Any other Road up to Depth of 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Chitora,Chitora Any other Road up to Depth of 100 Meters,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,DhadoliKhurd,Dhadoli Khurd Any other Road Beyond 100 Meters,agricultural,363.64,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,DhadoliKhurd,Dhadoli Khurd Any other Road Beyond 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,DhadoliKhurd,Dhadoli Khurd Any other Road up to Depth of 100 Meters,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,DhadoliKhurd,Dhadoli Khurd Any other Road up to Depth of 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,DhadoliKhurd,Dhadoli Khurd Any other Road up to Depth of 100 Meters,commercial,14520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Dhamala,Dhamala NH Road Beyond 200 Meters,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Doha,Doha,agricultural,386.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Doha,Doha Any other Road Beyond 100 Meters,agricultural,386.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Doha,Doha NH Road Beyond 200 Meters,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Doha,Doha NH Road up to Depth of 200 Meters,agricultural,1363.64,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Dugri,Dugri Any other Road Beyond 100 Meters,agricultural,272.73,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Dugri,Dugri Any other Road Beyond 100 Meters,agricultural,363.64,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Dugri,Dugri Any other Road up to Depth of 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,FerozepurJhirka,Both side Chopra Bazar,commercial,44000,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,FerozepurJhirka,Bus Stand to Biwan Road both Side Beyond 50 Feet till 2 Acre,residential,18975,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,FerozepurJhirka,Bus Stand to Biwan Road Up to Depth of 50 Feet Both Side,commercial,33000,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,FerozepurJhirka,Chopra Bazar To Garh Gate,commercial,44000,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,FerozepurJhirka,Delhi Alwar Road in FP Jhirka both side Commercial up to Depth of 50 feet,commercial,50600,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,FerozepurJhirka,Delhi Alwar Road in FP Jhirka both side residential plot after 50 Feet till 2 Acre,residential,13200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,FerozepurJhirka,Delhi Alwar Road in FP Jhirka both side residential plot after 50 Feet till 2 Acre,commercial,18000,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,FerozepurJhirka,Garh Gate to Sr. Sec. School up to Depth of 50 Feet,commercial,16500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,FerozepurJhirka,Inside New Anaj Mandi,commercial,44000,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,FerozepurJhirka,Kabeer Mandir (Back Side),residential,11500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,FerozepurJhirka,"Lal Chowk to Chopra Bazar, Arya Samaj and Canara Bank",commercial,110000,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,FerozepurJhirka,M.Marg To Bus Stand,commercial,110000,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,FerozepurJhirka,Out side M.C. Agr. Land,agricultural,2169.42,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,FerozepurJhirka,Out side M.C. up to 1000 sq yard,residential,5500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,FerozepurJhirka,P.Puran to R.House Old Bypass Beyond 2Acre,residential,8800,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,FerozepurJhirka,Precure City Commercial,commercial,33000,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,FerozepurJhirka,Precure City Residential,residential,16500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,FerozepurJhirka,Res. Garh Ander Mohlla,residential,11000,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,FerozepurJhirka,Res. Garh Bahar Mohlla,residential,16500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,FerozepurJhirka,Res. Garh Bahar Mohlla,residential,20625,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,FerozepurJhirka,S.Bank to Bus Stand S.Marg up to Depth of 50 Feet,commercial,55000,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,FerozepurJhirka,S.Bank to Bus Stand S.Marg Beyond 50 Feet,residential,16500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,FerozepurJhirka,Tizara More to Jhir Band Both side Up to Depth of 50 feet,commercial,8800,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,FerozepurJhirka,With in M.C. Agr. Land,agricultural,3099.17,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,FerozepurJhirka,With in M.C. up to 1000 sq yard,residential,10500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,FerozepurJhirka,With in M.C. up to 1000 sq yard,residential,12075,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,FerozepurJhirka,With in MC 25 Sq Yards Garh Ander,commercial,22000,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,FerozepurJhirka,With in MC 25 Sq Yards Garh Bahar,commercial,27500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Ghatashamsabad,Ghata Shamsabad Any other Road Beyond 100 Meters,agricultural,1193.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Ghatashamsabad,Ghata Shamsabad Any other Road up to Depth of 100 Meters,agricultural,994.32,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Ghatashamsabad,Ghata Shamsabad Any other Road up to Depth of 100 Meters,residential,3150,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Ghatashamsabad,Ghata Shamsabad Any other Road up to Depth of 100 Meters,commercial,19800,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Hamjapur,Hamjapur Any other Road Beyond 100 Meters,agricultural,363.64,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Hamjapur,Hamjapur Any other Road up to Depth of 100 Meters,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Hamjapur,Hamjapur Any other Road up to Depth of 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Hamjapur,Hamjapur Any other Road up to Depth of 100 Meters,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,HasanpurBilonda,Hasanpur Bilonda Any other Road Beyond 100 Meters,agricultural,386.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,HasanpurBilonda,Hasanpur Bilonda Any other Road up to Depth of 100 Meters,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,HasanpurBilonda,Hasanpur Bilonda Any other Road up to Depth of 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,HasanpurBilonda,Hasanpur Bilonda Any other Road up to Depth of 100 Meters,commercial,14520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Hirwadibawantheri,Hirwadibawantheri Any other Road Beyond 100 Meters,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Hirwadibawantheri,Hirwadibawantheri Any other Road up to Depth of 100 Meters,agricultural,568.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Hirwadibawantheri,Hirwadibawantheri Any other Road up to Depth of 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Hirwadibawantheri,Hirwadibawantheri Any other Road up to Depth of 100 Meters,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Ibrahimbass,Ibrahimbass Any other Road Beyond 100 Meters,agricultural,363.64,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Ibrahimbass,Ibrahimbass Any other Road up to Depth of 100 Meters,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Ibrahimbass,Ibrahimbass Any other Road up to Depth of 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Ibrahimbass,Ibrahimbass Any other Road up to Depth of 100 Meters,commercial,14520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Ibrahimbass,Ibrahimbass Any other Road Beyond 100 Meters,agricultural,454.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Kamenda,Kamenda Any other Road up to Depth of 100 Meters,agricultural,568.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Kamenda,Kamenda Any other Road Beyond 100 Meters,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Kamenda,Kamenda Any other Road Beyond 100 Meters,commercial,3300,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,KhediaKalan,Khedia Kalan Any other Road up to Depth of 100 Meters,agricultural,386.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,KhediaKalan,Khedia Kalan Any other Road up to Depth of 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,KhediaKalan,Khedia Kalan Any other Road Beyond 100 Meters,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,KhediaKalan,Khedia Kalan Any other Road Beyond 100 Meters,commercial,14520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,KhediaKalan,Khedia Kalan Any other Road Beyond 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,KhediaKhurd,Khedia Khurd Any other Road up to Depth of 100 Meters,agricultural,386.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,KhediaKhurd,Khedia Khurd Any other Road up to Depth of 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,KhediaKhurd,Khedia Khurd Any other Road Beyond 100 Meters,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,KhediaKhurd,Khedia Khurd Any other Road Beyond 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,KhedliKhurd,Khedli Khurd NH Road Beyond 200 Meters,agricultural,386.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,KhedliKhurd,Khedli Khurd NH Road up to Depth of 200 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,KultajpurKhurd,Kultajpur Khurd Any other Road Beyond 100 Meters,agricultural,386.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,KultajpurKhurd,Kultajpur Khurd Any other Road Beyond 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,KultajpurKhurd,Kultajpur Khurd Any other Road up to Depth of 100 Meters,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,KultajpurKhurd,Kultajpur Khurd Any other Road up to Depth of 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Kolgaon,Kolgaon Any other Road Beyond 100 Meters,agricultural,386.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Kolgaon,Kolgaon Any other Road up to Depth of 100 Meters,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Kolgaon,Kolgaon Any other Road up to Depth of 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Kolgaon,Kolgaon Any other Road up to Depth of 100 Meters,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Maholi,Maholi NH Road Beyond 200 Meters,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Maholi,Maholi NH Road up to Depth of 200 Meters,agricultural,1363.64,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Maholi,Maholi NH Road up to Depth of 200 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Mahun,Mahun Any other Road Beyond 100 Meters,agricultural,386.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Mahun,Mahun Any other Road up to Depth of 100 Meters,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Mahun,Mahun Any other Road up to Depth of 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Mahun,Mahun Any other Road up to Depth of 100 Meters,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Mandapur,Mandapur Any other Road Beyond 100 Meters,agricultural,495.87,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Mandapur,Mandapur Any other Road Beyond 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Mandapur,Mandapur Any other Road up to Depth of 100 Meters,agricultural,386.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Mandapur,Mandapur Any other Road up to Depth of 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Mohd.bass,Mohammad Bass Any other Road Beyond 100 Meters,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Mohd.bass,Mohammad Bass Any other Road up to Depth of 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Mohd.bass,Mohammad Bass NH Road Beyond 200 Meters,agricultural,386.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Mohd.bass,Mohammad Bass NH Road up to Depth of 200 Meters,agricultural,1363.64,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Naharika,Naharika Any other Road Beyond 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Naharika,Naharika Any other Road Beyond 100 Meters,commercial,14520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Naharika,Naharika Any other Road Beyond 100 Meters,agricultural,386.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Naharika,Naharika Any other Road up to Depth of 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Naharika,Naharika Any other Road up to Depth of 100 Meters,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Nangali,Nangali Any other Road Beyond 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Nangali,Nangali Any other Road Beyond 100 Meters,agricultural,386.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Nangali,Nangali Any other Road up to Depth of 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Nangali,Nangali Any other Road up to Depth of 100 Meters,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Nasirbass,Nasirbass Any other Road Beyond 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Nasirbass,Nasirbass Any other Road Beyond 100 Meters,agricultural,504.91,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Nasirbass,Nasirbass Any other Road up to Depth of 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Nasirbass,Nasirbass Any other Road up to Depth of 100 Meters,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Nasirbass,Nasirbass NH Road Beyond 200 Meters,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Nasirbass,Nasirbass NH Road up to Depth of 200 Meters,agricultural,1363.64,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Nasirbass,Nasirbass NH Road up to Depth of 200 Meters,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Nasirbass,Nasirbass NH Road up to Depth of 200 Meters,commercial,14520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Nawli,Nawli NH Road up to Depth of 200 Meters,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Nawli,Nawli NH Road up to Depth of 200 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Nawli,Nawli NH Road Beyond 200 Meters,agricultural,1022.73,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Nawli,Nawli Any other Road up to Depth of 100 Meters,agricultural,1022.73,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Nawli,Nawli Any other Road up to Depth of 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Nawli,Nawli Any other Road Beyond 100 Meters,agricultural,1363.64,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,PadlaShahpuri,Padla Shahpuri Any other Road up to Depth of 100 Meters,agricultural,1363.64,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,PadlaShahpuri,Padla Shahpuri Any other Road up to Depth of 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,PadlaShahpuri,Padla Shahpuri Any other Road Beyond 100 Meters,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,PatanUdaypuri,Patan Udaypuri Any other Road Beyond 100 Meters,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,PatanUdaypuri,Patan Udaypuri Any other Road up to Depth of 100 Meters,agricultural,526.86,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,PatanUdaypuri,Patan Udaypuri Any other Road up to Depth of 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,PatanUdaypuri,Patan Udaypuri NH Road up to Depth of 200 Meters,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,PatanUdaypuri,Patan Udaypuri NH Road up to Depth of 200 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,PatanUdaypuri,Patan Udaypuri NH Road Beyond 200 Meters,agricultural,386.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,PatanUdaypuri,Patan Udaypuri NH Road Beyond 200 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Pathkhori,Pathkhori Any other Road up to Depth of 100 Meters,agricultural,1363.64,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Pathkhori,Pathkhori Any other Road up to Depth of 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Pathkhori,Pathkhori Any other Road Beyond 100 Meters,agricultural,363.64,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Pathkhori,Pathkhori Any other Road Beyond 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Pathkhori,Pathkhori Any other Road up to Depth of 100 Meters,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Pathkhori,Pathkhori Any other Road up to Depth of 100 Meters,commercial,14520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Pathrali,Pathrali Any other Road Beyond 100 Meters,agricultural,363.64,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Pathrali,Pathrali Any other Road up to Depth of 100 Meters,agricultural,363.64,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Pathrali,Pathrali Any other Road up to Depth of 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Pol,Pol Any other Road Beyond 100 Meters,commercial,14520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Pol,Pol NH Road Beyond 200 Meters,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Pol,Pol Any other Road Beyond 100 Meters,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Rajoli,Rajoli Any other Road Beyond 100 Meters,agricultural,363.64,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Rajoli,Rajoli Any other Road up to Depth of 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,RangalaRajpur,Rangala Rajpur Any other Road Beyond 100 Meters,agricultural,386.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,RangalaRajpur,Rangala Rajpur Any other Road up to Depth of 100 Meters,agricultural,477.27,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,RangalaRajpur,Rangala Rajpur Any other Road Beyond 100 Meters,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,RangalaRajpur,Rangala Rajpur NH Road Beyond 200 Meters,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,RangalaRajpur,Rangala Rajpur NH Road up to Depth of 200 Meters,agricultural,1363.64,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,RangalaRajpur,Rangala Rajpur NH Road up to Depth of 200 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,RangalaRajpur,Rangala Rajpur NH Road up to Depth of 200 Meters,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,RaniyalaFerozepur,Raniyala Ferozepur Any other Road Beyond 100 Meters,agricultural,386.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,RaniyalaFerozepur,Raniyala Ferozepur Any other Road up to Depth of 100 Meters,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,RaniyalaFerozepur,Raniyala Ferozepur Any other Road up to Depth of 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,RaniyalaFerozepur,Raniyala Ferozepur Any other Road up to Depth of 100 Meters,commercial,14520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Raniyali,Raniyali Any other Road Beyond 100 Meters,agricultural,386.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Raniyali,Raniyali Any other Road Beyond 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Rawa,Rawa Any other Road up to Depth of 100 Meters,agricultural,431.82,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Rawa,Rawa Any other Road up to Depth of 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Rawa,Rawa Any other Road Beyond 100 Meters,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Rawli,Rawli Any other Road up to Depth of 100 Meters,agricultural,431.82,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Rawli,Rawli Any other Road up to Depth of 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Rawli,Rawli Any other Road Beyond 100 Meters,agricultural,386.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Rawli,Rawli Any other Road Beyond 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Rawli,Rawli Any other Road up to Depth of 100 Meters,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Rawli,Rawli NH Road Beyond 200 Meters,agricultural,456.61,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Rawli,Rawli NH Road up to Depth of 200 Meters,agricultural,1363.64,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Rawli,Rawli NH Road up to Depth of 200 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Reegad,Reegad Any other Road Beyond 100 Meters,agricultural,477.27,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Reegad,Reegad Any other Road up to Depth of 100 Meters,agricultural,568.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Reegad,Reegad Any other Road up to Depth of 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Reegad,Reegad Any other Road up to Depth of 100 Meters,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Reegad,Reegad Any other Road Beyond 100 Meters,agricultural,386.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Sahabpur,Sahabpur Any other Road up to Depth of 100 Meters,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Sahabpur,Sahabpur Any other Road up to Depth of 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Sahabpur,Sahabpur Any other Road up to Depth of 100 Meters,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Sahabpur,Sahabpur Any other Road Beyond 100 Meters,agricultural,386.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Sahameerbass,Sahameer Bass Any other Road up to Depth of 100 Meters,commercial,14520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Sahameerbass,Sahameer Bass Any other Road up to Depth of 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Sahameerbass,Sahameer Bass Any other Road up to Depth of 100 Meters,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Sahameerbass,Sahameer Bass Any other Road Beyond 100 Meters,agricultural,386.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Sakras,Sakras Any other Road up to Depth of 100 Meters,commercial,14520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Sakras,Sakras Any other Road up to Depth of 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Sakras,Sakras Any other Road up to Depth of 100 Meters,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Sakras,Sakras Any other Road Beyond 100 Meters,agricultural,386.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Shakarpuri,Shakarpuri Any other Road up to Depth of 100 Meters,commercial,1540,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Shakarpuri,Shakarpuri Any other Road up to Depth of 100 Meters,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Shakarpuri,Shakarpuri Any other Road up to Depth of 100 Meters,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Shakarpuri,Shakarpuri Any other Road up to Depth of 100 Meters,agricultural,470.45,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Shakarpuri,Shakarpuri Any other Road Beyond 100 Meters,agricultural,386.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Shekhpur,Shekhpur Any other Road Beyond 100 Meters,agricultural,386.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Shekhpur,Shekhpur Any other Road up to Depth of 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Shekhpur,Shekhpur Any other Road up to Depth of 100 Meters,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Shekhpur,Shekhpur Any other Road up to Depth of 100 Meters,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Sidhrawat,Sidhrawat Any other Road Beyond 100 Meters,agricultural,477.27,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Sidhrawat,Sidhrawat Any other Road up to Depth of 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Sidhrawat,Sidhrawat Any other Road up to Depth of 100 Meters,commercial,14520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Solpur,Solpur Any other Road Beyond 100 Meters,agricultural,386.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Solpur,Solpur Any other Road up to Depth of 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Solpur,Solpur Any other Road up to Depth of 100 Meters,commercial,14520,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Solpur,Solpur NH Road Beyond 200 Meters,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Solpur,Solpur NH Road up to Depth of 200 Meters,agricultural,1363.64,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Sulela,Sulela Any other Road Beyond 100 Meters,agricultural,386.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Sulela,Sulela Any other Road up to Depth of 100 Meters,residential,1320,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Sulela,Sulela Any other Road up to Depth of 100 Meters,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Ferozepur Jhirka,Sulela,Sulela Any other Road up to Depth of 100 Meters,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification

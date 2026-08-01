@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query';
 import { motion } from 'framer-motion';
-import { AlertTriangle, Brain, BriefcaseBusiness, Building2, CheckCircle2, ChevronDown, ChevronUp, Mail, MapPinned, Route, ShieldCheck, Trophy, Zap, Pin, PanelRightClose, Search, Navigation } from 'lucide-react';
+import { AlertTriangle, Brain, Building2, CheckCircle2, ChevronDown, ChevronUp, Mail, MapPinned, Route, ShieldCheck, Trophy, Zap, Pin, PanelRightClose, Search } from 'lucide-react';
 import { EChartPanel } from '../analytics/EChartPanel';
 import {
   accessibilityContourOption,
@@ -14,7 +14,7 @@ import {
 import { ScoreGauge } from '../analytics/ScoreGauge';
 import { ScoreBreakdown } from '../analytics/ScoreBreakdown';
 import { MethodBadge } from '../components/MethodBadge';
-import { InvestorPipelineBoard } from '../components/InvestorPipelineBoard';
+import { InvestorPublicSection } from '../components/InvestorPublicSection';
 import { scoreLocation } from '../services/analysis';
 import { compareInvestorZones, downloadInvestorReport, downloadPortfolioReport, emailInvestorReport, getInvestorDistricts, getInvestorOpportunities, getInvestorZoneAnalysis } from '../services/investor';
 import { useDashboardStore } from '../stores/useDashboardStore';
@@ -105,13 +105,61 @@ function ScoreInsightsBlock({ analysis, loading }) {
       </div>
       <p className="mt-3 text-sm leading-7 text-ds-text-primary">{summary}</p>
 
-      {analysis.landValue?.estimatedPerSqYardInr ? (
-        <div className="mt-3 rounded-lg bg-ds-surface-sunken px-3 py-2 text-xs leading-5 text-ds-text-secondary">
-          <span className="font-semibold text-ds-text-primary">Land value estimate: </span>
-          ₹{analysis.landValue.estimatedPerSqYardInr.toLocaleString('en-IN')}/sq yd
-          {analysis.landValue.roiProxy != null ? ` · ROI proxy vs circle rate: ${(analysis.landValue.roiProxy * 100).toFixed(1)}%` : ''}
-          {' · '}
-          {analysis.landValue.method.replace(/_/g, ' ')}
+      {analysis.landValue?.estimatedPerSqYardInr || analysis.landValue?.circleRatePerSqYardInr ? (
+        <div className="mt-3 space-y-1.5 rounded-lg bg-ds-surface-sunken px-3 py-2 text-xs leading-5 text-ds-text-secondary">
+          <div>
+            <span className="font-semibold text-ds-text-primary">Land ₹: </span>
+            {analysis.landValue.estimatedPerSqYardInr
+              ? `₹${analysis.landValue.estimatedPerSqYardInr.toLocaleString('en-IN')}/sq yd est.`
+              : '—'}
+            {analysis.landValue.estimatedLowPerSqYardInr != null &&
+            analysis.landValue.estimatedHighPerSqYardInr != null &&
+            analysis.landValue.estimatedLowPerSqYardInr !== analysis.landValue.estimatedHighPerSqYardInr
+              ? ` (band ₹${analysis.landValue.estimatedLowPerSqYardInr.toLocaleString('en-IN')}–${analysis.landValue.estimatedHighPerSqYardInr.toLocaleString('en-IN')})`
+              : ''}
+            {analysis.landValue.confidence ? (
+              <span className="ml-1 text-[10px] uppercase tracking-wide text-ds-text-tertiary">
+                · {analysis.landValue.confidence} confidence
+              </span>
+            ) : null}
+          </div>
+          <div className="flex flex-wrap gap-x-3 gap-y-0.5 text-[11px]">
+            <span>
+              Gov floor:{' '}
+              {analysis.landValue.circleRatePerSqYardInr
+                ? `₹${analysis.landValue.circleRatePerSqYardInr.toLocaleString('en-IN')}/sq yd`
+                : '—'}
+              {analysis.landValue.circleRateSampleCount
+                ? ` (n=${analysis.landValue.circleRateSampleCount})`
+                : ''}
+              {analysis.landValue.circleRateTehsil
+                ? ` · ${analysis.landValue.circleRateTehsil}`
+                : ''}
+              {analysis.landValue.circleRateEffectiveFrom
+                ? ` · vintage ${analysis.landValue.circleRateEffectiveFrom}`
+                : ''}
+            </span>
+            <span>
+              Market:{' '}
+              {analysis.landValue.marketAvailable &&
+              (analysis.landValue.comparableWeightedPerSqYardInr ||
+                analysis.landValue.comparableMedianPerSqYardInr)
+                ? `₹${(analysis.landValue.comparableWeightedPerSqYardInr ?? analysis.landValue.comparableMedianPerSqYardInr).toLocaleString('en-IN')}/sq yd (n=${analysis.landValue.comparableSampleCount ?? analysis.landValue.comparableCount ?? 0})`
+                : 'No market comps yet'}
+            </span>
+          </div>
+          <div className="text-[10px] text-ds-text-tertiary">
+            {(analysis.landValue.method || '').replace(/_/g, ' ')}
+            {(analysis.landValue.marketPremiumVsFloor ?? analysis.landValue.roiProxy) != null &&
+            analysis.landValue.marketAvailable
+              ? ` · market premium vs floor: ${((analysis.landValue.marketPremiumVsFloor ?? analysis.landValue.roiProxy) * 100).toFixed(1)}%`
+              : ''}
+            {analysis.landValue.note ? ` · ${analysis.landValue.note}` : ''}
+          </div>
+        </div>
+      ) : analysis.landValue?.method === 'insufficient_data' ? (
+        <div className="mt-3 rounded-lg bg-ds-surface-sunken px-3 py-2 text-xs text-ds-text-tertiary">
+          No official collector rate for this district yet. Market comps unavailable.
         </div>
       ) : null}
 
@@ -161,19 +209,29 @@ function acres(value) {
 
 function SelectField({ label, value, onChange, options }) {
   return (
-    <label className="block">
+    <label className="block min-w-0">
       <span className="mb-1 block text-[10px] font-semibold uppercase tracking-[0.14em] text-ds-text-secondary">{label}</span>
-      <select
-        value={value}
-        onChange={(event) => onChange(event.target.value)}
-        className="h-9 w-full rounded-lg border border-ds-border-subtle bg-ds-surface-sunken px-2 text-xs font-semibold text-ds-text-primary outline-none transition focus:border-ds-accent"
-      >
-        {options.map((option) => (
-          <option key={option.value} value={option.value} className="bg-ds-surface-raised text-ds-text-primary">
-            {option.label}
-          </option>
-        ))}
-      </select>
+      <div className="relative min-w-0">
+        <select
+          value={value}
+          onChange={(event) => onChange(event.target.value)}
+          className="h-9 w-full min-w-0 appearance-none truncate rounded-lg border border-ds-border-subtle bg-ds-surface-sunken py-0 pl-2.5 pr-8 text-xs font-semibold text-ds-text-primary outline-none transition focus:border-ds-accent"
+        >
+          {options.map((option) => (
+            <option key={option.value} value={option.value} className="bg-ds-surface-raised text-ds-text-primary">
+              {option.label}
+            </option>
+          ))}
+        </select>
+        <span
+          aria-hidden
+          className="pointer-events-none absolute inset-y-0 right-0 flex w-8 items-center justify-center text-ds-text-tertiary"
+        >
+          <svg width="12" height="12" viewBox="0 0 12 12" fill="none">
+            <path d="M3 4.5L6 7.5L9 4.5" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
+          </svg>
+        </span>
+      </div>
     </label>
   );
 }
@@ -186,7 +244,16 @@ export function IntelligencePanel({ collapsed }) {
     zoneType: '',
     district: '',
     nearMe: false,
+    nearRadiusKm: 25,
+    landData: '',
+    sourceLayer: '',
+    utilityMin: '',
+    availability: '',
+    minScore: '',
+    maxRatePerSqYard: '',
+    maxLandCr: '',
   });
+  const [investorReady, setInvestorReady] = useState(false);
   const [expandedZoneId, setExpandedZoneId] = useState(null);
   const [saveSearchName, setSaveSearchName] = useState('');
   const [saveSearchMsg, setSaveSearchMsg] = useState('');
@@ -300,6 +367,7 @@ export function IntelligencePanel({ collapsed }) {
         nearLat: investorFilters.nearMe ? selectedLocation.lat : null,
         nearLng: investorFilters.nearMe ? selectedLocation.lng : null,
       }),
+    enabled: investorReady && activeTab === 'investor',
     staleTime: 1000 * 60 * 10,
     retry: 1,
   });
@@ -1055,468 +1123,85 @@ export function IntelligencePanel({ collapsed }) {
 
         {activeTab === 'investor' && (
           <>
-            <section className="rounded-lg border border-ds-border-subtle bg-ds-surface-raised p-4">
-              <div className="flex items-center justify-between gap-3">
-                <div>
-                  <div className="flex items-center gap-2 text-[11px] font-semibold uppercase tracking-[0.16em] text-ds-text-secondary">
-                    <BriefcaseBusiness size={15} className="text-ds-warning" /> Investor opportunities
-                  </div>
-                  <div className="mt-1 text-xs text-ds-text-secondary">
-                    Rank investment zones by sector, budget, and risk. Top results show as{' '}
-                    <span className="font-semibold text-ds-accent">shaded zones</span> on the map.
-                  </div>
-                </div>
-                <div className="rounded-lg border border-ds-warning/30 bg-ds-warning-subtle px-2 py-1 text-[11px] font-bold text-ds-warning">
-                  {opportunitiesQuery.data?.count ?? 0}
-                </div>
-              </div>
-
-              {(opportunitiesQuery.data?.mapHighlights || []).length > 0 ? (
-                <div className="mt-3 rounded-lg border border-ds-accent/25 bg-ds-accent-subtle px-3 py-2 text-[11px] leading-5 text-ds-accent-text">
-                  <strong>Map guide:</strong> colored outlines = top {opportunitiesQuery.data.mapHighlights.length} investment zones.
-                  Label shows rank + score (e.g. #1 · 72). Click any row below to fly to that zone.
-                </div>
-              ) : null}
-
-              <div className="mt-3 grid grid-cols-2 gap-2">
-                <SelectField
-                  label="Sector"
-                  value={investorFilters.sector}
-                  onChange={(value) => updateFilter('sector', value)}
-                  options={[
-                    { value: 'industrial', label: 'Industrial' },
-                    { value: 'commercial', label: 'Commercial' },
-                    { value: 'residential', label: 'Residential' },
-                    { value: 'agricultural', label: 'Agricultural' },
-                  ]}
-                />
-                <SelectField
-                  label="Risk"
-                  value={investorFilters.risk}
-                  onChange={(value) => updateFilter('risk', value)}
-                  options={[
-                    { value: 'low', label: 'Low' },
-                    { value: 'medium', label: 'Medium' },
-                    { value: 'high', label: 'High' },
-                  ]}
-                />
-                <SelectField
-                  label="Budget (₹)"
-                  value={investorFilters.budget}
-                  onChange={(value) => updateFilter('budget', value)}
-                  options={[
-                    { value: '', label: 'Any' },
-                    { value: 'low', label: 'Low (< ₹5 cr)' },
-                    { value: 'medium', label: 'Medium (₹5–25 cr)' },
-                    { value: 'high', label: 'High (> ₹25 cr)' },
-                  ]}
-                />
-                <SelectField
-                  label="Zone type"
-                  value={investorFilters.zoneType}
-                  onChange={(value) => updateFilter('zoneType', value)}
-                  options={[
-                    { value: '', label: 'Any' },
-                    { value: 'government', label: 'Government' },
-                    { value: 'private', label: 'Private' },
-                    { value: 'cooperative', label: 'Cooperative' },
-                  ]}
-                />
-                <SelectField
-                  label="District"
-                  value={investorFilters.district}
-                  onChange={(value) => updateFilter('district', value)}
-                  options={districtOptions}
-                />
-                <label className="flex flex-col gap-1 text-[10px] font-semibold uppercase tracking-[0.14em] text-ds-text-secondary">
-                  Near map center
-                  <button
-                    type="button"
-                    onClick={() => updateFilter('nearMe', !investorFilters.nearMe)}
-                    className={`flex h-9 items-center justify-center gap-1 rounded-lg border px-2 text-xs font-semibold transition ${
-                      investorFilters.nearMe
-                        ? 'border-ds-accent bg-ds-accent-subtle text-ds-accent'
-                        : 'border-ds-border-subtle bg-ds-surface-sunken text-ds-text-secondary'
-                    }`}
-                  >
-                    <Navigation size={13} />
-                    {investorFilters.nearMe ? 'Within 25 km' : 'Off'}
-                  </button>
-                </label>
-              </div>
-
-              <div className="mt-3 flex gap-2">
-                <input
-                  type="text"
-                  value={saveSearchName}
-                  onChange={(e) => setSaveSearchName(e.target.value)}
-                  placeholder="Name this filter set…"
-                  className="h-9 min-w-0 flex-1 rounded-lg border border-ds-border-subtle bg-ds-surface-sunken px-2 text-xs text-ds-text-primary outline-none focus:border-ds-accent"
-                />
-                <button
-                  type="button"
-                  onClick={handleSaveInvestorSearch}
-                  className="flex h-9 shrink-0 items-center gap-1 rounded-lg border border-ds-border-subtle bg-ds-surface-sunken px-3 text-xs font-semibold text-ds-text-primary hover:border-ds-accent"
-                >
-                  <Search size={13} /> Save
-                </button>
-              </div>
-              {saveSearchMsg ? <div className="mt-2 text-xs text-ds-text-secondary">{saveSearchMsg}</div> : null}
-
-              {(savedSearchesQuery.data || []).length ? (
-                <div className="mt-2">
-                  <SelectField
-                    label="Load saved search"
-                    value=""
-                    onChange={(id) => {
-                      const search = (savedSearchesQuery.data || []).find((s) => s.id === id);
-                      if (search?.filters) handleLoadSavedSearch(search.filters);
-                    }}
-                    options={[
-                      { value: '', label: 'Choose…' },
-                      ...(savedSearchesQuery.data || []).map((s) => ({ value: s.id, label: s.name })),
-                    ]}
-                  />
-                </div>
-              ) : null}
-
-              <div className="mt-3 flex flex-wrap gap-2">
-                <button type="button" onClick={handleBulkExportCsv} className="h-8 rounded-lg border border-ds-border-subtle bg-ds-surface-sunken px-3 text-[11px] font-semibold text-ds-text-primary hover:border-ds-accent">
-                  Bulk export CSV
-                </button>
-                <input
-                  type="text"
-                  value={portfolioName}
-                  onChange={(e) => setPortfolioName(e.target.value)}
-                  placeholder="Portfolio name…"
-                  className="h-8 min-w-[120px] flex-1 rounded-lg border border-ds-border-subtle bg-ds-surface-sunken px-2 text-[11px] text-ds-text-primary"
-                />
-                <button type="button" onClick={handleSavePortfolio} className="h-8 rounded-lg border border-ds-border-subtle bg-ds-surface-sunken px-3 text-[11px] font-semibold hover:border-ds-accent">
-                  Save portfolio
-                </button>
-              </div>
-              {portfolioMsg ? <div className="mt-1 text-xs text-ds-text-secondary">{portfolioMsg}</div> : null}
-
-              <div className="mt-2 flex gap-2">
-                <SelectField
-                  label="Alert for saved search"
-                  value={selectedSavedSearchId}
-                  onChange={setSelectedSavedSearchId}
-                  options={[
-                    { value: '', label: 'Current filters only' },
-                    ...(savedSearchesQuery.data || []).map((s) => ({ value: s.id, label: s.name })),
-                  ]}
-                />
-              </div>
-              <div className="mt-2 flex gap-2">
-                <input
-                  type="email"
-                  value={alertEmail}
-                  onChange={(e) => setAlertEmail(e.target.value)}
-                  placeholder="Alert email (score Δ > 5)…"
-                  className="h-8 min-w-0 flex-1 rounded-lg border border-ds-border-subtle bg-ds-surface-sunken px-2 text-[11px]"
-                />
-                <button type="button" onClick={handleSubscribeAlert} className="h-8 shrink-0 rounded-lg border border-ds-border-subtle px-3 text-[11px] font-semibold hover:border-ds-accent">
-                  Alert me
-                </button>
-              </div>
-              {alertMsg ? <div className="mt-1 text-xs text-ds-text-secondary">{alertMsg}</div> : null}
-
-              <div className="mt-3">
-                <InvestorPipelineBoard
-                  stages={pipelineQuery.data?.stages || ['discovered', 'shortlisted', 'due_diligence', 'negotiation', 'closed', 'passed']}
-                  items={pipelineQuery.data?.items || []}
-                  opportunities={opportunitiesQuery.data?.opportunities || []}
-                  onRefresh={() => queryClient.invalidateQueries({ queryKey: ['portal-pipeline'] })}
-                  onFlyToZone={(zone) =>
-                    flyTo({
-                      lng: zone.center.lng,
-                      lat: zone.center.lat,
-                      zoom: 13,
-                      name: zone.name,
-                      type: zone.type,
-                      feature: {
-                        tableId: zone.tableId,
-                        investorZoneId: zone.id,
-                        featureId: zone.featureId,
-                        name: zone.name,
-                        geometry: zone.geometry,
-                        center: zone.center,
-                      },
-                    })
-                  }
-                />
-              </div>
-
-              {(portfoliosQuery.data || []).length ? (
-                <div className="mt-3 rounded-lg border border-ds-border-subtle bg-ds-surface-sunken p-3">
-                  <div className="text-[10px] font-semibold uppercase tracking-wide text-ds-text-tertiary">Saved portfolios</div>
-                  <div className="mt-2 space-y-2">
-                    {(portfoliosQuery.data || []).map((p) => (
-                      <div key={p.id} className="flex flex-wrap items-center gap-2 rounded-md bg-ds-surface-raised p-2 text-[11px]">
-                        <span className="font-semibold text-ds-text-primary">{p.name}</span>
-                        <span className="text-ds-text-secondary">{p.zoneIds?.length || 0} zones</span>
-                        {p.shareToken ? (
-                          <button
-                            type="button"
-                            onClick={() => navigator.clipboard.writeText(`${window.location.origin}/portfolio/${p.shareToken}`)}
-                            className="rounded border border-ds-border-subtle px-2 py-0.5 hover:border-ds-accent"
-                          >
-                            Copy share link
-                          </button>
-                        ) : null}
-                        <button type="button" onClick={() => handlePortfolioPdf(p)} className="rounded border border-ds-border-subtle px-2 py-0.5 hover:border-ds-accent">
-                          PDF
-                        </button>
-                        <button
-                          type="button"
-                          onClick={async () => {
-                            await deletePortfolio(p.id);
-                            queryClient.invalidateQueries({ queryKey: ['portal-portfolios'] });
-                          }}
-                          className="text-ds-danger"
-                        >
-                          Delete
-                        </button>
-                      </div>
-                    ))}
-                  </div>
-                </div>
-              ) : null}
-
-              {(alertsQuery.data || []).length ? (
-                <div className="mt-3 rounded-lg border border-ds-border-subtle bg-ds-surface-sunken p-3">
-                  <div className="text-[10px] font-semibold uppercase tracking-wide text-ds-text-tertiary">Active alerts</div>
-                  <div className="mt-2 space-y-1 text-[11px] text-ds-text-secondary">
-                    {(alertsQuery.data || []).map((a) => (
-                      <div key={a.id} className="flex items-center justify-between gap-2">
-                        <span>{a.email} · {a.searchName || 'custom filters'}</span>
-                        <button type="button" onClick={async () => { await deleteSearchAlert(a.id); queryClient.invalidateQueries({ queryKey: ['portal-search-alerts'] }); }} className="text-ds-danger">Remove</button>
-                      </div>
-                    ))}
-                  </div>
-                </div>
-              ) : null}
-
-              {opportunitiesQuery.isError ? (
-                <div className="mt-3 rounded-lg border border-ds-danger/40 bg-ds-danger-subtle p-3 text-xs text-ds-danger">
-                  {opportunitiesQuery.error.message}
-                </div>
-              ) : null}
-
-              <div className="mt-3 space-y-2">
-                {opportunitiesQuery.isLoading ? (
-                  <div className="rounded-lg bg-ds-surface-sunken px-3 py-3 text-sm text-ds-text-secondary">Ranking local investment zones…</div>
-                ) : null}
-
-                {(opportunitiesQuery.data?.opportunities || []).map((zone, index) => (
-                  <div
-                    key={zone.id}
-                    className="rounded-lg border border-ds-border-subtle bg-ds-surface-sunken px-3 py-3 transition hover:border-ds-accent hover:bg-ds-accent-subtle"
-                  >
-                    <button
-                      type="button"
-                      onClick={() =>
-                        flyTo({
-                          lng: zone.center.lng,
-                          lat: zone.center.lat,
-                          zoom: 13,
-                          name: zone.name,
-                          type: zone.type,
-                          feature: {
-                            tableId: zone.tableId,
-                            layerId: 'industrial-investment',
-                            investorZoneId: zone.id,
-                            featureId: zone.featureId,
-                            name: zone.name,
-                            type: zone.type,
-                            geometry: zone.geometry,
-                            center: zone.center,
-                            properties: zone.properties,
-                          },
-                        })
-                      }
-                      className="w-full text-left"
-                    >
-                      <div className="flex items-start justify-between gap-3">
-                        <div className="min-w-0">
-                          <div className="flex items-center gap-2">
-                            <Trophy size={14} className={index === 0 ? 'text-ds-warning' : 'text-ds-text-secondary'} />
-                            <div className="truncate text-sm font-bold text-ds-text-primary">{zone.name}</div>
-                            {index < 5 ? (
-                              <span className="shrink-0 rounded bg-ds-accent-subtle px-1.5 py-0.5 text-[10px] font-bold text-ds-accent">
-                                Map zone #{index + 1}
-                              </span>
-                            ) : null}
-                            {zone.verdict ? (
-                              <span className="shrink-0 rounded bg-ds-surface-raised px-1.5 py-0.5 text-[10px] font-bold uppercase text-ds-text-secondary">
-                                {zone.verdict}
-                              </span>
-                            ) : null}
-                          </div>
-                          <div className="mt-1 truncate text-xs text-ds-text-secondary">
-                            {zone.district} · {zone.type} · {acres(zone.areaAcres)}
-                            {zone.distanceKm != null ? ` · ${zone.distanceKm} km` : ''}
-                          </div>
-                          <div className="mt-1 flex flex-wrap gap-1 text-[10px]">
-                            <span className="rounded bg-ds-surface-raised px-1.5 py-0.5 text-ds-text-tertiary">
-                              {zone.availability?.label || 'Availability unknown'}
-                            </span>
-                            {zone.landCostBand?.lowPerSqYard ? (
-                              <span className="rounded bg-ds-surface-raised px-1.5 py-0.5 text-ds-text-secondary">
-                                ₹{zone.landCostBand.lowPerSqYard.toLocaleString('en-IN')}
-                                {zone.landCostBand.highPerSqYard ? `–${zone.landCostBand.highPerSqYard.toLocaleString('en-IN')}` : ''}/sq yd
-                              </span>
-                            ) : null}
-                          </div>
-                          {zone.keyRisk ? (
-                            <div className="mt-1 text-[10px] text-ds-warning">Key risk: {zone.keyRisk}</div>
-                          ) : null}
-                          {zone.benchmark?.message ? (
-                            <div className="mt-1 text-[10px] text-ds-text-tertiary">{zone.benchmark.message}</div>
-                          ) : null}
-                        </div>
-                        <div className="shrink-0 rounded-lg bg-ds-warning-subtle px-2 py-1 text-sm font-black text-ds-warning">
-                          {zone.opportunityScore}
-                        </div>
-                      </div>
-                      <div className="mt-1 flex flex-wrap gap-1">
-                        {zone.mlScore != null ? (
-                          <MethodBadge
-                            method={zone.mlAdjusted ? 'ml' : 'heuristic'}
-                            modelVersion={zone.mlModelVersion}
-                            fallback={zone.mlMethod === 'unavailable'}
-                          />
-                        ) : null}
-                        {zone.formulaRank != null && zone.mlRank != null && zone.formulaRank !== zone.mlRank ? (
-                          <span className="rounded bg-ds-surface-raised px-1.5 py-0.5 text-[10px] text-ds-accent">
-                            List #{zone.formulaRank} · AI #{zone.mlRank}
-                          </span>
-                        ) : null}
-                      </div>
-                      <div className="mt-2 grid grid-cols-3 gap-2 text-[11px] text-ds-text-secondary">
-                        <span>Infra {zone.components?.infrastructure ?? '—'}</span>
-                        <span>Access {zone.components?.accessibility ?? '—'}</span>
-                        <span>Fit {zone.components?.zoneTypeMatch ?? '—'}</span>
-                      </div>
-                      {zone.components?.estimatedLandCostInr ? (
-                        <div className="mt-1 text-[11px] text-ds-text-secondary">
-                          Est. land {formatInr(zone.components.estimatedLandCostInr)}
-                        </div>
-                      ) : null}
-                    </button>
-                    <div className="mt-3 flex flex-wrap items-center justify-between gap-2">
-                      <button
-                        type="button"
-                        onClick={() => setExpandedZoneId((current) => (current === zone.id ? null : zone.id))}
-                        className="flex items-center gap-1 text-[11px] font-semibold text-ds-accent"
-                      >
-                        {expandedZoneId === zone.id ? <ChevronUp size={13} /> : <ChevronDown size={13} />}
-                        Why this rank
-                      </button>
-                      <div className="flex gap-2">
-                        <button
-                          type="button"
-                          onClick={() => handleAddToPipeline(zone.id)}
-                          className="rounded-md border border-ds-border-subtle bg-ds-surface-raised px-2 py-1 text-[11px] font-bold text-ds-text-secondary hover:border-ds-accent"
-                        >
-                          + Pipeline
-                        </button>
-                        <button
-                          type="button"
-                          onClick={() => handleDeepAnalysis(zone)}
-                          className="rounded-md border border-ds-border-subtle bg-ds-surface-raised px-2 py-1 text-[11px] font-bold text-ds-text-secondary hover:border-ds-accent"
-                        >
-                          Deep analysis
-                        </button>
-                        <button
-                          type="button"
-                          onClick={() => toggleCompare(zone.id)}
-                          className={`rounded-md border px-2 py-1 text-[11px] font-bold ${
-                            compareIds.includes(zone.id)
-                              ? 'border-ds-success bg-ds-success-subtle text-ds-success'
-                              : 'border-ds-border-subtle bg-ds-surface-raised text-ds-text-secondary'
-                          }`}
-                        >
-                          Compare
-                        </button>
-                      </div>
-                    </div>
-                        {expandedZoneId === zone.id && (zone.explain?.length || zone.components) ? (
-                      <div className="mt-2 space-y-2">
-                        <ul className="space-y-1 rounded-lg bg-ds-surface-raised px-3 py-2 text-[11px] leading-5 text-ds-text-secondary">
-                          {(zone.explain || [])
-                            .map((line) =>
-                              String(line)
-                                .replace(/\bPostGIS\b/gi, '')
-                                .replace(/\bv3\b/gi, '')
-                                .replace(/\s{2,}/g, ' ')
-                                .trim()
-                            )
-                            .filter(Boolean)
-                            .map((line) => (
-                            <li key={line}>{line}</li>
-                          ))}
-                        </ul>
-                        {zone.opportunityBreakdown?.length ? (
-                          <div className="rounded-lg border border-ds-border-subtle bg-ds-surface-raised p-2">
-                            <div className="mb-2 text-[10px] font-semibold uppercase tracking-wide text-ds-text-tertiary">Score drivers</div>
-                            {zone.opportunityBreakdown.map((row) => (
-                              <div key={row.key} className="mb-1 flex items-center gap-2 text-[10px]">
-                                <span className="w-28 truncate text-ds-text-secondary">{row.label}</span>
-                                <div className="h-1.5 flex-1 rounded bg-ds-surface-sunken">
-                                  <div className="h-full rounded bg-ds-warning" style={{ width: `${Math.min(100, row.score)}%` }} />
-                                </div>
-                                <span className="w-8 text-right text-ds-text-primary">{row.score}</span>
-                              </div>
-                            ))}
-                          </div>
-                        ) : null}
-                        {zone.scoreBreakdown?.length ? (
-                          <ScoreBreakdown breakdown={zone.scoreBreakdown} />
-                        ) : null}
-                        {zone.financialPreview?.totalCapexInr ? (
-                          <div className="rounded-lg border border-ds-border-subtle bg-ds-surface-raised p-2 text-[11px]">
-                            <div className="font-semibold uppercase tracking-wide text-ds-text-tertiary">Financial preview</div>
-                            <div className="mt-1 text-ds-text-secondary">
-                              Land {formatInr(zone.financialPreview.landCostInr)} · Build {formatInr(zone.financialPreview.buildCostInr)} · Total {formatInr(zone.financialPreview.totalCapexInr)}
-                            </div>
-                            <div className="mt-1 text-ds-text-secondary">
-                              ROI: {zone.financialPreview.scenarios?.map((s) => `${s.label} ${s.roiPct ?? '—'}%`).join(' · ')}
-                            </div>
-                          </div>
-                        ) : null}
-                        {zone.plotInventory?.plots?.length ? (
-                          <div className="rounded-lg border border-ds-border-subtle bg-ds-surface-raised p-2 text-[11px]">
-                            <div className="font-semibold uppercase tracking-wide text-ds-text-tertiary">Plot inventory ({zone.plotInventory.count})</div>
-                            <ul className="mt-1 max-h-24 space-y-1 overflow-y-auto text-ds-text-secondary">
-                              {zone.plotInventory.plots.slice(0, 8).map((p) => (
-                                <li key={p.id}>{p.name} · {p.statusLabel || p.status}</li>
-                              ))}
-                            </ul>
-                          </div>
-                        ) : null}
-                        {zone.regulatoryChecklist?.length ? (
-                          <div className="rounded-lg border border-ds-border-subtle bg-ds-surface-raised p-2 text-[11px]">
-                            <div className="font-semibold uppercase tracking-wide text-ds-text-tertiary">Regulatory checklist</div>
-                            <ul className="mt-1 space-y-1 text-ds-text-secondary">
-                              {zone.regulatoryChecklist.map((item) => (
-                                <li key={item.id}>{item.label}: {item.status}</li>
-                              ))}
-                            </ul>
-                          </div>
-                        ) : null}
-                      </div>
-                    ) : null}
-                  </div>
-                ))}
-              </div>
+            <InvestorPublicSection
+              filters={investorFilters}
+              updateFilter={updateFilter}
+              setFilters={setInvestorFilters}
+              districtOptions={districtOptions}
+              opportunities={opportunitiesQuery.data?.opportunities || []}
+              count={opportunitiesQuery.data?.count ?? 0}
+              loading={opportunitiesQuery.isLoading}
+              error={opportunitiesQuery.isError ? opportunitiesQuery.error.message : ''}
+              mapHighlightCount={(opportunitiesQuery.data?.mapHighlights || []).length}
+              selectedLocation={selectedLocation}
+              expandedZoneId={expandedZoneId}
+              setExpandedZoneId={setExpandedZoneId}
+              compareIds={compareIds}
+              onFlyToZone={(zone) =>
+                flyTo({
+                  lng: zone.center.lng,
+                  lat: zone.center.lat,
+                  zoom: 13,
+                  name: zone.name,
+                  type: zone.type,
+                  feature: {
+                    tableId: zone.tableId,
+                    layerId: 'industrial-investment',
+                    investorZoneId: zone.id,
+                    featureId: zone.featureId,
+                    name: zone.name,
+                    type: zone.type,
+                    geometry: zone.geometry,
+                    center: zone.center,
+                    properties: zone.properties,
+                  },
+                })
+              }
+              onDeepAnalysis={handleDeepAnalysis}
+              onToggleCompare={toggleCompare}
+              onAddToPipeline={handleAddToPipeline}
+              onSaveSearch={handleSaveInvestorSearch}
+              saveSearchName={saveSearchName}
+              setSaveSearchName={setSaveSearchName}
+              saveSearchMsg={saveSearchMsg}
+              savedSearches={savedSearchesQuery.data || []}
+              onLoadSavedSearch={(filters) => {
+                handleLoadSavedSearch(filters);
+                setInvestorReady(true);
+              }}
+              onBulkExport={handleBulkExportCsv}
+              portfolioName={portfolioName}
+              setPortfolioName={setPortfolioName}
+              onSavePortfolio={handleSavePortfolio}
+              portfolioMsg={portfolioMsg}
+              portfolios={portfoliosQuery.data || []}
+              onPortfolioPdf={handlePortfolioPdf}
+              onDeletePortfolio={async (id) => {
+                await deletePortfolio(id);
+                queryClient.invalidateQueries({ queryKey: ['portal-portfolios'] });
+              }}
+              alertEmail={alertEmail}
+              setAlertEmail={setAlertEmail}
+              onSubscribeAlert={handleSubscribeAlert}
+              alertMsg={alertMsg}
+              selectedSavedSearchId={selectedSavedSearchId}
+              setSelectedSavedSearchId={setSelectedSavedSearchId}
+              alerts={alertsQuery.data || []}
+              onDeleteAlert={async (id) => {
+                await deleteSearchAlert(id);
+                queryClient.invalidateQueries({ queryKey: ['portal-search-alerts'] });
+              }}
+              pipelineStages={pipelineQuery.data?.stages}
+              pipelineItems={pipelineQuery.data?.items || []}
+              onRefreshPipeline={() => queryClient.invalidateQueries({ queryKey: ['portal-pipeline'] })}
+              onSearchReady={() => setInvestorReady(true)}
+            />
 
               {compareIds.length ? (
                 <div className="mt-3 rounded-lg border border-ds-border-subtle bg-ds-surface-sunken p-3">
                   <div className="flex items-center justify-between gap-3">
                     <div className="text-[11px] font-semibold uppercase tracking-[0.14em] text-ds-text-secondary">
-                      Compare matrix · {compareIds.length}/4
+                      Compare · {compareIds.length}/4
                     </div>
                     <button type="button" onClick={() => setCompareIds([])} className="text-[11px] font-semibold text-ds-text-secondary hover:text-ds-text-primary">
                       Clear
@@ -1526,60 +1211,33 @@ export function IntelligencePanel({ collapsed }) {
                   {comparisonQuery.isLoading ? <div className="mt-2 text-xs text-ds-text-secondary">Building comparison…</div> : null}
                   {comparisonQuery.isError ? <div className="mt-2 text-xs text-ds-danger">{comparisonQuery.error.message}</div> : null}
                   {comparisonQuery.data?.matrix?.length ? (
-                    <div className="mt-2 space-y-3">
-                      <div className="overflow-x-auto">
-                        <table className="w-full min-w-[720px] text-left text-[10px]">
-                          <thead>
-                            <tr className="text-ds-text-tertiary">
-                              <th className="pb-2 pr-2 font-semibold">Zone</th>
-                              <th className="pb-2 px-1 font-semibold">Opp</th>
-                              <th className="pb-2 px-1 font-semibold">Land ₹/sq yd</th>
-                              <th className="pb-2 px-1 font-semibold">Env</th>
-                              <th className="pb-2 px-1 font-semibold">CLU</th>
-                              <th className="pb-2 px-1 font-semibold">Area</th>
-                              <th className="pb-2 px-1 font-semibold">Dist.</th>
-                              <th className="pb-2 px-1 font-semibold">Utility</th>
-                              <th className="pb-2 px-1 font-semibold">Risk</th>
+                    <div className="mt-2 overflow-x-auto">
+                      <table className="w-full min-w-[640px] text-left text-[10px]">
+                        <thead>
+                          <tr className="text-ds-text-tertiary">
+                            <th className="pb-2 pr-2 font-semibold">Zone</th>
+                            <th className="pb-2 px-1 font-semibold">Match</th>
+                            <th className="pb-2 px-1 font-semibold">Official ₹/sq yd</th>
+                            <th className="pb-2 px-1 font-semibold">Env</th>
+                            <th className="pb-2 px-1 font-semibold">Utility</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                          {comparisonQuery.data.matrix.map((row) => (
+                            <tr key={row.id} className="border-t border-ds-border-subtle text-ds-text-secondary">
+                              <td className="py-2 pr-2 font-semibold text-ds-text-primary">{row.name}</td>
+                              <td className="px-1 py-2">{row.opportunityScore ?? '—'}</td>
+                              <td className="px-1 py-2">{row.landPerSqYard ? Number(row.landPerSqYard).toLocaleString('en-IN') : '—'}</td>
+                              <td className="px-1 py-2">{row.environmentalSuitability ?? '—'}</td>
+                              <td className="px-1 py-2">{row.utilityReadiness || row.utilityScore || '—'}</td>
                             </tr>
-                          </thead>
-                          <tbody>
-                            {comparisonQuery.data.matrix.map((row) => (
-                              <tr key={row.id} className="border-t border-ds-border-subtle text-ds-text-secondary">
-                                <td className="max-w-[120px] truncate py-2 pr-2 font-semibold text-ds-text-primary">{row.name}</td>
-                                <td className="px-1 py-2 font-bold text-ds-warning">{row.opportunityScore}</td>
-                                <td className="px-1 py-2">{row.landPerSqYard ? formatInr(row.landPerSqYard) : '—'}</td>
-                                <td className="px-1 py-2">{row.environmentalSuitability ?? '—'}</td>
-                                <td className="px-1 py-2">{row.cluScore ?? '—'} <span className="text-ds-text-tertiary">({row.cluLabel || '—'})</span></td>
-                                <td className="px-1 py-2">{row.areaAcres ? acres(row.areaAcres) : '—'}</td>
-                                <td className="px-1 py-2">{row.distanceKm != null ? `${row.distanceKm} km` : '—'}</td>
-                                <td className="px-1 py-2">{row.utilityReadiness || row.utilityScore || '—'}</td>
-                                <td className="max-w-[100px] truncate px-1 py-2">{row.keyRisk || '—'}</td>
-                              </tr>
-                            ))}
-                          </tbody>
-                        </table>
-                      </div>
-                      <div className="rounded-lg border border-ds-border-subtle bg-ds-surface-raised p-3">
-                        <div className="mb-2 text-[10px] font-semibold uppercase tracking-wide text-ds-text-tertiary">Side-by-side comparison</div>
-                        <EChartPanel
-                          option={zoneComparisonRadarOption(
-                            comparisonQuery.data.matrix.map((row) => ({
-                              name: row.name,
-                              analysis: { scores: row.analysis?.scores || {
-                                infrastructure: row.infrastructure,
-                                accessibility: row.accessibility,
-                                environmentalRisk: row.environmentalSuitability,
-                                zoneCompatibility: row.zoneFit,
-                              }},
-                            }))
-                          )}
-                        />
-                      </div>
+                          ))}
+                        </tbody>
+                      </table>
                     </div>
                   ) : null}
                 </div>
               ) : null}
-            </section>
           </>
         )}
       </div>

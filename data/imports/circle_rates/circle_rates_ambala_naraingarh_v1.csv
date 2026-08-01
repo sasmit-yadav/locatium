@@ -1,0 +1,671 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Ambala,Naraingarh,Akbarpur,Akbarpur,agricultural,653.41,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Akbarpur,Akbarpur,agricultural,2090.91,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Akbarpur,Akbarpur,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Akbarpur,Akbarpur,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Akbarpur,Akbarpur,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Akbarpur,Akbarpur,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Andheri,Andheri,agricultural,867.77,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Andheri,Andheri,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Andheri,Andheri,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Andheri,Andheri,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Andheri,Andheri,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Ambli,Ambli,agricultural,751.42,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Ambli,Ambli,agricultural,2404.55,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Ambli,Ambli,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Ambli,Ambli,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Ambli,Ambli,residential,3630,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Ambli,Ambli,commercial,10120,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Ambli,Ambli prime,agricultural,2090.91,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Ahmadpur,Ahmadpur,agricultural,1000.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Ahmadpur,Ahmadpur,agricultural,2000.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Ahmadpur,Ahmadpur,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Ahmadpur,Ahmadpur,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Ahmadpur,Ahmadpur,residential,5502.75,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Ahmadpur,Ahmadpur,commercial,9680,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Ahmadpur,Under Committee Residential,residential,5000,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Azampur,Azampur,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Azampur,Azampur,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Azampur,Azampur,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Azampur,Azampur,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Azampur,Azampur,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,UjjalMajri,Ujjal Majri,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,UjjalMajri,Ujjal Majri,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,UjjalMajri,Ujjal Majri,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,UjjalMajri,Ujjal Majri,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,UjjalMajri,Ujjal Majri,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Okhal,Okhal,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Okhal,Okhal,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Okhal,Okhal,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Okhal,Okhal,residential,3174,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Okhal,Okhal,commercial,9487.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Kanjala,Kanjala,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Kanjala,Kanjala,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Kanjala,Kanjala,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Kanjala,Kanjala,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Kanjala,Kanjala,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,KalalMajri,Kalal Majri,agricultural,781.25,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,KalalMajri,Kalal Majri,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,KalalMajri,Kalal Majri,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,KalalMajri,Kalal Majri,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,KalalMajri,Kalal Majri,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Kalyana,Kalyana,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Kalyana,Kalyana,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Kalyana,Kalyana,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Kalyana,Kalyana,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Kalyana,Kalyana,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,KatheMajra,Kathe Majra,agricultural,738.64,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,KatheMajra,Kathe Majra,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,KatheMajra,Kathe Majra,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,KatheMajra,Kathe Majra,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,KatheMajra,Kathe Majra,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Kurali,Kurali,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Kurali,Kurali,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Kurali,Kurali,residential,2530,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Kurali,Kurali,commercial,8728.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Kullarpur,Kullarpur,agricultural,812.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Kullarpur,Kullarpur,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Kullarpur,Kullarpur,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Kullarpur,Kullarpur,residential,2783,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Kullarpur,Kullarpur,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,KohraBhura,Kohra Bhura,agricultural,816.76,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,KohraBhura,Kohra Bhura,agricultural,2613.64,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,KohraBhura,Kohra Bhura,agricultural,650.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,KohraBhura,Kohra Bhura,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,KohraBhura,Kohra Bhura,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,KohraBhura,Kohra Bhura,commercial,9487.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,KhanpurRajputan,Khanpur Rajputan,agricultural,816.76,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,KhanpurRajputan,Khanpur Rajputan,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,KhanpurRajputan,Khanpur Rajputan,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,KhanpurRajputan,Khanpur Rajputan,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,KhanpurRajputan,Khanpur Rajputan,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,KhanpurLabana,Khanpur Labana,agricultural,781.25,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,KhanpurLabana,Khanpur Labana,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,KhanpurLabana,Khanpur Labana,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,KhanpurLabana,Khanpur Labana,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,KhanpurLabana,Khanpur Labana,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,KherkiJattan,Kherki Jattan,agricultural,852.27,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,KherkiJattan,Kherki Jattan,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,KherkiJattan,Kherki Jattan,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,KherkiJattan,Kherki Jattan,residential,4235,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,KherkiJattan,Kherki Jattan,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,KherkiManakpur,Kherki Manakpur,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,KherkiManakpur,Kherki Manakpur,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,KherkiManakpur,Kherki Manakpur,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,KherkiManakpur,Kherki Manakpur,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,KherkiManakpur,Kherki Manakpur,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Gadhauli,Gadhauli,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Gadhauli,Gadhauli,agricultural,2090.91,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Gadhauli,Gadhauli,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Gadhauli,Gadhauli,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Gadhauli,Gadhauli,agricultural,418.18,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Gadhauli,Gadhauli,residential,3795,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Gadhauli,Gadhauli,commercial,10560,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Ganauli,Ganauli,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Ganauli,Ganauli,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Ganauli,Ganauli,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Ganauli,Ganauli,residential,3630,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Ganauli,Ganauli,commercial,9680,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Chattan,Chattan,agricultural,681.82,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Chattan,Chattan,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Chattan,Chattan,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Chattan,Chattan,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Chattan,Chattan,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Chandsoli,Chand soli,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Chandsoli,Chand soli,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Chandsoli,Chand soli,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Chandsoli,Chand soli,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Chandsoli,Chand soli,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,ChhajjalMajra,Chhajjal Majra,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,ChhajjalMajra,Chhajjal Majra,agricultural,2000.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,ChhajjalMajra,Chhajjal Majra,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,ChhajjalMajra,Chhajjal Majra,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,ChhajjalMajra,Chhajjal Majra,residential,3025,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,ChhajjalMajra,Chhajjal Majra,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Chotagarh,Chotagarh,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Chotagarh,Chotagarh,agricultural,2000.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Chotagarh,Chotagarh,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Chotagarh,Chotagarh,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Chotagarh,Chotagarh,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Chotagarh,Chotagarh,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,ChotiKohri,Choti Kohri,agricultural,812.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,ChotiKohri,Choti Kohri,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,ChotiKohri,Choti Kohri,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,ChotiKohri,Choti Kohri,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,ChotiKohri,Choti Kohri,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,ChotiBassi,Choti Bassi,agricultural,781.25,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,ChotiBassi,Choti Bassi,agricultural,2500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,ChotiBassi,Choti Bassi,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,ChotiBassi,Choti Bassi,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,ChotiBassi,Choti Bassi,residential,3162.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,ChotiBassi,Choti Bassi,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,ChotiRasour,Choti Rasour,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,ChotiRasour,Choti Rasour,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,ChotiRasour,Choti Rasour,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,ChotiRasour,Choti Rasour,residential,3630,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,ChotiRasour,Choti Rasour,commercial,9680,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,JanguMajra(82),Jangu Majra(82),agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,JanguMajra(82),Jangu Majra(82),agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,JanguMajra(82),Jangu Majra(82),agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,JanguMajra(82),Jangu Majra(82),residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,JanguMajra(82),Jangu Majra(82),commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Jagatpur,Jagatpur,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Jagatpur,Jagatpur,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Jagatpur,Jagatpur,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Jagatpur,Jagatpur,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Jagatpur,Jagatpur,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,JanguMajra(255),Jangu Majra(255),agricultural,781.25,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,JanguMajra(255),Jangu Majra(255),agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,JanguMajra(255),Jangu Majra(255),agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,JanguMajra(255),Jangu Majra(255),residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,JanguMajra(255),Jangu Majra(255),commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Jyoli,Jyoli,agricultural,681.82,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Jyoli,Jyoli,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Jyoli,Jyoli,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Jyoli,Jyoli,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Jyoli,Jyoli,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Jharsella,Jharsella,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Jharsella,Jharsella,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Jharsella,Jharsella,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Jharsella,Jharsella,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Jharsella,Jharsella,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,TaprianRulduKi,Taprian Ruldu Ki,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,TaprianRulduKi,Taprian Ruldu Ki,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,TaprianRulduKi,Taprian Ruldu Ki,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,TaprianRulduKi,Taprian Ruldu Ki,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,TaprianRulduKi,Taprian Ruldu Ki,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Toka,Toka,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Toka,Toka,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Toka,Toka,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Toka,Toka,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Toka,Toka,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Dera,Dera,agricultural,812.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Dera,Dera,agricultural,2600.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Dera,Dera,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Dera,Dera,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Dera,Dera,agricultural,2500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Dera,Dera,residential,5566,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Dera,Dera,commercial,12650,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Dera,Dera Prime Chahi,agricultural,2000.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Dehar,Dehar,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Dehar,Dehar,agricultural,2000.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Dehar,Dehar,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Dehar,Dehar,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Dehar,Dehar,residential,3630,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Dehar,Dehar,commercial,9680,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Tandwal,Tandwal,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Tandwal,Tandwal,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Tandwal,Tandwal,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Tandwal,Tandwal,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Tandwal,Tandwal,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Taharpur,Taharpur,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Taharpur,Taharpur,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Taharpur,Taharpur,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Taharpur,Taharpur,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Taharpur,Taharpur,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Danoura,Danoura,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Danoura,Danoura,agricultural,2000.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Danoura,Danoura,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Danoura,Danoura,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Danoura,Danoura,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Danoura,Danoura,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Dudhali,Dudhali,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Dudhali,Dudhali,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Dudhali,Dudhali,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Dudhali,Dudhali,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Dudhali,Dudhali,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Nangoli,Nangoli,agricultural,816.76,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Nangoli,Nangoli,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Nangoli,Nangoli,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Nangoli,Nangoli,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Nangoli,Nangoli,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Nakhrouli,Nakhrouli,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Nakhrouli,Nakhrouli,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Nakhrouli,Nakhrouli,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Nakhrouli,Nakhrouli,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Nakhrouli,Nakhrouli,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,NaglaRajputan,Nagla Rajputan,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,NaglaRajputan,Nagla Rajputan,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,NaglaRajputan,Nagla Rajputan,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,NaglaRajputan,Nagla Rajputan,residential,3630,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,NaglaRajputan,Nagla Rajputan,commercial,9680,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Nanduwali,Nanduwali,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Nanduwali,Nanduwali,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Nanduwali,Nanduwali,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Nanduwali,Nanduwali,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Nanduwali,Nanduwali,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Nanhera,Nanhera,agricultural,738.64,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Nanhera,Nanhera,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Nanhera,Nanhera,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Nanhera,Nanhera,residential,3630,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Nanhera,Nanhera,commercial,9680,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Nabipur,Nabipur,agricultural,700.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Nabipur,Nabipur,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Nabipur,Nabipur,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Nabipur,Nabipur,residential,3630,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Nabipur,Nabipur,commercial,9680,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Naraingarh,Ambala Chownk to Loton Chungi,commercial,24200,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Naraingarh,Ambala Chownk to Shahzadpur Road,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Naraingarh,Ambala Road,residential,11385,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Naraingarh,Baroli Road Colony,residential,9487.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Naraingarh,Bijali Board Office,residential,9075,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Naraingarh,Chanana Colony,residential,9075,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Naraingarh,Dhakka Colony,residential,9075,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Naraingarh,Durga Colony Husaini Road,residential,9487.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Naraingarh,Grain Market and Vegetable Market,commercial,37950,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Naraingarh,Harijan Basti etc,residential,9075,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Naraingarh,HLRDC to Civil Hospital,commercial,24200,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Naraingarh,HUDA Colony,residential,31460,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Naraingarh,HUDA Colony,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Naraingarh,HUDA Colony,residential,28125,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Naraingarh,HUDA Colony,commercial,47250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Naraingarh,Husaini Chownk to Husaini Village,residential,9075,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Naraingarh,Loton Chungi to Nahan Road,residential,9075,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Naraingarh,Loton Chungi to Nahan Road,commercial,13200,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Naraingarh,Milak Road Colony and Krishana Colony,residential,10350,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Naraingarh,Naraingarh,agricultural,3125.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Naraingarh,Naraingarh,agricultural,3437.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Naraingarh,Naraingarh,residential,10910.62,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Naraingarh,Naraingarh,commercial,24360,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Naraingarh,Naraingarh,residential,8880.3,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Naraingarh,Naveen Colony,residential,9900,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Naraingarh,Near DAV School,residential,9075,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Naraingarh,Near Main Bazar,residential,9075,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Naraingarh,Other Commercial,commercial,15125,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Naraingarh,Other Residencial,residential,9075,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Naraingarh,Panjlasa Chownk to Dehar Ambli Chownk,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Naraingarh,Panjlasa Chownk to Panjlasa Village,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Naraingarh,Police Station to Ramleela Ground,commercial,30250,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Naraingarh,Raipur Viran Chownk to Ambala Chownk,commercial,18755,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Naraingarh,Saraswati Vihar Loton Chownk,residential,9075,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Naraingarh,Shiv Colony Raipur Viran,residential,9075,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Naraingarh,Subhash Chownk to College Road,residential,9075,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Naraingarh,Subhash Chownk to College Road,commercial,24200,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Naraingarh,Subhash Chownk to Husaini Road,commercial,24200,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Naraingarh,Subhash Chownk to Loton Chungi,commercial,14300,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Naraingarh,Subhash Chownk to Raipur Viran Chownk,commercial,18755,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Neknawan,Neknawan,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Neknawan,Neknawan,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Neknawan,Neknawan,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Neknawan,Neknawan,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Neknawan,Neknawan,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Nogawan,Nogawan,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Nogawan,Nogawan,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Nogawan,Nogawan,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Nogawan,Nogawan,residential,3300,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Nogawan,Nogawan,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Panjlasa,Panjlasa,agricultural,2750.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Panjlasa,Panjlasa,agricultural,743.8,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Panjlasa,Panjlasa,commercial,13200,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Panjlasa,Panjlasa Outside Committee Chahi,agricultural,1750.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Panjlasa,Panjlasa Outside Committee Chahi,agricultural,2750.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Panjlasa,Panjlasa Outside Committee Chahi,agricultural,743.8,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Panjlasa,Panjlasa Outside Committee Chahi,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Panjlasa,Panjlasa Outside Committee Chahi,residential,8470,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Panjlasa,Panjlasa Outside Committee Chahi,commercial,13200,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Panjlasa,Panjlasa Outside Committee Residencial,residential,8470,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Panjlasa,Panjlasa Under Committee Chahi,agricultural,2613.64,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Panjlasa,Panjlasa Under Committee Chahi,agricultural,785.12,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Panjlasa,Panjlasa Under Committee Chahi,agricultural,433.88,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Panjlasa,Panjlasa Under Committee Chahi,commercial,15000,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Panjlasa,Panjlasa Under Committee Residencial,residential,9000,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Panjori,Panjori,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Panjori,Panjori,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Panjori,Panjori,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Panjori,Panjori,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Panjori,Panjori,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Pulewala,Pulewala,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Pulewala,Pulewala,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Pulewala,Pulewala,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Pulewala,Pulewala,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Pulewala,Pulewala,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Fatehpur(126),Fatehpur(126),agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Fatehpur(126),Fatehpur(126),agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Fatehpur(126),Fatehpur(126),agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Fatehpur(126),Fatehpur(126),residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Fatehpur(126),Fatehpur(126),commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Fatehpur(80),Fatehpur(80),agricultural,718.75,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Fatehpur(80),Fatehpur(80),agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Fatehpur(80),Fatehpur(80),agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Fatehpur(80),Fatehpur(80),residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Fatehpur(80),Fatehpur(80),commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Firozpur,Firozpur,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Firozpur,Firozpur,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Firozpur,Firozpur,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Firozpur,Firozpur,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Firozpur,Firozpur,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,FirozpurKath,Firozpur Kath,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,FirozpurKath,Firozpur Kath,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,FirozpurKath,Firozpur Kath,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,FirozpurKath,Firozpur Kath,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,FirozpurKath,Firozpur Kath,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Bakhtua,Bakhtua,agricultural,781.25,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Bakhtua,Bakhtua,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Bakhtua,Bakhtua,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Bakhtua,Bakhtua,residential,2530,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Bakhtua,Bakhtua,commercial,9438,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Baragarh,Baragarh,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Baragarh,Baragarh,agricultural,2000.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Baragarh,Baragarh,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Baragarh,Baragarh,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Baragarh,Baragarh,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Baragarh,Baragarh,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Baragaon,Baragaon,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Baragaon,Baragaon,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Baragaon,Baragaon,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Baragaon,Baragaon,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Baragaon,Baragaon,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,BariKohri,Bari Kohri,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,BariKohri,Bari Kohri,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,BariKohri,Bari Kohri,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,BariKohri,Bari Kohri,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,BariKohri,Bari Kohri,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,BariBassi,Bari Bassi,agricultural,718.75,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,BariBassi,Bari Bassi,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,BariBassi,Bari Bassi,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,BariBassi,Bari Bassi,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,BariBassi,Bari Bassi,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,BariRasour,Bari Rasour,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,BariRasour,Bari Rasour,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,BariRasour,Bari Rasour,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,BariRasour,Bari Rasour,residential,3630,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,BariRasour,Bari Rasour,commercial,9680,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Batoura,Batoura,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Batoura,Batoura,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Batoura,Batoura,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Batoura,Batoura,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Batoura,Batoura,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Badhauli,Badhauli,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Badhauli,Badhauli,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Badhauli,Badhauli,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Badhauli,Badhauli,residential,2783,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Badhauli,Badhauli,commercial,8349,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Banondi,Banondi,agricultural,681.82,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Banondi,Banondi,agricultural,2181.82,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Banondi,Banondi,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Banondi,Banondi,agricultural,425.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Banondi,Banondi,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Banondi,Banondi,commercial,9900,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,BarsuMajra,Barsu Majra,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,BarsuMajra,Barsu Majra,agricultural,2000.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,BarsuMajra,Barsu Majra,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,BarsuMajra,Barsu Majra,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,BarsuMajra,Barsu Majra,residential,3630,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,BarsuMajra,Barsu Majra,commercial,9680,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Barouli,Barouli,agricultural,852.27,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Barouli,Barouli,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Barouli,Barouli,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Barouli,Barouli,residential,3630,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Barouli,Barouli,commercial,9680,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Ballopur,Ballopur,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Ballopur,Ballopur,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Ballopur,Ballopur,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Ballopur,Ballopur,residential,3630,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Ballopur,Ballopur,commercial,9680,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Bakarpur,Bakarpur,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Bakarpur,Bakarpur,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Bakarpur,Bakarpur,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Bakarpur,Bakarpur,residential,3630,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Bakarpur,Bakarpur,commercial,9680,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Bilaspur,Bilaspur,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Bilaspur,Bilaspur,agricultural,2000.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Bilaspur,Bilaspur,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Bilaspur,Bilaspur,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Bilaspur,Bilaspur,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Bilaspur,Bilaspur,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Bibipur,Bibipur,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Bibipur,Bibipur,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Bibipur,Bibipur,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Bibipur,Bibipur,residential,2640,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Bibipur,Bibipur,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,BudhaKhera,Budha Khera,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,BudhaKhera,Budha Khera,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,BudhaKhera,Budha Khera,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,BudhaKhera,Budha Khera,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,BudhaKhera,Budha Khera,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,BurjShahid,Burj Shahid,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,BurjShahid,Burj Shahid,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,BurjShahid,Burj Shahid,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,BurjShahid,Burj Shahid,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,BurjShahid,Burj Shahid,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Berkheri,Berkheri,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Berkheri,Berkheri,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Berkheri,Berkheri,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Berkheri,Berkheri,residential,2640,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Berkheri,Berkheri,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,BrahmanMajra,Brahman Majra,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,BrahmanMajra,Brahman Majra,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,BrahmanMajra,Brahman Majra,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,BrahmanMajra,Brahman Majra,residential,3630,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,BrahmanMajra,Brahman Majra,commercial,9680,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,BharariKalan,Bharari Kalan,agricultural,718.75,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,BharariKalan,Bharari Kalan,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,BharariKalan,Bharari Kalan,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,BharariKalan,Bharari Kalan,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,BharariKalan,Bharari Kalan,commercial,10527,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,BharariKhurd,Bharari Khurd,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,BharariKhurd,Bharari Khurd,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,BharariKhurd,Bharari Khurd,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,BharariKhurd,Bharari Khurd,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,BharariKhurd,Bharari Khurd,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Bharanpur,Bharanpur,agricultural,681.82,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Bharanpur,Bharanpur,agricultural,2181.82,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Bharanpur,Bharanpur,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Bharanpur,Bharanpur,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Bharanpur,Bharanpur,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Bharanpur,Bharanpur,commercial,9438,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Bhukhri,Bhukhri,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Bhukhri,Bhukhri,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Bhukhri,Bhukhri,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Bhukhri,Bhukhri,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Bhukhri,Bhukhri,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Manglore,Manglore,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Manglore,Manglore,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Manglore,Manglore,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Manglore,Manglore,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Manglore,Manglore,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,MahuaKheri,Mahua Kheri,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,MahuaKheri,Mahua Kheri,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,MahuaKheri,Mahua Kheri,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,MahuaKheri,Mahua Kheri,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,MahuaKheri,Mahua Kheri,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Manakpur,Manakpur,agricultural,781.25,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Manakpur,Manakpur,agricultural,2500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Manakpur,Manakpur,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Manakpur,Manakpur,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Manakpur,Manakpur,residential,3630,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Manakpur,Manakpur,commercial,9680,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Miyanpur,Miyanpur,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Miyanpur,Miyanpur,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Miyanpur,Miyanpur,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Miyanpur,Miyanpur,residential,2530,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Miyanpur,Miyanpur,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Mirjapur,Mirjapur,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Mirjapur,Mirjapur,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Mirjapur,Mirjapur,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Mirjapur,Mirjapur,residential,4235,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Mirjapur,Mirjapur,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Milak,Milak Outside Committee Chahi,agricultural,1531.25,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Milak,Milak Outside Committee Chahi,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Milak,Milak Outside Committee Chahi,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Milak,Milak Outside Committee Residencial,residential,6325,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Milak,Milak Outside Committee Residencial,commercial,10890,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Milak,Milak Prime No. Chahi,agricultural,2727.27,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Milak,Milak Under Committee Chahi,agricultural,1250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Milak,Milak Under Committee Chahi,agricultural,537.19,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Milak,Milak Under Committee Chahi,agricultural,433.88,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Milak,Milak Under Committee Residencial,residential,7000,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Milak,Milak Under Committee Residencial,commercial,12000,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Mirpur,Mirpur,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Mirpur,Mirpur,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Mirpur,Mirpur,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Mirpur,Mirpur,residential,3630,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Mirpur,Mirpur,commercial,9680,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,MugalMajra,Mugal Majra,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,MugalMajra,Mugal Majra,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,MugalMajra,Mugal Majra,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,MugalMajra,Mugal Majra,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,MugalMajra,Mugal Majra,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,MunnaMajra,Munna Majra,agricultural,1093.75,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,MunnaMajra,Munna Majra,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,MunnaMajra,Munna Majra,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,MunnaMajra,Munna Majra,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,MunnaMajra,Munna Majra,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,RajjuMajra,Rajju Majra,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,RajjuMajra,Rajju Majra,agricultural,2000.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,RajjuMajra,Rajju Majra,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,RajjuMajra,Rajju Majra,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,RajjuMajra,Rajju Majra,residential,3630,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,RajjuMajra,Rajju Majra,commercial,9680,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Rattour,Rattour,agricultural,781.25,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Rattour,Rattour,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Rattour,Rattour,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Rattour,Rattour,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Rattour,Rattour,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,RaoMajra,Rao Majra,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,RaoMajra,Rao Majra,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,RaoMajra,Rao Majra,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,RaoMajra,Rao Majra,residential,3630,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,RaoMajra,Rao Majra,commercial,9680,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Ramgarh,Ramgarh,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Ramgarh,Ramgarh,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Ramgarh,Ramgarh,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Ramgarh,Ramgarh,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Ramgarh,Ramgarh,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Rampur,Rampur,agricultural,681.82,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Rampur,Rampur,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Rampur,Rampur,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Rampur,Rampur,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Rampur,Rampur,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,RaipurViran,Panjlasa Chownk,residential,9075,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,RaipurViran,Panjlasa Chownk,commercial,18150,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,RaipurViran,Prime land Raipur viran,agricultural,2750.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,RaipurViran,Raipur Viran,agricultural,2500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,RaipurViran,Raipur Viran,agricultural,1800.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,RaipurViran,Raipur Viran,residential,9075,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,RaipurViran,Raipur Viran,commercial,22687.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,RedViran,Red Viran,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,RedViran,Red Viran,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,RedViran,Red Viran,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,RedViran,Red Viran,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,RedViran,Red Viran,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Lakhnoura,Lakhnoura,agricultural,718.75,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Lakhnoura,Lakhnoura,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Lakhnoura,Lakhnoura,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Lakhnoura,Lakhnoura,residential,3630,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Lakhnoura,Lakhnoura,commercial,9680,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Lalpur,Lalpur,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Lalpur,Lalpur,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Lalpur,Lalpur,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Lalpur,Lalpur,residential,3630,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Lalpur,Lalpur,commercial,9680,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Laha,Laha,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Laha,Laha,agricultural,2000.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Laha,Laha,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Laha,Laha,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Laha,Laha,residential,3162.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Laha,Laha,commercial,9900,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Laha,"Laha Prime Barani, Banjar Kadim",agricultural,2000.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Laha,Laha Prime Chahi,agricultural,2000.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Loton,Loton,agricultural,1450.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Loton,Loton,agricultural,3738.84,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Loton,Loton,residential,6050,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Loton,Loton,commercial,11132,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Loton,Loton Outside Committee Chahi,agricultural,1000.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Loton,Loton Outside Committee Chahi,agricultural,2578.51,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Loton,Loton Outside Committee Chahi,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Loton,Loton Outside Committee Chahi,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Loton,Loton Outside Committee Chahi,residential,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Loton,Loton Outside Committee Chahi,commercial,9680,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Loton,Loton Prime,agricultural,2965.29,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Loton,Loton Under Committee Chahi,agricultural,1420.45,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Loton,Loton Under Committee Chahi,agricultural,619.83,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Loton,Loton Under Committee Chahi,agricultural,516.53,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Loton,Loton Under Committee Chahi,commercial,11000,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Loton,Loton Under Committee Residencial,residential,5500,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Wasalpur,Wasalpur,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Wasalpur,Wasalpur,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Wasalpur,Wasalpur,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Wasalpur,Wasalpur,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Wasalpur,Wasalpur,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Shakarpura,Shakarpura,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Shakarpura,Shakarpura,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Shakarpura,Shakarpura,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Shakarpura,Shakarpura,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Shakarpura,Shakarpura,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Shahpur(129),Shahpur(129),agricultural,812.5,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Shahpur(129),Shahpur(129),agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Shahpur(129),Shahpur(129),agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Shahpur(129),Shahpur(129),residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Shahpur(129),Shahpur(129),commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Shahpur(87),Shahpur(87),agricultural,1045.45,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Shahpur(87),Shahpur(87),agricultural,3345.45,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Shahpur(87),Shahpur(87),agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Shahpur(87),Shahpur(87),agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Shahpur(87),Shahpur(87),residential,3630,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Shahpur(87),Shahpur(87),commercial,9680,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Sungrani,Sungrani,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Sungrani,Sungrani,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Sungrani,Sungrani,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Sungrani,Sungrani,residential,3630,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Sungrani,Sungrani,commercial,9680,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Sambhalwa,Sambhalwa,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Sambhalwa,Sambhalwa,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Sambhalwa,Sambhalwa,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Sambhalwa,Sambhalwa,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Sambhalwa,Sambhalwa,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Salola,Salola,agricultural,653.41,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Salola,Salola,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Salola,Salola,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Salola,Salola,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Salola,Salola,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Sadikpur,Sadikpur,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Sadikpur,Sadikpur,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Sadikpur,Sadikpur,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Sadikpur,Sadikpur,residential,2860,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Sadikpur,Sadikpur,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Surgal,Surgal,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Surgal,Surgal,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Surgal,Surgal,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Surgal,Surgal,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Surgal,Surgal,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Harbon,Harbon,agricultural,718.75,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Harbon,Harbon,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Harbon,Harbon,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Harbon,Harbon,residential,3630,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Harbon,Harbon,commercial,9680,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Hamidpur,Hamidpur,agricultural,700.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Hamidpur,Hamidpur,agricultural,2000.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Hamidpur,Hamidpur,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Hamidpur,Hamidpur,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Hamidpur,Hamidpur,residential,3630,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Hamidpur,Hamidpur,commercial,9680,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Hasanpur,Hasanpur,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Hasanpur,Hasanpur,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Hasanpur,Hasanpur,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Hasanpur,Hasanpur,residential,4840,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Hasanpur,Hasanpur,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Husaini,Husaini,agricultural,4400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Husaini,Husaini,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Husaini,Husaini Outside Committee Chahi,agricultural,2250.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Husaini,Husaini Outside Committee Chahi,agricultural,2750.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Husaini,Husaini Outside Committee Chahi,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Husaini,Husaini Outside Committee Chahi,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Husaini,Husaini Outside Committee Chahi,commercial,12100,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Husaini,Husaini Outside Committee Residencial,residential,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Husaini,Husaini Under Committee Chahi,agricultural,2500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Husaini,Husaini Under Committee Chahi,agricultural,723.14,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Husaini,Husaini Under Committee Chahi,agricultural,516.53,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Husaini,Husaini Under Committee Chahi,commercial,15000,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,Husaini,Husaini Under Committee Residencial,residential,12075,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,ChechiMajra,Chechi Majra,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,ChechiMajra,Chechi Majra,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,ChechiMajra,Chechi Majra,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,ChechiMajra,Chechi Majra,residential,2420,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,ChechiMajra,Chechi Majra,commercial,7260,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,SainMajra,Sain Majra,agricultural,625.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,SainMajra,Sain Majra,agricultural,2000.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,SainMajra,Sain Majra,agricultural,500.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,SainMajra,Sain Majra,agricultural,400.0,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,SainMajra,Sain Majra,residential,3630,2026-04-01,ambala_gov_in_dc_notification
+Ambala,Naraingarh,SainMajra,Sain Majra,commercial,7260,2026-04-01,ambala_gov_in_dc_notification

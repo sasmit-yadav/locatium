@@ -11,8 +11,9 @@ export default defineConfig(({ mode }) => {
     '/api': {
       target: apiTarget,
       changeOrigin: true,
-      timeout: 120_000,
-      proxyTimeout: 120_000,
+      // Full-district scans (e.g. Gurugram ~1500 sites) can exceed 2 minutes on cold cache.
+      timeout: 600_000,
+      proxyTimeout: 600_000,
     },
   };
 

@@ -378,11 +378,17 @@ function renderClosingPage(doc, analysis, generatedAtIso) {
 
   doc.moveDown(0.4);
   sectionTitle(doc, 'Decision Readout');
-  paragraph(doc, `Final recommendation: ${analysis.recommendation.verdict.toUpperCase()}. The zone can be shortlisted when the positive factors are aligned with your use case and the cautions are manageable.`);
+  paragraph(doc, `Plain-language recommendation: ${
+    analysis.recommendation.verdict === 'shortlist'
+      ? 'Worth a site visit'
+      : analysis.recommendation.verdict === 'review'
+        ? 'Compare further with nearby options'
+        : 'Weak fit for now — dig deeper before committing'
+  }. Use this as a shortlist aid, then verify on the ground.`);
 
   doc.moveDown(0.4);
   sectionTitle(doc, 'Disclaimer');
-  paragraph(doc, 'LOCATIUM reports summarize currently available spatial data. They do not replace legal due diligence, site visits, title verification, environmental clearance, or sector-specific approvals.');
+  paragraph(doc, 'LOCATIUM is a screening tool for the public and investors. It summarizes currently available spatial data and official collector rates. It is not investment advice and does not replace legal due diligence, site visits, title verification, environmental clearance, or sector-specific approvals.');
 }
 
 function renderExtendedSections(doc, analysis) {
@@ -406,13 +412,47 @@ function renderExtendedSections(doc, analysis) {
     sectionTitle(doc, 'Illustrative investment model');
     const fp = analysis.financialPreview;
     bulletList(doc, [
-      `Land cost: ₹${formatNumber(fp.landCostInr)}`,
-      `Build cost: ₹${formatNumber(fp.buildCostInr)}`,
+      `Land cost (consideration): ₹${formatNumber(fp.landCostInr)}`,
+      fp.acquisition
+        ? `Acquisition (stamp ${((fp.acquisition.stampDutyPct || 0) * 100).toFixed(0)}% + reg ${((fp.acquisition.registrationPct || 0) * 100).toFixed(0)}%): ₹${formatNumber(fp.acquisition.allInLandCostInr)}`
+        : null,
+      `Build cost (illustrative): ₹${formatNumber(fp.buildCostInr)}`,
       `Total capex: ₹${formatNumber(fp.totalCapexInr)}`,
-      `Simple ROI (base): ${fp.scenarios?.[1]?.roiPct ?? 'N/A'}%`,
+      `Simple ROI (base, illustrative rent/build): ${fp.scenarios?.[1]?.roiPct ?? 'N/A'}%`,
       `Payback (years): ${fp.paybackYears ?? 'N/A'}`,
       fp.disclaimer,
-    ]);
+    ].filter(Boolean));
+  }
+
+  const lv = analysis.landValue || analysis.analysis?.landValue;
+  if (lv && (lv.estimatedPerSqYardInr || lv.circleRatePerSqYardInr || lv.method === 'insufficient_data')) {
+    doc.addPage();
+    drawHeader(doc, analysis.zone.name, 'Land pricing');
+    drawFooter(doc, doc.bufferedPageRange()?.count || 8);
+    doc.y = 92;
+    sectionTitle(doc, 'Government floor + market comps');
+    const fmt = (n) => (n != null ? `₹${formatNumber(n)}/sq yd` : 'N/A');
+    bulletList(
+      doc,
+      [
+        `Estimate: ${fmt(lv.estimatedPerSqYardInr)}`,
+        lv.estimatedLowPerSqYardInr != null && lv.estimatedHighPerSqYardInr != null
+          ? `Band: ${fmt(lv.estimatedLowPerSqYardInr)} – ${fmt(lv.estimatedHighPerSqYardInr)}`
+          : null,
+        `Gov collector floor: ${fmt(lv.circleRatePerSqYardInr)}${lv.circleRateSampleCount ? ` (n=${lv.circleRateSampleCount})` : ''}`,
+        lv.circleRateTehsil ? `Tehsil focus: ${lv.circleRateTehsil}` : null,
+        lv.circleRateEffectiveFrom ? `Vintage: ${lv.circleRateEffectiveFrom}` : null,
+        lv.marketAvailable
+          ? `Market comps: ${fmt(lv.comparableWeightedPerSqYardInr ?? lv.comparableMedianPerSqYardInr)} (n=${lv.comparableSampleCount ?? lv.comparableCount ?? 0})`
+          : 'Market comps: unavailable in radius',
+        (lv.marketPremiumVsFloor ?? lv.roiProxy) != null && lv.marketAvailable
+          ? `Market premium vs floor: ${(((lv.marketPremiumVsFloor ?? lv.roiProxy) * 100)).toFixed(1)}%`
+          : null,
+        `Method: ${(lv.method || 'n/a').replace(/_/g, ' ')}`,
+        lv.confidence ? `Confidence: ${lv.confidence}` : null,
+        lv.note || null,
+      ].filter(Boolean)
+    );
   }
 
   if (analysis.plotInventory?.plots?.length) {

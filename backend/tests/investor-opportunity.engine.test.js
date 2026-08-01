@@ -32,17 +32,18 @@ describe('investor-opportunity.engine v3', () => {
     const landValue = { estimatedPerSqYardInr: 12000, roiProxy: 0.2, method: 'circle_rate' };
     const result = computeOpportunityV3(baseZone, baseAnalysis, landValue, 'industrial');
     assert.ok(result.opportunityScore >= 55 && result.opportunityScore <= 95);
-    assert.equal(result.scoringVersion, 'investor-v3.1');
+    assert.equal(result.scoringVersion, 'investor-v3.2');
     assert.ok(result.components.estimatedLandCostInr > 0);
     assert.ok(result.explain.length >= 2);
   });
 
-  test('budgetFitsInr respects ₹ bands', () => {
+  test('budgetFitsInr respects ₹ bands and fail-closes on null', () => {
     assert.equal(budgetFitsInr(40_000_000, 'low'), true);
     assert.equal(budgetFitsInr(60_000_000, 'low'), false);
     assert.equal(budgetFitsInr(60_000_000, 'medium'), true);
     assert.equal(budgetFitsInr(300_000_000, 'medium'), false);
     assert.equal(budgetFitsInr(300_000_000, 'high'), true);
+    assert.equal(budgetFitsInr(null, 'low'), false);
   });
 
   test('nearMeFits filters by haversine radius', () => {

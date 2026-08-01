@@ -1,0 +1,17 @@
+district,tehsil,village,sector_type,price_per_sq_yard_inr,area_sq_yards,lat,lng,transaction_date,source,deed_id,consideration_inr,area_unit,notes
+Rewari,Bawal,IMT Bawal,industrial,13628.87,15906.67,28.0844,76.58468,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-bawal-13300,216790000,sqm,HSIIDC FY24-25 reserve (IMT Bawal); reserve ₹16300/sqm
+Rewari,Bawal,IMT Bawal,industrial,13628.87,29899.76,28.0796,76.58132,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-bawal-25000,407500000,sqm,HSIIDC FY24-25 reserve (IMT Bawal); reserve ₹16300/sqm
+Rewari,Bawal,IMT Bawal,industrial,13628.87,32889.74,28.0804,76.58188,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-bawal-27500,448250000,sqm,HSIIDC FY24-25 reserve (IMT Bawal); reserve ₹16300/sqm
+Rewari,Bawal,IMT Bawal,industrial,13628.87,34683.73,28.0812,76.58244,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-bawal-29000,472700000,sqm,HSIIDC FY24-25 reserve (IMT Bawal); reserve ₹16300/sqm
+Rewari,Bawal,IMT Bawal,industrial,13628.87,48796.41,28.082,76.583,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-bawal-40800,665040000,sqm,HSIIDC FY24-25 reserve (IMT Bawal); reserve ₹16300/sqm
+Rewari,Bawal,IMT Bawal,industrial,13628.87,71759.43,28.0828,76.58356,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-bawal-60000,978000000,sqm,HSIIDC FY24-25 reserve (IMT Bawal); reserve ₹16300/sqm
+Rewari,Bawal,IMT Bawal,industrial,13628.87,103871.78,28.0836,76.58412,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-bawal-86850,1415655000,sqm,HSIIDC FY24-25 reserve (IMT Bawal); reserve ₹16300/sqm
+Rewari,Dharuhera,IE Dharuhera,industrial,24749.36,4843.76,28.207,76.795,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-dharuhera-4050,119880000,sqm,HSIIDC FY24-25 reserve (IE Dharuhera); reserve ₹29600/sqm
+Rewari,Dharuhera,IE Dharuhera,industrial,24749.36,6099.55,28.2078,76.79556,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-dharuhera-5100,150960000,sqm,HSIIDC FY24-25 reserve (IE Dharuhera); reserve ₹29600/sqm
+Rewari,Dharuhera,IE Dharuhera,industrial,24749.36,6936.75,28.2086,76.79612,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-dharuhera-5800,171680000,sqm,HSIIDC FY24-25 reserve (IE Dharuhera); reserve ₹29600/sqm
+Rewari,Dharuhera,IE Dharuhera,industrial,24749.36,9418.43,28.2094,76.79668,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-dharuhera-7875,233100000,sqm,HSIIDC FY24-25 reserve (IE Dharuhera); reserve ₹29600/sqm
+Rewari,Dharuhera,IE Dharuhera,industrial,24749.36,10763.92,28.2046,76.79332,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-dharuhera-9000,266400000,sqm,HSIIDC FY24-25 reserve (IE Dharuhera); reserve ₹29600/sqm
+Rewari,Dharuhera,IE Dharuhera,industrial,24749.36,11959.91,28.2054,76.79388,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-dharuhera-10000,296000000,sqm,HSIIDC FY24-25 reserve (IE Dharuhera); reserve ₹29600/sqm
+Rewari,Dharuhera,IE Dharuhera,industrial,24749.36,13155.9,28.2062,76.79444,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-dharuhera-11000,325600000,sqm,HSIIDC FY24-25 reserve (IE Dharuhera); reserve ₹29600/sqm
+Rewari,Dharuhera,IE Dharuhera,industrial,24749.36,14949.88,28.207,76.795,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-dharuhera-12500,370000000,sqm,HSIIDC FY24-25 reserve (IE Dharuhera); reserve ₹29600/sqm
+Rewari,Dharuhera,IE Dharuhera,industrial,24749.36,17939.86,28.2078,76.79556,2024-08-21,hsiidc_eauction_reserve,EA-2024-08-dharuhera-15000,444000000,sqm,HSIIDC FY24-25 reserve (IE Dharuhera); reserve ₹29600/sqm

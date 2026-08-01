@@ -1,0 +1,418 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Hisar,Barwala,Barwala,Barwala MC Outside,commercial,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Barwala MC Outside,residential,3600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Barwala MC Inside,commercial,4500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Barwala MC Inside,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Hisar Chungi to Tohana Main Road more than 150 ft,commercial,18000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Hisar Chungi to Tohana Main Road more than 150 ft,residential,9500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Hisar Chungi to Tohana Main Road up to 150 ft,commercial,35000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Hisar Chungi to Tohana Main Road up to 150 ft,residential,10500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Tohana Main Road to Daulatpur Gas Agency Vijay Vihar more than 150 ft,commercial,6500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Tohana Main Road to Daulatpur Gas Agency Vijay Vihar more than 150 ft,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Tohana Main Road to Daulatpur Gas Agency Vijay Vihar up to 150 ft,commercial,12700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Tohana Main Road to Daulatpur Gas Agency Vijay Vihar up to 150 ft,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,New Grain Market Barwala,commercial,32000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,New Grain Market Barwala,residential,32000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Old Grain Market Barwala,commercial,32000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Old Grain Market Barwala,residential,32000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,New Bus Stand to Railway Road more than 150 ft,commercial,21500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,New Bus Stand to Railway Road more than 150 ft,residential,9600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,New Bus Stand to Railway Road up to 150 ft,commercial,28500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,New Bus Stand to Railway Road up to 150 ft,residential,9800,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Upkaar Colony,commercial,11100,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Upkaar Colony,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Neeni Kunj,commercial,12100,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Neeni Kunj,residential,4800,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Main Road to Civil Hospital Road more than 150 ft,commercial,15300,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Main Road to Civil Hospital Road more than 150 ft,residential,8300,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Main Road to Civil Hospital Road up to 150 ft,commercial,28500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Main Road to Civil Hospital Road up to 150 ft,residential,8300,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Main Road Chowk to Hansi Road Benam Colony ID 13496A more than 150 ft,commercial,18000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Main Road Chowk to Hansi Road Benam Colony ID 13496A more than 150 ft,residential,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Main Road Chowk to Hansi Road Benam Colony ID 13496A up to 150 ft,commercial,21200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Main Road Chowk to Hansi Road Benam Colony ID 13496A up to 150 ft,residential,7300,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Hansi Jind Chowk to Jind Road more than 150 ft,commercial,18000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Hansi Jind Chowk to Jind Road more than 150 ft,residential,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Hansi Jind Chowk to Jind Road up to 150 ft,commercial,22800,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Hansi Jind Chowk to Jind Road up to 150 ft,residential,7600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Main Bazaar Barwala more than 150 ft,commercial,23700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Main Bazaar Barwala more than 150 ft,residential,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Main Bazaar Barwala up to 150 ft,commercial,35000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Main Bazaar Barwala up to 150 ft,residential,8300,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,TP Scheme Colony more than 150 ft,commercial,11500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,TP Scheme Colony more than 150 ft,residential,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,TP Scheme Colony up to 150 ft,commercial,11500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,TP Scheme Colony up to 150 ft,residential,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Pasa Colony more than 150 ft,commercial,8300,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Pasa Colony more than 150 ft,residential,6000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Pasa Colony up to 150 ft,commercial,9500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Pasa Colony up to 150 ft,residential,6000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Basant Bihar Lakshmi Bihar Lakshmi Gil Vihar more than 150 ft,commercial,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Basant Bihar Lakshmi Bihar Lakshmi Gil Vihar more than 150 ft,residential,6000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Basant Bihar Lakshmi Bihar Lakshmi Gil Vihar up to 150 ft,commercial,12100,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Basant Bihar Lakshmi Bihar Lakshmi Gil Vihar up to 150 ft,residential,6000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Kakkar Colony Benam ID 13496 more than 150 ft,commercial,8700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Kakkar Colony Benam ID 13496 more than 150 ft,residential,5800,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Kakkar Colony Benam ID 13496 up to 150 ft,commercial,12100,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Kakkar Colony Benam ID 13496 up to 150 ft,residential,5800,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Barwala to Sarheda Banbhori Kharkhara Road more than 150 ft,commercial,7300,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Barwala to Sarheda Banbhori Kharkhara Road more than 150 ft,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Barwala to Sarheda Banbhori Kharkhara Road up to 150 ft,commercial,10200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Barwala to Sarheda Banbhori Kharkhara Road up to 150 ft,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Valmiki Harijan Mohalla Saurgarh Johad Water Works Old,commercial,2900,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Valmiki Harijan Mohalla Saurgarh Johad Water Works Old,residential,2200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Behind Water Works and BDO Office,commercial,4500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Behind Water Works and BDO Office,residential,2800,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Kisan Colony Road Benam Colony ID 13496A more than 150 ft,commercial,13700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Kisan Colony Road Benam Colony ID 13496A more than 150 ft,residential,5800,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Kisan Colony Benam Colony ID 13496A up to 150 ft,commercial,16500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Kisan Colony Benam Colony ID 13496A up to 150 ft,residential,5900,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Auto Market Hansi Road more than 150 ft,commercial,14800,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Auto Market Hansi Road more than 150 ft,residential,5800,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Auto Market Hansi Road up to 150 ft,commercial,16500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Auto Market Hansi Road up to 150 ft,residential,5800,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Ashram Colony more than 150 ft,commercial,15300,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Ashram Colony more than 150 ft,residential,4900,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Ashram Colony up to 150 ft,commercial,16700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Ashram Colony up to 150 ft,residential,4900,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Khedar Road Barwala more than 150 ft,commercial,9700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Khedar Road Barwala more than 150 ft,residential,4900,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Khedar Road Barwala up to 150 ft,commercial,11000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Khedar Road Barwala up to 150 ft,residential,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Indraprastha Colony more than 150 ft,commercial,11500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Indraprastha Colony more than 150 ft,residential,5100,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Indraprastha Colony up to 150 ft,commercial,12300,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Indraprastha Colony up to 150 ft,residential,5100,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Jeet Theater Virat Colony more than 150 ft,commercial,11000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Jeet Theater Virat Colony more than 150 ft,residential,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Jeet Theater Virat Colony up to 150 ft,commercial,12100,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Jeet Theater Virat Colony up to 150 ft,residential,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Agroha Road to New Grain Market Road more than 150 ft,commercial,11000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Agroha Road to New Grain Market Road more than 150 ft,residential,6500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Agroha Road to New Grain Market Road up to 150 ft,commercial,13600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Agroha Road to New Grain Market Road up to 150 ft,residential,6500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Heera Colony Saini Mohalla more than 150 ft,commercial,9700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Heera Colony Saini Mohalla more than 150 ft,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Heera Colony Saini Mohalla up to 150 ft,commercial,11000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Heera Colony Saini Mohalla up to 150 ft,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Vikas Colony more than 150 ft,commercial,9700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Vikas Colony more than 150 ft,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Vikas Colony up to 150 ft,commercial,11500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Vikas Colony up to 150 ft,residential,4300,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Gokal Colony more than 150 ft,commercial,9700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Gokal Colony more than 150 ft,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Gokal Colony up to 150 ft,commercial,11000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Gokal Colony up to 150 ft,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Astha Colony more than 150 ft,commercial,9600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Astha Colony more than 150 ft,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Astha Colony up to 150 ft,commercial,11000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Astha Colony up to 150 ft,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Rajdhani Colony Rajdhani Enclave Extension ID 13469 more than 150 ft,commercial,8500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Rajdhani Colony Rajdhani Enclave Extension ID 13469 more than 150 ft,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Rajdhani Colony up to 150 ft,commercial,9700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Rajdhani Colony up to 150 ft,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Shivaliki Colony more than 150 ft,commercial,6500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Shivaliki Colony more than 150 ft,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Shivaliki Colony up to 150 ft,commercial,10400,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Shivaliki Colony up to 150 ft,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Ramnagar Colony more than 150 ft,commercial,8500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Ramnagar Colony more than 150 ft,residential,4900,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Ramnagar Colony up to 150 ft,commercial,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Ramnagar Colony up to 150 ft,residential,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Taj Colony Benam Colony ID 13496 more than 150 ft,commercial,10000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Taj Colony Benam Colony ID 13496 more than 150 ft,residential,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Taj Colony Benam Colony ID 13496 up to 150 ft,commercial,11000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Taj Colony Benam Colony ID 13496 up to 150 ft,residential,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Tulsi Colony Benam Colony ID 13496 more than 150 ft,commercial,8300,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Tulsi Colony Benam Colony ID 13496 more than 150 ft,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Tulsi Colony Benam Colony ID 13496 up to 150 ft,commercial,9700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Tulsi Colony Benam Colony ID 13496 up to 150 ft,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Dwarka Colony more than 150 ft,commercial,9700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Dwarka Colony more than 150 ft,residential,8300,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Dwarka Colony up to 150 ft,commercial,11000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Dwarka Colony up to 150 ft,residential,8300,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,College Road Bhagat Singh Nagar ID 13481 more than 150 ft,commercial,8300,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,College Road Bhagat Singh Nagar ID 13481 more than 150 ft,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,College Road Bhagat Singh Nagar up to 150 ft,commercial,9700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,College Road Bhagat Singh Nagar up to 150 ft,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Shopping Complex Agroha Road more than 150 ft,commercial,8300,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Shopping Complex Agroha Road more than 150 ft,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Shopping Complex Agroha Road up to 150 ft,commercial,9600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Shopping Complex Agroha Road up to 150 ft,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Aman Vihar more than 150 ft,commercial,8500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Aman Vihar more than 150 ft,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Aman Vihar up to 150 ft,commercial,9700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Aman Vihar up to 150 ft,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Hansi Road opposite Bag more than 150 ft,commercial,8800,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Hansi Road opposite Bag more than 150 ft,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Hansi Road opposite Bag up to 150 ft,commercial,9600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Hansi Road opposite Bag up to 150 ft,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Rama Complex Colony Tohana Road more than 150 ft,commercial,8300,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Rama Complex Colony Tohana Road more than 150 ft,residential,4900,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Rama Complex Colony Tohana Road up to 150 ft,commercial,9700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Rama Complex Colony Tohana Road up to 150 ft,residential,4900,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Shiv Colony more than 150 ft,commercial,8300,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Shiv Colony more than 150 ft,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Shiv Colony up to 150 ft,commercial,9700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Shiv Colony up to 150 ft,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Old Krishna Colony more than 150 ft,commercial,8300,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Old Krishna Colony more than 150 ft,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Old Krishna Colony up to 150 ft,commercial,9700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Old Krishna Colony up to 150 ft,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Green City Colony more than 150 ft,commercial,8300,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Green City Colony more than 150 ft,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Green City up to 150 ft,commercial,9700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Green City up to 150 ft,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Shyam Vihar more than 150 ft,commercial,8300,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Shyam Vihar more than 150 ft,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Shyam Vihar up to 150 ft,commercial,9700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Shyam Vihar up to 150 ft,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Adarsh Nagar Hisar Road more than 150 ft,commercial,8300,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Adarsh Nagar Hisar Road more than 150 ft,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Adarsh Nagar Hisar Road up to 150 ft,commercial,9700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Adarsh Nagar Hisar Road up to 150 ft,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Balaji Colony,commercial,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Balaji Colony,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Bhagwati Colony,commercial,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Bhagwati Colony,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Tara Nagar,commercial,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Tara Nagar,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Jai Bajrang Purvanchu Dwarka Colony,commercial,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Jai Bajrang Purvanchu Dwarka Colony,residential,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Mahalaxmi Enclave Jind Road,commercial,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Mahalaxmi Enclave Jind Road,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,DC Colony,commercial,11000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,DC Colony,residential,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Shanti and New Shanti Colony,commercial,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Shanti and New Shanti Colony,residential,3600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Poorvnumtaj Colony Tohana Road,commercial,8300,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Poorvnumtaj Colony Tohana Road,residential,5600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Saraswati Colony,commercial,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Saraswati Colony,residential,3600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Model Town Benam ID 13496,commercial,9700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Model Town Benam ID 13496,residential,3800,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Radhekunj Colony,commercial,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Radhekunj Colony,residential,3600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Prashant Colony and Shiv Nagar 2,commercial,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Prashant Colony and Shiv Nagar 2,residential,3600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Nand Vihar,commercial,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Nand Vihar,residential,3600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Madhuvan Colony,commercial,7000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Madhuvan Colony,residential,3600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Ram Complex,commercial,9700,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Ram Complex,residential,4900,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Krishna Colony ID 13374,commercial,7500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Krishna Colony ID 13374,residential,3800,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Rishinagar and Shri Shyam Nagri ID 13479,commercial,8500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Rishinagar and Shri Shyam Nagri ID 13479,residential,4500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,CS Azad Nagar Colony ID 13443,commercial,7500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,CS Azad Nagar Colony ID 13443,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,New Taj Colony and Others,commercial,7500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,New Taj Colony and Others,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Benam Colony ID 13489 and Old Indrakunj Colony,commercial,7500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Benam Colony ID 13489 and Old Indrakunj Colony,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,New Dwarka Colony ID 13484,commercial,7500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,New Dwarka Colony ID 13484,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,DhaniGaran,Phirni adjacent 3-5 acre depth,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,DhaniPremnagar,Phirni adjacent 3-5 acre depth,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,DhaniKhanBahadur,Phirni adjacent 3-5 acre depth,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,DhaniMirdad,Phirni adjacent 3-5 acre depth,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Sandlana,Phirni adjacent 3-5 acre depth,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Banbhori,Phirni adjacent 3-5 acre depth,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Chhan,Phirni adjacent 3-5 acre depth,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Gyanpura,Phirni adjacent 3-5 acre depth,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Byanakhera,Phirni adjacent 3-5 acre depth,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,KharakPunia,Phirni adjacent 3-5 acre depth,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,DhakPirthi,Phirni adjacent 3-5 acre depth,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Budhakheda,Phirni adjacent 3-5 acre depth,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Khedar,Phirni adjacent 3-5 acre depth,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Sarkheda,Phirni adjacent 3-5 acre depth,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Panghal,Phirni adjacent 3-5 acre depth,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Rajli,Phirni adjacent 3-5 acre depth,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Matloda,Phirni adjacent 3-5 acre depth,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Kharkhara,Phirni adjacent 3-5 acre depth,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Gaibipur,Phirni adjacent 3-5 acre depth,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Bobua,Phirni adjacent 3-5 acre depth,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Hansangarh,Phirni adjacent 3-5 acre depth,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Kumbhakhera,Phirni adjacent 3-5 acre depth,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Balak,Phirni adjacent 3-5 acre depth,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,KhediBarki,Phirni adjacent 3-5 acre depth,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Sarsaud,Phirni adjacent 3-5 acre depth,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Bichpadi,Phirni adjacent 3-5 acre depth,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,BadoPatti-1,Phirni adjacent 3-5 acre depth,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,BadoPatti-2,Phirni adjacent 3-5 acre depth,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Bugana,Phirni adjacent 3-5 acre depth,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Jevra,Phirni adjacent 3-5 acre depth,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Ishwarhedi,Phirni adjacent 3-5 acre depth,agricultural,392.56,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Nehri Chahi Gair Mumkin Rasta Khal,agricultural,371.9,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Tal Banjar Barani Tibba,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,BarwalaMCOutside,Barwala MC Outside,residential,3600,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,BarwalaMCOutside,Barwala MC Outside,commercial,4200,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,DhaniGaran,Nehri Chahi Gair Mumkin Rasta Khal,agricultural,371.9,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,DhaniGaran,Tal Banjar Barani Tibba,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,DhaniGaran,Dhani Garan,residential,2500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,DhaniGaran,Dhani Garan,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,DhaniPremnagar,Nehri Chahi Gair Mumkin Rasta Khal,agricultural,371.9,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,DhaniPremnagar,Tal Banjar Barani Tibba,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,DhaniPremnagar,Dhani Premnagar,residential,2500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,DhaniPremnagar,Dhani Premnagar,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,DhaniKhanBahadur,Nehri Chahi Gair Mumkin Rasta Khal,agricultural,371.9,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,DhaniKhanBahadur,Tal Banjar Barani Tibba,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,DhaniKhanBahadur,Dhani Khan Bahadur,residential,2500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,DhaniKhanBahadur,Dhani Khan Bahadur,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,DhaniMirdad,Nehri Chahi Gair Mumkin Rasta Khal,agricultural,371.9,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,DhaniMirdad,Tal Banjar Barani Tibba,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,DhaniMirdad,Dhani Mirdad,residential,2500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,DhaniMirdad,Dhani Mirdad,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Sandlana,Nehri Chahi Gair Mumkin Rasta Khal,agricultural,340.91,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Sandlana,Tal Banjar Barani Tibba,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Sandlana,Sandlana,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Sandlana,Sandlana,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Banbhori,Nehri Chahi Gair Mumkin Rasta Khal,agricultural,340.91,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Banbhori,Tal Banjar Barani Tibba,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Banbhori,Banbhori,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Banbhori,Banbhori,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Chhan,Nehri Chahi Gair Mumkin Rasta Khal,agricultural,340.91,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Chhan,Tal Banjar Barani Tibba,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Chhan,Chhan,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Chhan,Chhan,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Gyanpura,Nehri Chahi Gair Mumkin Rasta Khal,agricultural,340.91,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Gyanpura,Tal Banjar Barani Tibba,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Gyanpura,Gyanpura,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Gyanpura,Gyanpura,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Byanakhera,Nehri Chahi Gair Mumkin Rasta Khal,agricultural,340.91,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Byanakhera,Tal Banjar Barani Tibba,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Byanakhera,Byanakhera,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Byanakhera,Byanakhera,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,KharakPunia,Nehri Chahi Gair Mumkin Rasta Khal,agricultural,340.91,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,KharakPunia,Tal Banjar Barani Tibba,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,KharakPunia,Kharak Punia,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,KharakPunia,Kharak Punia,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,DhakPirthi,Nehri Chahi Gair Mumkin Rasta Khal,agricultural,340.91,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,DhakPirthi,Tal Banjar Barani Tibba,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,DhakPirthi,Dhak Pirthi,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,DhakPirthi,Dhak Pirthi,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Bayana,Nehri Chahi Gair Mumkin Rasta Khal,agricultural,340.91,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Bayana,Tal Banjar Barani Tibba,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Bayana,Bayana,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Bayana,Bayana,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Ishwarhedi,Nehri Chahi Gair Mumkin Rasta Khal,agricultural,340.91,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Ishwarhedi,Tal Banjar Barani Tibba,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Ishwarhedi,Ishwarhedi,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Ishwarhedi,Ishwarhedi,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Khedar,Nehri Chahi Gair Mumkin Rasta Khal,agricultural,340.91,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Khedar,Tal Banjar Barani Tibba,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Khedar,Khedar,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Khedar,Khedar,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Sarkheda,Nehri Chahi Gair Mumkin Rasta Khal,agricultural,340.91,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Sarkheda,Tal Banjar Barani Tibba,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Sarkheda,Sarkheda,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Sarkheda,Sarkheda,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Panghal,Nehri Chahi Gair Mumkin Rasta Khal,agricultural,340.91,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Panghal,Tal Banjar Barani Tibba,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Panghal,Panghal,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Panghal,Panghal,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Rajli,Nehri Chahi Gair Mumkin Rasta Khal,agricultural,340.91,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Rajli,Tal Banjar Barani Tibba,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Rajli,Rajli,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Rajli,Rajli,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Matloda,Nehri Chahi Gair Mumkin Rasta Khal,agricultural,340.91,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Matloda,Tal Banjar Barani Tibba,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Matloda,Matloda,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Matloda,Matloda,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Kharkhara,Nehri Chahi Gair Mumkin Rasta Khal,agricultural,340.91,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Kharkhara,Tal Banjar Barani Tibba,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Kharkhara,Kharkhara,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Kharkhara,Kharkhara,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Gaibipur,Nehri Chahi Gair Mumkin Rasta Khal,agricultural,340.91,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Gaibipur,Tal Banjar Barani Tibba,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Gaibipur,Gaibipur,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Gaibipur,Gaibipur,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Bobua,Nehri Chahi Gair Mumkin Rasta Khal,agricultural,340.91,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Bobua,Tal Banjar Barani Tibba,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Bobua,Bobua,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Bobua,Bobua,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Hansangarh,Nehri Chahi Gair Mumkin Rasta Khal,agricultural,340.91,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Hansangarh,Tal Banjar Barani Tibba,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Hansangarh,Hansangarh,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Hansangarh,Hansangarh,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Kumbhakhera,Nehri Chahi Gair Mumkin Rasta Khal,agricultural,340.91,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Kumbhakhera,Tal Banjar Barani Tibba,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Kumbhakhera,Kumbhakhera,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Kumbhakhera,Kumbhakhera,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Balak,Nehri Chahi Gair Mumkin Rasta Khal,agricultural,340.91,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Balak,Tal Banjar Barani Tibba,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Balak,Balak,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Balak,Balak,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,KhediBarki,Nehri Chahi Gair Mumkin Rasta Khal,agricultural,340.91,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,KhediBarki,Tal Banjar Barani Tibba,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,KhediBarki,Khedi Barki,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,KhediBarki,Khedi Barki,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Sarsaud,Nehri Chahi Gair Mumkin Rasta Khal,agricultural,340.91,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Sarsaud,Tal Banjar Barani Tibba,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Sarsaud,Sarsaud,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Sarsaud,Sarsaud,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Bichpadi,Nehri Chahi Gair Mumkin Rasta Khal,agricultural,340.91,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Bichpadi,Tal Banjar Barani Tibba,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Bichpadi,Bichpadi,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Bichpadi,Bichpadi,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,BadoPatti-1,Nehri Chahi Gair Mumkin Rasta Khal,agricultural,340.91,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,BadoPatti-1,Tal Banjar Barani Tibba,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,BadoPatti-1,Bado Patti-1,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,BadoPatti-1,Bado Patti-1,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,BadoPatti-2,Nehri Chahi Gair Mumkin Rasta Khal,agricultural,340.91,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,BadoPatti-2,Tal Banjar Barani Tibba,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,BadoPatti-2,Bado Patti-2,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,BadoPatti-2,Bado Patti-2,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Bugana,Nehri Chahi Gair Mumkin Rasta Khal,agricultural,340.91,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Bugana,Tal Banjar Barani Tibba,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Bugana,Bugana,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Bugana,Bugana,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Jevra,Nehri Chahi Gair Mumkin Rasta Khal,agricultural,340.91,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Jevra,Tal Banjar Barani Tibba,agricultural,309.92,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Jevra,Jevra,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Jevra,Jevra,commercial,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,MC Inside other than colony khasra agri Gair Mumkin,agricultural,1342.98,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,MC Inside other than colony khasra agri Gair Mumkin,agricultural,1446.28,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,MC Inside other than colony khasra,residential,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,MC Inside other than colony khasra,commercial,4500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Barwala Main Road to Agroha Main Road up to 2 acre depth,agricultural,1136.36,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Barwala to Sarheda Road up to 2 acre depth,agricultural,1136.36,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Barwala Main Road to Jind Road 1-2 acre depth,agricultural,1136.36,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Barwala to Hisar Road and Chandigarh Road up to 2 acre depth,agricultural,1136.36,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Barwala Bypass National Highway up to 2 acre depth,agricultural,1136.36,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Barwala,Barwala to Hansi Main Road up to 2 acre depth,agricultural,826.45,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Rajli,Main Road up to 2 acre depth,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Rajli,Main Road less than 1000 sqyd,residential,2500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Rajli,Main Road less than 1000 sqyd,commercial,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Gaibipur,Main Road up to 2 acre depth,agricultural,1136.36,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Gaibipur,Main Road less than 1000 sqyd,residential,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Gaibipur,Main Road less than 1000 sqyd,commercial,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,KharakPunia,Main Road up to 2 acre depth,agricultural,516.53,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,KharakPunia,Main Road less than 1000 sqyd,residential,2500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,KharakPunia,Main Road less than 1000 sqyd,commercial,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,BadoPatti-1,Main Road up to 2 acre depth,agricultural,1136.36,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,BadoPatti-1,Main Road less than 1000 sqyd,residential,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,BadoPatti-1,Main Road less than 1000 sqyd,commercial,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Khedar,Khedar-Barwala-Agroha Main Road up to 2 acre depth,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Baghavad,Main Road up to 2 acre depth,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Baghavad,Main Road less than 1000 sqyd,residential,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Baghavad,Main Road less than 1000 sqyd,commercial,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Sarsaud,Main Road up to 2 acre depth,agricultural,1136.36,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Sarsaud,Main Road less than 1000 sqyd,residential,2500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Sarsaud,Main Road less than 1000 sqyd,commercial,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Khedar,Main Road up to 2 acre depth,agricultural,1136.36,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Khedar,Main Road less than 1000 sqyd,residential,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Khedar,Main Road less than 1000 sqyd,commercial,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Bichpadi,Main Road up to 2 acre depth,agricultural,1136.36,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Bichpadi,Main Road less than 1000 sqyd,residential,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Bichpadi,Main Road less than 1000 sqyd,commercial,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Panghal,Main Road up to 2 acre depth,agricultural,619.83,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Panghal,Main Road less than 1000 sqyd,residential,3000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Panghal,Main Road less than 1000 sqyd,commercial,5000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Sandlana,Main Road up to 2 acre depth,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Sandlana,Main Road less than 1000 sqyd,residential,2500,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Sandlana,Main Road less than 1000 sqyd,commercial,4000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Chhan,Main Road up to 2 acre depth,agricultural,413.22,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Chhan,Main Road less than 1000 sqyd,residential,2000,2026-04-01,hisar_gov_in_dc_notification
+Hisar,Barwala,Chhan,Main Road less than 1000 sqyd,commercial,3500,2026-04-01,hisar_gov_in_dc_notification

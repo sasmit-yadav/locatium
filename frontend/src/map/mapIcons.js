@@ -2,11 +2,11 @@
 export function ensureOperationalMapIcons(map) {
   if (!map || map._removed) return;
 
-  if (!map.hasImage('airport-icon')) {
-    addCanvasIcon(map, 'airport-icon', drawAirportIcon);
+  if (!map.hasImage('airport-icon-v2')) {
+    addCanvasIcon(map, 'airport-icon-v2', drawAirportIcon);
   }
-  if (!map.hasImage('bus-stop-icon')) {
-    addCanvasIcon(map, 'bus-stop-icon', drawBusStopIcon);
+  if (!map.hasImage('bus-stop-icon-v2')) {
+    addCanvasIcon(map, 'bus-stop-icon-v2', drawBusStopIcon);
   }
 }
 
@@ -24,13 +24,13 @@ function addCanvasIcon(map, id, drawFn) {
 
 function drawAirportIcon(ctx, size) {
   ctx.clearRect(0, 0, size, size);
-  ctx.fillStyle = '#1a1a2e';
+  ctx.fillStyle = '#0c4a6e';
   ctx.beginPath();
   ctx.arc(size / 2, size / 2, size / 2 - 2, 0, Math.PI * 2);
   ctx.fill();
 
   ctx.strokeStyle = '#ffffff';
-  ctx.fillStyle = '#00bfff';
+  ctx.fillStyle = '#0284c7';
   ctx.lineWidth = 2;
   ctx.beginPath();
   ctx.moveTo(6, 18);

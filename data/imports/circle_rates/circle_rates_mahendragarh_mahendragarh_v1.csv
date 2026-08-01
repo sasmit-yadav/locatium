@@ -1,0 +1,1033 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Mahendragarh,Mahendragarh,Adalpur,Adalpur Chahi,agricultural,613.64,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Adalpur,Adalpur Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Adalpur,Adalpur Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Adalpur,Adalpur Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Adalpur,Adalpur Gair Mumkin,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Adalpur,Adalpur Pahad,agricultural,1650.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Adalpur,Adalpur Tiba,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Adalpur,Adalpur Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Adalpur,Adalpur,residential,2180,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Adalpur,Adalpur,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Adalpur,Adalpur On Road Dadri,agricultural,1732.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Adalpur,Adalpur On Road Dadri,residential,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Adalpur,Adalpur On Road Dadri,commercial,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Adalpur,Pahar upto 2 Acre,agricultural,1650.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Adalpur,Pahar upto 2 Acre Pahad,agricultural,1650.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,AkbarpurNangal,Akbarpur Nangal Chahi,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,AkbarpurNangal,Akbarpur Nangal Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,AkbarpurNangal,Akbarpur Nangal Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,AkbarpurNangal,Akbarpur Nangal Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,AkbarpurNangal,Akbarpur Nangal Gair Mumkin,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,AkbarpurNangal,Akbarpur Nangal Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,AkbarpurNangal,Akbarpur Nangal,residential,2180,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,AkbarpurNangal,Akbarpur Nangal,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Anawas,Anawas Chahi,agricultural,431.26,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Anawas,Anawas Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Anawas,Anawas Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Anawas,Anawas Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Anawas,Anawas Gair Mumkin,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Anawas,Anawas Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Anawas,Anawas,residential,2550,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Anawas,Anawas,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Anawas,Anawas On Road Kanina,agricultural,1732.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Anawas,Anawas On Road Kanina,residential,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Anawas,Anawas On Road Kanina,commercial,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bachini,Bachini Chahi,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bachini,Bachini Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bachini,Bachini Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bachini,Bachini Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bachini,Bachini Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bachini,Bachini,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bachini,Bachini,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bairawas,Bairawas Chahi,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bairawas,Bairawas Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bairawas,Bairawas Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bairawas,Bairawas Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bairawas,Bairawas Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bairawas,Bairawas,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bairawas,Bairawas,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Balana,Balana Chahi,agricultural,470.45,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Balana,Balana Nehri,agricultural,330.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Balana,Balana Barani,agricultural,330.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Balana,Balana Banjar,agricultural,330.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Balana,Balana Pahad,agricultural,1650.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Balana,Balana Jhund,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Balana,Balana,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Balana,Balana,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Balana,Balana on Road Satnali,agricultural,1320.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Balana,Balana on Road Satnali,residential,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Balana,Balana on Road Satnali,commercial,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Balana,Pahar upto 2 Acre,agricultural,1650.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Balana,Pahar upto 2 Acre Pahad,agricultural,1650.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Balaycha,Balaycha Chahi,agricultural,431.25,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Balaycha,Balaycha Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Balaycha,Balaycha Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Balaycha,Balaycha Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Balaycha,Balaycha Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Balaycha,Balaycha,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Balaycha,Balaycha,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bassai,Bassai Chahi,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bassai,Bassai Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bassai,Bassai Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bassai,Bassai Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bassai,Bassai Pahad,agricultural,1650.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bassai,Bassai Tiba,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bassai,Bassai Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bassai,Bassai,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bassai,Bassai,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bassai,Pahar upto 2 Acre,agricultural,1650.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bassai,Pahar upto 2 Acre Pahad,agricultural,1650.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bawana,Bawana Chahi,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bawana,Bawana Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bawana,Bawana Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bawana,Bawana Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bawana,Bawana Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bawana,Bawana,residential,2180,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bawana,Bawana,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bawania,Bawania Chahi,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bawania,Bawania Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bawania,Bawania Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bawania,Bawania Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bawania,Bawania Tiba,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bawania,Bawania Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bawania,Bawania,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bawania,Bawania,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Beri,Beri Chahi,agricultural,487.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Beri,Beri Nehri,agricultural,487.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Beri,Beri Barani,agricultural,487.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Beri,Beri Banjar,agricultural,487.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Beri,Beri Jhund,agricultural,487.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Beri,Beri,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Beri,Beri,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bhagdana,Bhagdana Chahi,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bhagdana,Bhagdana Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bhagdana,Bhagdana Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bhagdana,Bhagdana Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bhagdana,Bhagdana Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bhagdana,Bhagdana,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bhagdana,Bhagdana,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bhalkhi,Bhalkhi Chahi,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bhalkhi,Bhalkhi Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bhalkhi,Bhalkhi Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bhalkhi,Bhalkhi Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bhalkhi,Bhalkhi Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bhalkhi,Bhalkhi,residential,2380,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bhalkhi,Bhalkhi,commercial,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,BhandorNichi,Bhandor Nichi Chahi,agricultural,431.26,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,BhandorNichi,Bhandor Nichi Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,BhandorNichi,Bhandor Nichi Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,BhandorNichi,Bhandor Nichi Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,BhandorNichi,Bhandor Nichi Tiba,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,BhandorNichi,Bhandor Nichi Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,BhandorNichi,Bhandor Nichi,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,BhandorNichi,Bhandor Nichi,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,BhandorNichi,Bhandor Nichi on Road NNL,agricultural,1735.54,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,BhandorNichi,Bhandor Nichi on Road NNL,residential,5400,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,BhandorNichi,Bhandor Nichi on Road NNL,commercial,11000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,BhandorUnchi,Bhandor Unchi Chahi,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,BhandorUnchi,Bhandor Unchi Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,BhandorUnchi,Bhandor Unchi Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,BhandorUnchi,Bhandor Unchi Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,BhandorUnchi,Bhandor Unchi Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,BhandorUnchi,Bhandor Unchi,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,BhandorUnchi,Bhandor Unchi,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bhurjat,Bhurjat Chahi,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bhurjat,Bhurjat Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bhurjat,Bhurjat Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bhurjat,Bhurjat Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bhurjat,Bhurjat Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bhurjat,Bhurjat,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bhurjat,Bhurjat,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Birchitlang,Birchitlang Chahi,agricultural,495.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Birchitlang,Birchitlang Nehri,agricultural,495.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Birchitlang,Birchitlang Barani,agricultural,495.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Birchitlang,Birchitlang Banjar,agricultural,495.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Birchitlang,Birchitlang Jhund,agricultural,495.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Birchitlang,Birchitlang,residential,2750,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Birchitlang,Birchitlang,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Birjatwas,Birjatwas Chahi,agricultural,522.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Birjatwas,Birjatwas Nehri,agricultural,522.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Birjatwas,Birjatwas Barani,agricultural,522.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Birjatwas,Birjatwas Banjar,agricultural,522.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Birjatwas,Birjatwas Jhund,agricultural,522.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Birjatwas,Birjatwas,residential,3300,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Birjatwas,Birjatwas,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Buchawas,Buchawas Chahi,agricultural,470.45,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Buchawas,Buchawas Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Buchawas,Buchawas Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Buchawas,Buchawas Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Buchawas,Buchawas Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Buchawas,Buchawas,residential,2100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Buchawas,Buchawas,commercial,6300,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Buchawas,Buchawas on Road Kanina,agricultural,1732.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Buchawas,Buchawas on Road Kanina,residential,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Buchawas,Buchawas on Road Kanina,commercial,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bucholi,Bucholi Chahi,agricultural,440.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bucholi,Bucholi Nehri,agricultural,440.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bucholi,Bucholi Barani,agricultural,440.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bucholi,Bucholi Banjar,agricultural,440.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bucholi,Bucholi Jhund,agricultural,440.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bucholi,Bucholi,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Bucholi,Bucholi,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Budeen,Budeen Chahi,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Budeen,Budeen Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Budeen,Budeen Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Budeen,Budeen Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Budeen,Budeen Tiba,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Budeen,Budeen Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Budeen,Budeen Pahad,agricultural,1650.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Budeen,Budeen,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Budeen,Budeen,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Budeen,Pahar upto 2 Acre,agricultural,1650.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Budeen,Pahar upto 2 Acre Pahad,agricultural,1650.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,BundewajNagar,Bundewaj Nagar Chahi,agricultural,570.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,BundewajNagar,Bundewaj Nagar Nehri,agricultural,522.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,BundewajNagar,Bundewaj Nagar Barani,agricultural,522.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,BundewajNagar,Bundewaj Nagar Banjar,agricultural,522.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,BundewajNagar,Bundewaj Nagar Jhund,agricultural,647.73,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,BundewajNagar,Bundewaj Nagar,residential,4180,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,BundewajNagar,Bundewaj Nagar,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,BundewajNagar,Mgarh Adjoining Bucholi Chamdhera Dulana Road,agricultural,2007.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,BundewajNagar,Mgarh Adjoining Bucholi Chamdhera Dulana Road,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,BundewajNagar,Mgarh Adjoining Bucholi Chamdhera Dulana Road,commercial,48400,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Chamdhera,Chamdhera Chahi,agricultural,1140.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Chamdhera,Chamdhera Nehri,agricultural,1045.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Chamdhera,Chamdhera Barani,agricultural,1045.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Chamdhera,Chamdhera Banjar,agricultural,1045.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Chamdhera,Chamdhera Gair Mumkin,residential,2790,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Chamdhera,Chamdhera Tiba,agricultural,1045.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Chamdhera,Chamdhera Jhund,agricultural,1045.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Chamdhera,Chamdhera,residential,2950,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Chamdhera,Chamdhera,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Chhajiawas,Chhajiawas Chahi,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Chhajiawas,Chhajiawas Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Chhajiawas,Chhajiawas Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Chhajiawas,Chhajiawas Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Chhajiawas,Chhajiawas Gair Mumkin,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Chhajiawas,Chhajiawas Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Chhajiawas,Chhajiawas,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Chhajiawas,Chhajiawas,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Chitlang,Chitlang Chahi,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Chitlang,Chitlang Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Chitlang,Chitlang Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Chitlang,Chitlang Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Chitlang,Chitlang Gair Mumkin,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Chitlang,Chitlang Tiba,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Chitlang,Chitlang Sailabi,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Chitlang,Chitlang Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Chitlang,Chitlang,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Chitlang,Chitlang,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,DeroliJat,Deroli Jat Chahi,agricultural,431.25,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,DeroliJat,Deroli Jat Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,DeroliJat,Deroli Jat Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,DeroliJat,Deroli Jat Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,DeroliJat,Deroli Jat Gair Mumkin,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,DeroliJat,Deroli Jat Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,DeroliJat,Deroli Jat,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,DeroliJat,Deroli Jat,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Devrali,Devrali Chahi,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Devrali,Devrali Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Devrali,Devrali Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Devrali,Devrali Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Devrali,Devrali Gair Mumkin,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Devrali,Devrali Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Devrali,Devrali,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Devrali,Devrali,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Dewas,Dewas Chahi,agricultural,431.26,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Dewas,Dewas Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Dewas,Dewas Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Dewas,Dewas Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Dewas,Dewas Gair Mumkin,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Dewas,Dewas Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Dewas,Dewas,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Dewas,Dewas,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Dhadhor,Dhadhor Chahi,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Dhadhor,Dhadhor Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Dhadhor,Dhadhor Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Dhadhor,Dhadhor Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Dhadhor,Dhadhor Gair Mumkin,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Dhadhor,Dhadhor Pahad,agricultural,1650.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Dhadhor,Dhadhor Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Dhadhor,Dhadhor,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Dhadhor,Dhadhor,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Dhadhor,Pahar upto 2 Acre,agricultural,1650.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Dhadhor,Pahar upto 2 Acre Pahad,agricultural,1650.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Dhadhor,Pahar upto 2 Acre Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Dholi,Dholi Chahi,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Dholi,Dholi Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Dholi,Dholi Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Dholi,Dholi Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Dholi,Dholi Gair Mumkin,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Dholi,Dholi Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Dholi,Dholi,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Dholi,Dholi,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Dulana,Dulana Chahi,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Dulana,Dulana Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Dulana,Dulana Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Dulana,Dulana Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Dulana,Dulana Gair Mumkin,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Dulana,Dulana Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Dulana,Dulana,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Dulana,Dulana,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,DulothAhir,Duloth Ahir Chahi,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,DulothAhir,Duloth Ahir Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,DulothAhir,Duloth Ahir Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,DulothAhir,Duloth Ahir Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,DulothAhir,Duloth Ahir Gair Mumkin,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,DulothAhir,Duloth Ahir Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,DulothAhir,Duloth Ahir,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,DulothAhir,Duloth Ahir,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Gadania,Gadania Chahi,agricultural,330.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Gadania,Gadania Nehri,agricultural,330.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Gadania,Gadania Barani,agricultural,330.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Gadania,Gadania Banjar,agricultural,330.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Gadania,Gadania Gair Mumkin,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Gadania,Gadania Jhund,agricultural,330.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Gadania,Gadania,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Gadania,Gadania,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Gagarwas,Gagarwas Chahi,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Gagarwas,Gagarwas Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Gagarwas,Gagarwas Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Gagarwas,Gagarwas Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Gagarwas,Gagarwas Gair Mumkin,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Gagarwas,Gagarwas Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Gagarwas,Gagarwas,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Gagarwas,Gagarwas,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Garhi,Garhi Chahi,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Garhi,Garhi Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Garhi,Garhi Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Garhi,Garhi Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Garhi,Garhi Gair Mumkin,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Garhi,Garhi Pahad,agricultural,1650.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Garhi,Garhi Tiba,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Garhi,Garhi Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Garhi,Garhi,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Garhi,Garhi,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Garhi,Pahar upto 2 Acre,agricultural,1650.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Garhi,Pahar upto 2 Acre Pahad,agricultural,1650.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Gulawala,Gulawala Chahi,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Gulawala,Gulawala Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Gulawala,Gulawala Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Gulawala,Gulawala Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Gulawala,Gulawala Gair Mumkin,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Gulawala,Gulawala Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Gulawala,Gulawala,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Gulawala,Gulawala,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Gulawala,On Road NNL,agricultural,1732.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Gulawala,On Road NNL,residential,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Gulawala,On Road NNL,commercial,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Gulawala,Pahar upto 2 Acre,agricultural,1650.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Gulawala,Pahar upto 2 Acre Pahad,agricultural,1650.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Janjariawas,Janjariawas Chahi,agricultural,487.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Janjariawas,Janjariawas Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Janjariawas,Janjariawas Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Janjariawas,Janjariawas Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Janjariawas,Janjariawas Gair Mumkin,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Janjariawas,Janjariawas Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Janjariawas,Janjariawas,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Janjariawas,Janjariawas,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jant,Jant Chahi,agricultural,570.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jant,Jant Nehri,agricultural,522.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jant,Jant Barani,agricultural,522.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jant,Jant Banjar,agricultural,522.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jant,Jant Gair Mumkin,residential,2790,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jant,Jant Jhund,agricultural,522.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jant,Jant,residential,2790,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jant,Jant,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jant,Jant on Road Dadri,agricultural,1732.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jant,Jant on Road Dadri,residential,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jant,Jant on Road Dadri,commercial,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jasawas,Jasawas Chahi,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jasawas,Jasawas Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jasawas,Jasawas Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jasawas,Jasawas Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jasawas,Jasawas Gair Mumkin,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jasawas,Jasawas Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jasawas,Jasawas,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jasawas,Jasawas,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jatwas,Jatwas Chahi,agricultural,632.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jatwas,Jatwas Nehri,agricultural,605.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jatwas,Jatwas Barani,agricultural,605.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jatwas,Jatwas Banjar,agricultural,605.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jatwas,Jatwas Gair Mumkin,residential,2790,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jatwas,Jatwas Jhund,agricultural,605.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jatwas,Jatwas,residential,2790,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jatwas,Jatwas,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jatwas,Jatwas On Road NNL,agricultural,1732.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jatwas,Jatwas On Road NNL,residential,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jatwas,Jatwas On Road NNL,commercial,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jhagroli,Jhagroli Chahi,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jhagroli,Jhagroli Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jhagroli,Jhagroli Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jhagroli,Jhagroli Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jhagroli,Jhagroli Gair Mumkin,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jhagroli,Jhagroli Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jhagroli,Jhagroli,residential,1900,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jhagroli,Jhagroli,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jhagroli,Jhagroli On Road Kanina,agricultural,1732.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jhagroli,Jhagroli On Road Kanina,residential,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jhagroli,Jhagroli On Road Kanina,commercial,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jhook,Jhook Chahi,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jhook,Jhook Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jhook,Jhook Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jhook,Jhook Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jhook,Jhook Gair Mumkin,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jhook,Jhook Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jhook,Jhook,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jhook,Jhook,commercial,4840,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jonawas,Jonawas Chahi,agricultural,509.66,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jonawas,Jonawas Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jonawas,Jonawas Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jonawas,Jonawas Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jonawas,Jonawas Gair Mumkin,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jonawas,Jonawas Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jonawas,Jonawas,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jonawas,Jonawas,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jonawas,Jonawas on Road NNL,agricultural,1732.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jonawas,Jonawas on Road NNL,residential,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jonawas,Jonawas on Road NNL,commercial,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khaira,Adjoining 5 Acre with MC Area,agricultural,2062.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khaira,Adjoining 5 Acre with MC Area,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khaira,Adjoining 5 Acre with MC Area,commercial,48400,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khaira,Khaira Chahi N,agricultural,1489.77,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khaira,Khaira Chahi P,agricultural,2940.35,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khaira,Khaira Nehri,agricultural,1045.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khaira,Khaira Barani,agricultural,1045.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khaira,Khaira Banjar,agricultural,1045.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khaira,Khaira Gair Mumkin,residential,2790,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khaira,Khaira Tiba,agricultural,1045.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khaira,Khaira Jhund,agricultural,1045.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khaira,Khaira,residential,3440,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khaira,Khaira,commercial,6300,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khaira,Khaira On Road Satnali,agricultural,2062.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khaira,Khaira On Road Satnali,residential,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khaira,Khaira On Road Satnali,commercial,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khaira,Under within MC Area,agricultural,2062.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khaira,Under within MC Area,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khaira,Under within MC Area,commercial,48400,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khaira,Ward No 11 A,residential,10200,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khaira,Ward No 11 A,commercial,110200,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khaira,Ward No 11 B,residential,10200,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khaira,Ward No 11 B,commercial,110200,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khaira,Ward No 11 C,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khaira,Ward No 11 C,commercial,24200,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khaira,Ward No 14 Satnali Road,residential,10200,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khaira,Ward No 14 Satnali Road,commercial,110200,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khairoli,Khairoli Chahi,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khairoli,Khairoli Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khairoli,Khairoli Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khairoli,Khairoli Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khairoli,Khairoli Gair Mumkin,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khairoli,Khairoli Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khairoli,Khairoli,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khairoli,Khairoli,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,KharkhadaAkoda,Kharkhada on Road Dadri,agricultural,1732.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,KharkhadaAkoda,Kharkhada on Road Dadri,residential,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,KharkhadaAkoda,Kharkhada on Road Dadri,commercial,10900,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,KharkhadaAkoda,Kharkhada Akoda Chahi,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,KharkhadaAkoda,Kharkhada Akoda Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,KharkhadaAkoda,Kharkhada Akoda Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,KharkhadaAkoda,Kharkhada Akoda Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,KharkhadaAkoda,Kharkhada Akoda Gair Mumkin,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,KharkhadaAkoda,Kharkhada Akoda Pahad,agricultural,1650.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,KharkhadaAkoda,Kharkhada Akoda Tiba,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,KharkhadaAkoda,Kharkhada Akoda Kalar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,KharkhadaAkoda,Kharkhada Akoda Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,KharkhadaAkoda,Kharkhada Akoda,residential,2360,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,KharkhadaAkoda,Kharkhada Akoda,commercial,6720,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,KharkhadaAkoda,Pahar upto 2 Acre,agricultural,1500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,KharkhadaAkoda,Pahar upto 2 Acre Pahad,agricultural,1500.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khatiwas,Khatiwas Chahi,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khatiwas,Khatiwas Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khatiwas,Khatiwas Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khatiwas,Khatiwas Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khatiwas,Khatiwas Gair Mumkin,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khatiwas,Khatiwas Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khatiwas,Khatiwas,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khatiwas,Khatiwas,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khatod,Khatod Chahi,agricultural,695.23,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khatod,Khatod Nehri,agricultural,522.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khatod,Khatod Barani,agricultural,522.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khatod,Khatod Banjar,agricultural,522.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khatod,Khatod Gair Mumkin,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khatod,Khatod Jhund,agricultural,522.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khatod,Khatod,residential,2380,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khatod,Khatod,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khatod,Khatod on Road Satnali,agricultural,1320.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khatod,Khatod on Road Satnali,residential,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khatod,Khatod on Road Satnali,commercial,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khatodra,Khatodra Chahi,agricultural,431.25,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khatodra,Khatodra Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khatodra,Khatodra Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khatodra,Khatodra Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khatodra,Khatodra Gair Mumkin,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khatodra,Khatodra Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khatodra,Khatodra,residential,2580,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khatodra,Khatodra,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khatodra,Khatodra on Road Satnali,agricultural,1320.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khatodra,Khatodra on Road Satnali,residential,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khatodra,Khatodra on Road Satnali,commercial,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khera,Khera Chahi,agricultural,487.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khera,Khera Nehri,agricultural,487.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khera,Khera Barani,agricultural,487.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khera,Khera Banjar,agricultural,487.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khera,Khera Jhund,agricultural,487.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khera,Khera,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khera,Khera,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Kherki,Kherki Chahi,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Kherki,Kherki Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Kherki,Kherki Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Kherki,Kherki Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Kherki,Kherki Gair Mumkin,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Kherki,Kherki Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Kherki,Kherki,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Kherki,Kherki,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khudana,Khudana Chahi,agricultural,360.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khudana,Khudana Nehri,agricultural,360.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khudana,Khudana Barani,agricultural,360.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khudana,Khudana Banjar,agricultural,360.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khudana,Khudana Gair Mumkin,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khudana,Khudana Pahad,agricultural,1650.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khudana,Khudana Tiba,agricultural,360.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khudana,Khudana Sailabi,agricultural,360.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khudana,Khudana Jhund,agricultural,360.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khudana,Khudana,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khudana,Khudana,commercial,4840,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khudana,Khudana on Road Dadri,agricultural,1732.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khudana,Khudana on Road Dadri,residential,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khudana,Khudana on Road Dadri,commercial,10900,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khudana,Pahar upto 2 Acre,agricultural,1650.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Khudana,Pahar upto 2 Acre Pahad,agricultural,1650.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,KothalKalan,Kothal Kalan Chahi,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,KothalKalan,Kothal Kalan Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,KothalKalan,Kothal Kalan Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,KothalKalan,Kothal Kalan Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,KothalKalan,Kothal Kalan Gair Mumkin,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,KothalKalan,Kothal Kalan Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,KothalKalan,Kothal Kalan,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,KothalKalan,Kothal Kalan,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,KothalKhurd,Kothal Khurd Chahi,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,KothalKhurd,Kothal Khurd Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,KothalKhurd,Kothal Khurd Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,KothalKhurd,Kothal Khurd Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,KothalKhurd,Kothal Khurd Gair Mumkin,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,KothalKhurd,Kothal Khurd Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,KothalKhurd,Kothal Khurd,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,KothalKhurd,Kothal Khurd,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Kukshi,Kukshi Chahi,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Kukshi,Kukshi Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Kukshi,Kukshi Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Kukshi,Kukshi Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Kukshi,Kukshi Gair Mumkin,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Kukshi,Kukshi Pahad,agricultural,1650.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Kukshi,Kukshi Tiba,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Kukshi,Kukshi Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Kukshi,Kukshi,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Kukshi,Kukshi,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Kukshi,Kukshi on Road NNL,agricultural,1732.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Kukshi,Kukshi on Road NNL,residential,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Kukshi,Kukshi on Road NNL,commercial,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Kukshi,Pahar upto 2 Acre,agricultural,1650.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Kukshi,Pahar upto 2 Acre Pahad,agricultural,1650.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Kurahwata,Kurahwata Chahi,agricultural,495.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Kurahwata,Kurahwata Nehri,agricultural,495.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Kurahwata,Kurahwata Barani,agricultural,495.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Kurahwata,Kurahwata Banjar,agricultural,495.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Kurahwata,Kurahwata Gair Mumkin,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Kurahwata,Kurahwata Tiba,agricultural,495.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Kurahwata,Kurahwata Jhund,agricultural,495.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Kurahwata,Kurahwata,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Kurahwata,Kurahwata,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Lawan,Lawan Chahi,agricultural,431.4,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Lawan,Lawan Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Lawan,Lawan Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Lawan,Lawan Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Lawan,Lawan Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Lawan,Lawan,residential,2790,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Lawan,Lawan,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Badarwal City,residential,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Badarwal City,commercial,18150,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Kasba Mgarh Near Village in MC,agricultural,2007.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Kasba Mgarh Near Village in MC,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Kasba Mgarh Near Village in MC,commercial,48400,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Khaira,agricultural,2007.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Khaira,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Khaira,commercial,52800,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Mahendragarh Chahi,agricultural,2098.75,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Mahendragarh Nehri,agricultural,2007.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Mahendragarh Barani,agricultural,2007.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Mahendragarh Banjar,agricultural,2007.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Mahendragarh Tiba,agricultural,2007.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Mahendragarh Jhund,agricultural,2007.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Mahendragarh,residential,7990,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Mahendragarh,commercial,16940,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Mahendragarh Other Chahi,agricultural,1825.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Mahendragarh Other,residential,9590,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Mahendragarh Other,commercial,64130,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Mahendragarh-Dadri Road,agricultural,2007.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Mahendragarh-Kanina Road,agricultural,2007.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Mahendragarh-Narnaul Road,agricultural,2007.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Mahendragarh-Satnali Road,agricultural,2007.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Majra Khurd,agricultural,2007.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Majra Khurd,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Majra Khurd,commercial,48400,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Mgarh Adjoining Bucholi Chamdhera Dulana Road,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Mgarh Adjoining Bucholi Chamdhera Dulana Road,commercial,48400,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Mgarh etc,agricultural,2007.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Mgarh etc,residential,7990,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Mgarh etc,commercial,16450,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Mgarh On Road,agricultural,2007.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Mgarh On Road,residential,8110,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Mgarh On Road,commercial,48400,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Paiga,agricultural,2007.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Paiga,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Paiga,commercial,48400,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Rewasa,agricultural,2007.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Rewasa,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Salimabad Bundewaj Nagar,agricultural,2007.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Salimabad Bundewaj Nagar,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Salimabad Bundewaj Nagar,commercial,48400,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Sector-9A Part 10 and Sector-11 size 10 Marla,residential,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Sector-9A Part 10 and Sector-11 size 10 Marla,commercial,19360,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Sector-9A Part 10 and Sector-11 size 14 Marla and 1 Kanal,residential,14520,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 1 A,residential,58080,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 1 A,commercial,64130,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 1 B,residential,15600,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 1 B,commercial,70180,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 1 C,residential,8960,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 1 C,commercial,34160,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 1 D,residential,11070,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 1 D,commercial,18480,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 1 E,residential,7510,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 1 E,commercial,32670,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 1 F,residential,10170,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 1 F,commercial,105270,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 10 A,residential,7400,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 10 A,commercial,64130,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 10 B,residential,6600,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 10 B,commercial,32670,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 11 A,residential,10170,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 11 A,commercial,110110,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 11 B,residential,10170,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 11 B,commercial,110110,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 11 C,residential,6600,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 11 C,commercial,24200,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 12 A,residential,6600,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 12 A,commercial,24200,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 12 B,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 12 B,commercial,24200,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 13 A,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 13 A,commercial,24200,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 13 B,residential,6600,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 13 B,commercial,28600,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 13 C,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 13 C,commercial,24200,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 13 D,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 13 D,commercial,24200,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 13 E,residential,10170,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 13 E,commercial,110110,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 14 A,residential,10170,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 14 A,commercial,110110,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 14 B,residential,9020,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 14 B,commercial,64130,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 15 A,residential,10170,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 15 A,commercial,110110,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 15 B,residential,6780,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 15 B,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 15 C,residential,6780,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 15 C,commercial,50820,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 15 D,residential,8850,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 15 D,commercial,67050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 15 E,residential,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 15 E,commercial,110110,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 15 F,residential,6780,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 15 F,commercial,64130,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 15 G,residential,6780,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 15 G,commercial,64130,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 15 H,residential,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 15 H,commercial,79860,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 2 A,residential,7510,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 2 A,commercial,64130,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 2 B,residential,8960,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 2 B,commercial,32670,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 2 C,residential,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 2 C,commercial,79860,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 2 D,residential,8960,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 2 D,commercial,47190,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 2 E,residential,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 2 E,commercial,79860,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 2 F,residential,6660,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 2 F,commercial,16940,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 2 G,residential,10170,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 2 G,commercial,110110,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 3 A,residential,7510,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 3 A,commercial,79860,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 3 B,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 3 B,commercial,16940,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 3 C,residential,8250,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 3 C,commercial,24200,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 3 D,residential,8960,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 3 D,commercial,24200,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 3 E,residential,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 3 E,commercial,79860,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 3 F,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 3 F,commercial,24200,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 3 G,residential,8960,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 3 G,commercial,32670,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 3 H,residential,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 3 H,commercial,110110,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 4 A,residential,8190,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 4 A,commercial,34160,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 4 B,residential,7510,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 4 B,commercial,32670,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 4 C,residential,9270,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 4 C,commercial,32670,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 5 A,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 5 A,commercial,48400,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 5 B,residential,6620,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 5 B,commercial,48400,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 5 C,residential,6330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 5 C,commercial,48400,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 5 D,residential,9240,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 5 D,commercial,48400,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 6 A,residential,6780,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 6 A,commercial,48400,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 6 B,residential,9240,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 6 B,commercial,48400,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 6 C,residential,6780,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 6 C,commercial,48400,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 6 D,residential,7400,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 6 D,commercial,34160,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 6 E,residential,8960,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 6 E,commercial,79860,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 6 F,residential,8110,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 6 F,commercial,79860,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 7 A,residential,7400,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 7 A,commercial,48400,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 7 B,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 7 B,commercial,48400,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 7 C,residential,7800,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 7 C,commercial,41140,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 7 D,residential,6780,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 7 D,commercial,48400,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 8 A,residential,6780,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 8 A,commercial,48400,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 8 B,residential,6600,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 8 B,commercial,48400,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 8 C,residential,8050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 8 C,commercial,64130,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 9 A,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 9 A,commercial,24200,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 9 B,residential,6780,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 9 B,commercial,48400,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 9 C,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Ward No 9 C,commercial,24200,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,MajraKalan,Majra Kalan Chahi,agricultural,1127.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,MajraKalan,Majra Kalan Nehri,agricultural,1127.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,MajraKalan,Majra Kalan Barani,agricultural,1127.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,MajraKalan,Majra Kalan Banjar,agricultural,1127.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,MajraKalan,Majra Kalan Jhund,agricultural,1127.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,MajraKalan,Majra Kalan,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,MajraKalan,Majra Kalan,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,MajraKhurd,Adjoining 5 Acre with MC Area,agricultural,2007.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,MajraKhurd,Adjoining 5 Acre with MC Area,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,MajraKhurd,Adjoining 5 Acre with MC Area,commercial,48400,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,MajraKhurd,Majra Khurd Chahi N,agricultural,1612.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,MajraKhurd,Majra Khurd Chahi P,agricultural,2737.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,MajraKhurd,Majra Khurd Nehri,agricultural,1182.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,MajraKhurd,Majra Khurd Barani,agricultural,1182.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,MajraKhurd,Majra Khurd Banjar,agricultural,1182.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,MajraKhurd,Majra Khurd Tiba,agricultural,1182.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,MajraKhurd,Majra Khurd Jhund,agricultural,1290.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,MajraKhurd,Majra Khurd,residential,5450,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,MajraKhurd,Majra Khurd,commercial,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,MajraKhurd,Majra Khurd On Road Kanina N,agricultural,2007.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,MajraKhurd,Majra Khurd On Road Kanina P,agricultural,2007.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,MajraKhurd,Majra Khurd On Road Kanina,residential,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,MajraKhurd,Majra Khurd On Road Kanina,commercial,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,MajraKhurd,Under within MC Area,agricultural,2007.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,MajraKhurd,Under within MC Area,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,MajraKhurd,Under within MC Area,commercial,48400,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Malra,Malra Chahi,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Malra,Malra Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Malra,Malra Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Malra,Malra Gair Mumkin,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Malra,Malra Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Malra,Malra,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Malra,Malra,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Meghanwas,Meghanwas Chahi,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Meghanwas,Meghanwas Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Meghanwas,Meghanwas Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Meghanwas,Meghanwas Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Meghanwas,Meghanwas Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Meghanwas,Meghanwas,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Meghanwas,Meghanwas,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mudain,Mudain Chahi,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mudain,Mudain Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mudain,Mudain Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mudain,Mudain Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mudain,Mudain Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mudain,Mudain,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mudain,Mudain,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Nanagwas,Nanagwas Chahi,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Nanagwas,Nanagwas Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Nanagwas,Nanagwas Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Nanagwas,Nanagwas Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Nanagwas,Nanagwas Gair Mumkin,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Nanagwas,Nanagwas Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Nanagwas,Nanagwas,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Nanagwas,Nanagwas,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,NangalSirohi,Nangal Sirohi Chahi,agricultural,490.91,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,NangalSirohi,Nangal Sirohi Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,NangalSirohi,Nangal Sirohi Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,NangalSirohi,Nangal Sirohi Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,NangalSirohi,Nangal Sirohi Gair Mumkin,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,NangalSirohi,Nangal Sirohi Pahad,agricultural,1650.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,NangalSirohi,Nangal Sirohi Tiba,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,NangalSirohi,Nangal Sirohi Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,NangalSirohi,Nangal Sirohi,residential,2730,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,NangalSirohi,Nangal Sirohi,commercial,6300,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,NangalSirohi,On Road NNL,agricultural,1732.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,NangalSirohi,On Road NNL,residential,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,NangalSirohi,On Road NNL,commercial,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,NangalSirohi,Pahar upto 2 Acre,agricultural,1650.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,NangalSirohi,Pahar upto 2 Acre Pahad,agricultural,1650.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Nihalawas,Nihalawas Chahi,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Nihalawas,Nihalawas Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Nihalawas,Nihalawas Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Nihalawas,Nihalawas Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Nihalawas,Nihalawas Gair Mumkin,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Nihalawas,Nihalawas Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Nihalawas,Nihalawas,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Nihalawas,Nihalawas,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Nimbhera,Nimbhera Chahi,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Nimbhera,Nimbhera Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Nimbhera,Nimbhera Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Nimbhera,Nimbhera Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Nimbhera,Nimbhera Gair Mumkin,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Nimbhera,Nimbhera Tiba,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Nimbhera,Nimbhera Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Nimbhera,Nimbhera,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Nimbhera,Nimbhera,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Nimbhera,Nimbhera on Road Satnali,agricultural,1320.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Nimbhera,Nimbhera on Road Satnali Nehri,agricultural,1320.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Nimbhera,Nimbhera on Road Satnali,residential,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Nimbhera,Nimbhera on Road Satnali,commercial,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Nimbi,Nimbi Chahi,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Nimbi,Nimbi Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Nimbi,Nimbi Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Nimbi,Nimbi Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Nimbi,Nimbi Gair Mumkin,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Nimbi,Nimbi Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Nimbi,Nimbi,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Nimbi,Nimbi,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Pahadawas,Pahadawas Chahi,agricultural,487.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Pahadawas,Pahadawas Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Pahadawas,Pahadawas Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Pahadawas,Pahadawas Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Pahadawas,Pahadawas Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Pahadawas,Pahadawas,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Pahadawas,Pahadawas,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Paiga,Adjoining 5 Acre with MC Area,agricultural,2007.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Paiga,Adjoining 5 Acre with MC Area,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Paiga,Adjoining 5 Acre with MC Area,commercial,48400,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Paiga,Paiga Chahi N,agricultural,1092.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Paiga,Paiga Chahi P,agricultural,2098.75,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Paiga,Paiga Nehri,agricultural,1045.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Paiga,Paiga Barani,agricultural,1045.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Paiga,Paiga Banjar,agricultural,1045.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Paiga,Paiga Tiba,agricultural,1045.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Paiga,Paiga Jhund N,agricultural,1045.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Paiga,Paiga Jhund P,agricultural,2007.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Paiga,Paiga,residential,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Paiga,Paiga,commercial,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Paiga,Paiga On Road Narnaul N,agricultural,2007.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Paiga,Paiga On Road Narnaul P,agricultural,2007.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Paiga,Paiga On Road Narnaul,residential,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Paiga,Paiga On Road Narnaul,commercial,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Paiga,Under within MC,agricultural,2007.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Paiga,Under within MC,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Paiga,Under within MC,commercial,48400,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Paiga,Ward No 11,residential,10170,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Paiga,Ward No 11,commercial,110110,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Pal,Pal Chahi,agricultural,330.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Pal,Pal Nehri,agricultural,330.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Pal,Pal Barani,agricultural,330.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Pal,Pal Banjar,agricultural,330.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Pal,Pal Gair Mumkin,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Pal,Pal Jhund,agricultural,330.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Pal,Pal,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Pal,Pal,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Palh,Palh Chahi,agricultural,330.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Palh,Palh Nehri,agricultural,330.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Palh,Palh Barani,agricultural,330.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Palh,Palh Banjar,agricultural,330.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Palh,Palh Gair Mumkin,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Palh,Palh Jhund,agricultural,330.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Palh,Palh,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Palh,Palh,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Pali,Pali Chahi,agricultural,951.36,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Pali,Pali Nehri,agricultural,770.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Pali,Pali Barani,agricultural,770.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Pali,Pali Banjar,agricultural,770.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Pali,Pali Tiba,agricultural,770.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Pali,Pali Jhund,agricultural,805.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Pali,Pali,residential,3590,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Pali,Pali,commercial,6870,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Pali,Pali on Road Dadri,agricultural,1732.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Pali,Pali on Road Dadri,residential,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Pali,Pali on Road Dadri,commercial,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,PalriPanihara,Palri Panihara Chahi,agricultural,665.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,PalriPanihara,Palri Panihara Nehri,agricultural,665.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,PalriPanihara,Palri Panihara Barani,agricultural,665.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,PalriPanihara,Palri Panihara Banjar,agricultural,665.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,PalriPanihara,Palri Panihara Jhund,agricultural,665.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,PalriPanihara,Palri Panihara,residential,2090,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,PalriPanihara,Palri Panihara,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,PalriPanihara,Palri Panihara On Road Dadri,residential,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,PalriPanihara,Palri Panihara On Road Dadri,commercial,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rajawas,Pahar upto 2 Acre,agricultural,1650.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rajawas,Pahar upto 2 Acre Pahad,agricultural,1650.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rajawas,Rajawas Chahi,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rajawas,Rajawas Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rajawas,Rajawas Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rajawas,Rajawas Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rajawas,Rajawas Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rajawas,Rajawas,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rajawas,Rajawas,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rathiwas,Rathiwas Chahi,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rathiwas,Rathiwas Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rathiwas,Rathiwas Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rathiwas,Rathiwas Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rathiwas,Rathiwas Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rathiwas,Rathiwas,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rathiwas,Rathiwas,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rewasa,Adjoining 5 Acre with MC Area,agricultural,2007.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rewasa,Adjoining 5 Acre with MC Area,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rewasa,Adjoining 5 Acre with MC Area,commercial,48400,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rewasa,Near Tularam Chowk,residential,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rewasa,Near Tularam Chowk,commercial,110200,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rewasa,Rewasa Chahi N,agricultural,1182.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rewasa,Rewasa Chahi P,agricultural,2007.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rewasa,Rewasa Nehri,agricultural,1182.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rewasa,Rewasa Barani,agricultural,1182.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rewasa,Rewasa Banjar,agricultural,1182.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rewasa,Rewasa Gair Mumkin,residential,2790,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rewasa,Rewasa Tiba,agricultural,1182.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rewasa,Rewasa Jhund,agricultural,1182.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rewasa,Rewasa N,residential,3800,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rewasa,Rewasa P,residential,7300,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rewasa,Rewasa P,commercial,10200,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rewasa,Rewasa On Road Dadri and Kanina N,agricultural,2007.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rewasa,Rewasa On Road Dadri and Kanina P,agricultural,2007.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rewasa,Rewasa On Road Dadri and Kanina,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rewasa,Rewasa On Road Dadri and Kanina,commercial,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rewasa,Under within MC Area,agricultural,2007.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rewasa,Under within MC Area,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rewasa,Under within MC Area,commercial,48400,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rewasa,Ward No 1 A Anaj Mandi Rewasa,residential,58100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rewasa,Ward No 1 A Anaj Mandi Rewasa,commercial,64200,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rewasa,Ward No 1 D,residential,9000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rewasa,Ward No 1 D,commercial,17750,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rewasa,Ward No 1 F,residential,10200,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rewasa,Ward No 1 F,commercial,105300,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rewasa,Ward No 2 A,residential,7500,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rewasa,Ward No 2 A,commercial,64200,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rewasa,Ward No 2 B,residential,9000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rewasa,Ward No 2 B,commercial,32670,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rewasa,Ward No 2 E,residential,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rewasa,Ward No 2 E,commercial,79900,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rewasa,Ward No 2 F,residential,6700,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rewasa,Ward No 2 F,commercial,17000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rewasa,Ward No 2 G,residential,10200,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rewasa,Ward No 2 G,commercial,110200,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Salimabad,Mgarh Adjoining Bucholi Chamdhera Dulana Road,agricultural,2007.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Salimabad,Mgarh Adjoining Bucholi Chamdhera Dulana Road,residential,6050,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Salimabad,Mgarh Adjoining Bucholi Chamdhera Dulana Road,commercial,48400,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Salimabad,Salimabad Chahi,agricultural,1236.26,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Salimabad,Salimabad Nehri,agricultural,1236.26,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Salimabad,Salimabad Barani,agricultural,1236.26,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Salimabad,Salimabad Banjar,agricultural,1236.26,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Salimabad,Salimabad Jhund,agricultural,1236.26,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Salimabad,Salimabad,residential,3550,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Salimabad,Salimabad,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Sigra,Sigra Chahi,agricultural,712.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Sigra,Sigra Nehri,agricultural,712.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Sigra,Sigra Barani,agricultural,712.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Sigra,Sigra Banjar,agricultural,712.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Sigra,Sigra Jhund,agricultural,712.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Sigra,Sigra,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Sigra,Sigra,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Sigra,Sigra on Road Kanina,agricultural,1732.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Sigra,Sigra on Road Kanina,residential,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Sigra,Sigra on Road Kanina,commercial,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Sigri,Sigri Chahi,agricultural,617.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Sigri,Sigri Nehri,agricultural,522.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Sigri,Sigri Barani,agricultural,522.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Sigri,Sigri Banjar,agricultural,522.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Sigri,Sigri Jhund,agricultural,522.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Sigri,Sigri,residential,2970,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Sigri,Sigri,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Sigri,Sigri On Road Kanina,agricultural,1732.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Sigri,Sigri On Road Kanina,residential,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Sigri,Sigri On Road Kanina,commercial,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Sisoth,Sisoth Chahi,agricultural,1140.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Sisoth,Sisoth Nehri,agricultural,1045.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Sisoth,Sisoth Barani,agricultural,1045.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Sisoth,Sisoth Banjar,agricultural,1045.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Sisoth,Sisoth Jhund,agricultural,1045.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Sisoth,Sisoth,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Sisoth,Sisoth,commercial,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Sisoth,Sisoth on Road Dadri,agricultural,1732.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Sisoth,Sisoth on Road Dadri,residential,7260,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Sisoth,Sisoth on Road Dadri,commercial,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Sohla,Pahar upto 2 Acre,agricultural,1650.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Sohla,Pahar upto 2 Acre Pahad,agricultural,1650.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Sohla,Sohla Chahi,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Sohla,Sohla Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Sohla,Sohla Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Sohla,Sohla Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Sohla,Sohla Pahad,agricultural,1650.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Sohla,Sohla Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Sohla,Sohla,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Sohla,Sohla,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Surjanwas,Surjanwas Chahi,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Surjanwas,Surjanwas Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Surjanwas,Surjanwas Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Surjanwas,Surjanwas Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Surjanwas,Surjanwas Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Surjanwas,Surjanwas,residential,2730,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Surjanwas,Surjanwas,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Ushmapur,Pahar upto 2 Acre,agricultural,1650.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Ushmapur,Pahar upto 2 Acre Pahad,agricultural,1650.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Ushmapur,Ushmapur Chahi,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Ushmapur,Ushmapur Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Ushmapur,Ushmapur Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Ushmapur,Ushmapur Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Ushmapur,Ushmapur Gair Mumkin,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Ushmapur,Ushmapur Pahad,agricultural,1650.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Ushmapur,Ushmapur Tiba,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Ushmapur,Ushmapur Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Ushmapur,Ushmapur,residential,2200,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Ushmapur,Ushmapur,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Zerpur,Pahar upto 2 Acre,agricultural,1650.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Zerpur,Pahar upto 2 Acre Pahad,agricultural,1650.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Zerpur,Zerpur Chahi,agricultural,431.26,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Zerpur,Zerpur Nehri,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Zerpur,Zerpur Barani,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Zerpur,Zerpur Banjar,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Zerpur,Zerpur Gair Mumkin,residential,2000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Zerpur,Zerpur Pahad,agricultural,1650.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Zerpur,Zerpur Tiba,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Zerpur,Zerpur Jhund,agricultural,412.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Zerpur,Zerpur,residential,2100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Zerpur,Zerpur,commercial,5330,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Shopping Complex,commercial,45000,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,NH 152D up to 2 acres,agricultural,1859.5,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,PWD/Tiles/Link Road unlisted,agricultural,619.83,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,MajraKhurd,Danveer Colony,residential,7150,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Rewasa,Tula Ram Colony,residential,7150,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Mahendragarh,Shiv Colony,residential,8900,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,BundewajNagar,Dev Nagar Colony,residential,7150,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Mahendragarh,Jatwas,Anand Colony,residential,6300,2026-04-01,mahendragarh_gov_in_dc_notification

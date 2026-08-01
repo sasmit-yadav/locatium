@@ -1,0 +1,349 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Rohtak,Meham,MokhraKheriKhas,Mokhra Kheri Khas Nehri N,agricultural,400.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MokhraKheriKhas,Mokhra Kheri Khas,residential,1600,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Ajayab,Ajayab Nehri N,agricultural,400.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Ajayab,Ajayab Nehri P,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Ajayab,Ajayab,residential,1600,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Ajayab,Ajayab se Girawad Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Ajayab,Ajayab se Girawad,residential,1600,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Ajayab,Ajayab se Bainsi pahunch Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Ajayab,Ajayab se Bainsi pahunch,residential,1600,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Ajayab,Ajayab se Bharan pahunch Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Ajayab,Ajayab se Madina Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Ajayab,Ajayab se Madina,residential,1600,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Ajayab,Abadi Deh ke sath Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Ajayab,Abadi Deh ke sath,residential,1600,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Kharkara,Abadi Deh ke sath Nehri N,agricultural,525.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Kharkara,Kharkara Nehri N,agricultural,516.53,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Kharkara,Kharkara Nehri P,agricultural,516.53,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Kharkara,Kharkara,residential,1600,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Kharkara,Kharkara,commercial,3400,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Kharkara,Kharkara se Titri pahunch Nehri N,agricultural,537.19,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Kharkara,Kharkara se Behalba Nehri N,agricultural,537.19,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Kharkara,Kharkara se Bharan Nehri N,agricultural,537.19,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Kharkara,Kharkara se Mokhra Nehri N,agricultural,537.19,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Kharkara,Rashtriya Mukhya Marg ke sath Nehri N,agricultural,826.45,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,KheriMeham,Abadi Deh ke sath Nehri N,agricultural,675.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,KheriMeham,Kheri Meham Nehri N,agricultural,500.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,KheriMeham,Kheri Meham Nehri P,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,KheriMeham,Kheri Meham,residential,2800,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,KheriMeham,Kheri Meham se Meham Nehri N,agricultural,700.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,KheriMeham,Kheri se Ashram Road ke Nehri N,agricultural,500.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Girawar,Abadi Deh ke sath Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Girawar,Girawar Chahi N,agricultural,400.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Girawar,Girawar Nehri N,agricultural,400.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Girawar,Girawar,residential,1600,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Girawar,Girawar se Ajayab Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Girawar,Girawar se Kheri Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Girawar,Girawar se Nindana Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Girawar,Girawar se Bainsi Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Girawar,Girawar se Madina Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Girawar,Girawar se Samargopalpur Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Nidana,Abadi Deh ke sath Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Nidana,Nidana Nehri N,agricultural,400.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Nidana,Nidana Nehri P,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Nidana,Nidana,residential,1600,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Nidana,Nidana se Girawar Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Nidana,Nidana se Bahuakbarpur Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Nidana,Madina se Nidana Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,FarmanaKhas,Abadi Deh ke sath Nehri N,agricultural,464.88,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,FarmanaKhas,Farmana se Seeman Nehri N,agricultural,464.88,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,FarmanaKhas,Farmana Khas Nehri N,agricultural,418.18,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,FarmanaKhas,Farmana Khas Nehri P,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,FarmanaKhas,Farmana Khas,residential,1600,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,FarmanaKhas,Farmana se Julana Nehri N,agricultural,464.88,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,FarmanaKhas,Farmana se Bedwa Nehri N,agricultural,475.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,FarmanaKhas,Farmana se Meham Nehri N,agricultural,475.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,FarmanaKhas,Farmana se Malvi Nehri N,agricultural,464.88,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,FarmanaBadshahpur,Abadi Deh ke sath Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,FarmanaBadshahpur,Nishan pahunch marg se Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,FarmanaBadshahpur,Farmana Badshahpur Nehri N,agricultural,400.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,FarmanaBadshahpur,Farmana Badshahpur Nehri P,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,FarmanaBadshahpur,Farmana Badshahpur,residential,1600,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,FarmanaBadshahpur,Farmana se Julana Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,FarmanaBadshahpur,Farmana Badshahpur se Guggaheri Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,FarmanaBadshahpur,Bainsi pahunch marg Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Behalba,Abadi Deh ke sath Nehri N,agricultural,475.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Behalba,Kharkara se Bharan Nehri N,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Behalba,Kharkara se Mokhra Khedi Roz Nehri N,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Behalba,Behalba Nehri N,agricultural,425.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Behalba,Behalba Nehri P,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Behalba,Behalba Chahi N,agricultural,425.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Behalba,Behalba Chahi P,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Behalba,Behalba,residential,1600,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Behalba,Behalba se Kalanga Nehri N,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Behalba,Behalba se Kharkara Nehri N,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Behalba,Behalba se Basana pahunch Nehri N,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Behalba,Behalba se gaon Sisar Khas Nehri N,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Behalba,Meham se Beri pahunch Nehri N,agricultural,454.55,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Behalba,Rashtriya Marg ke sath Nehri N,agricultural,826.45,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Behalba,Rashtriya Rajmarg ke se Behalba Nehri N,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Bedwa,Abadi Deh ke sath Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Bedwa,Bedwa Nehri N,agricultural,400.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Bedwa,Bedwa Nehri P,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Bedwa,Bedwa,residential,1600,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Bedwa,Bedwa se Farmana Khas Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Bedwa,Bedwa se Seeman pahunch Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Bedwa,Bedwa se Putthi pahunch marg Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Bharan,Abadi Deh ke sath Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Bharan,Kharkara se Titri pahunch Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Bharan,Bharan Nehri N,agricultural,400.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Bharan,Bharan Nehri P,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Bharan,Bharan,residential,1600,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Bharan,Bharan se Ajayab pahunch Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Bharan,Bharan se Kharkara pahunch Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Bharan,Bharan se Nindana pahunch Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Bharan,Bharan se Meham pahunch Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,BhainiChandrapal,Abadi Deh ke sath Nehri N,agricultural,475.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,BhainiChandrapal,Bhaini Chandrapal Nehri N,agricultural,400.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,BhainiChandrapal,Bhaini Chandrapal,residential,1600,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,BhainiChandrapal,Bhaini Chandrapal se Farmana Nehri N,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,BhainiChandrapal,Bhaini Chandrapal se Bhaini Surjan Nehri N,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,BhainiChandrapal,Bhaini Chandrapal se Meham Nehri N,agricultural,500.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,BhainiChandrapal,Bhaini Surjan se Meham pahunch Nehri N,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,BhainiBhairo,Abadi Deh ke sath Nehri N,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,BhainiBhairo,Bhaini Bhairo Nehri N,agricultural,400.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,BhainiBhairo,Bhaini Bhairo Nehri P,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,BhainiBhairo,Bhaini Bhairo,residential,1600,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,BhainiBhairo,Bhaini Bhairo se Dhanana Nehri N,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,BhainiBhairo,Bhaini Bhairo se Badesara Nehri N,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,BhainiBhairo,Bhaini Bhairo se Bhaini Maharajpur Nehri N,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,BhainiBhairo,Bhaini Bhairo se Muddal Nehri N,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,BhainiBhairo,Bhaini Bhairo se Meham Nehri N,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,BhainiMaharajPur,Abadi Deh ke sath Nehri N,agricultural,500.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,BhainiMaharajPur,Bhaini Maharaj Pur Nehri N,agricultural,418.18,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,BhainiMaharajPur,Bhaini Maharaj Pur Nehri P,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,BhainiMaharajPur,Bhaini Maharaj Pur,residential,1600,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,BhainiMaharajPur,Bhaini Maharaj Pur se Bhaini Bhairo Nehri N,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,BhainiMaharajPur,Bhaini Maharaj Pur se Bhaini Mate Nehri N,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,BhainiMaharajPur,Rashtriya Marg No-10 Nehri N,agricultural,826.45,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,BhainiSurjan,Abadi ke sath Nehri N,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,BhainiSurjan,Bhaini Mate se Bhaini Maharajpur Nehri N,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,BhainiSurjan,Bhaini Surjan Nehri N,agricultural,400.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,BhainiSurjan,Bhaini Surjan Nehri P,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,BhainiSurjan,Bhaini Surjan,residential,1600,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,BhainiSurjan,Bhaini Surjan se Bhaini Mato Nehri N,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,BhainiSurjan,Bhaini Surjan se Seeman Nehri N,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MadinaKorsan,Abadi Deh ke sath Nehri N,agricultural,750.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MadinaKorsan,Abadi Deh ke sath Nehri P,agricultural,750.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MadinaKorsan,Madina Korsan Nehri N,agricultural,418.18,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MadinaKorsan,Madina Korsan Nehri P,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MadinaKorsan,Madina Korsan,residential,1600,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MadinaKorsan,Madina Korsan,commercial,4000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MadinaKorsan,Madina se Ajayab Nehri N,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MadinaKorsan,Madina se Ajayab Nehri P,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MadinaKorsan,Madina se Nidana Nehri N,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MadinaKorsan,Madina se Nidana Nehri P,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MadinaKorsan,Madina se Basana Nehri N,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MadinaKorsan,Madina se Bharan Nehri N,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MadinaKorsan,Madina se Bharan Nehri P,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MadinaKorsan,Rashtriya Rajmarg No-10 Nehri N,agricultural,826.45,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MadinaKorsan,Rashtriya Rajmarg No-10 Nehri P,agricultural,826.45,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MadinaGidran,Abadi Deh ke sath Nehri N,agricultural,784.09,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MadinaGidran,Abadi Deh ke sath Nehri P,agricultural,784.09,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MadinaGidran,Madina Gidran Nehri N,agricultural,418.18,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MadinaGidran,Madina Gidran Nehri P,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MadinaGidran,Madina Gidran,residential,1600,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MadinaGidran,Madina Gidran,commercial,4000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MadinaGidran,Madina Gidran se Siwan Nehri N,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MadinaGidran,Madina Gidran se Siwan Nehri P,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MadinaGidran,Madina se Mokhra Nehri N,agricultural,500.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MadinaGidran,Madina se Mokhra Nehri P,agricultural,500.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MadinaGidran,Rashtriya Rajmarg ke sath Nehri N,agricultural,826.45,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MadinaGidran,Rashtriya Rajmarg ke sath Nehri P,agricultural,826.45,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(01) Purane Bus Stand,residential,18200,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(01) Purane Bus Stand,commercial,78700,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(02) Gohana Chungi se Rajbaha,residential,15800,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(02) Gohana Chungi se Rajbaha,commercial,50900,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(03) Purana Bus Stand se Hisar,residential,13100,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(03) Purana Bus Stand se Hisar,commercial,44000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(04) Khand Vikas evam Panchayat,residential,8800,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(04) Khand Vikas evam Panchayat,commercial,36300,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(05) Bhiwani Road se Behalba,residential,8800,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(05) Bhiwani Road se Behalba,commercial,26400,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(06) Kathmandi Meham v Bawadi tak,residential,8000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(06) Kathmandi Meham v Bawadi tak,commercial,36300,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(07) Labhanvi Road par Behalba,residential,7260,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(07) Labhanvi Road par Behalba,commercial,12300,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(08) Purana Bus Stand se Azad,residential,21800,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(08) Purana Bus Stand se Azad,commercial,78700,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(09) Azad Chowk se Dua,residential,21800,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(09) Azad Chowk se Dua,commercial,78700,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(10) Azad Chowk se Hisar Road,residential,21800,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(10) Azad Chowk se Hisar Road,commercial,78700,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(11) Azad Chowk se Krishna,residential,21800,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(11) Azad Chowk se Krishna,commercial,108900,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(12) Vinoba Market Meham,residential,21800,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(12) Vinoba Market Meham,commercial,82300,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(13) Vinoba Market se Sabzi,residential,21800,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(13) Vinoba Market se Sabzi,commercial,44000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(14) Dua Market se Shiv,residential,16100,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(14) Dua Market se Shiv,commercial,50900,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(15) Dua Market se Shri Ram,residential,16100,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(15) Dua Market se Shri Ram,commercial,61300,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(16) Shri Ram Dharamshala se,residential,10600,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(16) Shri Ram Dharamshala se,commercial,36300,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(17) Seeman Chungi se Bypass,residential,8800,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(17) Seeman Chungi se Bypass,commercial,16100,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(18) Seeman Chungi se Bypass,residential,9900,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(18) Seeman Chungi se Bypass,commercial,36300,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(19) Kani Chowk se Naye Bus,residential,12100,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(19) Kani Chowk se Naye Bus,commercial,44000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(20) Naye Bus Stand Chauraha,residential,8000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(20) Naye Bus Stand Chauraha,commercial,19400,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(21) Naye Bus Stand Chauraha,residential,8000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(21) Naye Bus Stand Chauraha,commercial,36300,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(22) Nai Anaj Mandi,commercial,55600,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(23) Main Bazaar se Purana,residential,13100,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(23) Main Bazaar se Purana,commercial,29300,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(24) Gupta Market,residential,13100,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(24) Gupta Market,commercial,24600,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(25) Khedi Darwaze Wali Gali,residential,7300,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(25) Khedi Darwaze Wali Gali,commercial,14700,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(26) Ward No-1 Mohalla Darbari,residential,7300,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(26) Ward No-1 Mohalla Darbari,commercial,14700,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(27) Ward No-2 Shri Ram,residential,6100,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(27) Ward No-2 Shri Ram,commercial,19000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(28) Ward No-2 Shriram,residential,6100,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(28) Ward No-2 Shriram,commercial,19000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(29) Ward No-2 Shriramge Khedi,residential,6100,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(29) Ward No-2 Shriramge Khedi,commercial,19000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(30) Ward No-3 Purana Mini Bank,residential,6100,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(30) Ward No-3 Purana Mini Bank,commercial,19000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(31) Ward No-3 Khan Mandir,residential,6100,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(31) Ward No-3 Khan Mandir,commercial,19000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(32) Ward No-4 Tulamba Chowk,residential,6900,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(32) Ward No-4 Tulamba Chowk,commercial,19900,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(33) Ward No-4 Arya Nagar,residential,6700,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(33) Ward No-4 Arya Nagar,commercial,18200,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(35) Ward No-6 Mohalla Jaildaran,residential,6100,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(35) Ward No-6 Mohalla Jaildaran,commercial,14700,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(37) Ward No- Baudio,residential,6100,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(37) Ward No- Baudio,commercial,14700,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(38) Ward No-8 Mohalla Khari Kui,residential,6700,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(38) Ward No-8 Mohalla Khari Kui,commercial,27500,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(39) Ward No-8 Mohalla Johri,residential,6100,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(39) Ward No-8 Mohalla Johri,commercial,16100,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(40) Ward No-9 Bada Gurdwara,residential,6100,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(40) Ward No-9 Bada Gurdwara,commercial,12000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(41) Ward No-9 Geeta Bhawan,residential,8300,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(41) Ward No-9 Geeta Bhawan,commercial,12000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(42) Ward No-11 Bade Guru,residential,6100,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(42) Ward No-11 Bade Guru,commercial,12000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(43) Ward No-11 Bade Guru,residential,6100,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(43) Ward No-11 Bade Guru,commercial,12000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(44) Ward No-11 Paras Wala,residential,6100,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(44) Ward No-11 Paras Wala,commercial,12000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(45) Ward No-10 Primary,residential,6100,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(45) Ward No-10 Primary,commercial,19000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(46) Ward No-10 Khari Kui,residential,6100,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(46) Ward No-10 Khari Kui,commercial,12000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(47) Ward No-12 Hisar,residential,6100,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(47) Ward No-12 Hisar,commercial,12000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(48) Ward No-12 Geeta Bhawan,residential,6100,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(48) Ward No-12 Geeta Bhawan,commercial,12000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(49) Ward No-12 Hisar,residential,6100,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(49) Ward No-12 Hisar,commercial,14700,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(50) Ward No-13 Shriram,residential,6400,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(50) Ward No-13 Shriram,commercial,14700,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(51) Ward No-13 Darwari Mandir,residential,6100,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(51) Ward No-13 Darwari Mandir,commercial,11700,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(52) Ward No-5 Mohalla Shakti Bhawan,residential,6100,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(52) Ward No-5 Mohalla Shakti Bhawan,commercial,14700,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(53) Ward No-5 Shakti Bhawan,residential,6100,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(53) Ward No-5 Shakti Bhawan,commercial,16000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(54) Ward No-5 Khari Kui,residential,6400,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(54) Ward No-5 Khari Kui,commercial,14700,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(56) Chobe Ji ka Chabutra Colony No 3,residential,8000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(56) Chobe Ji ka Chabutra Colony No 3,commercial,36300,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(57) Chobe Ji ka Chabutra Colony No 2,residential,7300,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(57) Chobe Ji ka Chabutra Colony No 2,commercial,14700,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(58) Diwan Colony,residential,6700,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(58) Diwan Colony,commercial,21200,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(59) Hari Nagar Colony,residential,6700,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(59) Hari Nagar Colony,commercial,20800,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(60) Pashu Mela Ground Colony,residential,6100,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(60) Pashu Mela Ground Colony,commercial,14700,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(61) Seeman Chowk Bypass Colony,residential,6100,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,(61) Seeman Chowk Bypass Colony,commercial,14700,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,Abadi Deh ke sath lagte numbers Nehri N,agricultural,875.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,Colony Adarsh Nagar 55,residential,6400,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,Colony Adarsh Nagar 55,commercial,20600,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,Pahunch marg Meham se Ganga Nagar Chahi N,agricultural,516.53,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,Pahunch marg Meham se Ganga Nagar Nehri N,agricultural,516.53,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,Pahunch marg Meham se Bhaini Chahi N,agricultural,516.53,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,Pahunch marg Meham se Bhaini Nehri N,agricultural,516.53,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,Pahunch marg Meham se Bhaini,commercial,12100,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,Pahunch marg se Bhaini Surjan Chahi N,agricultural,475.21,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,Pahunch marg se Bhaini Surjan Nehri N,agricultural,475.21,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,Meham Nehri N,agricultural,446.28,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,Meham Nehri P,agricultural,454.55,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,Meham,residential,5000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,Meham,commercial,12000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,Meham Bypass se Baba Nopat Wala Road dono taraf teen acre tak Nehri N,agricultural,681.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,Meham Bypass se Seay Road dono taraf teen acre tak Nehri N,agricultural,681.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,Meham se Behalba pahunch marg Nehri N,agricultural,500.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,Meham se Bhiwani Rajya Marg Chahi N,agricultural,550.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,Meham se Bhiwani Rajya Marg Nehri N,agricultural,550.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,Rajya Marg Meham se Gohana Chahi N,agricultural,750.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,Rajya Marg Meham se Gohana Nehri N,agricultural,750.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,Rashtriya Marg ke sath Nehri N,agricultural,826.45,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,Rashtriya Marg ke sath,commercial,12100,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,Ward No-6 Mohalla Seetal Puri,residential,6400,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,Ward No-6 Mohalla Seetal Puri,commercial,16000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,Ward No-7 Goyat Pana,residential,6100,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Meham,Ward No-7 Goyat Pana,commercial,14700,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MuradpurTekna,Abadi Deh ke sath Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MuradpurTekna,Bahuakbarpur se Lahli Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MuradpurTekna,Muradpur Tekna Chahi N,agricultural,400.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MuradpurTekna,Muradpur Tekna Nehri N,agricultural,400.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MuradpurTekna,Muradpur Tekna Nehri P,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MuradpurTekna,Muradpur Tekna,residential,1600,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MuradpurTekna,Muradpur Tekna se Mokhra Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MuradpurTekna,Muradpur Tekna se Lahli Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MokhraKhas,Abadi Deh ke sath Nehri N,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MokhraKhas,Abadi Deh ke sath Nehri P,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MokhraKhas,Mokhra Khas Nehri N,agricultural,431.25,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MokhraKhas,Mokhra Khas Nehri P,agricultural,444.32,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MokhraKhas,Mokhra Khas,residential,1600,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MokhraKhas,Mokhra se Kalanaur Nehri N,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MokhraKhas,Mokhra se Kalanaur Nehri P,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MokhraKhas,Mokhra se Bahuakbarpur Nehri N,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MokhraKhas,Mokhra se Bahuakbarpur Nehri P,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MokhraKhas,Mokhra se Madina Nehri N,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MokhraKhas,Mokhra se Madina Nehri P,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MokhraKhas,Mokhra se Muradpur Tekna Nehri N,agricultural,454.55,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MokhraKhas,Mokhra se Muradpur Tekna Nehri P,agricultural,454.55,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MokhraKhas,Mokhra se Lahli Nehri N,agricultural,454.55,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MokhraKhas,Mokhra se Lahli Nehri P,agricultural,454.55,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MokhraKhediRoz,Abadi Deh ke sath Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MokhraKhediRoz,Basana se Kalanaur Nehri N,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MokhraKhediRoz,Meham se Beri pahunch Nehri N,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MokhraKhediRoz,Mokhra se Basana Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MokhraKhediRoz,Mokhra Khedi Roz Nehri N,agricultural,400.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MokhraKhediRoz,Mokhra Khedi Roz,residential,1600,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MokhraKhediRoz,Mokhra Khedi se Kharkara Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,MokhraKhediRoz,Mokhra Roz se Basana Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,ShekhpurTitri,Abadi Deh ke sath Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,ShekhpurTitri,Bharan se Meham pahunch Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,ShekhpurTitri,Shekhpur Titri Nehri N,agricultural,400.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,ShekhpurTitri,Shekhpur Titri Nehri P,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,ShekhpurTitri,Shekhpur Titri,residential,1600,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,ShekhpurTitri,Shekhpur Titri se Kharkara Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Seeman,Abadi Deh ke sath Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Seeman,Seeman Nehri N,agricultural,400.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Seeman,Seeman Nehri P,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Seeman,Seeman,residential,1600,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Seeman,Seeman se Farmana Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Seeman,Seeman se Putthi pahunch Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Seeman,Seeman se Bedwa pahunch Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Seeman,Seeman se Bhaini Surjan Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,Seeman,Seeman se Madan Heri Nehri N,agricultural,412.5,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,SisarKhas,Abadi Deh ke sath Nehri N,agricultural,475.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,SisarKhas,Meham se Bhiwani Rajya Marg Nehri N,agricultural,656.25,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,SisarKhas,Sisar Khas Nehri N,agricultural,400.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,SisarKhas,Sisar Khas Nehri P,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,SisarKhas,Sisar Khas,residential,1600,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,SisarKhas,Sisar se Badesara Nehri N,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,SisarKhas,Sisar se Behalba pahunch Nehri N,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Meham,SisarKhas,Sisar se Bhaini Bhairo Nehri N,agricultural,450.0,2026-04-01,rohtak_gov_in_dc_notification

@@ -1,0 +1,495 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Sonipat,Ganaur,Agwanpur,नहरी / चाही प्रति एकड़,agricultural,1420.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Agwanpur,फिरनी के साथ लगती भूमि दो एकड़,agricultural,1704.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Agwanpur,लालडोरे के बाहर/वर्ग गज,residential,2500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Agwanpur,व्यवसायिक प्रति वर्ग गज,commercial,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Agwanpur,सड़क के साथ प्रति एकड़.,agricultural,1931.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Atail,नहरी / चाही प्रति एकड़,agricultural,818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Atail,फिरनी के साथ लगती भूमि दो एकड़,agricultural,863.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Atail,लालडोरे के बाहर/वर्ग गज,residential,3000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Atail,व्यवसायिक प्रति वर्ग गज,commercial,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Atail,सड़क के साथ प्रति एकड़.,agricultural,886.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ahlana,नहरी / चाही प्रति एकड़,agricultural,818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ahlana,फिरनी के साथ लगती भूमि दो एकड़,agricultural,863.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ahlana,लालडोरे के बाहर/वर्ग गज,residential,2400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ahlana,व्यवसायिक प्रति वर्ग गज,commercial,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ahlana,सड़क के साथ प्रति एकड़.,agricultural,954.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Udesipur,नहरी / चाही प्रति एकड़,agricultural,1136.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Udesipur,फिरनी के साथ लगती भूमि दो एकड़,agricultural,1181.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Udesipur,लालडोरे के बाहर/वर्ग गज,residential,2400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Udesipur,लालडोरे के बाहर/वर्ग गज,commercial,3600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Udesipur,सड़क के साथ प्रति एकड़.,agricultural,1363.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Umedgarh,नहरी / चाही प्रति एकड़,agricultural,1418.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Umedgarh,फिरनी के साथ लगती भूमि दो एकड़ कृषि,agricultural,1045.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Umedgarh,लालडोरे के बाहर/वर्ग गज,residential,3600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Umedgarh,व्यवसायिक प्रति वर्ग गज,commercial,4200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Umedgarh,सड़क के साथ प्रति एकड़.,agricultural,1647.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Kelana,नहरी / चाही प्रति एकड़,agricultural,1054.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Kelana,फिरनी के साथ लगती भूमि दो एकड़ कृषि,agricultural,818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Kelana,लालडोरे के बाहर/वर्ग गज,residential,2800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Kelana,व्यवसायिक प्रति वर्ग गज,commercial,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Kelana,सड़क के साथ प्रति एकड़.,agricultural,863.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,KhandiTaga,नहरी / चाही प्रति एकड़,agricultural,1038.33,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,KhandiTaga,फिरनी के साथ लगती भूमि दो एकड़ कृषि,agricultural,1090.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,KhandiTaga,लालडोरे के बाहर/वर्ग गज,residential,2200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,KhandiTaga,व्यवसायिक प्रति वर्ग गज,commercial,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,KhandiTaga,सड़क के साथ प्रति एकड़.,agricultural,1113.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,KhijarpurAhir,नहरी / चाही प्रति एकड़,agricultural,818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,KhijarpurAhir,फिरनी के साथ लगती भूमि दो एकड़ कृषि,agricultural,863.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,KhijarpurAhir,लालडोरे के बाहर/वर्ग गज,residential,2400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,KhijarpurAhir,व्यवसायिक प्रति वर्ग गज,commercial,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Khubru,नहरी / चाही प्रति एकड़,agricultural,1022.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Khubru,फिरनी के साथ लगती भूमि दो एकड़ कृषि,agricultural,1090.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Khubru,लालडोरे के बाहर/वर्ग गज,residential,2500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Khubru,व्यवसायिक प्रति वर्ग गज,commercial,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Khubru,सड़क के साथ प्रति एकड़.,agricultural,954.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,KheriGujjar,नहरी / चाही प्रति एकड़,agricultural,818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,KheriGujjar,फिरनी के साथ लगती भूमि दो एकड़ कृषि,agricultural,1090.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,KheriGujjar,लालडोरे के बाहर/वर्ग गज,residential,2200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,KheriGujjar,व्यवसायिक प्रति वर्ग गज,commercial,3200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,KheriGujjar,सड़क के साथ प्रति एकड़.,agricultural,954.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,GarhiKesari,1 जीटी रोड से नमस्ते चौक तक,residential,31500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,GarhiKesari,1 जीटी रोड से नमस्ते चौक तक,commercial,72000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,GarhiKesari,10 जनता स्कूल से रेलवे रोड तक,residential,14000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,GarhiKesari,10 जनता स्कूल से रेलवे रोड तक,commercial,26250,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,GarhiKesari,17 रिहायसी,residential,10125,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,GarhiKesari,17 व्यवसायिक,commercial,33600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,GarhiKesari,18 लाला गढ़ी रिहायशी एरिया,residential,6600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,GarhiKesari,18 लाला गढ़ी रिहायशी एरिया,commercial,8800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,GarhiKesari,21 गढ़ी केसरी एमसी से बाहर,residential,6600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,GarhiKesari,21 गढ़ी केसरी एमसी से बाहर,commercial,14175,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,GarhiKesari,22 न.पा. से बाहर चाही/नहरी/एकड़,agricultural,2999.74,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,GarhiKesari,22 न.पा. से बाहर सडक के साथ/एकड़,agricultural,3099.17,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,GarhiKesari,22 हद न पा. में सडक के साथ/एकड़,agricultural,4409.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,GarhiKesari,22 हद न पा में नहरी/चाही/एकड़,agricultural,4651.08,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,GarhiKesari,31 अर्जुनपुरी फेज-11,residential,7700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,GarhiKesari,31 अर्जुनपुरी फेज-11,commercial,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,GarhiKesari,32 अनाज मण्डी गैस एजेन्सी के बीच,residential,8050,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,GarhiKesari,32 अनाज मण्डी गैस एजेन्सी के बीच,commercial,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,GarhiKesari,33 ज्ञानदीप कालोनी नगर व जीटी रोड के बीच एमसी के अन्दर,residential,11300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,GarhiKesari,33 ज्ञानदीप कालोनी नगर व जीटी रोड के बीच एमसी के अन्दर,commercial,17000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,GarhiKesari,34 छोटूराम नगर व नहर के बीच का क्षेत्र,residential,7700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,GarhiKesari,34 छोटूराम नगर व नहर के बीच का क्षेत्र,commercial,16000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,GarhiKesari,35 शिवाजी नगर ज्ञानदीप कालोनी गढ़ी केसरी वाले रास्ते के मध्य नगरपालिका के अन्दर,residential,9100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,GarhiKesari,35 शिवाजी नगर ज्ञानदीप कालोनी गढ़ी केसरी वाले रास्ते के मध्य नगरपालिका के अन्दर,commercial,14000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,GarhiKesari,"39 मनजीत, शिवाजी कालोनी",commercial,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,GarhiKesari,"39 मनजीत, शिवाजी कालोनी",residential,7700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,GarhiKesari,40 पटेल नगर,residential,9900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,GarhiKesari,42 जीटी रोड मनजीत कालोनी के मध्य,commercial,19500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,GarhiKesari,42 जीटी रोड मनजीत कालोनी के मध्य,residential,9900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,GarhiKesari,44 लाला गढ़ी कालोनी-रिहायशी,commercial,18000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,GarhiKesari,44 लाला गढ़ी कालोनी-रिहायशी,residential,7700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,GarhiKesari,44 लाला गढ़ी से गन्नौर गांव तक,commercial,11165,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,GarhiKesari,44 लाला गढ़ी से गन्नौर गांव तक,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,GarhiKesari,Divine City Block - A,commercial,64800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,GarhiKesari,Divine City Block - A,residential,44000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,GarhiKesari,Divine City Block - B,residential,48000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,GarhiKesari,Divine City Block - C,residential,49500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,GarhiKesari,Divine City Floor Wise,residential,49500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,GarhiKesari,Group Housing Rama Krishna Buildwell Pvt Ltd,residential,49500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,GarhiKesari,Mera Baba Real Estate Pvt Ltd Suraksha Enc Commercial,commercial,42000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,GarhiKesari,Mera Baba Real Estate Pvt Ltd - Suraksha Enclave,residential,42000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,GarhiKesari,Rama Krishna Buildwell Pvt Ltd - Suraksha Enclave,residential,37950,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,GarhiKesari,Rama Krishna Buildwell Pvt Ltd Suraksha Enc Commercial,commercial,39600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,GarhiKesari,गुप्तीधाम कालोनी गढ़ी केसरी,residential,9315,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,GarhiKesari,फिरनी के साथ लगती भूमि दो एकड़ कृषि,agricultural,2727.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,GarhiKesari,ब्लॉक डी प्लाट Divine City,residential,44000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,10 Janta School se Railway Road Tak,residential,9900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,10 Janta School se Railway Road Tak,commercial,23000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,11 Railway Road se telephone exchange Tak,residential,16450,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,11 Railway Road se telephone exchange Tak,commercial,20300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,12 Kaniya school se Agwanpur Railway Fatak tak,commercial,14000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,12 Kaniya school se Agwanpur Railway Fatak tak,residential,8300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,13 khubru road se surajbhan ke makan tak,commercial,29000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,13 khubru road se surajbhan ke makan tak,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,14 Surajbhan ke makan Aage Nagarpalika Seema Tak,commercial,19000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,14 Surajbhan ke makan Aage Nagarpalika Seema Tak,residential,9900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,15 Garhi Janjara road Nagarpalika seema,residential,7700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,15 Garhi Janjara road Nagarpalika seema,commercial,12000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,16 Dhramsala se Nagarpalika seema tak,commercial,14000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,16 Dhramsala se Nagarpalika seema tak,residential,9800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,17 व्यवसायिक,commercial,33600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,18 लाला गढ़ी रिहायशी,residential,10440,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,18 लाला गढ़ी व्यवसायिक,commercial,9400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,19 खेड़ी व खुबरू रोड के बिच गांधी नगर रिहायशी,residential,9545,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,19 खेड़ी व खुबरू रोड के बिच गांधी नगर व्यवसायिक,commercial,21250,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,1 रिहायशी,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,1 व्यवसायिक,commercial,61000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,2 रिहायशी,residential,15000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,2 व्यवसायिक,commercial,101250,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,20 पाची रोड रिहायशी,residential,15500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,20 पाची रोड व्यवसायिक,commercial,24700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,21 न.पा. से बाहर गजों में,residential,7200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,21 न.पा. से बाहर गजों में,commercial,12035,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,21 न.पा. से बाहर चाही/नहरी/एकड़,agricultural,2500.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,21 न.पा. से बाहर सड़क के साथ,agricultural,3693.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,21 नहरी/चाही प्रति एकड़,agricultural,3181.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,21 रिहायशी,residential,12375,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,21 व्यवसायिक,commercial,14000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,21 हद नगरपालिका सड़क के साथ,agricultural,4545.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,22 रिहायशी,residential,15000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,22 व्यवसायिक,commercial,31250,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,22 व्यवसायिक,commercial,37500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,23 व्यवसायिक,commercial,42050,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,23 रिहायशी,residential,18750,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,23 रिहायशी,residential,26100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,24 व्यवसायिक,commercial,39150,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,24 रिहायशी,residential,17000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,25 व्यवसायिक,commercial,36800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,25 रिहायशी,residential,17250,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,26 व्यवसायिक,commercial,25000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,26 रिहायशी,residential,12000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,27 व्यवसायिक,commercial,17000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,27 रिहायशी,residential,7200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,28 व्यवसायिक,commercial,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,28 रिहायशी,residential,7700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,29 व्यवसायिक,commercial,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,29 रिहायशी,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,3 रिहायशी,residential,27000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,3 व्यवसायिक,commercial,27000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,30 रिहायशी,residential,6600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,30 व्यवसायिक,commercial,9900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,36 रिहायशी,residential,6600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,36 व्यवसायिक,commercial,13000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,37 रिहायशी,residential,7700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,37 व्यवसायिक,commercial,13000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,38 रिहायशी,residential,7700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,38 व्यवसायिक,commercial,13000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,4 रिहायशी,residential,15000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,4 व्यवसायिक,commercial,52500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,44 लाला गढ़ी से गन्नौर,residential,9545,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,44 लाला गढ़ी से गन्नौर,commercial,12000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,5 रिहायशी,residential,19750,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,5 व्यवसायिक,commercial,31050,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,6 रिहायशी,residential,17000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,6 व्यवसायिक,commercial,45000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,7 रिहायशी,residential,13300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,7 व्यवसायिक,commercial,25000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,8 Ganaur City and Village in abadi deh,commercial,22500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,8 Ganaur City and Village in abadi deh,residential,16900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,9 Ganaur Village ke Choraya se Janta School tak,commercial,18000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,9 Ganaur Village ke Choraya se Janta School tak,residential,9400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,Sr no 17 गन्नौर रिहायशी,residential,9625,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,गांधी नगर एक्सटेंशन -2 गन्नौर,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,दरबार बाबा कालोनी गन्नौर,residential,13000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ganaur,न्यू वसन्त विहार गन्नौर,residential,10375,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Giyaspur,फिरनी के साथ लगती भूमि दो एकड़,agricultural,4136.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Giyaspur,63 क 2 एकड़ से कटाव तक,agricultural,2727.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Giyaspur,63 क 2एकड़ से पानी की धार तक,agricultural,227.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Giyaspur,63 क पानी के अन्दर,agricultural,164.77,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Giyaspur,नहरी / चाही प्रति एकड़,agricultural,1363.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Giyaspur,फिरनी के साथ लगती भूमि दो एकड़,agricultural,1045.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Giyaspur,लालडोरे के बाहर/वर्ग गज,residential,3125,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Giyaspur,व्यवसायिक प्रति वर्ग गज,commercial,6300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Giyaspur,सड़क के साथ प्रति एकड़.,agricultural,1136.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Gumar,नहरी / चाही प्रति एकड़,agricultural,1107.95,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Gumar,फिरनी के साथ लगती भूमि दो एकड़,agricultural,909.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Gumar,लालडोरे के बाहर/वर्ग गज,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Gumar,व्यवसायिक प्रति वर्ग गज,commercial,3900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Gumar,सड़क के साथ प्रति एकड़.,agricultural,1363.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ghasauli,नहरी / चाही प्रति एकड़,agricultural,1000.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ghasauli,फिरनी के साथ लगती भूमि दो एकड़,agricultural,1045.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ghasauli,लालडोरे के बाहर/वर्ग गज,residential,2700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ghasauli,व्यवसायिक प्रति वर्ग गज,commercial,3600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ghasauli,सड़क के साथ प्रति एकड़.,agricultural,1113.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Chandauli,63 क पानी के अन्दर प्रति एकड़,agricultural,164.77,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Chandauli,63 क बान्ध से 2 एकड़ तक प्रति एकड़,agricultural,295.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Chandauli,63क 2 एकड़ से पानी की धार तक प्रति एकड़,agricultural,190.08,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Chandauli,नहरी / चाही प्रति एकड़,agricultural,1069.21,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Chandauli,फिरनी के साथ लगती भूमि दो एकड़,agricultural,1113.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Chandauli,लालडोरे के बाहर/वर्ग गज,residential,2400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Chandauli,व्यवसायिक प्रति वर्ग गज,commercial,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Chandauli,सड़क के साथ प्रति एकड़.,agricultural,1113.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Chirasmi,1 ख जीटी रोड से 2 एकड़ तक प्रति एकड़,agricultural,5681.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Chirasmi,1 ख जीटी रोड से 2 एकड़ से 4 एकड़ तक,agricultural,3636.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Chirasmi,नहरी / चाही प्रति एकड़,agricultural,1917.77,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Chirasmi,फिरनी के साथ लगती भूमि दो एकड़,agricultural,1136.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Chirasmi,लालडोरे के बाहर/वर्ग गज,residential,6670,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Chirasmi,व्यवसायिक प्रति वर्ग गज,commercial,7700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Chirasmi,सड़क के साथ प्रति एकड़.,agricultural,1363.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Chirasmi,नहरी / चाही प्रति एकड़,agricultural,818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Chirasmi,फिरनी के साथ लगती भूमि दो एकड़,agricultural,863.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Jafarpur,व्यवसायिक प्रति वर्ग गज,commercial,3200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Jafarpur,लालडोरे के बाहर/वर्ग गज,residential,2200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Jafarpur,सड़क के साथ प्रति एकड़.,agricultural,954.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Jafarpur,नहरी / चाही प्रति एकड़,agricultural,818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Jafarpur,फिरनी के साथ लगती भूमि दो एकड़,agricultural,863.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Jalalabad,लालडोरे के बाहर/वर्ग गज,residential,2400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Jalalabad,व्यवसायिक प्रति वर्ग गज,commercial,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Jalalabad,सड़क के साथ प्रति एकड़.,agricultural,954.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Teha,1 ख जीटीरोड 2एकड़ तक प्रति एकड़,agricultural,5681.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Teha,1 ख जीटीरोड 2एकड़ से 4एकड़ तक/एकड़,agricultural,4545.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Teha,नहरी / चाही प्रति एकड़,agricultural,2766.01,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Teha,फिरनी के साथ लगती भूमि दो एकड़,agricultural,1250.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Teha,लालडोरे के बाहर/वर्ग गज,residential,7250,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Teha,व्यवसायिक प्रति वर्ग गज,commercial,8600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Dabarpur,सड़क के साथ प्रति एकड़.,agricultural,1568.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Dabarpur,नहरी / चाही प्रति एकड़,agricultural,704.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Dabarpur,फिरनी के साथ लगती भूमि दो एकड़,agricultural,772.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Dabarpur,लालडोरे के बाहर/वर्ग गज,residential,2400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Dabarpur,व्यवसायिक प्रति वर्ग गज,commercial,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Dabarpur,सड़क के साथ प्रति एकड़.,agricultural,818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Dabarpur,नहरी चाही प्रति एकड़,agricultural,704.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Dabarpur,फिरनी के साथ लगती भूमि दो एकड़ कृषि,agricultural,795.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Tewri,लालडोरे के बाहर/वर्ग गज,residential,2400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Tewri,व्यवसायिक प्रति वर्ग गज,commercial,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Tewri,सड़क के साथ प्रति एकड़.,agricultural,818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Tewri,नहरी / चाही प्रति एकड़,agricultural,956.35,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Tewri,फिरनी के साथ लगती भूमि दो एकड़ कृषि,agricultural,909.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Datauli,लालडोरे के बाहर/वर्ग गज,residential,3000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Datauli,व्यवसायिक प्रति वर्ग गज,commercial,5300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Datauli,सड़क के साथ प्रति एकड़.,agricultural,1614.77,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Datauli,नहरी / चाही प्रति एकड़,agricultural,818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Datauli,फिरनी के साथ लगती भूमि दो एकड़ कृषि,agricultural,863.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,NayaBans,लालडोरे के बाहर/वर्ग गज,residential,2400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,NayaBans,व्यवसायिक प्रति वर्ग गज,commercial,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,NayaBans,सड़क के साथ प्रति एकड़.,agricultural,954.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,NayaBans,नहरी / चाही प्रति एकड़,agricultural,760.33,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,NayaBans,फिरनी के साथ लगती भूमि दो एकड़ कृषि,agricultural,909.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,PattiBrahman,लालडोरे के बाहर/वर्ग गज,residential,2800,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,PattiBrahman,व्यवसायिक प्रति वर्ग गज,commercial,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Pabnera,सड़क के साथ प्रति एकड़.,agricultural,1045.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Pabnera,63 क बाध से 2एकड़ तक,agricultural,261.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Pabnera,63 क 2 एकड़ से पानी की धार तक,agricultural,181.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Pabnera,63 क पानी के अन्दर प्रति एकड़,agricultural,123.97,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Pabnera,नहरी / चाही प्रति एकड़,agricultural,1000.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Pabnera,फिरनी के साथ लगती भूमि दो एकड़,agricultural,1045.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Pabnera,लालडोरे के बाहर/वर्ग गज,residential,2400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Pabnera,व्यवसायिक प्रति वर्ग गज,commercial,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,PanchhiJatan,सड़क के साथ प्रति एकड़.,agricultural,1113.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,PanchhiJatan,नहरी / चाही प्रति एकड़,agricultural,863.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,PanchhiJatan,फिरनी के साथ लगती भूमि दो एकड़,agricultural,909.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,PanchhiJatan,लालडोरे के बाहर/वर्ग गज,residential,2200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,PanchhiJatan,व्यवसायिक प्रति वर्ग गज,commercial,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,PanchhiGujran,सड़क के साथ प्रति एकड़.,agricultural,1000.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,PanchhiGujran,1 ख 3एकड़ से 5एकड़ तक,agricultural,4545.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,PanchhiGujran,1 ख जी0टी0रोड नहरी प्रति एकड़,agricultural,5681.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,PanchhiGujran,नहरी / चाही प्रति एकड़,agricultural,2324.38,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,PanchhiGujran,फिरनी के साथ लगती भूमि दो एकड़,agricultural,1477.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,PanchhiGujran,लालडोरे के बाहर/वर्ग गज,residential,8000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,PanchhiGujran,व्यवसायिक प्रति वर्ग गज,commercial,8250,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,PanchhiGujran,सड़क के साथ प्रति एकड़.,agricultural,1590.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,PanchhiGujran,11 के जीटी रोड 2एकड़ से 4एकड़ तक,agricultural,3409.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,PanchhiGujran,11 के जीटी रोड पर नहरी/चाही/एकड़,agricultural,5681.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,PipliKhera,नहरी / चाही प्रति एकड़,agricultural,1418.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,PipliKhera,फिरनी के साथ लगती भूमि दो एकड़,agricultural,1159.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,PipliKhera,लालडोरे के बाहर/वर्ग गज,residential,4400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,PipliKhera,व्यवसायिक प्रति वर्ग गज,commercial,5100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,PipliKhera,सड़क के साथ प्रति एकड़.,agricultural,1565.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,PipliKhera,नहरी / चाही प्रति एकड़,agricultural,1000.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,PipliKhera,फिरनी के साथ लगती भूमि दो एकड़,agricultural,1022.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Pugthala,लालडोरे के बाहर/वर्ग गज,residential,3125,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Pugthala,व्यवसायिक प्रति वर्ग गज,commercial,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Pugthala,सड़क के साथ प्रति एकड़.,agricultural,1053.72,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Pugthala,नहरी / चाही प्रति एकड़,agricultural,727.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Pugthala,फिरनी के साथ लगती भूमि दो एकड़,agricultural,886.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,PurkhasDheeran,लालडोरे के बाहर/वर्ग गज,residential,2760,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,PurkhasDheeran,व्यवसायिक प्रति वर्ग गज,commercial,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,PurkhasDheeran,सड़क के साथ प्रति एकड़.,agricultural,954.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,PurkhasRathi,नहरी / चाही प्रति एकड़,agricultural,988.43,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,PurkhasRathi,फिरनी के साथ लगती भूमि दो एकड़,agricultural,886.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,PurkhasRathi,लालडोरे के बाहर/वर्ग गज,residential,3500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,PurkhasRathi,व्यवसायिक प्रति वर्ग गज,commercial,3900,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,BajanaKalan,सड़क के साथ प्रति एकड़.,agricultural,954.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,BajanaKalan,नहरी / चाही प्रति एकड़,agricultural,727.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,BajanaKalan,फिरनी के साथ लगती भूमि दो एकड़,agricultural,727.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,BajanaKalan,लालडोरे के बाहर/वर्ग गज,residential,2400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,BajanaKalan,व्यवसायिक प्रति वर्ग गज,commercial,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,BajanaKhurd,सड़क के साथ प्रति एकड़.,agricultural,772.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,BajanaKhurd,नहरी / चाही प्रति एकड़,agricultural,727.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,BajanaKhurd,फिरनी के साथ लगती भूमि दो एकड़,agricultural,750.0,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,BajanaKhurd,लालडोरे के बाहर/वर्ग गज,residential,2400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,BajanaKhurd,व्यवसायिक प्रति वर्ग गज,commercial,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bari,सड़क के साथ प्रति एकड़.,agricultural,772.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bari,1 ख 3एकड़ से 5एकड़ तक प्रति एकड़,agricultural,5227.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bari,1 ख जी टी रोड पर नहरी/एकड़ 2ए.तक,agricultural,5681.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bari,Divine City - Commercial block A,commercial,65700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bari,Divine City Block - C,residential,44000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bari,Divine City Block - B,residential,44000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bari,Divine City Block - D,residential,44000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bari,Divine City Floorwise,residential,39600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bari,HSIIDC,commercial,28846.4,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bari,HSIIDC,industrial,25083.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bari,Mera Baba Real Estate Pvt Ltd - Suraksha Enclave,residential,33000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bari,Mera Baba Real Estate Pvt Ltd Suraksha Enc Commercial,commercial,65700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bari,Rama Krishna Buildwell Pvt Ltd Group Housing Divine City,residential,65700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bari,Rama Krishna Buildwell Pvt Ltd - Suraksha Enclave,residential,35000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bari,Rama Krishna Buildwell Pvt Ltd Suraksha Enc Commercial,commercial,77400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bari,नहरी / चाही प्रति एकड़,agricultural,3254.13,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bari,फिरनी के साथ लगती भूमि दो एकड़,agricultural,1590.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bari,लालडोरे के बाहर/वर्ग गज,residential,6875,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bari,व्यवसायिक प्रति वर्ग गज,commercial,12000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bari,सड़क के साथ प्रति एकड़.,agricultural,3355.37,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Baraut,1 ख 2एकड़ से 4एकड़ तक/एकड़,agricultural,4545.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Baraut,1 ख जी टी रोड 2एकड़ तक,agricultural,5681.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Baraut,1 जी टी रोड से नमस्ते चौक तक,residential,11000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Baraut,1 जी टी रोड से नमस्ते चौक तक,commercial,66000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Baraut,33 ज्ञानदीप कालोनी नगर जी टी रोड नगरपालिका के अन्दर,residential,9200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Baraut,33 ज्ञानदीप कालोनी नगर जी टी रोड नगरपालिका के अन्दर,commercial,16000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Baraut,41 केशव नगर रकबा बडौत बेगा व जी टी रोड के बीच,residential,10125,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Baraut,41 केशव नगर रकबा बडौत बेगा व जी टी रोड के बीच,commercial,16000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Baraut,42 जी टी रोड मन्जीत कालोनी के बीच बडौत गढ़ी केसरी,residential,7700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Baraut,42 जी टी रोड मन्जीत कालोनी के बीच बडौत गढ़ी केसरी,commercial,16000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Baraut,43 न्यू जनता व जय भारत कालोनी,residential,8100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Baraut,43 न्यू जनता व जय भारत कालोनी,commercial,17000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Baraut,Rishika Edifice LLP,residential,33000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Baraut,Rishika Edifice LLP,commercial,66000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Baraut,गुप्तीधाम कालोनी बडौत,residential,7700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Baraut,नहरी / चाही प्रति एकड़,agricultural,2267.77,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Baraut,पंचवटी कालोनी बडौत,residential,10500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Baraut,पंचवटी कालोनी बडौत,commercial,21000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Baraut,फिरनी के साथ लगती भूमि दो एकड़,agricultural,1136.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Baraut,महादेव नगर बडौत,residential,8855,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Baraut,लालडोरे के बाहर/वर्ग गज,residential,6875,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Baraut,सड़क के साथ प्रति एकड़.,agricultural,1590.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Baraut,लालडोरे के बाहर/वर्ग गज,commercial,12250,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Baraut,हनुमान नगर बडौत,residential,8100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Baraut,हनुमान नगर बडौत,commercial,18200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Baraut,हसीजा कालोनी बडौत,residential,7700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Baraut,नहरी / चाही प्रति एकड़,agricultural,757.95,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Baraut,फिरनी के साथ लगती भूमि दो एकड़,agricultural,772.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,BaliKutubpur,लालडोरे के बाहर/वर्ग गज,residential,2400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,BaliKutubpur,लालडोरे के बाहर/वर्ग गज,commercial,3200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,BaliKutubpur,सड़क के साथ प्रति एकड़.,agricultural,818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,BaliKutubpur,नहरी / चाही प्रति एकड़,agricultural,818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,BaliKutubpur,फिरनी के साथ लगती भूमि दो एकड़,agricultural,863.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Baye,1 ख 3 से 5 नहरी प्रति एकड़,agricultural,3409.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Baye,1 ख जी0टी0रोड नहरी प्रति एकड़,agricultural,5113.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Baye,नहरी - चाही प्रति एकड़,agricultural,2157.02,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Baye,फिरनी के साथ लगती भूमि दो एकड़ कृषि,agricultural,1590.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Baye,महादेव नगर बाये,residential,9375,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Baye,लालडोरे के बाहर/वर्ग गज,residential,5200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Baye,व्यवसायिक प्रति वर्ग गज,commercial,7700,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bulandpur,सड़क के साथ प्रति एकड़.,agricultural,3181.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bulandpur,नहरी / चाही प्रति एकड़,agricultural,793.39,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bulandpur,फिरनी के साथ लगती भूमि दो एकड़,agricultural,772.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bulandpur,लालडोरे के बाहर/वर्ग गज,residential,2500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bulandpur,व्यवसायिक प्रति वर्ग गज,commercial,3200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bega,सड़क के साथ प्रति एकड़.,agricultural,818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bega,63 क पानी के अन्दर,agricultural,214.88,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bega,63 क यमुना बाध से 2एकड़ तक,agricultural,272.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bega,63 क 2एकड़ से पानी की धार तक,agricultural,181.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bega,नहरी / चाही प्रति एकड़,agricultural,1009.81,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bega,फिरनी के साथ लगती भूमि दो एकड़,agricultural,909.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bega,लालडोरे के बाहर/वर्ग गज,residential,2400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bega,व्यवसायिक प्रति वर्ग गज,commercial,3200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bhankharpur,सड़क के साथ प्रति एकड़.,agricultural,1278.41,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bhankharpur,नहरी / चाही प्रति एकड़,agricultural,818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bhankharpur,फिरनी के साथ लगती भूमि दो एकड़,agricultural,954.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bhankharpur,फिरनी के साथ लगती भूमि दो एकड़,agricultural,863.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bhankharpur,लालडोरे के बाहर/वर्ग गज,residential,2400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bhankharpur,व्यवसायिक प्रति वर्ग गज,commercial,3200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bhankharpur,सड़क के साथ प्रति एकड़.,agricultural,954.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bhigan,नहरी / चाही प्रति एकड़,agricultural,1710.95,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bhigan,फिरनी के साथ लगती भूमि दो एकड़,agricultural,1090.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bhigan,लालडोरे के बाहर/वर्ग गज,residential,4400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bhigan,व्यवसायिक प्रति वर्ग गज,commercial,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bhigan,सड़क के साथ प्रति एकड़.,agricultural,1159.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bhigan,1 ख 2 एकड़ से 4 एकड़ तक,agricultural,4545.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bhigan,1 ख जीटी रोड से 2 एकड़ तक प्रति एकड़,agricultural,5681.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bhigan,Seagull Buildwell Pvt Ltd,commercial,14000,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bhigan,नहरी / चाही प्रति एकड़,agricultural,2256.2,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bhigan,फिरनी के साथ लगती भूमि दो एकड़,agricultural,1409.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bhigan,लालडोरे के बाहर/वर्ग गज,residential,5200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bhigan,व्यवसायिक प्रति वर्ग गज,commercial,7200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bhuri,सड़क के साथ प्रति एकड़.,agricultural,1431.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bhuri,नहरी / चाही प्रति एकड़,agricultural,1340.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bhuri,फिरनी के साथ लगती भूमि दो एकड़,agricultural,1477.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bhuri,लालडोरे के बाहर/वर्ग गज,residential,3450,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bhuri,व्यवसायिक प्रति वर्ग गज,commercial,3600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bhuri,सड़क के साथ प्रति एकड़.,agricultural,1704.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bhogipur,सड़क के साथ प्रति एकड़.,agricultural,1098.92,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bhogipur,नहरी / चाही प्रति एकड़,agricultural,1045.45,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bhogipur,फिरनी के साथ लगती भूमि दो एकड़,agricultural,1068.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bhogipur,लालडोरे के बाहर/वर्ग गज,residential,3335,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Bhogipur,व्यवसायिक प्रति वर्ग गज,commercial,3600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,BhoraRasulpur,सड़क के साथ प्रति एकड़.,agricultural,940.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,BhoraRasulpur,नहरी / चाही प्रति एकड़,agricultural,863.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,BhoraRasulpur,फिरनी के साथ लगती भूमि दो एकड़,agricultural,863.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,BhoraRasulpur,लालडोरे के बाहर/वर्ग गज,residential,2400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,BhoraRasulpur,व्यवसायिक प्रति वर्ग गज,commercial,3200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Machhrauli,सड़क के साथ प्रति एकड़.,agricultural,954.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Machhrauli,नहरी / चाही प्रति एकड़,agricultural,659.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Machhrauli,फिरनी के साथ लगती भूमि दो एकड़,agricultural,772.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Machhrauli,लालडोरे के बाहर/वर्ग गज,residential,2400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Machhrauli,व्यवसायिक प्रति वर्ग गज,commercial,3200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,MahmudpurMajra,सड़क के साथ प्रति एकड़.,agricultural,818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,MahmudpurMajra,नहरी / चाही प्रति एकड़,agricultural,880.68,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,MahmudpurMajra,फिरनी के साथ लगती भूमि दो एकड़,agricultural,772.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,MahmudpurMajra,लालडोरे के बाहर/वर्ग गज,residential,2400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,MahmudpurMajra,व्यवसायिक प्रति वर्ग गज,commercial,3200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,ManakMajra,नहरी / चाही प्रति एकड़,agricultural,818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,ManakMajra,फिरनी के साथ लगती भूमि दो एकड़ कृषि,agricultural,863.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,ManakMajra,लालडोरे के बाहर/वर्ग गज,residential,2400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,ManakMajra,व्यवसायिक प्रति वर्ग गज,commercial,3200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Miyana,सड़क के साथ प्रति एकड़.,agricultural,954.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Miyana,नहरी / चाही प्रति एकड़,agricultural,818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Miyana,फिरनी के साथ लगती भूमि दो एकड़ कृषि,agricultural,863.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Miyana,लालडोरे के बाहर/वर्ग गज,residential,2400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Miyana,व्यवसायिक प्रति वर्ग गज,commercial,3200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Rasulpur,63 क पानी के अन्दर प्रति एकड़,agricultural,142.05,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Rasulpur,63 क 2एकड़ से पानी की धार तक,agricultural,181.82,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Rasulpur,63 क बान्ध से 2एकड़ तक प्रति एकड़,agricultural,272.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Rasulpur,नहरी / चाही प्रति एकड़,agricultural,954.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Rasulpur,फिरनी के साथ लगती भूमि दो एकड़ कृषि,agricultural,977.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Rasulpur,लालडोरे के बाहर/वर्ग गज,residential,2400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Rasulpur,व्यवसायिक प्रति वर्ग गज,commercial,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Rasulpur,सड़क के साथ प्रति एकड़.,agricultural,1136.36,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Rajpur,नहरी / चाही प्रति एकड़,agricultural,1063.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Rajpur,फिरनी के साथ लगती भूमि दो एकड़ कृषि,agricultural,909.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Rajpur,लालडोरे के बाहर/वर्ग गज,residential,3300,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Rajpur,व्यवसायिक प्रति वर्ग गज,commercial,3600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Rajlu,सड़क के साथ प्रति एकड़.,agricultural,1363.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Rajlu,नहरी / चाही प्रति एकड़,agricultural,1222.11,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Rajlu,फिरनी के साथ लगती भूमि दो एकड़ कृषि,agricultural,909.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Rajlu,लालडोरे के बाहर/वर्ग गज,residential,3100,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Rajlu,व्यवसायिक प्रति वर्ग गज,commercial,3600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ramnagar,सड़क के साथ प्रति एकड़.,agricultural,1772.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ramnagar,नहरी / चाही प्रति एकड़,agricultural,2851.24,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ramnagar,फिरनी के साथ लगती भूमि दो एकड़ कृषि,agricultural,2840.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ramnagar,लालडोरे के बाहर/वर्ग गज,residential,2600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Ramnagar,व्यवसायिक प्रति वर्ग गज,commercial,4485,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Larsauli,सड़क के साथ प्रति एकड़.,agricultural,3409.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Larsauli,1 ख जी टी रोड 2 एकड़ तक,agricultural,5909.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Larsauli,1 ख जी टी रोड 2एकड़ से 4एकड़ तक,agricultural,3977.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Larsauli,नहरी / चाही प्रति एकड़,agricultural,1369.83,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Larsauli,फिरनी के साथ लगती भूमि दो एकड़ कृषि,agricultural,1363.64,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Larsauli,लालडोरे के बाहर/वर्ग गज,residential,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Larsauli,व्यवसायिक प्रति वर्ग गज,commercial,6600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Lalheri,सड़क के साथ प्रति एकड़.,agricultural,1704.55,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Lalheri,नहरी / चाही प्रति एकड़,agricultural,1568.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Lalheri,फिरनी के साथ लगती भूमि दो एकड़ कृषि,agricultural,1477.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Lalheri,लालडोरे के बाहर/वर्ग गज,residential,3795,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Lalheri,व्यवसायिक प्रति वर्ग गज,commercial,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Sanpera,सड़क के साथ प्रति एकड़.,agricultural,2840.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Sanpera,नहरी / चाही प्रति एकड़,agricultural,2840.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Sanpera,फिरनी के साथ लगती भूमि दो एकड़ कृषि,agricultural,3409.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Sanpera,लालडोरे के बाहर/वर्ग गज,residential,4400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Sanpera,व्यवसायिक प्रति वर्ग गज,commercial,5500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Samaspur,सड़क के साथ प्रति एकड़.,agricultural,3409.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Samaspur,नहरी / चाही प्रति एकड़,agricultural,727.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Samaspur,फिरनी के साथ लगती भूमि दो एकड़ कृषि,agricultural,772.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Samaspur,लालडोरे के बाहर/वर्ग गज,residential,2400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Samaspur,व्यवसायिक प्रति वर्ग गज,commercial,3200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Sardhana,सड़क के साथ प्रति एकड़.,agricultural,818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Sardhana,नहरी / चाही प्रति एकड़,agricultural,727.27,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Sardhana,फिरनी के साथ लगती भूमि दो एकड़ कृषि,agricultural,772.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Sardhana,लालडोरे के बाहर/वर्ग गज,residential,2400,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Sardhana,व्यवसायिक प्रति वर्ग गज,commercial,3200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,ShahpurTaga,सड़क के साथ प्रति एकड़.,agricultural,818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,ShahpurTaga,नहरी / चाही प्रति एकड़,agricultural,1102.48,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,ShahpurTaga,फिरनी के साथ लगती भूमि दो एकड़ कृषि,agricultural,909.09,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,ShahpurTaga,लालडोरे के बाहर/वर्ग गज,residential,3200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,ShahpurTaga,व्यवसायिक प्रति वर्ग गज,commercial,3600,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Sheikhpura,सड़क के साथ प्रति एकड़.,agricultural,1068.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Sheikhpura,नहरी / चाही प्रति एकड़,agricultural,689.05,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Sheikhpura,फिरनी के साथ लगती भूमि दो एकड़ कृषि,agricultural,772.73,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Sheikhpura,लालडोरे के बाहर/वर्ग गज,residential,2875,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,Sheikhpura,व्यवसायिक प्रति वर्ग गज,commercial,3200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,SeyaKhera,सड़क के साथ प्रति एकड़.,agricultural,818.18,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,SeyaKhera,नहरी / चाही प्रति एकड़,agricultural,914.77,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,SeyaKhera,नहरी / चाही प्रति एकड़,agricultural,849.43,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,SeyaKhera,फिरनी के साथ लगती भूमि दो एकड़ कृषि,agricultural,840.91,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,SeyaKhera,लालडोरे के बाहर/वर्ग गज,residential,2500,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,SeyaKhera,व्यवसायिक प्रति वर्ग गज,commercial,3200,2026-04-01,sonipat_gov_in_dc_notification
+Sonipat,Ganaur,SeyaKhera,सड़क के साथ प्रति एकड़.,agricultural,909.09,2026-04-01,sonipat_gov_in_dc_notification

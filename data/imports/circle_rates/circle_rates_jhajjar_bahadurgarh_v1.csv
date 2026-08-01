@@ -1,0 +1,495 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Jhajjar,Bahadurgarh,Agarpur,AGARPUR,agricultural,475.21,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Agarpur,AGARPUR,agricultural,599.17,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Agarpur,AGARPUR,residential,5000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Agarpur,AGARPUR,commercial,8600,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Agarpur,LINK ROAD AGARPUR,agricultural,599.17,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Asanda,ASANDA,agricultural,1240.19,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Asanda,ASANDA,agricultural,1550.23,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Asanda,ASANDA,residential,8600,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Asanda,ASANDA,commercial,25000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Asanda,Link Road Asanda,agricultural,1550.23,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Asanda,MAJOR DISTRICT RAOD ASANDA,agricultural,1859.5,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,AsoudhaSiwan,Asoudha Siwan,agricultural,2126.03,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,AsoudhaSiwan,Asoudha Siwan,agricultural,2657.54,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,AsoudhaSiwan,Asoudha Siwan,residential,5000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,AsoudhaSiwan,Asoudha Siwan,commercial,8600,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,AsoudhaSiwan,Link Road Asoudha Siwan,agricultural,2657.54,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,AsoudhaTodran,Asoudha Todran,agricultural,2252.58,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,AsoudhaTodran,Asoudha Todran,agricultural,2813.56,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,AsoudhaTodran,Asoudha Todran,residential,5000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,AsoudhaTodran,Asoudha Todran,commercial,8600,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,AsoudhaTodran,Link Road Asoudha Todran,agricultural,2813.56,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,AsoudhaTodran,Major District Road Asoudha Todran,agricultural,3367.77,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Isharheri,ISHARHERI,agricultural,1123.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Isharheri,ISHARHERI,agricultural,1404.31,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Isharheri,ISHARHERI,commercial,25000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Isharheri,LINK RAOD ISHARHERI,agricultural,1491.74,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Kasar,HSIIDC,commercial,22500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Kasar,HSIIDC,industrial,28000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Kasar,HSIIDC Residencial Sec 4,residential,13000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Kasar,HSIIDC Residencial Sec 4,commercial,30000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Kasar,Kasar,agricultural,2993.8,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Kasar,Kasar,agricultural,3742.25,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Kasar,KASAR NATIONAL HIGHWAY BYPASS,agricultural,7954.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Kasar,Link Road Kasar,agricultural,3429.75,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Kasar,Omaxe City Flat Bahadurgarh,commercial,8500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Kasar,Omaxe Plot 50 SY TO 100 SY तक,residential,30000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Kasar,Omaxe Plot 50 SY TO 100 SY तक,commercial,50000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Kasar,Omaxe Plot ABOVE 100 SY,residential,41475,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Kanonda,KANONDA,agricultural,926.65,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Kanonda,KANONDA,agricultural,1158.32,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Kanonda,KANONDA,residential,5500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Kanonda,KANONDA,commercial,17000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Kanonda,LINK ROAD KANONDA,agricultural,1053.72,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Kanonda,Major District Road Kanoda,agricultural,1260.33,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Kulasi,Kulasi,agricultural,836.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Kulasi,Kulasi,agricultural,1045.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Kulasi,Kulasi,residential,5000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Kulasi,Kulasi,commercial,8600,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Kulasi,Link Road kulasi,agricultural,1045.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Kharman,KHARMAN,agricultural,640.5,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Kharman,KHARMAN,agricultural,826.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Kharman,KHARMAN,residential,5000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Kharman,KHARMAN,commercial,8600,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Kharman,LINK RAOD KHARMAN,agricultural,826.45,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Kharhar,KHARHAR,agricultural,730.37,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Kharhar,KHARHAR,agricultural,912.96,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Kharhar,KHARHAR,residential,5000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Kharhar,KHARHAR,commercial,8600,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Kharhar,LINK ROAD KHARHAR,agricultural,912.96,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,KherkaMusalman,KHERKA MUSALMAN,agricultural,2169.42,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,KherkaMusalman,KHERKA MUSALMAN,agricultural,2711.78,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,KherkaMusalman,KHERKA MUSALMAN,residential,5000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,KherkaMusalman,KHERKA MUSALMAN,commercial,8600,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,KherkaMusalman,LINK ROAD KHERKA MUSALMAN,agricultural,2711.78,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,KherkaMusalman,MAJOR DISTRICT RAOD KHERKA MUSALMAN,agricultural,2711.78,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,KheriJasour,Kheri Jasour,agricultural,1461.78,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Khairpur,KHAIRPUR,agricultural,1690.34,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Khairpur,KHAIRPUR,residential,5500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Khairpur,KHAIRPUR,commercial,17000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Khairpur,LINK ROAD KHAIRPUR,agricultural,1690.34,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Chhara,CHHARA,agricultural,606.92,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Chhara,CHHARA,agricultural,758.65,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Chhara,CHHARA,residential,5000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Chhara,CHHARA,commercial,8600,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Chhara,Link Road Chhara,agricultural,758.65,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Chhara,Major District Road Chhara,agricultural,758.65,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Chhudani,Chhudani,agricultural,684.3,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Chhudani,Chhudani,agricultural,855.37,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Chhudani,Chhudani,residential,5000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Chhudani,Chhudani,commercial,8600,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Chhudani,Link Road Chhudani,agricultural,855.37,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,JasourKheri,Jasour Kheri,residential,5500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,JasourKheri,Jasour Kheri,commercial,8600,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Jakhoda,HSIIDC,commercial,28000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Jakhoda,HSIIDC,industrial,28000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Jakhoda,JAKHODA,agricultural,2585.23,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Jakhoda,JAKHODA,residential,12000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Jakhoda,JAKHODA,commercial,27000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Jakhoda,LINK ROAD JAKHODA,agricultural,3252.07,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Jakhoda,N.H-10 JAKHODA,agricultural,3252.07,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Tandaheri,LINK ROAD TANDAHERI,agricultural,3252.07,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Tandaheri,MAJOR DISTRICT RAOD TANDAHERI,agricultural,1355.89,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Tandaheri,N H HIGHWAY BYPASS TANDAHERI,agricultural,3252.07,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Tandaheri,TANDAHERI,agricultural,1355.89,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Tandaheri,TANDAHERI,agricultural,1694.68,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Tandaheri,TANDAHERI,residential,8500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Tandaheri,TANDAHERI,commercial,25000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,DabodaKhurd,DABODA KHURD,agricultural,2182.98,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,DabodaKhurd,DABODA KHURD,agricultural,1247.42,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,DabodaKhurd,DABODA KHURD,residential,8500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,DabodaKhurd,DABODA KHURD,commercial,25000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,DabodaKhurd,Link Road Daboda Khurd,agricultural,2182.98,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,DabodaKhurd,Major District Road Daboda Khurd,agricultural,2182.98,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,DabodaKalan,DABODA KALAN,agricultural,934.71,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,DabodaKalan,DABODA KALAN,agricultural,1168.39,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,DabodaKalan,DABODA KALAN,residential,5500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,DabodaKalan,DABODA KALAN,commercial,17000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Dehkora,DEHKORA,agricultural,1141.48,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Dehkora,DEHKORA,residential,5000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Dehkora,DEHKORA,commercial,8500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Dehkora,Link Road Dehkora,agricultural,978.41,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Dehkora,MAJOR DISTRICT RAOD DEHKORA,agricultural,1426.85,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Dulehra,DULEHRA,agricultural,1426.85,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Dulehra,DULEHRA,agricultural,1180.17,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Dulehra,DULEHRA,residential,8500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Dulehra,LINK ROAD DULHERA,agricultural,1426.85,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Dulehra,MAJOR DISTRICT RAOD DULEHRA,agricultural,1426.85,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Nilothi,Nilothi,agricultural,1625.13,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Nilothi,Nilothi,residential,5000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Nilothi,Nilothi,commercial,8500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Nilothi,Link Road Nilothi,agricultural,1630.68,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Nilothi,Major District Road Nilothi,agricultural,2038.35,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,NunaMajra,LINK RAOD NUNA MAJRA,agricultural,2858.68,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,NunaMajra,NUNA MAJRA,agricultural,2169.42,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,NunaMajra,NUNA MAJRA,agricultural,2711.78,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,NunaMajra,NUNA MAJRA,agricultural,1239.67,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,NunaMajra,NUNA MAJRA,agricultural,1626.03,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,NunaMajra,NUNA MAJRA,agricultural,2032.54,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,NunaMajra,NUNA MAJRA,residential,13125,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,NunaMajra,NUNA MAJRA,commercial,39375,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Parnala,AATM SUDDHI ASHRAM AUTO MARKET TO DRAIN,residential,16500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Parnala,AATM SUDDHI ASHRAM AUTO MARKET TO DRAIN,commercial,36900,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Parnala,AGARWAL COLONY,residential,26400,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Parnala,AGARWAL COLONY,commercial,55000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Parnala,Baljeet Nagar,residential,14500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Parnala,Baljeet Nagar,commercial,23600,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Parnala,"BIHARI COLONY,DURGA COLONY",residential,12600,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Parnala,"BIHARI COLONY,DURGA COLONY",commercial,26400,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Parnala,Bus Stand To Tikri Border NH,commercial,93500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Parnala,CHHOTU RAM NAGAR AND NARSINGH NAGAR,residential,14500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Parnala,CHHOTU RAM NAGAR AND NARSINGH NAGAR,commercial,29625,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Parnala,LINK ROAD PARNALA,agricultural,4524.15,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Parnala,MAJOR DISTRICT ROAD PARNALA,agricultural,5423.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Parnala,MIE HUDA Free Hold,commercial,47200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Parnala,Model Town,commercial,58750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Parnala,NAHARA NAHARI ROAD RAILWAY BRIDGE TO MC LIMIT,residential,11500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Parnala,NAHARA NAHARI ROAD RAILWAY BRIDGE TO MC LIMIT,commercial,55000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Parnala,"NAHRA NAHRI ROAD TO MC, VIKASH ENCLAVE",residential,12800,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Parnala,"NAHRA NAHRI ROAD TO MC, VIKASH ENCLAVE",commercial,26700,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Parnala,"NIJAMUDDIN TO RAJBAHA ROAD, CHHOTURAM NAGAR MARKET",residential,12800,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Parnala,"NIJAMUDDIN TO RAJBAHA ROAD, CHHOTURAM NAGAR MARKET",commercial,26000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Parnala,PARNALA,agricultural,3619.32,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Parnala,Ram Bag Colony,residential,17000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Parnala,Ram Bag Colony,commercial,37500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Barakatabad,BARAKTABAD,agricultural,2122.93,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Barakatabad,BARAKTABAD NATIONAL HIGHWAY BYPASS,agricultural,5448.86,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Barakatabad,LINK RAOD BARAKTABAD,agricultural,3405.58,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Barakatabad,MAJOR DISTRICT RAOD BARAKTABAD,agricultural,4086.78,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Barahi,BARAHI,agricultural,1247.42,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Barahi,BARAHI,agricultural,1559.27,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Barahi,BARAHI,agricultural,1352.27,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Barahi,BARAHI,agricultural,1690.29,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Barahi,BARAHI,residential,8500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Barahi,BARAHI,commercial,24800,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Barahi,LINK ROAD BARAHI,agricultural,1559.27,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Bahadurgarh,Bahadurgarh link Road,agricultural,4132.23,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Bahadurgarh,Bahadurgarh link Road,agricultural,5578.51,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Bahadurgarh,Bahadurgarh link Road,residential,5578.51,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Bahadurgarh,Bahadurgarh link Road,commercial,5578.51,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Bahadurgarh,Bahadurgarh N.H,agricultural,6198.35,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Bahadurgarh,Bahadurgarh N.H,agricultural,6611.57,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Bamnauli,BAMNAULI,commercial,24800,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Balor,BALOR,agricultural,3384.3,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Balor,BALOR,agricultural,4230.37,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Balor,BALOR,agricultural,3688.02,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Balor,BALOUR NATIONAL HIGHWAY BYPASS,agricultural,5165.29,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Balor,LINK RAOD BALOR,agricultural,4610.02,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Bhaproda,BHAPRODA,agricultural,771.44,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Bhaproda,BHAPRODA,agricultural,1550.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Bhaproda,BHAPRODA,residential,5500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Bhaproda,BHAPRODA,commercial,17000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Bhaproda,LINK ROAD BHAPRODA,agricultural,1550.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Bhaproda,MAJOR DISTRICT RAOD BHAPRODA,agricultural,1550.36,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,MajraAsanda,Link Road Majra Asanda,agricultural,785.12,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,MajraAsanda,MAJOR DISTRICT RAOD MAJRA ASANDA,agricultural,950.41,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,MajraAsanda,Majra Asanda,agricultural,785.12,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,MajraAsanda,Majra Asanda,agricultural,950.41,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,MajraAsanda,Majra Asanda,residential,5000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,MajraAsanda,Majra Asanda,commercial,8600,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Mandothi,KMP MANDOTHI,agricultural,3186.34,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Mandothi,LINK ROAD MANDOTHI,agricultural,3186.34,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Mandothi,MAJOR DISTRICT RAOD MANDOTHI,agricultural,3186.34,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Mandothi,Mandothi Raod,agricultural,2549.07,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Mandothi,Mandothi Raod,agricultural,3186.34,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Mandothi,Mandothi Raod,residential,8600,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Mandothi,Mandothi Raod,commercial,25000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Mattan,Link Road Mattan,agricultural,1062.11,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Mattan,Major District Road Mattan,agricultural,1062.11,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Mattan,MATTAN,agricultural,849.69,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Mattan,MATTAN,agricultural,1062.11,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Mattan,MATTAN,residential,5000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Mukundpur,LINK ROAD MUKUNDPUR,agricultural,1690.34,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Mukundpur,MAJOR DISTRICT ROAD MUKANDPUR,agricultural,1859.5,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Mukundpur,Mukundpur,agricultural,1352.27,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Mukundpur,Mukundpur,agricultural,1690.34,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Mukundpur,Mukundpur,residential,6370,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Mukundpur,Mukundpur,commercial,17000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Mehandipur,Link Road MEHANDIPUR,agricultural,923.3,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Mehandipur,MEHANDIPUR,agricultural,1549.59,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Mehandipur,MEHANDIPUR,agricultural,2066.12,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Mehandipur,MEHANDIPUR,agricultural,1652.38,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Mehandipur,MEHANDIPUR,agricultural,1877.26,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Mehandipur,MEHANDIPUR,residential,5000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Mehandipur,MEHANDIPUR,commercial,8500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,RewariKhera,Link Road Rewari Khera,agricultural,1062.11,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,RewariKhera,REWARI KHERA,agricultural,849.69,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,REWARIKHERA,REWARI KHERA,agricultural,849.69,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,REWARIKHERA,REWARI KHERA,agricultural,1062.11,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,REWARIKHERA,REWARI KHERA,residential,5000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,REWARIKHERA,REWARI KHERA,commercial,8600,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,ROHAD,Link Road Rohad,agricultural,2799.26,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,ROHAD,Link Road Rohad,agricultural,3378.42,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,ROHAD,N.H-10 ROHAD,agricultural,2799.26,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,ROHAD,N.H-10 ROHAD,agricultural,3378.42,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,ROHAD,ROHAD,agricultural,2702.74,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,ROHAD,ROHAD,agricultural,3378.42,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,ROHAD,ROHAD,residential,11000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,ROHAD,ROHAD,commercial,25000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Ladrawan,Ladrawan,agricultural,1073.86,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Ladrawan,Ladrawan,agricultural,1342.33,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Ladrawan,Ladrawan,residential,6125,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Ladrawan,Ladrawan,commercial,18000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Ladrawan,LINK ROAD LADRAWAN,agricultural,1342.33,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,LowaKhurd,Link Road Lowa Khurd,agricultural,1298.04,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,LowaKhurd,LOWA KHURD,agricultural,947.31,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,LowaKhurd,LOWA KHURD,agricultural,1184.14,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,LowaKhurd,LOWA KHURD,agricultural,1298.04,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,LowaKhurd,LOWA KHURD,agricultural,1622.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,LowaKhurd,LOWA KHURD,residential,5000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,LowaKhurd,LOWA KHURD,commercial,8500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,LowaKhurd,STATE ROAD LOWA KHURD,agricultural,1622.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Loharheri,Loharheri,agricultural,1034.09,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Loharheri,Loharheri,agricultural,1292.61,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Loharheri,Loharheri,residential,5000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,LOWAKALAN,LINK ROAD LOWA KALAN,agricultural,1694.86,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,LOWAKALAN,LOWAKALAN,agricultural,1355.89,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,LOWAKALAN,LOWAKALAN,agricultural,1694.86,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,LOWAKALAN,LOWAKALAN,residential,5000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,LOWAKALAN,LOWAKALAN,commercial,8500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,SARAIAURANGABAD,"ITI TO NUNA MAJRA, ITI TO SARAI ORANGABAD, DEV NAGAR, ADARSH NAGAR",residential,18000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,SARAIAURANGABAD,"ITI TO NUNA MAJRA, ITI TO SARAI ORANGABAD, DEV NAGAR, ADARSH NAGAR",commercial,8500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,SARAIAURANGABAD,Kuber Colony,residential,15000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,SARAIAURANGABAD,Kuber Colony,commercial,32000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,SARAIAURANGABAD,LINK ROAD SARAI AURANGABAD,agricultural,4185.18,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,SARAIAURANGABAD,MAJOR DISTRICT ROAD SARAI AURANGABAD,agricultural,5023.3,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,SARAIAURANGABAD,Omaxe City Bahadurgarh,residential,25520,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,SARAIAURANGABAD,Omaxe City Bahadurgarh,commercial,50000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,SARAIAURANGABAD,SARAI AURGANGABAD,agricultural,3348.14,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,SARAIAURANGABAD,SARAI AURGANGABAD,agricultural,4185.18,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,SARAIAURANGABAD,SARAI AURGANGABAD,residential,15680,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,SARAIAURANGABAD,SARAI AURGANGABAD,commercial,25000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Sankhol,"BIHARI COLONY, DURGA COLONY",residential,14490,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Sankhol,"BIHARI COLONY, DURGA COLONY",commercial,30000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Sankhol,Free Hold Area Adjacent To Omaxe,residential,19100,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Sankhol,Free Hold Area Adjacent To Omaxe,commercial,47000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Sankhol,Ganpati Dham industrial Area,residential,25300,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Sankhol,Ganpati Dham industrial Area,commercial,25300,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Sankhol,Gyan Rathee Colony,residential,19000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Sankhol,Gyan Rathee Colony,commercial,40000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Sankhol,Link Road Sankhol,agricultural,5687.5,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Sankhol,"Mahavir Park, Bank colony",residential,30240,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Sankhol,"Mahavir Park, Bank colony",commercial,53000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Sankhol,MAJOR DISTRICT ROAD SANKHOL,agricultural,5687.5,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Sankhol,"National Highway no 10 to sec 6,sec 2, Patel Nagar, Maman Vihar to wide road",residential,21500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Sankhol,"National Highway no 10 to sec 6,sec 2, Patel Nagar, Maman Vihar to wide road",commercial,39000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Sankhol,Omax City Plot above 100 sq. yds.,commercial,51000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Sankhol,Omax City Plot upto 100 sq. yds.,residential,29000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Sankhol,Omax City Plot upto 100 sq. yds.,commercial,51000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Sankhol,"OMAXE CITY, KLJ FLAT",commercial,8500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Sankhol,"Patel Nagar-ii, J E Colony, 66 foot road",commercial,39380,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Sankhol,Sainik Nagar,commercial,27800,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Sankhol,Sankhol,agricultural,5687.5,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Sankhol,Sankhol,commercial,26000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Sankhol,Shree Ram Colony,residential,20500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Sankhol,Shree Ram Colony,commercial,53500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Sankhol,Surya Nagar,commercial,20000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Sadpur,LINK ROAD SHADPUR,agricultural,2224.43,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Sadpur,SHADPUR,agricultural,1779.55,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Sadpur,SHADPUR,agricultural,2224.43,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Sadpur,SHADPUR,residential,5000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Sadpur,SHADPUR,commercial,8500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Sidipur,LINK ROAD SHIDIPUR,agricultural,1694.86,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Sidipur,LINK ROAD SHIDIPUR,agricultural,852.27,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Sidipur,SHIDIPUR,agricultural,1355.89,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Sidipur,SHIDIPUR,agricultural,1694.86,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Sidipur,SHIDIPUR,agricultural,774.79,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Sidipur,SHIDIPUR,residential,7500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Sidipur,SHIDIPUR,commercial,22500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Silothi,SILOTHI,agricultural,630.17,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Silothi,SILOTHI,agricultural,787.71,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Silothi,SILOTHI,agricultural,819.21,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Silothi,SILOTHI,agricultural,1024.02,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Silothi,SILOTHI,agricultural,1196.8,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Silothi,SILOTHI,agricultural,1496.0,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Silothi,SILOTHI,residential,4800,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Silothi,SILOTHI,commercial,8600,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Silothi,LINK ROAD SILOTHI,agricultural,1431.82,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Soldha,LINK ROAD SOLDHA,agricultural,1441.76,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Soldha,MAJOR DISTRICT ROAD SOLDHA,agricultural,1441.76,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Soldha,SOLDHA,residential,5000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Soldha,SOLDHA,commercial,8600,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Soldha,SOLDHA,agricultural,1153.41,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Soldha,SOLDHA,agricultural,1441.76,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Hasanpur,BALJIT NAGAR,commercial,26000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Hasanpur,"DHARAM VIHAR, VIVEKANAND NAGAR",commercial,42350,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Hasanpur,HASANPUR,agricultural,3619.32,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Hasanpur,MIE HUDA AND FREE HOLD,commercial,47200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Hasanpur,MIE HUDA AND FREE HOLD,industrial,47200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Hasanpur,"NIJAMUDDIN TO RAJBAHA ROAD, CHHOTURAM NAGAR MARKET",residential,12800,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,Hasanpur,"SHASTRI NAGAR, JOHRI NAGAR, VATS COLONY, FRIENDS COLONY, NETAJI NAGAR",residential,12800,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"AATM SUDHHI ASHRAM, AUTO MARKET TO DRAIN",residential,18150,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"AATM SUDHHI ASHRAM, AUTO MARKET TO DRAIN",commercial,40600,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,Aggarwal Colony,residential,29000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,Aggarwal Colony,commercial,60500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,Agriculture,agricultural,3868.8,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,Agriculture,agricultural,4555.79,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,AMI GREEN SEC 3 Flat,residential,4400,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,AMI GREEN SEC 3 Flat,commercial,8600,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,AMI GREEN SEC 3 PLOT 100 sq yard,residential,25000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,AMI GREEN SEC 3 PLOT 100 sq yard,commercial,51500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,AMI GREEN SEC 3 PLOT 50 TO 100,residential,29100,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,AMI GREEN SEC 3 PLOT 50 TO 100,commercial,53800,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,Anaaj Mandi TO Gandhi Market,residential,29100,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,Area Free Hold Adjasent Omaxe,residential,18800,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,Area Free Hold Adjasent Omaxe,commercial,47200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,ARYA NAGAR,commercial,32700,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,BAHADURGARH LINK ROAD,agricultural,3865.91,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,BAHADURGARH LINK ROAD,agricultural,4832.39,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,BAHADURGARH LINK ROAD,residential,16000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,BAHADURGARH LINK ROAD,commercial,21800,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,BALJEET NAGAR,residential,12760,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,BALJEET NAGAR,commercial,25800,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,BANK COLONY,residential,19370,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,BANK COLONY,commercial,30250,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"Barahi Gonda, New Vikash Nagar, Surat Nagar, Subhash Nagar",residential,15080,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"Barahi Gonda, New Vikash Nagar, Surat Nagar, Subhash Nagar",commercial,31460,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,BARAHI ROAD NH TO DRAIN,commercial,49600,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,BARAHI ROAD TO GAURIYYA NH,commercial,101640,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,BARAHNIYA COLONY,residential,14500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,BARAHNIYA COLONY,commercial,26200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,BHAGAT SINGH COLONY,residential,21605,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,BHAGAT SINGH COLONY,commercial,39260,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,BHAGWAN COLONY SHYAM COLONY,residential,26075,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,BHAGWAN COLONY SHYAM COLONY,commercial,39300,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,BIHARI COLONY DURGA COLONY,residential,13900,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,BIHARI COLONY DURGA COLONY,commercial,29100,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,BRAHI ROAD TO BUS STAND NH,commercial,98670,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,BUS STAND TO SHIV CHOCK NAJAFGARH ROAD,residential,18800,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,BUS STAND TO SHIV CHOCK NAJAFGARH ROAD,commercial,60500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,BUS STAND TO TIKARI BORDER N.H,commercial,107525,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"Champa Colony, Chhikara Colony, Ashok Nagar",residential,22330,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"Champa Colony, Chhikara Colony, Ashok Nagar",commercial,35100,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,Chhotu Ram Nagar and Narsingh Nagar,residential,12800,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,Chhotu Ram Nagar and Narsingh Nagar,commercial,29625,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"DALBIR NAGAR, DAYANAND NAGAR, SHASTRI NAGAR, SAINIPURA",residential,25740,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"DALBIR NAGAR, DAYANAND NAGAR, SHASTRI NAGAR, SAINIPURA",commercial,48400,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"DEVI MANDIR, SHAKTI VIHAR, CHOTU NAGAR PARK",residential,19140,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"DEVI MANDIR, SHAKTI VIHAR, CHOTU NAGAR PARK",commercial,48125,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"Dharam Vihar, Vivekanand Nagar, Vedant Asharam",residential,17600,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"Dharam Vihar, Vivekanand Nagar, Madan Ashram",commercial,48125,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,DHARAMPURA COLONY,residential,24750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,DHARAMPURA COLONY,commercial,55000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,EWS Flat first floor,residential,2250,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,EWS Flat first floor,commercial,2300,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,EWS Flat Second floor,residential,1750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,EWS Flat Second floor,commercial,1900,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,EWS Flat Third floor,residential,1450,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,EWS Flat Third floor,commercial,1500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"Forteasia Flat Bahadurgarh Sec 35, 28",residential,4000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"Forteasia Flat Bahadurgarh Sec 35, 28",commercial,8100,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,forteasia residency 50-100 yard,residential,26400,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,forteasia residency 50-100 yard,commercial,48900,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,forteasia residency 100yard to above,residential,27255,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,forteasia residency 100yard to above,commercial,48900,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,GANPATI DHAM INDUSTRIAL AREA,commercial,22000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,HARUAN BASTI,residential,10100,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,HARUAN BASTI,commercial,25100,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,HB Sec-9 First Floor,residential,2070,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,HB Sec-9 Ground Floor,residential,2375,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,HOUSING BOARD SEC-7,commercial,48400,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,HSIIDC,residential,23000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,HSVP Institutional Nursing Home School Hospital above 2000 Sq Yds. School,commercial,23760,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,HSVP Institutional Nursing Home School Hospital above 2000 Sq Yds. Hospital,commercial,23760,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,HSVP Institutional Nursing Home School Hospital above 2000 Sq Yds. Nursing Home,commercial,23760,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,HSVP Institutional Nursing Home School Hospital upto 2000 Sq Yds. Nursing Home,commercial,31700,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,HSVP Institutional Nursing Home School Hospital upto 2000 Sq Yds. School,commercial,31700,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,HSVP Institutional Nursing Home School Hospital upto 2000 Sq Yds. Hospital,commercial,31700,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"Indra Market, Park Road",residential,29100,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"Indra Market, Park Road",commercial,60500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"ITI TO NUNA MAJRA, SARAI ORANGABAD TO DEV NAGAR ADRASH NAGAR",commercial,32670,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"JATWARA GALI NO. 5, 7, 8, JAIN MANDIR JHIL",commercial,68750,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"KABADI MARKET, CHHOTU PARK TO SAYYAD",residential,16000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"KABADI MARKET, CHHOTU PARK TO SAYYAD",commercial,58190,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"KACHA BHAG, SANJAY COLONY, FRIENDS COLONY UPTO COLLEGE",residential,19000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"KACHA BHAG, SANJAY COLONY, FRIENDS COLONY UPTO COLLEGE",commercial,36395,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"Kashmiri Colony, Balour Road",residential,20000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"Kashmiri Colony, Balour Road",commercial,64400,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,Kath Mandi Railway Road,residential,33000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,Kath Mandi Railway Road,commercial,55000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"KHIDKI DARWAJA TO MELA GROUND, BADLI ROAD",residential,19140,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"KHIDKI DARWAJA TO MELA GROUND, BADLI ROAD",commercial,26400,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"KILA MOHALLA, PALIKA COLONY",residential,16500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"KILA MOHALLA, PALIKA COLONY",commercial,39600,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,KUBER COLONY,residential,12600,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,KUBER COLONY,commercial,28000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"Linepar, Indra Park, Shakner Garden",residential,21500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"Linepar, Indra Park, Shakner Garden",commercial,26400,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"MAHABIR PARK, BANK COLONY",residential,23200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"MAHABIR PARK, BANK COLONY",commercial,64350,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,MAIN BAJAR SHABJI MANDI TO GANDHI CHOCK,commercial,63000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,MIE STORE PLOT,commercial,58000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,Modal Town,commercial,59000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,MOHAN NAGAR NEW SHABJI MANDI,commercial,55000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,N.H TO MAIN BAJAR OLD SHABJI MANDI,commercial,103000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,N.H TO OLD CHUNGI JHAJJAR ROAD,residential,20500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,NAHAR TO ITI,residential,15000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,NAHAR TO ITI,commercial,32600,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"Nahara Nahan Road To MC, Vikas Enclave",residential,13000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"Nahara Nahan Road To MC, Vikas Enclave",commercial,27000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,Nahara Nahari Road To Railway Fatak,residential,27000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,Nahara Nahari Road To Railway Fatak,commercial,60500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,NAHRA NAHRI ROAD RAILWAY BRIDGE TO MC AREA,residential,11500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,NAHRA NAHRI ROAD RAILWAY BRIDGE TO MC AREA,commercial,55800,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"NIJAM ROAD TO BAGPAT ROAD, CHOTU COLONY",residential,13000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"NIJAM ROAD TO BAGPAT ROAD, CHOTU COLONY",commercial,26000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"OLD CHUNGI TO NAHAR, IN FRONT OF DIG COLONY",residential,14000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"OLD CHUNGI TO NAHAR, IN FRONT OF DIG COLONY",commercial,30500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,OLD COMMITTEE TO SHIV CHOCK OLD NAJAFGARH ROAD,residential,18800,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,OLD COMMITTEE TO SHIV CHOCK OLD NAJAFGARH ROAD,commercial,60500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,Old Industrial Area,commercial,23000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,Old Industrial Area,industrial,23000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,Omaxe Plot,commercial,51000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,Omaxe Plot Above 100 SY,commercial,51000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"ONE CITY, ONEX, RUHI, RESIDENCY AND ROYAL GREEN 50 YARD TO 100 YARD",commercial,55000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,OTHER LICENCE COLONY PLOT RATE BAHADURGARH,residential,27000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,OTHER LICENCE COLONY PLOT RATE BAHADURGARH,commercial,46800,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,OTHER NEW LICENCE COLONY FLATE RATE BAHADURGARH,residential,4200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,OTHER NEW LICENCE COLONY FLATE RATE BAHADURGARH,commercial,7200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,OTHER PLOTS INSIDE MC AREA,commercial,28500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,Prem Nagar,commercial,27800,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"PREM NAGAR, MAMAN VIHAR, PATEL NAGAR, JE COLONY, DEFENCE COLONY",commercial,27800,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,Railway Road N H To Drain,commercial,110000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,RAM BHAG COLONY,residential,17000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,RAM BHAG COLONY,commercial,37500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"RASTA ISHERHERI, DEFENCE COLONY",residential,15200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"RASTA ISHERHERI, DEFENCE COLONY",commercial,22000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"ROYAL GREEN PLOT SEC 36, ONE CITY, MICROTEK PVT LTD, GNEX, RUHIL RESIDENCY 101 YARD ABOVE",commercial,55000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"Royal Green, One City, Microtek Pvt Ltd, Gnex, Ruhil Residency, H L Residency Flat Bahadurgarh",residential,4350,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"Royal Green, One City, Microtek Pvt Ltd, Gnex, Ruhil Residency, H L Residency Flat Bahadurgarh",commercial,9000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,Sant Colony,residential,23800,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,Sant Colony,commercial,59300,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,Sec 13,commercial,45000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,SEC-10 251 SY TO 350 SY,residential,27800,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,SEC-10 251 SY TO 350 SY,commercial,57000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,SEC-10 ABOVE 350 SY,residential,25800,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,SEC-10 ABOVE 350 SY,commercial,57000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,SEC-10 UPTO 250 SY,commercial,57000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"Sec-11, HUDA",residential,26000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"Sec-11, HUDA",commercial,66000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,SEC-12 AUTO MARKET,commercial,54000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"SEC-2, 251 SY TO 350 SY",commercial,68000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"SEC-2, ABOVE 350 SY",commercial,68000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"SEC-6, 251 SY TO 350 SY",commercial,86500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"SEC-6, ABOVE 350 SY",commercial,86500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"SEC-6, upto 250 SY",commercial,86500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"SEC-9, 9A, 251 SY TO 350 SY",commercial,86500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"Sec-9, 9A, ABOVE 350 SY",commercial,86500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"Sec-9, 9A, HOUSING BOARD COLONY",commercial,86500,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,Sector 1 Part A,residential,27000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,Sector 1 Part A,commercial,46800,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,Sector 7,residential,33300,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,Sector 7,commercial,71000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"Sector-7, First Floor, Floor Rate",commercial,6300,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,"Shastri, Johari Nagar, Vats Colony, Friends, New Friends Colony",commercial,27000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,Shree Ram Mandir Colony,commercial,53700,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,SURIYA NAGAR,commercial,20000,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,TATA CITY PLOT above 100 Sq Yard,residential,27200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,TATA CITY PLOT above 100 Sq Yard,commercial,53800,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,TATA CITY PLOT UPTO 100 Sq Yard,residential,27200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,TATA CITY PLOT UPTO 100 Sq Yard,commercial,53800,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,TATA FLAT,commercial,8600,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,Tourist Complex Gauriyya,commercial,90200,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,VALMIKI CHOWK TO SALE TAX BARRIER,residential,17600,2026-04-01,jhajjar_gov_in_dc_notification
+Jhajjar,Bahadurgarh,BahadurgarhCity,VALMIKI CHOWK TO SALE TAX BARRIER,commercial,50800,2026-04-01,jhajjar_gov_in_dc_notification

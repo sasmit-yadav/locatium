@@ -1,0 +1,717 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Mahendragarh,Nangal Choudhary,AjamabadMokhuta,Ajamabad Mokhuta Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,AjamabadMokhuta,Ajamabad Mokhuta Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,AjamabadMokhuta,Ajamabad Mokhuta Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,AjamabadMokhuta,Ajamabad Mokhuta Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,AjamabadMokhuta,Ajamabad Mokhuta,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,AjamabadMokhuta,Ajamabad Mokhuta,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,AjamabadMokhuta,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,AjamabadMokhuta,Railway Line Narnaul to Fulera,agricultural,925.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,AjamabadMokhuta,Railway Line Narnaul to Fulera,residential,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,AjamabadMokhuta,Railway Line Narnaul to Fulera,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,AkbarpurSirohi,Akbarpur Sirohi Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,AkbarpurSirohi,Akbarpur Sirohi Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,AkbarpurSirohi,Akbarpur Sirohi Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,AkbarpurSirohi,Akbarpur Sirohi Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,AkbarpurSirohi,Akbarpur Sirohi,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,AkbarpurSirohi,Akbarpur Sirohi,commercial,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,AkbarpurSirohi,Narnaul to Kotputli Road,agricultural,925.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,AkbarpurSirohi,Narnaul to Kotputli Road,residential,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,AkbarpurSirohi,Narnaul to Kotputli Road,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Akoli,Akoli Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Akoli,Akoli Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Akoli,Akoli Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Akoli,Akoli Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Akoli,Akoli,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Akoli,Akoli,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Amarpura,Amarpura Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Amarpura,Amarpura Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Amarpura,Amarpura Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Amarpura,Amarpura Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Amarpura,Amarpura,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Amarpura,Amarpura,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Amarpura,Narnaul to Kotputli Road,agricultural,925.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Amarpura,Narnaul to Kotputli Road Barani,agricultural,925.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Amarpura,Narnaul to Kotputli Road Mund,agricultural,925.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Amarpura,Narnaul to Kotputli Road,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Amarpura,Narnaul to Kotputli Road,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Antri,Antri Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Antri,Antri Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Antri,Antri Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Antri,Antri Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Antri,Antri,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Antri,Antri,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Antri,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Ashrawas,Ashrawas Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Ashrawas,Ashrawas Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Ashrawas,Ashrawas Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Ashrawas,Ashrawas Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Ashrawas,Ashrawas,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Ashrawas,Ashrawas,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Ashrawas,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,BamanwasNau,Bamanwas Nau Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,BamanwasNau,Bamanwas Nau Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,BamanwasNau,Bamanwas Nau Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,BamanwasNau,Bamanwas Nau Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,BamanwasNau,Bamanwas Nau,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,BamanwasNau,Bamanwas Nau,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,BamanwasNau,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,BamanwasNau,Railway Line Narnaul to Fulera,agricultural,925.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,BamanwasNau,Railway Line Narnaul to Fulera,residential,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,BamanwasNau,Railway Line Narnaul to Fulera,commercial,14520,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,BamanwasKheta,Bamanwas Kheta Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,BamanwasKheta,Bamanwas Kheta Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,BamanwasKheta,Bamanwas Kheta Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,BamanwasKheta,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,BamanwasKheta,Near Hills,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,BamanwasKheta,Near Hills,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,BamanwasKheta,Near Hills Other,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Banihari,Banihari Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Banihari,Banihari Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Banihari,Banihari Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Banihari,Banihari,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Banihari,Banihari,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Banihari,Banihari Other,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Banihari,Near Hills Barani,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Banihari,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Banihari,Narnaul to Kotputli Road,agricultural,925.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Banihari,Narnaul to Kotputli Road,residential,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Banihari,Narnaul to Kotputli Road,commercial,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Bayal,Bayal Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Bayal,Bayal Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Bayal,Bayal Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Bayal,Bayal Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Bayal,Bayal,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Bayal,Bayal,commercial,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Berundia,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Berundia,Berundia Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Berundia,Berundia Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Berundia,Berundia Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Berundia,Berundia Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Berundia,Berundia,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Berundia,Berundia,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Bhadenti,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Bhadenti,Bhadenti Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Bhadenti,Bhadenti Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Bhadenti,Bhadenti Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Bhadenti,Bhadenti Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Bhadenti,Bhadenti,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Bhadenti,Bhadenti,commercial,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Bhadenti,Near Hills Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,BihariPur,Bihari Pur Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,BihariPur,Bihari Pur Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,BihariPur,Bihari Pur Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,BihariPur,Bihari Pur Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,BihariPur,Bihari Pur Pahad,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Bhojawas,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Bhojawas,Near Hills,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Bhojawas,Near Hills,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Bhojawas,Bhojawas Pahad,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Bhojawas,Bhojawas Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Bhojawas,Bhojawas Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Bhojawas,Bhojawas Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Bhojawas,Bhojawas Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Bhojawas,Bhojawas,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Bhojawas,Bhojawas,commercial,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Bhojawas,Narnaul to Kotputli Road,agricultural,925.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Bhojawas,Narnaul to Kotputli Road,residential,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Bhojawas,Narnaul to Kotputli Road,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Bigopur,Bigopur Chahi,agricultural,750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Bigopur,Bigopur Nahari,agricultural,750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Bigopur,Bigopur Barani,agricultural,750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Bigopur,Bigopur Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Bigopur,Bigopur,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Bigopur,Bigopur,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Bikhrija,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Bikhrija,Bikhrija Chahi,agricultural,601.14,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Bikhrija,Bikhrija Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Bikhrija,Bikhrija Barani,agricultural,575.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Bikhrija,Bikhrija Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Bikhrija,Bikhrija,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Bikhrija,Bikhrija,commercial,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,BirSimli,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,BirSimli,Bir Simli Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,BirSimli,Bir Simli Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,BirSimli,Bir Simli Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,BirSimli,Bir Simli Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,BirSimli,Bir Simli,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Budhwal,Budhwal Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Budhwal,Budhwal,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Budhwal,Budhwal,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Budhwal,Budhwal Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Budhwal,Budhwal Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Budhwal,Budhwal Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Budhwal,Budhwal,commercial,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Budhwal,Narnaul to Kotputli Road,agricultural,925.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Budhwal,Narnaul to Kotputli Road,residential,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Budhwal,Narnaul to Kotputli Road,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,ChakMalikpur,Chak Malikpur Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,ChakMalikpur,Chak Malikpur Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,ChakMalikpur,Chak Malikpur Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,ChakMalikpur,Chak Malikpur Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,ChakMalikpur,Chak Malikpur,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,ChakMalikpur,Chak Malikpur,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,ChhapraBibipur,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,ChhapraBibipur,Near Hills Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,ChhapraBibipur,Near Hills Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,ChhapraBibipur,Near Hills Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,ChhapraBibipur,Near Hills Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,ChhapraBibipur,Near Hills,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,ChhapraBibipur,Chhapra Bibipur,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,ChhapraBibipur,Near Hills Pahad,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,ChhapraBibipur,After Controlled Area,residential,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,ChhapraBibipur,After Controlled Area,commercial,14520,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,ChhapraBibipur,After Controlled Area,agricultural,601.14,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Chhilro,Chhilro Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Chhilro,Chhilro Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Chhilro,Chhilro Barani,agricultural,575.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Chhilro,Chhilro Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Chhilro,Chhilro,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Chhilro,In Controlled Area,residential,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Chhilro,In Controlled Area,commercial,11890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Chhilro,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Chhilro,Khetri to Nizampur Road,agricultural,925.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Chhilro,Khetri to Nizampur Road,residential,14520,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Chhilro,Khetri to Nizampur Road,commercial,14520,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Chhilro,Nangal Cho. to Nizampur Road,agricultural,925.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Chhilro,Nangal Cho. to Nizampur Road,residential,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Chhilro,Nangal Cho. to Nizampur Road,commercial,14520,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Chhilro,Near Hills,residential,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Chhilro,Nizampur to Dancholi Road,agricultural,925.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Chhilro,Nizampur to Dancholi Road,residential,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Chhilro,Nizampur to Dancholi Road,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Chhilro,Nizampur to Narnaul Road,agricultural,925.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Chhilro,Nizampur to Narnaul Road,residential,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Chhilro,Nizampur to Narnaul Road,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Chhilro,Railway Line Narnaul to Fulera,agricultural,925.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Chhilro,Railway Line Narnaul to Fulera,residential,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Chhilro,Railway Line Narnaul to Fulera,commercial,14520,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Datal,Datal Chahi,agricultural,575.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Datal,Datal Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Datal,Datal Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Datal,Datal Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Datal,Datal,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Datal,Datal,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Datal,Narnaul to Kotputli Road,agricultural,925.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Datal,Narnaul to Kotputli Road,residential,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Datal,Narnaul to Kotputli Road,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Datal,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Dholhera,Dholhera Chahi,agricultural,575.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Dholhera,Dholhera Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Dholhera,Dholhera Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Dholhera,Dholhera Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Dholhera,Dholhera,residential,11550,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Dholhera,Dholhera,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Dholhera,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Dongli,Dongli Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Dongli,Dongli Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Dongli,Dongli Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Dongli,Dongli Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Dongli,Dongli,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Dongli,Dongli,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Dongli,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Dongli,Near Hills Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Dongli,Near Hills Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Dongli,Near Hills Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Dongli,Near Hills Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Donkhera,Donkhera Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Donkhera,Donkhera Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Donkhera,Donkhera Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Donkhera,Donkhera Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Donkhera,Donkhera,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Donkhera,Donkhera,commercial,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Donkhera,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Dostpur,Dostpur Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Dostpur,Dostpur Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Dostpur,Dostpur Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Dostpur,Dostpur Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Dostpur,Dostpur,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Dostpur,Dostpur,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Gadwa,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Gadwa,Gadwa Chahi,agricultural,600.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Gadwa,Gadwa Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Gadwa,Gadwa Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Gadwa,Gadwa Mund,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Gadwa,Gadwa,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Gadwa,Gadwa,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Gangutana,Gangutana Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Gangutana,Gangutana Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Gangutana,Gangutana Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Gangutana,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Gangutana,Gangutana Pahad,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Gangutana,Gangutana Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Gangutana,Gangutana,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Gangutana,Gangutana,commercial,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,GanwariJat,Ganwari Jat Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,GanwariJat,Ganwari Jat Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,GanwariJat,Ganwari Jat Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,GanwariJat,Ganwari Jat Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,GanwariJat,Ganwari Jat,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,GanwariJat,Ganwari Jat,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,GanwariJat,Nangal Cho. to Nizampur Road,agricultural,925.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,GanwariJat,Nangal Cho. to Nizampur Road,residential,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,GanwariJat,Nangal Cho. to Nizampur Road,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,GanwariJat,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Golwa,Golwa Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Golwa,Golwa Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Golwa,Golwa Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Golwa,Golwa Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Golwa,Golwa,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Golwa,Golwa,commercial,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Golwa,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Gothari,Gothari Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Gothari,Gothari Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Gothari,Gothari Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Gothari,Gothari Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Gothari,Gothari,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Gothari,Gothari,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,IqbalpurNangli,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,IqbalpurNangli,Iqbalpur Nangli Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,IqbalpurNangli,Iqbalpur Nangli Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,IqbalpurNangli,Iqbalpur Nangli Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,IqbalpurNangli,Iqbalpur Nangli Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,IqbalpurNangli,Iqbalpur Nangli,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,IqbalpurNangli,Iqbalpur Nangli,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Ishlampura,Ishlampura Chahi,agricultural,572.73,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Ishlampura,Ishlampura Nahari,agricultural,525.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Ishlampura,Ishlampura Barani,agricultural,525.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Ishlampura,Ishlampura Mund,agricultural,525.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Ishlampura,Ishlampura,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Ishlampura,Ishlampura,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Ishlampura,Nangal Cho. to Nizampur Road,agricultural,925.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Ishlampura,Nangal Cho. to Nizampur Road,residential,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Ishlampura,Nangal Cho. to Nizampur Road,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Ishlampura,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Ishlampura,Ishlampura Chahi N,agricultural,763.64,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Ishlampura,Ishlampura Chahi P,agricultural,1284.3,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Ishlampura,Ishlampura Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Ishlampura,Ishlampura Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Ishlampura,Ishlampura Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Ishlampura,Ishlampura N,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Ishlampura,Ishlampura P,residential,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Ishlampura,Ishlampura N,commercial,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Ishlampura,Ishlampura P,commercial,14520,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Jainpur,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Jainpur,Jainpur Chahi N,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Jainpur,Jainpur Chahi P,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Jainpur,Jainpur Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Jainpur,Jainpur Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Jainpur,Jainpur Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Jainpur,Jainpur,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Jainpur,Jainpur,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Kalba,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Kalba,Kalba Chahi N,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Kalba,Kalba Chahi P,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Kalba,Kalba Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Kalba,Kalba Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Kalba,Kalba Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Kalba,Near Hills,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Kalba,Near Hills,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Kamania,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Kamania,Kamania Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Kamania,Kamania Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Kamania,Kamania Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Kamania,Kamania Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Kamania,Kamania,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Kamania,Kamania,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,KhatoliAhir,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,KhatoliAhir,Khatoli Ahir Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,KhatoliAhir,Khatoli Ahir Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,KhatoliAhir,Khatoli Ahir Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,KhatoliAhir,Khatoli Ahir Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,KhatoliAhir,Khatoli Ahir,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,KhatoliAhir,Khatoli Ahir,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,KhatoliJat,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,KhatoliJat,Khatoli Jat Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,KhatoliJat,Khatoli Jat Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,KhatoliJat,Khatoli Jat Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,KhatoliJat,Khatoli Jat Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,KhatoliJat,Khatoli Jat,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,KhatoliJat,Khatoli Jat,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Khawajpur,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Khawajpur,Khawajpur Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Khawajpur,Khawajpur Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Khawajpur,Khawajpur Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Khawajpur,Khawajpur Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Khawajpur,Khawajpur,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Khawajpur,Khawajpur,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Lujota,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Lujota,Lujota Chahi,agricultural,575.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Lujota,Lujota Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Lujota,Lujota Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Lujota,Lujota Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Lujota,Lujota,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Lujota,Lujota,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Lujota,To Nizampur Road,agricultural,925.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Lujota,To Nizampur Road,residential,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Lujota,To Nizampur Road,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Maurund,Maurund Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Maurund,Maurund Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Maurund,Maurund Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Maurund,Maurund Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Maurund,Maurund,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Maurund,Maurund,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Maurund,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Maurund,Maurund Chahi Other,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,MeghotBinja,Meghot Binja Chahi N,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,MeghotBinja,Meghot Binja Chahi P,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,MeghotBinja,Meghot Binja Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,MeghotBinja,Meghot Binja Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,MeghotBinja,Meghot Binja Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,MeghotBinja,Meghot Binja,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,MeghotBinja,Meghot Binja,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,MegotHalla,Megot Halla Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,MegotHalla,Megot Halla Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,MegotHalla,Megot Halla Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,MegotHalla,Megot Halla Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,MegotHalla,Megot Halla,residential,8800,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,MegotHalla,Megot Halla,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,MegotHalla,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,MegotHalla,To Nizampur Road,agricultural,925.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,MegotHalla,To Nizampur Road,residential,8860,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,MegotHalla,To Nizampur Road,commercial,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,MohabatpurBhungarka,Mohabatpur Bhungarka Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,MohabatpurBhungarka,Mohabatpur Bhungarka Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,MohabatpurBhungarka,Mohabatpur Bhungarka Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,MohabatpurBhungarka,Mohabatpur Bhungarka Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,MohabatpurBhungarka,Mohabatpur Bhungarka,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,MohabatpurBhungarka,Mohabatpur Bhungarka,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Momanpur,Momanpur Chahi,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Momanpur,Momanpur Nahari,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Momanpur,Momanpur Barani,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Momanpur,Momanpur Mund,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Momanpur,Momanpur,residential,14520,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Momanpur,Momanpur,commercial,24200,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Momanpur,Narnaul to Kotputli Road,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Momanpur,Narnaul to Kotputli Road,residential,16940,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Momanpur,Narnaul to Kotputli Road,commercial,30250,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Mosampur,Mosampur Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Mosampur,Mosampur Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Mosampur,Mosampur Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Mosampur,Mosampur Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Mosampur,Mosampur,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Mosampur,Mosampur,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Mosampur,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Mosampur,Near Hills Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Mosampur,Near Hills Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Mosampur,Near Hills Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Mosampur,Near Hills Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Mosampur,Near Hills,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Mosampur,Near Hills,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Mosnauta,Mosnauta Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Mosnauta,Mosnauta Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Mosnauta,Mosnauta Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Mosnauta,Mosnauta Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Mosnauta,Mosnauta,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Mosnauta,Mosnauta,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Mosnauta,NCho. to Nizampur Road,agricultural,925.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Mosnauta,NCho. to Nizampur Road,residential,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Mosnauta,NCho. to Nizampur Road,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Mosnauta,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Mulodi,Mulodi Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Mulodi,Mulodi Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Mulodi,Mulodi Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Mulodi,Mulodi Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Mulodi,Mulodi,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Mulodi,Mulodi,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,Dhani Bandha wali,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,Dhani Bandha wali Barani,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,Dhani Bandha wali,residential,14520,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,Dhani Bandha wali,commercial,24200,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,Dhani Bandha wali Chahi,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,Dhani Bandha wali Mund,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,Dhani Baniya wali,residential,14520,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,Dhani Baniya wali,commercial,24200,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,Dhani Kumbha wali,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,Dhani Kumbha wali Barani,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,Dhani Kumbha wali Mund,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,Dhani Kumbha wali,residential,14520,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,Dhani Kumbha wali,commercial,24200,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,Nangal Choudhary Chahi,agricultural,2068.18,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,Nangal Choudhary Nahari,agricultural,2068.18,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,Nangal Choudhary Barani,agricultural,2068.18,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,Nangal Choudhary Mund,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,Nangal Choudhary,residential,18980,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,Nangal Choudhary,commercial,35880,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,Nangal Choudhary to Behror Road,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,Nangal Choudhary to Behror Road Barani,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,Nangal Choudhary to Behror Road,residential,21780,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,Nangal Choudhary to Behror Road,commercial,36300,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,Nangal Choudhary to Behror Road Chahi,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,Nangal Choudhary to Narnaul Road,commercial,36300,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,Nangal Choudhary to Narnaul Road,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,Nangal Choudhary to Narnaul Road,residential,21780,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,Nangal Choudhary Other,residential,48400,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,Nangal Choudhary Other,commercial,48400,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,Nangal Choudhary to Nizampur Road,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,Nangal Choudhary to Nizampur Road,residential,21780,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,Nangal Choudhary to Nizampur Road Other,residential,36300,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,Nangal Choudhary to Nizampur Road,commercial,36300,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,Narnaul to Kotputli Road,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,Narnaul to Kotputli Road Mund,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,Narnaul to Kotputli Road,residential,21780,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,Narnaul to Kotputli Road Other,residential,50600,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,Narnaul to Kotputli Road,commercial,48400,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,NCH to Nizampur Road MC,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,NCH to Nizampur Road Chahi,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,NCH to Nizampur Road Barani,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,NCH to Nizampur Road Mund,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,NCH to Nizampur Road,residential,21780,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,NCH to Nizampur Road Other,residential,36300,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,NCH to Nizampur Road,commercial,36300,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,NCH College Behror Road,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,NCH College Behror Road Barani,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,NCH College Behror Road Mund,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,NCH College Behror Road,residential,21780,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,NCH College Behror Road,commercial,36300,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,Near Hills,residential,21780,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalChoudhary,Near Hills,commercial,29040,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Nolaija,Nolaija Chahi,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Nolaija,Nolaija Barani,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Nolaija,Nolaija,residential,14520,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Nolaija,Nolaija,commercial,24200,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalDargu,Nangal Dargu Chahi,agricultural,575.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalDargu,Nangal Dargu Nahari,agricultural,575.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalDargu,Nangal Dargu Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalDargu,Nangal Dargu Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalDargu,Nangal Dargu,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalDargu,Nangal Dargu,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalDargu,NCh. to Nizampur Road,agricultural,925.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalDargu,NCh. to Nizampur Road,residential,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalDargu,NCh. to Nizampur Road,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalDargu,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalKaliya,Dhani Bania wali,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalKaliya,Dhani Bania wali,residential,14520,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalKaliya,Dhani Bania wali,commercial,24200,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalKaliya,Nangal Kaliya Chahi,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalKaliya,Nangal Kaliya Nahari,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalKaliya,Nangal Kaliya Barani,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalKaliya,Nangal Kaliya,residential,14520,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalKaliya,Nangal Kaliya,commercial,25300,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalKaliya,Narnaul to Kotputli Road,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalKaliya,Narnaul to Kotputli Road,residential,15730,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalKaliya,Narnaul to Kotputli Road,commercial,36300,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalNunia,Nangal Nunia Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalNunia,Nangal Nunia Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalNunia,Nangal Nunia Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalNunia,Nangal Nunia Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalNunia,Nangal Nunia,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalNunia,Nangal Nunia,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalNunia,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalNunia,Near Hills,residential,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalNunia,Narnaul to Kotputli Road,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalNunia,Narnaul to Kotputli Road,residential,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalNunia,Narnaul to Kotputli Road,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalPipa,Nangal Pipa Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalPipa,Nangal Pipa Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalPipa,Nangal Pipa Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalPipa,Nangal Pipa Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalPipa,Nangal Pipa,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalPipa,Nangal Pipa,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalSoda,Nangal Soda Chahi N,agricultural,575.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalSoda,Nangal Soda Chahi P,agricultural,967.05,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalSoda,Nangal Soda Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalSoda,Nangal Soda Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalSoda,Nangal Soda Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalSoda,Nangal Soda N,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalSoda,Nangal Soda P,residential,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalSoda,Nangal Soda N,commercial,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,NangalSoda,Nangal Soda P,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Napla,After Controlled Area,agricultural,925.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Napla,After Controlled Area,residential,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Napla,After Controlled Area,commercial,14520,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Napla,After Controlled Area Chahi,agricultural,925.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Napla,In Controlled Area,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Napla,In Controlled Area,residential,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Napla,In Controlled Area,commercial,14520,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Napla,Napla Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Napla,Napla Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Napla,Napla Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Napla,Napla Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Napla,Napla,residential,8860,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Napla,Napla,commercial,11390,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Napla,Nizampur To Khetri Road,agricultural,925.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Napla,Nizampur To Khetri Road,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Napla,Nizampur To Khetri Road,commercial,14520,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Napla,Railway Line Narnaul to Fulera,agricultural,925.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Napla,Railway Line Narnaul to Fulera,residential,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Napla,Railway Line Narnaul to Fulera,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Narehri,Narehri Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Narehri,Narehri Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Narehri,Narehri Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Narehri,Narehri Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Narehri,Narehri,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Narehri,Narehri,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Narehri,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Narehri,Railway Line Narnaul to Fulera,agricultural,925.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Narehri,Railway Line Narnaul to Fulera,residential,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Narehri,Railway Line Narnaul to Fulera,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Nayan,Nayan Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Nayan,Nayan Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Nayan,Nayan Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Nayan,Nayan Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Nayan,Nayan,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Nayan,Nayan,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Nayan,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Nayan,Near Hills,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Nayan,Near Hills,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Niyamatpur,Niyamatpur Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Niyamatpur,Niyamatpur Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Niyamatpur,Niyamatpur Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Niyamatpur,Niyamatpur,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Niyamatpur,Niyamatpur,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Niyamatpur,Niyamatpur Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Niyamatpur,Niyamatpur Other,residential,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Niyamatpur,Niyamatpur Other,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Niyamatpur,Nangal Cho. to Nizampur Road,agricultural,925.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Niyamatpur,Nangal Cho. to Nizampur Road,residential,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Niyamatpur,Nangal Cho. to Nizampur Road,commercial,13310,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Niyazalipur,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Niyazalipur,Niyazalipur Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Niyazalipur,Niyazalipur Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Niyazalipur,Niyazalipur Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Niyazalipur,Niyazalipur Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Niyazalipur,Niyazalipur,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Niyazalipur,Niyazalipur,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Nizampur,After Controlled Area,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Nizampur,After Controlled Area,residential,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Nizampur,After Controlled Area,commercial,13310,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Nizampur,In Controlled Area,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Nizampur,In Controlled Area,residential,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Nizampur,In Controlled Area,commercial,13310,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Nizampur,Khetri to Nizampur Road,agricultural,925.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Nizampur,Khetri to Nizampur Road,residential,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Nizampur,Khetri to Nizampur Road,commercial,13310,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Nizampur,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Nizampur,Nizampur Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Nizampur,Nizampur Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Nizampur,Nizampur Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Nizampur,Nizampur,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Nizampur,Nizampur,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Nizampur,Nizampur Other,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Nizampur,Railway Line Narnaul to Fulera,agricultural,925.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Nizampur,Railway Line Narnaul to Fulera,residential,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Nizampur,Railway Line Narnaul to Fulera,commercial,13310,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Nolaija,Narnaul to Kotputli Road,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Nolaija,Narnaul to Kotputli Road,residential,15730,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Nolaija,Narnaul to Kotputli Road,commercial,36300,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Nolaija,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Nolaija,Nolaija Nahari,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Nolaija,Nolaija Mund,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Panchnauta,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Panchnauta,Near Hills Pahad,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Panchnauta,Panchnauta Chahi,agricultural,572.73,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Panchnauta,Panchnauta Nahari,agricultural,548.86,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Panchnauta,Panchnauta Barani,agricultural,548.86,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Panchnauta,Panchnauta Mund,agricultural,548.86,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Panchnauta,Panchnauta,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Panchnauta,Panchnauta,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Pawera,After Controlled Area,agricultural,925.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Pawera,After Controlled Area,residential,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Pawera,After Controlled Area,commercial,13310,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Pawera,In Controlled Area,agricultural,925.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Pawera,In Controlled Area,residential,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Pawera,In Controlled Area,commercial,13310,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Pawera,Nizampur To Khetri Road,agricultural,925.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Pawera,Nizampur To Khetri Road,residential,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Pawera,Nizampur To Khetri Road,commercial,13310,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Pawera,Pawera Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Pawera,Pawera Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Pawera,Pawera Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Pawera,Pawera Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Pawera,Pawera,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Pawera,Pawera,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Pawera,Pawera Other,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Pawera,Railway Line Narnaul to Fulera,agricultural,925.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Pawera,Railway Line Narnaul to Fulera,residential,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Pawera,Railway Line Narnaul to Fulera,commercial,13310,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,RaiMalikpur,Narnaul to Kotputli Road,agricultural,925.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,RaiMalikpur,Narnaul to Kotputli Road,residential,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,RaiMalikpur,Narnaul to Kotputli Road,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,RaiMalikpur,Rai Malikpur Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,RaiMalikpur,Rai Malikpur Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,RaiMalikpur,Rai Malikpur Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,RaiMalikpur,Rai Malikpur Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,RaiMalikpur,Rai Malikpur,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,RaiMalikpur,Rai Malikpur,commercial,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,RuparSarai,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,RuparSarai,Rupar Sarai Chahi,agricultural,525.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,RuparSarai,Rupar Sarai Nahari,agricultural,525.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,RuparSarai,Rupar Sarai Barani,agricultural,525.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,RuparSarai,Rupar Sarai Mund,agricultural,525.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,RuparSarai,Rupar Sarai,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,RuparSarai,Rupar Sarai,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Sahbajpur,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Sahbajpur,Sahbajpur Chahi,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Sahbajpur,Sahbajpur Nahari,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Sahbajpur,Sahbajpur Barani,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Sahbajpur,Sahbajpur Mund,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Sahbajpur,Sahbajpur,residential,14520,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Sahbajpur,Sahbajpur,commercial,30250,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Saidalipur,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Saidalipur,Saidalipur Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Saidalipur,Saidalipur Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Saidalipur,Saidalipur Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Saidalipur,Saidalipur Mund,agricultural,450.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Saidalipur,Saidalipur,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Saidalipur,Saidalipur,commercial,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Sareli,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Sareli,Sareli Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Sareli,Sareli Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Sareli,Sareli Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Sareli,Sareli Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Sareli,Sareli,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Sareli,Sareli,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Sareli,Sareli Other,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Sheoramnathpura,Narnaul to Kotputli Road,agricultural,850.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Sheoramnathpura,Sheoramnathpura,residential,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Sheoramnathpura,Sheoramnathpura,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Sheoramnathpura,Sheoramnathpura Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Sheoramnathpura,Sheoramnathpura Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Sheoramnathpura,Sheoramnathpura Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Sheoramnathpura,Sheoramnathpura Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,SimliIshmailpur,Simli Ishmailpur,residential,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,SimliIshmailpur,Simli Ishmailpur,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,SimliIshmailpur,Simli Ishmailpur Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,SimliIshmailpur,Simli Ishmailpur Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,SimliIshmailpur,Simli Ishmailpur Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,SimliIshmailpur,Simli Ishmailpur Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,SirohiBahali,Narnaul to Kotputli Road,residential,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,SirohiBahali,Narnaul to Kotputli Road,commercial,10890,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,SirohiBahali,Narnaul to Kotputli Road,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,SirohiBahali,Narnaul to Kotputli Road,commercial,30250,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,SirohiBahali,Near Hills,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,SirohiBahali,Near Hills Chahi,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,SirohiBahali,Near Hills Nahari,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,SirohiBahali,Near Hills Barani,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,SirohiBahali,Near Hills Mund,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,SirohiBahali,Sirohi Bahali,residential,14520,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,SirohiBahali,Sirohi Bahali,commercial,24200,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Thanwas,Narnaul to Kotputli Road,agricultural,925.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Thanwas,Narnaul to Kotputli Road,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Thanwas,Narnaul to Kotputli Road,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Thanwas,Thanwas Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Thanwas,Thanwas Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Thanwas,Thanwas Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Thanwas,Thanwas Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Thanwas,Thanwas,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Thanwas,Thanwas,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Totaheri,Narnaul to Kotputli Road,agricultural,925.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Totaheri,Narnaul to Kotputli Road,residential,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Totaheri,Narnaul to Kotputli Road,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Totaheri,Totaheri Chahi,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Totaheri,Totaheri Nahari,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Totaheri,Totaheri Barani,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Totaheri,Totaheri Mund,agricultural,550.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Totaheri,Totaheri,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,Totaheri,Totaheri,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,UdaipurKataria,Narnaul to Kotputli Road,agricultural,1750.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,UdaipurKataria,Narnaul to Kotputli Road,residential,9680,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,UdaipurKataria,Narnaul to Kotputli Road,commercial,12100,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,UdaipurKataria,Udaipur Kataria Chahi,agricultural,525.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,UdaipurKataria,Udaipur Kataria Nahari,agricultural,525.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,UdaipurKataria,Udaipur Kataria Barani,agricultural,525.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,UdaipurKataria,Udaipur Kataria Mund,agricultural,525.0,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,UdaipurKataria,Udaipur Kataria,residential,8470,2026-04-01,mahendragarh_gov_in_dc_notification
+Mahendragarh,Nangal Choudhary,UdaipurKataria,Udaipur Kataria,commercial,9680,2026-04-01,mahendragarh_gov_in_dc_notification

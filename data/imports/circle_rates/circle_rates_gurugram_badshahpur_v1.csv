@@ -1,0 +1,164 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Gurugram,Badshahpur,Aklimpur,Aklimpur,agricultural,5991.74,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Aklimpur,Aklimpur,residential,8250,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Aklimpur,Aklimpur,commercial,17500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Aklimpur,Inside R zone etc,agricultural,7438.02,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Aklimpur,Inside R zone etc,residential,9000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Aklimpur,Inside R zone etc,commercial,18150,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Islampur,Islampur,agricultural,15600.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Islampur,Islampur,residential,55440,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Islampur,Islampur,commercial,61200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Gairatpur Bass,Gairatpur Bass,agricultural,6671.9,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Gairatpur Bass,Gairatpur Bass,residential,10890,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Gairatpur Bass,Gairatpur Bass,commercial,18150,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Ghasola,Ghasola,agricultural,10636.36,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Ghasola,Ghasola,residential,36300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Ghasola,Ghasola,commercial,53240,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Tikri,2 ACRE DEPTH RATE outside R zone,agricultural,7909.09,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Tikri,25 percent GGN SOHNA ROAD inside R zone,agricultural,12613.64,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Tikri,INSIDE RZONE Co IN IND AREA,agricultural,10090.91,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Tikri,INSIDE RZONE Co IN IND AREA,residential,31350,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Tikri,INSIDE RZONE Co IN IND AREA,commercial,53240,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Tikri,Tikri,agricultural,5863.64,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Tikri,Tikri,agricultural,5863.64,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Tikri,Tikri,residential,43900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Tikri,Tikri,commercial,53240,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Tikli,Tikli,agricultural,6818.18,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Tikli,Tikli,agricultural,12100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Tikli,Tikli,residential,12100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Tikli,Tikli,commercial,35900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Darbaripur,Darbaripur,agricultural,6198.35,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Darbaripur,Darbaripur,residential,29000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Darbaripur,Darbaripur,commercial,27850,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Dhumaspur,Dhumaspur,agricultural,5681.82,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Dhumaspur,Dhumaspur,agricultural,18100,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Dhumaspur,Dhumaspur,residential,24600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Dhumaspur,Dhumaspur,commercial,26620,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Dhumaspur,INSIDE RZONE Co IN IND AREA,agricultural,10330.58,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Dhumaspur,INSIDE RZONE Co IN IND AREA,residential,16500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Dhumaspur,INSIDE RZONE Co IN IND AREA,commercial,26620,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Nangli Umarpur,Nangli Umarpur,agricultural,18801.65,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Nangli Umarpur,Nangli Umarpur,residential,35900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Nangli Umarpur,Nangli Umarpur,commercial,39000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Nurpur Jharsa,INSIDE RZONE Co IN IND AREA,agricultural,8264.46,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Nurpur Jharsa,INSIDE RZONE Co IN IND AREA,residential,12650,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Nurpur Jharsa,INSIDE RZONE Co IN IND AREA,commercial,18150,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Nurpur Jharsa,Noorpur Jharsa,agricultural,7933.88,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Nurpur Jharsa,Noorpur Jharsa,residential,12000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Nurpur Jharsa,Noorpur Jharsa,commercial,16940,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Palda,INSIDE RZONE Co IN IND AREA,agricultural,8553.72,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Palda,INSIDE RZONE Co IN IND AREA,residential,18900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Palda,INSIDE RZONE Co IN IND AREA,commercial,28500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Palda,Palda,agricultural,7773.76,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Palda,Palda,residential,25400,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Palda,Palda,commercial,41200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Fazilpur Jharsa,25 percent GGN SOHNA ROAD inside R Zone,agricultural,12613.64,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Fazilpur Jharsa,Fazilpur Jharsa,agricultural,9504.13,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Fazilpur Jharsa,Fazilpur Jharsa,agricultural,8750.0,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Fazilpur Jharsa,Fazilpur Jharsa,agricultural,24000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Fazilpur Jharsa,Fazilpur Jharsa,residential,31900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Fazilpur Jharsa,Fazilpur Jharsa,commercial,44000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Fazilpur Jharsa,Fazilpur Jharsa 2 Acre Depth outside R zone,agricultural,6818.18,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Fazilpur Jharsa,INSIDE RZONE Co IN IND AREA,agricultural,9545.45,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Fazilpur Jharsa,INSIDE RZONE Co IN IND AREA,residential,38500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Fazilpur Jharsa,INSIDE RZONE Co IN IND AREA,commercial,44000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Behrampur,Behrampur,agricultural,8181.82,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Behrampur,Behrampur,agricultural,8181.82,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Behrampur,Behrampur,residential,19360,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Behrampur,Behrampur,commercial,41140,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Behrampur,INSIDE RZONE Co IN IND AREA,agricultural,8636.36,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Behrampur,INSIDE RZONE Co IN IND AREA,residential,19800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Behrampur,INSIDE RZONE Co IN IND AREA,commercial,41140,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Badshahpur,25 percent GGN SOHNA ROAD inside R Zone,agricultural,14505.68,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Badshahpur,Badshahpur,agricultural,14462.81,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Badshahpur,Badshahpur,agricultural,14462.81,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Badshahpur,Badshahpur,agricultural,10227.27,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Badshahpur,Badshahpur,residential,43500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Badshahpur,Badshahpur,commercial,81000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Badshahpur,Badshahpur 2 Acre Depth outside R Zone,agricultural,8494.32,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Badshahpur,Badshahpur 2 Acre Depth outside R Zone,agricultural,8494.32,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Badshahpur,Badshahpur 2 Acre Depth outside R Zone,residential,23700,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Badshahpur,INSIDE RZONE Co IN IND AREA,agricultural,21694.21,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Badshahpur,INSIDE RZONE Co IN IND AREA,agricultural,21694.21,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Badshahpur,INSIDE RZONE Co IN IND AREA,agricultural,10340.91,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Badshahpur,INSIDE RZONE Co IN IND AREA,agricultural,10340.91,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Badshahpur,INSIDE RZONE Co IN IND AREA,agricultural,27500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Badshahpur,INSIDE RZONE Co IN IND AREA,agricultural,27500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Badshahpur,INSIDE RZONE Co IN IND AREA,residential,34500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Badshahpur,INSIDE RZONE Co IN IND AREA,commercial,79200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Badshahpur,Ramgarh Ki Dhani,residential,35400,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Badshahpur,Ramgarh Ki Dhani,commercial,72600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Maidawas,INSIDE RZONE Co IN IND AREA,agricultural,14772.73,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Maidawas,INSIDE RZONE Co IN IND AREA,agricultural,13068.18,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Maidawas,INSIDE RZONE Co IN IND AREA,residential,32400,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Maidawas,INSIDE RZONE Co IN IND AREA,commercial,60500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Maidawas,Maidawas,agricultural,13631.2,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Maidawas,Maidawas,residential,55040,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Maidawas,Maidawas,commercial,79750,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,License Colony,Converted land into indust.,industrial,13200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,License Colony,Essencia sec 67 Ansal,residential,91712.5,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,License Colony,Essencia sec 67 Ansal,commercial,157300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,License Colony,Inst. plot school clubs etc,commercial,35200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,License Colony,Inst. plot school clubs etc,institutional,35200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,License Colony,insti. plot land other area,residential,27500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,License Colony,Licence Colony,residential,141375,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,License Colony,Licence Colony,commercial,208725,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,License Colony,Licence Colony,institutional,35200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,License Colony,Malibu Town Islampur,residential,112125,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,License Colony,Malibu Town Islampur,commercial,203500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,License Colony,Malibu Town Islampur,institutional,35420,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,License Colony,"Palm Drive, Emarald Hills",residential,123500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,License Colony,"Palm Drive, Emarald Hills",commercial,212750,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,License Colony,Rosewood City,residential,144300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,License Colony,Rosewood City,commercial,273240,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,License Colony,Rosewood City 2,residential,144300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,License Colony,Rosewood City 2,commercial,237600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,License Colony,Shopping mall on Sohna road,commercial,158400,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,License Colony,Sucess Tower,residential,78650,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,License Colony,Sucess Tower,commercial,199650,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,License Colony,Tatvam Villas plots,residential,127600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,License Colony,Tatvam Villas plots,commercial,203500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,License Colony,"Tulip Ivory, Tulip Purple",residential,121900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,License Colony,"Tulip Ivory, Tulip Purple",commercial,199650,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,License Colony,Tulip voilet,residential,141300,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,License Colony,Tulip voilet,commercial,209000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,License Colony,"Tulip White, Tulip Orange",residential,112500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,License Colony,"Tulip White, Tulip Orange",commercial,217800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,License Colony,"Uniworld Resort Sec 33, 48",residential,112500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,License Colony,"Uniworld Resort Sec 33, 48",commercial,203500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,License Colony,Uppal Southend,residential,106400,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,License Colony,Uppal Southend,commercial,234000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,License Colony,Urban Cosmo politan,residential,82500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,License Colony,Urban Cosmo politan,commercial,237600,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,License Colony,Vatika City Sohna Road,residential,112500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,License Colony,Vatika City Sohna Road,commercial,203500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,License Colony,Victor Velley,residential,160000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,License Colony,Victor Velley,commercial,200000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,License Colony,Villa Emaar Marbella,residential,168000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,License Colony,Vipul World Sohna Road,residential,112500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,License Colony,Vipul World Sohna Road,commercial,203500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,License Colony,Vipul World Sohna Road,institutional,36800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Sakatpur,Sakatpur,agricultural,6714.88,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Sakatpur,Sakatpur,residential,9900,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Sakatpur,Sakatpur,commercial,18150,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Hasanpur,Hasanpur,agricultural,4752.07,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Hasanpur,Hasanpur,residential,18150,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Hasanpur,Hasanpur,commercial,30250,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Huda Sectors,Other area in Badshahpur,commercial,17820,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Huda Sectors,"Sec- 38, 41",residential,104000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Huda Sectors,"Sec- 38, 41",commercial,300000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Huda Sectors,"Sec- 38, 41",institutional,33880,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Huda Sectors,"Sec-48, 49",residential,110500,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Huda Sectors,"Sec-48, 49",commercial,217800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Huda Sectors,Sector 33,residential,90750,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Huda Sectors,Sector 33,commercial,217800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Huda Sectors,Sector 47,residential,116610,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Huda Sectors,Sector 47,commercial,272250,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Huda Sectors,Sector 50,residential,79200,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Huda Sectors,Sector 50,commercial,239580,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Huda Sectors,Sector 62 65 66 69 70 71 72,residential,91000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Huda Sectors,Sector 62 65 66 69 70 71 72,commercial,260000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Huda Sectors,Sector 63 63A 64 67,residential,84800,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Huda Sectors,Sector 63 63A 64 67,commercial,195000,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Huda Sectors,Sector 67A 68 75 78,residential,79170,2026-04-01,gurugram_gov_in_dc_notification
+Gurugram,Badshahpur,Huda Sectors,Sector 67A 68 75 78,commercial,171600,2026-04-01,gurugram_gov_in_dc_notification

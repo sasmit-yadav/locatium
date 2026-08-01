@@ -1,0 +1,391 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Panchkula,Kalka,Islamnagar,Trident Hills First Floor Islamnagar,residential,5611.1,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Islamnagar,Trident Hills Fourth Floor Islamnagar,residential,4181.1,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Islamnagar,Trident Hills Ground Floor Islamnagar,residential,6711.1,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Islamnagar,Trident Hills Plots Islamnagar,residential,57201.3,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Islamnagar,Trident Hills Second Floor Islamnagar,residential,5061.1,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Islamnagar,Trident Hills Third Floor Islamnagar,residential,4511.1,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Islamnagar,Within MC area,agricultural,4050.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Islamnagar,Within MC area,commercial,18553.33,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Oriyan,Oriyan 1,agricultural,373.75,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Oriyan,Oriyan 1,residential,5915.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kajiyana,Kajiyana 1 Chahi,agricultural,550.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kajiyana,Kajiyana 1,residential,5915.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kandiyala,Kandiyala 1,residential,5915.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Karanpur,Karanpur 1 Barani N,agricultural,1437.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Karanpur,Karanpur 1 Barani P,agricultural,4312.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Karanpur,Karanpur 1 Banjar,agricultural,1375.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Karanpur,Karanpur 1,residential,5915.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Karanpur,Karanpur 1,commercial,17746.67,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Karanpur,Link Road Chahi N,agricultural,1375.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Karanpur,Link Road Chahi P,agricultural,1718.75,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Karanpur,Link Road Barani N,agricultural,1375.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Karanpur,Link Road Barani P,agricultural,1718.75,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kanguwal,Kanguwal 1 GairMumkin,agricultural,3712.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kanguwal,Kanguwal 1,residential,10352.22,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kanguwal,Link Road Chahi N,agricultural,3712.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kanguwal,Link Road Chahi P,agricultural,4640.62,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kanguwal,Link Road Barani N,agricultural,3712.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kanguwal,Link Road Barani P,agricultural,4640.62,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kalka,Ground Floor Pinjore Garden to Gandhi Chowk,commercial,19166.4,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kalka,HSIDC Kalka Industrial Site,industrial,16516.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kalka,School Hospital Nursing Home Clinic Edu Institutions,commercial,18634,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kalka,Upper Mohalla to Old Kasauli Road Kheda Sitaram,residential,15306.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kalka,With MC Area,residential,18018,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kalka,Kuradi Mohalla,residential,14641,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kalka,Kuradi Mohalla,commercial,16637.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kalka,Gandhi Chowk to Parade Mohalla,residential,16698,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kalka,Gandhi Chowk to Parade Mohalla,commercial,27951,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kalka,Gandhi Chowk to Meat Market Katik Mohalla Tipra,residential,9317,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kalka,Gandhi Chowk to Railway Station,residential,15306.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kalka,Gandhi Chowk to Kali Mata Mandir,residential,13310,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kalka,Gandhi Chowk to Kali Mata Mandir,commercial,34787.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kalka,Thana Kalka to Handriya Mohalla,residential,12100,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kalka,Pinjore Garden to Gandhi Chowk Second Floor,commercial,13068,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kalka,Pinjore Garden to Gandhi Chowk National Highway,commercial,43560,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kalka,Bharat Nagar,residential,16603.12,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kalka,Bharat Nagar,commercial,18785.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kalka,Lower Kuradi Azad Colony,residential,13310,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kalka,Highway Road to Nagarpalika Upper Mohalla,residential,13915,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kalka,Housing Board Kalka LIG MIG HIG,residential,30450,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kalka,Housing Board Kalka LIG MIG HIG Floor,residential,21000,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kiratpur,Kiratpur 1 Chahi,agricultural,1125.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kiratpur,Kiratpur 1 Barani N,agricultural,1306.82,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kiratpur,Kiratpur 1 Barani P,agricultural,1837.71,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kiratpur,Kiratpur 1 GairMumkin,agricultural,664.77,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kiratpur,Kiratpur 1,residential,9411.11,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kiratpur,Link Road Barani N,agricultural,1100.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kiratpur,Link Road Barani P,agricultural,1546.88,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kuradi,Upper Mohalla,residential,16002.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kuradi,Kuradi Mohalla Azad Colony,residential,14641,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kuradi,Timbi Mohalla,residential,14168,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kuradi,Basant Vihar Colony,residential,15306.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kuradi,Lower Kuradi,residential,14641,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kedarpur,Kedarpur 1,residential,5915.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kotiyan,Kotiyan 1 Chahi,agricultural,1500.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kotiyan,Kotiyan 1 Barani,agricultural,1352.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kotiyan,Kotiyan 1 GairMumkin,agricultural,550.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kotiyan,Kotiyan 1,residential,9411.11,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kona,Kona Link Road Chahi N,agricultural,2000.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kona,Kona Link Road Chahi P,agricultural,2500.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kona,Kona Link Road Barani N,agricultural,1250.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kona,Kona Link Road Barani P,agricultural,2500.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kona,Kona Link Road GairMumkin,agricultural,800.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kona,Kona 1 Chahi N,agricultural,2600.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kona,Kona 1 Chahi P,agricultural,3250.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kona,Kona 1 Barani N,agricultural,1437.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kona,Kona 1 Barani P,agricultural,4312.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kona,Kona 1 GairMumkin N,agricultural,1200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kona,Kona 1 GairMumkin P,agricultural,3750.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kona,Kona 1,residential,7797.78,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kona,Kona 1,commercial,16133.33,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Khadkuan,Khadkuan 1 Chahi,agricultural,743.8,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Khadkuan,Khadkuan 1 Barani,agricultural,412.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Khadkuan,Khadkuan 1,residential,5915.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kheda,Kheda 1 Chahi N,agricultural,1581.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kheda,Kheda 1 Chahi P,agricultural,7187.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kheda,Kheda 1,residential,10352.22,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kheda,Link Road Chahi N,agricultural,1512.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kheda,Link Road Chahi P,agricultural,1890.62,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kheda,Link Road Barani N,agricultural,1100.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kheda,Link Road Barani P,agricultural,1890.62,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,KhedaSitaram,Kheda Sitaram 1,agricultural,990.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,KhedaSitaram,Kheda Sitaram 1,residential,10352.22,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Khedawali,Khedawali 1 Chahi,agricultural,1237.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Khedawali,Khedawali 1 Barani N,agricultural,1237.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Khedawali,Khedawali 1 Barani P,agricultural,1546.88,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Khedawali,Khedawali 1,residential,5915.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Khoi,Khoi 1 Barani,agricultural,357.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Khoi,Khoi 1,residential,5915.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,KhokhraurfThappal,Khokhra urf Thappal 1 Chahi N,agricultural,2587.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,KhokhraurfThappal,Khokhra urf Thappal 1 Chahi P,agricultural,3234.38,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,KhokhraurfThappal,Khokhra urf Thappal 1 Barani N,agricultural,1581.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,KhokhraurfThappal,Khokhra urf Thappal 1 Barani P,agricultural,3234.38,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,KhokhraurfThappal,Khokhra urf Thappal 1 GairMumkin N,agricultural,990.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,KhokhraurfThappal,Khokhra urf Thappal 1 GairMumkin P,agricultural,3234.38,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,KhokhraurfThappal,Khokhra urf Thappal 1,residential,10352.22,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kholalbela,Kholalbela 1 Chahi N,agricultural,540.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kholalbela,Kholalbela 1 Chahi P,agricultural,675.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kholalbela,Kholalbela 1 Barani N,agricultural,412.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kholalbela,Kholalbela 1 Barani P,agricultural,412.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kholalbela,Kholalbela 1,residential,5915.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kholalbela,Kholalbela 1,commercial,17746.67,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kholalbela,Link Road Chahi N,agricultural,495.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kholalbela,Link Road Chahi P,agricultural,618.75,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kholalbela,Link Road Barani N,agricultural,412.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,KholFatehSingh,Khol Fateh Singh 1 Chahi,agricultural,495.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,KholFatehSingh,Khol Fateh Singh 1 Barani,agricultural,385.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,KholFatehSingh,Khol Fateh Singh 1,residential,5915.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kholmola,Kholmola 1 Barani N,agricultural,385.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kholmola,Kholmola 1 Barani P,agricultural,584.38,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kholmola,Kholmola 1,residential,5915.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,GaneshpurBhoriyan,Ganeshpur Bhoriyan 1 Chahi,agricultural,990.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,GaneshpurBhoriyan,Ganeshpur Bhoriyan 1,residential,5915.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Garida,Garida 1,residential,10822.78,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Garida,Garida 1,commercial,17746.67,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Garida,Link Road Chahi,agricultural,1546.88,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Gawahi,Gawahi 1 Chahi,agricultural,385.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Gawahi,Gawahi 1 GairMumkin,agricultural,182.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Gawahi,Gawahi 1,residential,5915.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Gorakhnath,Link Road GairMumkin N,agricultural,880.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Gorakhnath,Link Road GairMumkin P,agricultural,2750.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Gorakhnath,Gorakhnath 1 Chahi,agricultural,2200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Gorakhnath,Gorakhnath 1,residential,5915.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Gorakhnath,Gorakhnath 1,commercial,17746.67,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Charniyan,Charniyan 1 Chahi N,agricultural,1437.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Charniyan,Charniyan 1 Chahi P,agricultural,1796.88,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Charniyan,Charniyan 1,residential,5915.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Charniyan,Charniyan 1,commercial,17746.67,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Charniyan,Link Road Chahi N,agricultural,1375.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Charniyan,Link Road Chahi P,agricultural,1718.75,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Charniyan,Link Road Barani N,agricultural,1237.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Charniyan,Link Road Barani P,agricultural,1718.75,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Charniyan,Link Road,commercial,17746.67,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Chikkan,Chikkan 1 Chahi,agricultural,1787.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Chikkan,Chikkan 1,residential,10352.22,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Janauli,Janauli,residential,5324,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Jabrot,Jabrot 1 Barani,agricultural,412.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Jabrot,Jabrot 1,residential,5915.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Jallah,Jallah 1 Chahi N,agricultural,880.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Jallah,Jallah 1 Chahi P,agricultural,1100.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Jallah,Jallah 1 Barani N,agricultural,880.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Jallah,Jallah 1 Barani P,agricultural,1100.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Jallah,Jallah 1,residential,5915.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Jodhpur,Jodhpur 1 Barani,agricultural,1237.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Jodhpur,Jodhpur 1,residential,5915.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Johmuwal,Johmuwal 1 Chahi N,agricultural,1202.27,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Johmuwal,Johmuwal 1 Chahi P,agricultural,1502.84,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Johmuwal,Johmuwal 1 Barani N,agricultural,1200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Johmuwal,Johmuwal 1 Barani P,agricultural,4500.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Johmuwal,Johmuwal 1,residential,5915.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Johmuwal,Johmuwal 1,commercial,17746.67,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Johmuwal,Link Road Barani N,agricultural,1100.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Johmuwal,Link Road Barani P,agricultural,4125.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,TagraKangan,Tagra Kangan 1,agricultural,1512.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,TagraSahu,Tagra Sahu 1 Chahi,agricultural,1787.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,TagraSahu,Tagra Sahu 1 Barani N,agricultural,1512.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,TagraSahu,Tagra Sahu 1 Barani P,agricultural,1512.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,TagraSahu,Tagra Sahu 1 GairMumkin,agricultural,1512.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,TagraHakimpur,Tagra Hakimpur 1,agricultural,1512.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Tipra,Tipra 1 Chahi N,agricultural,4125.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Tipra,Tipra 1 Chahi P,agricultural,4312.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Tipra,Tipra 1 Barani P,agricultural,5390.62,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Tibbi,Tibbi 1 Chahi,agricultural,460.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Tibbi,Tibbi 1,residential,5915.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Toran,Toran 1 Chahi N,agricultural,605.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Toran,Toran 1 Chahi P,agricultural,756.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Toran,Toran 1,residential,5915.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Ikrog,Ikrog 1 Chahi,agricultural,385.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Ikrog,Ikrog 1 Barani,agricultural,345.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Ikrog,Ikrog 1,residential,5915.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,ThanekiSair,Thane ki Sair 1 Chahi,agricultural,550.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,ThanekiSair,Thane ki Sair 1,residential,10352.22,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Damdama,Damdama 1 Chahi,agricultural,1237.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Damdama,Damdama 1 Barani,agricultural,1237.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Damdama,Damdama 1 GairMumkin,agricultural,495.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Damdama,Damdama 1,residential,10352.22,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Deval,Deval 1 Chahi N,agricultural,1237.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Deval,Deval 1 Chahi P,agricultural,1546.88,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Deval,Deval 1,residential,5915.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Dhatogada,Dhatogada 1 Chahi N,agricultural,825.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Dhatogada,Dhatogada 1 Chahi P,agricultural,1031.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Dhatogada,Dhatogada 1 Barani N,agricultural,718.75,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Dhatogada,Dhatogada 1 Barani P,agricultural,898.44,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Dhatogada,Dhatogada 1 GairMumkin N,agricultural,330.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Dhatogada,Dhatogada 1 GairMumkin P,agricultural,1031.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Dhatogada,Dhatogada 1,residential,5915.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Dhamala,Dhamala 1 GairMumkin,agricultural,1100.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Dhamsu,Dhamsu 1 Chahi N,agricultural,385.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Dhamsu,Dhamsu 1 Chahi P,agricultural,481.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Dhamsu,Dhamsu 1 Barani N,agricultural,330.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Dhamsu,Dhamsu 1 Barani P,agricultural,437.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Dhamsu,Dhamsu 1,residential,5377.78,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,NaggalRatel,Naggal Ratel 1 Chahi N,agricultural,675.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,NaggalRatel,Naggal Ratel 1 Chahi P,agricultural,843.75,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,NaggalRatel,Naggal Ratel 1 Barani N,agricultural,687.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,NaggalRatel,Naggal Ratel 1 Barani P,agricultural,1054.69,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,NaggalRatel,Naggal Ratel 1,residential,9411.11,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,NaggalBhaga,Naggal Bhaga 1 Chahi N,agricultural,675.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,NaggalBhaga,Naggal Bhaga 1 Chahi P,agricultural,843.75,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,NaggalBhaga,Naggal Bhaga 1 Barani N,agricultural,833.75,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,NaggalBhaga,Naggal Bhaga 1 Barani P,agricultural,1279.05,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,NaggalBhaga,Naggal Bhaga 1,residential,9411.11,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,NaggalSodhiyan,Naggal Sodhiyan 1,residential,20300.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,NaggalSodhiyan,Housing Board Colony Himshikha,residential,23322,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,NaggalSodhiyan,Housing Board Colony Himshikha,commercial,27720,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Nandpur,Nandpur 1 Chahi,agricultural,550.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Nandpur,Nandpur 1 Barani,agricultural,613.64,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Nandpur,Nandpur 1,residential,5915.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,NawanNagar,Nawan Nagar 1 Chahi,agricultural,2200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,NawanNagar,Nawan Nagar 1,residential,10352.22,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,NawanNagar,Nawan Nagar 1,commercial,18553.33,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Nanakpur,Nanakpur 1 Chahi N,agricultural,1237.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Nanakpur,Nanakpur 1 Chahi P,agricultural,4125.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Nanakpur,Nanakpur 1 Barani N,agricultural,862.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Nanakpur,Nanakpur 1 Barani P,agricultural,4312.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Nanakpur,Nanakpur 1 GairMumkin,agricultural,495.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Nanakpur,Nanakpur 1,residential,5915.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Nanakpur,Nanakpur 1,commercial,15972,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Nanakpur,Link Road Chahi N,agricultural,1237.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Nanakpur,Link Road Chahi P,agricultural,1546.88,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Nanakpur,Link Road Barani N,agricultural,825.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Nanakpur,Link Road Barani P,agricultural,1546.88,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,NalaDakrog,Nala Dakrog 1 Chahi,agricultural,495.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,NalaDakrog,Nala Dakrog 1,residential,5915.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,NalaDamaihar,Nala Damaihar 1,residential,5915.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,NalaBalog,Nala Balog 1,agricultural,618.75,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,NalaBalog,Nala Balog 1,agricultural,390.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,NalaBalog,Nala Balog 1,agricultural,675.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,NalaBalog,Nala Balog 1,residential,5915.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Nolta,Nolta 1,agricultural,687.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Nolta,Nolta 1,agricultural,627.27,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Nolta,Nolta 1,agricultural,980.11,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Nolta,Nolta 1,agricultural,275.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Nolta,Nolta 1,agricultural,859.38,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Nolta,Nolta 1,residential,5915.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Pattan,Pattan 1,agricultural,1512.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Pattan,Pattan 1,residential,5915.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Paploha,Paploha 1,agricultural,1320.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Paploha,Paploha 1,agricultural,1050.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Paploha,Paploha 1,agricultural,1800.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Paploha,Paploha 1,residential,10352.22,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Pargiyan,Pargiyan 1,agricultural,390.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Pargiyan,Pargiyan 1,residential,5915.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Pinjore,School Hospital Nursing Home Clinic Edu Institutions,commercial,18634,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Pinjore,Sector 2,residential,1610.51,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Pinjore,Lekh Ram Colony Dashmesh Colony,residential,10352.22,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Pinjore,Vishwakarma Colony Bitna Colony,residential,10822.78,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Pinjore,Vishwakarma Colony Bitna Colony,commercial,15972,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Pinjore,Shiv Shakti Colony,commercial,17746.67,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Pinjore,Sector 27 29 30,commercial,50578,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Prempura,Prempura,agricultural,495.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Prempura,Prempura,agricultural,470.45,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Prempura,Prempura,residential,5915.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,FatehpurDiwanwala,Fatehpur Diwanwala 1,agricultural,962.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,FatehpurDiwanwala,Fatehpur Diwanwala 1,agricultural,1546.88,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,FatehpurDiwanwala,Fatehpur Diwanwala 1,agricultural,589.09,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,FatehpurDiwanwala,Fatehpur Diwanwala 1,agricultural,1840.91,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,FatehpurDiwanwala,Fatehpur Diwanwala 1,residential,5915.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,BanoiKhudabaksh,Banoi Khudabaksh 1,agricultural,660.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,BanoiKhudabaksh,Banoi Khudabaksh 1,agricultural,264.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,BanoiKhudabaksh,Banoi Khudabaksh 1,agricultural,825.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,BanoiKhudabaksh,Banoi Khudabaksh 1,residential,5915.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,BanoiSanwliya,Banoi Sanwliya 1,agricultural,467.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,BanoiSanwliya,Banoi Sanwliya 1,agricultural,584.38,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,BanoiSanwliya,Banoi Sanwliya 1,residential,5915.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Basawal,Basawal 1,agricultural,1375.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Basawal,Basawal 1,agricultural,1350.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Basawal,Basawal 1,agricultural,1875.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Basawal,Basawal 1,residential,10352.22,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Bansghati,Bansghati 1,agricultural,605.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Bansghati,Bansghati 1,agricultural,756.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Bansghati,Bansghati 1,residential,5915.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Badh,Badh 1,residential,10352.22,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Badh,Badh 1,commercial,17746.67,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Bitna,NH-22 Parwanoo Bypass 2 Acre,agricultural,4675.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Bitna,NH-22 Parwanoo Bypass 2 Acre,agricultural,8250.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Bitna,Bitna Within MC Area,agricultural,4675.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Bitna,Bitna Within MC Area,agricultural,5843.75,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Bitna,National Highway up to 2 Acre,agricultural,8250.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Bitna,National Highway up to 2 Acre,agricultural,4675.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Bitna,Link Road,agricultural,5843.75,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Berghati,Berghati 1,agricultural,412.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Berghati,Berghati 1,agricultural,487.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Berghati,Berghati 1,residential,5915.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Bhagwanpur,Amravati City Centre First Floor,commercial,13201.1,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Bhagwanpur,Amravati City Centre Fourth Floor,commercial,10561.1,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Bhagwanpur,Amravati City Centre Ground Floor,commercial,15401.1,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Bhagwanpur,Amravati City Centre Second Floor,commercial,11001.1,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Bhagwanpur,Amravati City Centre Third Floor,commercial,10781.1,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Bhagwanpur,Amravati Commercial SCO Plant,commercial,126278.63,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Bhagwanpur,DLF Homes EWS Flats,residential,1651.1,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Bhagwanpur,School Nursing Clinic Hosp Edu Institute,commercial,15580.4,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Bhagwanpur,School Nursing Clinic Hospital Edu Institute,commercial,18634,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Bhagwanpur,SCO DS,commercial,126278.63,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Bhagwanpur,SCO ground floor,commercial,120788.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Bhagwanpur,Trident Hills First Floor,residential,5611.1,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Bhagwanpur,Trident Hills Fourth Floor,residential,4181.1,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Bhagwanpur,Trident Hills Ground Floor,residential,6711.1,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Bhagwanpur,Trident Hills Second Floor,residential,5061.1,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Bhagwanpur,Trident Hills Third Floor,residential,4511.1,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Bhagwanpur,Bhagwanpur 1,agricultural,4730.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Bhagwanpur,Bhagwanpur 1,agricultural,6450.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Bhagwanpur,Bhagwanpur 1,residential,10352.22,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Bhawana,Bhawana 1,residential,5915.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,BhaironKiSair,Bhairon Ki Sair Within MC Area,agricultural,4400.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Bhogpur,Bhogpur 1,residential,10822.78,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Maranwala,Link Road Marranwala,agricultural,2750.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Maranwala,Maranwala 1,agricultural,575.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Maranwala,Maranwala 1,agricultural,2875.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Maranwala,Maranwala 1,commercial,21926.67,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Malpur,Malpur 1,agricultural,357.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Malpur,Malpur 1,residential,5915.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Mallah,Mallah 1,residential,5915.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,MajraMahtab,Majra Mahtab 1,agricultural,1045.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,MajraMahtab,Majra Mahtab 1,agricultural,1650.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,MajraMahtab,Majra Mahtab 1,residential,10352.22,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,MajriJatan,Majri Jatan 1,agricultural,1437.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,MajriJatan,Majri Jatan 1,agricultural,1796.88,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,ManakpurThakardas,Manakpur Thakardas 1,agricultural,2750.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,ManakpurThakardas,Manakpur Thakardas 1,commercial,17746.67,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,ManakpurNanakchand,Manakpur Nanakchand 1,agricultural,2750.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,ManakpurNanakchand,Manakpur Nanakchand 1,residential,10352.22,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,MeerampurBakshiwala,Meerampur Bakshiwala 1,agricultural,1320.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,MeerampurBakshiwala,Meerampur Bakshiwala 1,agricultural,1006.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,MeerampurBakshiwala,Meerampur Bakshiwala 1,agricultural,1725.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,MeerampurBakshiwala,Meerampur Bakshiwala 1,agricultural,528.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Rajipur,Rajipur 1,residential,10352.22,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Rattpur,Rattpur 1,agricultural,3712.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Ramnagar,Ramnagar 1,agricultural,962.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Ramnagar,Ramnagar 1,residential,10352.22,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,RampurJangi,Rampur Jangi,agricultural,2200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,RampurJangi,Rampur Jangi,agricultural,4125.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,RampurJangi,Rampur Jangi,agricultural,880.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,RampurJangi,Rampur Jangi,residential,5566,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,RampurJangi,Rampur Jangi,commercial,15972,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,RampurJangi,Link Road,agricultural,2200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,RampurJangi,Link Road,agricultural,2750.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,RampurJangi,Link Road,agricultural,1375.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,RampurJangi,Link Road,agricultural,880.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,RampurSiyudi,Rampur Siyudi 1,agricultural,2695.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,RampurSiyudi,Rampur Siyudi 1,agricultural,8625.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,RampurSiyudi,Rampur Siyudi 1,residential,10352.22,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Raipur,Raipur 1,agricultural,1375.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Raipur,Raipur 1,residential,10352.22,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Lahraundi,Lahraundi 1,agricultural,990.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Lahraundi,Lahraundi 1,agricultural,1237.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Lohgarh,Lohgarh 1,agricultural,3300.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Lohgarh,Lohgarh 1,residential,10352.22,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Vasudevpura,Vasudevpura 1,agricultural,2200.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Vasudevpura,Vasudevpura 1,agricultural,2750.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Vasudevpura,Vasudevpura 1,agricultural,1650.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Vasudevpura,Vasudevpura 1,residential,10352.22,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Shahpur,Shahpur 1,agricultural,1237.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Shahpur,Shahpur 1,agricultural,1546.88,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,SitoMajra,Sito Majra Link Road,agricultural,1546.88,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,SitoMajra,Sito Majra 1,agricultural,1575.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,SitoMajra,Sito Majra 1,agricultural,1968.75,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,SitoMajra,Sito Majra 1,agricultural,1006.25,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,SitoMajra,Sito Majra 1,agricultural,4312.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,SitoMajra,Sito Majra 1,residential,10352.22,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,SitoMajra,Sito Majra 1,commercial,17746.67,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Surajpur,Surajpur 1,agricultural,2062.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,HaripurChaupar,Haripur Chaupar 1,residential,5915.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,HaripurHarisingh,Haripur Harisingh 1,residential,5915.56,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,HaripurHarisingh,Haripur Harisingh 1,agricultural,715.0,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,HaripurHarisingh,Haripur Harisingh 1,agricultural,893.75,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,HaripurHarisingh,Haripur Harisingh 1,agricultural,577.5,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kalka,Constructed area Category A,residential,1320,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kalka,Constructed area Category B,residential,1210,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kalka,Constructed area Category C,residential,1100,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kalka,Tube well,agricultural,110000,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kalka,Poultry Farm covered area,agricultural,935,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kalka,NH-21A Pinjore-Nalagarh within MC first 2 acre,agricultural,6534.09,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kalka,NH-21A Pinjore-Nalagarh within MC within 100ft,residential,25300,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kalka,NH-21A Pinjore-Nalagarh outside MC first 2 acre,agricultural,3920.45,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kalka,NH-21A Pinjore-Nalagarh outside MC within 100ft,residential,15180,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kalka,NH-22 Rampur Seori-Parwanoo within 100ft,commercial,25300,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kalka,NH-22 Rampur Seori-Parwanoo within 2 acre,agricultural,7840.91,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kalka,HSIIDC Kalka constructed sheds,industrial,3047,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kalka,Other villages outside MC residential,residential,5377.78,2026-04-01,panchkula_gov_in_dc_notification
+Panchkula,Kalka,Kalka,Institutional School Hospital Nursing Clinic Edu,commercial,12876.36,2026-04-01,panchkula_gov_in_dc_notification

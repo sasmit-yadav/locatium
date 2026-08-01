@@ -1,0 +1,86 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Palwal,Bahin,अन्थोप,अन्थोप,agricultural,500.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,अन्थोप,अन्थोप,residential,1815,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,अन्थोप,अन्थोप,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,अन्थोप,लिंक रोड पर 3 एकड़ तक,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,आलीब्राह्मण,आली ब्राह्मण,agricultural,500.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,आलीब्राह्मण,आली ब्राह्मण,residential,1815,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,आलीब्राह्मण,आली ब्राह्मण,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,आलीब्राह्मण,लिंक रोड पर 3 एकड़ तक,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,आलीमेव,आली मेव,agricultural,500.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,आलीमेव,आली मेव,residential,1815,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,आलीमेव,आली मेव,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,आलीमेव,लिंक रोड पर 3 एकड़ तक,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,उदयपुरबंगरी,उदयपुर बंगरी,agricultural,575.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,उदयपुरबंगरी,उदयपुर बंगरी,residential,2420,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,उदयपुरबंगरी,उदयपुर बंगरी,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,उदयपुरबंगरी,लिंक रोड पर 3 एकड़ तक,agricultural,625.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,कोट,2 एकड़ के बाद 4 एकड़ तक,agricultural,1000.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,कोट,कोट,agricultural,625.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,कोट,कोट,residential,2420,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,कोट,कोट,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,कोट,लिंक रोड पर 3 एकड़ तक,agricultural,675.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,कोट,सड़क से 2 एकड़ तक,agricultural,1125.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,खाइकाहथीन,खाइका हथीन,agricultural,636.36,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,खाइकाहथीन,खाइका हथीन,residential,1210,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,खाइकाहथीन,खाइका हथीन,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,खाइकाहथीन,लिंक रोड पर 3 एकड़ तक,agricultural,880.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,घुडावली,2 एकड़ के बाद 4 एकड़ तक,agricultural,1000.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,घुडावली,घुडावली,agricultural,625.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,घुडावली,घुडावली,residential,2420,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,घुडावली,घुडावली,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,घुडावली,सड़क से 2 एकड़ तक,agricultural,1125.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,घुडावली,लिंक रोड पर 3 एकड़ तक,agricultural,675.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,टोका,टोका,agricultural,625.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,टोका,टोका,residential,1815,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,टोका,टोका,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,टोका,2 एकड़ के बाद 4 एकड़ तक,agricultural,1000.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,ढकलपुर,सड़क से 2 एकड़ तक,agricultural,1125.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,ढकलपुर,ढकलपुर,agricultural,500.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,ढकलपुर,ढकलपुर,residential,1815,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,ढकलपुर,ढकलपुर,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,ढकलपुर,लिंक रोड पर 3 एकड़ तक,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,नांगलजाट,नांगल जाट,agricultural,1000.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,नांगलजाट,2 एकड़ के बाद 4 एकड़ तक,agricultural,1000.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,नांगलजाट,नांगल जाट,agricultural,625.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,नांगलजाट,नांगल जाट,residential,2420,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,नांगलजाट,नांगल जाट,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,नांगलजाट,लिंक रोड पर 3 एकड़ तक,agricultural,675.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,नांगलजाट,सड़क से 2 एकड़ तक,agricultural,1125.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,नांगलसभा,नांगल सभा,agricultural,500.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,नांगलसभा,नांगल सभा,residential,1815,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,नांगलसभा,नांगल सभा,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,नांगलसभा,लिंक रोड पर 3 एकड़ तक,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,पहाड़ी,पहाड़ी,agricultural,625.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,पहाड़ी,पहाड़ी,residential,2420,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,पहाड़ी,पहाड़ी,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,पहाड़ी,लिंक रोड पर 3 एकड़ तक,agricultural,675.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,पावसर,सड़क से 2 एकड़ तक,agricultural,1125.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,पावसर,2 एकड़ के बाद 4 एकड़ तक,agricultural,1000.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,पावसर,पावसर,agricultural,500.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,पावसर,पावसर,residential,2420,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,पावसर,पावसर,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,पावसर,लिंक रोड पर 3 एकड़ तक,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,बहीन,2 एकड़ के बाद 4 एकड़ तक,agricultural,1000.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,बहीन,बहीन,agricultural,750.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,बहीन,बहीन,residential,2420,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,बहीन,बहीन,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,बहीन,लिंक रोड पर 3 एकड़ तक,agricultural,800.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,बहीन,"होडल रोड, बहीन",agricultural,1125.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,मानपुर,मानपुर,agricultural,750.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,मानपुर,मानपुर,residential,2420,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,मानपुर,मानपुर,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,मानपुर,लिंक रोड पर 2 एकड़ तक,agricultural,1040.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,मानपुर,लिंक रोड पर 3 एकड़ तक,agricultural,1040.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,मालूका,मालूका,agricultural,500.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,मालूका,मालूका,residential,1815,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,मालूका,मालूका,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,मालूका,लिंक रोड पर 3 एकड़ तक,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,रनयालाखुर्द,रनयाला खुर्द,agricultural,550.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,रनयालाखुर्द,रनयाला खुर्द,residential,1815,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,रनयालाखुर्द,रनयाला खुर्द,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,रनयालाखुर्द,लिंक रोड पर 3 एकड़ तक,agricultural,600.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,रूपनगरनटौली,रूपनगर नटौली,agricultural,575.0,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,रूपनगरनटौली,रूपनगर नटौली,residential,1815,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,रूपनगरनटौली,रूपनगर नटौली,commercial,9075,2026-04-01,palwal_gov_in_dc_notification
+Palwal,Bahin,रूपनगरनटौली,लिंक रोड पर 3 एकड़ तक,agricultural,625.0,2026-04-01,palwal_gov_in_dc_notification

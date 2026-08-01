@@ -1,20 +1,22 @@
 const { getPool } = require('../db/pool');
 const { AppError } = require('../middleware/error.middleware');
 const analysisScoring = require('./analysis-scoring.service');
-const { estimateLandValue } = require('./land-value.service');
 const { enrichSingleZone, enrichZonesBatch } = require('./investor-zone-enrichment.service');
 const {
   OPPORTUNITY_VERSION,
   computeOpportunityV3,
   budgetFitsInr,
-  budgetFitsAcres,
   nearMeFits,
   riskFitsV3,
   haversineKm,
 } = require('./investor-opportunity.engine');
 
-const MAX_LIMIT = 50;
+const MAX_LIMIT = 100;
 const DEFAULT_LIMIT = 20;
+/** Per-source fetch when a district is named — high enough for full Gurugram-scale eligible inventory. */
+const DISTRICT_SOURCE_LIMIT = 5000;
+/** Statewide (no district) stays capped so requests stay responsive. */
+const STATEWIDE_SCORE_CAP = 48;
 
 /** Display aliases so dropdown + filters match DB naming quirks. */
 const DISTRICT_DISPLAY = {
@@ -58,6 +60,8 @@ function expandDistrictNames(district) {
     mewat: ['Nuh', 'Mewat'],
     fatehabad: ['Fatehabad', 'Fatheabad'],
     fatheabad: ['Fatehabad', 'Fatheabad'],
+    sonipat: ['Sonipat', 'Sonepat'],
+    sonepat: ['Sonipat', 'Sonepat'],
   };
   const names = groups[key] || [raw, titleDistrict(raw)];
   return [...new Set(names.map((n) => clean(n)).filter(Boolean))];
@@ -285,7 +289,7 @@ function parseLimit(value, fallback = DEFAULT_LIMIT) {
 
 function normalizeBudget(value) {
   const budget = clean(value).toLowerCase();
-  return ['low', 'medium', 'high'].includes(budget) ? budget : null;
+  return ['micro', 'low', 'medium', 'high'].includes(budget) ? budget : null;
 }
 
 function normalizeRisk(value) {
@@ -298,24 +302,129 @@ function normalizeZoneType(value) {
   return ['government', 'private', 'cooperative'].includes(zoneType) ? zoneType : null;
 }
 
+function normalizeLandData(value) {
+  const v = clean(value).toLowerCase();
+  return ['floor', 'comps', 'high_confidence', 'medium_plus'].includes(v) ? v : null;
+}
+
+function normalizeSourceLayer(value) {
+  const v = clean(value).toLowerCase();
+  const map = {
+    hsiidc: 'hsiidc_boundary',
+    hsvp: 'hsvp_plots',
+    licensed: 'licensed_colony',
+    land_bank: 'karnal_land_bank',
+    hsiidc_boundary: 'hsiidc_boundary',
+    hsvp_plots: 'hsvp_plots',
+    licensed_colony: 'licensed_colony',
+    karnal_land_bank: 'karnal_land_bank',
+  };
+  return map[v] || null;
+}
+
+function normalizeUtilityMin(value) {
+  const v = clean(value).toLowerCase();
+  return ['medium', 'high'].includes(v) ? v : null;
+}
+
+function normalizeAvailability(value) {
+  const v = clean(value).toLowerCase();
+  return ['available', 'plot_inventory'].includes(v) ? v : null;
+}
+
 function normalizeOptions(query = {}) {
   const nearLat = query.nearLat ?? query.near_lat;
   const nearLng = query.nearLng ?? query.near_lng;
+  const minScoreRaw = Number(query.minScore ?? query.min_score);
+  const maxRateRaw = Number(query.maxRatePerSqYard ?? query.max_rate_per_sq_yard);
+  const maxLandCrRaw = Number(query.maxLandCr ?? query.max_land_cr);
+  const nearRadiusRaw = Number(query.nearRadiusKm || query.near_radius_km);
   return {
     sector: clean(query.sector).toLowerCase() || 'industrial',
     budget: normalizeBudget(query.budget),
     risk: normalizeRisk(query.risk),
     district: clean(query.district),
     zoneType: normalizeZoneType(query.zoneType || query.zone_type),
+    landData: normalizeLandData(query.landData || query.land_data),
+    sourceLayer: normalizeSourceLayer(query.sourceLayer || query.source_layer || query.tableId),
+    utilityMin: normalizeUtilityMin(query.utilityMin || query.utility_min),
+    availability: normalizeAvailability(query.availability),
+    minScore: Number.isFinite(minScoreRaw) && minScoreRaw > 0 ? Math.min(100, Math.round(minScoreRaw)) : null,
+    maxRatePerSqYard:
+      Number.isFinite(maxRateRaw) && maxRateRaw > 0 ? Math.round(maxRateRaw) : null,
+    maxLandCr: Number.isFinite(maxLandCrRaw) && maxLandCrRaw > 0 ? maxLandCrRaw : null,
     nearLat: nearLat != null && nearLat !== '' ? Number(nearLat) : null,
     nearLng: nearLng != null && nearLng !== '' ? Number(nearLng) : null,
-    nearRadiusKm: Number(query.nearRadiusKm || query.near_radius_km) || 25,
+    nearRadiusKm: Number.isFinite(nearRadiusRaw) && nearRadiusRaw > 0 ? nearRadiusRaw : 25,
   };
 }
 
 function zoneTypeFits(zone, zoneType) {
   if (!zoneType) return true;
   return zone.zoneType === zoneType;
+}
+
+function sourceLayerFits(zone, sourceLayer) {
+  if (!sourceLayer) return true;
+  return zone.tableId === sourceLayer;
+}
+
+function landDataFits(zone, landData) {
+  if (!landData) return true;
+  const lv = zone.landValue || {};
+  if (landData === 'floor') {
+    return lv.circleRatePerSqYardInr != null || lv.estimatedPerSqYardInr != null;
+  }
+  if (landData === 'comps') return Boolean(lv.marketAvailable);
+  if (landData === 'high_confidence') return lv.confidence === 'high';
+  if (landData === 'medium_plus') return lv.confidence === 'high' || lv.confidence === 'medium';
+  return true;
+}
+
+function utilityFits(zone, utilityMin) {
+  if (!utilityMin) return true;
+  const level = String(zone.utilityReadiness || '').toLowerCase();
+  if (utilityMin === 'high') return level === 'high';
+  if (utilityMin === 'medium') return level === 'medium' || level === 'high';
+  return true;
+}
+
+function availabilityFits(zone, availability) {
+  if (!availability) return true;
+  if (availability === 'available') {
+    return zone.availability?.status === 'available' || (zone.plotInventory?.summary?.available || 0) > 0;
+  }
+  if (availability === 'plot_inventory') {
+    return (zone.plotInventory?.count || 0) > 0;
+  }
+  return true;
+}
+
+function rateCapFits(zone, maxRatePerSqYard) {
+  if (maxRatePerSqYard == null) return true;
+  const rate =
+    zone.landValue?.estimatedPerSqYardInr ??
+    zone.landValue?.circleRatePerSqYardInr ??
+    zone.landCostBand?.highPerSqYard ??
+    zone.landCostBand?.lowPerSqYard;
+  if (rate == null) return false;
+  return Number(rate) <= maxRatePerSqYard;
+}
+
+function maxLandCrFits(zone, maxLandCr) {
+  if (maxLandCr == null) return true;
+  const cost =
+    zone.components?.estimatedAllInLandCostInr ??
+    zone.components?.estimatedLandCostInr ??
+    zone.financialPreview?.allInLandCostInr ??
+    zone.financialPreview?.landCostInr;
+  if (cost == null) return false;
+  return Number(cost) <= maxLandCr * 10_000_000;
+}
+
+function minScoreFits(zone, minScore) {
+  if (minScore == null) return true;
+  return Number(zone.opportunityScore) >= minScore;
 }
 
 function districtFits(zone, district) {
@@ -339,8 +448,10 @@ async function fetchSourceCandidates(pool, source, perSourceLimit, districtNames
 async function fetchCandidateZones(pool, perSourceLimit, district = '') {
   const districtNames = expandDistrictNames(district);
   const diversify = !districtNames;
+  // District named → pull the full eligible inventory (no tiny shortlist).
+  // Statewide → keep a bounded sample for speed.
   const limit = districtNames
-    ? Math.max(8, Math.min(16, perSourceLimit))
+    ? Math.max(DISTRICT_SOURCE_LIMIT, perSourceLimit || 0)
     : Math.max(16, Math.min(40, perSourceLimit * 2));
 
   const batches = await Promise.all(
@@ -407,8 +518,13 @@ async function listDistricts() {
 
 function budgetFits(zone, budget, landCostInr) {
   if (!budget) return true;
-  if (landCostInr != null) return budgetFitsInr(landCostInr, budget);
-  return budgetFitsAcres(zone, budget);
+  // Prefer all-in acquisition (stamp + registration); never fall back to acres.
+  const cost =
+    zone.components?.estimatedAllInLandCostInr ??
+    landCostInr ??
+    zone.components?.estimatedLandCostInr ??
+    null;
+  return budgetFitsInr(cost, budget);
 }
 
 async function enrichZoneScore(zone, sector, nearPoint = null) {
@@ -418,10 +534,6 @@ async function enrichZoneScore(zone, sector, nearPoint = null) {
     sector: sector || 'industrial',
   });
   return enrichSingleZone(zone, sector, analysis, nearPoint);
-}
-
-async function scoreZonesParallel(zones, sector, nearPoint = null) {
-  return enrichZonesBatch(zones, sector, nearPoint);
 }
 
 function toZone(source, row) {
@@ -452,19 +564,33 @@ async function scoreZone(zone, sector) {
   });
 }
 
+async function scoreZonesParallel(zones, sector, nearPoint = null, enrichOpts = {}) {
+  return enrichZonesBatch(zones, sector, nearPoint, enrichOpts);
+}
+
 async function rankZones(zones, options) {
   const prefiltered = zones
     .filter((zone) => zoneTypeFits(zone, options.zoneType) && districtFits(zone, options.district))
+    .filter((zone) => sourceLayerFits(zone, options.sourceLayer))
     .filter((zone) => nearMeFits(zone, options.nearLat, options.nearLng, options.nearRadiusKm));
 
   const nearPoint =
     options.nearLat != null && options.nearLng != null
       ? { lat: options.nearLat, lng: options.nearLng }
       : null;
-  const scored = await scoreZonesParallel(prefiltered, options.sector, nearPoint);
+  const enrichOpts = options.liteRank ? { lite: true } : {};
+  const scored = await scoreZonesParallel(prefiltered, options.sector, nearPoint, enrichOpts);
   const ranked = scored.filter((zone) => {
     if (!riskFitsV3(zone.analysis, options.risk)) return false;
-    return budgetFits(zone, options.budget, zone.components?.estimatedLandCostInr);
+    if (!budgetFits(zone, options.budget, zone.components?.estimatedLandCostInr)) return false;
+    if (!landDataFits(zone, options.landData)) return false;
+    if (!sourceLayerFits(zone, options.sourceLayer)) return false;
+    if (!utilityFits(zone, options.utilityMin)) return false;
+    if (!availabilityFits(zone, options.availability)) return false;
+    if (!rateCapFits(zone, options.maxRatePerSqYard)) return false;
+    if (!maxLandCrFits(zone, options.maxLandCr)) return false;
+    if (!minScoreFits(zone, options.minScore)) return false;
+    return true;
   });
 
   ranked.sort((a, b) => b.opportunityScore - a.opportunityScore);
@@ -476,18 +602,26 @@ async function getOpportunities(query = {}) {
   const pool = ensurePool();
   const limit = parseLimit(query.limit);
   const options = normalizeOptions(query);
+  const fullDistrict = Boolean(options.district);
+  // Full district = score every eligible site with lite rank (fast enough for chat + investor).
+  if (fullDistrict) options.liteRank = true;
 
-  const perSource = options.district
-    ? Math.max(8, Math.min(16, limit + 4))
+  const perSource = fullDistrict
+    ? DISTRICT_SOURCE_LIMIT
     : Math.max(16, Math.min(40, limit + 15));
   let candidates = await fetchCandidateZones(pool, perSource, options.district);
-  // Cap scoring workload so district switches stay responsive.
-  const scoreCap = options.district ? 24 : 48;
-  if (candidates.length > scoreCap) {
+
+  let coverageMode = fullDistrict ? 'full_district' : 'capped_statewide';
+  let truncated = false;
+  if (!fullDistrict && candidates.length > STATEWIDE_SCORE_CAP) {
     candidates = candidates
       .sort((a, b) => (Number(b.areaAcres) || 0) - (Number(a.areaAcres) || 0))
-      .slice(0, scoreCap);
+      .slice(0, STATEWIDE_SCORE_CAP);
+    truncated = true;
+    coverageMode = 'capped_statewide';
   }
+
+  const scoredPoolSize = candidates.length;
   let ranked = await rankZones(candidates, options);
 
   // District picks should still return best zones even if risk filter is strict.
@@ -497,8 +631,22 @@ async function getOpportunities(query = {}) {
 
   return {
     filters: options,
+    opportunityVersion: OPPORTUNITY_VERSION,
     count: Math.min(limit, ranked.length),
-    totalCandidates: candidates.length,
+    totalCandidates: scoredPoolSize,
+    totalMatched: ranked.length,
+    coverage: {
+      mode: coverageMode,
+      district: options.district || null,
+      candidatesFetched: scoredPoolSize,
+      candidatesScored: scoredPoolSize,
+      matchedAfterFilters: ranked.length,
+      truncated,
+      liteRank: Boolean(options.liteRank),
+      inventoryNote: fullDistrict
+        ? 'Full district scan: every investor-eligible HSIIDC estate, industrial/commercial/institution HSVP plot (≥1000 sqm), and licensed colony was scored. Tiny residential HSVP parcels excluded. First run is slower; later asks use cache.'
+        : 'No district named — statewide mode scores a capped shortlist for speed. Name a district (e.g. Gurugram) for full inventory coverage.',
+    },
     scoredAt: new Date().toISOString(),
     elapsedMs: Date.now() - started,
     opportunities: ranked.slice(0, limit).map(sanitizeOpportunityRow),
@@ -878,7 +1026,11 @@ async function compareZones(query = {}) {
       areaAcres: zone.areaAcres,
       distanceKm: zone.distanceKm,
       landCostInr: zone.components?.estimatedLandCostInr,
+      allInLandCostInr: zone.components?.estimatedAllInLandCostInr,
       landPerSqYard: zone.components?.landPerSqYard ?? zone.landValue?.estimatedPerSqYardInr,
+      landConfidence: zone.landValue?.confidence ?? zone.components?.landConfidence,
+      circleRateEffectiveFrom: zone.landValue?.circleRateEffectiveFrom,
+      marketAvailable: zone.landValue?.marketAvailable ?? false,
       v3Composite: zone.components?.v3Composite,
       infrastructure: zone.components?.infrastructure,
       accessibility: zone.components?.accessibility,

@@ -1,0 +1,186 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Jind,Pillukhera,AmrawaliKhera,AMRAWALI KHERA CHOK SE AMRAWALI KHERA ROAD K DONO TARAF KA AREA,residential,7000,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,AmrawaliKhera,AMRAWALI KHERA CHOK SE AMRAWALI KHERA ROAD K DONO TARAF KA AREA,commercial,11600,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,AmrawaliKhera,AMRAWALI KHERA,agricultural,661.26,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,AmrawaliKhera,AMRAWALI KHERA,residential,5950,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,AmrawaliKhera,FATAK SE KHERI TALODA KO JANE WALI SADAK JIND ROAD TAK,agricultural,935.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,AmrawaliKhera,FATAK SE KHERI TALODA KO JANE WALI SADAK JIND ROAD TAK,residential,7700,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,AmrawaliKhera,FATAK SE KHERI TALODA KO JANE WALI SADAK JIND ROAD TAK,commercial,13900,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,AmrawaliKhera,JAMNI ROAD JIND ROAD SE FATAK TAK,residential,8350,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,AmrawaliKhera,JAMNI ROAD JIND ROAD SE FATAK TAK,commercial,24700,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,AmrawaliKhera,MAIN ROAD SE SAFIDON SE JIND JANE,residential,9100,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,AmrawaliKhera,MAIN ROAD SE SAFIDON SE JIND JANE,commercial,18900,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,AmrawaliKhera,national highway,agricultural,605.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,AmrawaliKhera,ON ROAD BUMI,agricultural,1205.45,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,AmrawaliKhera,state highway,agricultural,1017.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,AhlanJogiKhera,AHLAN JOGI KHERA,agricultural,522.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,AhlanJogiKhera,AHLAN JOGI KHERA,residential,3550,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,AhlanJogiKhera,national highway,agricultural,495.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,AhlanJogiKhera,ON ROAD BUMI,agricultural,605.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Kalawati,KALAWATI,agricultural,460.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Kalawati,KALAWATI,residential,3550,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Kalawati,ON ROAD BUMI,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Kalwa,KALWA,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Kalwa,KALWA,residential,4200,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Kalwa,kalwa Road Darain se patrol pump,residential,7000,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Kalwa,kalwa Road Darain se patrol pump,commercial,21800,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Kalwa,KALWA ROAD DRAIN SE PTROL PUMP TAK,residential,7000,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Kalwa,KALWA ROAD DRAIN SE PTROL PUMP TAK,commercial,21800,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Kalwa,KALWA ROAD RAJBAHA SE DRAN TAK,residential,8350,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Kalwa,KALWA ROAD RAJBAHA SE DRAN TAK,commercial,24700,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Kalwa,Kalwa Road se Burain ganv ke beech ka Area,residential,7700,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Kalwa,Kalwa Road se Burain ganv ke beech ka Area,commercial,14500,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Kalwa,national highway,agricultural,522.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Kalwa,ON ROAD BUMI,agricultural,687.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,KharkGadiya,KHARK GADIYA,agricultural,522.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,KharkGadiya,KHARK GADIYA,residential,3550,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,KharkGadiya,national highway,agricultural,495.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,KharkGadiya,ON ROAD BUMI,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,KharkGagar,KHARK GAGAR,agricultural,460.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,KharkGagar,KHARK GAGAR,residential,3550,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,KharkGagar,national highway,agricultural,412.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,KharkGagar,ON ROAD BUMI,agricultural,605.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Gangoli,GANGOLI,agricultural,467.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Gangoli,GANGOLI,residential,3550,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Gangoli,national highway,agricultural,440.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Gangoli,ON ROAD BUMI,agricultural,605.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Jamni,JAMNI,agricultural,660.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Jamni,JAMNI,agricultural,880.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Jamni,JAMNI,residential,3550,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Jamni,national highway,agricultural,701.26,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Jamni,ON ROAD BUMI,agricultural,880.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Jamni,state highway,agricultural,962.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Datrath,DATRATH,agricultural,625.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Datrath,DATRATH,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Datrath,DATRATH,residential,3550,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Datrath,ON ROAD BUMI,agricultural,770.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Ghadoli,DADOLI,agricultural,522.52,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Ghadoli,DADOLI,residential,3550,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Ghadoli,national highway,agricultural,495.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Ghadoli,ON ROAD BUMI,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Pillukhera,AMRAWALI KHERA CHOUK SE AMRAWALI KHERA ROAD KE DONA TARAF KA AREA,residential,7000,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Pillukhera,AMRAWALI KHERA CHOUK SE AMRAWALI KHERA ROAD KE DONA TARAF KA AREA,commercial,11600,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Pillukhera,Briham kumari se Purani anaj mandi Lila Nager piche ka Area,residential,7000,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Pillukhera,DADOLI ROAD SR.SEC. SCHOOL,residential,7700,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Pillukhera,DADOLI ROAD SR.SEC. SCHOOL,commercial,21850,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Pillukhera,Dharoli Road par Anaj mandi se sen.sec. school tak,residential,7700,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Pillukhera,Dharoli Road par Anaj mandi se sen.sec. school tak,commercial,21800,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Pillukhera,Dharoli Road se Seenior Secndary pillu khera Darian tak,residential,6300,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Pillukhera,Dharoli Road se Seenior Secndary pillu khera Darian tak,commercial,11600,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Pillukhera,KALWA ROAD FATAK SE RAJBAHA TAK,residential,9750,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Pillukhera,KALWA ROAD FATAK SE RAJBAHA TAK,commercial,24700,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Pillukhera,MAIN ROAD SE SAFIDON SE JIND,residential,8350,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Pillukhera,MAIN ROAD SE SAFIDON SE JIND,commercial,18900,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Pillukhera,national highway,agricultural,577.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Pillukhera,NEW ANAJ MANDI,commercial,37800,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Pillukhera,ON ROAD BUMI,agricultural,770.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Pillukhera,PILLUKHERA,agricultural,605.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Pillukhera,PILLUKHERA,residential,4550,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Pillukhera,PILLUKHERA MANDI KALWA NAGAR BURAIN,residential,9100,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Pillukhera,PILLUKHERA MANDI KALWA NAGAR BURAIN,commercial,16000,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Pillukhera,PILLUKHERA MANDI LILANAGAR,residential,10500,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Pillukhera,PILLUKHERA MANDI LILANAGAR,commercial,27600,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Pillukhera,RAILWAY FATAKs SE KHERI TALODA KO JANE WALI SADAK JIND ROAD TAK,residential,7700,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Pillukhera,RAILWAY FATAKs SE KHERI TALODA KO JANE WALI SADAK JIND ROAD TAK,commercial,13900,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,PillukheraMandi,Amrawali khera chouk se Amrawali khera Road ke Dono Taraf,residential,7000,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,PillukheraMandi,Amrawali khera chouk se Amrawali khera Road ke Dono Taraf,commercial,11600,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,PillukheraMandi,Briham kumari se Purani anaj mandi Lila Nager piche ka Area,residential,7000,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,PillukheraMandi,Dharoli Road se Seenior Secndary phhilu khera Darian tak,residential,6300,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,PillukheraMandi,Dharoli Road se Seenior Secndary phhilu khera Darian tak,commercial,11600,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,PillukheraMandi,DHROLI ROAD SE SEN SEC SCHOOL TAK,residential,7700,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,PillukheraMandi,DHROLI ROAD SE SEN SEC SCHOOL TAK,commercial,21800,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,PillukheraMandi,KALWA ROAD SE RAJHBAHA TAK,residential,9800,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,PillukheraMandi,KALWA ROAD SE RAJHBAHA TAK,commercial,24700,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,PillukheraMandi,MAIN RAOD SAFIDON SE JIND RAOD,residential,8400,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,PillukheraMandi,MAIN RAOD SAFIDON SE JIND RAOD,commercial,18900,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,PillukheraMandi,NEW ANAJ MANDI,commercial,37800,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,PillukheraMandi,PILLUKHERA MANDI KALWAN NAGER BHURAIN,residential,9100,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,PillukheraMandi,PILLUKHERA MANDI KALWAN NAGER BHURAIN,commercial,16000,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,PillukheraMandi,PILLUKHERA MANDI LILA NAGER,residential,10500,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,PillukheraMandi,PILLUKHERA MANDI LILA NAGER,commercial,27600,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,PillukheraMandi,RALIWAY FATEK SE KHERI TALODA KO JANE WALI SADAK JIND RAOAD TAK,residential,7700,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,PillukheraMandi,RALIWAY FATEK SE KHERI TALODA KO JANE WALI SADAK JIND RAOAD TAK,commercial,13900,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Bitani,BITANI,agricultural,440.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Bitani,BITANI,residential,3550,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Bitani,road ke sath lagti jameen,agricultural,577.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,BudhaKhera,BUDHA KHERA,agricultural,522.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,BudhaKhera,BUDHA KHERA,residential,3550,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,BudhaKhera,ON ROAD BUMI,agricultural,770.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,BudhaKhera,state highway,agricultural,825.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,BeriKhera,BERI KHERA,residential,3550,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,BeriKhera,BERI KHERA,agricultural,510.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,BeriKhera,ON ROAD BUMI,agricultural,605.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Badtana,BADTANA,agricultural,522.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Badtana,BADTANA,residential,3550,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Badtana,national highway,agricultural,495.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Badtana,ON ROAD BUMI,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Bhambhewa,BAMBEWA,agricultural,577.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Bhambhewa,BAMBEWA,residential,3550,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Bhambhewa,national highway,agricultural,605.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Bhambhewa,ON ROAD BUMI,agricultural,797.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Bhagkhera,BAGKHERA,agricultural,445.64,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Bhagkhera,BAGKHERA,residential,3550,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Bhagkhera,national highway,agricultural,412.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Bhagkhera,ON ROAD BUMI,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Burain,BURAIN,agricultural,603.76,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Burain,BURAIN,residential,4850,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Burain,BURAIN MANDI RAJBAHA KE CENTER,residential,7700,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Burain,BURAIN MANDI RAJBAHA KE CENTER,commercial,14500,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Burain,DAROLI ROAD SR.SEC. SCHOOL,residential,7700,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Burain,DAROLI ROAD SR.SEC. SCHOOL,commercial,21800,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Burain,grain market committee,commercial,39500,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Burain,JAMNI CHOCK SE FATAK TAK,residential,8350,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Burain,JAMNI CHOCK SE FATAK TAK,commercial,25800,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Burain,JAMNI ROAD MAIN SADAK HARI KRIPA PRINTIGH PRASH,residential,8350,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Burain,JAMNI ROAD MAIN SADAK HARI KRIPA PRINTIGH PRASH,commercial,18900,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Burain,KALWA ROAD BURAIN VILLAGE KE CENTER,residential,7700,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Burain,KALWA ROAD BURAIN VILLAGE VC CENTER,commercial,14500,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Burain,KALWA ROAD FATAK SE RAJBAHA,residential,9800,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Burain,KALWA ROAD FATAK SE RAJBAHA,commercial,25900,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Burain,KALWA ROAD RAJBAHA SE PETROL PUMP,residential,7000,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Burain,KALWA ROAD RAJBAHA SE PETROL PUMP,commercial,21800,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Burain,MAIN ROAD SE SAFIDON SE JIND,residential,8350,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Burain,MAIN ROAD SE SAFIDON SE JIND,commercial,18900,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Burain,national highway,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Burain,new grain market committee,commercial,43000,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Burain,ON ROAD BUMI,agricultural,920.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Burain,ON ROAD BUMI,agricultural,929.75,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Burain,PARBU NAGAR BURAIN,residential,10500,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Burain,PARBU NAGAR BURAIN,commercial,18900,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Burain,PILLUKHERA MANDI KALWA NAGAR BURAIN,residential,9100,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Burain,PILLUKHERA MANDI KALWA NAGAR BURAIN,commercial,16000,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Burain,PILLUKHERA MANDI LILA NAGAR,residential,10500,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Burain,PILLUKHERA MANDI LILA NAGAR,commercial,27600,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Burain,state highway,agricultural,907.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,MandiKhurd,MANDI KHURD,agricultural,440.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,MandiKhurd,MANDI KHURD,residential,3550,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,MandiKhurd,ON ROAD BUMI,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,MalsariKhera,MALSARI KHERA,agricultural,440.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,MalsariKhera,MALSARI KHERA,residential,3550,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,MalsariKhera,national highway,agricultural,412.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,MalsariKhera,ON ROAD BUMI,agricultural,577.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Morkhi,MORKHI,agricultural,495.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Morkhi,MORKHI,residential,3550,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Morkhi,national highway,agricultural,467.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Morkhi,ON ROAD BUMI,agricultural,632.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,MahomandKhera,MAHOMAND KHERA,agricultural,440.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,MahomandKhera,MAHOMAND KHERA,residential,3550,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,MahomandKhera,ON ROAD BUMI,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Rajana,ON ROAD BUMI,agricultural,770.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Rajana,RAJANA,agricultural,522.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Rajana,RAJANA,residential,3700,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Rajana,state highway,agricultural,825.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Ritoli,national highway,agricultural,495.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Ritoli,ON ROAD BUMI,agricultural,605.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Ritoli,RITOULI,agricultural,522.5,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Ritoli,RITOULI,residential,3550,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Ludana,LUDANA,agricultural,570.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Ludana,LUDANA,residential,3550,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Ludana,national highway,agricultural,536.26,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Ludana,ON ROAD BUMI,agricultural,770.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Hadwa,HADWA,agricultural,440.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Hadwa,HADWA,residential,3550,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Hadwa,ON ROAD BUMI,agricultural,550.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Hoshiyarpura,HOSIYARPURA,agricultural,495.0,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Hoshiyarpura,HOSIYARPURA,residential,3550,2026-04-01,jind_gov_in_dc_notification
+Jind,Pillukhera,Hoshiyarpura,ON ROAD BUMI,agricultural,605.0,2026-04-01,jind_gov_in_dc_notification

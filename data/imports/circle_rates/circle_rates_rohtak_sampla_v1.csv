@@ -1,0 +1,349 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Rohtak,Sampla,Atayal,Atial Chahi N,agricultural,522.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Atayal,Atial Nehri N,agricultural,522.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Atayal,Atial Barani N,agricultural,522.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Atayal,Atial Gair Mumkin N,agricultural,522.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Atayal,Atial,residential,2640,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Atayal,Pahunch marg par lagti bhumi Nehri N,agricultural,545.45,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Atayal,Pahunch marg par lagti bhumi Nehri P,agricultural,545.45,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Atayal,Rashtriya Rajya Marg ke sath Nehri N,agricultural,636.36,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Atayal,Rashtriya Rajya Marg ke sath Nehri P,agricultural,636.36,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Ismaila11Biswa,Ismaila To Beri Road Nehri N,agricultural,1500.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Ismaila11Biswa,Ismaila To Beri Road Nehri P,agricultural,1500.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Ismaila11Biswa,Ismaila To Beri Road Barani N,agricultural,1500.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Ismaila11Biswa,Ismaila to Dattaur Link Road Nehri N,agricultural,863.64,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Ismaila11Biswa,Ismaila to Dattaur Link Road Nehri P,agricultural,863.64,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Ismaila11Biswa,Ismaila to Dattaur Link Road Barani N,agricultural,863.64,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Ismaila11Biswa,Ismaila To Kultana Link Road Nehri N,agricultural,1068.18,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Ismaila11Biswa,Ismaila To Kultana Link Road Nehri P,agricultural,1068.18,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Ismaila11Biswa,Ismaila 11 Biswa Chahi N,agricultural,752.07,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Ismaila11Biswa,Ismaila 11 Biswa Nehri N,agricultural,752.07,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Ismaila11Biswa,Ismaila 11 Biswa Barani N,agricultural,752.07,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Ismaila11Biswa,Ismaila 11 Biswa Gair Mumkin N,agricultural,752.07,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Ismaila11Biswa,Ismaila 11 Biswa,residential,5500,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Ismaila11Biswa,Rashtriya Rajya Marg ke sath Nehri N,agricultural,2954.55,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Ismaila11Biswa,Rashtriya Rajya Marg ke sath Nehri P,agricultural,2954.55,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Ismaila9Biswa,Ismaila 9 Biswa Chahi N,agricultural,743.8,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Ismaila9Biswa,Ismaila 9 Biswa Nehri N,agricultural,743.8,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Ismaila9Biswa,Ismaila 9 Biswa Barani N,agricultural,743.8,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Ismaila9Biswa,Ismaila 9 Biswa Gair Mumkin N,agricultural,743.8,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Ismaila9Biswa,Ismaila 9 Biswa,residential,4400,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Ismaila9Biswa,Pahunch marg par lagti bhumi Nehri N,agricultural,750.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Ismaila9Biswa,Pahunch marg par lagti bhumi Nehri P,agricultural,750.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Ismaila9Biswa,Rashtriya Rajya Marg ke sath Nehri N,agricultural,2272.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Ismaila9Biswa,Rashtriya Rajya Marg ke sath Nehri P,agricultural,2272.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Karor,Karor Chahi N,agricultural,568.18,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Karor,Karor Nehri N,agricultural,568.18,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Karor,Karor Barani N,agricultural,568.18,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Karor,Karor Gair Mumkin N,agricultural,568.18,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Karor,Karor,residential,2750,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Karor,Pahunch marg par lagti bhumi Nehri N,agricultural,836.78,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Karor,Pahunch marg par lagti bhumi Nehri P,agricultural,836.78,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Karor,Rashtriya Rajya Marg ke sath Nehri N,agricultural,836.78,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Karor,Rashtriya Rajya Marg ke sath Nehri P,agricultural,836.78,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Kisrenti,Kisrenti Chahi N,agricultural,522.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Kisrenti,Kisrenti Nehri N,agricultural,522.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Kisrenti,Kisrenti Barani N,agricultural,522.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Kisrenti,Kisrenti Gair Mumkin N,agricultural,522.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Kisrenti,Kisrenti,residential,2640,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Kisrenti,Pahunch marg par lagti bhumi Chahi N,agricultural,644.63,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Kisrenti,Pahunch marg par lagti bhumi Nehri N,agricultural,644.63,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Kisrenti,Pahunch marg par lagti bhumi Nehri P,agricultural,644.63,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Kisrenti,Rashtriya Rajya Marg ke sath Nehri N,agricultural,644.63,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Kisrenti,Rashtriya Rajya Marg ke sath Nehri P,agricultural,644.63,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Kultana,Kultana Chahi N,agricultural,500.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Kultana,Kultana Nehri N,agricultural,500.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Kultana,Kultana Barani N,agricultural,500.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Kultana,Kultana Gair Mumkin N,agricultural,500.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Kultana,Kultana,residential,3850,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Kultana,Rashtriya Rajya Marg ke sath Nehri N,agricultural,1181.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Kultana,Rashtriya Rajya Marg ke sath Nehri P,agricultural,1181.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Kultana,Sadak Kultana se Ismaila-9B Nehri N,agricultural,659.09,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Kultana,Sadak Kultana se Ismaila-9B Nehri P,agricultural,659.09,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Kultana,Sadak Kultana se Chochi Nehri N,agricultural,1181.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Kultana,Sadak Kultana se Chochi Nehri P,agricultural,1181.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Kultana,Sadak Kultana se Bhapdauda Nehri N,agricultural,1181.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Kultana,Sadak Kultana se Bhapdauda Nehri P,agricultural,1181.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Kultana,Sampla se Beri Road Nehri N,agricultural,1181.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Kultana,Sampla se Beri Road Nehri P,agricultural,1181.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Kharawar,Kharawar Chahi N,agricultural,671.49,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Kharawar,Kharawar Nehri N,agricultural,671.49,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Kharawar,Kharawar Barani N,agricultural,671.49,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Kharawar,Kharawar Gair Mumkin N,agricultural,671.49,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Kharawar,Kharawar,residential,7150,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Kharawar,Kharawar,commercial,9350,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Kharawar,Kharawar,industrial,9350,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Kharawar,Pahunch marg par lagti bhumi Nehri N,agricultural,1446.28,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Kharawar,Pahunch marg par lagti bhumi Nehri P,agricultural,1446.28,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Kharawar,Rashtriya Rajya Marg ke sath Nehri N,agricultural,2727.27,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Kharawar,Rashtriya Rajya Marg ke sath Nehri P,agricultural,2727.27,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,002 Animal Hospital to Canal Rest House Kharkhoda Road,residential,5940,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,002 Animal Hospital to Canal Rest House Kharkhoda Road,commercial,22000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,003 Railway Road Kheri Sampla,residential,9240,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,003 Railway Road Kheri Sampla,commercial,33000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,004 Anaj Mandi Kheri Sampla,residential,7920,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,004 Anaj Mandi Kheri Sampla,commercial,33000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,005 Canal Rest House to Railway Crossing,residential,5940,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,005 Canal Rest House to Railway Crossing,commercial,22000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,007 Aggarwal Dharamshala to Gijhi Mor,residential,5940,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,007 Aggarwal Dharamshala to Gijhi Mor,commercial,11000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,008 Gijhi Mor to Railway Crossing,residential,5280,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,008 Gijhi Mor to Railway Crossing,commercial,11000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,013 Surya Nagar Ward No. 1,residential,6600,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,013 Surya Nagar Ward No. 1,commercial,10560,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,014 Rampura Punjabi Colony Ward No. 2,residential,6600,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,014 Rampura Punjabi Colony Ward No. 2,commercial,10560,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,015 With Kath Mandi Ward No. 3,residential,6900,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,015 With Kath Mandi Ward No. 3,commercial,13440,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,016 Near A.F.C. School Ward No. 4,residential,6210,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,016 Near A.F.C. School Ward No. 4,commercial,9240,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,018 Gijhi Road Railway Crossing Dev Colony to Ashram,residential,5280,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,018 Gijhi Road Railway Crossing Dev Colony to Ashram,commercial,12600,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,019 Gijhi Road Beyond Ashram,residential,4180,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,019 Gijhi Road Beyond Ashram,commercial,7260,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,022 Ward No. 5 near Adarsh School,residential,6240,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,022 Ward No. 5 near Adarsh School,commercial,9240,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,023 Ward No. 6 Rajender Colony,residential,5460,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,023 Ward No. 6 Rajender Colony,commercial,9240,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,028 Ward No. 11 near Kheri Pana,residential,5940,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,028 Ward No. 11 near Kheri Pana,commercial,11040,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,030 Ward No. 13 Near Hafed Godown,residential,5280,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,030 Ward No. 13 Near Hafed Godown,commercial,9240,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,031 Krishan Vihar Industrial Colony,residential,5280,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,031 Krishan Vihar Industrial Colony,commercial,9240,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,032 Dehkaura Road to Canal,residential,5280,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,032 Dehkaura Road to Canal,commercial,9240,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,033 Kharkhoda Road to Gas Agency,residential,5280,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,033 Kharkhoda Road to Gas Agency,commercial,9240,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,034 Main Rohtak Road to New Dattaur Road,residential,5280,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,034 Main Rohtak Road to New Dattaur Road,commercial,9240,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,Pahunch marg par lagti bhumi Nehri N,agricultural,1590.91,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,Pahunch marg par lagti bhumi Nehri P,agricultural,1590.91,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,Rashtriya Rajya Marg ke sath Nehri N,agricultural,2272.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,Rashtriya Rajya Marg ke sath Nehri P,agricultural,2272.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,Rate 21 ke anusar Chahi N,agricultural,644.63,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,Rate 21 ke anusar Nehri N,agricultural,644.63,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,Rate 21 ke anusar Barani N,agricultural,644.63,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,Rate 21 ke anusar Gair Mumkin N,agricultural,644.63,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,Rate 21 ke anusar,residential,5500,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSampla,Rate 21 ke anusar,commercial,8800,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSadh,037 DHL Sector-27A,residential,26400,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSadh,037 DHL Sector-27A,commercial,33000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSadh,Forteasia Realty Private Limited,residential,26400,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSadh,Forteasia Realty Private Limited,commercial,33000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSadh,IMT Industrial and Institutional,industrial,12500.1,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSadh,Kheri Sadh Urban,residential,9900,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSadh,Kheri Sadh Urban,commercial,14300,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSadh,M2M Buildtech,residential,26400,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSadh,One City Sector 27A,commercial,33000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSadh,Orange Castle Private Limited Sector 26-A Kheri Sadh,residential,22000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSadh,IMT Sector 30B 30C 31 33,residential,20192.48,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSadh,Kheri Sadh Chahi N,agricultural,752.07,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSadh,Kheri Sadh Banjar N,agricultural,752.07,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSadh,Kheri Sadh Nehri N,agricultural,752.07,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSadh,Kheri Sadh Barani N,agricultural,752.07,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSadh,Kheri Sadh Gair Mumkin N,agricultural,752.07,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSadh,Kheri Sadh,residential,9900,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSadh,Kheri Sadh,commercial,14300,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSadh,Kheri Sadh Bypass ke sath lagti Nehri N,agricultural,2727.27,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSadh,Kheri Sadh Bypass ke sath lagti Nehri P,agricultural,2727.27,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSadh,Pahunch marg par lagti bhumi Nehri N,agricultural,818.18,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSadh,Pahunch marg par lagti bhumi Nehri P,agricultural,818.18,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSadh,Rashtriya Rajya Marg ke sath Nehri N,agricultural,2727.27,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSadh,Rashtriya Rajya Marg ke sath Nehri P,agricultural,2727.27,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,KheriSadh,Rashtriya Rajya Marg ke sath Banjar N,agricultural,2727.27,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,GarhiSampla,Garhi Sampla Urban,residential,5300,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,GarhiSampla,Garhi Sampla Chahi N,agricultural,570.25,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,GarhiSampla,Garhi Sampla Nehri N,agricultural,570.25,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,GarhiSampla,Garhi Sampla Barani N,agricultural,570.25,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,GarhiSampla,Garhi Sampla Banjar N,agricultural,570.25,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,GarhiSampla,Garhi Sampla Gair Mumkin N,agricultural,570.25,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,GarhiSampla,Garhi Sampla,residential,5300,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,GarhiSampla,Garhi Sampla,commercial,10120,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,GarhiSampla,Pahunch marg par lagti bhumi Nehri N,agricultural,1022.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,GarhiSampla,Pahunch marg par lagti bhumi Nehri P,agricultural,1022.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,GarhiSampla,Pahunch marg par lagti bhumi Gair Mumkin N,agricultural,1022.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,GarhiSampla,Pahunch marg par lagti bhumi Gair Mumkin P,agricultural,1022.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,GarhiSampla,Rashtriya Rajya Marg ke sath Nehri N,agricultural,2272.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,GarhiSampla,Rashtriya Rajya Marg ke sath Nehri P,agricultural,2272.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,GarhiSampla,Rashtriya Rajya Marg ke sath Gair Mumkin N,agricultural,4545.45,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,GarhiSampla,Rashtriya Rajya Marg ke sath Gair Mumkin P,agricultural,4545.45,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Gandhra,Nugraj Developers LLP,commercial,6600,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Gandhra,Gandhra Chahi N,agricultural,743.8,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Gandhra,Gandhra Nehri N,agricultural,743.8,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Gandhra,Gandhra Barani N,agricultural,743.8,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Gandhra,Gandhra Gair Mumkin N,agricultural,743.8,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Gandhra,Gandhra,residential,3960,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Gandhra,Pahunch marg par lagti bhumi Nehri N,agricultural,1136.36,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Gandhra,Pahunch marg par lagti bhumi Nehri P,agricultural,1136.36,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Gandhra,Rashtriya Rajya Marg ke sath Nehri N,agricultural,2727.27,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Gandhra,Rashtriya Rajya Marg ke sath Nehri P,agricultural,2727.27,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Gijhi,Gijhi Chahi N,agricultural,617.77,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Gijhi,Gijhi Nehri N,agricultural,617.77,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Gijhi,Gijhi Barani N,agricultural,617.77,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Gijhi,Gijhi Gair Mumkin N,agricultural,617.77,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Gijhi,Gijhi,residential,2750,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Gijhi,Pahunch marg par lagti bhumi Nehri N,agricultural,594.01,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Gijhi,Pahunch marg par lagti bhumi Nehri P,agricultural,594.01,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Gijhi,Rashtriya Rajya Marg ke sath Nehri N,agricultural,929.75,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Gijhi,Rashtriya Rajya Marg ke sath Nehri P,agricultural,929.75,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Chuliana,Chuliana Chahi N,agricultural,522.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Chuliana,Chuliana Nehri N,agricultural,522.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Chuliana,Chuliana Barani N,agricultural,522.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Chuliana,Chuliana Gair Mumkin N,agricultural,522.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Chuliana,Chuliana,residential,3300,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Chuliana,Chuliana se Ismaila Road Nehri N,agricultural,863.64,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Chuliana,Chuliana se Ismaila Road Nehri P,agricultural,863.64,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Chuliana,Chuliana se Gandhra Link Road Nehri N,agricultural,1136.36,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Chuliana,Chuliana se Gandhra Link Road Nehri P,agricultural,1136.36,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Chuliana,Chuliana se Dimana Nehri N,agricultural,863.64,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Chuliana,Chuliana se Dimana Nehri P,agricultural,863.64,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Chuliana,Pahunch marg par lagti bhumi Nehri N,agricultural,863.64,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Chuliana,Pahunch marg par lagti bhumi Nehri P,agricultural,863.64,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Chuliana,Rashtriya Rajya Marg ke sath Nehri N,agricultural,1425.62,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Chuliana,Rashtriya Rajya Marg ke sath Nehri P,agricultural,1425.62,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Datore,Datore Chahi N,agricultural,590.91,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Datore,Datore Nehri N,agricultural,590.91,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Datore,Datore Barani N,agricultural,590.91,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Datore,Datore Gair Mumkin N,agricultural,590.91,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Datore,Datore,residential,3080,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Datore,Pahunch marg par lagti bhumi Nehri N,agricultural,727.27,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Datore,Pahunch marg par lagti bhumi Nehri P,agricultural,727.27,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Datore,Rashtriya Rajya Marg ke sath Nehri N,agricultural,727.27,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Datore,Rashtriya Rajya Marg ke sath Nehri P,agricultural,727.27,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,NayaBans,Naya Bans Chahi N,agricultural,546.49,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,NayaBans,Naya Bans Nehri N,agricultural,546.49,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,NayaBans,Naya Bans Barani N,agricultural,546.49,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,NayaBans,Naya Bans Gair Mumkin N,agricultural,546.49,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,NayaBans,Naya Bans,residential,3630,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,NayaBans,Pahunch marg par lagti bhumi Nehri N,agricultural,613.64,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,NayaBans,Pahunch marg par lagti bhumi Nehri P,agricultural,613.64,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,NayaBans,Rashtriya Rajya Marg ke sath Nehri N,agricultural,2045.45,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,NayaBans,Rashtriya Rajya Marg ke sath Nehri P,agricultural,2045.45,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Naunand,Naunand Chahi N,agricultural,774.79,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Naunand,Naunand Nehri N,agricultural,774.79,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Naunand,Naunand Barani N,agricultural,774.79,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Naunand,Naunand Gair Mumkin N,agricultural,774.79,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Naunand,Naunand,residential,3300,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Naunand,Pahunch marg par lagti bhumi Nehri N,agricultural,929.75,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Naunand,Pahunch marg par lagti bhumi Nehri P,agricultural,929.75,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Naunand,Rashtriya Rajya Marg ke sath Nehri N,agricultural,1033.06,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Naunand,Rashtriya Rajya Marg ke sath Nehri P,agricultural,1033.06,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Pakasma,Pahunch marg par lagti bhumi Nehri N,agricultural,545.45,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Pakasma,Pahunch marg par lagti bhumi Nehri P,agricultural,545.45,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Pakasma,Pakasma Chahi N,agricultural,522.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Pakasma,Pakasma Nehri N,agricultural,522.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Pakasma,Pakasma Barani N,agricultural,522.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Pakasma,Pakasma Gair Mumkin N,agricultural,522.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Pakasma,Pakasma,residential,2750,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Pakasma,Rashtriya Rajya Marg ke sath Nehri N,agricultural,681.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Pakasma,Rashtriya Rajya Marg ke sath Nehri P,agricultural,681.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Baliana,Baliana Urban,residential,3960,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Baliana,Baliana Urban,commercial,13200,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Baliana,National state road Nehri N,agricultural,1909.09,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Baliana,National state road Nehri P,agricultural,1909.09,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Baliana,Pahunch marg par lagti bhumi Nehri N,agricultural,818.18,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Baliana,Pahunch marg par lagti bhumi Nehri P,agricultural,818.18,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Baliana,Baliana Chahi N,agricultural,727.27,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Baliana,Baliana Nehri N,agricultural,727.27,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Baliana,Baliana Barani N,agricultural,727.27,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Baliana,Baliana Gair Mumkin N,agricultural,727.27,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Baliana,Baliana,residential,3960,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Baliana,Baliana,commercial,13200,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,BhaisruKalan,Pahunch marg par lagti bhumi Nehri N,agricultural,723.14,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,BhaisruKalan,Pahunch marg par lagti bhumi Nehri P,agricultural,723.14,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,BhaisruKalan,Bhaisru Kalan Chahi N,agricultural,500.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,BhaisruKalan,Bhaisru Kalan Nehri N,agricultural,500.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,BhaisruKalan,Bhaisru Kalan Barani N,agricultural,500.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,BhaisruKalan,Bhaisru Kalan Gair Mumkin N,agricultural,500.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,BhaisruKalan,Bhaisru Kalan,residential,3850,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,BhaisruKalan,Rashtriya Rajya Marg ke sath Nehri N,agricultural,1590.91,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,BhaisruKalan,Rashtriya Rajya Marg ke sath Nehri P,agricultural,1590.91,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,BhaisruKhurd,Bhaisru Khurd Chahi N,agricultural,522.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,BhaisruKhurd,Bhaisru Khurd Nehri N,agricultural,522.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,BhaisruKhurd,Bhaisru Khurd Barani N,agricultural,522.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,BhaisruKhurd,Bhaisru Khurd Gair Mumkin N,agricultural,522.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,BhaisruKhurd,Bhaisru Khurd,residential,3850,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,BhaisruKhurd,Rashtriya Rajya Marg ke sath Nehri N,agricultural,1590.91,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,BhaisruKhurd,Rashtriya Rajya Marg ke sath Nehri P,agricultural,1590.91,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,BhaisruKhurd,Rashtriya Rajya Marg ke sath Barani N,agricultural,1590.91,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,BhaisruKhurd,Rashtriya Rajya Marg ke sath Barani P,agricultural,1590.91,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,BhaisruKhurd,Link Road par bhumi Nehri N,agricultural,774.79,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,BhaisruKhurd,Link Road par bhumi Nehri P,agricultural,774.79,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Morkheri,Pahunch marg par lagti bhumi Nehri N,agricultural,681.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Morkheri,Pahunch marg par lagti bhumi Nehri P,agricultural,681.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Morkheri,Mor Kheri Chahi N,agricultural,522.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Morkheri,Mor Kheri Nehri N,agricultural,522.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Morkheri,Mor Kheri Barani N,agricultural,522.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Morkheri,Mor Kheri Gair Mumkin N,agricultural,522.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Morkheri,Mor Kheri,residential,2750,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Morkheri,Rashtriya Rajya Marg ke sath Nehri N,agricultural,750.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Morkheri,Rashtriya Rajya Marg ke sath Nehri P,agricultural,750.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Samchana,Pahunch marg par lagti bhumi Chahi N,agricultural,681.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Samchana,Pahunch marg par lagti bhumi Nehri N,agricultural,681.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Samchana,Pahunch marg par lagti bhumi Nehri P,agricultural,681.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Samchana,Pahunch marg par lagti bhumi Barani N,agricultural,681.82,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Samchana,Rashtriya Rajya Marg ke sath Nehri N,agricultural,1084.71,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Samchana,Rashtriya Rajya Marg ke sath Nehri P,agricultural,1084.71,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Samchana,Samchana Chahi N,agricultural,522.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Samchana,Samchana Nehri N,agricultural,522.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Samchana,Samchana Barani N,agricultural,522.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Samchana,Samchana Gair Mumkin N,agricultural,522.73,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Samchana,Samchana,residential,3300,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Sampla,001 Delhi Road Chowk to Animal Hospital,residential,7260,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Sampla,001 Delhi Road Chowk to Animal Hospital,commercial,35200,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Sampla,006 Delhi Road Chowk to Aggarwal Dharamshala,residential,7920,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Sampla,006 Delhi Road Chowk to Aggarwal Dharamshala,commercial,39600,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Sampla,009 Delhi Road Chowk to Power House Jhajjar Road,residential,6380,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Sampla,009 Delhi Road Chowk to Power House Jhajjar Road,commercial,23000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Sampla,010 Power House Jhajjar Road Byepass,residential,5940,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Sampla,010 Power House Jhajjar Road Byepass,commercial,22000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Sampla,011 Delhi Road Chowk to Govt Sr Sec School Sampla,residential,6210,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Sampla,011 Delhi Road Chowk to Govt Sr Sec School Sampla,commercial,44000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Sampla,012 Govt Sr Sec School Sampla to Byepass Delhi Road,residential,5940,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Sampla,012 Govt Sr Sec School Sampla to Byepass Delhi Road,commercial,44000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Sampla,017 Near Anaj Mandi,residential,5940,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Sampla,017 Near Anaj Mandi,commercial,11760,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Sampla,020 Near Delhi Road Vasundhara Cafe,residential,7260,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Sampla,020 Near Delhi Road Vasundhara Cafe,commercial,44000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Sampla,021 Byepass Garhi Sampla,residential,5280,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Sampla,021 Byepass Garhi Sampla,commercial,22000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Sampla,024 Ward No. 7 Near Mahajan Mohalla,residential,4620,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Sampla,024 Ward No. 7 Near Mahajan Mohalla,commercial,10560,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Sampla,025 Ward No. 8 Near Dada Bhaiya,residential,5520,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Sampla,025 Ward No. 8 Near Dada Bhaiya,commercial,9240,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Sampla,026 Ward No. 9 Kamal Colony near Inderlok,residential,5280,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Sampla,026 Ward No. 9 Kamal Colony near Inderlok,commercial,10560,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Sampla,027 Ward No. 10 near Landi Gali,residential,5280,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Sampla,027 Ward No. 10 near Landi Gali,commercial,10560,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Sampla,029 Ward No. 12 Beri Road Near Nahnu Ram Temple,residential,5940,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Sampla,029 Ward No. 12 Beri Road Near Nahnu Ram Temple,commercial,10560,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Sampla,038 All types of Flat,residential,35100,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Sampla,038 All types of Flat,commercial,59400,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Sampla,"I.M.T. Sector 30B,30C,31,33",residential,20192.48,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Sampla,"I.M.T. Sector 30B,30C,31,33",commercial,22073.76,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Sampla,"I.M.T. Sector 30B,30C,31,33",industrial,12500.1,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Sampla,Pahunch marg par lagti bhumi Nehri N,agricultural,1363.64,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Sampla,Pahunch marg par lagti bhumi Nehri P,agricultural,1363.64,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Sampla,Rashtriya Rajya Marg ke sath Nehri N,agricultural,2500.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Sampla,Rashtriya Rajya Marg ke sath Nehri P,agricultural,2500.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Sampla,Rashtriya Rajya Marg ke sath Gair Mumkin N,agricultural,2500.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Sampla,Rashtriya Rajya Marg ke sath Gair Mumkin P,agricultural,2500.0,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Sampla,Rate 19 ke anusar Chahi N,agricultural,929.75,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Sampla,Rate 19 ke anusar Nehri N,agricultural,929.75,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Sampla,Rate 19 ke anusar Barani N,agricultural,929.75,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Sampla,Rate 19 ke anusar Gair Mumkin N,agricultural,929.75,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Sampla,Rate 19 ke anusar,residential,6600,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,Sampla,Rate 19 ke anusar,commercial,12000,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,HasanGarh,Pahunch marg par lagti bhumi Nehri N,agricultural,1041.32,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,HasanGarh,Pahunch marg par lagti bhumi Nehri P,agricultural,1041.32,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,HasanGarh,Rashtriya Rajya Marg ke sath Nehri N,agricultural,2727.27,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,HasanGarh,Rashtriya Rajya Marg ke sath Nehri P,agricultural,2727.27,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,HasanGarh,Rashtriya Rajya Marg ke sath Barani N,agricultural,2727.27,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,HasanGarh,Hasan Garh Chahi N,agricultural,617.77,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,HasanGarh,Hasan Garh Nehri N,agricultural,617.77,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,HasanGarh,Hasan Garh Barani N,agricultural,617.77,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,HasanGarh,Hasan Garh Gair Mumkin N,agricultural,617.77,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,HasanGarh,Hasan Garh,residential,5280,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,HasanGarh,Pahunch marg par lagti bhumi Barani N,agricultural,1041.32,2026-04-01,rohtak_gov_in_dc_notification
+Rohtak,Sampla,HasanGarh,Pahunch marg par lagti bhumi Barani P,agricultural,1041.32,2026-04-01,rohtak_gov_in_dc_notification

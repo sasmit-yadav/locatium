@@ -1,0 +1,580 @@
+district,tehsil,village,segment,sector_type,rate_per_sq_yard_inr,effective_from,source
+Nuh,Punhana,Aamka,Aamka,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Aamka,Aamka,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Aamka,Aamka,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Ahmedbas-Punhana,Ahmedbas-Punhana,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Ahmedbas-Punhana,Ahmedbas-Punhana,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Ahmedbas-Punhana,Ahmedbas-Punhana,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Ainchwadi,Approach Road,agricultural,375.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Ainchwadi,Approach Road,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Ainchwadi,Approach Road,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Ainchwadi,Ainchwadi Any other Road Beyond,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Ainchwadi,Ainchwadi Any other Road Beyond,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Ainchwadi,Ainchwadi Any other Road Beyond,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Akbarpur,Akbarpur,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Akbarpur,Akbarpur,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Akbarpur,Akbarpur,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Allahabad,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Allahabad,Allahabad,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Allahabad,Allahabad,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Allahabad,Allahabad,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Allahabad,Nagina-Hodal Road,agricultural,800.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Allahabad,Nagina-Hodal Road,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Ameenabad,Ameenabad,agricultural,375.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Ameenabad,Approach Road,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Ameenabad,Ameenabad,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Ameenabad,Ameenabad,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Andhaki,Andhaki,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Andhaki,Approach Road,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Andhaki,Andhaki,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Andhaki,Andhaki,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Autha,Autha,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Autha,Approach Road,agricultural,386.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Autha,Autha,residential,1980,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Autha,Autha,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Baasdalla,Baasdalla,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Baasdalla,Approach Road,agricultural,515.7,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Baasdalla,Baasdalla,residential,5500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Baasdalla,Baasdalla,commercial,8800,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Baasdalla,Basdalla Extension colony Part-1,agricultural,931.82,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Baasdalla,Basdalla Extension colony Part-2,agricultural,1630.68,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Baasdalla,Nagina-Hodal Road,agricultural,950.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Baasdalla,Nagina-Hodal Road,commercial,8800,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Baded,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Baded,Baded,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Baded,Baded,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Baded,Baded,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Badka,Badka Any other Road up to Depth,agricultural,375.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Badka,Badka,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Badka,Badka,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Badka,Badka,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Badli,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Badli,Approach Road 100 mtr,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Badli,Badli,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Badli,Badli,agricultural,375.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Badli,Badli,residential,1980,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Badli,Badli,residential,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Badli,Badli,commercial,375.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Bandholi,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Bandholi,Bandholi,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Bandholi,Bandholi,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Bandholi,Bandholi,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Bandholi,Bandholi,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Bhuriyaki,Approach Road,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Bhuriyaki,Approach Road,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Bhuriyaki,Approach Road,agricultural,800.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Bhuriyaki,Nagina-Hodal Road,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Bhuriyaki,Nagina-Hodal Road,commercial,3300,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Bhuriyaki,Nagina-Hodal Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Bichhore,Approach Road,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Bichhore,Approach Road,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Bichhore,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Bichhore,Bichhore,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Bichhore,Bichhore,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Bichhore,Bichhore,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Bikti,Approach Road,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Bikti,Approach Road,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Bikti,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Bikti,Bikti,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Bikti,Bikti,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Bikti,Bikti,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Bilaka,Approach Road,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Bilaka,Approach Road,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Bilaka,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Bilaka,Bilaka,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Bisru,Bisru,agricultural,363.64,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Bisru,Bisru,residential,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Bisru,Bisru,commercial,3300,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Bisru,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Bubalheri,Bubalheri Any other Road Beyond,agricultural,375.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Bubalheri,Bubalheri Any other Road up to,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Bubalheri,Bubalheri,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Bubalheri,Bubalheri,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Chandanki,Chandanki,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Chandanki,Chandanki,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Chandanki,Chandanki,commercial,3300,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Chandanki,Nagina-Hodal Road,agricultural,800.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Chandanki,Nagina-Hodal Road,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Chandanki,Nagina-Hodal Road,commercial,3300,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Chanddaka,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Chanddaka,Approach Road 100 mtr behind,agricultural,375.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Chanddaka,Chanddaka Any other Road Beyond,agricultural,375.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Chanddaka,Chanddaka Any other Road up to,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Chanddaka,Chanddaka,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Chanddaka,Chanddaka,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Dhana,Dhana Any other Road Beyond,agricultural,375.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Dhana,Dhana Any other Road Beyond,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Dhana,Dhana Any other Road Beyond,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Dhana,Dhana Any other Road up to Depth,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Dhana,Dhana Any other Road up to Depth,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Dhana,Dhana Any other Road up to Depth,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Dholi,Dholi Any other Road up to Depth,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Dholi,Dholi Any other Road up to Depth,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Dholi,Dholi Any other Road up to Depth,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Dondal,Dondal Any other Road Beyond,agricultural,375.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Dondal,Dondal Any other Road up to Depth,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Dondal,Dondal Any other Road up to Depth,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Dondal,Dondal Any other Road up to Depth,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Dudoli,Dudoli,agricultural,375.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Dudoli,Dudoli,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Dudoli,Dudoli,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Dungeja,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Dungeja,Dungeja Any other Road Beyond,agricultural,375.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Dungeja,Dungeja Any other Road up to Depth,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Dungeja,Dungeja Any other Road up to Depth,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Dungeja,Dungeja Any other Road up to Depth,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Falendi,Falendi,agricultural,375.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Falendi,Falendi,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Falendi,Falendi,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Falendi,Nagina Hodal Road upto 150 Mtr,agricultural,800.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Falendi,Nagina-Hodal Road,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Falendi,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Fardari,Fardari,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Fardari,Fardari,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Fardari,Fardari,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Fardari,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,FerozepurMeo,Ferozepur-Meo,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,FerozepurMeo,Ferozepur-Meo,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,FerozepurMeo,Ferozepur-Meo,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,FerozepurMeo,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Gangwani,Gangwani,agricultural,375.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Gangwani,Gangwani,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Gangwani,Gangwani,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Gangwani,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Ghatwasan,Ghatwasan Any other Road Beyond,agricultural,375.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Ghatwasan,Ghatwasan Any other Road Beyond,agricultural,656.25,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Ghatwasan,Ghatwasan Any other Road up to,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Ghatwasan,Ghatwasan Any other Road up to,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Ghatwasan,Ghatwasan Any other Road up to,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Gheeda,Gheeda,agricultural,340.91,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Gheeda,Gheeda,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Gheeda,Gheeda,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Gheeda,Nagina Hodal Road,agricultural,800.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Gheeda,Nagina Hodal Road,residential,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Gheeda,Nagina Hodal Road,commercial,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Gobinspur,Gobinspur,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Gobinspur,Gobinspur,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Gobinspur,Gobinspur,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Godhula,Godhula,agricultural,375.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Godhula,Godhula,agricultural,468.75,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Godhula,Godhula,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Godhula,Godhula,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Godhula,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Godhula,Approach Road,residential,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Godhuli,Godhuli,agricultural,375.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Godhuli,Godhuli,residential,1452,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Godhuli,Godhuli,commercial,2178,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Godhuli,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Gokalpur,Gokalpur,agricultural,375.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Gokalpur,Any other Road Beyond,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Gokalpur,Gokalpur Any other Road up to,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Gubhradi,Gubhradi,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Gubhradi,Gubhradi,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Gubhradi,Gubhradi,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Gulalta,Approach Road,commercial,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Gulalta,Gulalta,agricultural,344.52,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Gulalta,Gulalta,residential,1980,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Gulalta,Gulalta,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Hajipur,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Hajipur,Hajipur,agricultural,375.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Hajipur,Hajipur,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Hajipur,Hajipur,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Hathangaon,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Hathangaon,Hathangaon,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Hathangaon,Hathangaon,residential,1725,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Hathangaon,Hathangaon,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Hathangaon,Hathangaon,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Hinganpur,Hinganpur,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Hinganpur,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Hinganpur,Hinganpur,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Indiana,Indiana,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Indiana,Nagina-Hodal Road,agricultural,775.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Indiana,Approach Road,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Indiana,Indiana,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Jadoli,Jadoli,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Jadoli,Approach Road,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Jadoli,Jadoli,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Jaitalka,Jaitalka,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Jaitalka,Jaitalka Any other Road Beyond,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Jaitalka,Jaitalka Any other Road up to,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Jaitalka,Jaitalka,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Jaitalka,Jaitalka,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Jaiwant,Jaiwant,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Jaiwant,Jaiwant,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Jaiwant,Jaiwant,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Jaiwant,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Jakh,Jakh,agricultural,375.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Jakh,Jakh,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Jakh,Jakh,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Jakh,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Jakhopur,Jakhopur,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Jakhopur,Jakhopur,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Jakhopur,Jakhopur,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Jakhopur,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Jakokar,Jakokar,agricultural,344.52,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Jakokar,Jakokar,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Jakokar,Jakokar,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Jakokar,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Jalika,Jalika,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Jalika,Jalika,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Jalika,Jalika,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Jalika,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Jamalgadh,Jamalgadh,agricultural,375.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Jamalgadh,Jamalgadh,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Jamalgadh,Jamalgadh,commercial,3750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Jamalgadh,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Jamalgadh,Approach Road,residential,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Jehtana,Jehtana,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Jehtana,Jehtana,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Jehtana,Jehtana,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Jharokdi,Jharokdi,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Jharokdi,Jharokdi,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Jharokdi,Jharokdi,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Jharokdi,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Jharpuri,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Jharpuri,Approach Road,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Jharpuri,Approach Road,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Jharpuri,Jharpuri Any other Road Beyond,agricultural,375.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Jharpuri,Jharpuri Any other Road up to,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Karheda-Punhana,Karheda-Punhana,agricultural,483.47,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Karheda-Punhana,Karheda-Punhana,residential,1815,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Karheda-Punhana,Karheda-Punhana,commercial,3025,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Karheda-Punhana,Nagina Hodal Road,agricultural,1125.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Karheda-Punhana,Nagina Hodal Road,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Karheda-Punhana,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Karheda-Punhana,Approach Road,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Kasampur,Kasampur,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Kasampur,Kasampur,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Kasampur,Kasampur,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Kasampur,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Khawajli-Kalan,Khawajli-Kalan,agricultural,449.38,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Khawajli-Kalan,Khawajli-Kalan,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Khawajli-Kalan,Khawajli-Kalan,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Khawajli-Kalan,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Khawajli-Kalan,Approach Road,residential,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Khawajli-Khurd,Khawajli-Khurd,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Khawajli-Khurd,Khawajli-Khurd,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Khawajli-Khurd,Khawajli-Khurd,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Khawajli-Khurd,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Khedla-Punhana,Khedla-Punhana,agricultural,375.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Khedla-Punhana,Khedla-Punhana,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Khedla-Punhana,Khedla-Punhana,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Khedla-Punhana,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Khedla-Punhana,Approach Road,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,KheriTed,Kheri-Ted,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,KheriTed,Kheri-Ted,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,KheriTed,Kheri-Ted,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Khori,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Khori,Khori Any other Road Beyond,agricultural,375.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Khori,Khori Any other Road up to Depth,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Khori,Khori,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Khori,Khori,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Khorishah-Chokha,Khorishah Chokha,agricultural,386.36,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Khorishah-Chokha,Khorishah Chokha,residential,1980,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Khorishah-Chokha,Nagina-Hodal Road,agricultural,800.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Khorishah-Chokha,Nagina-Hodal Road,commercial,3300,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Khorishah-Chokha,Nagina-Hodal Road upto 150 Mtr,agricultural,750.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Khorishah-Chokha,Rural Road upto 100 Mtr,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Khorishah-Chokha,Approach Road,agricultural,375.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Kutabpur,Kutabpur,agricultural,375.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Kutabpur,Kutabpur,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Kutabpur,Kutabpur,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Kutabpur,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Lafoori,Lafoori,agricultural,389.46,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Lafoori,Lafoori,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Lafoori,Lafoori,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Leharwadi,Leharwadi,agricultural,375.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Leharwadi,Leharwadi,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Leharwadi,Leharwadi,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Leharwadi,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,LihingaKhurd,Any other Road,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,LihingaKhurd,Any other Road,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,LihingaKhurd,Any other Road,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Luhinga-Kalan,Luhinga-Kalan,agricultural,375.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Luhinga-Kalan,Luhinga-Kalan,residential,1980,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Luhinga-Kalan,Luhinga-Kalan,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Luhinga-Kalan,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Luhinga-Kalan,Approach Road,residential,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Luhinga-Kalan,Approach Road,commercial,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Madhiyaki,Madhiyaki,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Madhiyaki,Madhiyaki,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Madhiyaki,Madhiyaki,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Madhiyaki,Nagina-Hodal Road,agricultural,800.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Madhiyaki,Nagina-Hodal Road,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Madhiyaki,Approach Road,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Malhaka,Malhaka Any other Road Beyond,agricultural,375.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Malhaka,Malhaka Any other Road up to Depth,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Malhaka,Malhaka Any other Road up to Depth,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Malhaka,Malhaka Any other Road up to Depth,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Mamlika,Mamlika,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Mamlika,Mamlika,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Mamlika,Mamlika,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Manota,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Manota,Manota,agricultural,375.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Manota,Manota,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Manota,Manota,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Milakpuri,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Milakpuri,Milakpuri,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Milakpuri,Milakpuri,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Milakpuri,Milakpuri,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,MohammadpurTer,Mohammadpur Ter Any other Road after 100 mtr depth,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,MohammadpurTer,Mohammadpur-Ted,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,MohammadpurTer,Mohammadpur-Ted,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,MohammadpurTer,Mohammadpur-Ted,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Mohd.bass@Buchaka,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Mohd.bass@Buchaka,Mohammadbass Buchaka Any other,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Mohd.bass@Buchaka,Mohammadbass Buchaka Any other,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Mohd.bass@Buchaka,Mohammadbass Buchaka Any other,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Mubarikpur,Mubarikpur,agricultural,375.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Mubarikpur,Mubarikpur,agricultural,340.91,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Mubarikpur,Mubarikpur,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Mubarikpur,Mubarikpur,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Mundhela,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Mundhela,Mundhela,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Mundhela,Mundhela,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Mundhela,Mundhela,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Naharpur,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Naharpur,Naharpur,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Naharpur,Naharpur,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Naharpur,Naharpur,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Naheda,Naheda,agricultural,375.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Naheda,Naheda,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Naheda,Naheda,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Naheda,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Nai,Nai,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Nai,Nai,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Nai,Nai,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Nai,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Nakanpur,Nakanpur,agricultural,1000.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Nakanpur,Approach Road,agricultural,1000.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Nakanpur,Badakli-Hodal Road,residential,13750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Nakanpur,Badakli-Hodal Road,commercial,38500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Nakanpur,Jamalgarh Road,residential,18750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Nakanpur,Jamalgarh Road,commercial,35200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Nakanpur,Jurheda Road,agricultural,1181.82,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Nakanpur,Jurheda Road,residential,13750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Nakanpur,Jurheda Road,commercial,22000,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Nakanpur,Nakanpur,agricultural,1193.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Nakanpur,Nakanpur,residential,6612.5,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Nakanpur,Nakanpur,commercial,19200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Nakanpur,Nakanpur Deh Abadi,residential,13750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Nakanpur,Nakanpur Deh Abadi,commercial,35200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Nakanpur,Pemakhera Road,agricultural,954.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Nakanpur,Pemakhera Road,residential,6050,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Nakanpur,Pemakhera Road,commercial,22000,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Nakatpuri,Under Laldora,residential,14400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Nakatpuri,Under Laldora,commercial,34100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Nakatpuri,Nakatpuri,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Nakatpuri,Nakatpuri,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Nakatpuri,Nakatpuri,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Nangla-Jamalgarh,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Nangla-Jamalgarh,Approach Road,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Nangla-Jamalgarh,Approach Road,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Nangla-Jamalgarh,Nangla-Jamalgarh,agricultural,375.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Nangla-Jamalgarh,Nangla-Jamalgarh,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Nangla-Jamalgarh,Nangla-Jamalgarh,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Nasirpuri,Nagina-Hodal Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Nasirpuri,Nagina-Hodal Road,residential,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Nasirpuri,Nasirpuri,agricultural,800.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Nasirpuri,Nagina-Hodal Road,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Nasirpuri,Nagina-Hodal Road,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Nasirpuri,Nasirpuri,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Nasirpuri,Nasirpuri,residential,1897.5,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Nasirpuri,Nasirpuri,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Neemka,Nagina Hodal Road,agricultural,375.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Neemka,Nagina Hodal Road,agricultural,800.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Neemka,Neemka,agricultural,411.93,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Neemka,Neemka,residential,1980,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Neemkhera,Neemkhera Any other Road,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Neemkhera,Neemkhera Any other Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Neemkhera,Neemkhera Any other Road Beyond,agricultural,375.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Neemkhera,Neemkhera Any other Road up to,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Neemkhera,Neemkhera Any other Road up to,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Newana,Newana,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Newana,Newana,agricultural,375.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Newana,Newana,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Papda,Papda,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Papda,Papda,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Papda,Papda,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Papda,Papda,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Papda,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Papda,Approach Road,agricultural,375.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Papda,Approach Road 100 mtr behind,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Papdi,Papdi,residential,1980,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Papdi,Papdi,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Papdi,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Patakpur-Punhana,Patakpur Extension Colony,commercial,8800,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Patakpur-Punhana,Patakpur Extension Colony,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Patakpur-Punhana,Patakpur-Punhana,residential,5500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Patakpur-Punhana,Patakpur-Punhana,commercial,8800,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Patakpur-Punhana,Patakpur-Punhana,agricultural,409.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Patakpur-Punhana,Approach Road,agricultural,650.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Patakpur-Punhana,Approach Road,commercial,8800,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Pemakhera,Nagina-Hodal Road,agricultural,800.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Pemakhera,Nagina-Hodal Road,commercial,8800,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Pemakhera,Pemakhera,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Pemakhera,Pemakhera,residential,5500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Pemakhera,Pemakhera,commercial,8800,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Pemakhera,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Pemakhera,Approach Road,commercial,8800,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Pemakhera,Pemakhera,agricultural,375.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Pemakhera,Approach Road,residential,8800,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Pinangwa,Abadi Deh Firni,residential,14300,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Pinangwa,Approach Road,agricultural,775.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Pinangwa,Badkali-Punhana Road,agricultural,925.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Pinangwa,Badkali-Punhana Road,residential,12100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Pinangwa,Badkali-Punhana Road,commercial,31625,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Pinangwa,Gair Mumkin,residential,5500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Pinangwa,Jhimrawat Road,agricultural,950.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Pinangwa,Nagina-Hodal Road II,agricultural,925.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Pinangwa,Pinangwa,agricultural,661.25,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Pinangwa,Pinangwa,residential,5500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Pinangwa,Pinangwa,commercial,17400,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Pinangwa,Pinangwa-Dhana Road,agricultural,775.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Pinangwa,Pinangwa-Dhana Road,residential,5500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Pinangwa,Pinangwa-Dhana Road,commercial,12100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Pinangwa,Pinangwa-Ter Road,agricultural,775.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Pinangwa,Pinangwa-Ter Road,residential,5500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Pinangwa,Pinangwa-Ter Road,commercial,12100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Pinangwa,Pinangwa-Palwal Road,agricultural,925.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Pinangwa,Pinangwa-Palwal Road,residential,5500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Pinangwa,Pinangwa-Palwal Road,commercial,12100,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Pinangwa,Under Laldora,residential,7700,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Pinangwa,Under Laldora,commercial,13200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Punhana,Abadi Deh,residential,14300,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Punhana,Abadi Deh,commercial,44000,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Punhana,Jamalgarh Road,residential,13750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Punhana,Jamalgarh Road,commercial,35200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Punhana,Punhana,agricultural,852.27,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Punhana,Punhana,residential,5500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Punhana,Punhana,commercial,12000,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Punhana,Punhana-Bijli Board Road,residential,6050,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Punhana,Punhana-Bijli Board Road,commercial,13750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Punhana,Under Laldora,residential,13200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Punhana,Under Laldora,commercial,38500,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Rahida,Nagina Hodal Road,agricultural,1045.45,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Rahida,Nagina Hodal Road,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Rahida,Rahida,residential,1980,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Rahida,Rahida,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Rahida,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Rahida,Approach Road,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Rahida,Approach Road,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Rahida,Approach Road,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Raipur,Raipur,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Raipur,Raipur,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Raipur,Raipur,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Raipur,Raipur,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Rajpur,Rajpur,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Rajpur,Rajpur,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Rajpur,Rajpur,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Rajpur,Rajpur,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Rajpur,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Rajpur,Approach Road,agricultural,375.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Rajpur,Approach Road,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Rajpur,Approach Road,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Rajpur,Approach Road,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Ranota,Ranota,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Ranota,Ranota,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Ranota,Ranota,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Ranota,Ranota,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Ranota,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Ranota,Approach Road,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Ranota,Approach Road,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Ranota,Approach Road,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Rasoolpur,Rasoolpur,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Rasoolpur,Rasoolpur,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Rasoolpur,Rasoolpur,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Rasoolpur,Rasoolpur,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Rasoolpur,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Rasoolpur,Approach Road,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Rasoolpur,Approach Road,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Rasoolpur,Approach Road,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Rehpuwa,Rehpuwa,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Rehpuwa,Rehpuwa,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Rehpuwa,Approach Road,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Rehpuwa,Approach Road,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Rehouwa,Rehouwa,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Rehouwa,Rehouwa,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Samand-Khera,Samand-Khera,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Samand-Khera,Samand-Khera,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Samand-Khera,Samand-Khera,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Satakpuri,Satakpuri,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Satakpuri,Satakpuri,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Satakpuri,Satakpuri,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Satakpuri,Approach Road,agricultural,567.27,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Shamsabad-Khenchetan,Nagina Hodal Road,agricultural,950.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Shamsabad-Khenchetan,Nagina Hodal Road,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Shamsabad-Khenchetan,Nagina Hodal Road,commercial,3300,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Shamsabad-Khenchetan,Shamsabad-Khenchetan,agricultural,400.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Shamsabad-Khurd,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Shamsabad-Khurd,Approach Road,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Shamsabad-Khurd,Approach Road,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Shamsabad-Khurd,Shamsabad-Khurd,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Shikrawa,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Shikrawa,Approach Road,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Shikrawa,Approach Road,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Shikrawa,Shikrawa,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Shikrawa,Shikrawa,residential,1980,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Shikrawa,Shikrawa,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Sihri-Singalheri,Sihri-Singalheri,agricultural,375.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Sihri-Singalheri,Sihri-Singalheri,agricultural,340.91,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Sihri-Singalheri,Sihri-Singalheri,residential,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Sihri-Singalheri,Sihri-Singalheri,commercial,3025,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Sihri-Singalheri,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Sihri-Singalheri,Approach Road,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Singar,Nagina-Hodal Road,agricultural,818.18,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Singar,Nagina-Hodal Road,commercial,3300,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Singar,Singar,agricultural,363.64,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Singar,Singar,residential,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Singar,Singar,commercial,3300,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Singar,Approach Road,agricultural,659.09,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Singar,Approach Road,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Singar,Approach Road,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Siroli,Siroli,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Siroli,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Siroli,Approach Road,residential,1452,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Sultanpur-Punhana,Approach Road,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Sultanpur-Punhana,Approach Road,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Sultanpur-Punhana,Approach Road,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Sultanpur-Punhana,Sultanpur-Punhana,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Sunheda,Approach Road,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Sunheda,Approach Road,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Sunheda,Approach Road,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Sunheda,Sunheda,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Sunheda,Sunheda,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Sunheda,Sunheda,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Ted,Approach Road,agricultural,325.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Ted,Approach Road,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Ted,Approach Road,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Ted,Ter,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Ted,Ter,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Ted,Ter,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Teekri,Approach Road,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Teekri,Approach Road,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Teekri,Approach Road,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Teekri,Teekri,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Thek,Approach Road,agricultural,375.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Thek,Approach Road,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Thek,Approach Road,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Thek,Thek,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Thek,Thek,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Thek,Thek,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Thek,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Tigaon,Approach Road,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Tigaon,Approach Road,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Tigaon,Tigaon Any other Road Beyond,agricultural,375.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Tigaon,Tigaon Any other Road up to Depth,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Tigaon,Tigaon Any other Road up to Depth,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Tigaon,Tigaon Any other Road up to Depth,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Tirwada,Tirwada,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Tirwada,Tirwada,residential,2200,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Tirwada,Tirwada,commercial,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Tundlaka,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Tundlaka,Tundlaka,agricultural,329.55,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Tundlaka,Tundlaka,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Tundlaka,Tundlaka,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Tusaini,Approach Road,agricultural,625.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Tusaini,Approach Road,commercial,2750,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Tusaini,Tusaini,agricultural,375.0,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Tusaini,Tusaini,residential,1650,2026-04-01,nuh_gov_in_dc_notification
+Nuh,Punhana,Tusaini,Tusaini,commercial,2200,2026-04-01,nuh_gov_in_dc_notification
