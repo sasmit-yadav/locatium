@@ -356,6 +356,12 @@ function normalizeOptions(query = {}) {
     nearLat: nearLat != null && nearLat !== '' ? Number(nearLat) : null,
     nearLng: nearLng != null && nearLng !== '' ? Number(nearLng) : null,
     nearRadiusKm: Number.isFinite(nearRadiusRaw) && nearRadiusRaw > 0 ? nearRadiusRaw : 25,
+    // Hard ceiling on how many candidates get scored. Interactive callers (the copilot) set
+    // this so a chat turn never blocks on a cold full-district scan; the Investor UI leaves it
+    // unset and keeps full-inventory coverage.
+    candidateCap: Number.isFinite(Number(query.candidateCap)) && Number(query.candidateCap) > 0
+      ? Math.round(Number(query.candidateCap))
+      : null,
   };
 }
 
@@ -621,6 +627,16 @@ async function getOpportunities(query = {}) {
     coverageMode = 'capped_statewide';
   }
 
+  // Interactive cap: score the biggest parcels first so a bounded sample still surfaces the
+  // parcels an investor would actually shortlist.
+  if (options.candidateCap && candidates.length > options.candidateCap) {
+    candidates = candidates
+      .sort((a, b) => (Number(b.areaAcres) || 0) - (Number(a.areaAcres) || 0))
+      .slice(0, options.candidateCap);
+    truncated = true;
+    if (fullDistrict) coverageMode = 'district_sampled';
+  }
+
   const scoredPoolSize = candidates.length;
   let ranked = await rankZones(candidates, options);
 
@@ -643,9 +659,12 @@ async function getOpportunities(query = {}) {
       matchedAfterFilters: ranked.length,
       truncated,
       liteRank: Boolean(options.liteRank),
-      inventoryNote: fullDistrict
-        ? 'Full district scan: every investor-eligible HSIIDC estate, industrial/commercial/institution HSVP plot (≥1000 sqm), and licensed colony was scored. Tiny residential HSVP parcels excluded. First run is slower; later asks use cache.'
-        : 'No district named — statewide mode scores a capped shortlist for speed. Name a district (e.g. Gurugram) for full inventory coverage.',
+      inventoryNote:
+        coverageMode === 'district_sampled'
+          ? `Sampled the ${scoredPoolSize} largest investor-eligible sites in ${options.district} for a fast answer. Open the Investor workspace for the full district inventory.`
+          : fullDistrict
+            ? 'Full district scan: every investor-eligible HSIIDC estate, industrial/commercial/institution HSVP plot (≥1000 sqm), and licensed colony was scored. Tiny residential HSVP parcels excluded. First run is slower; later asks use cache.'
+            : 'No district named — statewide mode scores a capped shortlist for speed. Name a district (e.g. Gurugram) for full inventory coverage.',
     },
     scoredAt: new Date().toISOString(),
     elapsedMs: Date.now() - started,

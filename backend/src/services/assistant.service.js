@@ -1,28 +1,63 @@
 /**
  * Ask LOCATIUM — spatial investment copilot.
- * Multi-turn, fuzzy NLU, multi-tool grounding, LLM + strong rule fallback.
+ *
+ * Turn pipeline:
+ *   memory → overrides → reference resolution → (optional) standalone rewrite
+ *          → grounding (deadline-bounded) → context compaction → LLM (streamed)
+ *          → groundedness verification → memory update + telemetry
+ *
+ * Design commitments:
+ *  - PostGIS/grounding data is the only source of facts; the model narrates, it never supplies numbers.
+ *  - Every stage degrades instead of failing: no LLM → rule-based answer; slow grounding → partial
+ *    answer; failed verification → deterministic answer. A turn always returns something honest.
+ *  - Latency is a feature: tokens stream as they are produced, context is budgeted, and a chat turn
+ *    never blocks on a cold full-district scan.
  */
 
+const crypto = require('crypto');
 const llmAdapter = require('./llm/llm-adapter');
+const telemetry = require('./llm/llm-telemetry');
 const { fetchGroundingContext } = require('./assistant-grounding.service');
+const { renderContext } = require('./assistant-context.service');
+const memoryService = require('./assistant-memory.service');
+const { verifyGrounding } = require('./assistant-guardrail.service');
+const language = require('./assistant-language.service');
+const beginner = require('./assistant-beginner.service');
+const actions = require('./assistant-actions.service');
 
 const SYSTEM_PROMPT = `You are Ask LOCATIUM — the in-map investment copilot for Haryana (India).
-You help users pick industrial / commercial / residential / agri land using ONLY the CONTEXT JSON (live PostGIS scores, circle rates, comps, ranked zones, policy excerpts).
+You help users pick industrial / commercial / residential / agri land using ONLY the LIVE DATA block supplied each turn (PostGIS scores, official circle rates, comps, ranked zones, policy excerpts).
 
 Personality:
 - Sharp analyst + friendly guide. Conversational, not robotic. You may reply in simple English; if the user wrote Hinglish, a light Hinglish mix is OK but keep numbers clear in English numerals.
 - Act like a copilot: interpret messy / jumbled / typo-filled questions; never refuse just because wording is imperfect.
-- Be decisive when data supports it; ask ONE clarifying question only when CONTEXT.clarification is set or critical filters are missing.
+- Be decisive when data supports it; ask ONE clarifying question only when the data block says clarification is needed.
 
 Hard rules:
-- NEVER invent scores, ₹ figures, distances, zone names, or policy claims. If null/missing → say you don't have it in the live dataset.
-- Cite concrete numbers from CONTEXT (scores /100, ₹/sq yd, km, verdicts).
-- When listing zones: name, district, opportunityScore, one land or risk note — max 5.
+- NEVER invent scores, ₹ figures, distances, zone names, or policy claims. Every number you write must appear in the LIVE DATA block. If something is missing → say you don't have it in the live dataset.
+- The LIVE DATA block is always the current truth. If a figure quoted earlier in the conversation differs, silently use the LIVE DATA value — do not argue with yourself, correct the transcript, or point out the discrepancy.
+- NEVER invent illustrative or hypothetical figures ("for example, if the rate were ₹50,000..."). A beginner will read an example number as a real one. Explain with words, or use only numbers from LIVE DATA.
+- Never name a zone that is not listed in RANKED ZONES.
+- Cite concrete numbers from the data (scores /100, ₹/sq yd, km, verdicts).
+- When listing zones: name, district, opportunityScore, one land or risk note — max 5. Refer to them by their #number so the user can follow up.
+- If two listed zones share the same name, keep the distinguishing detail the data gives them (e.g. parcel size) so the user can tell them apart.
 - Offer a concrete next step (fly to zone, open Investor, click map, tighten budget).
-- Keep answers tight: ~80–180 words unless user asked for deep breakdown.
+- Keep answers tight: ~80–180 words unless the user asked for a deep breakdown. Brevity is latency.
 - No markdown headers. Short bullets OK for zone lists.
-- If CONTEXT.howItWorks is present, explain methodology from that object only.
-- If CONTEXT.clarification.needed, ask that question and suggest the provided chips.`;
+
+Speaking to beginners:
+- Many users have never bought land before. Never assume they know jargon (circle rate, CLU, HSIIDC, sq yd). If you use a term, gloss it in half a clause.
+- When a GLOSSARY block is provided, use its wording for definitions — do not improvise legal or regulatory meanings.
+- If the user says they are new, orient them in one short paragraph and offer one concrete first step. Do not dump a feature tour.
+- You are a screening aid, not a valuer or legal adviser. If asked whether to buy, give the evidence and say the decision needs professional due diligence.
+- Reply in the language named in the LANGUAGE line. Numbers, ₹ amounts, units and place names always stay in Latin script/numerals.`;
+
+const CACHE_TTL_MS = Number(process.env.ASSISTANT_ANSWER_CACHE_TTL_MS) || 5 * 60 * 1000;
+const CACHE_MAX = 200;
+const ANSWER_CACHE = new Map();
+
+const LLM_TIMEOUT_MS = Number(process.env.ASSISTANT_LLM_TIMEOUT_MS) || 20000;
+const LLM_MAX_TOKENS = Number(process.env.ASSISTANT_LLM_MAX_TOKENS) || 420;
 
 function formatInr(n) {
   if (n == null || Number.isNaN(Number(n))) return null;
@@ -106,16 +141,23 @@ function buildFollowUps(context) {
   return [...new Set(chips)].slice(0, 4);
 }
 
-function buildSessionPatch(context) {
-  return {
-    lastIntent: context.primaryIntent,
-    sector: context.sector,
-    district: context.district || undefined,
-    budgetInr: context.budgetInr || undefined,
-  };
-}
-
 function ruleBasedAnswer(query, context) {
+  // Definitions answer from the vetted glossary — works with no LLM and no map pin.
+  // Uses the user's language: a Hindi question must not get an English fallback.
+  if (context.glossary?.length) {
+    const hindi = context.replyLanguage === 'hi';
+    const parts = [];
+    for (const t of context.glossary.slice(0, 2)) {
+      parts.push(`${t.term}: ${hindi ? t.hi : `${t.en} ${t.why}`}`);
+    }
+    parts.push(
+      hindi
+        ? 'अब किसी जगह का स्कोर पूछें, या ज़िले का नाम बताएं।'
+        : 'Ask me to score a specific place next, or name a district to see options.'
+    );
+    return parts.join('\n');
+  }
+
   if (context.clarification?.needed) {
     return context.clarification.question;
   }
@@ -222,25 +264,37 @@ function ruleBasedAnswer(query, context) {
   return parts.join('\n');
 }
 
-function historyToPrompt(history = []) {
-  return (history || [])
-    .slice(-8)
-    .map((m) => `${m.role === 'user' ? 'User' : 'Copilot'}: ${String(m.content || m.text || '').slice(0, 500)}`)
-    .join('\n');
+/* ------------------------------------------------------------------ */
+/* answer cache — exact key over (question + live-data fingerprint)     */
+/* Deliberately NOT semantic: serving a near-miss answer with the wrong */
+/* rupee figure is worse than recomputing.                             */
+/* ------------------------------------------------------------------ */
+
+function fingerprint(...parts) {
+  return crypto.createHash('sha1').update(parts.join('||')).digest('hex').slice(0, 20);
 }
 
-async function ask({
-  query,
-  lat,
-  lng,
-  sector,
-  district,
-  zoneIds,
-  history = [],
-  session = {},
-  stream = false,
-}) {
-  const started = Date.now();
+function cacheGet(key) {
+  const hit = ANSWER_CACHE.get(key);
+  if (!hit) return null;
+  if (Date.now() - hit.at > CACHE_TTL_MS) {
+    ANSWER_CACHE.delete(key);
+    return null;
+  }
+  return hit.value;
+}
+
+function cacheSet(key, value) {
+  ANSWER_CACHE.set(key, { at: Date.now(), value });
+  if (ANSWER_CACHE.size > CACHE_MAX) {
+    ANSWER_CACHE.delete(ANSWER_CACHE.keys().next().value);
+  }
+}
+
+/** Shared per-turn setup: memory, references, rewrite, grounding, prompt assembly. */
+async function prepareTurn(input = {}) {
+  const { query, lat, lng, sector, district, zoneIds, history, session, signal } = input;
+  const startedAt = Date.now();
   const q = String(query || '').trim();
   if (!q) {
     const err = new Error('query is required');
@@ -248,77 +302,162 @@ async function ask({
     throw err;
   }
 
-  const context = await fetchGroundingContext({
-    query: q,
-    lat,
-    lng,
-    sector,
-    district,
-    zoneIds,
-    session,
-  });
+  const memory = memoryService.normalizeMemory(session || {});
+  const { state: overriddenState, cleared } = memoryService.applyOverrides(q, memory.state);
+  memory.state = overriddenState;
 
-  const mapActions = buildMapActions(context);
-  const followUps = buildFollowUps(context);
-  const sessionPatch = buildSessionPatch(context);
-  const disclaimer =
-    'Grounded on live LOCATIUM data — verify on the map and official sources before decisions.';
+  // Language: mirror whatever the user wrote in. An explicit UI preference wins.
+  const detected = language.detectLanguage(q);
+  const replyLanguage = input.language || detected.language;
 
-  let answer;
-  let method = 'rule_based';
-  let provider = null;
-  let model = null;
+  // Glossary keys and beginner signals are English, so detection runs on the bridged form —
+  // otherwise "सर्कल रेट क्या होता है?" matches nothing and falls through to a clarification.
+  const bridgedQ = language.bridgeToEnglishTokens(q);
+  const detectionText = `${q} ${bridgedQ}`;
 
-  const useLlm = llmAdapter.isEnabled() && !context.clarification?.needed;
+  // Beginner signals + jargon the user is likely stuck on.
+  const isNewUser = beginner.isBeginner(detectionText, memory);
+  const glossaryTerms = beginner.detectTerms(detectionText);
 
-  // Never let the model invent a shortlist when grounding returned zero zones.
-  const emptyShortlist =
-    context.intents?.includes('opportunities') &&
-    !context.clarification?.needed &&
-    !(context.opportunities && context.opportunities.length);
+  // Deterministic reference resolution first — free and exact.
+  const refs = memoryService.resolveReferences(q, memory);
 
-  if (useLlm && !emptyShortlist) {
-    try {
-      const transcript = historyToPrompt(history);
-      const llmResult = await llmAdapter.complete({
-        systemPrompt: SYSTEM_PROMPT,
-        userPrompt: [
-          transcript ? `RECENT CHAT:\n${transcript}\n` : '',
-          `USER NOW:\n${q}`,
-          `\nCONTEXT JSON (authoritative — do not invent beyond this):\n${JSON.stringify(context)}`,
-          '\nIf opportunities is empty, say no match — do NOT invent zone names.',
-        ]
-          .filter(Boolean)
-          .join('\n'),
-        maxTokens: 900,
-        temperature: 0.2,
-        timeoutMs: 12000,
-      });
-      answer = llmResult.text;
-      method = 'llm';
-      provider = llmResult.provider;
-      model = llmResult.model;
-    } catch {
-      answer = ruleBasedAnswer(q, context);
-      method = 'rule_based_fallback';
-    }
-  } else {
-    answer = ruleBasedAnswer(q, context);
-    if (context.clarification?.needed) method = 'clarify';
-    else if (emptyShortlist) method = 'rule_based';
+  // Only pay for an LLM rewrite when the turn genuinely leans on prior context.
+  let effectiveQuery = refs.rewritten || q;
+  let rewriteInfo = { rewritten: false };
+  if (!refs.rewritten && memoryService.needsQueryRewrite(q, memory)) {
+    rewriteInfo = await memoryService.rewriteStandalone({
+      query: q,
+      history,
+      memory,
+      signal,
+    });
+    if (rewriteInfo.rewritten) effectiveQuery = rewriteInfo.query;
   }
 
+  // The intent matcher is English-pattern based and JS `\w` is ASCII-only, so Devanagari has to be
+  // bridged to English tokens before NLU. The original text still goes to the model verbatim.
+  const nluQuery = language.bridgeToEnglishTokens(effectiveQuery);
+
+  const groundingStarted = Date.now();
+  const context = await fetchGroundingContext({
+    query: nluQuery,
+    lat,
+    lng,
+    // Carried state fills gaps the current sentence omitted.
+    sector: sector || memory.state.sector || undefined,
+    district: cleared.includes('district') ? undefined : district || memory.state.district || undefined,
+    zoneIds: refs.zoneIds.length ? refs.zoneIds : zoneIds,
+    session: {
+      lastIntent: memory.lastIntent,
+      sector: memory.state.sector,
+      district: cleared.includes('district') ? null : memory.state.district,
+      budgetInr: cleared.includes('budgetInr') ? null : memory.state.budgetInr,
+    },
+  });
+  const groundingMs = Date.now() - groundingStarted;
+
+  // A definition question ("what is circle rate?") needs no map pin. The NLU treats land/score
+  // intents without a location as under-specified, which is right for "what's the rate here" but
+  // wrong for "what does rate mean" — so a recognised glossary question overrides the clarification.
+  const isGlossaryQuestion =
+    glossaryTerms.length > 0 && beginner.isDefinitionQuestion(detectionText);
+  if (isGlossaryQuestion && context.clarification?.needed) {
+    context.clarification = { needed: false };
+    context.notes = (context.notes || []).filter((n) => !/click a point on the map/i.test(n));
+  }
+  if (isGlossaryQuestion) {
+    context.glossary = glossaryTerms;
+    if (!context.primaryIntent || context.primaryIntent === 'help') context.primaryIntent = 'explain';
+  }
+  // Deterministic fallbacks need the language too, so a blocked Hindi answer stays Hindi.
+  context.replyLanguage = replyLanguage;
+
+  // "I'm new, where do I start?" should get oriented, not interrogated for a district.
+  if (isNewUser && context.clarification?.needed && !context.district && !context.budgetInr) {
+    context.clarification = { needed: false };
+    context.primaryIntent = 'help';
+    // Must also drop the opportunities intent, or the empty-shortlist guard forces the
+    // deterministic answer and the user loses a reply in their own language.
+    context.intents = ['help'];
+    context.notes = [
+      'New user asking how to begin. Explain in 2-3 sentences what this tool does (scores any location in Haryana for industrial/residential/commercial/agri use, shows official government land rates, and ranks available sites), then give ONE concrete first step. Do not list features.',
+    ];
+  }
+
+  const base = renderContext(context);
+
+  // Language directive and glossary ride with the live data (end of prompt), so the stable system
+  // prompt stays byte-identical and cacheable across turns.
+  const preamble = [
+    `LANGUAGE: ${language.replyLanguageInstruction(replyLanguage)}`,
+    isNewUser ? 'USER IS NEW: orient them briefly and offer one concrete first step.' : null,
+    beginner.renderGlossary(glossaryTerms, replyLanguage),
+  ]
+    .filter(Boolean)
+    .join('\n');
+
+  const rendered = {
+    ...base,
+    text: `${preamble}\n${base.text}`,
+  };
+
+  const proposed = actions.proposeActions(context, {
+    authenticated: Boolean(input.authenticated),
+    beginner: isNewUser,
+  });
+
+  return {
+    q,
+    effectiveQuery,
+    memory,
+    refs,
+    rewriteInfo,
+    context,
+    rendered,
+    groundingMs,
+    startedAt,
+    replyLanguage,
+    detectedLanguage: detected,
+    isNewUser,
+    glossaryTerms,
+    proposed,
+  };
+}
+
+function turnEnvelope({ context, memory, refs, rewriteInfo, rendered, groundingMs, startedAt, answer, method, provider, model, usage, ttftMs, guardrail, cacheHit, nextMemory, replyLanguage, detectedLanguage, isNewUser, glossaryTerms, proposed }) {
+  const lang = replyLanguage || 'en';
   return {
     answer,
     method,
-    provider,
-    model,
+    provider: provider || null,
+    model: model || null,
     intent: context.primaryIntent,
     intents: context.intents,
-    disclaimer,
-    mapActions,
-    followUps,
-    session: sessionPatch,
+    language: {
+      reply: lang,
+      detected: detectedLanguage?.language || lang,
+      confidence: detectedLanguage?.confidence ?? null,
+      // Voice output needs a BCP-47 tag for speechSynthesis.
+      speechLocale: lang === 'hi' ? 'hi-IN' : 'en-IN',
+    },
+    beginner: {
+      isNew: Boolean(isNewUser),
+      starters: isNewUser ? beginner.starterPrompts(lang) : [],
+      terms: (glossaryTerms || []).map((t) => ({
+        term: t.term,
+        explanation: lang === 'hi' ? t.hi : t.en,
+        why: t.why,
+      })),
+    },
+    disclaimer:
+      'Grounded on live LOCATIUM data — verify on the map and official sources before decisions.',
+    // Read-only, safe to run on click.
+    mapActions: proposed?.actions?.length ? proposed.actions : buildMapActions(context),
+    // Mutating — the UI must ask before firing these.
+    actionProposals: proposed?.proposals || [],
+    followUps: buildFollowUps(context),
+    session: nextMemory,
     contextSummary: {
       sector: context.sector,
       district: context.district,
@@ -331,7 +470,24 @@ async function ask({
       coverage: context.coverage || null,
       totalCandidates: context.totalCandidates ?? null,
       totalMatched: context.totalMatched ?? null,
+      partial: Boolean(context.partial),
     },
+    resolvedReferences: refs.refs.length
+      ? { refs: refs.refs, names: refs.resolvedNames }
+      : null,
+    queryRewrite: rewriteInfo.rewritten
+      ? { original: rewriteInfo.original, rewritten: rewriteInfo.query }
+      : null,
+    grounding: {
+      contextTokens: rendered.approxTokens,
+      dropped: rendered.dropped,
+      elapsedMs: groundingMs,
+      partial: Boolean(context.partial),
+    },
+    guardrail: guardrail
+      ? { severity: guardrail.severity, checked: guardrail.checked }
+      : null,
+    cacheHit: Boolean(cacheHit),
     opportunities: (context.opportunities || []).slice(0, 6),
     scoredLocation: context.scoredLocation
       ? {
@@ -340,9 +496,338 @@ async function ask({
           landValue: context.scoredLocation.landValue,
         }
       : null,
-    elapsedMs: Date.now() - started,
-    stream,
+    usage: usage || null,
+    ttftMs: ttftMs ?? null,
+    elapsedMs: Date.now() - startedAt,
   };
 }
 
-module.exports = { ask, ruleBasedAnswer, buildMapActions, buildFollowUps };
+/** True when the model must not be trusted to narrate (nothing to narrate from). */
+function mustUseDeterministic(context) {
+  if (context.clarification?.needed) return 'clarify';
+  if (
+    context.intents?.includes('opportunities') &&
+    !(context.opportunities && context.opportunities.length)
+  ) {
+    return 'rule_based'; // no shortlist → model would be tempted to invent zones
+  }
+  return null;
+}
+
+/**
+ * Non-streaming turn. Kept for callers that want one JSON blob (tests, scripts, PDF flows).
+ */
+async function ask(input = {}) {
+  const prep = await prepareTurn(input);
+  const { q, context, rendered, memory, refs, rewriteInfo, groundingMs, startedAt } = prep;
+
+  const deterministicReason = mustUseDeterministic(context);
+  const useLlm = llmAdapter.isEnabled() && !deterministicReason;
+
+  const cacheKey = fingerprint(q.toLowerCase(), rendered.text);
+  if (useLlm) {
+    const cached = cacheGet(cacheKey);
+    if (cached) {
+      const nextMemory = memoryService.updateMemory({
+        memory,
+        context,
+        opportunities: context.opportunities || [],
+      });
+      telemetry.recordTurn({
+        method: 'llm_cached',
+        totalMs: Date.now() - startedAt,
+        groundingMs,
+        cacheHit: true,
+      });
+      return turnEnvelope({
+        ...prep,
+        answer: cached.answer,
+        method: 'llm_cached',
+        provider: cached.provider,
+        model: cached.model,
+        guardrail: cached.guardrail,
+        cacheHit: true,
+        nextMemory,
+        ttftMs: 0,
+      });
+    }
+  }
+
+  let answer;
+  let method = 'rule_based';
+  let provider = null;
+  let model = null;
+  let usage = null;
+  let ttftMs = null;
+  let guardrail = null;
+
+  if (useLlm) {
+    try {
+      const res = await llmAdapter.complete({
+        systemPrompt: SYSTEM_PROMPT,
+        messages: memoryService.buildMessages({
+          history: input.history || [],
+          memory,
+          contextText: rendered.text,
+          query: prep.effectiveQuery,
+        }),
+        maxTokens: LLM_MAX_TOKENS,
+        temperature: 0.2,
+        timeoutMs: LLM_TIMEOUT_MS,
+        signal: input.signal,
+      });
+      guardrail = verifyGrounding(res.text, rendered.text);
+      if (guardrail.severity === 'block') {
+        // Model asserted a number or zone that isn't in the live data — do not ship it.
+        answer = ruleBasedAnswer(q, context);
+        method = 'rule_based_guardrail';
+      } else {
+        answer = res.text;
+        method = 'llm';
+        provider = res.provider;
+        model = res.model;
+        usage = res.usage;
+        ttftMs = res.ttftMs;
+        cacheSet(cacheKey, { answer, provider, model, guardrail });
+      }
+    } catch (err) {
+      answer = ruleBasedAnswer(q, context);
+      method = 'rule_based_fallback';
+      telemetry.recordTurn({ method, error: err.message, groundingMs });
+    }
+  } else {
+    answer = ruleBasedAnswer(q, context);
+    method = deterministicReason === 'clarify' ? 'clarify' : 'rule_based';
+  }
+
+  const summary = await memoryService.maybeSummarize({
+    history: input.history || [],
+    memory,
+    signal: input.signal,
+  });
+  const nextMemory = memoryService.updateMemory({
+    memory,
+    context,
+    summary,
+    opportunities: context.opportunities || [],
+  });
+
+  telemetry.recordTurn({
+    method,
+    model,
+    ttftMs,
+    totalMs: Date.now() - startedAt,
+    groundingMs,
+    promptTokens: usage?.prompt_tokens,
+    completionTokens: usage?.completion_tokens,
+    cacheHit: false,
+  });
+
+  return turnEnvelope({
+    ...prep,
+    answer,
+    method,
+    provider,
+    model,
+    usage,
+    ttftMs,
+    guardrail,
+    nextMemory,
+  });
+}
+
+/**
+ * Streaming turn. Yields, in order:
+ *   {type:'status'}   pipeline phase for the UI
+ *   {type:'meta'}     everything the UI needs to render cards/actions (before text)
+ *   {type:'token'}    real model tokens as they arrive
+ *   {type:'guardrail'} only if verification rejected the streamed text
+ *   {type:'final'}    complete envelope
+ *
+ * Tokens are streamed optimistically: verification runs on the finished text, and a violation
+ * emits a correction rather than silently shipping an ungrounded number. Violations should be
+ * rare, so the common path keeps Groq's sub-100ms first token.
+ */
+async function* askStream(input = {}) {
+  yield { type: 'status', phase: 'understanding' };
+
+  const prep = await prepareTurn(input);
+  const { q, context, rendered, memory, groundingMs, startedAt } = prep;
+
+  if (prep.rewriteInfo.rewritten) {
+    yield { type: 'status', phase: 'rewritten', detail: prep.effectiveQuery };
+  }
+  yield { type: 'status', phase: 'grounded', contextTokens: rendered.approxTokens };
+
+  const deterministicReason = mustUseDeterministic(context);
+  const useLlm = llmAdapter.isEnabled() && !deterministicReason;
+
+  const emitFinal = async ({ answer, method, provider, model, usage, ttftMs, guardrail, cacheHit }) => {
+    const summary = await memoryService.maybeSummarize({
+      history: input.history || [],
+      memory,
+      signal: input.signal,
+    });
+    const nextMemory = memoryService.updateMemory({
+      memory,
+      context,
+      summary,
+      opportunities: context.opportunities || [],
+    });
+    telemetry.recordTurn({
+      method,
+      model,
+      ttftMs,
+      totalMs: Date.now() - startedAt,
+      groundingMs,
+      promptTokens: usage?.prompt_tokens,
+      completionTokens: usage?.completion_tokens,
+      cacheHit,
+    });
+    return turnEnvelope({ ...prep, answer, method, provider, model, usage, ttftMs, guardrail, cacheHit, nextMemory });
+  };
+
+  // Meta first so the UI can paint score cards / zone list while text streams in.
+  const provisional = await (async () => {
+    const nextMemory = memoryService.updateMemory({
+      memory,
+      context,
+      opportunities: context.opportunities || [],
+    });
+    return turnEnvelope({
+      ...prep,
+      answer: '',
+      method: useLlm ? 'llm' : 'rule_based',
+      nextMemory,
+    });
+  })();
+  yield { type: 'meta', payload: provisional };
+
+  if (!useLlm) {
+    const answer = ruleBasedAnswer(q, context);
+    yield { type: 'token', text: answer };
+    yield {
+      type: 'final',
+      payload: await emitFinal({
+        answer,
+        method: deterministicReason === 'clarify' ? 'clarify' : 'rule_based',
+      }),
+    };
+    return;
+  }
+
+  const cacheKey = fingerprint(q.toLowerCase(), rendered.text);
+  const cached = cacheGet(cacheKey);
+  if (cached) {
+    yield { type: 'token', text: cached.answer };
+    yield {
+      type: 'final',
+      payload: await emitFinal({
+        answer: cached.answer,
+        method: 'llm_cached',
+        provider: cached.provider,
+        model: cached.model,
+        guardrail: cached.guardrail,
+        cacheHit: true,
+        ttftMs: 0,
+      }),
+    };
+    return;
+  }
+
+  let full = '';
+  let done = null;
+  try {
+    const stream = llmAdapter.streamChat({
+      systemPrompt: SYSTEM_PROMPT,
+      messages: memoryService.buildMessages({
+        history: input.history || [],
+        memory,
+        contextText: rendered.text,
+        query: prep.effectiveQuery,
+      }),
+      maxTokens: LLM_MAX_TOKENS,
+      temperature: 0.2,
+      timeoutMs: LLM_TIMEOUT_MS,
+      signal: input.signal,
+    });
+
+    for await (const chunk of stream) {
+      if (chunk.type === 'token') {
+        full += chunk.text;
+        yield chunk;
+      } else if (chunk.type === 'done') {
+        done = chunk;
+      }
+    }
+  } catch (err) {
+    // Nothing usable streamed — fall back cleanly.
+    if (!full.trim()) {
+      const answer = ruleBasedAnswer(q, context);
+      yield { type: 'token', text: answer };
+      yield {
+        type: 'final',
+        payload: await emitFinal({ answer, method: 'rule_based_fallback' }),
+      };
+      return;
+    }
+    yield { type: 'status', phase: 'stream_interrupted' };
+  }
+
+  const guardrail = verifyGrounding(full, rendered.text);
+  if (guardrail.severity === 'block') {
+    const grounded = ruleBasedAnswer(q, context);
+    yield {
+      type: 'guardrail',
+      severity: guardrail.severity,
+      message:
+        'Some figures above could not be verified against the live dataset, so here is the verified version:',
+      replacement: grounded,
+      checked: guardrail.checked,
+    };
+    yield {
+      type: 'final',
+      payload: await emitFinal({
+        answer: grounded,
+        method: 'rule_based_guardrail',
+        provider: done?.provider,
+        model: done?.model,
+        usage: done?.usage,
+        ttftMs: done?.ttftMs,
+        guardrail,
+      }),
+    };
+    return;
+  }
+
+  if (full.trim()) {
+    cacheSet(cacheKey, {
+      answer: full,
+      provider: done?.provider,
+      model: done?.model,
+      guardrail,
+    });
+  }
+
+  yield {
+    type: 'final',
+    payload: await emitFinal({
+      answer: full,
+      method: 'llm',
+      provider: done?.provider,
+      model: done?.model,
+      usage: done?.usage,
+      ttftMs: done?.ttftMs,
+      guardrail,
+    }),
+  };
+}
+
+module.exports = {
+  ask,
+  askStream,
+  ruleBasedAnswer,
+  buildMapActions,
+  buildFollowUps,
+  SYSTEM_PROMPT,
+};

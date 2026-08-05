@@ -9,25 +9,43 @@ import {
   RotateCcw,
   Maximize2,
   Minimize2,
+  Mic,
+  Square,
+  Volume2,
+  VolumeX,
+  Languages,
+  BookOpen,
+  Check,
 } from 'lucide-react';
-import { askLocatium } from '../services/assistant';
+import { askLocatiumStream } from '../services/assistant';
+import {
+  startRecording,
+  transcribeAudio,
+  isRecordingSupported,
+  speak,
+  stopSpeaking,
+  isSpeechSupported,
+} from '../services/voice';
 import { useDashboardStore } from '../stores/useDashboardStore';
 
+// Ordered for a first-time visitor: orientation, then budget, then vocabulary, then analysis.
 const STARTER_CHIPS = [
+  'I am new — how does this work?',
+  'I have ₹2 crore, where should I look?',
+  'What is a circle rate?',
   'ye jagah industrial ke liye kaisi hai?',
+  'सर्कल रेट क्या होता है?',
   'gurgaon me best warehouse under 5 cr',
-  'kitna land rate hai yaha',
-  'faridabad vs sonipat industrial',
-  'CLU / HSIIDC policy batao',
-  'How is the score calculated?',
 ];
 
 function MethodChip({ method }) {
   if (!method) return null;
   const map = {
     llm: 'AI copilot · grounded',
+    llm_cached: 'AI copilot · cached',
     rule_based: 'Live data copilot',
     rule_based_fallback: 'Data fallback',
+    rule_based_guardrail: 'Verified data only',
     clarify: 'Need a detail',
     error: 'Error',
   };
@@ -107,7 +125,7 @@ export function AskLocatiumWidget() {
   const [messages, setMessages] = useState([
     {
       role: 'assistant',
-      text: "I'm your LOCATIUM copilot. Ask anything about this map — scores, land ₹, zones, policy — in English or Hinglish, even if the wording is messy. Click the map for “yaha / this site” questions.",
+      text: "Hi — I'm your LOCATIUM copilot. If you've never bought land before, that's fine: ask me anything in plain words and I'll explain as we go. Type or tap the mic, in English, हिंदी or Hinglish. Click anywhere on the map to ask about that spot.",
       method: null,
       actions: [],
       followUps: STARTER_CHIPS.slice(0, 4),
@@ -116,6 +134,17 @@ export function AskLocatiumWidget() {
   const listRef = useRef(null);
   const inputRef = useRef(null);
   const abortRef = useRef(null);
+  const recorderRef = useRef(null);
+
+  // Voice + language state
+  const [recording, setRecording] = useState(false);
+  const [transcribing, setTranscribing] = useState(false);
+  const [speakReplies, setSpeakReplies] = useState(false);
+  const [speakingNow, setSpeakingNow] = useState(false);
+  const [langPref, setLangPref] = useState('auto'); // auto | en | hi
+  const [voiceError, setVoiceError] = useState('');
+  const canRecord = isRecordingSupported();
+  const canSpeak = isSpeechSupported();
 
   const selectedLocation = useDashboardStore((s) => s.selectedLocation);
   const view = useDashboardStore((s) => s.view);
@@ -160,7 +189,97 @@ export function AskLocatiumWidget() {
     }
   }
 
+  /**
+   * Mutating actions are confirmed here. Rather than persist from the chat (and risk saving
+   * something the user did not mean), we open the real workspace where the action belongs and
+   * say so — the copilot sets things up, the user completes it deliberately.
+   */
+  function runProposal(proposal, msgIdx) {
+    if (rightCollapsed) toggleRight();
+    const target = proposal.kind === 'export' ? 'investor' : 'investor';
+    setActiveInspectorTab(target);
+
+    const note =
+      proposal.type === 'generateReport'
+        ? 'Opened the Investor workspace — use Report on the selected zone to produce the PDF.'
+        : proposal.type === 'addToPipeline'
+          ? 'Opened the Investor workspace — add this zone to your pipeline from the zone card.'
+          : proposal.type === 'createAlert' || proposal.type === 'saveSearch'
+            ? 'Opened the Investor workspace — save the filters or alert from the filter bar.'
+            : 'Opened the Investor workspace to finish this.';
+
+    setMessages((prev) => {
+      const next = [...prev];
+      const m = next[msgIdx];
+      if (!m) return prev;
+      next[msgIdx] = {
+        ...m,
+        proposals: (m.proposals || []).filter((p) => p.type !== proposal.type),
+        actionNote: note,
+      };
+      return next;
+    });
+  }
+
+  // Stop any narration when the widget closes or unmounts — audio must never outlive the UI.
+  useEffect(() => {
+    if (!open) stopSpeaking();
+  }, [open]);
+  useEffect(() => () => stopSpeaking(), []);
+
+  async function toggleRecording() {
+    setVoiceError('');
+    if (recording) {
+      const rec = recorderRef.current;
+      recorderRef.current = null;
+      setRecording(false);
+      if (!rec) return;
+      setTranscribing(true);
+      try {
+        const blob = await rec.stop();
+        const result = await transcribeAudio(blob, {
+          language: langPref === 'auto' ? undefined : langPref,
+        });
+        const text = String(result.text || '').trim();
+        if (!text) {
+          setVoiceError('Did not catch that — try again.');
+          return;
+        }
+        // Send straight through: for a voice user, transcribe-then-ask should feel like one action.
+        submit(text);
+      } catch (err) {
+        setVoiceError(err.message);
+      } finally {
+        setTranscribing(false);
+      }
+      return;
+    }
+
+    try {
+      stopSpeaking();
+      recorderRef.current = await startRecording();
+      setRecording(true);
+    } catch (err) {
+      setVoiceError(err.message);
+      setRecording(false);
+    }
+  }
+
+  function narrate(text, locale) {
+    if (!speakReplies || !canSpeak || !text) return;
+    speak(text, {
+      locale: locale || 'en-IN',
+      onStart: () => setSpeakingNow(true),
+      onEnd: () => setSpeakingNow(false),
+      onError: (e) => {
+        setSpeakingNow(false);
+        setVoiceError(e.message);
+      },
+    });
+  }
+
   function resetChat() {
+    stopSpeaking();
     setSession({});
     setMessages([
       {
@@ -173,102 +292,128 @@ export function AskLocatiumWidget() {
     ]);
   }
 
+  const PHASE_LABELS = {
+    understanding: 'Understanding your ask…',
+    rewritten: 'Resolving what you referred to…',
+    grounded: 'Reading live scores & rates…',
+    stream_interrupted: 'Connection hiccup — finishing up…',
+  };
+
   async function submit(text) {
     const query = String(text || input).trim();
     if (!query || busy) return;
 
     setInput('');
-    setMessages((prev) => [...prev, { role: 'user', text: query }]);
+    const history = messages
+      .filter((m) => m.role === 'user' || m.role === 'assistant')
+      .slice(-8)
+      .map((m) => ({ role: m.role, content: m.text }));
+
+    // Append the user turn plus an empty assistant turn that tokens stream into.
+    setMessages((prev) => [
+      ...prev,
+      { role: 'user', text: query },
+      { role: 'assistant', text: '', streaming: true, actions: [], followUps: [] },
+    ]);
     setBusy(true);
-    setPhase('Understanding your ask…');
+    setPhase(PHASE_LABELS.understanding);
 
     if (abortRef.current) abortRef.current.abort();
     abortRef.current = new AbortController();
-    // Full Gurugram scan can exceed 2 minutes on cold cache; don't kill the request early.
-    const softTimer = setTimeout(() => {
-      setPhase('Still scanning every eligible site in the district — first run is slow, then cached…');
-    }, 8000);
-    const hardTimer = setTimeout(() => {
-      abortRef.current?.abort();
-    }, 9 * 60 * 1000);
+
+    // Update the trailing assistant message in place as the stream arrives.
+    const patchLast = (patch) => {
+      setMessages((prev) => {
+        const next = [...prev];
+        for (let i = next.length - 1; i >= 0; i -= 1) {
+          if (next[i].role === 'assistant') {
+            next[i] = { ...next[i], ...(typeof patch === 'function' ? patch(next[i]) : patch) };
+            break;
+          }
+        }
+        return next;
+      });
+    };
 
     try {
       const lat = selectedLocation?.lat ?? view?.lat;
       const lng = selectedLocation?.lng ?? view?.lng;
-      const history = messages
-        .filter((m) => m.role === 'user' || m.role === 'assistant')
-        .slice(-8)
-        .map((m) => ({ role: m.role, content: m.text }));
 
-      const looksDistrict = /\b(gurgaon|gurugram|faridabad|sonipat|sonepat|rewari|jhajjar|district|zone|warehouse|best|under\s+\d+\s*cr)\b/i.test(
-        query
-      );
-      setPhase(
-        looksDistrict
-          ? 'Scanning all investor-eligible sites in that district (full inventory)…'
-          : 'Pulling live scores & ranks…'
-      );
-      const result = await askLocatium(
+      await askLocatiumStream(
         {
           query,
           lat,
           lng,
-          sector: session.sector || 'industrial',
-          district: session.district,
+          sector: session?.state?.sector || 'industrial',
+          district: session?.state?.district,
           history,
           session,
+          language: langPref === 'auto' ? undefined : langPref,
         },
-        { signal: abortRef.current.signal }
-      );
-
-      if (result.session) {
-        setSession((prev) => ({ ...prev, ...result.session }));
-      }
-
-      setMessages((prev) => [
-        ...prev,
         {
-          role: 'assistant',
-          text: result.answer,
-          method: result.method,
-          disclaimer: result.disclaimer,
-          actions: result.mapActions || [],
-          followUps: result.followUps || [],
-          opportunities: result.opportunities || [],
-          scoredLocation: result.scoredLocation,
-          intents: result.intents,
-        },
-      ]);
-
-      const hl = result.mapActions?.find((a) => a.type === 'highlightOpportunities');
-      if (hl?.highlights?.length) setInvestorHighlights(hl.highlights);
+          signal: abortRef.current.signal,
+          onStatus: (phase) => setPhase(PHASE_LABELS[phase] || 'Working…'),
+          onMeta: (meta) => {
+            // Cards, map actions and chips can render before the prose finishes.
+            patchLast({
+              method: meta.method,
+              disclaimer: meta.disclaimer,
+              actions: meta.mapActions || [],
+              opportunities: meta.opportunities || [],
+              scoredLocation: meta.scoredLocation,
+              intents: meta.intents,
+              resolvedReferences: meta.resolvedReferences,
+            });
+            const hl = meta.mapActions?.find((a) => a.type === 'highlightOpportunities');
+            if (hl?.highlights?.length) setInvestorHighlights(hl.highlights);
+          },
+          onToken: (chunk) => {
+            setPhase('');
+            patchLast((cur) => ({ text: (cur.text || '') + chunk }));
+          },
+          onGuardrail: (g) => {
+            // Streamed text contained a figure we could not verify — show the verified version.
+            patchLast({
+              text: g.replacement,
+              guardrailNote: g.message,
+              method: 'rule_based_guardrail',
+            });
+          },
+          onFinal: (final) => {
+            if (final.session) setSession(final.session);
+            patchLast({
+              text: final.answer,
+              method: final.method,
+              disclaimer: final.disclaimer,
+              actions: final.mapActions || [],
+              proposals: final.actionProposals || [],
+              followUps: final.beginner?.isNew && final.beginner.starters?.length
+                ? final.beginner.starters
+                : final.followUps || [],
+              opportunities: final.opportunities || [],
+              scoredLocation: final.scoredLocation,
+              intents: final.intents,
+              terms: final.beginner?.terms || [],
+              streaming: false,
+              partial: final.contextSummary?.partial,
+              elapsedMs: final.elapsedMs,
+            });
+            narrate(final.answer, final.language?.speechLocale);
+          },
+        }
+      );
     } catch (err) {
       if (err.name === 'AbortError') {
-        setMessages((prev) => [
-          ...prev,
-          {
-            role: 'assistant',
-            text: 'Scan timed out after ~9 minutes. Retry once — after the first full district scan finishes, answers are fast from cache.',
-            method: 'error',
-            actions: [],
-            followUps: STARTER_CHIPS.slice(0, 3),
-          },
-        ]);
+        patchLast({ streaming: false });
         return;
       }
-      setMessages((prev) => [
-        ...prev,
-        {
-          role: 'assistant',
-          text: `Couldn’t reach the copilot — ${err.message}. Try again, or use Investor filters on the right.`,
-          method: 'error',
-          actions: [],
-          followUps: STARTER_CHIPS.slice(0, 3),
-        },
-      ]);
+      patchLast({
+        text: `Couldn’t reach the copilot — ${err.message}. Try again, or use Investor filters on the right.`,
+        method: 'error',
+        streaming: false,
+        followUps: STARTER_CHIPS.slice(0, 3),
+      });
     } finally {
-      clearTimeout(softTimer);
-      clearTimeout(hardTimer);
       setBusy(false);
       setPhase('');
     }
@@ -318,6 +463,34 @@ export function AskLocatiumWidget() {
             <div className="flex shrink-0 items-center gap-1">
               <button
                 type="button"
+                onClick={() => {
+                  const next = langPref === 'auto' ? 'en' : langPref === 'en' ? 'hi' : 'auto';
+                  setLangPref(next);
+                }}
+                className="flex items-center gap-1 rounded-lg px-1.5 py-1.5 text-[10px] font-semibold uppercase text-ds-text-tertiary hover:bg-ds-surface-sunken hover:text-ds-text-primary"
+                title="Answer language — Auto matches how you write"
+              >
+                <Languages size={14} />
+                {langPref === 'auto' ? 'Auto' : langPref === 'hi' ? 'हिं' : 'EN'}
+              </button>
+              {canSpeak ? (
+                <button
+                  type="button"
+                  onClick={() => {
+                    if (speakReplies) stopSpeaking();
+                    setSpeakingNow(false);
+                    setSpeakReplies((v) => !v);
+                  }}
+                  className={`rounded-lg p-1.5 hover:bg-ds-surface-sunken ${
+                    speakReplies ? 'text-ds-accent' : 'text-ds-text-tertiary hover:text-ds-text-primary'
+                  }`}
+                  title={speakReplies ? 'Read answers aloud: on' : 'Read answers aloud: off'}
+                >
+                  {speakReplies ? <Volume2 size={15} /> : <VolumeX size={15} />}
+                </button>
+              ) : null}
+              <button
+                type="button"
                 onClick={resetChat}
                 className="rounded-lg p-1.5 text-ds-text-tertiary hover:bg-ds-surface-sunken hover:text-ds-text-primary"
                 title="New chat"
@@ -361,10 +534,44 @@ export function AskLocatiumWidget() {
                       <MethodChip method={m.method} />
                     </div>
                   ) : null}
-                  <p className="whitespace-pre-wrap">{m.text}</p>
+                  <p className="whitespace-pre-wrap">
+                    {m.text}
+                    {m.streaming ? (
+                      <span className="ml-0.5 inline-block h-3.5 w-1.5 animate-pulse bg-ds-accent align-middle" />
+                    ) : null}
+                  </p>
+                  {m.guardrailNote ? (
+                    <p className="mt-1.5 rounded-lg bg-amber-500/10 px-2 py-1 text-[10px] leading-4 text-amber-700 dark:text-amber-400">
+                      {m.guardrailNote}
+                    </p>
+                  ) : null}
+                  {m.partial ? (
+                    <p className="mt-1.5 text-[10px] leading-4 text-ds-text-tertiary">
+                      Some lookups were still running — ask again for the fuller picture.
+                    </p>
+                  ) : null}
                   {m.role === 'assistant' ? <ScoreCard scored={m.scoredLocation} /> : null}
                   {m.role === 'assistant' ? (
                     <OppList opportunities={m.opportunities} onFly={runAction} />
+                  ) : null}
+                  {m.terms?.length ? (
+                    <div className="mt-2 space-y-1.5">
+                      {m.terms.slice(0, 2).map((t) => (
+                        <div
+                          key={t.term}
+                          className="rounded-lg border border-ds-border-subtle bg-ds-surface-raised p-2 text-[11px]"
+                        >
+                          <div className="flex items-center gap-1 font-semibold text-ds-text-primary">
+                            <BookOpen size={11} className="text-ds-accent" />
+                            {t.term}
+                          </div>
+                          <p className="mt-0.5 text-ds-text-secondary">{t.explanation}</p>
+                          {t.why ? (
+                            <p className="mt-0.5 text-ds-text-tertiary">Why it matters: {t.why}</p>
+                          ) : null}
+                        </div>
+                      ))}
+                    </div>
                   ) : null}
                   {m.actions?.length ? (
                     <div className="mt-2 flex flex-wrap gap-1.5">
@@ -373,10 +580,32 @@ export function AskLocatiumWidget() {
                           key={`${a.type}-${a.label}`}
                           type="button"
                           onClick={() => runAction(a)}
+                          title={a.hint || undefined}
                           className="inline-flex items-center gap-1 rounded-lg border border-ds-border-default bg-ds-surface-raised px-2 py-1 text-[11px] font-medium text-ds-accent hover:border-ds-accent"
                         >
                           <MapPin size={12} />
                           {a.label}
+                        </button>
+                      ))}
+                    </div>
+                  ) : null}
+                  {m.proposals?.length ? (
+                    <div className="mt-2 space-y-1">
+                      {m.proposals.slice(0, 3).map((p) => (
+                        <button
+                          key={p.type}
+                          type="button"
+                          onClick={() => runProposal(p, idx)}
+                          title={p.hint || undefined}
+                          className="flex w-full items-center gap-1.5 rounded-lg border border-dashed border-ds-border-default bg-ds-surface-raised px-2 py-1.5 text-left text-[11px] font-medium text-ds-text-secondary hover:border-ds-accent hover:text-ds-accent"
+                        >
+                          <Check size={12} />
+                          <span className="min-w-0 flex-1 truncate">
+                            {p.confirm || p.label}
+                          </span>
+                          <span className="shrink-0 text-[9px] uppercase tracking-wide text-ds-text-tertiary">
+                            Confirm
+                          </span>
                         </button>
                       ))}
                     </div>
@@ -394,6 +623,11 @@ export function AskLocatiumWidget() {
                         </button>
                       ))}
                     </div>
+                  ) : null}
+                  {m.actionNote ? (
+                    <p className="mt-1.5 rounded-lg bg-ds-accent/10 px-2 py-1 text-[10px] leading-4 text-ds-accent">
+                      {m.actionNote}
+                    </p>
                   ) : null}
                   {m.disclaimer ? (
                     <p className="mt-2 text-[10px] leading-4 text-ds-text-tertiary">{m.disclaimer}</p>
@@ -428,22 +662,57 @@ export function AskLocatiumWidget() {
                     submit(input);
                   }
                 }}
-                placeholder="Ask anything — typos, Hinglish, jumbled words OK…"
+                placeholder={
+                  recording
+                    ? 'Listening… tap the square to finish'
+                    : 'Ask anything — English, हिंदी or Hinglish. Typos fine.'
+                }
                 className="min-w-0 flex-1 resize-none rounded-xl border border-ds-border-default bg-ds-surface-base px-3 py-2 text-sm text-ds-text-primary outline-none placeholder:text-ds-text-tertiary focus:border-ds-accent"
-                disabled={busy}
+                disabled={busy || recording}
               />
+              {canRecord ? (
+                <button
+                  type="button"
+                  onClick={toggleRecording}
+                  disabled={busy || transcribing}
+                  className={`inline-flex h-10 w-10 shrink-0 items-center justify-center rounded-xl border transition disabled:opacity-40 ${
+                    recording
+                      ? 'animate-pulse border-red-500 bg-red-500 text-white'
+                      : 'border-ds-border-default bg-ds-surface-raised text-ds-accent hover:border-ds-accent'
+                  }`}
+                  aria-label={recording ? 'Stop recording' : 'Ask with your voice'}
+                  title={recording ? 'Stop and send' : 'Ask with your voice'}
+                >
+                  {transcribing ? (
+                    <Loader2 size={16} className="animate-spin" />
+                  ) : recording ? (
+                    <Square size={14} />
+                  ) : (
+                    <Mic size={16} />
+                  )}
+                </button>
+              ) : null}
               <button
                 type="submit"
-                disabled={busy || !input.trim()}
+                disabled={busy || recording || !input.trim()}
                 className="inline-flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-ds-accent text-white disabled:opacity-40"
                 aria-label="Send"
               >
                 <Send size={16} />
               </button>
             </div>
+            {voiceError ? (
+              <p className="mt-1.5 text-[10px] leading-4 text-red-500">{voiceError}</p>
+            ) : null}
             <div className="mt-1.5 flex items-center gap-2 text-[10px] text-ds-text-tertiary">
               <MessageCircle size={11} />
-              Enter to send · Shift+Enter for newline · remembers this chat
+              {recording
+                ? 'Recording — speak naturally'
+                : transcribing
+                  ? 'Converting speech to text…'
+                  : speakingNow
+                    ? 'Reading the answer aloud…'
+                    : 'Enter to send · Shift+Enter for newline · remembers this chat'}
             </div>
           </form>
         </div>

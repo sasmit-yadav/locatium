@@ -8,6 +8,34 @@ const investorOpportunities = require('./investor-opportunities.service');
 const { retrievePolicyContext } = require('./policy-rag.service');
 const { extractEntities } = require('./assistant-nlu.service');
 
+/**
+ * A chat turn must return something useful in seconds. Grounding jobs that overrun this budget
+ * are abandoned for *this* answer, but keep running so their result lands in the score cache
+ * and the next identical ask is fast.
+ *
+ * Budget sized from measured cold-cache runs: a capped district scan is ~2s, and a turn with a
+ * ₹ ceiling can need a second "relaxed" scan when nothing fits, so ~4s cold / ~1s warm is typical.
+ * 12s leaves headroom without ever approaching the old multi-minute wait.
+ */
+const GROUNDING_BUDGET_MS = Number(process.env.ASSISTANT_GROUNDING_BUDGET_MS) || 12000;
+
+/**
+ * Ceiling on candidates scored for a conversational answer (see investor candidateCap).
+ * 12 measured fastest end-to-end while still covering the largest parcels in a district —
+ * candidates are area-sorted before the cap, so the shortlist keeps the ones worth ranking.
+ */
+const CONVERSATIONAL_CANDIDATE_CAP = Number(process.env.ASSISTANT_CANDIDATE_CAP) || 12;
+
+function withDeadline(promise, ms) {
+  let timer;
+  const timeout = new Promise((resolve) => {
+    timer = setTimeout(() => resolve({ timedOut: true }), ms);
+  });
+  return Promise.race([promise.then(() => ({ timedOut: false })), timeout]).finally(() =>
+    clearTimeout(timer)
+  );
+}
+
 function compactScore(result) {
   if (!result) return null;
   const d = result.details || {};
@@ -194,6 +222,7 @@ async function fetchGroundingContext(input = {}) {
       nearLat: hasPoint && !district ? lat : undefined,
       nearLng: hasPoint && !district ? lng : undefined,
       risk: entities.risk || undefined,
+      candidateCap: input.candidateCap ?? CONVERSATIONAL_CANDIDATE_CAP,
     };
     if (budgetInr) {
       oppQuery.maxLandCr = Math.max(0.5, Math.round((budgetInr / 1e7) * 10) / 10);
@@ -282,7 +311,16 @@ async function fetchGroundingContext(input = {}) {
     );
   }
 
-  await Promise.all(jobs);
+  const { timedOut } = await withDeadline(
+    Promise.all(jobs),
+    input.groundingBudgetMs || GROUNDING_BUDGET_MS
+  );
+  if (timedOut) {
+    context.partial = true;
+    context.notes.push(
+      'Some live lookups were still running, so this answer uses what had landed in time. Ask again in a moment for the fuller picture.'
+    );
+  }
 
   // If compare intent but no zoneIds, use top opportunities as implicit compare set
   if (wants(intents, 'compare') && !context.compare && context.opportunities.length >= 2) {
