@@ -56,3 +56,6 @@ backend/backups/
 
 # Legacy qgis2web export (large rasters, not used by the app)
 map_new/
+
+# Files delivered by the Claude desktop app
+Claude outputs/

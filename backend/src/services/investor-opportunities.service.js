@@ -487,7 +487,20 @@ async function fetchCandidateZones(pool, perSourceLimit, district = '') {
   return batches.flat();
 }
 
+// The district list scans ~360k plot rows and changes only when data is re-imported.
+const DISTRICT_LIST_TTL_MS = 60 * 60 * 1000;
+let districtListCache = null;
+
 async function listDistricts() {
+  if (districtListCache && Date.now() - districtListCache.at < DISTRICT_LIST_TTL_MS) {
+    return districtListCache.value;
+  }
+  const value = await listDistrictsUncached();
+  districtListCache = { at: Date.now(), value };
+  return value;
+}
+
+async function listDistrictsUncached() {
   const pool = ensurePool();
   const { rows } = await pool.query(`
     SELECT DISTINCT name FROM (

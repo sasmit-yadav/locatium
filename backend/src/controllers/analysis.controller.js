@@ -1,3 +1,4 @@
+const { AppError } = require('../middleware/error.middleware');
 const scoringOrchestrator = require('../services/scoringOrchestrator');
 const landForecast = require('../services/land-forecast.service');
 const facilityGap = require('../services/facility-gap.service');
@@ -9,7 +10,17 @@ async function scoreLocation(req, res) {
   res.json(result);
 }
 
+/**
+ * Public batch cap. Internal callers (district scans) use the service directly and are
+ * bounded by the heavy-work guard instead, so this limit applies to HTTP callers only.
+ */
+const PUBLIC_BATCH_MAX = Math.min(100, Math.max(1, Number(process.env.SCORE_BATCH_MAX) || 25));
+
 async function scoreBatch(req, res) {
+  const locations = req.body?.locations;
+  if (Array.isArray(locations) && locations.length > PUBLIC_BATCH_MAX) {
+    throw AppError.badRequest(`score-batch supports up to ${PUBLIC_BATCH_MAX} locations`);
+  }
   const result = await scoringOrchestrator.scoreBatch(req.body || {}, {
     requestId: req.requestId,
   });

@@ -1,6 +1,6 @@
 /* Zone cards intentionally close over the current investor workflow callbacks. */
 /* eslint-disable react-hooks/static-components */
-import { useMemo, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import {
   AlertTriangle,
   BriefcaseBusiness,
@@ -605,6 +605,7 @@ export function InvestorPublicSection({
           {loading ? (
             <div className="rounded-xl bg-ds-surface-sunken px-3 py-6 text-center text-sm text-ds-text-secondary">
               Finding the best matches for you…
+              <SlowSearchHint />
             </div>
           ) : null}
 
@@ -979,5 +980,21 @@ export function InvestorPublicSection({
         </div>
       ) : null}
     </section>
+  );
+}
+
+/** After a few seconds of waiting, explains why a first district search is slow. */
+function SlowSearchHint() {
+  const [seconds, setSeconds] = useState(0);
+  useEffect(() => {
+    const id = setInterval(() => setSeconds((v) => v + 1), 1000);
+    return () => clearInterval(id);
+  }, []);
+  if (seconds < 6) return null;
+  return (
+    <p className="mt-2 text-xs leading-5 text-ds-text-tertiary">
+      Checking every site in this district ({seconds}s). The first search in a large district can take
+      a minute or two; after that it&apos;s instant.
+    </p>
   );
 }

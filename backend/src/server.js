@@ -30,9 +30,16 @@ const server = app.listen(PORT, HOST, () => {
   startInvestorAlertJob();
   startDemoCleanupJob();
   if (process.env.INVESTOR_CACHE_WARM === 'true') {
-    warmInvestorCache()
-      .then((r) => console.log(`Investor cache warm: ${r.success}/${r.queries} queries`))
-      .catch((err) => console.warn('Investor cache warm skipped:', err.message));
+    const warm = () =>
+      warmInvestorCache()
+        .then((r) => console.log(`Investor cache warm: ${r.success}/${r.queries} queries`))
+        .catch((err) => console.warn('Investor cache warm skipped:', err.message));
+    warm();
+    // Re-warm before the score cache expires, so visitors never hit a minutes-long cold
+    // district scan (which also exceeds the ~100s limit of the public tunnel).
+    const ttlSec = Number(process.env.INVESTOR_SCORE_CACHE_TTL_SEC) || 3600;
+    const rewarm = setInterval(warm, Math.max(10 * 60, ttlSec * 0.8) * 1000);
+    rewarm.unref();
   }
   console.log(`UI:     cd frontend && npm run dev   → http://localhost:5173 (keep this API running)`);
 });

@@ -14,6 +14,8 @@ const investorOpportunities = require('./investor-opportunities.service');
  */
 const WARM_QUERIES = [
   { sector: 'industrial', district: 'Gurugram', limit: 10 },
+  { sector: 'industrial', district: 'Faridabad', limit: 10 },
+  { sector: 'industrial', district: 'Sonipat', limit: 10 },
   { sector: 'industrial', limit: 10 },
   { sector: 'commercial', limit: 10 },
   { sector: 'residential', limit: 10 },
