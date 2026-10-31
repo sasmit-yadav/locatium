@@ -12,7 +12,9 @@ Prerequisites:
 - `backend/.env` contains the database URL and two different JWT secrets.
 - Python and Node dependencies are installed.
 - `cloudflared` and the authenticated Vercel CLI are on `PATH`.
-- The `demo@locatium.app` investor was provisioned with `npm run db:bootstrap`.
+- Demo login creates a private throwaway investor account per browser (`DEMO_ISOLATED`, default on).
+  Only set `DEMO_ISOLATED=false` if you want the old single shared `demo@locatium.app` account,
+  which must then be provisioned with `npm run db:bootstrap`.
 
 From PowerShell at the repository root:
 
@@ -66,7 +68,15 @@ For placement days:
 - The API binds to `127.0.0.1`; LAN clients cannot bypass Cloudflare.
 - Cloudflare ingress forwards only to port `3002`.
 - CORS permits only `https://locatium-eta.vercel.app`.
-- Demo login can issue only an `investor` token, never an admin token.
+- Demo login can issue only an `investor` token, never an admin token. Each visitor gets an
+  isolated account, so pipelines, portfolios, reports and copilot memory are never shared;
+  expired demo accounts are purged automatically.
+- Ranking, zone analysis and batch scoring require a token, and full-district scans are limited
+  to `HEAVY_WORK_CONCURRENCY` (default 2) at once, one per user, so a single caller cannot
+  exhaust the database pool.
+- The API sends baseline security headers (nosniff, frame deny, no-referrer, CSP, HSTS in production).
+- Email delivery needs `SMTP_HOST` / `SMTP_FROM`. Without them, "email report" saves the report
+  and tells the user nothing was sent.
 - Ask LOCATIUM Confirm writes pipeline, saved searches, alerts, and reports
   through authenticated APIs. Read-only chips (fly-to, facility-gap overlay,
   land-price band) stay in the browser.

@@ -57,7 +57,7 @@ Set `ML_SERVICE_URL=http://127.0.0.1:8002`. If the ML process is down, scoring s
 
 | Mode | How |
 |------|-----|
-| **Showcase / demo** | `POST /api/auth/demo` when `DEMO_MODE=true` — identity `demo@locatium.app`, role `investor`, no password |
+| **Showcase / demo** | `POST /api/auth/demo` when `DEMO_MODE=true` — each browser gets its own private throwaway `investor` account (expires after `DEMO_TTL_DAYS`, default 7). `DEMO_ISOLATED=false` falls back to the single shared `DEMO_USER_EMAIL` account |
 | **Local register** | `POST /api/auth/register` |
 | **Admin bootstrap** | `npm run db:bootstrap` with `BOOTSTRAP_ADMIN_EMAIL` / `BOOTSTRAP_ADMIN_PASSWORD` in `backend/.env` (never commit those values) |
 
@@ -69,7 +69,7 @@ There is no documented shared password. Older docs that mentioned one are obsole
 
 ```powershell
 cd backend
-npm test                        # scoring, investor engine, copilot, model health (93 tests as of 2026-09-13)
+npm test                        # scoring, investor engine, copilot, model health, load guard (97 tests)
 npm run verify                  # DB, JWT, ports
 node scripts/test-api-smoke.js  # backend must be running
 ```
@@ -82,12 +82,17 @@ $env:API_URL='http://localhost:3002'; node scripts/test-api-smoke.js
 
 ---
 
+CI (`.github/workflows/ci.yml`) runs the backend tests, frontend lint + build, and the ML
+service tests on every push. Manual QA scripts (fuzz, IDOR, load, parity) live in
+`backend/scripts/qa/`.
+
 ## What is built
 
 | Area | Status |
 |------|--------|
 | Map viewer (HARSAC layers, identify, basemaps, facility finder) | Done |
 | Spatial scoring **v3-investment** + formula breakdown | Done |
+| ML overlay (`investment-v2`) | **Experimental, shown only** — trained on 30 synthetic labels derived from its own input features, so it never changes a score unless `ML_OVERRIDE_ENABLED=true` |
 | Investor ranking **investor-v3.2**, compare, pipeline, portfolios, PDF/email | Done |
 | Land ₹ — 22-district circle rates + HSIIDC comps (current band) | Done |
 | Forward land outlook — compounds *published* collector-rate revisions, capped to the history depth | Done (returns `insufficient_history` where rate history is thin) |
@@ -113,11 +118,11 @@ GET  /api/tiles/:layer/:z/:x/:y.png
 POST /api/maps/identify
 GET  /api/features/search | /nearby | /statistics
 
-POST /api/analysis/score-location | /score-batch
+POST /api/analysis/score-location | /score-batch      # score-batch: auth, ≤25 points, one at a time per user
 GET  /api/analysis/forecast          # current p10/p50/p90 band; ?horizon=1,3,5 adds an outlook
 GET  /api/analysis/facility-gap
 
-GET  /api/investor/opportunities | /compare-zones | /districts
+GET  /api/investor/opportunities | /compare-zones | /districts   # ranking + zone analysis need a token; district scans are concurrency-bounded
 POST /api/investor/generate-report | /email-report
 
 GET|POST /api/portal/pipeline | /saved-searches | /portfolios | /notifications
