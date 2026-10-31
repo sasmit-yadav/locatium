@@ -400,8 +400,9 @@ async function scoreBatch(input) {
   if (!locations || locations.length === 0) {
     throw AppError.badRequest('locations must be a non-empty array');
   }
-  if (locations.length > 100) {
-    throw AppError.badRequest('score-batch supports up to 100 locations');
+  const maxBatch = Math.min(100, Math.max(1, Number(process.env.SCORE_BATCH_MAX) || 25));
+  if (locations.length > maxBatch) {
+    throw AppError.badRequest(`score-batch supports up to ${maxBatch} locations`);
   }
 
   const results = [];

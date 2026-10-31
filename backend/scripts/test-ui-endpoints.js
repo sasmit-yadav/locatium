@@ -171,12 +171,12 @@ async function run() {
 
   // ── Investor (opportunities, zone analysis, compare, report) ───────
   console.log('\nInvestor');
-  const opp = await req('GET', '/api/investor/opportunities?sector=industrial&limit=5');
+  const opp = await req('GET', '/api/investor/opportunities?sector=industrial&limit=5', { headers: auth });
   assert.ok(opp.json.opportunities?.length > 0, 'opportunities');
   const zoneId = opp.json.opportunities[0].id;
   pass(`opportunities (${opp.json.opportunities.length}) zone=${zoneId}`);
 
-  await req('GET', `/api/investor/zone-analysis/${encodeURIComponent(zoneId)}?sector=industrial`);
+  await req('GET', `/api/investor/zone-analysis/${encodeURIComponent(zoneId)}?sector=industrial`, { headers: auth });
   pass('zone-analysis');
 
   await req('GET', `/api/public/zones/${encodeURIComponent(zoneId)}/card`);
@@ -186,7 +186,9 @@ async function run() {
     .slice(0, 2)
     .map((z) => z.id)
     .join(',');
-  await req('GET', `/api/investor/compare-zones?zones=${encodeURIComponent(ids)}&sector=industrial`);
+  await req('GET', `/api/investor/compare-zones?zones=${encodeURIComponent(ids)}&sector=industrial`, {
+    headers: auth,
+  });
   pass('compare-zones');
 
   // generate-report — frontend uses POST and expects a PDF blob

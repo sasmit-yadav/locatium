@@ -62,7 +62,7 @@ async function run() {
   console.log(`✅ POST /api/analysis/score-location (overall=${score.body.overallScore}, method=${score.body.method})`);
 
   // Investor
-  const opp = await json('/api/investor/opportunities?sector=industrial&limit=3');
+  const opp = await json('/api/investor/opportunities?sector=industrial&limit=3', { headers: authHeader });
   assert.equal(opp.res.status, 200);
   assert.ok(opp.body.opportunities?.length > 0, 'opportunities');
   console.log(`✅ GET /api/investor/opportunities (${opp.body.opportunities.length} zones)`);

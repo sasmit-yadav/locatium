@@ -1,3 +1,4 @@
+import { authFetch } from './auth';
 import { getMapsApiOrigin } from '../config/api';
 
 export async function scoreLocation({ lat, lng, sector = 'industrial' }) {
@@ -14,7 +15,7 @@ export async function scoreLocation({ lat, lng, sector = 'industrial' }) {
 }
 
 export async function scoreBatch({ locations, sector = 'industrial' }) {
-  const res = await fetch(`${getMapsApiOrigin()}/api/analysis/score-batch`, {
+  const res = await authFetch(`${getMapsApiOrigin()}/api/analysis/score-batch`, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({ locations, sector }),

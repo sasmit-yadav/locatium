@@ -5,8 +5,18 @@
 
 const BASE = process.env.API_URL || 'http://localhost:3002';
 
+let token = '';
+
+async function acquireToken() {
+  const res = await fetch(`${BASE}/api/auth/demo`, { method: 'POST' });
+  if (res.ok) token = (await res.json()).accessToken || '';
+}
+
 async function get(path) {
-  const res = await fetch(`${BASE}${path}`);
+  if (!token && path.startsWith('/api/investor/')) await acquireToken();
+  const res = await fetch(`${BASE}${path}`, {
+    headers: token ? { Authorization: `Bearer ${token}` } : {},
+  });
   const json = await res.json().catch(() => ({}));
   return { ok: res.ok, status: res.status, json };
 }

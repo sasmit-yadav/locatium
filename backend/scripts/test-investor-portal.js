@@ -44,7 +44,9 @@ async function main() {
   const token = await login();
   pass('Auth login');
 
-  const opp = await fetch(`${BASE}/api/investor/opportunities?sector=industrial&limit=3`);
+  const opp = await fetch(`${BASE}/api/investor/opportunities?sector=industrial&limit=3`, {
+    headers: { Authorization: `Bearer ${token}` },
+  });
   const oppJson = await opp.json();
   const zoneIds = (oppJson.opportunities || []).slice(0, 2).map((z) => z.id);
   assert.ok(zoneIds.length >= 1, 'need at least one zone');

@@ -52,7 +52,9 @@ async function runTests() {
 
   // 3. Fetch a valid zone ID from investor opportunities
   console.log('🔍 Querying active opportunities to get a valid Zone ID...');
-  const oppRes = await fetch(`${API_URL}/api/investor/opportunities?sector=industrial&risk=medium&limit=2`);
+  const oppRes = await fetch(`${API_URL}/api/investor/opportunities?sector=industrial&risk=medium&limit=2`, {
+    headers: authHeader,
+  });
   if (!oppRes.ok) {
     console.error('❌ Failed to fetch opportunities list');
     process.exit(1);

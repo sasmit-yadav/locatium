@@ -78,10 +78,20 @@ async function main() {
   assert.ok(Number.isFinite(Number(score.body.overallScore)));
   console.log(`ok scoring (${score.body.method || 'unknown method'})`);
 
-  const opportunities = await json('/api/investor/opportunities?sector=industrial&limit=3');
-  assert.equal(opportunities.response.status, 200, JSON.stringify(opportunities.body));
-  assert.ok(opportunities.body.opportunities?.length > 0);
-  console.log(`ok investor opportunities (${opportunities.body.opportunities.length})`);
+  // Ranking requires a token. Without one it must refuse; with the demo token it must rank.
+  const anonymous = await json('/api/investor/opportunities?sector=industrial&limit=3');
+  assert.equal(anonymous.response.status, 401, 'opportunities must require authentication');
+  const rankToken = await json('/api/auth/demo', { method: 'POST' });
+  if (rankToken.response.status === 200) {
+    const opportunities = await json('/api/investor/opportunities?sector=industrial&limit=3', {
+      headers: { Authorization: `Bearer ${rankToken.body.accessToken}` },
+    });
+    assert.equal(opportunities.response.status, 200, JSON.stringify(opportunities.body));
+    assert.ok(opportunities.body.opportunities?.length > 0);
+    console.log(`ok investor opportunities (${opportunities.body.opportunities.length})`);
+  } else {
+    console.log('ok investor opportunities refuse anonymous callers (demo login off; ranking not exercised)');
+  }
 
   const demo = await json('/api/auth/demo', { method: 'POST' });
   if (demo.response.status === 200) {

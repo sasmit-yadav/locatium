@@ -54,7 +54,7 @@ export async function getInvestorOpportunities({
     params.set('nearRadiusKm', String(nearRadiusKm || 25));
   }
 
-  const res = await fetch(`${getMapsApiOrigin()}/api/investor/opportunities?${params.toString()}`);
+  const res = await authFetch(`${getMapsApiOrigin()}/api/investor/opportunities?${params.toString()}`);
   return parseJsonResponse(res, 'Investor opportunities failed');
 }
 
@@ -63,7 +63,7 @@ export async function getInvestorZoneAnalysis({ zoneId, sector = 'industrial', i
   params.set('sector', sector);
   params.set('includeGeometry', includeGeometry ? 'true' : 'false');
 
-  const res = await fetch(`${getMapsApiOrigin()}/api/investor/zone-analysis/${encodeURIComponent(zoneId)}?${params.toString()}`);
+  const res = await authFetch(`${getMapsApiOrigin()}/api/investor/zone-analysis/${encodeURIComponent(zoneId)}?${params.toString()}`);
   return parseJsonResponse(res, 'Investor zone analysis failed');
 }
 
@@ -72,7 +72,7 @@ export async function compareInvestorZones({ zones, sector = 'industrial' }) {
   params.set('zones', zones.join(','));
   params.set('sector', sector);
 
-  const res = await fetch(`${getMapsApiOrigin()}/api/investor/compare-zones?${params.toString()}`);
+  const res = await authFetch(`${getMapsApiOrigin()}/api/investor/compare-zones?${params.toString()}`);
   return parseJsonResponse(res, 'Investor zone comparison failed');
 }
 
@@ -137,7 +137,7 @@ export async function emailInvestorReport({ to, zoneId, reportId, sector = 'indu
 
 export async function getPlotInventory(zoneId, sector = 'industrial') {
   const params = new URLSearchParams({ sector });
-  const res = await fetch(`${getMapsApiOrigin()}/api/investor/plots/${encodeURIComponent(zoneId)}?${params}`);
+  const res = await authFetch(`${getMapsApiOrigin()}/api/investor/plots/${encodeURIComponent(zoneId)}?${params}`);
   return parseJsonResponse(res, 'Failed to load plot inventory');
 }
 
