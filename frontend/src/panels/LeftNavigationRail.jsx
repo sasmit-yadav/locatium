@@ -86,7 +86,7 @@ export function LeftNavigationRail() {
   return (
     <nav
       aria-label="Workspace navigation"
-      className="z-ds-floating-panel flex w-[52px] shrink-0 flex-col items-center justify-between border-r border-ds-border bg-ds-surface-raised py-ds-2"
+      className="hidden sm:flex z-ds-floating-panel w-[52px] shrink-0 flex-col items-center justify-between border-r border-ds-border bg-ds-surface-raised py-ds-2"
     >
       <div className="flex w-full flex-col items-center gap-ds-1">
         {topTabs.map((tab) => (

@@ -18,6 +18,7 @@ import { loginDemo } from '../services/auth';
 import { getSnapshot } from '../services/portal';
 import { postIdentifyBatch } from '../services/mapsIdentify';
 import { AskLocatiumWidget } from '../components/AskLocatiumWidget';
+import { WelcomeScreen } from '../components/home/WelcomeScreen';
 import { MapLegend } from '../components/MapLegend';
 import { TileStatusOverlay } from '../components/TileStatusOverlay';
 import { DATA_LAYERS } from '../config/layers';
@@ -355,6 +356,7 @@ export function DashboardMapPage() {
       <BottomStatusBar />
       <CommandPalette />
       <AskLocatiumWidget />
+      <WelcomeScreen />
     </div>
   );
 }

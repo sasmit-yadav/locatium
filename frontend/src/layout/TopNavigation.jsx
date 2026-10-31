@@ -1,4 +1,5 @@
-import { Bell, ChevronDown, Check, Hexagon, Moon, Sun, UserCircle } from 'lucide-react';
+import { Bell, ChevronDown, Check, Hexagon, Home, Languages, Moon, Sun, UserCircle } from 'lucide-react';
+import { useLangStore, useT } from '../i18n';
 import { useEffect, useRef, useState } from 'react';
 import { useQuery } from '@tanstack/react-query';
 import { IconButton } from '../components/ui/IconButton';
@@ -28,6 +29,10 @@ export function TopNavigation({ onSearchSelect }) {
   const toggleLeft = useDashboardStore((s) => s.toggleLeft);
   const basemapId = useDashboardStore((s) => s.basemapId);
   const setBasemapId = useDashboardStore((s) => s.setBasemapId);
+  const setWelcomeOpen = useDashboardStore((s) => s.setWelcomeOpen);
+  const lang = useLangStore((s) => s.lang);
+  const setLang = useLangStore((s) => s.setLang);
+  const t = useT();
   const [dropdownOpen, setDropdownOpen] = useState(false);
   const [profileLabel, setProfileLabel] = useState('Investor');
   const [isAdmin, setIsAdmin] = useState(false);
@@ -76,14 +81,21 @@ export function TopNavigation({ onSearchSelect }) {
       style={{ height: layout.toolbarHeight }}
     >
       <div className="flex min-w-0 items-center gap-ds-4">
-        <div className="flex items-center gap-ds-2">
+        <button
+          type="button"
+          onClick={() => setWelcomeOpen(true)}
+          className="flex items-center gap-ds-2 rounded-ds-sm focus-visible:outline-none focus-visible:shadow-ds-focus"
+          aria-label={t('nav.home')}
+          title={t('nav.home')}
+        >
           <Hexagon size={layout.iconButtonGlyph} className="text-ds-accent" strokeWidth={1.75} aria-hidden />
-          <div className="text-ds-title text-ds-text-primary">LOCATIUM</div>
-        </div>
+          <span className="hidden text-ds-title text-ds-text-primary sm:inline">LOCATIUM</span>
+        </button>
 
-        <div className="h-5 w-px bg-ds-border" />
+        <div className="hidden h-5 w-px bg-ds-border md:block" />
 
-        <div className="relative" ref={dropdownRef}>
+        {/* Workspaces are an expert concept; phones get the plain home + search instead. */}
+        <div className="relative hidden md:block" ref={dropdownRef}>
           <button
             type="button"
             onClick={() => setDropdownOpen(!dropdownOpen)}
@@ -122,7 +134,18 @@ export function TopNavigation({ onSearchSelect }) {
       </div>
 
       <div className="flex items-center gap-ds-1">
+        <IconButton icon={Home} tooltip={t('nav.home')} onClick={() => setWelcomeOpen(true)} className="hidden sm:inline-grid" />
+        <button
+          type="button"
+          onClick={() => setLang(lang === 'hi' ? 'en' : 'hi')}
+          className="flex h-8 items-center gap-1 rounded-ds-sm border border-ds-border bg-ds-surface-sunken px-2 text-xs font-semibold text-ds-text-primary hover:border-ds-accent focus-visible:outline-none focus-visible:shadow-ds-focus"
+          aria-label={t('nav.languageTitle')}
+          title={t('nav.languageTitle')}
+        >
+          <Languages size={14} aria-hidden /> {t('nav.language')}
+        </button>
         <IconButton
+          className="hidden sm:inline-grid"
           icon={isDarkBasemap ? Sun : Moon}
           tooltip={isDarkBasemap ? 'Switch to light basemap' : 'Switch to dark basemap'}
           active={isDarkBasemap}

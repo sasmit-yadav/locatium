@@ -18,7 +18,7 @@ export function BottomStatusBar() {
       : 'Tiles ready';
 
   return (
-    <footer className="z-ds-toolbar flex h-7 shrink-0 items-center justify-between border-t border-ds-border bg-ds-surface-raised px-ds-2 text-ds-caption text-ds-text-secondary">
+    <footer className="z-ds-toolbar hidden h-7 shrink-0 sm:flex items-center justify-between border-t border-ds-border bg-ds-surface-raised px-ds-2 text-ds-caption text-ds-text-secondary">
       <div className="flex h-full items-center gap-ds-3">
         <span className="flex items-center gap-ds-1 font-mono text-ds-text-primary">
           <Activity size={layout.iconInline} className="text-ds-accent" aria-hidden />

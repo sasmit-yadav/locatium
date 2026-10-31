@@ -16,6 +16,8 @@ import {
 } from 'lucide-react';
 import { InvestorPipelineBoard } from './InvestorPipelineBoard';
 import { MethodBadge } from './MethodBadge';
+import { ScoreWord } from './ui/ScoreWord';
+import { useT } from '../i18n';
 
 function formatInr(value) {
   if (value == null || Number.isNaN(Number(value))) return 'N/A';
@@ -63,66 +65,69 @@ function SelectField({ label, value, onChange, options, hint }) {
   );
 }
 
-function plainVerdict(verdict, score) {
-  if (verdict === 'shortlist' || score >= 75) return { label: 'Worth a site visit', tone: 'success' };
-  if (verdict === 'review' || score >= 55) return { label: 'Compare further', tone: 'warning' };
-  return { label: 'Weak fit for now', tone: 'muted' };
+function plainVerdict(verdict, score, t) {
+  if (verdict === 'shortlist' || score >= 75) return { label: t('inv.verdict.visit'), tone: 'success' };
+  if (verdict === 'review' || score >= 55) return { label: t('inv.verdict.compare'), tone: 'warning' };
+  return { label: t('inv.verdict.weak'), tone: 'muted' };
 }
 
-function confidenceTip(confidence, marketAvailable, compsN) {
-  if (confidence === 'high') return 'Strong price signal — official rate plus enough nearby market deals.';
-  if (confidence === 'medium') return 'Useful guide — official rate is solid; market sample is limited.';
-  if (marketAvailable && (compsN || 0) <= 2) {
-    return 'Low confidence — very few nearby market deals. Treat estimate as a starting point.';
-  }
-  if (!marketAvailable) {
-    return 'Based on official collector rate only (no nearby market deals yet).';
-  }
-  return 'Price confidence is limited — confirm with a local broker and the latest DC notification.';
+function confidenceTip(confidence, marketAvailable, compsN, t) {
+  if (confidence === 'high') return t('inv.tip.high');
+  if (confidence === 'medium') return t('inv.tip.medium');
+  if (marketAvailable && (compsN || 0) <= 2) return t('inv.tip.lowComps');
+  if (!marketAvailable) return t('inv.tip.noMarket');
+  return t('inv.tip.other');
 }
 
-function whyMatchLine(zone) {
+function whyMatchLine(zone, t) {
   const bits = [];
-  if (zone.components?.accessibility >= 70) bits.push('good road/rail access');
-  if (zone.components?.infrastructure >= 70) bits.push('strong nearby facilities');
-  if (zone.landValue?.circleRatePerSqYardInr) bits.push('official rate available');
-  if (zone.availability?.status === 'available') bits.push('plots marked available');
+  if (zone.components?.accessibility >= 70) bits.push(t('inv.why.access'));
+  if (zone.components?.infrastructure >= 70) bits.push(t('inv.why.facilities'));
+  if (zone.landValue?.circleRatePerSqYardInr) bits.push(t('inv.why.rate'));
+  if (zone.availability?.status === 'available') bits.push(t('inv.why.available'));
   if (zone.utilityReadiness === 'High' || zone.utilityReadiness === 'Medium') {
-    bits.push(`${String(zone.utilityReadiness).toLowerCase()} utility readiness`);
+    bits.push(t('inv.why.utility', { level: String(zone.utilityReadiness).toLowerCase() }));
   }
-  if (!bits.length) return 'Matched your use case and filters from location quality and land pricing.';
-  return `Stands out for ${bits.slice(0, 3).join(', ')}.`;
+  if (!bits.length) return t('inv.why.default');
+  return t('inv.why.standsOut', { list: bits.slice(0, 3).join(', ') });
 }
 
-const USE_OPTIONS = [
-  {
-    value: 'industrial',
-    title: 'Factory / warehouse',
-    blurb: 'Manufacturing, logistics, industrial plots',
-  },
-  {
-    value: 'commercial',
-    title: 'Shop / office',
-    blurb: 'Retail, offices, commercial use',
-  },
-  {
-    value: 'residential',
-    title: 'Housing',
-    blurb: 'Homes, townships, residential colonies',
-  },
-  {
-    value: 'agricultural',
-    title: 'Farmland',
-    blurb: 'Agriculture or agri-processing land',
-  },
-];
+/** Risk notes come from the ranking engine as short English fragments; say them plainly. */
+function plainRisk(risk, t) {
+  if (!risk) return null;
+  return String(risk)
+    .split(';')
+    .map((part) => part.trim())
+    .filter(Boolean)
+    .map((part) => {
+      let m = part.match(/^forest ([\d.]+) km$/i);
+      if (m) return t('inv.risk.forest', { km: m[1] });
+      m = part.match(/^flood\/low-lying ([\d.]+) km$/i);
+      if (m) return t('inv.risk.flood', { km: m[1] });
+      if (/no utility mesh/i.test(part)) return t('inv.risk.utility');
+      if (/low environmental suitability/i.test(part)) return t('inv.risk.env');
+      if (/no major nearby risk/i.test(part)) return t('inv.risk.none');
+      return part;
+    })
+    .join('; ');
+}
 
-const BUDGET_OPTIONS = [
-  { value: '', title: 'Any budget', blurb: 'Show all priced zones' },
-  { value: 'micro', title: 'Under ₹1 crore', blurb: 'Smaller parcels' },
-  { value: 'low', title: 'Under ₹5 crore', blurb: 'Most common starter band' },
-  { value: 'medium', title: '₹5–25 crore', blurb: 'Mid-size projects' },
-  { value: 'high', title: '₹25 crore+', blurb: 'Larger land budgets' },
+function availabilityLabel(availability, t) {
+  if (!availability) return null;
+  // "mixed" zones carry the boundary-level placeholder label too.
+  if (availability.status === 'unknown' || /boundary-level data/i.test(availability.label || '')) return t('inv.avail.unknown');
+  if (availability.status === 'available') return t('inv.avail.available');
+  if (availability.status === 'allotted') return t('inv.avail.allotted');
+  return availability.label;
+}
+
+const USE_VALUES = ['industrial', 'commercial', 'residential', 'agricultural'];
+const BUDGET_VALUES = [
+  { value: '', key: 'any' },
+  { value: 'micro', key: 'micro' },
+  { value: 'low', key: 'low' },
+  { value: 'medium', key: 'medium' },
+  { value: 'high', key: 'high' },
 ];
 
 export function InvestorPublicSection({
@@ -170,6 +175,13 @@ export function InvestorPublicSection({
   onRefreshPipeline,
   onSearchReady,
 }) {
+  const t = useT();
+  const USE_OPTIONS = USE_VALUES.map((value) => ({ value, title: t(`inv.use.${value}`), blurb: t(`inv.use.${value}.blurb`) }));
+  const BUDGET_OPTIONS = BUDGET_VALUES.map(({ value, key }) => ({
+    value,
+    title: t(`inv.budget.${key}`),
+    blurb: t(`inv.budget.${key}.blurb`),
+  }));
   const [step, setStep] = useState(1);
   const [started, setStarted] = useState(Boolean(opportunities.length));
   const [showPro, setShowPro] = useState(false);
@@ -181,10 +193,10 @@ export function InvestorPublicSection({
   const more = opportunities.slice(5);
 
   const placeSummary = useMemo(() => {
-    if (filters.nearMe) return `Within ${filters.nearRadiusKm || 25} km of map center`;
+    if (filters.nearMe) return t('inv.placeNear', { km: filters.nearRadiusKm || 25 });
     if (filters.district) return filters.district;
-    return 'All Haryana districts';
-  }, [filters.district, filters.nearMe, filters.nearRadiusKm]);
+    return t('inv.placeAll');
+  }, [filters.district, filters.nearMe, filters.nearRadiusKm, t]);
 
   function applyPublicDefaults(next) {
     setFilters((current) => ({
@@ -234,9 +246,9 @@ export function InvestorPublicSection({
   }
 
   function ZoneCard({ zone, index, featured = false }) {
-    const verdict = plainVerdict(zone.verdict, zone.opportunityScore);
+    const verdict = plainVerdict(zone.verdict, zone.opportunityScore, t);
     const compsN = zone.landValue?.comparableSampleCount ?? zone.landValue?.comparableCount ?? 0;
-    const tip = confidenceTip(zone.landValue?.confidence, zone.landValue?.marketAvailable, compsN);
+    const tip = confidenceTip(zone.landValue?.confidence, zone.landValue?.marketAvailable, compsN, t);
     const rate =
       zone.landValue?.estimatedPerSqYardInr ||
       zone.landValue?.circleRatePerSqYardInr ||
@@ -268,57 +280,62 @@ export function InvestorPublicSection({
                 </span>
                 {index < 5 ? (
                   <span className="shrink-0 rounded bg-ds-surface-raised px-1.5 py-0.5 text-[10px] font-semibold text-ds-text-tertiary">
-                    On map #{index + 1}
+                    {t('inv.onMap', { n: index + 1 })}
                   </span>
                 ) : null}
               </div>
               <div className="mt-1 text-xs text-ds-text-secondary">
                 {zone.district}
-                {zone.distanceKm != null ? ` · ${zone.distanceKm} km away` : ''}
+                {zone.distanceKm != null ? ` · ${t('inv.kmAway', { km: zone.distanceKm })}` : ''}
                 {' · '}
-                {acres(zone.areaAcres)} estate boundary
+                {t('inv.estate', { acres: acres(zone.areaAcres) })}
               </div>
-              <p className="mt-2 text-[12px] leading-5 text-ds-text-primary">{whyMatchLine(zone)}</p>
+              <p className="mt-2 text-[12px] leading-5 text-ds-text-primary">{whyMatchLine(zone, t)}</p>
               <div className="mt-2 flex flex-wrap gap-1.5 text-[10px]">
                 {rate ? (
                   <span className="rounded-md bg-ds-surface-raised px-1.5 py-0.5 text-ds-text-secondary">
-                    Official / est. ₹{Number(rate).toLocaleString('en-IN')}/sq yd
+                    {t('inv.rate', { rate: Number(rate).toLocaleString('en-IN') })}
+                    {zone.landValue?.circleRateEffectiveFrom
+                      ? ` · ${t('inv.rateFrom', { date: zone.landValue.circleRateEffectiveFrom })}`
+                      : ''}
                   </span>
                 ) : (
                   <span className="rounded-md bg-ds-surface-raised px-1.5 py-0.5 text-ds-text-tertiary">
-                    No official rate yet
+                    {t('inv.noRate')}
                   </span>
                 )}
                 {zone.landValue?.marketAvailable ? (
                   <span className="rounded-md bg-ds-surface-raised px-1.5 py-0.5 text-ds-text-secondary">
-                    Market deals nearby: {compsN}
+                    {t('inv.deals', { n: compsN })}
                   </span>
                 ) : rate ? (
                   <span className="rounded-md bg-ds-surface-raised px-1.5 py-0.5 text-ds-text-tertiary">
-                    Official rate only
+                    {t('inv.officialOnly')}
                   </span>
                 ) : null}
                 {zone.availability?.label ? (
                   <span className="rounded-md bg-ds-surface-raised px-1.5 py-0.5 text-ds-text-secondary">
-                    {zone.availability.label}
+                    {availabilityLabel(zone.availability, t)}
                   </span>
                 ) : null}
               </div>
               {allIn ? (
                 <div className="mt-2 text-[12px] font-semibold text-ds-text-primary">
-                  Typical land cost incl. fees: {formatInr(allIn)}
+                  {t('inv.allIn', { v: formatInr(allIn) })}
                 </div>
               ) : null}
               <div className="mt-1 text-[10px] leading-4 text-ds-text-tertiary">{tip}</div>
               {zone.keyRisk ? (
-                <div className="mt-1 text-[10px] text-ds-warning">Watch: {zone.keyRisk}</div>
+                <div className="mt-1 text-[10px] text-ds-warning">{t('inv.watch', { risk: plainRisk(zone.keyRisk, t) })}</div>
               ) : null}
             </div>
             <div className="shrink-0 text-right">
               <div className="rounded-lg bg-ds-warning-subtle px-2 py-1 text-sm font-black text-ds-warning">
                 {zone.opportunityScore}
               </div>
-              <div className="mt-1 text-[9px] uppercase tracking-wide text-ds-text-tertiary">Match</div>
+              <div className="mt-1">
+                <ScoreWord score={zone.opportunityScore} />
+              </div>
             </div>
           </div>
         </button>
@@ -330,7 +347,7 @@ export function InvestorPublicSection({
             className="flex items-center gap-1 text-[11px] font-semibold text-ds-accent"
           >
             {expandedZoneId === zone.id ? <ChevronUp size={13} /> : <ChevronDown size={13} />}
-            Why this match
+            {t('inv.whyMatch')}
           </button>
           <div className="flex flex-wrap gap-2">
             <button
@@ -338,14 +355,14 @@ export function InvestorPublicSection({
               onClick={() => onAddToPipeline(zone.id)}
               className="rounded-md border border-ds-border-subtle bg-ds-surface-raised px-2 py-1 text-[11px] font-bold text-ds-text-secondary hover:border-ds-accent"
             >
-              Save
+              {t('inv.save')}
             </button>
             <button
               type="button"
               onClick={() => onDeepAnalysis(zone)}
               className="rounded-md border border-ds-border-subtle bg-ds-surface-raised px-2 py-1 text-[11px] font-bold text-ds-text-secondary hover:border-ds-accent"
             >
-              Details
+              {t('inv.details')}
             </button>
             <button
               type="button"
@@ -357,7 +374,7 @@ export function InvestorPublicSection({
               }}
               className="rounded-md border border-ds-border-subtle bg-ds-surface-raised px-2 py-1 text-[11px] font-bold text-ds-text-secondary hover:border-ds-accent"
             >
-              Embed
+              {t('inv.embed')}
             </button>
             <button
               type="button"
@@ -368,7 +385,7 @@ export function InvestorPublicSection({
                   : 'border-ds-border-subtle bg-ds-surface-raised text-ds-text-secondary'
               }`}
             >
-              Compare
+              {t('inv.compare')}
             </button>
           </div>
         </div>
@@ -404,15 +421,15 @@ export function InvestorPublicSection({
       <div className="flex items-start justify-between gap-3">
         <div className="min-w-0">
           <div className="flex items-center gap-2 text-[11px] font-semibold uppercase tracking-[0.16em] text-ds-text-secondary">
-            <BriefcaseBusiness size={15} className="text-ds-warning" /> Find land to invest
+            <BriefcaseBusiness size={15} className="text-ds-warning" /> {t('inv.title')}
           </div>
           <p className="mt-1 text-xs leading-5 text-ds-text-secondary">
-            Answer 3 simple questions. We’ll shortlist Haryana zones with official rates and show them on the map.
+            {t('inv.intro')}
           </p>
         </div>
         {started ? (
           <div className="rounded-lg border border-ds-warning/30 bg-ds-warning-subtle px-2 py-1 text-[11px] font-bold text-ds-warning">
-            {count} matches
+            {t('inv.matches', { n: count })}
           </div>
         ) : null}
       </div>
@@ -436,7 +453,7 @@ export function InvestorPublicSection({
               </span>
             ))}
             <span className="ml-1">
-              {step === 1 ? 'What do you want to build?' : step === 2 ? 'What’s your land budget?' : 'Where should we search?'}
+              {step === 1 ? t('inv.q1') : step === 2 ? t('inv.q2') : t('inv.q3')}
             </span>
           </div>
 
@@ -474,7 +491,7 @@ export function InvestorPublicSection({
                 ))}
               </div>
               <button type="button" onClick={() => setStep(1)} className="text-[11px] font-semibold text-ds-accent">
-                ← Back
+                {t('inv.back')}
               </button>
             </div>
           ) : null}
@@ -484,8 +501,8 @@ export function InvestorPublicSection({
               <div className="grid grid-cols-1 gap-2">
                 <ChoiceCard
                   active={!filters.district && !filters.nearMe}
-                  title="All of Haryana"
-                  blurb="Best matches statewide"
+                  title={t('inv.where.all')}
+                  blurb={t('inv.where.all.blurb')}
                   onClick={() => {
                     updateFilter('district', '');
                     updateFilter('nearMe', false);
@@ -493,11 +510,14 @@ export function InvestorPublicSection({
                 />
                 <ChoiceCard
                   active={filters.nearMe}
-                  title="Near the map center"
+                  title={t('inv.where.near')}
                   blurb={
                     selectedLocation?.lat != null
-                      ? `Around ${Number(selectedLocation.lat).toFixed(2)}°N, ${Number(selectedLocation.lng).toFixed(2)}°E`
-                      : 'Pan the map first, then search nearby'
+                      ? t('inv.where.near.blurb', {
+                          lat: Number(selectedLocation.lat).toFixed(2),
+                          lng: Number(selectedLocation.lng).toFixed(2),
+                        })
+                      : t('inv.where.near.blurbEmpty')
                   }
                   onClick={() => {
                     updateFilter('nearMe', true);
@@ -507,19 +527,19 @@ export function InvestorPublicSection({
               </div>
               {filters.nearMe ? (
                 <SelectField
-                  label="How far?"
+                  label={t('inv.howFar')}
                   value={String(filters.nearRadiusKm || 25)}
                   onChange={(value) => updateFilter('nearRadiusKm', Number(value))}
                   options={[
-                    { value: '10', label: 'Within 10 km' },
-                    { value: '25', label: 'Within 25 km' },
-                    { value: '50', label: 'Within 50 km' },
-                    { value: '100', label: 'Within 100 km' },
+                    { value: '10', label: t('inv.withinKm', { km: 10 }) },
+                    { value: '25', label: t('inv.withinKm', { km: 25 }) },
+                    { value: '50', label: t('inv.withinKm', { km: 50 }) },
+                    { value: '100', label: t('inv.withinKm', { km: 100 }) },
                   ]}
                 />
               ) : (
                 <SelectField
-                  label="Or pick a district"
+                  label={t('inv.pickDistrict')}
                   value={filters.district}
                   onChange={(value) => {
                     updateFilter('district', value);
@@ -530,18 +550,18 @@ export function InvestorPublicSection({
               )}
               <div className="flex flex-wrap items-center gap-2">
                 <button type="button" onClick={() => setStep(2)} className="text-[11px] font-semibold text-ds-accent">
-                  ← Back
+                  {t('inv.back')}
                 </button>
                 <button
                   type="button"
                   onClick={handleFindMatches}
                   className="inline-flex h-10 flex-1 items-center justify-center gap-2 rounded-xl bg-ds-accent px-4 text-sm font-bold text-white hover:opacity-95 sm:flex-none"
                 >
-                  <Search size={15} /> Find matches
+                  <Search size={15} /> {t('inv.find')}
                 </button>
               </div>
               <div className="rounded-lg border border-ds-border-subtle bg-ds-surface-sunken px-3 py-2 text-[11px] text-ds-text-secondary">
-                Try an example:{' '}
+                {t('inv.example')}{' '}
                 <button
                   type="button"
                   className="font-semibold text-ds-accent underline"
@@ -558,7 +578,7 @@ export function InvestorPublicSection({
                     onSearchReady?.();
                   }}
                 >
-                  Factory · under ₹5 cr · Gurugram
+                  {t('inv.exampleLabel')}
                 </button>
               </div>
             </div>
@@ -571,10 +591,10 @@ export function InvestorPublicSection({
         <div className="mt-4 space-y-3">
           <div className="flex flex-wrap items-center justify-between gap-2 rounded-xl border border-ds-border-subtle bg-ds-surface-sunken px-3 py-2 text-[11px] text-ds-text-secondary">
             <span>
-              Looking for <strong className="text-ds-text-primary">{USE_OPTIONS.find((u) => u.value === filters.sector)?.title || filters.sector}</strong>
+              {t('inv.lookingFor')} <strong className="text-ds-text-primary">{USE_OPTIONS.find((u) => u.value === filters.sector)?.title || filters.sector}</strong>
               {' · '}
               <strong className="text-ds-text-primary">
-                {BUDGET_OPTIONS.find((b) => b.value === filters.budget)?.title || 'Any budget'}
+                {BUDGET_OPTIONS.find((b) => b.value === filters.budget)?.title || t('inv.budget.any')}
               </strong>
               {' · '}
               <strong className="text-ds-text-primary">{placeSummary}</strong>
@@ -587,14 +607,14 @@ export function InvestorPublicSection({
               }}
               className="font-semibold text-ds-accent"
             >
-              Change search
+              {t('inv.change')}
             </button>
           </div>
 
           {mapHighlightCount > 0 ? (
             <div className="rounded-lg border border-ds-accent/25 bg-ds-accent-subtle px-3 py-2 text-[11px] leading-5 text-ds-accent-text">
               <MapPinned size={13} className="mr-1 inline" />
-              Colored outlines on the map are your top {mapHighlightCount} matches. Tap a card to fly there.
+              {t('inv.mapHint', { n: mapHighlightCount })}
             </div>
           ) : null}
 
@@ -604,7 +624,7 @@ export function InvestorPublicSection({
 
           {loading ? (
             <div className="rounded-xl bg-ds-surface-sunken px-3 py-6 text-center text-sm text-ds-text-secondary">
-              Finding the best matches for you…
+              {t('inv.finding')}
               <SlowSearchHint />
             </div>
           ) : null}
@@ -612,9 +632,9 @@ export function InvestorPublicSection({
           {!loading && !opportunities.length ? (
             <div className="rounded-xl border border-dashed border-ds-border-subtle bg-ds-surface-sunken px-4 py-6 text-center">
               <AlertTriangle size={18} className="mx-auto text-ds-warning" />
-              <div className="mt-2 text-sm font-semibold text-ds-text-primary">No matches for this search</div>
+              <div className="mt-2 text-sm font-semibold text-ds-text-primary">{t('inv.none')}</div>
               <p className="mt-1 text-xs text-ds-text-secondary">
-                Try a wider budget, another district, or turn off “near map”.
+                {t('inv.noneHint')}
               </p>
               <button
                 type="button"
@@ -624,7 +644,7 @@ export function InvestorPublicSection({
                 }}
                 className="mt-3 text-[11px] font-semibold text-ds-accent"
               >
-                Edit your answers
+                {t('inv.edit')}
               </button>
             </div>
           ) : null}
@@ -632,7 +652,7 @@ export function InvestorPublicSection({
           {top ? (
             <div>
               <div className="mb-2 text-[10px] font-semibold uppercase tracking-[0.16em] text-ds-text-tertiary">
-                Best match for you
+                {t('inv.best')}
               </div>
               <ZoneCard zone={top} index={0} featured />
             </div>
@@ -641,7 +661,7 @@ export function InvestorPublicSection({
           {rest.length ? (
             <div>
               <div className="mb-2 text-[10px] font-semibold uppercase tracking-[0.16em] text-ds-text-tertiary">
-                Other strong options
+                {t('inv.others')}
               </div>
               <div className="space-y-2">
                 {rest.map((zone, i) => (
@@ -654,7 +674,7 @@ export function InvestorPublicSection({
           {more.length ? (
             <details className="rounded-xl border border-ds-border-subtle bg-ds-surface-sunken px-3 py-2">
               <summary className="cursor-pointer text-[11px] font-semibold text-ds-text-secondary">
-                Show {more.length} more results
+                {t('inv.more', { n: more.length })}
               </summary>
               <div className="mt-2 space-y-2">
                 {more.map((zone, i) => (
@@ -671,28 +691,22 @@ export function InvestorPublicSection({
               className="flex w-full items-center justify-between gap-2 text-left"
             >
               <span className="flex items-center gap-2 text-[12px] font-semibold text-ds-text-primary">
-                <Info size={14} className="text-ds-accent" /> How we price land
+                <Info size={14} className="text-ds-accent" /> {t('inv.pricingHelp')}
               </span>
               {showPricingHelp ? <ChevronUp size={14} /> : <ChevronDown size={14} />}
             </button>
             {showPricingHelp ? (
               <ul className="mt-2 space-y-1.5 text-[11px] leading-5 text-ds-text-secondary">
-                <li>
-                  <strong className="text-ds-text-primary">Official rate</strong> = government collector / circle rate for that district.
-                </li>
-                <li>
-                  <strong className="text-ds-text-primary">Market deals</strong> = attributable auction/comps nearby (when available).
-                </li>
-                <li>
-                  <strong className="text-ds-text-primary">Land cost incl. fees</strong> = typical parcel × rate, plus stamp 5% and registration 1%.
-                </li>
-                <li>We never invent rates. If data is thin, we say so with low confidence.</li>
+                <li>{t('inv.pricing.official')}</li>
+                <li>{t('inv.pricing.market')}</li>
+                <li>{t('inv.pricing.allIn')}</li>
+                <li>{t('inv.pricing.never')}</li>
               </ul>
             ) : null}
           </div>
 
           <p className="text-[10px] leading-4 text-ds-text-tertiary">
-            LOCATIUM is a screening tool — not investment advice. Always verify title, zoning, and latest DC rates before you buy.
+            {t('inv.disclaimer')}
           </p>
 
           {/* Quick actions for public */}
@@ -985,6 +999,7 @@ export function InvestorPublicSection({
 
 /** After a few seconds of waiting, explains why a first district search is slow. */
 function SlowSearchHint() {
+  const t = useT();
   const [seconds, setSeconds] = useState(0);
   useEffect(() => {
     const id = setInterval(() => setSeconds((v) => v + 1), 1000);
@@ -992,9 +1007,6 @@ function SlowSearchHint() {
   }, []);
   if (seconds < 6) return null;
   return (
-    <p className="mt-2 text-xs leading-5 text-ds-text-tertiary">
-      Checking every site in this district ({seconds}s). The first search in a large district can take
-      a minute or two; after that it&apos;s instant.
-    </p>
+    <p className="mt-2 text-xs leading-5 text-ds-text-tertiary">{t('inv.slow', { s: seconds })}</p>
   );
 }

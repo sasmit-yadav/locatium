@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from 'react';
 import { AnimatePresence, motion } from 'framer-motion';
 import { useFloatingPanel } from './copilot/useFloatingPanel';
+import { useLangStore, useT } from '../i18n';
 import { usePrefersReducedMotion } from '../design-system/usePrefersReducedMotion';
 import {
   MessageCircle,
@@ -35,6 +36,25 @@ import { InlineMarkdown } from './ui/InlineMarkdown';
 import { downloadInvestorReportById } from '../services/investor';
 
 // Ordered for a first-time visitor: orientation, then budget, then vocabulary, then analysis.
+const GREETING = {
+  en: "Hi — I'm sitting on this Haryana map with you. Never bought land before? Ask in plain words. Type or tap the mic, in English, हिंदी or Hinglish. Click a spot, or say what you want — I'll score it, flag risks, walk next steps, and actually save or email a report when you tap Confirm.",
+  hi: 'नमस्ते — मैं इस हरियाणा नक्शे पर आपके साथ हूँ। पहली बार ज़मीन खरीद रहे हैं? आसान शब्दों में पूछिए — लिखकर या माइक दबाकर, हिंदी, English या Hinglish में। नक्शे पर कोई जगह चुनें या बताएँ क्या चाहिए — मैं स्कोर बताऊँगा, जोखिम दिखाऊँगा, अगले कदम समझाऊँगा, और Confirm दबाने पर रिपोर्ट सेव या ईमेल भी करूँगा।',
+};
+const FRESH_START = {
+  en: 'Fresh start. What should we look at — a pin on the map, a district shortlist, or land ₹?',
+  hi: 'नई शुरुआत। क्या देखें — नक्शे पर कोई जगह, किसी ज़िले के विकल्प, या ज़मीन की कीमत?',
+};
+/** Hindi display text for the starter chips; the English text is what gets sent. */
+const STARTER_LABELS_HI = {
+  'I am new — how does this work?': 'मैं नया हूँ — यह कैसे काम करता है?',
+  'I have ₹2 crore, where should I look?': 'मेरे पास ₹2 करोड़ हैं, कहाँ देखूँ?',
+  'What is a circle rate?': 'सर्कल रेट क्या होता है?',
+  'ye jagah industrial ke liye kaisi hai?': 'ये जगह फैक्ट्री के लिए कैसी है?',
+  'What should I do after I like a zone?': 'कोई इलाका पसंद आने के बाद क्या करूँ?',
+  'gurgaon me best warehouse under 5 cr': 'गुड़गाँव में 5 करोड़ से कम में सबसे अच्छा गोदाम',
+};
+const starterLabels = (lang, chips) => (lang === 'hi' ? chips.map((c) => STARTER_LABELS_HI[c] || c) : null);
+
 const STARTER_CHIPS = [
   'I am new — how does this work?',
   'I have ₹2 crore, where should I look?',
@@ -126,6 +146,7 @@ export function AskLocatiumWidget() {
   const [open, setOpen] = useState(false);
   const [expanded, setExpanded] = useState(false);
   const reduceMotion = usePrefersReducedMotion();
+  const t = useT();
   const leftCollapsedForLayout = useDashboardStore((s) => s.leftCollapsed);
   const rightCollapsedForLayout = useDashboardStore((s) => s.rightCollapsed);
   // Re-measure the map area whenever a side panel opens or closes.
@@ -134,13 +155,15 @@ export function AskLocatiumWidget() {
   const [busy, setBusy] = useState(false);
   const [phase, setPhase] = useState('');
   const [session, setSession] = useState({});
-  const [messages, setMessages] = useState([
+  const siteLang = useLangStore.getState().lang;
+  const [messages, setMessages] = useState(() => [
     {
       role: 'assistant',
-      text: "Hi — I'm sitting on this Haryana map with you. Never bought land before? Ask in plain words. Type or tap the mic, in English, हिंदी or Hinglish. Click a spot, or say what you want — I'll score it, flag risks, walk next steps, and actually save or email a report when you tap Confirm.",
+      text: GREETING[siteLang] || GREETING.en,
       method: null,
       actions: [],
       followUps: STARTER_CHIPS.slice(0, 4),
+      followUpLabels: starterLabels(siteLang, STARTER_CHIPS.slice(0, 4)),
     },
   ]);
   const listRef = useRef(null);
@@ -153,7 +176,8 @@ export function AskLocatiumWidget() {
   const [transcribing, setTranscribing] = useState(false);
   const [speakReplies, setSpeakReplies] = useState(false);
   const [speakingNow, setSpeakingNow] = useState(false);
-  const [langPref, setLangPref] = useState('auto'); // auto | en | hi
+  // Follows the site language when Hindi is chosen; "auto" otherwise mirrors how you write.
+  const [langPref, setLangPref] = useState(() => (siteLang === 'hi' ? 'hi' : 'auto')); // auto | en | hi
   const [voiceError, setVoiceError] = useState('');
   const canRecord = isRecordingSupported();
   const canSpeak = isSpeechSupported();
@@ -440,10 +464,11 @@ export function AskLocatiumWidget() {
     setMessages([
       {
         role: 'assistant',
-        text: 'Fresh start. What should we look at — a pin on the map, a district shortlist, or land ₹?',
+        text: FRESH_START[useLangStore.getState().lang] || FRESH_START.en,
         method: null,
         actions: [],
         followUps: STARTER_CHIPS.slice(0, 4),
+        followUpLabels: starterLabels(useLangStore.getState().lang, STARTER_CHIPS.slice(0, 4)),
       },
     ]);
   }
@@ -571,6 +596,7 @@ export function AskLocatiumWidget() {
               followUps: final.beginner?.isNew && final.beginner.starters?.length
                 ? final.beginner.starters
                 : final.followUps || [],
+              followUpLabels: final.beginner?.isNew && final.beginner.starters?.length ? null : final.followUpLabels || null,
               opportunities: final.opportunities || [],
               scoredLocation: final.scoredLocation,
               intents: final.intents,
@@ -603,7 +629,7 @@ export function AskLocatiumWidget() {
   const pinLabel =
     selectionIsExplicit && selectedLocation?.name
       ? selectedLocation.name
-      : 'Map center (no pin yet)';
+      : t('copilot.noPin');
 
   const shellBase =
     'pointer-events-auto fixed flex flex-col overflow-hidden border border-ds-border-default bg-ds-surface-raised shadow-2xl shadow-black/20';
@@ -633,7 +659,7 @@ export function AskLocatiumWidget() {
   return (
     <>
       <AnimatePresence>
-        {!open && (
+        {!open && !(panel.compact && !rightCollapsedForLayout) && (
           <motion.button
             key="launcher"
             type="button"
@@ -644,13 +670,13 @@ export function AskLocatiumWidget() {
             exit={{ opacity: 0, scale: 0.9 }}
             whileHover={reduceMotion ? undefined : { y: -2 }}
             whileTap={reduceMotion ? undefined : { scale: 0.96 }}
-            className={`pointer-events-auto fixed z-[1100] flex items-center gap-2 rounded-full border border-ds-border-default bg-ds-surface-raised px-4 py-2.5 text-sm font-medium text-ds-text-primary shadow-lg shadow-black/15 transition-colors hover:border-ds-accent hover:text-ds-accent ${
-              panel.launcherStyle ? '' : 'bottom-4 right-4'
+            className={`pointer-events-auto fixed z-[1100] flex items-center gap-2 rounded-full border border-ds-border-default bg-ds-surface-raised text-sm font-medium text-ds-text-primary shadow-lg shadow-black/15 transition-colors hover:border-ds-accent hover:text-ds-accent ${
+              panel.launcherStyle ? 'px-4 py-2.5' : 'bottom-5 right-[76px] h-14 w-14 justify-center'
             }`}
             aria-label="Ask LOCATIUM copilot"
           >
-            <Sparkles size={18} className="text-ds-accent" />
-            Ask LOCATIUM
+            <Sparkles size={panel.compact ? 22 : 18} className="text-ds-accent" />
+            {panel.compact ? <span className="sr-only">{t('copilot.launcher')}</span> : t('copilot.launcher')}
           </motion.button>
         )}
       </AnimatePresence>
@@ -678,7 +704,7 @@ export function AskLocatiumWidget() {
           <header
             onPointerDown={expanded ? undefined : panel.onDragStart}
             onDoubleClick={expanded || panel.compact ? undefined : panel.redock}
-            title={expanded || panel.compact ? undefined : 'Drag to move · double-click to dock'}
+            title={expanded || panel.compact ? undefined : t('copilot.dragHint')}
             className={`flex items-start justify-between gap-2 border-b border-ds-border-subtle bg-gradient-to-r from-ds-accent-subtle to-transparent px-4 py-3 ${
               expanded || panel.compact ? '' : panel.dragging ? 'cursor-grabbing' : 'cursor-grab'
             }`}
@@ -686,8 +712,8 @@ export function AskLocatiumWidget() {
             <div className="min-w-0">
               <div className="flex items-center gap-2">
                 <Sparkles size={16} className="text-ds-accent" />
-                <div className="whitespace-nowrap text-sm font-semibold text-ds-text-primary">Ask LOCATIUM</div>
-                {panel.style && panel.style.width < 400 ? null : (
+                <div className="whitespace-nowrap text-sm font-semibold text-ds-text-primary">{t('copilot.launcher')}</div>
+                {panel.compact || (panel.style && panel.style.width < 400) ? null : (
                   <span className="rounded-full bg-ds-accent/10 px-2 py-0.5 text-[10px] font-semibold uppercase tracking-wide text-ds-accent">
                     Copilot
                   </span>
@@ -695,7 +721,7 @@ export function AskLocatiumWidget() {
               </div>
               <div className="mt-1 flex items-center gap-1 text-[11px] text-ds-text-tertiary">
                 <MapPin size={11} />
-                <span className="truncate">Context pin: {pinLabel}</span>
+                <span className="truncate">{t('copilot.pin')}: {pinLabel}</span>
               </div>
             </div>
             <div className="flex shrink-0 items-center gap-1">
@@ -731,7 +757,8 @@ export function AskLocatiumWidget() {
                 type="button"
                 onClick={resetChat}
                 className="rounded-lg p-1.5 text-ds-text-tertiary hover:bg-ds-surface-sunken hover:text-ds-text-primary"
-                title="New chat"
+                title={t('copilot.newChat')}
+                aria-label={t('copilot.newChat')}
               >
                 <RotateCcw size={15} />
               </button>
@@ -739,7 +766,8 @@ export function AskLocatiumWidget() {
                 type="button"
                 onClick={() => setExpanded((v) => !v)}
                 className="rounded-lg p-1.5 text-ds-text-tertiary hover:bg-ds-surface-sunken hover:text-ds-text-primary"
-                title={expanded ? 'Shrink' : 'Expand'}
+                title={expanded ? t('copilot.shrink') : t('copilot.expand')}
+                aria-label={expanded ? t('copilot.shrink') : t('copilot.expand')}
               >
                 {expanded ? <Minimize2 size={15} /> : <Maximize2 size={15} />}
               </button>
@@ -747,7 +775,8 @@ export function AskLocatiumWidget() {
                 type="button"
                 onClick={() => setOpen(false)}
                 className="rounded-lg p-1.5 text-ds-text-tertiary hover:bg-ds-surface-sunken hover:text-ds-text-primary"
-                aria-label="Close"
+                aria-label={t('copilot.close')}
+                title={t('copilot.close')}
               >
                 <X size={16} />
               </button>
@@ -842,7 +871,7 @@ export function AskLocatiumWidget() {
                             {p.confirm || p.label}
                           </span>
                           <span className="shrink-0 text-[9px] uppercase tracking-wide text-ds-text-tertiary">
-                            Confirm
+                            {p.confirmLabel || t('copilot.confirm')}
                           </span>
                         </button>
                       ))}
@@ -850,14 +879,14 @@ export function AskLocatiumWidget() {
                   ) : null}
                   {m.followUps?.length && idx === messages.length - 1 && !busy ? (
                     <div className="mt-2 flex flex-wrap gap-1.5">
-                      {m.followUps.map((s) => (
+                      {m.followUps.map((s, i) => (
                         <button
                           key={s}
                           type="button"
                           onClick={() => submit(s)}
                           className="rounded-full border border-ds-border-subtle bg-ds-surface-raised px-2.5 py-1 text-[11px] text-ds-text-secondary hover:border-ds-accent hover:text-ds-accent"
                         >
-                          {s}
+                          {m.followUpLabels?.[i] || s}
                         </button>
                       ))}
                     </div>
@@ -873,7 +902,7 @@ export function AskLocatiumWidget() {
                       onClick={() => downloadReport(m.actionReport.id, idx)}
                       className="mt-1.5 inline-flex items-center gap-1 rounded-full border border-ds-accent px-3 py-1 text-[11px] font-semibold text-ds-accent hover:bg-ds-accent/10"
                     >
-                      Download PDF
+                      {t('copilot.downloadPdf')}
                     </button>
                   ) : null}
                   {m.disclaimer ? (
@@ -912,7 +941,7 @@ export function AskLocatiumWidget() {
                 placeholder={
                   recording
                     ? 'Listening… tap the square to finish'
-                    : 'Ask anything — English, हिंदी or Hinglish. Typos fine.'
+                    : t('copilot.placeholder')
                 }
                 className="min-w-0 flex-1 resize-none rounded-xl border border-ds-border-default bg-ds-surface-base px-3 py-2 text-sm text-ds-text-primary outline-none placeholder:text-ds-text-tertiary focus:border-ds-accent"
                 disabled={busy || recording}
@@ -959,7 +988,7 @@ export function AskLocatiumWidget() {
                   ? 'Converting speech to text…'
                   : speakingNow
                     ? 'Reading the answer aloud…'
-                    : 'Enter to send · Shift+Enter for newline · remembers this chat'}
+                    : t('copilot.enterHint')}
             </div>
           </form>
         </motion.div>

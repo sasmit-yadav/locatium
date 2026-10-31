@@ -2,9 +2,11 @@ import { Command, Search } from 'lucide-react';
 import { useDashboardStore } from '../stores/useDashboardStore';
 import { useKeyboardShortcut } from '../hooks/useKeyboardShortcut';
 import { layout } from '../design-system/tokens';
+import { useT } from '../i18n';
 
 export function GlobalSearch() {
   const setOpen = useDashboardStore((s) => s.setCommandPaletteOpen);
+  const t = useT();
 
   useKeyboardShortcut(() => setOpen(true));
 
@@ -19,8 +21,8 @@ export function GlobalSearch() {
         <Search size={layout.iconInline} className="shrink-0 text-ds-text-tertiary" aria-hidden />
         {/* Narrow screens get the short form; the full phrase wrapped onto three lines
             and pushed the header controls out of the viewport. */}
-        <span className="truncate sm:hidden">Search…</span>
-        <span className="hidden truncate sm:inline">Search places, layers, commands…</span>
+        <span className="truncate sm:hidden">{t('nav.searchShort')}</span>
+        <span className="hidden truncate sm:inline">{t('nav.searchLong')}</span>
       </div>
       {/* The shortcut hint is meaningless without a physical keyboard. */}
       <span className="hidden shrink-0 items-center gap-1 rounded-ds-sm border border-ds-border bg-ds-surface-raised px-ds-2 py-0.5 text-ds-caption text-ds-text-tertiary sm:flex">

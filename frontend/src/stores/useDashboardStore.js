@@ -13,7 +13,22 @@ import { buildDefaultVisibility, getLayerFocus } from '../config/enterpriseLayer
 const LEFT_PANEL_INLINE_PX = 1024; // Tailwind lg
 const INSPECTOR_INLINE_PX = 1280; // Tailwind xl
 const viewportWidth = typeof window !== 'undefined' ? window.innerWidth || 0 : 0;
-const leftStartsCollapsed = viewportWidth > 0 && viewportWidth < LEFT_PANEL_INLINE_PX;
+// The layer catalogue is an expert tool: everyone starts with it closed (the rail still
+// opens it). LEFT_PANEL_INLINE_PX stays documented for the panels' own breakpoints.
+void LEFT_PANEL_INLINE_PX;
+const leftStartsCollapsed = true;
+
+/** First visit (and every visit until the person ticks "don't show again") opens on the welcome screen. */
+function welcomeStartsOpen() {
+  if (typeof window === 'undefined') return false;
+  try {
+    if (window.localStorage.getItem('locatium.welcome.skip') === '1') return false;
+  } catch {
+    /* storage unavailable: show it */
+  }
+  const params = new URLSearchParams(window.location.search);
+  return !params.has('share') && window.location.pathname === '/';
+}
 const inspectorStartsCollapsed = viewportWidth > 0 && viewportWidth < INSPECTOR_INLINE_PX;
 
 export const useDashboardStore = create((set) => ({
@@ -42,6 +57,7 @@ export const useDashboardStore = create((set) => ({
   leftCollapsed: leftStartsCollapsed,
   rightCollapsed: inspectorStartsCollapsed,
   activeWorkspace: 'explore',
+  welcomeOpen: welcomeStartsOpen(),
   activeLeftTab: 'layers',
   isCommandPaletteOpen: false,
   activeInspectorTab: 'overview',
@@ -51,6 +67,9 @@ export const useDashboardStore = create((set) => ({
   investorHighlights: null,
   analysisOverlay: null,
   setActiveWorkspace: (activeWorkspace) => set({ activeWorkspace }),
+  setWelcomeOpen: (welcomeOpen) => set({ welcomeOpen }),
+  /** Opens the inspector on a tab — used by the welcome screen's big buttons. */
+  openInspector: (activeInspectorTab) => set({ activeInspectorTab, rightCollapsed: false }),
   activateWorkspace: (activeWorkspace) =>
     set((state) => {
       const leftTabs = {
@@ -89,7 +108,7 @@ export const useDashboardStore = create((set) => ({
   setAnalysisOverlay: (analysisOverlay) => set({ analysisOverlay }),
   setSelectedLocation: (selectedLocation) => set({ selectedLocation, selectionIsExplicit: true }),
   setSelectedFeature: (selectedFeature) => set({ selectedFeature }),
-  flyTo: ({ lng, lat, zoom = 12, name, type, feature }) =>
+  flyTo: ({ lng, lat, zoom = 12, name, type, feature, district, tehsil }) =>
     set({
       goToRequest: { t: Date.now(), lng, lat, zoom },
       selectedFeature: feature
@@ -102,9 +121,9 @@ export const useDashboardStore = create((set) => ({
         : null,
       selectedLocation: {
         name: name || 'Selected location',
-        district: 'Haryana',
-        tehsil: type || 'Spatial entity',
-        landType: feature?.tableId || 'Point analysis',
+        district: district || 'Haryana',
+        tehsil: tehsil || null,
+        landType: type || feature?.tableId || 'Point analysis',
         area: 'On-demand scoring',
         lng,
         lat,

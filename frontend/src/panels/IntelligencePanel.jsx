@@ -12,6 +12,9 @@ import {
 import { ScoreGauge } from '../analytics/ScoreGauge';
 import { ScoreBreakdown } from '../analytics/ScoreBreakdown';
 import { MethodBadge } from '../components/MethodBadge';
+import { CheckPlotCard } from '../components/plot/CheckPlotCard';
+import { ScoreWord } from '../components/ui/ScoreWord';
+import { useT } from '../i18n';
 import { InvestorPublicSection } from '../components/InvestorPublicSection';
 import { scoreLocation, getLandForecast } from '../services/analysis';
 import { compareInvestorZones, downloadInvestorReport, downloadPortfolioReport, emailInvestorReport, getInvestorDistricts, getInvestorOpportunities, getInvestorZoneAnalysis } from '../services/investor';
@@ -261,6 +264,7 @@ function acres(value) {
 }
 
 export function IntelligencePanel({ collapsed }) {
+  const t = useT();
   const [investorFilters, setInvestorFilters] = useState({
     sector: 'industrial',
     risk: 'medium',
@@ -449,7 +453,7 @@ export function IntelligencePanel({ collapsed }) {
   });
 
   const districtOptions = [
-    { value: '', label: 'All districts' },
+    { value: '', label: t('inv.allDistricts') },
     ...(districtsQuery.data || []).map((d) => ({ value: d, label: d })),
   ];
 
@@ -824,7 +828,7 @@ export function IntelligencePanel({ collapsed }) {
       <div className="flex shrink-0 flex-col border-b border-ds-border-subtle">
         <div className="flex items-center justify-between p-ds-3">
           <div className="flex items-center gap-ds-2 text-ds-caption uppercase tracking-wide text-ds-text-tertiary">
-            <Brain size={layout.iconInline} className="text-ds-accent" /> Inspector
+            <Brain size={layout.iconInline} className="text-ds-accent" /> {t('inspector.title')}
           </div>
           <div className="flex gap-ds-1">
             <button
@@ -840,17 +844,17 @@ export function IntelligencePanel({ collapsed }) {
         </div>
         
         <div className="flex gap-ds-4 px-ds-3">
-          {['overview', 'analysis', 'investor'].map((t) => (
+          {['overview', 'investor', 'analysis'].map((tab) => (
             <button
-              key={t}
+              key={tab}
               type="button"
-              className={`relative flex h-10 items-center text-ds-body-med capitalize transition-colors duration-ds-fast ease-ds ${
-                activeTab === t ? 'text-ds-text-primary' : 'text-ds-text-secondary hover:text-ds-text-primary'
+              className={`relative flex h-10 items-center text-ds-body-med transition-colors duration-ds-fast ease-ds ${
+                activeTab === tab ? 'text-ds-text-primary' : 'text-ds-text-secondary hover:text-ds-text-primary'
               }`}
-              onClick={() => setActiveTab(t)}
+              onClick={() => setActiveTab(tab)}
             >
-              {t}
-              {activeTab === t ? <span className="absolute inset-x-0 bottom-0 h-0.5 bg-ds-accent" aria-hidden /> : null}
+              {t(`tab.${tab}`)}
+              {activeTab === tab ? <span className="absolute inset-x-0 bottom-0 h-0.5 bg-ds-accent" aria-hidden /> : null}
             </button>
           ))}
         </div>
@@ -861,37 +865,46 @@ export function IntelligencePanel({ collapsed }) {
           <>
         <section className="rounded-lg border border-ds-border-subtle bg-ds-surface-raised p-4">
           <div className="flex items-start justify-between gap-3">
-            <div>
-              <div className="text-[11px] font-semibold uppercase tracking-[0.16em] text-ds-text-secondary">Location overview</div>
+            <div className="min-w-0">
+              <div className="text-[11px] font-semibold uppercase tracking-[0.16em] text-ds-text-secondary">{t('overview.kicker')}</div>
               <h2 className="mt-1 text-xl font-bold text-ds-text-primary">
-                {selectionIsExplicit ? selectedLocation.name : 'Select a location'}
+                {selectionIsExplicit
+                  ? selectedLocation.name === 'Selected analysis point'
+                    ? t('overview.selected')
+                    : selectedLocation.name
+                  : t('overview.selectTitle')}
               </h2>
               {selectionIsExplicit ? (
-                <div className="mt-2 grid grid-cols-2 gap-2 text-xs text-ds-text-secondary">
-                  <span>District: {selectedLocation.district}</span>
-                  <span>Tehsil: {selectedLocation.tehsil}</span>
-                  <span>Land: {selectedLocation.landType}</span>
-                  <span>{selectedLocation.area}</span>
+                <div className="mt-2 flex flex-wrap gap-x-4 gap-y-1 text-xs text-ds-text-secondary">
+                  {selectedLocation.district && selectedLocation.district !== 'Haryana' ? (
+                    <span>
+                      {t('overview.district')}: {selectedLocation.district}
+                    </span>
+                  ) : null}
+                  {selectedLocation.tehsil && !['Map selection', 'Select a point'].includes(selectedLocation.tehsil) ? (
+                    <span>
+                      {t('overview.tehsil')}: {selectedLocation.tehsil}
+                    </span>
+                  ) : null}
                 </div>
               ) : (
-                <p className="mt-2 text-xs leading-5 text-ds-text-secondary">
-                  Search for a place or click the map to run a live, evidence-backed score.
-                </p>
+                <p className="mt-2 text-xs leading-5 text-ds-text-secondary">{t('overview.selectHint')}</p>
               )}
             </div>
-            <div className="grid h-20 w-24 place-items-center rounded-lg border border-ds-border bg-ds-surface-sunken text-center">
+            <div className="grid h-20 w-24 shrink-0 place-items-center rounded-lg border border-ds-border bg-ds-surface-sunken text-center">
               <div>
                 <div className="text-xl font-black text-ds-accent">{selectionIsExplicit ? analysis?.overallScore ?? '…' : '—'}</div>
-                <div className="text-[9px] uppercase tracking-wide text-ds-text-tertiary">score</div>
+                {selectionIsExplicit && analysis?.overallScore != null ? (
+                  <ScoreWord score={analysis.overallScore} className="mt-0.5" />
+                ) : (
+                  <div className="text-[9px] uppercase tracking-wide text-ds-text-tertiary">{t('score.label')}</div>
+                )}
               </div>
             </div>
           </div>
-          {selectionIsExplicit ? (
-            <div className="mt-3 rounded-lg bg-ds-surface-sunken px-3 py-2 font-mono text-xs text-ds-text-secondary">
-              {selectedLocation.lat.toFixed(5)}, {selectedLocation.lng.toFixed(5)}
-            </div>
-          ) : null}
         </section>
+
+        {selectionIsExplicit && !selectedInvestorZoneId ? <CheckPlotCard location={selectedLocation} /> : null}
 
         {selectedFeature ? (
           <section className="rounded-lg border border-ds-border-subtle bg-ds-surface-raised p-4">
@@ -925,9 +938,17 @@ export function IntelligencePanel({ collapsed }) {
           </div>
         ) : null}
 
-        <ScoreInsightsBlock analysis={analysis} loading={analysisQuery.isLoading} />
-
-        <ScoreBreakdown breakdown={analysis?.scoreBreakdown} />
+        {selectionIsExplicit ? (
+          <details className="group rounded-lg border border-ds-border-subtle bg-ds-surface-raised">
+            <summary className="cursor-pointer select-none px-4 py-3 text-xs font-semibold text-ds-text-secondary hover:text-ds-text-primary">
+              {t('overview.technical')}
+            </summary>
+            <div className="space-y-ds-4 border-t border-ds-border-subtle p-3">
+              <ScoreInsightsBlock analysis={analysis} loading={analysisQuery.isLoading} />
+              <ScoreBreakdown breakdown={analysis?.scoreBreakdown} />
+            </div>
+          </details>
+        ) : null}
 
         {selectedInvestorZoneId ? (
           <section className="rounded-lg border border-ds-warning/30 bg-ds-surface-raised p-4">
