@@ -700,6 +700,7 @@ function sanitizeOpportunityRow(zone) {
     mlScore: zone.mlScore,
     mlMethod: zone.mlMethod,
     mlAdjusted: zone.mlAdjusted,
+    mlExperimental: zone.mlExperimental ?? null,
     verdict: zone.verdict,
     components: zone.components,
     weights: zone.weights,

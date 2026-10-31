@@ -1,3 +1,4 @@
+const { mlOverrideEnabled } = require('../config');
 const defaultMlClient = require('./mlClient');
 const defaultFallbackScoring = require('./fallbackScoring');
 const { buildScoreInsights } = require('./score-insights.service');
@@ -60,8 +61,18 @@ async function writeScoreCache(scoreMemory, key, value) {
 
 function mergeMlInvestment(heuristicResult, mlPayload) {
   const mlResult = mlPayload.result || {};
-  const useMlOverall =
+  const mlAvailable =
     mlPayload.method === 'ml' && mlResult.mlAdjusted && typeof mlResult.overallScore === 'number';
+  const useMlOverall = mlAvailable && mlOverrideEnabled();
+  const mlExperimental = mlAvailable
+    ? {
+        overallScore: mlResult.overallScore,
+        modelVersion: mlPayload.model_version || null,
+        trainingRows: mlResult.trainingRows ?? null,
+        appliedToScore: useMlOverall,
+        note: 'Experimental: trained on 30 synthetic labels derived from the input features; not validated against real investment outcomes.',
+      }
+    : null;
 
   return {
     ...heuristicResult,
@@ -77,10 +88,11 @@ function mergeMlInvestment(heuristicResult, mlPayload) {
       },
     },
     weights: heuristicResult.weights,
-    method: mlPayload.method || 'heuristic',
-    confidence: typeof mlPayload.confidence === 'number' ? mlPayload.confidence : 1.0,
-    model_version: mlPayload.model_version || HEURISTIC_VERSION,
+    method: useMlOverall ? 'ml' : 'heuristic',
+    confidence: useMlOverall && typeof mlPayload.confidence === 'number' ? mlPayload.confidence : 1.0,
+    model_version: useMlOverall ? mlPayload.model_version || HEURISTIC_VERSION : HEURISTIC_VERSION,
     mlAdjusted: useMlOverall,
+    mlExperimental,
     district: mlResult.district,
     trainingRows: mlResult.trainingRows,
     fallback: false,

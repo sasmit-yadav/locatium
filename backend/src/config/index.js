@@ -74,6 +74,17 @@ const mlServiceTimeoutMs =
   Number(process.env.ML_SERVICE_TIMEOUT_MS) ||
   (process.env.NODE_ENV === 'production' ? 75_000 : 8_000);
 
+/**
+ * The investment model is trained on 30 HSIIDC rows whose labels are derived from the same
+ * spatial features it reads (db/zone_features.sql), so it can only re-learn a hand formula.
+ * Until real outcome data exists its output is reported as an experimental shadow score and
+ * never replaces or blends into the formula score. Set ML_OVERRIDE_ENABLED=true to restore
+ * the old override behaviour (e.g. after retraining on real outcomes).
+ */
+function mlOverrideEnabled() {
+  return process.env.ML_OVERRIDE_ENABLED === 'true';
+}
+
 function validateProductionConfig() {
   if (process.env.NODE_ENV !== 'production') return;
 
@@ -128,5 +139,6 @@ module.exports = {
   mapServerExchangeUrl,
   mlServiceUrl,
   mlServiceTimeoutMs,
+  mlOverrideEnabled,
   validateProductionConfig,
 };

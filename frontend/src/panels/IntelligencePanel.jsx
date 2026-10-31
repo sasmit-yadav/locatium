@@ -773,7 +773,7 @@ export function IntelligencePanel({ collapsed }) {
       });
       const modeNote =
         result.deliveryMode === 'outbox'
-          ? 'Saved to the local outbox; SMTP delivery is not configured.'
+          ? "Email isn't set up on this server, so nothing was sent. The report is saved: download it from Reports."
           : `Email sent successfully to ${result.to}.`;
       setEmailState((prev) => ({
         ...prev,
@@ -1145,7 +1145,11 @@ export function IntelligencePanel({ collapsed }) {
                 </div>
               </div>
               {analysis ? (
-                <MethodBadge method={analysis.method} modelVersion={analysis.model_version} fallback={analysis.fallback} />
+                <MethodBadge
+                  method={analysis.method}
+                  fallback={analysis.fallback}
+                  experimentalScore={analysis.mlExperimental?.appliedToScore ? null : analysis.mlExperimental?.overallScore ?? null}
+                />
               ) : null}
             </div>
 

@@ -2,6 +2,7 @@
  * Unified zone enrichment — v3 analysis + land value + policy + plots + ML + Redis cache.
  */
 
+const { mlOverrideEnabled } = require('../config');
 const analysisScoring = require('./analysis-scoring.service');
 const mlClient = require('./mlClient');
 const { estimateLandValue } = require('./land-value.service');
@@ -79,7 +80,8 @@ function overlayFromOutcome(outcome, opportunityScore, { asFallback = false } = 
   if (outcome?.label_score == null) return null;
   const mlScore = Number(outcome.label_score);
   if (!Number.isFinite(mlScore)) return null;
-  const blend = asFallback ? 0.2 : 0.25;
+  // Synthetic labels never move the ranked score unless the override is explicitly enabled.
+  const blend = mlOverrideEnabled() ? (asFallback ? 0.2 : 0.25) : 0;
   return {
     mlScore,
     mlMethod: 'zone_outcomes_synthetic',
@@ -87,6 +89,7 @@ function overlayFromOutcome(outcome, opportunityScore, { asFallback = false } = 
     mlModelVersion: 'zone_outcomes-land-v2',
     mlConfidence: asFallback ? 0.35 : 0.45,
     displayScore: Math.round(opportunityScore * (1 - blend) + mlScore * blend),
+    mlExperimental: !mlOverrideEnabled(),
     trainingRows: null,
     priceAppreciation: outcome.price_appreciation != null ? Number(outcome.price_appreciation) : null,
   };
@@ -138,8 +141,10 @@ async function applyMlOverlay(zone, sector, analysis, opportunityScore) {
     const mlResult = mlPayload.result || mlPayload;
     const mlScore = typeof mlResult.overallScore === 'number' ? mlResult.overallScore : null;
     const mlAdjusted = mlPayload.method === 'ml' && mlResult.mlAdjusted === true;
-    const blendedScore =
-      mlAdjusted && mlScore != null
+    // The model is experimental (see config.mlOverrideEnabled): report it, never blend it in.
+    const blendedScore = !mlOverrideEnabled()
+      ? opportunityScore
+      : mlAdjusted && mlScore != null
         ? Math.round(opportunityScore * 0.55 + mlScore * 0.45)
         : mlScore != null
           ? Math.round(opportunityScore * 0.75 + mlScore * 0.25)
@@ -152,6 +157,7 @@ async function applyMlOverlay(zone, sector, analysis, opportunityScore) {
         mlModelVersion: mlPayload.model_version || mlResult.model_version,
         mlConfidence: mlPayload.confidence,
         displayScore: blendedScore,
+        mlExperimental: !mlOverrideEnabled(),
         trainingRows: mlResult.trainingRows,
         landFeatures: mlResult.landFeatures || null,
       };

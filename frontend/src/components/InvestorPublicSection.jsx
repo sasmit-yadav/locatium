@@ -388,9 +388,9 @@ export function InvestorPublicSection({
             ))}
             {zone.mlScore != null ? (
               <MethodBadge
-                method={zone.mlAdjusted ? 'ml' : 'heuristic'}
-                modelVersion={zone.mlModelVersion}
+                method={zone.mlAdjusted && !zone.mlExperimental ? 'ml' : 'heuristic'}
                 fallback={zone.mlMethod === 'unavailable'}
+                experimentalScore={zone.mlExperimental ? zone.mlScore : null}
               />
             ) : null}
           </div>

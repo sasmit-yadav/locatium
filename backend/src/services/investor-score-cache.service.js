@@ -8,7 +8,7 @@ const MEMORY = new Map();
 const DEFAULT_TTL_SEC = Number(process.env.INVESTOR_SCORE_CACHE_TTL_SEC) || 3600;
 const MEMORY_TTL_MS = DEFAULT_TTL_SEC * 1000;
 
-const CACHE_VERSION = 'v8';
+const CACHE_VERSION = 'v9'; // v9: ML / synthetic labels no longer blended into ranked scores
 
 /**
  * `depth` keeps the fast ranking payload and the fully enriched payload in separate

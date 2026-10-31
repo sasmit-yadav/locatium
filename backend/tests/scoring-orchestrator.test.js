@@ -1,4 +1,4 @@
-const { test, describe, mock } = require('node:test');
+const { test, describe, mock, after } = require('node:test');
 const assert = require('node:assert/strict');
 const { createScoringOrchestrator } = require('../src/services/scoringOrchestrator');
 
@@ -38,7 +38,27 @@ describe('scoringOrchestrator', () => {
     assert.equal(result.fallback, false);
   });
 
-  test('uses ML overall score when method is ml but keeps Node component scores', async () => {
+  test('reports the ML score as experimental and keeps the formula overall by default', async () => {
+    delete process.env.ML_OVERRIDE_ENABLED;
+    const orchestrator = makeOrchestrator({
+      scoreInvestment: async () => ({
+        method: 'ml',
+        confidence: 0.88,
+        model_version: 'investment-v1',
+        result: { overallScore: 81, mlAdjusted: true, trainingRows: 30 },
+      }),
+    });
+    const result = await orchestrator.scoreLocation(sampleInput);
+    assert.equal(result.method, 'heuristic');
+    assert.equal(result.mlAdjusted, false);
+    assert.notEqual(result.overallScore, 81);
+    assert.equal(result.mlExperimental.overallScore, 81);
+    assert.equal(result.mlExperimental.appliedToScore, false);
+  });
+
+  test('uses ML overall score when ML_OVERRIDE_ENABLED=true but keeps Node component scores', async () => {
+    process.env.ML_OVERRIDE_ENABLED = 'true';
+    after(() => delete process.env.ML_OVERRIDE_ENABLED);
     const orchestrator = makeOrchestrator({
       scoreInvestment: async () => ({
         method: 'ml',
