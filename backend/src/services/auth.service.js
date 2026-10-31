@@ -76,6 +76,12 @@ async function persistRefreshToken(db, userId, refreshToken) {
 }
 
 async function register({ email, password }) {
+  if (
+    process.env.NODE_ENV === 'production' &&
+    process.env.ALLOW_PUBLIC_REGISTRATION !== 'true'
+  ) {
+    throw AppError.forbidden('Public registration is disabled for this showcase');
+  }
   assertJwtSecrets();
   const pool = assertDb();
   const emailNorm = validateEmail(email);
@@ -149,6 +155,41 @@ async function login({ email, password }) {
   };
 }
 
+async function loginDemo() {
+  if (process.env.DEMO_MODE !== 'true') {
+    throw AppError.notFound('Demo login is not enabled');
+  }
+
+  assertJwtSecrets();
+  const pool = assertDb();
+  const email = validateEmail(process.env.DEMO_USER_EMAIL);
+  const { rows } = await pool.query(
+    `SELECT id, email, role, created_at
+     FROM users
+     WHERE email = $1 AND role = 'investor'
+     LIMIT 1`,
+    [email]
+  );
+  if (!rows[0]) {
+    throw AppError.serviceUnavailable(
+      'Demo user is not provisioned; run the user bootstrap command'
+    );
+  }
+
+  const user = rows[0];
+  const accessToken = issueAccessToken(user);
+  return {
+    user: {
+      id: user.id,
+      email: user.email,
+      role: user.role,
+      created_at: user.created_at,
+    },
+    accessToken,
+    demo: true,
+  };
+}
+
 async function refresh({ refreshToken }) {
   assertJwtSecrets();
   const pool = assertDb();
@@ -212,27 +253,82 @@ async function logout({ refreshToken }) {
 
 async function getProfile(userId) {
   const pool = assertDb();
-  const { rows } = await pool.query(
-    `SELECT id, email, role, created_at, updated_at FROM users WHERE id = $1`,
-    [userId]
-  );
-  if (rows.length === 0) {
-    throw AppError.unauthorized('User not found');
+  try {
+    const { rows } = await pool.query(
+      `SELECT id, email, role, display_name, created_at, updated_at FROM users WHERE id = $1`,
+      [userId]
+    );
+    if (rows.length === 0) {
+      throw AppError.unauthorized('User not found');
+    }
+    const u = rows[0];
+    return {
+      id: u.id,
+      email: u.email,
+      role: u.role,
+      display_name: u.display_name || null,
+      created_at: u.created_at,
+      updated_at: u.updated_at,
+    };
+  } catch (err) {
+    if (err.code !== '42703') throw err;
+    const { rows } = await pool.query(
+      `SELECT id, email, role, created_at, updated_at FROM users WHERE id = $1`,
+      [userId]
+    );
+    if (rows.length === 0) throw AppError.unauthorized('User not found');
+    const u = rows[0];
+    return {
+      id: u.id,
+      email: u.email,
+      role: u.role,
+      display_name: null,
+      created_at: u.created_at,
+      updated_at: u.updated_at,
+    };
   }
-  const u = rows[0];
-  return {
-    id: u.id,
-    email: u.email,
-    role: u.role,
-    created_at: u.created_at,
-    updated_at: u.updated_at,
-  };
+}
+
+async function updateProfile(userId, { displayName } = {}) {
+  const pool = assertDb();
+  const name = typeof displayName === 'string' ? displayName.trim() : '';
+  if (!name || name.length < 2 || name.length > 80) {
+    throw AppError.badRequest('Display name must be 2–80 characters');
+  }
+  if (!/^[\p{L}\p{N} .'-]+$/u.test(name)) {
+    throw AppError.badRequest('Display name contains unsupported characters');
+  }
+  try {
+    const { rows } = await pool.query(
+      `UPDATE users SET display_name = $2, updated_at = now()
+       WHERE id = $1
+       RETURNING id, email, role, display_name, created_at, updated_at`,
+      [userId, name]
+    );
+    if (!rows[0]) throw AppError.unauthorized('User not found');
+    const u = rows[0];
+    return {
+      id: u.id,
+      email: u.email,
+      role: u.role,
+      display_name: u.display_name,
+      created_at: u.created_at,
+      updated_at: u.updated_at,
+    };
+  } catch (err) {
+    if (err.code === '42703') {
+      throw AppError.serviceUnavailable('Run db:migrate to enable profile names');
+    }
+    throw err;
+  }
 }
 
 module.exports = {
   register,
   login,
+  loginDemo,
   refresh,
   logout,
   getProfile,
+  updateProfile,
 };

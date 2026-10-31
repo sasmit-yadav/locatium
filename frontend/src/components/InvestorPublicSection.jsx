@@ -1,3 +1,5 @@
+/* Zone cards intentionally close over the current investor workflow callbacks. */
+/* eslint-disable react-hooks/static-components */
 import { useMemo, useState } from 'react';
 import {
   AlertTriangle,
@@ -344,6 +346,18 @@ export function InvestorPublicSection({
               className="rounded-md border border-ds-border-subtle bg-ds-surface-raised px-2 py-1 text-[11px] font-bold text-ds-text-secondary hover:border-ds-accent"
             >
               Details
+            </button>
+            <button
+              type="button"
+              onClick={() => {
+                const url = `${window.location.origin}/embed/${encodeURIComponent(zone.id)}`;
+                navigator.clipboard.writeText(
+                  `<iframe src="${url}" title="${zone.name} LOCATIUM card" width="420" height="360" style="border:0"></iframe>`
+                );
+              }}
+              className="rounded-md border border-ds-border-subtle bg-ds-surface-raised px-2 py-1 text-[11px] font-bold text-ds-text-secondary hover:border-ds-accent"
+            >
+              Embed
             </button>
             <button
               type="button"

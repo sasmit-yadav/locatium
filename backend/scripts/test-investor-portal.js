@@ -7,12 +7,15 @@ require('dotenv').config({ path: require('path').join(__dirname, '..', '.env') }
 const assert = require('assert').strict;
 
 const BASE = process.env.API_URL || `http://localhost:${process.env.PORT || 3002}`;
+const TEST_USER_EMAIL = process.env.TEST_USER_EMAIL;
+const TEST_USER_PASSWORD = process.env.TEST_USER_PASSWORD;
 
 async function login() {
+  assert.ok(TEST_USER_EMAIL && TEST_USER_PASSWORD, 'TEST_USER_EMAIL and TEST_USER_PASSWORD are required');
   const res = await fetch(`${BASE}/api/auth/login`, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ email: 'analyst@locatium.in', password: 'sas@123456789' }),
+    body: JSON.stringify({ email: TEST_USER_EMAIL, password: TEST_USER_PASSWORD }),
   });
   assert.equal(res.status, 200, 'login failed');
   const json = await res.json();
@@ -101,7 +104,7 @@ async function main() {
     method: 'POST',
     body: JSON.stringify({
       savedSearchId: searchId,
-      email: 'analyst@locatium.in',
+      email: TEST_USER_EMAIL,
       minScoreDelta: 5,
     }),
   });

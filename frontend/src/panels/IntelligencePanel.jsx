@@ -1,8 +1,6 @@
-import { useState, useEffect } from 'react';
+import { lazy, Suspense, useState, useEffect } from 'react';
 import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query';
-import { motion } from 'framer-motion';
-import { AlertTriangle, Brain, Building2, CheckCircle2, ChevronDown, ChevronUp, Mail, MapPinned, Route, ShieldCheck, Trophy, Zap, Pin, PanelRightClose, Search } from 'lucide-react';
-import { EChartPanel } from '../analytics/EChartPanel';
+import { AlertTriangle, Brain, Building2, CheckCircle2, Mail, MapPinned, Route, ShieldCheck, Trophy, Zap, PanelRightClose } from 'lucide-react';
 import {
   accessibilityContourOption,
   facilityBarOption,
@@ -15,11 +13,23 @@ import { ScoreGauge } from '../analytics/ScoreGauge';
 import { ScoreBreakdown } from '../analytics/ScoreBreakdown';
 import { MethodBadge } from '../components/MethodBadge';
 import { InvestorPublicSection } from '../components/InvestorPublicSection';
-import { scoreLocation } from '../services/analysis';
+import { scoreLocation, getLandForecast } from '../services/analysis';
 import { compareInvestorZones, downloadInvestorReport, downloadPortfolioReport, emailInvestorReport, getInvestorDistricts, getInvestorOpportunities, getInvestorZoneAnalysis } from '../services/investor';
 import { useDashboardStore } from '../stores/useDashboardStore';
 import { addFavorite, deleteFavorite, listFavorites, recordAnalysis, saveSearch, listSearches, getPipelineBoard, upsertPipelineItem, upsertPortfolio, listPortfolios, deletePortfolio, subscribeSearchAlert, listSearchAlerts, deleteSearchAlert } from '../services/portal';
 import { layout } from '../design-system/tokens';
+
+const LazyEChartPanel = lazy(() =>
+  import('../analytics/EChartPanel').then((module) => ({ default: module.EChartPanel }))
+);
+
+function EChartPanel(props) {
+  return (
+    <Suspense fallback={<div className="h-56 animate-pulse rounded-lg bg-ds-surface-sunken" />}>
+      <LazyEChartPanel {...props} />
+    </Suspense>
+  );
+}
 
 function Metric({ icon: Icon, label, value, tone = 'accent' }) {
   const color =
@@ -37,16 +47,6 @@ function Metric({ icon: Icon, label, value, tone = 'accent' }) {
 function distance(value) {
   if (value === null || value === undefined) return 'N/A';
   return `${Number(value).toFixed(2)} km`;
-}
-
-function formatInr(value) {
-  if (value == null || Number.isNaN(Number(value))) return 'N/A';
-  return `₹${Number(value).toLocaleString('en-IN')}`;
-}
-
-function buildInsight(analysis) {
-  if (!analysis) return 'Select a location on the map to generate location intelligence.';
-  return analysis.insights?.summary || 'Analysis complete — see component scores below.';
 }
 
 function InsightList({ title, items, icon: Icon, tone = 'default' }) {
@@ -202,38 +202,62 @@ function ScoreInsightsBlock({ analysis, loading }) {
   );
 }
 
+const OUTLOOK_CONFIDENCE_TONE = {
+  medium: 'text-ds-text-secondary',
+  low: 'text-ds-warning',
+  very_low: 'text-ds-warning',
+};
+
+/**
+ * Forward land-price outlook.
+ *
+ * This extrapolates published collector-rate revisions, so it renders the method, the
+ * confidence and the horizon cap alongside the numbers — a projected rupee figure shown
+ * bare would read as a forecast, which it is not. When the rate history is too thin the
+ * service says so, and we show that reason rather than hiding the section.
+ */
+function LandOutlook({ outlook }) {
+  if (!outlook) return null;
+
+  if (outlook.method !== 'official_rate_trend' || !outlook.horizons?.length) {
+    return (
+      <p className="mt-2 border-t border-ds-border-subtle pt-2 text-[11px] leading-5 text-ds-text-tertiary">
+        No forward outlook: {outlook.note || 'not enough official rate history for this district.'}
+      </p>
+    );
+  }
+
+  return (
+    <div className="mt-3 border-t border-ds-border-subtle pt-3">
+      <div className="flex items-baseline justify-between gap-2">
+        <span className="text-[11px] font-semibold uppercase tracking-[0.16em] text-ds-text-secondary">
+          Official-rate outlook
+        </span>
+        <span className={`text-[10px] ${OUTLOOK_CONFIDENCE_TONE[outlook.confidence] || 'text-ds-text-tertiary'}`}>
+          {outlook.cagrPct}%/yr · {String(outlook.confidence).replace('_', ' ')} confidence
+        </span>
+      </div>
+      <ul className="mt-2 space-y-1">
+        {outlook.horizons.map((h) => (
+          <li key={h.years} className="flex items-baseline justify-between gap-2 text-xs">
+            <span className="text-ds-text-secondary">{h.year}</span>
+            <span className="font-semibold text-ds-text-primary">
+              ₹{Number(h.p50).toLocaleString('en-IN')}
+              <span className="ml-1 font-normal text-ds-text-tertiary">
+                (₹{Number(h.p10).toLocaleString('en-IN')}–₹{Number(h.p90).toLocaleString('en-IN')})
+              </span>
+            </span>
+          </li>
+        ))}
+      </ul>
+      <p className="mt-2 text-[11px] leading-5 text-ds-text-tertiary">{outlook.note}</p>
+    </div>
+  );
+}
+
 function acres(value) {
   if (!value) return 'N/A';
   return `${Number(value).toFixed(Number(value) >= 10 ? 1 : 2)} ac`;
-}
-
-function SelectField({ label, value, onChange, options }) {
-  return (
-    <label className="block min-w-0">
-      <span className="mb-1 block text-[10px] font-semibold uppercase tracking-[0.14em] text-ds-text-secondary">{label}</span>
-      <div className="relative min-w-0">
-        <select
-          value={value}
-          onChange={(event) => onChange(event.target.value)}
-          className="h-9 w-full min-w-0 appearance-none truncate rounded-lg border border-ds-border-subtle bg-ds-surface-sunken py-0 pl-2.5 pr-8 text-xs font-semibold text-ds-text-primary outline-none transition focus:border-ds-accent"
-        >
-          {options.map((option) => (
-            <option key={option.value} value={option.value} className="bg-ds-surface-raised text-ds-text-primary">
-              {option.label}
-            </option>
-          ))}
-        </select>
-        <span
-          aria-hidden
-          className="pointer-events-none absolute inset-y-0 right-0 flex w-8 items-center justify-center text-ds-text-tertiary"
-        >
-          <svg width="12" height="12" viewBox="0 0 12 12" fill="none">
-            <path d="M3 4.5L6 7.5L9 4.5" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
-          </svg>
-        </span>
-      </div>
-    </label>
-  );
 }
 
 export function IntelligencePanel({ collapsed }) {
@@ -273,6 +297,8 @@ export function IntelligencePanel({ collapsed }) {
     success: '',
   });
   const selectedLocation = useDashboardStore((s) => s.selectedLocation);
+  const selectionIsExplicit = useDashboardStore((s) => s.selectionIsExplicit);
+  const mapView = useDashboardStore((s) => s.view);
   
   // Bookmarking / favorites functionality
   const queryClient = useQueryClient();
@@ -329,8 +355,36 @@ export function IntelligencePanel({ collapsed }) {
   const activeTab = useDashboardStore((s) => s.activeInspectorTab);
   const setInvestorHighlights = useDashboardStore((s) => s.setInvestorHighlights);
   const setActiveTab = useDashboardStore((s) => s.setActiveInspectorTab);
-  const isPinned = useDashboardStore((s) => s.isInspectorPinned);
-  const togglePin = useDashboardStore((s) => s.toggleInspectorPin);
+
+  useEffect(() => {
+    const applyFilters = (event) => {
+      const next = event.detail || {};
+      setInvestorFilters((current) => ({
+        ...current,
+        ...(next.sector ? { sector: next.sector } : {}),
+        ...(next.district ? { district: next.district } : {}),
+        ...(next.risk ? { risk: next.risk } : {}),
+        ...(next.zoneType ? { zoneType: next.zoneType } : {}),
+        ...(next.budgetInr
+          ? { budget: '', maxLandCr: String(Math.ceil(Number(next.budgetInr) / 10_000_000)) }
+          : {}),
+      }));
+      setInvestorReady(true);
+    };
+    const compareZones = (event) => {
+      const zoneIds = Array.isArray(event.detail) ? event.detail.filter(Boolean).slice(0, 4) : [];
+      if (zoneIds.length >= 2) {
+        setCompareIds(zoneIds);
+        setInvestorReady(true);
+      }
+    };
+    window.addEventListener('locatium:apply-investor-filters', applyFilters);
+    window.addEventListener('locatium:compare-zones', compareZones);
+    return () => {
+      window.removeEventListener('locatium:apply-investor-filters', applyFilters);
+      window.removeEventListener('locatium:compare-zones', compareZones);
+    };
+  }, []);
 
   const analysisQuery = useQuery({
     queryKey: ['score-location', selectedLocation.lat, selectedLocation.lng],
@@ -355,17 +409,32 @@ export function IntelligencePanel({ collapsed }) {
     },
     staleTime: 1000 * 60 * 5,
     retry: 1,
+    enabled: selectionIsExplicit,
+  });
+
+  const forecastQuery = useQuery({
+    queryKey: ['land-forecast', selectedLocation.lat, selectedLocation.lng],
+    queryFn: () =>
+      getLandForecast({
+        lat: selectedLocation.lat,
+        lng: selectedLocation.lng,
+        sector: 'industrial',
+        horizon: [1, 3, 5],
+      }),
+    staleTime: 1000 * 60 * 5,
+    retry: 1,
+    enabled: selectionIsExplicit,
   });
 
   const opportunitiesQuery = useQuery({
-    queryKey: ['investor-opportunities', investorFilters, selectedLocation.lat, selectedLocation.lng],
+    queryKey: ['investor-opportunities', investorFilters, mapView.lat, mapView.lng],
     queryFn: () =>
       getInvestorOpportunities({
         ...investorFilters,
         district: investorFilters.district,
         limit: 20,
-        nearLat: investorFilters.nearMe ? selectedLocation.lat : null,
-        nearLng: investorFilters.nearMe ? selectedLocation.lng : null,
+        nearLat: investorFilters.nearMe ? mapView.lat : null,
+        nearLng: investorFilters.nearMe ? mapView.lng : null,
       }),
     enabled: investorReady && activeTab === 'investor',
     staleTime: 1000 * 60 * 10,
@@ -569,6 +638,17 @@ export function IntelligencePanel({ collapsed }) {
       zoom: 14,
       name: zone.name,
       type: zone.type,
+      feature: {
+        tableId: zone.tableId,
+        layerId: 'industrial-investment',
+        investorZoneId: zone.id,
+        featureId: zone.featureId,
+        name: zone.name,
+        type: zone.type,
+        geometry: zone.geometry,
+        center: zone.center,
+        properties: zone.properties,
+      },
     });
     setActiveTab('analysis');
   }
@@ -693,12 +773,12 @@ export function IntelligencePanel({ collapsed }) {
       });
       const modeNote =
         result.deliveryMode === 'outbox'
-          ? 'Saved to server outbox (SMTP not configured).'
-          : 'Email sent successfully.';
+          ? 'Saved to the local outbox; SMTP delivery is not configured.'
+          : `Email sent successfully to ${result.to}.`;
       setEmailState((prev) => ({
         ...prev,
         loading: false,
-        success: `${modeNote} Delivered to ${result.to}.`,
+        success: modeNote,
         error: '',
       }));
     } catch (error) {
@@ -737,24 +817,16 @@ export function IntelligencePanel({ collapsed }) {
   if (rightCollapsed) return null;
 
   return (
-    <div className="z-ds-floating-panel flex w-[420px] shrink-0 flex-col border-l border-ds-border bg-ds-surface-raised shadow-ds-sm">
+    // Below md the inspector is a bottom sheet over the map, matching the left panel.
+    // As a fixed-width flex column it claimed 420px of a 375px viewport, which together
+    // with the rail left the map no width at all.
+    <div className="z-ds-floating-panel flex max-h-[85vh] w-full shrink-0 flex-col border-ds-border bg-ds-surface-raised shadow-ds-sm max-xl:fixed max-xl:inset-x-0 max-xl:bottom-0 max-xl:rounded-t-ds-lg max-xl:border max-xl:border-b-0 xl:h-auto xl:max-h-none xl:w-[420px] xl:border-l">
       <div className="flex shrink-0 flex-col border-b border-ds-border-subtle">
         <div className="flex items-center justify-between p-ds-3">
           <div className="flex items-center gap-ds-2 text-ds-caption uppercase tracking-wide text-ds-text-tertiary">
             <Brain size={layout.iconInline} className="text-ds-accent" /> Inspector
           </div>
           <div className="flex gap-ds-1">
-            <button
-              type="button"
-              onClick={togglePin}
-              className={`grid h-8 w-8 place-items-center rounded-ds-sm transition focus-visible:outline-none focus-visible:shadow-ds-focus ${
-                isPinned ? 'bg-ds-accent-subtle text-ds-accent' : 'text-ds-text-secondary hover:bg-ds-surface-sunken hover:text-ds-text-primary'
-              }`}
-              title={isPinned ? 'Unpin' : 'Pin'}
-              aria-label={isPinned ? 'Unpin inspector' : 'Pin inspector'}
-            >
-              <Pin size={layout.iconInline} />
-            </button>
             <button
               type="button"
               onClick={toggleRight}
@@ -791,19 +863,34 @@ export function IntelligencePanel({ collapsed }) {
           <div className="flex items-start justify-between gap-3">
             <div>
               <div className="text-[11px] font-semibold uppercase tracking-[0.16em] text-ds-text-secondary">Location overview</div>
-              <h2 className="mt-1 text-xl font-bold text-ds-text-primary">{selectedLocation.name}</h2>
-              <div className="mt-2 grid grid-cols-2 gap-2 text-xs text-ds-text-secondary">
-                <span>District: {selectedLocation.district}</span>
-                <span>Tehsil: {selectedLocation.tehsil}</span>
-                <span>Land: {selectedLocation.landType}</span>
-                <span>{selectedLocation.area}</span>
+              <h2 className="mt-1 text-xl font-bold text-ds-text-primary">
+                {selectionIsExplicit ? selectedLocation.name : 'Select a location'}
+              </h2>
+              {selectionIsExplicit ? (
+                <div className="mt-2 grid grid-cols-2 gap-2 text-xs text-ds-text-secondary">
+                  <span>District: {selectedLocation.district}</span>
+                  <span>Tehsil: {selectedLocation.tehsil}</span>
+                  <span>Land: {selectedLocation.landType}</span>
+                  <span>{selectedLocation.area}</span>
+                </div>
+              ) : (
+                <p className="mt-2 text-xs leading-5 text-ds-text-secondary">
+                  Search for a place or click the map to run a live, evidence-backed score.
+                </p>
+              )}
+            </div>
+            <div className="grid h-20 w-24 place-items-center rounded-lg border border-ds-border bg-ds-surface-sunken text-center">
+              <div>
+                <div className="text-xl font-black text-ds-accent">{selectionIsExplicit ? analysis?.overallScore ?? '…' : '—'}</div>
+                <div className="text-[9px] uppercase tracking-wide text-ds-text-tertiary">score</div>
               </div>
             </div>
-            <div className="h-20 w-24 rounded-lg border border-ds-border bg-ds-surface-sunken" />
           </div>
-          <div className="mt-3 rounded-lg bg-ds-surface-sunken px-3 py-2 font-mono text-xs text-ds-text-secondary">
-            {selectedLocation.lat.toFixed(5)}, {selectedLocation.lng.toFixed(5)}
-          </div>
+          {selectionIsExplicit ? (
+            <div className="mt-3 rounded-lg bg-ds-surface-sunken px-3 py-2 font-mono text-xs text-ds-text-secondary">
+              {selectedLocation.lat.toFixed(5)}, {selectedLocation.lng.toFixed(5)}
+            </div>
+          ) : null}
         </section>
 
         {selectedFeature ? (
@@ -1076,6 +1163,25 @@ export function IntelligencePanel({ collapsed }) {
 
         <ScoreInsightsBlock analysis={analysis} loading={analysisQuery.isLoading} />
 
+        {forecastQuery.data ? (
+          <section className="rounded-lg border border-ds-border-subtle bg-ds-surface-raised p-4">
+            <div className="text-[11px] font-semibold uppercase tracking-[0.16em] text-ds-text-secondary">Land-price band</div>
+            <div className="mt-2 text-lg font-black text-ds-text-primary">
+              {forecastQuery.data.p50 != null
+                ? `₹${Number(forecastQuery.data.p50).toLocaleString('en-IN')}/sq yd`
+                : 'Insufficient data'}
+            </div>
+            {forecastQuery.data.p10 != null && forecastQuery.data.p90 != null ? (
+              <div className="mt-1 text-xs text-ds-text-secondary">
+                Band ₹{Number(forecastQuery.data.p10).toLocaleString('en-IN')} – ₹{Number(forecastQuery.data.p90).toLocaleString('en-IN')}
+                {forecastQuery.data.confidence ? ` · ${forecastQuery.data.confidence} confidence` : ''}
+              </div>
+            ) : null}
+            <p className="mt-2 text-[11px] leading-5 text-ds-text-tertiary">{forecastQuery.data.note}</p>
+            <LandOutlook outlook={forecastQuery.data.outlook} />
+          </section>
+        ) : null}
+
         <ScoreBreakdown breakdown={analysis?.scoreBreakdown} />
 
         <section className="grid grid-cols-1 gap-3">
@@ -1133,7 +1239,11 @@ export function IntelligencePanel({ collapsed }) {
               loading={opportunitiesQuery.isLoading}
               error={opportunitiesQuery.isError ? opportunitiesQuery.error.message : ''}
               mapHighlightCount={(opportunitiesQuery.data?.mapHighlights || []).length}
-              selectedLocation={selectedLocation}
+              selectedLocation={
+                selectionIsExplicit
+                  ? selectedLocation
+                  : { ...selectedLocation, name: 'Current map center', lat: mapView.lat, lng: mapView.lng }
+              }
               expandedZoneId={expandedZoneId}
               setExpandedZoneId={setExpandedZoneId}
               compareIds={compareIds}

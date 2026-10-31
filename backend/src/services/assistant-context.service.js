@@ -128,6 +128,67 @@ function renderOpportunities(rows, limit) {
   return out;
 }
 
+function renderForecast(band) {
+  if (!band?.p50 && !band?.note) return [];
+  const bits = [
+    band.p10 != null ? `p10 Rs ${inr(band.p10)}` : null,
+    band.p50 != null ? `p50 Rs ${inr(band.p50)}` : null,
+    band.p90 != null ? `p90 Rs ${inr(band.p90)}` : null,
+    band.confidence ? `confidence ${band.confidence}` : null,
+    band.district || null,
+  ].filter(Boolean);
+  return [
+    'LAND PRICE BAND (current collector-rate + comps — NOT a future-year forecast):',
+    `  ${bits.join(' | ')}`,
+    band.note ? `  ${band.note}` : null,
+  ].filter(Boolean);
+}
+
+function renderFacilityGap(gap) {
+  if (!gap?.summary) return [];
+  const s = gap.summary;
+  const out = [
+    'FACILITY GAP (hospitals+schools within 5km of HSIIDC centroids; screening only):',
+    `  zones ${s.zones || 0} | severe ${s.severe || 0} | gap ${s.gap || 0} | moderate ${s.moderate || 0} | served ${s.served || 0}`,
+  ];
+  if (gap.weakest?.length) {
+    out.push(
+      `  weakest: ${gap.weakest
+        .slice(0, 4)
+        .map((w) => `${w.district || 'zone'} ${w.gapClass} (H${w.hospitals5km}/S${w.schools5km})`)
+        .join('; ')}`
+    );
+  }
+  if (s.note) out.push(`  ${s.note}`);
+  return out;
+}
+
+function renderDiligence(block) {
+  if (!block?.steps?.length) return [];
+  const out = ['DILIGENCE NEXT STEPS (screening checklist, not legal advice):'];
+  block.steps.forEach((step, i) => out.push(`  ${i + 1}. ${step}`));
+  (block.extra || []).forEach((line) => out.push(`  note: ${line}`));
+  return out;
+}
+
+function renderCheaper(rows) {
+  if (!rows?.length) return [];
+  return [
+    'CHEAPER PICKS FROM THIS SHORTLIST (lower est. Rs/sqyd):',
+    ...rows.slice(0, 3).map(
+      (z, i) =>
+        `  ${i + 1}. ${z.name} (${z.district}) — Rs ${inr(z.landValue.estimatedPerSqYardInr)}/sqyd, score ${z.opportunityScore}`
+    ),
+  ];
+}
+
+function renderPendingAct(act) {
+  if (!act?.type) return [];
+  return [
+    `PENDING ACTION: ${act.type} — if you confirm, this will actually run (save / email / generate). Narrate that tapping Confirm does it; do not send them to finish in another panel.`,
+  ];
+}
+
 function renderPolicies(rows) {
   if (!rows?.length) return [];
   const out = ['POLICY EXCERPTS (cite by citation string):'];
@@ -153,6 +214,7 @@ function renderContext(context = {}, { tokenBudget = DEFAULT_TOKEN_BUDGET } = {}
     line('DISTRICT', context.district),
     line('BUDGET_INR', context.budgetInr ? `Rs ${inr(context.budgetInr)}` : null),
     line('RISK_FILTER', context.risk),
+    line('PREFERENCE', context.preference),
     line('MAP_PIN', context.mapPoint ? `${context.mapPoint.lat},${context.mapPoint.lng}` : null),
     line('INTENTS', (context.intents || []).join(',')),
   ].filter(Boolean);
@@ -194,7 +256,12 @@ function renderContext(context = {}, { tokenBudget = DEFAULT_TOKEN_BUDGET } = {}
     { name: 'glossary', lines: glossary, required: true },
     { name: 'howItWorks', lines: howItWorks },
     { name: 'score', lines: renderScore(context.scoredLocation) },
+    { name: 'forecast', lines: renderForecast(context.forecast) },
     { name: 'opportunities', lines: renderOpportunities(context.opportunities, 6) },
+    { name: 'cheaper', lines: renderCheaper(context.cheaperPicks) },
+    { name: 'facilityGap', lines: renderFacilityGap(context.facilityGap) },
+    { name: 'diligence', lines: renderDiligence(context.diligence) },
+    { name: 'pendingAct', lines: renderPendingAct(context.pendingAct), required: true },
     { name: 'policies', lines: renderPolicies(context.policies) },
     {
       name: 'notes',

@@ -4,7 +4,7 @@ import { colors } from '../design-system/tokens';
  * Horizontal score bar — preferred over radial gauges (ui_enhance.md §6.3).
  * Uses dataSequential bands: 0–40 needs improvement, 40–70 mid, 70–100 strong.
  */
-export function ScoreGauge({ label, value = 0, kind = 'infrastructure', suffix = '/100', tooltip }) {
+export function ScoreGauge({ label, value = 0, suffix = '/100', tooltip }) {
   const pct = Math.max(0, Math.min(100, Number(value) || 0));
   const band =
     pct >= 70 ? 'Strong' : pct >= 40 ? 'Moderate' : 'Needs improvement';

@@ -45,6 +45,7 @@ function emptyMemory() {
     turnCount: 0,
     lastResults: [],
     lastIntent: null,
+    lastProposals: [],
   };
 }
 
@@ -56,6 +57,7 @@ function normalizeMemory(session = {}) {
       ...session,
       state: { ...emptyMemory().state, ...(session.state || {}) },
       lastResults: Array.isArray(session.lastResults) ? session.lastResults : [],
+      lastProposals: Array.isArray(session.lastProposals) ? session.lastProposals : [],
     };
   }
   const mem = emptyMemory();
@@ -158,7 +160,7 @@ function needsQueryRewrite(query, memory) {
   if (q.split(/\s+/).length > 14) return false; // long turns usually self-contained
 
   const pronouns = /\b(it|that|this|those|these|them|there|us|uska|uske|wahi|waha|yeh|ye|wo|voh)\b/;
-  const ellipsis = /^(and|aur|also|bhi|what about|kya|how about|phir|then|ok now|now)\b/;
+  const ellipsis = /^(and|aur|also|bhi|what about|kya|how about|phir|then|ok now|now|next|risks?)\b/;
   const comparative = /\b(cheaper|bigger|smaller|better|closer|sasta|bada|same but|instead)\b/;
   return pronouns.test(q) || ellipsis.test(q) || comparative.test(q);
 }
@@ -276,7 +278,7 @@ function buildMessages({ history = [], memory, contextText, query }) {
 }
 
 /** Persist what the next turn needs. Called after an answer is produced. */
-function updateMemory({ memory, context, summary, opportunities = [] }) {
+function updateMemory({ memory, context, summary, opportunities = [], proposals = [] }) {
   const next = {
     ...memory,
     v: MEMORY_VERSION,
@@ -300,6 +302,13 @@ function updateMemory({ memory, context, summary, opportunities = [] }) {
       score: z.opportunityScore,
       lat: z.center?.lat ?? null,
       lng: z.center?.lng ?? null,
+    }));
+  }
+  if (proposals.length) {
+    next.lastProposals = proposals.slice(0, 4).map((p) => ({
+      type: p.type,
+      params: p.params || {},
+      label: p.label || p.confirm || p.type,
     }));
   }
   return next;

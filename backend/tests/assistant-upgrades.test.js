@@ -222,3 +222,20 @@ test('telemetry aggregates latency and fallback rate', () => {
   assert.equal(snap.latencyMs.timeToFirstToken.p50, 120);
   telemetry.reset();
 });
+
+test('context renders diligence, land band and cheaper picks', () => {
+  const out = renderContext({
+    ...SAMPLE_CONTEXT,
+    preference: 'cheaper',
+    forecast: { p10: 9000, p50: 12000, p90: 16000, confidence: 'medium', note: 'Current band.' },
+    diligence: { steps: ['Confirm CLU vs intended use.'], extra: [] },
+    cheaperPicks: [
+      { name: 'Sohna Industrial Estate', district: 'Gurugram', opportunityScore: 66, landValue: { estimatedPerSqYardInr: 8000 } },
+    ],
+    pendingAct: { type: 'addToPipeline', params: { zoneId: 'z1' } },
+  });
+  assert.match(out.text, /LAND PRICE BAND/);
+  assert.match(out.text, /DILIGENCE NEXT STEPS/);
+  assert.match(out.text, /CHEAPER PICKS/);
+  assert.match(out.text, /PENDING ACTION/);
+});

@@ -124,7 +124,108 @@ async function safeMinDistanceKm(pool, table, location, maxRadiusM) {
   }
 }
 
+/**
+ * The feature vector as one statement instead of ~31 round trips.
+ *
+ * Every lookup below is the same two shapes (count-within-radius, nearest-distance)
+ * against the same point, so they compose into a single query. Fanning them out meant
+ * one map click borrowed ~31 connections from a pool of 12 — twenty concurrent clicks
+ * queued 600+ queries and took ~13s each. One round trip per click keeps concurrency
+ * proportional to users rather than to the length of this list.
+ *
+ * `LEAST` matches the old `nearestDistanceKm` reduce: it skips NULLs and is NULL only
+ * when every candidate table is out of range.
+ */
+const FEATURE_COUNTS = [
+  ['hospitals', ['hospitals'], 5000],
+  ['schools', SCHOOL_TABLES, 5000],
+  ['civicFacilities', CIVIC_TABLES, 5000],
+  ['iti', ['iti'], 5000],
+  ['busStops', ['bus_stops'], 2000],
+  ['waterNetwork', ['water_network'], 2000],
+  ['utilityLines', UTILITY_LINE_TABLES, 2000],
+  ['powerAssets', POWER_ASSET_TABLES, 3000],
+  ['roads', ['roads_line'], 3000],
+];
+
+const FEATURE_DISTANCES = [
+  ['highwayKm', ['roads_line'], 20000],
+  ['railKm', ['rail_network'], 30000],
+  ['airportKm', ['airports'], 60000],
+  ['urbanKm', ['municipal_boundary'], 50000],
+  ['metroKm', METRO_STATION_TABLES, 25000],
+  ['forestKm', ['forest_area'], 10000],
+  ['lowLyingKm', ['low_lying_area'], 10000],
+  ['waterBodyKm', ['haryana_rivers', 'ponds', 'wetlands'], 5000],
+  ['industrialKm', ['hsiidc_boundary'], 10000],
+  ['licensedColonyKm', ['licensed_colony'], 2000],
+];
+
+/** Table names here are module constants, never user input; assert that and keep it true. */
+function safeIdentifier(name) {
+  if (!/^[a-z_][a-z0-9_]*$/.test(name)) {
+    throw new Error(`Unsafe table identifier in scoring config: ${name}`);
+  }
+  return name;
+}
+
+function buildFeatureSql() {
+  const selects = [];
+
+  for (const [key, tables, radiusM] of FEATURE_COUNTS) {
+    const deg = (radiusM / 111320.0).toFixed(8);
+    const perTable = tables.map(
+      (t) =>
+        `(SELECT COUNT(*) FROM ${safeIdentifier(t)} x ` +
+        `WHERE x.geom && ST_Expand(p.g, ${deg}) AND ST_DWithin(x.geom, p.g, ${deg}))`
+    );
+    selects.push(`(${perTable.join(' + ')})::int AS "c_${key}"`);
+  }
+
+  for (const [key, tables, radiusM] of FEATURE_DISTANCES) {
+    const deg = (radiusM / 111320.0).toFixed(8);
+    const perTable = tables.map(
+      (t) =>
+        `(SELECT ST_Distance(n.geom::geography, p.g::geography) / 1000.0 FROM (` +
+        `SELECT y.geom FROM ${safeIdentifier(t)} y WHERE y.geom && ST_Expand(p.g, ${deg}) ` +
+        `ORDER BY y.geom <-> p.g LIMIT 1) n WHERE ST_DWithin(n.geom, p.g, ${deg}))`
+    );
+    selects.push(`LEAST(${perTable.join(', ')}) AS "d_${key}"`);
+  }
+
+  return [
+    'WITH p AS (SELECT ST_SetSRID(ST_MakePoint($1, $2), 4326) AS g)',
+    `SELECT ${selects.join(',\n       ')}`,
+    'FROM p',
+  ].join('\n');
+}
+
+const FEATURE_SQL = buildFeatureSql();
+
+function mapFeatureRow(row) {
+  const out = {};
+  for (const [key] of FEATURE_COUNTS) out[key] = Number(row[`c_${key}`]) || 0;
+  for (const [key] of FEATURE_DISTANCES) {
+    const v = row[`d_${key}`];
+    out[key] = v === null || v === undefined ? null : Number(v);
+  }
+  return out;
+}
+
 async function gatherLocationFeatures(pool, location) {
+  try {
+    const { rows } = await pool.query(FEATURE_SQL, [location.lng, location.lat]);
+    if (rows[0]) return mapFeatureRow(rows[0]);
+  } catch (err) {
+    // One bad table used to degrade to a zero for that table alone. Keep that property:
+    // if the combined statement fails for any reason, fall back to the per-table path.
+    console.error('[analysis] combined feature query failed; using per-table fallback:', err.message);
+  }
+  return gatherLocationFeaturesFanOut(pool, location);
+}
+
+/** Resilient fallback: one query per table, each failure isolated. */
+async function gatherLocationFeaturesFanOut(pool, location) {
   const [
     hospitals,
     schools,

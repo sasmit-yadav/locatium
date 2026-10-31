@@ -24,29 +24,38 @@ const { verifyGrounding } = require('./assistant-guardrail.service');
 const language = require('./assistant-language.service');
 const beginner = require('./assistant-beginner.service');
 const actions = require('./assistant-actions.service');
+const redisCache = require('./redis-cache.service');
+const { AppError } = require('../middleware/error.middleware');
 
-const SYSTEM_PROMPT = `You are Ask LOCATIUM — the in-map investment copilot for Haryana (India).
-You help users pick industrial / commercial / residential / agri land using ONLY the LIVE DATA block supplied each turn (PostGIS scores, official circle rates, comps, ranked zones, policy excerpts).
+const SYSTEM_PROMPT = `You are Ask LOCATIUM — a colleague sitting with the user at a Haryana (India) investment map.
+You help them pick industrial / commercial / residential / agri land using ONLY the LIVE DATA block supplied each turn (PostGIS scores, official circle rates, comps, ranked zones, policy excerpts, diligence checklist, facility-gap counts, current land-price band).
 
 Personality:
-- Sharp analyst + friendly guide. Conversational, not robotic. You may reply in simple English; if the user wrote Hinglish, a light Hinglish mix is OK but keep numbers clear in English numerals.
-- Act like a copilot: interpret messy / jumbled / typo-filled questions; never refuse just because wording is imperfect.
+- Talk like a sharp analyst sitting next to them, not a chatbot. Acknowledge what they actually said — including objections ("too expensive", "too risky"), vague asks, and "what next".
+- Conversational, not robotic. Simple English is fine; if they wrote Hinglish, a light Hinglish mix is OK. Numbers always stay in English numerals.
+- Interpret messy / jumbled / typo-filled questions. Never refuse just because wording is imperfect.
 - Be decisive when data supports it; ask ONE clarifying question only when the data block says clarification is needed.
+
+How a turn should feel:
+- First answer the question from LIVE DATA.
+- Then offer TWO concrete next moves. If a PENDING ACTION or confirm chip exists, say tapping Confirm will actually save / email / generate the report — do not send them to another panel to finish.
+- Follow-ups work like a human: "risks?" means risks on the last shortlist; "do it" / "yes" means the last proposed action; "too expensive" means cheaper options from the same conversation.
+- If DILIGENCE, LAND PRICE BAND, FACILITY GAP or CHEAPER PICKS blocks exist, use them. Never invent Jamabandi extracts or future-year prices. The land band is a current p10/p50/p90, not a CatBoost forecast.
 
 Hard rules:
 - NEVER invent scores, ₹ figures, distances, zone names, or policy claims. Every number you write must appear in the LIVE DATA block. If something is missing → say you don't have it in the live dataset.
 - The LIVE DATA block is always the current truth. If a figure quoted earlier in the conversation differs, silently use the LIVE DATA value — do not argue with yourself, correct the transcript, or point out the discrepancy.
 - NEVER invent illustrative or hypothetical figures ("for example, if the rate were ₹50,000..."). A beginner will read an example number as a real one. Explain with words, or use only numbers from LIVE DATA.
 - Never name a zone that is not listed in RANKED ZONES.
+- NEVER report a mutation as already done. Saving, emailing, generating a report, and adding to a pipeline or portfolio only happen after the user taps Confirm. Write what Confirm will do ("tap Confirm and I'll add #1 to your pipeline") — never "done", "added", "saved" or "sent".
 - Cite concrete numbers from the data (scores /100, ₹/sq yd, km, verdicts).
 - When listing zones: name, district, opportunityScore, one land or risk note — max 5. Refer to them by their #number so the user can follow up.
 - If two listed zones share the same name, keep the distinguishing detail the data gives them (e.g. parcel size) so the user can tell them apart.
-- Offer a concrete next step (fly to zone, open Investor, click map, tighten budget).
-- Keep answers tight: ~80–180 words unless the user asked for a deep breakdown. Brevity is latency.
-- No markdown headers. Short bullets OK for zone lists.
+- Keep answers tight: ~80–180 words unless they asked for a walkthrough (diligence can go to ~220). Brevity is latency.
+- No markdown headers. Short bullets OK for zone lists and checklists.
 
 Speaking to beginners:
-- Many users have never bought land before. Never assume they know jargon (circle rate, CLU, HSIIDC, sq yd). If you use a term, gloss it in half a clause.
+- Many users have never bought land before. Never assume they know jargon (circle rate, CLU, HSIIDC, sq yd, jamabandi). If you use a term, gloss it in half a clause.
 - When a GLOSSARY block is provided, use its wording for definitions — do not improvise legal or regulatory meanings.
 - If the user says they are new, orient them in one short paragraph and offer one concrete first step. Do not dump a feature tour.
 - You are a screening aid, not a valuer or legal adviser. If asked whether to buy, give the evidence and say the decision needs professional due diligence.
@@ -119,24 +128,25 @@ function buildFollowUps(context) {
   if (context.clarification?.suggestions?.length) {
     return context.clarification.suggestions;
   }
-  if (context.scoredLocation) {
-    chips.push('Explain this score breakdown');
-    chips.push('Land rate + all-in cost here');
-    if (context.district || context.scoredLocation.landValue?.district) {
-      const d = context.district || context.scoredLocation.landValue.district;
-      chips.push(`Better ${context.sector} zones in ${d}`);
-    }
-  }
   if (context.opportunities?.length) {
-    chips.push('Compare top 3 side by side');
-    chips.push('Only low-risk options');
-    if (context.district) chips.push(`Tighten budget in ${context.district}`);
+    const top = context.opportunities[0];
+    chips.push(top?.name ? `What are the risks on #1?` : 'What are the risks here?');
+    chips.push('Too expensive — show cheaper');
+    chips.push('Walk me through diligence');
+    if (top?.id) chips.push('Add #1 to pipeline');
+  }
+  if (context.scoredLocation) {
+    chips.push('Land price band here');
+    chips.push('What is missing nearby — hospitals and schools?');
+  }
+  if (context.diligence && !chips.includes('Add #1 to pipeline')) {
+    chips.push('Generate a PDF for #1');
   }
   if (context.primaryIntent === 'help' || !chips.length) {
     chips.push('Score this site for industry');
     chips.push('Best industrial in Gurugram under 5 crore');
-    chips.push('kitna land rate hai yaha');
-    chips.push('CLU / HSIIDC policy notes');
+    chips.push('I am new — how does this work?');
+    chips.push('What should I do after I like a zone?');
   }
   return [...new Set(chips)].slice(0, 4);
 }
@@ -164,8 +174,8 @@ function ruleBasedAnswer(query, context) {
 
   if (context.primaryIntent === 'help') {
     return [
-      "I'm your LOCATIUM copilot — score any map click, shortlist HSIIDC/industrial zones by district & ₹ budget, decode circle rates + market comps, and pull policy notes (CLU/EIA/HSIIDC).",
-      'Ask any way you want: “ye jagah kaisi hai”, “gurgaon me warehouse 5 cr ke under”, “faridabad vs sonipat”, typos fine.',
+      "I'm sitting on the map with you — score any click, shortlist HSIIDC/industrial zones by district and ₹ budget, decode circle rates, walk diligence, and actually save or email a report when you tap Confirm.",
+      'Ask any way you want: “ye jagah kaisi hai”, “gurgaon me warehouse 5 cr ke under”, “too expensive”, “what next”, “add it”. Typos fine.',
       'Click the map for “here/yaha” questions, or name a district to explore.',
     ].join(' ');
   }
@@ -253,6 +263,41 @@ function ruleBasedAnswer(query, context) {
     });
   }
 
+  if (context.forecast?.p50 != null) {
+    const f = context.forecast;
+    parts.push(
+      `Current land-price band (not a future forecast): p10 ${formatInr(f.p10)} · p50 ${formatInr(f.p50)} · p90 ${formatInr(f.p90)} per sq yd${f.confidence ? ` · ${f.confidence} confidence` : ''}.`
+    );
+  }
+
+  if (context.cheaperPicks?.length) {
+    parts.push('Cheaper from this shortlist:');
+    context.cheaperPicks.slice(0, 3).forEach((z) => {
+      parts.push(
+        `• ${z.name}: ~${formatInr(z.landValue.estimatedPerSqYardInr)}/sq yd, score ${z.opportunityScore}`
+      );
+    });
+  }
+
+  if (context.facilityGap?.summary) {
+    const s = context.facilityGap.summary;
+    parts.push(
+      `Facility gap (hospitals+schools within 5 km of HSIIDC centroids): ${s.severe || 0} severe, ${s.gap || 0} gap, ${s.served || 0} served of ${s.zones || 0} zones. Screening overlay only.`
+    );
+  }
+
+  if (context.diligence?.steps?.length) {
+    parts.push('If you like this site, next screening steps:');
+    context.diligence.steps.slice(0, 5).forEach((step, i) => {
+      parts.push(`${i + 1}. ${step}`);
+    });
+    (context.diligence.extra || []).forEach((line) => parts.push(line));
+  }
+
+  if (context.pendingAct?.type) {
+    parts.push(`Tap Confirm below and I will actually ${context.pendingAct.type.replace(/([A-Z])/g, ' $1').toLowerCase()} — you do not need to finish it in another panel.`);
+  }
+
   if (context.notes?.length && !parts.length) parts.push(...context.notes);
   else if (context.notes?.length && context.clarification) parts.push(context.notes[0]);
 
@@ -274,33 +319,49 @@ function fingerprint(...parts) {
   return crypto.createHash('sha1').update(parts.join('||')).digest('hex').slice(0, 20);
 }
 
-function cacheGet(key) {
-  const hit = ANSWER_CACHE.get(key);
-  if (!hit) return null;
-  if (Date.now() - hit.at > CACHE_TTL_MS) {
-    ANSWER_CACHE.delete(key);
-    return null;
-  }
-  return hit.value;
+function redisKey(key) {
+  return `assistant:answer:${key}`;
 }
 
-function cacheSet(key, value) {
+async function cacheGet(key) {
+  const hit = ANSWER_CACHE.get(key);
+  if (hit) {
+    if (Date.now() - hit.at > CACHE_TTL_MS) {
+      ANSWER_CACHE.delete(key);
+    } else {
+      return hit.value;
+    }
+  }
+  const raw = await redisCache.getString(redisKey(key));
+  if (!raw) return null;
+  try {
+    const value = JSON.parse(raw);
+    ANSWER_CACHE.set(key, { at: Date.now(), value });
+    return value;
+  } catch {
+    return null;
+  }
+}
+
+async function cacheSet(key, value) {
   ANSWER_CACHE.set(key, { at: Date.now(), value });
   if (ANSWER_CACHE.size > CACHE_MAX) {
     ANSWER_CACHE.delete(ANSWER_CACHE.keys().next().value);
   }
+  await redisCache.setString(redisKey(key), JSON.stringify(value), Math.max(60, Math.round(CACHE_TTL_MS / 1000)));
 }
 
 /** Shared per-turn setup: memory, references, rewrite, grounding, prompt assembly. */
 async function prepareTurn(input = {}) {
   const { query, lat, lng, sector, district, zoneIds, history, session, signal } = input;
   const startedAt = Date.now();
-  const q = String(query || '').trim();
-  if (!q) {
-    const err = new Error('query is required');
-    err.status = 400;
-    throw err;
+  // Reject a non-string query outright: String({}) is "[object Object]", which the NLU
+  // would happily treat as a real question and answer with a generic clarification.
+  if (query != null && typeof query !== 'string') {
+    throw AppError.badRequest('query must be a string');
   }
+  const q = String(query || '').trim();
+  if (!q) throw AppError.badRequest('query is required');
 
   const memory = memoryService.normalizeMemory(session || {});
   const { state: overriddenState, cleared } = memoryService.applyOverrides(q, memory.state);
@@ -350,9 +411,12 @@ async function prepareTurn(input = {}) {
     zoneIds: refs.zoneIds.length ? refs.zoneIds : zoneIds,
     session: {
       lastIntent: memory.lastIntent,
+      lastResults: memory.lastResults,
+      lastProposals: memory.lastProposals,
       sector: memory.state.sector,
       district: cleared.includes('district') ? null : memory.state.district,
       budgetInr: cleared.includes('budgetInr') ? null : memory.state.budgetInr,
+      risk: cleared.includes('risk') ? null : memory.state.risk,
     },
   });
   const groundingMs = Date.now() - groundingStarted;
@@ -505,9 +569,13 @@ function turnEnvelope({ context, memory, refs, rewriteInfo, rendered, groundingM
 /** True when the model must not be trusted to narrate (nothing to narrate from). */
 function mustUseDeterministic(context) {
   if (context.clarification?.needed) return 'clarify';
+  const conversational = ['act', 'diligence', 'help', 'how_it_works', 'risk', 'forecast'].includes(
+    context.primaryIntent
+  );
   if (
     context.intents?.includes('opportunities') &&
-    !(context.opportunities && context.opportunities.length)
+    !(context.opportunities && context.opportunities.length) &&
+    !conversational
   ) {
     return 'rule_based'; // no shortlist → model would be tempted to invent zones
   }
@@ -526,12 +594,13 @@ async function ask(input = {}) {
 
   const cacheKey = fingerprint(q.toLowerCase(), rendered.text);
   if (useLlm) {
-    const cached = cacheGet(cacheKey);
+    const cached = await cacheGet(cacheKey);
     if (cached) {
       const nextMemory = memoryService.updateMemory({
         memory,
         context,
         opportunities: context.opportunities || [],
+        proposals: prep.proposed?.proposals || [],
       });
       telemetry.recordTurn({
         method: 'llm_cached',
@@ -588,7 +657,7 @@ async function ask(input = {}) {
         model = res.model;
         usage = res.usage;
         ttftMs = res.ttftMs;
-        cacheSet(cacheKey, { answer, provider, model, guardrail });
+        await cacheSet(cacheKey, { answer, provider, model, guardrail });
       }
     } catch (err) {
       answer = ruleBasedAnswer(q, context);
@@ -610,6 +679,7 @@ async function ask(input = {}) {
     context,
     summary,
     opportunities: context.opportunities || [],
+    proposals: prep.proposed?.proposals || [],
   });
 
   telemetry.recordTurn({
@@ -673,6 +743,7 @@ async function* askStream(input = {}) {
       context,
       summary,
       opportunities: context.opportunities || [],
+      proposals: prep.proposed?.proposals || [],
     });
     telemetry.recordTurn({
       method,
@@ -693,6 +764,7 @@ async function* askStream(input = {}) {
       memory,
       context,
       opportunities: context.opportunities || [],
+      proposals: prep.proposed?.proposals || [],
     });
     return turnEnvelope({
       ...prep,
@@ -717,7 +789,7 @@ async function* askStream(input = {}) {
   }
 
   const cacheKey = fingerprint(q.toLowerCase(), rendered.text);
-  const cached = cacheGet(cacheKey);
+  const cached = await cacheGet(cacheKey);
   if (cached) {
     yield { type: 'token', text: cached.answer };
     yield {
@@ -801,7 +873,7 @@ async function* askStream(input = {}) {
   }
 
   if (full.trim()) {
-    cacheSet(cacheKey, {
+    await cacheSet(cacheKey, {
       answer: full,
       provider: done?.provider,
       model: done?.model,

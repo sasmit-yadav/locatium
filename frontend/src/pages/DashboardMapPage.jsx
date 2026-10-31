@@ -14,11 +14,46 @@ import { NearbyFacilityFinder } from '../components/NearbyFacilityFinder';
 import { ZoneFacilitiesPanel } from '../components/ZoneFacilitiesPanel';
 import { IconButton } from '../components/ui/IconButton';
 import { useDashboardStore } from '../stores/useDashboardStore';
-import { loginDefaultAnalyst } from '../services/auth';
+import { loginDemo } from '../services/auth';
 import { getSnapshot } from '../services/portal';
 import { postIdentifyBatch } from '../services/mapsIdentify';
 import { AskLocatiumWidget } from '../components/AskLocatiumWidget';
+import { MapLegend } from '../components/MapLegend';
+import { TileStatusOverlay } from '../components/TileStatusOverlay';
 import { DATA_LAYERS } from '../config/layers';
+
+/**
+ * The identify payload already carries the administrative boundaries under the click.
+ * Reading them beats labelling every pin "Haryana", which is true of the whole state
+ * and so tells the user nothing.
+ *
+ * Hits arrive as `layers[].hits[].attributes`; `village_boundary` and `tehsil_boundary`
+ * repeat the district name, so prefer the layer that owns each field and fall back to
+ * any hit that carries it.
+ */
+const DISTRICT_FIELDS = ['n_d_name', 'district', 'dist_name', 'distname'];
+const TEHSIL_FIELDS = ['n_t_name', 'tehsil', 'tehsil_name', 'subdivision'];
+
+function cleanAttribute(value) {
+  if (typeof value !== 'string') return null;
+  const trimmed = value.trim();
+  return trimmed && trimmed !== '—' && trimmed !== '#N/A' ? trimmed : null;
+}
+
+function findAttribute(layers, fields, preferredLayerId) {
+  const hits = (layers || []).flatMap((layer) => layer.hits || layer.features || layer.results || []);
+  const ordered = preferredLayerId
+    ? [...hits.filter((h) => h.layerId === preferredLayerId), ...hits.filter((h) => h.layerId !== preferredLayerId)]
+    : hits;
+  for (const hit of ordered) {
+    const attrs = hit.attributes || hit.properties || hit;
+    for (const field of fields) {
+      const value = cleanAttribute(attrs?.[field]);
+      if (value) return value;
+    }
+  }
+  return null;
+}
 
 export function DashboardMapPage() {
   const basemapId = useDashboardStore((s) => s.basemapId);
@@ -30,7 +65,9 @@ export function DashboardMapPage() {
   const selectedLocation = useDashboardStore((s) => s.selectedLocation);
   const view = useDashboardStore((s) => s.view);
   const setView = useDashboardStore((s) => s.setView);
+  const setCursor = useDashboardStore((s) => s.setCursor);
   const setTileStatus = useDashboardStore((s) => s.setTileStatus);
+  const tileStatus = useDashboardStore((s) => s.tileStatus);
   const setMapInstance = useDashboardStore((s) => s.setMapInstance);
   const setSelectedLocation = useDashboardStore((s) => s.setSelectedLocation);
   const flyTo = useDashboardStore((s) => s.flyTo);
@@ -38,6 +75,7 @@ export function DashboardMapPage() {
   const toggleRight = useDashboardStore((s) => s.toggleRight);
   const toggleLayer = useDashboardStore((s) => s.toggleLayer);
   const investorHighlights = useDashboardStore((s) => s.investorHighlights);
+  const analysisOverlay = useDashboardStore((s) => s.analysisOverlay);
 
   const [identify, setIdentify] = useState({
     open: false,
@@ -76,9 +114,9 @@ export function DashboardMapPage() {
   useEffect(() => {
     (async () => {
       try {
-        await loginDefaultAnalyst();
+        await loginDemo();
       } catch (err) {
-        console.error('[DashboardPage] Silent auto-login failed:', err.message);
+        console.info('[DashboardPage] Demo login unavailable:', err.message);
       }
     })();
 
@@ -184,11 +222,23 @@ export function DashboardMapPage() {
           dpi: ctx.dpi,
           layerKeys: ctx.visibleLayerIds,
         });
-        setIdentify((prev) => ({
-          ...prev,
-          loading: false,
-          layers: json.layers || json.results || [],
-        }));
+        const layers = json.layers || json.results || [];
+        setIdentify((prev) => ({ ...prev, loading: false, layers }));
+
+        const district = findAttribute(layers, DISTRICT_FIELDS, 'district_boundary');
+        const tehsil = findAttribute(layers, TEHSIL_FIELDS, 'tehsil_boundary');
+        if (district || tehsil) {
+          setSelectedLocation({
+            name: 'Selected analysis point',
+            district: district || 'Haryana',
+            tehsil: tehsil || 'Map selection',
+            landType: 'Interactive point',
+            area: `${ctx.visibleLayerIds.length} active layers`,
+            lng: ctx.lng,
+            lat: ctx.lat,
+            zoom: 13,
+          });
+        }
       } catch (err) {
         setIdentify((prev) => ({
           ...prev,
@@ -222,13 +272,26 @@ export function DashboardMapPage() {
               visibility={visibility}
               onIdentifyContext={handleIdentifyContext}
               onViewChange={setView}
+              onCursorChange={setCursor}
               onTileStatusChange={setTileStatus}
               goToRequest={goToRequest}
               onMapReady={setMapInstance}
               highlightFeature={highlightFeature}
               investorHighlights={investorHighlights}
+              analysisOverlay={analysisOverlay}
             />
           </MapErrorBoundary>
+
+          <TileStatusOverlay
+            loading={tileStatus.loading}
+            error={tileStatus.error}
+            onDismissError={() => setTileStatus({ error: null })}
+          />
+          <MapLegend
+            visibility={visibility}
+            identifyOpen={identify.open}
+            panelOpen={facilityFinderOpen || zoneFacilities.open}
+          />
 
           <div className="pointer-events-none absolute inset-0 z-ds-map-controls">
             <div className="pointer-events-auto absolute left-ds-4 top-ds-4 z-ds-map-controls flex gap-ds-1 rounded-ds-md border border-ds-border bg-ds-surface-raised p-ds-1 shadow-ds-sm">

@@ -77,7 +77,7 @@ export async function deleteFavorite(id) {
 
 export async function createSnapshot({ centerLng, centerLat, zoom, activeLayers, selectedZoneId }) {
   const origin = getMapsApiOrigin();
-  const res = await fetch(`${origin}/api/portal/share`, {
+  const res = await authFetch(`${origin}/api/portal/share`, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({ centerLng, centerLat, zoom, activeLayers, selectedZoneId }),
@@ -203,4 +203,23 @@ export async function getSharedPortfolio(token) {
   const origin = getMapsApiOrigin();
   const res = await fetch(`${origin}/api/portal/portfolios/share/${token}`);
   return parseJsonResponse(res, 'Failed to load shared portfolio');
+}
+
+export async function listNotifications() {
+  const origin = getMapsApiOrigin();
+  const res = await authFetch(`${origin}/api/portal/notifications`);
+  const data = await parseJsonResponse(res, 'Failed to load notifications');
+  return data.notifications || [];
+}
+
+export async function getTransparencyStats() {
+  const origin = getMapsApiOrigin();
+  const res = await fetch(`${origin}/api/public/transparency`);
+  return parseJsonResponse(res, 'Failed to load transparency stats');
+}
+
+export async function getPublicZoneCard(zoneId) {
+  const origin = getMapsApiOrigin();
+  const res = await fetch(`${origin}/api/public/zones/${encodeURIComponent(zoneId)}/card`);
+  return parseJsonResponse(res, 'Failed to load embed card');
 }

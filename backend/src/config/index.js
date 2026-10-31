@@ -64,8 +64,45 @@ const mapServerExchangeUrl =
 /** ML service base URL (Phase 4 — optional; scoring falls back when unreachable) */
 const mlServiceUrl = (process.env.ML_SERVICE_URL || 'http://localhost:8000').replace(/\/$/, '');
 
-/** ML client HTTP timeout (ms) — roadmap default 2500 */
-const mlServiceTimeoutMs = Number(process.env.ML_SERVICE_TIMEOUT_MS) || 2500;
+/**
+ * Allow a sleeping showcase ML service to wake. Locally we still fail fast, but the
+ * budget has to cover the ML service's own cold PostGIS feature queries (~1-3s while
+ * they contend with the Node heuristic's queries) or every first score silently
+ * drops to the heuristic fallback. An unreachable service still errors immediately.
+ */
+const mlServiceTimeoutMs =
+  Number(process.env.ML_SERVICE_TIMEOUT_MS) ||
+  (process.env.NODE_ENV === 'production' ? 75_000 : 8_000);
+
+function validateProductionConfig() {
+  if (process.env.NODE_ENV !== 'production') return;
+
+  const errors = [];
+  const required = ['DATABASE_URL', 'JWT_ACCESS_SECRET', 'JWT_REFRESH_SECRET', 'CORS_ORIGINS'];
+  for (const key of required) {
+    if (!process.env[key]?.trim()) errors.push(`${key} is required`);
+  }
+
+  if ((jwtAccessSecret || '').length < 32) {
+    errors.push('JWT_ACCESS_SECRET must be at least 32 characters');
+  }
+  if ((jwtRefreshSecret || '').length < 32) {
+    errors.push('JWT_REFRESH_SECRET must be at least 32 characters');
+  }
+  if (jwtAccessSecret && jwtAccessSecret === jwtRefreshSecret) {
+    errors.push('JWT access and refresh secrets must be different');
+  }
+  if (corsOrigins.includes('*')) {
+    errors.push('CORS_ORIGINS cannot contain * in production');
+  }
+  if (corsOrigins.some((origin) => /^http:\/\/(localhost|127\.0\.0\.1)/i.test(origin))) {
+    errors.push('CORS_ORIGINS cannot contain localhost in production');
+  }
+
+  if (errors.length) {
+    throw new Error(`Invalid production configuration:\n- ${errors.join('\n- ')}`);
+  }
+}
 
 module.exports = {
   PORT,
@@ -91,4 +128,5 @@ module.exports = {
   mapServerExchangeUrl,
   mlServiceUrl,
   mlServiceTimeoutMs,
+  validateProductionConfig,
 };

@@ -1,4 +1,5 @@
 import { getMapsApiOrigin } from '../config/api';
+import { authFetch } from './auth';
 
 /**
  * Ask LOCATIUM copilot — non-streaming JSON mode.
@@ -8,7 +9,7 @@ export async function askLocatium(payload, { signal } = {}) {
   const origin = getMapsApiOrigin();
   let res;
   try {
-    res = await fetch(`${origin}/api/assistant/ask`, {
+    res = await authFetch(`${origin}/api/assistant/ask`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
       body: JSON.stringify({ ...payload, stream: false }),
@@ -16,7 +17,9 @@ export async function askLocatium(payload, { signal } = {}) {
     });
   } catch (err) {
     if (err.name === 'AbortError') throw err;
-    throw new Error('Could not reach the copilot. Check your connection and retry.');
+    throw new Error('Could not reach the copilot. Check your connection and retry.', {
+      cause: err,
+    });
   }
   const data = await res.json().catch(() => ({}));
   if (!res.ok) {
@@ -42,7 +45,7 @@ export async function askLocatiumStream(payload, handlers = {}) {
   const { onStatus, onMeta, onToken, onGuardrail, onFinal, signal } = handlers;
   const origin = getMapsApiOrigin();
 
-  const res = await fetch(`${origin}/api/assistant/ask`, {
+  const res = await authFetch(`${origin}/api/assistant/ask`, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json', Accept: 'text/event-stream' },
     body: JSON.stringify({ ...payload, stream: true }),
@@ -122,4 +125,36 @@ export async function askLocatiumStream(payload, handlers = {}) {
 
   if (finalPayload) onFinal?.(finalPayload);
   return finalPayload;
+}
+
+export async function confirmAssistantAction(action) {
+  const origin = getMapsApiOrigin();
+  const res = await authFetch(`${origin}/api/assistant/action`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({
+      type: action.type,
+      params: action.params || {},
+      confirmed: true,
+    }),
+  });
+  return parseAssistantJson(res, 'Could not complete that action');
+}
+
+export async function getAssistantMemory() {
+  const origin = getMapsApiOrigin();
+  const res = await authFetch(`${origin}/api/assistant/memory`);
+  return parseAssistantJson(res, 'Could not load copilot memory');
+}
+
+export async function clearAssistantMemory() {
+  const origin = getMapsApiOrigin();
+  const res = await authFetch(`${origin}/api/assistant/memory`, { method: 'DELETE' });
+  return parseAssistantJson(res, 'Could not clear copilot memory');
+}
+
+async function parseAssistantJson(res, fallback) {
+  const data = await res.json().catch(() => ({}));
+  if (!res.ok) throw new Error(data.error || data.message || `${fallback} (${res.status})`);
+  return data;
 }

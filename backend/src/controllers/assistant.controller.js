@@ -2,6 +2,8 @@ const assistantService = require('../services/assistant.service');
 const telemetry = require('../services/llm/llm-telemetry');
 const speech = require('../services/speech.service');
 const actions = require('../services/assistant-actions.service');
+const execute = require('../services/assistant-execute.service');
+const memoryStore = require('../services/assistant-memory-store.service');
 const beginnerService = require('../services/assistant-beginner.service');
 const { detectLanguage } = require('../services/assistant-language.service');
 
@@ -29,11 +31,27 @@ function parseBody(body = {}) {
 async function ask(req, res) {
   const body = req.body || {};
   const payload = parseBody(body);
+  payload.authenticated = Boolean(req.user?.id);
+  payload.language = body.language;
+  if (req.user?.id && (!payload.session || Object.keys(payload.session).length === 0)) {
+    const stored = await memoryStore.load(req.user.id);
+    if (stored) payload.session = stored;
+  }
+  const persistSession = async (session) => {
+    if (!req.user?.id || !session) return;
+    try {
+      await memoryStore.save(req.user.id, session);
+    } catch {
+      /* memory persistence must never fail a copilot turn */
+    }
+  };
+
   const wantsStream =
     body.stream === true || String(req.headers.accept || '').includes('text/event-stream');
 
   if (!wantsStream) {
     const result = await assistantService.ask(payload);
+    await persistSession(result.session);
     return res.json(result);
   }
 
@@ -78,6 +96,7 @@ async function ask(req, res) {
           break;
         case 'final':
           writeSse(res, 'final', event.payload);
+          await persistSession(event.payload?.session);
           break;
         default:
           break;
@@ -141,18 +160,42 @@ async function voice(req, res) {
 }
 
 /**
- * Validate an action before the client runs it. Mutating actions are reported as needing
- * confirmation so a UI bug (or a model suggestion) can never silently persist or send anything.
+ * Validate, and when `confirmed` is true, execute mutating actions against real portal/report APIs.
  */
 async function action(req, res) {
-  const verdict = actions.validateAction(req.body || {});
+  const body = req.body || {};
+  const verdict = actions.validateAction(body);
   if (!verdict.ok) return res.status(400).json({ error: verdict.error });
-  res.json({
-    ok: true,
-    type: req.body.type,
-    needsConfirmation: verdict.needsConfirmation,
-    spec: actions.describe(req.body.type),
+  if (verdict.needsConfirmation && body.confirmed !== true) {
+    return res.json({
+      ok: true,
+      type: body.type,
+      needsConfirmation: true,
+      spec: actions.describe(body.type),
+    });
+  }
+  const result = await execute.executeAction({
+    user: req.user,
+    type: body.type,
+    params: body.params || {},
   });
+  res.json(result);
+}
+
+async function getMemory(req, res) {
+  const session = await memoryStore.load(req.user.id);
+  res.json({ session: session || {} });
+}
+
+async function saveMemory(req, res) {
+  const session = req.body?.session && typeof req.body.session === 'object' ? req.body.session : {};
+  await memoryStore.save(req.user.id, session);
+  res.json({ ok: true, session });
+}
+
+async function clearMemory(req, res) {
+  await memoryStore.clear(req.user.id);
+  res.json({ ok: true, session: {} });
 }
 
 /** Self-describing capability list — lets a newcomer discover what the copilot can actually do. */
@@ -171,4 +214,4 @@ async function capabilities(req, res) {
   });
 }
 
-module.exports = { ask, metrics, voice, action, capabilities };
+module.exports = { ask, metrics, voice, action, capabilities, getMemory, saveMemory, clearMemory };

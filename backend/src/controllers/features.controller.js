@@ -416,34 +416,57 @@ async function getFeatureDetail(req, res) {
     const tables = postgisRegistry.getTablesForLayer(key);
     for (const tbl of tables) {
       const safeTbl = validateTableName(tbl);
-      const sql = `SELECT (to_jsonb(t) - 'geom') as properties, ST_AsGeoJSON(t.geom)::json as geometry FROM ${safeTbl} t WHERE (t.id::text = $1 OR t.gid::text = $1 OR t.pk::text = $1) LIMIT 1`;
+      const sql = `
+        SELECT (to_jsonb(t) - 'geom') AS properties,
+               ST_AsGeoJSON(t.geom)::json AS geometry
+        FROM ${safeTbl} t
+        WHERE COALESCE(
+          to_jsonb(t)->>'id',
+          to_jsonb(t)->>'gid',
+          to_jsonb(t)->>'objectid',
+          to_jsonb(t)->>'pk'
+        ) = $1
+        LIMIT 1`;
       try {
         const { rows } = await pool.query(sql, [String(featureId)]);
         if (rows.length > 0) {
           const r = rows[0];
           const props = r.properties || {};
 
-          // compute nearby count (simple sum across registered tables within 5km)
-          let nearbyCount = 0;
-          try {
-            const geomText = JSON.stringify(r.geometry || {});
-            for (const k of postgisRegistry.listLayerKeys()) {
-              const tbs = postgisRegistry.getTablesForLayer(k);
-            for (const t of tbs) {
-              try {
-                const safeT = validateTableName(t);
-                const cr = await pool.query(`SELECT COUNT(*) as cnt FROM ${safeT} WHERE ST_DWithin(geom::geography, ST_GeomFromGeoJSON($1)::geography, 5000)`, [geomText]);
-                  nearbyCount += parseInt(cr.rows[0].cnt || 0, 10);
-                } catch (_) {
-                  // ignore per-table errors
-                }
-              }
-            }
-          } catch (_) {
-            nearbyCount = 0;
-          }
+          // Keep detail lookup interactive: count representative point facilities only.
+          // Scanning every registered line/polygon table here can take minutes on the full DB.
+          const geomText = JSON.stringify(r.geometry || {});
+          const facilityTables = [
+            'hospitals',
+            'govt_school',
+            'pm_shri_and_sanskriti_school',
+            'iti',
+            'bus_stops',
+            'electric_station',
+          ];
+          const nearbyResults = await Promise.allSettled(
+            facilityTables.map((table) =>
+              pool.query(
+                `WITH anchor AS (
+                   SELECT ST_PointOnSurface(ST_GeomFromGeoJSON($1)) AS geom
+                 )
+                 SELECT COUNT(*)::int AS cnt
+                 FROM ${table} t, anchor a
+                 WHERE t.geom && ST_Expand(a.geom, $2)
+                   AND ST_DWithin(t.geom::geography, a.geom::geography, 5000)`,
+                [geomText, 5000 / 111320]
+              )
+            )
+          );
+          const nearbyCount = nearbyResults.reduce(
+            (sum, result) =>
+              result.status === 'fulfilled'
+                ? sum + Number(result.value.rows[0]?.cnt || 0)
+                : sum,
+            0
+          );
 
-          res.json({ id: props.id || props.gid || null, layerId: key, name: props.name || '', properties: props, geometry: r.geometry || null, nearbyCount });
+          res.json({ id: props.id || props.gid || props.objectid || props.pk || null, layerId: key, name: props.name || '', properties: props, geometry: r.geometry || null, nearbyCount });
           return;
         }
       } catch (e) {

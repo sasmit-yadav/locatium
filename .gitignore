@@ -1,6 +1,8 @@
 # Markdown Files (Ignored as requested)
 *.md
 **/*.md
+!DEPLOYMENT.md
+!/README.md
 
 # Dependencies
 node_modules/
@@ -9,6 +11,8 @@ node_modules/
 .env
 .env.local
 .env.*
+!.env.example
+!**/.env.example
 
 # Logs & OS Clutter
 *.log
@@ -42,4 +46,10 @@ backend/reports/
 .codex/
 tmp/
 *.dump
+ops/tunnel/runtime/
 
+
+# Local DB backups and agent tooling
+backend/backups/
+.claude/
+.agents/

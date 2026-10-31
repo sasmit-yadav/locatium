@@ -3,19 +3,33 @@ import { DEFAULT_BASEMAP_ID } from '../config/basemaps';
 import { DEFAULT_ZOOM, INITIAL_MAP_CENTER } from '../config/layers';
 import { buildDefaultVisibility, getLayerFocus } from '../config/enterpriseLayers';
 
+/**
+ * The panels render as sheets over the map until the viewport can hold the inline
+ * three-column layout. Opening both on load leaves a phone or tablet showing no map at
+ * all, which is the one thing the product is — so start collapsed there. The thresholds
+ * match the Tailwind breakpoints the panels themselves switch at: the left panel goes
+ * inline at `lg`, the inspector at `xl`.
+ */
+const LEFT_PANEL_INLINE_PX = 1024; // Tailwind lg
+const INSPECTOR_INLINE_PX = 1280; // Tailwind xl
+const viewportWidth = typeof window !== 'undefined' ? window.innerWidth || 0 : 0;
+const leftStartsCollapsed = viewportWidth > 0 && viewportWidth < LEFT_PANEL_INLINE_PX;
+const inspectorStartsCollapsed = viewportWidth > 0 && viewportWidth < INSPECTOR_INLINE_PX;
+
 export const useDashboardStore = create((set) => ({
   basemapId: DEFAULT_BASEMAP_ID,
   visibility: buildDefaultVisibility(),
   selectedLocation: {
-    name: 'Gurugram Industrial Corridor',
-    district: 'Gurugram',
-    tehsil: 'Gurugram',
-    landType: 'Industrial influence zone',
-    area: 'Live point analysis',
-    lat: 28.4595,
-    lng: 77.0266,
-    zoom: 12,
+    name: 'Haryana map overview',
+    district: 'Haryana',
+    tehsil: 'Select a point',
+    landType: 'No location selected',
+    area: 'Search or click the map',
+    lat: INITIAL_MAP_CENTER[0],
+    lng: INITIAL_MAP_CENTER[1],
+    zoom: DEFAULT_ZOOM,
   },
+  selectionIsExplicit: false,
   view: {
     lat: INITIAL_MAP_CENTER[0],
     lng: INITIAL_MAP_CENTER[1],
@@ -25,8 +39,8 @@ export const useDashboardStore = create((set) => ({
   mapInstance: null,
   goToRequest: null,
   selectedFeature: null,
-  leftCollapsed: false,
-  rightCollapsed: false,
+  leftCollapsed: leftStartsCollapsed,
+  rightCollapsed: inspectorStartsCollapsed,
   activeWorkspace: 'explore',
   activeLeftTab: 'layers',
   isCommandPaletteOpen: false,
@@ -35,7 +49,32 @@ export const useDashboardStore = create((set) => ({
   apiLatencyMs: null,
   tileStatus: { loading: false, error: null },
   investorHighlights: null,
+  analysisOverlay: null,
   setActiveWorkspace: (activeWorkspace) => set({ activeWorkspace }),
+  activateWorkspace: (activeWorkspace) =>
+    set((state) => {
+      const leftTabs = {
+        explore: 'layers',
+        analysis: 'analysis',
+        ai: 'ai',
+        reports: 'reports',
+        data: 'data',
+        collaboration: 'projects',
+        admin: 'admin',
+      };
+      const inspectorTabs = {
+        analysis: 'analysis',
+        reports: 'investor',
+        collaboration: 'investor',
+      };
+      return {
+        activeWorkspace,
+        activeLeftTab: leftTabs[activeWorkspace] || state.activeLeftTab,
+        activeInspectorTab: inspectorTabs[activeWorkspace] || state.activeInspectorTab,
+        leftCollapsed: false,
+        ...(inspectorTabs[activeWorkspace] ? { rightCollapsed: false } : {}),
+      };
+    }),
   setActiveLeftTab: (activeLeftTab) => set({ activeLeftTab }),
   setCommandPaletteOpen: (isCommandPaletteOpen) => set({ isCommandPaletteOpen }),
   setActiveInspectorTab: (activeInspectorTab) => set({ activeInspectorTab }),
@@ -47,7 +86,8 @@ export const useDashboardStore = create((set) => ({
   setTileStatus: (patch) => set((state) => ({ tileStatus: { ...state.tileStatus, ...patch } })),
   setApiLatencyMs: (apiLatencyMs) => set({ apiLatencyMs }),
   setInvestorHighlights: (investorHighlights) => set({ investorHighlights }),
-  setSelectedLocation: (selectedLocation) => set({ selectedLocation }),
+  setAnalysisOverlay: (analysisOverlay) => set({ analysisOverlay }),
+  setSelectedLocation: (selectedLocation) => set({ selectedLocation, selectionIsExplicit: true }),
   setSelectedFeature: (selectedFeature) => set({ selectedFeature }),
   flyTo: ({ lng, lat, zoom = 12, name, type, feature }) =>
     set({
@@ -70,6 +110,7 @@ export const useDashboardStore = create((set) => ({
         lat,
         zoom,
       },
+      selectionIsExplicit: true,
     }),
   toggleLeft: () => set((state) => ({ leftCollapsed: !state.leftCollapsed })),
   toggleRight: () => set((state) => ({ rightCollapsed: !state.rightCollapsed })),

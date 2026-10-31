@@ -12,6 +12,7 @@ const TRANSPARENT_PNG = Buffer.from(
 
 async function getTile(req, res) {
   const { layer, z, x, y } = req.params;
+  const wantsVectorTile = /\.pbf$/i.test(String(y));
   const yClean = String(y).replace(/\.(png|pbf)$/i, '');
 
   try {
@@ -28,13 +29,20 @@ async function getTile(req, res) {
       err instanceof AppError &&
       (err.statusCode === 503 || err.message.includes('timed out') || err.message.includes('Too many'));
 
-    if (isTransient) {
+    if (isTransient && !wantsVectorTile) {
       res.set({
         'Content-Type': 'image/png',
         'Cache-Control': 'public, max-age=30',
         'X-LOCATIUM-Tile-Cache': 'FALLBACK',
       });
       res.send(TRANSPARENT_PNG);
+      return;
+    }
+    if (isTransient) {
+      res.status(503).json({
+        error: 'tile_temporarily_unavailable',
+        message: 'Vector tile generation is temporarily unavailable',
+      });
       return;
     }
     throw err;

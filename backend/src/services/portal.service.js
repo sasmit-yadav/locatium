@@ -472,6 +472,90 @@ async function deleteSearchAlert(userId, alertId) {
   return alertService.deleteAlert(userId, alertId);
 }
 
+async function listNotifications(userId, { limit = 20 } = {}) {
+  const pool = ensurePool();
+  const safeLimit = Math.max(1, Math.min(50, Number(limit) || 20));
+  const items = [];
+
+  try {
+    const { rows } = await pool.query(
+      `
+        SELECT id, zone_name, recommendation, opportunity_score, generated_at
+        FROM investor_reports
+        WHERE user_id = $1
+        ORDER BY generated_at DESC
+        LIMIT 8
+      `,
+      [userId]
+    );
+    for (const row of rows) {
+      items.push({
+        id: `report:${row.id}`,
+        kind: 'report',
+        title: `Report ready · ${row.zone_name}`,
+        body: `${row.recommendation} · score ${row.opportunity_score}`,
+        href: 'reports',
+        createdAt: row.generated_at,
+      });
+    }
+  } catch (err) {
+    if (err.code !== '42P01') throw err;
+  }
+
+  try {
+    const { rows } = await pool.query(
+      `
+        SELECT id, stage, zone_id, updated_at
+        FROM investor_pipeline
+        WHERE user_id = $1
+        ORDER BY updated_at DESC
+        LIMIT 8
+      `,
+      [userId]
+    );
+    for (const row of rows) {
+      items.push({
+        id: `pipeline:${row.id}`,
+        kind: 'pipeline',
+        title: `Pipeline · ${row.stage.replace(/_/g, ' ')}`,
+        body: row.zone_id,
+        href: 'projects',
+        createdAt: row.updated_at,
+      });
+    }
+  } catch (err) {
+    if (err.code !== '42P01') throw err;
+  }
+
+  try {
+    const { rows } = await pool.query(
+      `
+        SELECT id, email, last_notified_at, created_at, active
+        FROM investor_search_alerts
+        WHERE user_id = $1
+        ORDER BY COALESCE(last_notified_at, created_at) DESC
+        LIMIT 8
+      `,
+      [userId]
+    );
+    for (const row of rows) {
+      items.push({
+        id: `alert:${row.id}`,
+        kind: 'alert',
+        title: row.last_notified_at ? 'Search alert fired' : 'Search alert watching',
+        body: row.active ? `Watching ${row.email}` : 'Alert paused',
+        href: 'projects',
+        createdAt: row.last_notified_at || row.created_at,
+      });
+    }
+  } catch (err) {
+    if (err.code !== '42P01') throw err;
+  }
+
+  items.sort((a, b) => new Date(b.createdAt) - new Date(a.createdAt));
+  return { count: items.length, notifications: items.slice(0, safeLimit) };
+}
+
 module.exports = {
   saveSearch,
   listSearches,
@@ -497,4 +581,5 @@ module.exports = {
   getPortfolioByShareToken,
   listSearchAlerts,
   deleteSearchAlert,
+  listNotifications,
 };

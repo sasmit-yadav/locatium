@@ -37,7 +37,25 @@ function slugifyFilename(value) {
   return safeText(value).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '').slice(0, 80) || 'zone';
 }
 
+function narrativeText(analysis) {
+  const n = analysis.analysis?.narrative || {};
+  return (
+    n.memo ||
+    n.summary ||
+    n.executiveSummary ||
+    analysis.analysis?.insights?.summary ||
+    null
+  );
+}
+
 async function persistReport(buffer, filename) {
+  const storageMode =
+    process.env.REPORT_STORAGE ||
+    (process.env.NODE_ENV === 'production' ? 'database' : 'filesystem');
+  if (storageMode === 'database') {
+    return { storageName: filename, storagePath: 'database' };
+  }
+
   await fs.mkdir(REPORTS_DIR, { recursive: true });
   const storageName = `${Date.now()}-${filename}`;
   const storagePath = path.join(REPORTS_DIR, storageName);
@@ -58,6 +76,7 @@ async function ensureInvestorReportsTable() {
   await pool.query(`
     CREATE TABLE IF NOT EXISTS investor_reports (
       id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+      user_id UUID REFERENCES users (id) ON DELETE CASCADE,
       zone_id TEXT NOT NULL,
       zone_name TEXT NOT NULL,
       sector TEXT NOT NULL DEFAULT 'industrial',
@@ -66,6 +85,7 @@ async function ensureInvestorReportsTable() {
       filename TEXT NOT NULL,
       storage_name TEXT NOT NULL,
       storage_path TEXT NOT NULL,
+      content BYTEA,
       file_size_bytes INTEGER NOT NULL,
       generated_at TIMESTAMPTZ NOT NULL DEFAULT now()
     )
@@ -73,6 +93,13 @@ async function ensureInvestorReportsTable() {
 
   await pool.query('CREATE INDEX IF NOT EXISTS idx_investor_reports_zone ON investor_reports (zone_id)');
   await pool.query('CREATE INDEX IF NOT EXISTS idx_investor_reports_generated ON investor_reports (generated_at DESC)');
+  await pool.query('ALTER TABLE investor_reports ADD COLUMN IF NOT EXISTS content BYTEA');
+  await pool.query(
+    'ALTER TABLE investor_reports ADD COLUMN IF NOT EXISTS user_id UUID REFERENCES users (id) ON DELETE CASCADE'
+  );
+  await pool.query(
+    'CREATE INDEX IF NOT EXISTS idx_investor_reports_user ON investor_reports (user_id, generated_at DESC)'
+  );
 
   investorReportsTableReady = true;
 }
@@ -93,6 +120,7 @@ async function saveReportMetadata(record) {
     const { rows } = await pool.query(
       `
         INSERT INTO investor_reports (
+          user_id,
           zone_id,
           zone_name,
           sector,
@@ -101,12 +129,14 @@ async function saveReportMetadata(record) {
           filename,
           storage_name,
           storage_path,
-          file_size_bytes
+          file_size_bytes,
+          content
         )
-        VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)
+        VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11)
         RETURNING id, generated_at
       `,
       [
+        record.userId,
         record.zoneId,
         record.zoneName,
         record.sector,
@@ -116,6 +146,7 @@ async function saveReportMetadata(record) {
         record.storageName,
         record.storagePath,
         record.fileSizeBytes,
+        record.content,
       ]
     );
     return rows[0] || null;
@@ -474,13 +505,20 @@ function renderExtendedSections(doc, analysis) {
     }
   }
 
-  if (analysis.analysis?.narrative?.summary) {
-    doc.addPage();
-    drawHeader(doc, analysis.zone.name, 'AI narrative brief');
-    drawFooter(doc, doc.bufferedPageRange()?.count || 9);
-    doc.y = 92;
-    sectionTitle(doc, 'Location intelligence narrative');
-    paragraph(doc, analysis.analysis.narrative.summary);
+  const narrative = narrativeText(analysis);
+  doc.addPage();
+  drawHeader(doc, analysis.zone.name, 'AI narrative brief');
+  drawFooter(doc, doc.bufferedPageRange()?.count || 9);
+  doc.y = 92;
+  sectionTitle(doc, 'Location intelligence narrative');
+  paragraph(
+    doc,
+    narrative ||
+      'Narrative summary unavailable. The pages above still contain deterministic scores, land pricing, and regulatory checks from live LOCATIUM data.'
+  );
+  if (analysis.analysis?.narrative?.method) {
+    doc.moveDown(0.3);
+    paragraph(doc, `Method: ${String(analysis.analysis.narrative.method).replace(/_/g, ' ')}.`);
   }
 }
 
@@ -527,7 +565,7 @@ async function generatePortfolioReport({ zoneIds, sector = 'industrial', portfol
   return { buffer, filename, zoneCount: analyses.length };
 }
 
-async function generateReport(zoneId, query = {}) {
+async function generateReport(zoneId, query = {}, userId) {
   if (!zoneId || typeof zoneId !== 'string' || !zoneId.trim()) {
     throw AppError.badRequest('zoneId is required');
   }
@@ -567,6 +605,7 @@ async function generateReport(zoneId, query = {}) {
   const filename = `${slugifyFilename(analysis.zone.name)}-locatium-report.pdf`;
   const storage = await persistReport(buffer, filename);
   const metadata = await saveReportMetadata({
+    userId,
     zoneId: analysis.zone.id,
     zoneName: analysis.zone.name,
     sector: analysis.sector,
@@ -576,12 +615,17 @@ async function generateReport(zoneId, query = {}) {
     storageName: storage.storageName,
     storagePath: storage.storagePath,
     fileSizeBytes: buffer.length,
+    content:
+      process.env.REPORT_STORAGE === 'filesystem' ||
+      (process.env.NODE_ENV !== 'production' && !process.env.REPORT_STORAGE)
+        ? null
+        : buffer,
   });
 
   return { buffer, filename, storage, metadata, analysis };
 }
 
-async function listReports({ limit = 20 } = {}) {
+async function listReports({ limit = 20, userId } = {}) {
   const pool = ensurePool();
   if (!pool) return [];
   await ensureInvestorReportsTable();
@@ -590,15 +634,16 @@ async function listReports({ limit = 20 } = {}) {
     `
       SELECT id, zone_id, zone_name, sector, recommendation, opportunity_score, filename, file_size_bytes, generated_at
       FROM investor_reports
+      WHERE user_id = $1
       ORDER BY generated_at DESC
-      LIMIT $1
+      LIMIT $2
     `,
-    [safeLimit]
+    [userId, safeLimit]
   );
   return rows;
 }
 
-async function getReportById(reportId) {
+async function getReportById(reportId, userId) {
   const pool = ensurePool();
   if (!pool) throw AppError.serviceUnavailable('Database not configured');
 
@@ -606,24 +651,27 @@ async function getReportById(reportId) {
 
   const { rows } = await pool.query(
     `
-      SELECT id, zone_id, zone_name, sector, recommendation, opportunity_score, filename, storage_name, storage_path, file_size_bytes, generated_at
+      SELECT id, zone_id, zone_name, sector, recommendation, opportunity_score, filename, storage_name, storage_path, content, file_size_bytes, generated_at
       FROM investor_reports
-      WHERE id = $1
+      WHERE id = $1 AND user_id = $2
       LIMIT 1
     `,
-    [reportId]
+    [reportId, userId]
   );
 
   if (!rows[0]) {
-    throw AppError.badRequest('Report not found');
+    throw AppError.notFound('Report not found');
   }
 
   const report = rows[0];
-  const buffer = await fs.readFile(report.storage_path);
+  const buffer = report.content
+    ? Buffer.from(report.content)
+    : await fs.readFile(report.storage_path);
+  delete report.content;
   return { report, buffer };
 }
 
-async function emailReport({ to, zoneId, reportId, message, query = {} }) {
+async function emailReport({ to, zoneId, reportId, message, query = {}, userId }) {
   let buffer;
   let filename;
   let metadata;
@@ -631,7 +679,7 @@ async function emailReport({ to, zoneId, reportId, message, query = {} }) {
   let resolvedReportId = reportId || null;
 
   if (reportId) {
-    const existing = await getReportById(reportId);
+    const existing = await getReportById(reportId, userId);
     buffer = existing.buffer;
     filename = existing.report.filename;
     metadata = existing.report;
@@ -640,7 +688,7 @@ async function emailReport({ to, zoneId, reportId, message, query = {} }) {
     if (!zoneId || typeof zoneId !== 'string' || !zoneId.trim()) {
       throw AppError.badRequest('zoneId or reportId is required');
     }
-    const generated = await generateReport(zoneId.trim(), query);
+    const generated = await generateReport(zoneId.trim(), query, userId);
     buffer = generated.buffer;
     filename = generated.filename;
     metadata = generated.metadata;
@@ -691,4 +739,5 @@ module.exports = {
   listReports,
   getReportById,
   emailReport,
+  narrativeText,
 };

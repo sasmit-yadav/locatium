@@ -1,0 +1,150 @@
+name: locatium
+
+x-api-environment: &api-environment
+  NODE_ENV: production
+  PORT: "3001"
+  TRUST_PROXY_HOPS: "1"
+  PUBLIC_APP_URL: ${PUBLIC_APP_URL}
+  CORS_ORIGINS: ${PUBLIC_APP_URL}
+  ALLOW_VERCEL_PREVIEWS: "false"
+  DATABASE_URL: postgresql://locatium:${POSTGRES_PASSWORD}@db:5432/locatium
+  DATABASE_SSL: "false"
+  PG_POOL_MAX: "8"
+  PG_STATEMENT_TIMEOUT_MS: "60000"
+  PG_QUERY_TIMEOUT_MS: "90000"
+  REQUIRE_SPATIAL_DATA: "true"
+  ALLOW_PARTIAL_SPATIAL_MIGRATION: "false"
+  JWT_ACCESS_SECRET: ${JWT_ACCESS_SECRET}
+  JWT_REFRESH_SECRET: ${JWT_REFRESH_SECRET}
+  DEMO_MODE: "true"
+  DEMO_USER_EMAIL: ${DEMO_USER_EMAIL:-demo@locatium.app}
+  REPORT_STORAGE: database
+  REDIS_URL: redis://redis:6379
+  ML_SERVICE_URL: http://ml:8000
+  ML_SERVICE_TIMEOUT_MS: "15000"
+  LLM_ENABLED: ${LLM_ENABLED:-false}
+  GROQ_API_KEY: ${GROQ_API_KEY:-}
+  LLM_MODEL: ${LLM_MODEL:-openai/gpt-oss-120b}
+  LLM_BASE_URL: ${LLM_BASE_URL:-https://api.groq.com/openai/v1}
+  SMTP_HOST: ${SMTP_HOST:-}
+  SMTP_PORT: ${SMTP_PORT:-587}
+  SMTP_SECURE: ${SMTP_SECURE:-false}
+  SMTP_USER: ${SMTP_USER:-}
+  SMTP_PASSWORD: ${SMTP_PASSWORD:-}
+  SMTP_FROM: ${SMTP_FROM:-}
+  INVESTOR_ALERTS_ENABLED: ${INVESTOR_ALERTS_ENABLED:-false}
+  INVESTOR_CACHE_WARM: ${INVESTOR_CACHE_WARM:-true}
+
+services:
+  db:
+    build:
+      context: ./deploy
+      dockerfile: Postgis.Dockerfile
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: locatium
+      POSTGRES_USER: locatium
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./deploy/init-postgis.sql:/docker-entrypoint-initdb.d/10-postgis.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U locatium -d locatium"]
+      interval: 10s
+      timeout: 5s
+      retries: 12
+    shm_size: 512mb
+
+  redis:
+    image: redis:7-alpine
+    restart: unless-stopped
+    command: ["redis-server", "--save", "", "--appendonly", "no", "--maxmemory", "256mb", "--maxmemory-policy", "allkeys-lru"]
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 3s
+      retries: 10
+
+  ml:
+    build:
+      context: ./ml-service
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    environment:
+      LOG_LEVEL: info
+      DATABASE_URL: postgresql://locatium:${POSTGRES_PASSWORD}@db:5432/locatium
+    depends_on:
+      db:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/ready')"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+
+  api:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    environment: *api-environment
+    depends_on:
+      db:
+        condition: service_healthy
+      redis:
+        condition: service_started
+      ml:
+        condition: service_started
+    healthcheck:
+      test: ["CMD", "node", "-e", "fetch('http://127.0.0.1:3001/health').then(r=>{if(!r.ok)process.exit(1)}).catch(()=>process.exit(1))"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+
+  migrate:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    profiles: ["tools"]
+    environment: *api-environment
+    command: ["node", "db/migrate.js"]
+    depends_on:
+      db:
+        condition: service_healthy
+
+  bootstrap:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    profiles: ["tools"]
+    environment:
+      <<: *api-environment
+      BOOTSTRAP_ADMIN_EMAIL: ${BOOTSTRAP_ADMIN_EMAIL:-}
+      BOOTSTRAP_ADMIN_PASSWORD: ${BOOTSTRAP_ADMIN_PASSWORD:-}
+      BOOTSTRAP_DEMO_EMAIL: ${DEMO_USER_EMAIL:-demo@locatium.app}
+    command: ["node", "scripts/bootstrap-users.js"]
+    depends_on:
+      db:
+        condition: service_healthy
+
+  caddy:
+    image: caddy:2-alpine
+    restart: unless-stopped
+    environment:
+      API_DOMAIN: ${API_DOMAIN}
+    ports:
+      - "80:80"
+      - "443:443"
+      - "443:443/udp"
+    volumes:
+      - ./deploy/Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+    depends_on:
+      api:
+        condition: service_healthy
+
+volumes:
+  postgres_data:
+  caddy_data:
+  caddy_config:

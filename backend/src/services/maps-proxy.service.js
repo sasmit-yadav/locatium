@@ -12,6 +12,7 @@ const {
 const { AppError } = require('../middleware/error.middleware');
 
 const MVT_STATEMENT_TIMEOUT_MS = Number(process.env.MVT_STATEMENT_TIMEOUT_MS) || 8000;
+const IDENTIFY_CONCURRENCY = Number(process.env.IDENTIFY_CONCURRENCY) || 6;
 const MAX_CONCURRENT_MVT = Number(process.env.MVT_MAX_CONCURRENT) || 4;
 let activeMvtJobs = 0;
 const mvtWaitQueue = [];
@@ -222,7 +223,12 @@ async function generateMvtForTable(tableId, zi, xi, yi) {
 
   const heavy = Boolean(cfg?.heavy);
   const tol = simplifyToleranceForZoom(zi, heavy);
-  const geomExpr = tol > 0 ? `ST_SimplifyPreserveTopology(t.geom, ${tol})` : 't.geom';
+  // Several imported HARSAC tables are stored as PointZM / LineStringZM with a NaN M
+  // ordinate (e.g. rapid_metro_station, water_network). ST_AsMVTGeom rejects those with
+  // "Geometry contains invalid coordinates" and the whole layer silently disappears from
+  // the map. MVT is a 2D format anyway, so flattening first loses nothing.
+  const geom2d = 'ST_Force2D(t.geom)';
+  const geomExpr = tol > 0 ? `ST_SimplifyPreserveTopology(${geom2d}, ${tol})` : geom2d;
   // Always cap features so a dense tile cannot stall the pool / browser.
   const limit = featureLimitForTile(zi, heavy) || (heavy ? 3000 : 8000);
   const limitClause = `LIMIT ${limit}`;
@@ -298,7 +304,10 @@ async function getTilePng(layerSlug, z, x, y) {
     return { buffer: empty, cacheHit: false, cacheLayer: 'deprecated-category', contentType: 'application/vnd.mapbox-vector-tile' };
   }
 
-  return { buffer: Buffer.from(''), cacheHit: false, cacheLayer: 'none', contentType: 'application/vnd.mapbox-vector-tile' };
+  // Unknown slug: neither a registered table nor a category. Returning an empty 200 here
+  // made a typo'd or retired layer look like an empty area of the map instead of a
+  // configuration error, so say so. Nothing reaches SQL — both registries are allowlists.
+  throw AppError.notFound(`Unknown tile layer: ${String(layerSlug).slice(0, 64)}`);
 }
 
 async function getGeoJsonForBBox(layerSlug, bboxRaw) {
@@ -394,15 +403,28 @@ function pickDisplayValue(attrs) {
   return '';
 }
 
+/**
+ * Identify SQL.
+ *
+ * `$4` is the tolerance expressed in degrees and exists purely so the `&&` bounding-box
+ * test can hit the GiST index on `geom`. Without it, casting the indexed column with
+ * `geom::geography` (and OR-ing two predicates) forces a sequential scan: a single point
+ * lookup against `village_boundary` measured 7.3s that way and 10ms with the pre-filter,
+ * returning identical rows. The exact predicates still decide what matches — the box only
+ * narrows the candidate set, and it is never smaller than the true tolerance in either
+ * axis, so it cannot drop a row the exact test would have kept.
+ */
 function buildIdentifySql(tableName, geometryType) {
   const safeTbl = validateTableName(tableName);
   const point = `ST_SetSRID(ST_MakePoint($1, $2), 4326)`;
   const attrs = `(to_jsonb(t) - 'geom') AS attributes`;
+  const bboxPrefilter = `t.geom && ST_Expand(${point}, $4)`;
 
   if (geometryType === 'point' || geometryType === 'line') {
     return `SELECT ${attrs}, ST_Distance(t.geom::geography, ${point}::geography) AS dist_m
       FROM ${safeTbl} t
-      WHERE ST_DWithin(t.geom::geography, ${point}::geography, $3)
+      WHERE ${bboxPrefilter}
+        AND ST_DWithin(t.geom::geography, ${point}::geography, $3)
       ORDER BY dist_m
       LIMIT 10`;
   }
@@ -411,10 +433,22 @@ function buildIdentifySql(tableName, geometryType) {
       CASE WHEN ST_Contains(t.geom, ${point}) THEN 0
            ELSE ST_Distance(t.geom::geography, ${point}::geography) END AS dist_m
     FROM ${safeTbl} t
-    WHERE ST_Contains(t.geom, ${point})
-       OR ST_DWithin(t.geom::geography, ${point}::geography, $3)
+    WHERE ${bboxPrefilter}
+      AND (ST_Contains(t.geom, ${point})
+           OR ST_DWithin(t.geom::geography, ${point}::geography, $3))
     ORDER BY dist_m
     LIMIT 10`;
+}
+
+/**
+ * Metres → degrees for the bounding-box pre-filter. Uses the longitude degree length at
+ * this latitude, which is the shorter of the two, so the resulting box is generous in
+ * latitude rather than tight — a pre-filter must never be smaller than the tolerance.
+ */
+function toleranceDegrees(toleranceM, lat) {
+  const mPerDegLon = 111320 * Math.cos((Number(lat) * Math.PI) / 180);
+  const safeMPerDeg = Number.isFinite(mPerDegLon) && mPerDegLon > 1 ? mPerDegLon : 111320;
+  return toleranceM / safeMPerDeg;
 }
 
 /** PostGIS identify — geometry-aware (points/lines use distance tolerance, polygons use contains + buffer). */
@@ -429,27 +463,39 @@ async function identifyAtPoint(slug, payload) {
   if (!pool) throw AppError.serviceUnavailable('Database not configured');
 
   const toleranceM = toleranceMeters(payload);
+  const toleranceDeg = toleranceDegrees(toleranceM, lat);
+
+  // A category can span 20+ tables. Querying them one after another made a single map
+  // click cost the sum of every table's latency; they are independent, so run them
+  // together in bounded batches (the pool has a finite number of connections, and
+  // several categories are identified in parallel by the batch endpoint).
   const hits = [];
-  for (const tbl of tables) {
-    const cfg = layerRegistry.getLayerConfig(tbl);
-    const geometryType = cfg?.geometryType || 'polygon';
-    const sql = buildIdentifySql(tbl, geometryType);
-    try {
-      const { rows } = await pool.query(sql, [lng, lat, toleranceM]);
-      for (const r of rows) {
-        const attrs = r.attributes || {};
-        const value = pickDisplayValue(attrs);
-        hits.push({
-          layerId: tbl,
-          layerName: tbl,
-          displayFieldName: '',
-          value,
-          attributes: attrs,
-        });
-      }
-    } catch (err) {
-      console.error('[maps-proxy] identify error:', err.message);
-    }
+  for (let offset = 0; offset < tables.length; offset += IDENTIFY_CONCURRENCY) {
+    const batch = tables.slice(offset, offset + IDENTIFY_CONCURRENCY);
+    const batchHits = await Promise.all(
+      batch.map(async (tbl) => {
+        const cfg = layerRegistry.getLayerConfig(tbl);
+        const geometryType = cfg?.geometryType || 'polygon';
+        const sql = buildIdentifySql(tbl, geometryType);
+        try {
+          const { rows } = await pool.query(sql, [lng, lat, toleranceM, toleranceDeg]);
+          return rows.map((r) => {
+            const attrs = r.attributes || {};
+            return {
+              layerId: tbl,
+              layerName: tbl,
+              displayFieldName: '',
+              value: pickDisplayValue(attrs),
+              attributes: attrs,
+            };
+          });
+        } catch (err) {
+          console.error('[maps-proxy] identify error:', tbl, err.message);
+          return [];
+        }
+      })
+    );
+    for (const rows of batchHits) hits.push(...rows);
   }
   return { hits, rawResultCount: hits.length };
 }

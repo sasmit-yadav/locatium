@@ -10,8 +10,10 @@ import {
   Settings,
   ShieldAlert,
 } from 'lucide-react';
+import { useState } from 'react';
 import { useDashboardStore } from '../stores/useDashboardStore';
 import { layout } from '../design-system/tokens';
+import { getMapsApiOrigin } from '../config/api';
 
 const RAIL_TABS = [
   { id: 'explore', icon: Compass, label: 'Explore', workspaces: ['explore'] },
@@ -31,6 +33,7 @@ export function LeftNavigationRail() {
   const setActiveLeftTab = useDashboardStore((s) => s.setActiveLeftTab);
   const leftCollapsed = useDashboardStore((s) => s.leftCollapsed);
   const toggleLeft = useDashboardStore((s) => s.toggleLeft);
+  const [systemStatus, setSystemStatus] = useState(null);
 
   const visibleTabs = RAIL_TABS.filter((tab) => tab.workspaces.includes(activeWorkspace));
   const topTabs = visibleTabs.filter((t) => !t.bottom);
@@ -42,6 +45,21 @@ export function LeftNavigationRail() {
     } else {
       setActiveLeftTab(id);
       if (leftCollapsed) toggleLeft();
+    }
+  }
+
+  async function checkSystemStatus() {
+    setSystemStatus({ checking: true, ok: false, message: 'Checking API and PostGIS…' });
+    try {
+      const res = await fetch(`${getMapsApiOrigin()}/api/ready`);
+      const data = await res.json().catch(() => ({}));
+      setSystemStatus({
+        checking: false,
+        ok: res.ok,
+        message: res.ok ? 'API, PostGIS and spatial data are ready.' : data.message || 'Service is not ready.',
+      });
+    } catch {
+      setSystemStatus({ checking: false, ok: false, message: 'Could not reach the API.' });
     }
   }
 
@@ -83,11 +101,26 @@ export function LeftNavigationRail() {
           type="button"
           title="System status"
           aria-label="System status"
+          onClick={checkSystemStatus}
           className="grid h-11 w-11 place-items-center rounded-ds-sm text-ds-text-secondary transition-colors hover:bg-ds-surface-sunken hover:text-ds-text-primary focus-visible:outline-none focus-visible:shadow-ds-focus"
         >
           <MonitorDot size={layout.iconButtonGlyph} strokeWidth={1.75} aria-hidden />
         </button>
       </div>
+      {systemStatus ? (
+        <button
+          type="button"
+          onClick={() => setSystemStatus(null)}
+          className={`fixed bottom-3 left-16 z-ds-toast w-64 rounded-lg border bg-ds-surface-raised p-3 text-left text-xs shadow-ds-md ${
+            systemStatus.ok ? 'border-ds-success/40' : 'border-ds-warning/40'
+          }`}
+        >
+          <span className="font-semibold text-ds-text-primary">
+            {systemStatus.checking ? 'Checking system' : systemStatus.ok ? 'All systems ready' : 'Service issue'}
+          </span>
+          <span className="mt-1 block text-ds-text-secondary">{systemStatus.message}</span>
+        </button>
+      ) : null}
     </nav>
   );
 }

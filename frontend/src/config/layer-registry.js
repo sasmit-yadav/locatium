@@ -64,6 +64,10 @@ function vec(table, category, geometryType, minzoom, style, opts = {}) {
     minzoom,
     maxzoom: opts.maxzoom ?? 22,
     heavy: Boolean(opts.heavy),
+    // Configured but not yet imported into PostGIS. Kept here so the wiring survives
+    // until the dataset lands, but excluded from the panel so we never advertise a
+    // toggle that can only ever draw nothing.
+    awaitingData: Boolean(opts.awaitingData),
     style,
     clusterStyle: opts.clusterStyle ?? null,
     performance: {
@@ -146,7 +150,7 @@ export const LAYER_CONFIGS = [
   vec('hospitals', 'social-infrastructure', 'point', 10, pt('#dc2626', R_MD)),
   vec('govt_school', 'social-infrastructure', 'point', 11, pt('#3b82f6', R_SM)),
   vec('iti', 'social-infrastructure', 'point', 11, pt('#c2410c', R_SM)),
-  vec('haryana_police_public_schools_point', 'social-infrastructure', 'point', 11, pt('#7c3aed', R_SM)),
+  vec('haryana_police_public_schools_point', 'social-infrastructure', 'point', 11, pt('#7c3aed', R_SM), { awaitingData: true }),
   vec('pm_shri_and_sanskriti_school', 'social-infrastructure', 'point', 11, pt('#0891b2', R_SM)),
   vec('jails_point', 'social-infrastructure', 'point', 11, pt('#1e3a8a', R_SM)),
 
@@ -158,7 +162,7 @@ export const LAYER_CONFIGS = [
   vec('pri_ug_electric_segment', 'utilities', 'line', 13, { lineColor: '#d97706', lineWidth: 1.5, lineOpacity: 0.9 }, { heavy: true }),
   vec('sec_ug_electric_line', 'utilities', 'line', 13, { lineColor: '#fde68a', lineWidth: 1.1, lineOpacity: 0.85 }, { heavy: true }),
   vec('hvpnl_line', 'utilities', 'line', 13, { lineColor: '#be123c', lineWidth: 2.25, lineOpacity: 0.95 }),
-  vec('conduit_system', 'utilities', 'line', 13, { lineColor: '#78716c', lineWidth: 1.2, lineOpacity: 0.85 }, { heavy: true }),
+  vec('conduit_system', 'utilities', 'line', 13, { lineColor: '#78716c', lineWidth: 1.2, lineOpacity: 0.85 }, { heavy: true, awaitingData: true }),
   vec('eht_feeder', 'utilities', 'line', 13, { lineColor: '#c026d3', lineWidth: 1.75, lineOpacity: 0.92 }, { heavy: true }),
   vec('ioc_gas_line', 'utilities', 'line', 13, { lineColor: '#f97316', lineWidth: 1.75, lineOpacity: 0.92 }),
   vec('women_line', 'utilities', 'line', 13, { lineColor: '#ec4899', lineWidth: 1.5, lineOpacity: 0.9 }),
@@ -169,7 +173,7 @@ export const LAYER_CONFIGS = [
   vec('bus_bar', 'utilities', 'point', 14, pt('#7c2d12', R_UTIL), { heavy: true }),
   vec('distribution_transformer', 'utilities', 'point', 14, pt('#f59e0b', R_UTIL), { heavy: true }),
   vec('hv_transformer', 'utilities', 'point', 14, pt('#ea580c', R_UTIL)),
-  vec('generator', 'utilities', 'point', 14, pt('#16a34a', R_UTIL)),
+  vec('generator', 'utilities', 'point', 14, pt('#16a34a', R_UTIL), { awaitingData: true }),
   vec('switch', 'utilities', 'point', 14, pt('#6366f1', R_UTIL), { heavy: true }),
   vec('switching_facility', 'utilities', 'point', 14, pt('#8b5cf6', R_UTIL)),
   vec('open_point', 'utilities', 'point', 14, pt('#94a3b8', R_UTIL), { heavy: true }),
@@ -241,7 +245,7 @@ export const LAYER_PRIMARY_COLOR = Object.fromEntries(
 );
 
 export function getLayersForCategory(categoryId) {
-  return LAYER_CONFIGS.filter((l) => l.category === categoryId);
+  return LAYER_CONFIGS.filter((l) => l.category === categoryId && !l.awaitingData);
 }
 
 export function getCategoryMinZoom(categoryId) {

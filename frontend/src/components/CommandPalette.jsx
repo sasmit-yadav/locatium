@@ -1,3 +1,5 @@
+/* State resets are intentional when the modal/query result set changes. */
+/* eslint-disable react-hooks/set-state-in-effect */
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { Command, Layers, Layers3, MapPin, Search } from 'lucide-react';
 import { filterHaryanaPlaces } from '../data/haryanaPlaces';

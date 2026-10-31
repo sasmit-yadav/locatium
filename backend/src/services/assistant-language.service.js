@@ -51,6 +51,10 @@ const HI_TO_EN = [
   ['नीति', 'policy'], ['नियम', 'rules'], ['मंजूरी', 'approval'], ['अनुमति', 'permission'],
   ['लाइसेंस', 'licence'], ['प्रदूषण', 'pollution'], ['पर्यावरण', 'environment'],
   ['फॉर्मूला', 'formula'], ['गणना', 'calculation'],
+  ['जोखिम', 'risk'], ['अगला', 'next'], ['कदम', 'step'], ['सस्ता', 'cheaper'],
+  ['महंगा', 'expensive'], ['सुरक्षित', 'safer'], ['रिपोर्ट', 'report'],
+  ['सेव', 'save'], ['ईमेल', 'email'], ['जमाबंदी', 'jamabandi'],
+  ['म्यूटेशन', 'mutation'], ['दस्तावेज', 'documents'], ['चेकलिस्ट', 'checklist'],
 ];
 
 /** Devanagari district names → canonical English (feeds the existing district matcher). */

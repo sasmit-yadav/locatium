@@ -1,4 +1,4 @@
-import { ChevronDown, Eye, Info, Layers, Lock, Search, SlidersHorizontal } from 'lucide-react';
+import { ChevronDown, Eye, Info, Layers, Lock, SlidersHorizontal } from 'lucide-react';
 import { useMemo, useState } from 'react';
 import { BASEMAPS } from '../config/basemaps';
 import { ENTERPRISE_LAYER_CATEGORIES } from '../config/enterpriseLayers';

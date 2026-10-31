@@ -1,7 +1,8 @@
-import { useQuery } from '@tanstack/react-query';
-import { CircleUser, Mail, ShieldCheck, CalendarClock } from 'lucide-react';
-import { getProfile } from '../services/auth';
-import { getWorkspaceStats } from '../services/portal';
+import { useState } from 'react';
+import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query';
+import { CircleUser, Mail, ShieldCheck, CalendarClock, Database } from 'lucide-react';
+import { getProfile, updateProfile } from '../services/auth';
+import { getTransparencyStats, getWorkspaceStats } from '../services/portal';
 
 function InfoRow({ icon: Icon, label, value }) {
   return (
@@ -16,6 +17,10 @@ function InfoRow({ icon: Icon, label, value }) {
 }
 
 export function UserSettingsPanel() {
+  const queryClient = useQueryClient();
+  const [draftName, setDraftName] = useState(null);
+  const [formError, setFormError] = useState('');
+
   const profileQuery = useQuery({
     queryKey: ['auth-profile'],
     queryFn: getProfile,
@@ -27,7 +32,26 @@ export function UserSettingsPanel() {
     queryFn: getWorkspaceStats,
   });
 
+  const transparencyQuery = useQuery({
+    queryKey: ['public-transparency'],
+    queryFn: getTransparencyStats,
+    staleTime: 1000 * 60,
+  });
+
+  const displayName = draftName ?? profileQuery.data?.display_name ?? '';
+
+  const saveName = useMutation({
+    mutationFn: () => updateProfile({ displayName }),
+    onSuccess: () => {
+      setFormError('');
+      setDraftName(null);
+      queryClient.invalidateQueries({ queryKey: ['auth-profile'] });
+    },
+    onError: (err) => setFormError(err.message),
+  });
+
   const profile = profileQuery.data;
+  const coverage = transparencyQuery.data?.coverage;
 
   return (
     <div className="flex h-full flex-col">
@@ -35,7 +59,7 @@ export function UserSettingsPanel() {
         <div className="flex items-center gap-2 text-ds-title text-ds-text-primary">
           <CircleUser size={16} className="text-ds-accent" /> Workspace &amp; profile
         </div>
-        <div className="mt-1 text-xs text-ds-text-secondary">Your account details and activity summary.</div>
+        <div className="mt-1 text-xs text-ds-text-secondary">Your account details, activity, and public data coverage.</div>
       </div>
 
       <div className="scrollbar-thin min-h-0 flex-1 space-y-4 overflow-y-auto p-3">
@@ -55,6 +79,32 @@ export function UserSettingsPanel() {
                 label="Member since"
                 value={profile.created_at ? new Date(profile.created_at).toLocaleDateString() : 'N/A'}
               />
+              <form
+                className="rounded-lg border border-ds-border-subtle bg-ds-surface-sunken p-3"
+                onSubmit={(event) => {
+                  event.preventDefault();
+                  saveName.mutate();
+                }}
+              >
+                <label className="block text-[10px] font-semibold uppercase tracking-wider text-ds-text-secondary">
+                  Display name
+                  <input
+                    value={displayName}
+                    onChange={(event) => setDraftName(event.target.value)}
+                    className="mt-1 h-9 w-full rounded-md border border-ds-border-subtle bg-ds-surface-raised px-2 text-sm font-semibold text-ds-text-primary outline-none focus:border-ds-accent"
+                    maxLength={80}
+                    placeholder="How should LOCATIUM address you?"
+                  />
+                </label>
+                {formError ? <p className="mt-2 text-[11px] text-ds-danger">{formError}</p> : null}
+                <button
+                  type="submit"
+                  disabled={saveName.isPending}
+                  className="mt-2 rounded-md bg-ds-accent px-3 py-1.5 text-[11px] font-bold text-white disabled:opacity-60"
+                >
+                  {saveName.isPending ? 'Saving…' : 'Save name'}
+                </button>
+              </form>
             </>
           ) : null}
         </section>
@@ -81,6 +131,31 @@ export function UserSettingsPanel() {
               <div className="text-[10px] font-semibold uppercase tracking-wider text-ds-text-secondary">Saved views</div>
             </div>
           </div>
+        </section>
+
+        <section className="rounded-lg border border-ds-border-subtle bg-ds-surface-raised p-3">
+          <div className="flex items-center gap-2 text-xs font-bold uppercase tracking-[0.17em] text-ds-text-secondary">
+            <Database size={14} className="text-ds-accent" /> Data transparency
+          </div>
+          <p className="mt-2 text-[11px] leading-5 text-ds-text-tertiary">
+            Scoring {transparencyQuery.data?.scoringVersion || '—'} · ranking {transparencyQuery.data?.opportunityVersion || '—'}
+          </p>
+          {coverage?.available ? (
+            <div className="mt-3 grid grid-cols-2 gap-2 text-xs">
+              <div className="rounded-lg bg-ds-surface-sunken p-2">Districts {coverage.districts ?? '—'}</div>
+              <div className="rounded-lg bg-ds-surface-sunken p-2">Estates {coverage.industrialEstates ?? '—'}</div>
+              <div className="rounded-lg bg-ds-surface-sunken p-2">Hospitals {coverage.hospitals ?? '—'}</div>
+              <div className="rounded-lg bg-ds-surface-sunken p-2">Schools {coverage.schools ?? '—'}</div>
+              <div className="rounded-lg bg-ds-surface-sunken p-2">Circle rates {coverage.collectorRateRows ?? '—'}</div>
+              <div className="rounded-lg bg-ds-surface-sunken p-2">Market deals {coverage.marketTransactions ?? '—'}</div>
+            </div>
+          ) : (
+            <p className="mt-2 text-xs text-ds-text-secondary">Coverage stats unavailable until PostGIS is ready.</p>
+          )}
+          <p className="mt-2 text-[11px] leading-5 text-ds-text-tertiary">
+            Land prices are current collector-rate + comps bands. The copilot falls back when the LLM is unavailable
+            ({transparencyQuery.data?.assistant?.fallbackRatePct ?? 0}% fallback this session).
+          </p>
         </section>
       </div>
     </div>

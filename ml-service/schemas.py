@@ -1,6 +1,6 @@
 from typing import Any, Literal
 
-from pydantic import BaseModel, Field
+from pydantic import BaseModel, ConfigDict, Field
 
 
 class ScoreLocationRequest(BaseModel):
@@ -10,6 +10,8 @@ class ScoreLocationRequest(BaseModel):
 
 
 class MLResponse(BaseModel):
+    model_config = ConfigDict(protected_namespaces=())
+
     method: Literal["ml", "heuristic"]
     confidence: float = Field(ge=0.0, le=1.0)
     model_version: str

@@ -75,9 +75,30 @@ async def _database_reachable() -> tuple[bool, str]:
         return True, "driver_not_installed"
     try:
         conn = await asyncpg.connect(database_url, timeout=2.0)
-        await conn.execute("SELECT 1")
+        missing = await conn.fetch(
+            """
+            SELECT name
+            FROM unnest($1::text[]) AS name
+            WHERE to_regclass('public.' || name) IS NULL
+            """,
+            [
+                "zone_features",
+                "zone_outcomes",
+                "district_boundary",
+                "roads_line",
+                "hospitals",
+                "circle_rates",
+                "land_transactions",
+            ],
+        )
+        if missing:
+            await conn.close()
+            return False, "missing_tables:" + ",".join(row["name"] for row in missing)
+        training_rows = await conn.fetchval("SELECT COUNT(*) FROM zone_outcomes")
         await conn.close()
-        return True, "ok"
+        if not training_rows:
+            return False, "zone_outcomes_empty"
+        return True, f"ok:{training_rows}_training_rows"
     except Exception as exc:  # noqa: BLE001 — readiness probe
         return False, str(exc)
 
@@ -86,7 +107,17 @@ async def _database_reachable() -> tuple[bool, str]:
 async def ready():
     registry_ok, registry_detail = _registry_reachable()
     db_ok, db_detail = await _database_reachable()
-    all_ok = registry_ok and db_ok
+    try:
+        from services.investment_model import load_model
+        from services.registry import is_model_deployed
+
+        model_required = is_model_deployed()
+        model_ok = not model_required or load_model() is not None
+        model_detail = "ok" if model_ok and model_required else "heuristic_only"
+    except Exception as exc:  # noqa: BLE001 — readiness must report, not crash
+        model_ok = False
+        model_detail = f"error:{exc}"
+    all_ok = registry_ok and db_ok and model_ok
     status_code = 200 if all_ok else 503
     return JSONResponse(
         status_code=status_code,
@@ -94,6 +125,7 @@ async def ready():
             "status": "ok" if all_ok else "not_ready",
             "registry": registry_detail,
             "database": db_detail,
+            "model": model_detail,
         },
     )
 

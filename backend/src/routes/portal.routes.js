@@ -17,7 +17,7 @@ router.put('/favorites/:id', authenticate, asyncHandler(portal.updateFavoriteNot
 router.delete('/favorites/:id', authenticate, asyncHandler(portal.deleteFavorite));
 
 // Shared Snapshots (Public)
-router.post('/share', asyncHandler(portal.createSnapshot));
+router.post('/share', authenticate, asyncHandler(portal.createSnapshot));
 router.get('/share/:token', asyncHandler(portal.getSnapshot));
 
 // Analysis History (Authenticated)
@@ -41,5 +41,7 @@ router.get('/portfolios/share/:token', asyncHandler(portal.getSharedPortfolio));
 router.get('/search-alerts', authenticate, asyncHandler(portal.listSearchAlerts));
 router.post('/search-alerts', authenticate, asyncHandler(portal.subscribeSearchAlert));
 router.delete('/search-alerts/:id', authenticate, asyncHandler(portal.deleteSearchAlert));
+
+router.get('/notifications', authenticate, asyncHandler(portal.listNotifications));
 
 module.exports = router;

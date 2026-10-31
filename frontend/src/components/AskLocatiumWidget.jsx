@@ -17,7 +17,8 @@ import {
   BookOpen,
   Check,
 } from 'lucide-react';
-import { askLocatiumStream } from '../services/assistant';
+import { askLocatiumStream, confirmAssistantAction, clearAssistantMemory, getAssistantMemory } from '../services/assistant';
+import { getFacilityGap, getLandForecast } from '../services/analysis';
 import {
   startRecording,
   transcribeAudio,
@@ -27,6 +28,7 @@ import {
   isSpeechSupported,
 } from '../services/voice';
 import { useDashboardStore } from '../stores/useDashboardStore';
+import { InlineMarkdown } from './ui/InlineMarkdown';
 
 // Ordered for a first-time visitor: orientation, then budget, then vocabulary, then analysis.
 const STARTER_CHIPS = [
@@ -34,6 +36,7 @@ const STARTER_CHIPS = [
   'I have ₹2 crore, where should I look?',
   'What is a circle rate?',
   'ye jagah industrial ke liye kaisi hai?',
+  'What should I do after I like a zone?',
   'सर्कल रेट क्या होता है?',
   'gurgaon me best warehouse under 5 cr',
 ];
@@ -125,7 +128,7 @@ export function AskLocatiumWidget() {
   const [messages, setMessages] = useState([
     {
       role: 'assistant',
-      text: "Hi — I'm your LOCATIUM copilot. If you've never bought land before, that's fine: ask me anything in plain words and I'll explain as we go. Type or tap the mic, in English, हिंदी or Hinglish. Click anywhere on the map to ask about that spot.",
+      text: "Hi — I'm sitting on this Haryana map with you. Never bought land before? Ask in plain words. Type or tap the mic, in English, हिंदी or Hinglish. Click a spot, or say what you want — I'll score it, flag risks, walk next steps, and actually save or email a report when you tap Confirm.",
       method: null,
       actions: [],
       followUps: STARTER_CHIPS.slice(0, 4),
@@ -147,12 +150,18 @@ export function AskLocatiumWidget() {
   const canSpeak = isSpeechSupported();
 
   const selectedLocation = useDashboardStore((s) => s.selectedLocation);
+  const selectionIsExplicit = useDashboardStore((s) => s.selectionIsExplicit);
   const view = useDashboardStore((s) => s.view);
   const flyTo = useDashboardStore((s) => s.flyTo);
   const setInvestorHighlights = useDashboardStore((s) => s.setInvestorHighlights);
   const setActiveInspectorTab = useDashboardStore((s) => s.setActiveInspectorTab);
+  const setActiveLeftTab = useDashboardStore((s) => s.setActiveLeftTab);
+  const setCommandPaletteOpen = useDashboardStore((s) => s.setCommandPaletteOpen);
+  const toggleLayer = useDashboardStore((s) => s.toggleLayer);
   const toggleRight = useDashboardStore((s) => s.toggleRight);
   const rightCollapsed = useDashboardStore((s) => s.rightCollapsed);
+  const setAnalysisOverlay = useDashboardStore((s) => s.setAnalysisOverlay);
+  const activateWorkspace = useDashboardStore((s) => s.activateWorkspace);
 
   useEffect(() => {
     function onOpen() {
@@ -164,61 +173,167 @@ export function AskLocatiumWidget() {
   }, []);
 
   useEffect(() => {
+    getAssistantMemory()
+      .then((data) => {
+        if (data?.session && Object.keys(data.session).length) setSession(data.session);
+      })
+      .catch(() => {});
+  }, []);
+
+  useEffect(() => {
     if (!listRef.current) return;
     listRef.current.scrollTop = listRef.current.scrollHeight;
   }, [messages, open, busy]);
 
   function runAction(action) {
     if (!action) return;
-    if (action.type === 'flyTo' && action.lng != null && action.lat != null) {
+    const params = action.params || action;
+    if (action.type === 'flyTo' && params.lng != null && params.lat != null) {
       flyTo({
-        lng: action.lng,
-        lat: action.lat,
-        zoom: action.zoom || 12,
-        name: action.name || 'Copilot suggestion',
+        lng: params.lng,
+        lat: params.lat,
+        zoom: params.zoom || 12,
+        name: params.name || 'Copilot suggestion',
         type: 'Ask LOCATIUM',
-        feature: action.zoneId ? { investorZoneId: action.zoneId, id: action.zoneId } : null,
+        feature: params.zoneId ? { investorZoneId: params.zoneId, id: params.zoneId } : null,
       });
     }
-    if (action.type === 'highlightOpportunities' && action.highlights?.length) {
-      setInvestorHighlights(action.highlights);
+    if (action.type === 'highlightOpportunities' && params.highlights?.length) {
+      setInvestorHighlights(params.highlights);
     }
     if (action.type === 'openInvestor' || action.type === 'openAnalysis') {
       if (rightCollapsed) toggleRight();
       setActiveInspectorTab(action.type === 'openInvestor' ? 'investor' : 'analysis');
     }
+    if (action.type === 'toggleLayer' && params.layerId) {
+      toggleLayer(params.layerId, params.visible !== false);
+      setActiveLeftTab('layers');
+    }
+    if (action.type === 'applyFilters') {
+      window.dispatchEvent(new CustomEvent('locatium:apply-investor-filters', { detail: params }));
+      if (rightCollapsed) toggleRight();
+      setActiveInspectorTab('investor');
+    }
+    if (action.type === 'compareZones') {
+      window.dispatchEvent(new CustomEvent('locatium:compare-zones', { detail: params.zoneIds || [] }));
+      if (rightCollapsed) toggleRight();
+      setActiveInspectorTab('investor');
+    }
+    if (action.type === 'explainTerm' && params.term) submit(`Explain ${params.term} in simple words.`);
+    if (action.type === 'explainScore') {
+      if (rightCollapsed) toggleRight();
+      setActiveInspectorTab('analysis');
+    }
+    if (action.type === 'startTour') {
+      setOpen(false);
+      setActiveLeftTab('layers');
+      setCommandPaletteOpen(true);
+    }
+    if (action.type === 'downloadCsv') {
+      const ids = new Set(params.zoneIds || []);
+      const rows = messages
+        .flatMap((message) => message.opportunities || [])
+        .filter((zone) => !ids.size || ids.has(zone.id));
+      const csvRows = [
+        ['Zone', 'District', 'Opportunity score', 'Zone ID'],
+        ...rows.map((zone) => [zone.name, zone.district, zone.opportunityScore, zone.id]),
+      ];
+      const csv = csvRows
+        .map((row) => row.map((value) => `"${String(value ?? '').replaceAll('"', '""')}"`).join(','))
+        .join('\n');
+      const url = URL.createObjectURL(new Blob([csv], { type: 'text/csv;charset=utf-8' }));
+      const link = document.createElement('a');
+      link.href = url;
+      link.download = 'locatium-shortlist.csv';
+      link.click();
+      URL.revokeObjectURL(url);
+    }
+    if (action.type === 'overlayFacilityGap') {
+      getFacilityGap({ district: params.district, limit: 400 })
+        .then((data) => {
+          setAnalysisOverlay(data);
+          toggleLayer('hospitals', true);
+          setActiveLeftTab('layers');
+        })
+        .catch(() => {});
+    }
+    if (action.type === 'showLandBand') {
+      if (params.lng != null && params.lat != null) {
+        flyTo({
+          lng: params.lng,
+          lat: params.lat,
+          zoom: params.zoom || 13,
+          name: 'Land-price band',
+          type: 'Ask LOCATIUM',
+          feature: params.zoneId ? { investorZoneId: params.zoneId, id: params.zoneId } : null,
+        });
+      }
+      getLandForecast({
+        lat: params.lat,
+        lng: params.lng,
+        sector: params.sector || 'industrial',
+        zoneId: params.zoneId,
+      })
+        .then((band) => {
+          window.dispatchEvent(new CustomEvent('locatium:land-forecast', { detail: band }));
+          if (rightCollapsed) toggleRight();
+          setActiveInspectorTab('analysis');
+        })
+        .catch(() => {
+          if (rightCollapsed) toggleRight();
+          setActiveInspectorTab('analysis');
+        });
+    }
+    if (action.type === 'openFacilities') {
+      window.dispatchEvent(new CustomEvent('locatium:open-facility-finder'));
+    }
+    if (action.type === 'copyEmbed' && params.zoneId) {
+      const url = `${window.location.origin}/embed/${encodeURIComponent(params.zoneId)}`;
+      navigator.clipboard?.writeText(url).catch(() => {});
+    }
+    if (action.type === 'openReports') {
+      activateWorkspace('reports');
+    }
   }
 
   /**
-   * Mutating actions are confirmed here. Rather than persist from the chat (and risk saving
-   * something the user did not mean), we open the real workspace where the action belongs and
-   * say so — the copilot sets things up, the user completes it deliberately.
+   * Mutating actions run only after this click. The server still requires `confirmed: true`.
    */
-  function runProposal(proposal, msgIdx) {
-    if (rightCollapsed) toggleRight();
-    const target = proposal.kind === 'export' ? 'investor' : 'investor';
-    setActiveInspectorTab(target);
-
-    const note =
-      proposal.type === 'generateReport'
-        ? 'Opened the Investor workspace — use Report on the selected zone to produce the PDF.'
-        : proposal.type === 'addToPipeline'
-          ? 'Opened the Investor workspace — add this zone to your pipeline from the zone card.'
-          : proposal.type === 'createAlert' || proposal.type === 'saveSearch'
-            ? 'Opened the Investor workspace — save the filters or alert from the filter bar.'
-            : 'Opened the Investor workspace to finish this.';
-
+  async function runProposal(proposal, msgIdx) {
     setMessages((prev) => {
       const next = [...prev];
       const m = next[msgIdx];
       if (!m) return prev;
-      next[msgIdx] = {
-        ...m,
-        proposals: (m.proposals || []).filter((p) => p.type !== proposal.type),
-        actionNote: note,
-      };
+      next[msgIdx] = { ...m, actionNote: 'Working…' };
       return next;
     });
+
+    try {
+      const result = await confirmAssistantAction(proposal);
+      if (proposal.type === 'generateReport' || proposal.type === 'emailReport' || proposal.type === 'addToPipeline') {
+        if (rightCollapsed) toggleRight();
+        setActiveInspectorTab('investor');
+      }
+      setMessages((prev) => {
+        const next = [...prev];
+        const m = next[msgIdx];
+        if (!m) return prev;
+        next[msgIdx] = {
+          ...m,
+          proposals: (m.proposals || []).filter((p) => p.type !== proposal.type),
+          actionNote: result.message || 'Done.',
+        };
+        return next;
+      });
+    } catch (err) {
+      setMessages((prev) => {
+        const next = [...prev];
+        const m = next[msgIdx];
+        if (!m) return prev;
+        next[msgIdx] = { ...m, actionNote: err.message || 'Could not complete that action.' };
+        return next;
+      });
+    }
   }
 
   // Stop any narration when the widget closes or unmounts — audio must never outlive the UI.
@@ -281,6 +396,7 @@ export function AskLocatiumWidget() {
   function resetChat() {
     stopSpeaking();
     setSession({});
+    clearAssistantMemory().catch(() => {});
     setMessages([
       {
         role: 'assistant',
@@ -302,6 +418,31 @@ export function AskLocatiumWidget() {
   async function submit(text) {
     const query = String(text || input).trim();
     if (!query || busy) return;
+
+    const confirmLike =
+      /^(yes|yep|yeah|ok|okay|do it|go ahead|please do|add it|save it|email it|haan|ha|kar do|theek hai|ok kar do)(?:\s+(?:add it|save it|email it|do it|please|kar do))?[.!?]*$/i;
+    if (confirmLike.test(query)) {
+      let lastIdx = -1;
+      for (let i = messages.length - 1; i >= 0; i -= 1) {
+        if (messages[i].role === 'assistant' && messages[i].proposals?.length) {
+          lastIdx = i;
+          break;
+        }
+      }
+      if (lastIdx >= 0) {
+        const proposals = messages[lastIdx].proposals;
+        const q = query.toLowerCase();
+        const picked =
+          (/email/.test(q) && proposals.find((p) => p.type === 'emailReport')) ||
+          (/\b(report|pdf)\b/.test(q) && proposals.find((p) => p.type === 'generateReport')) ||
+          (/\b(add|pipeline|save)\b/.test(q) && proposals.find((p) => p.type === 'addToPipeline')) ||
+          proposals[0];
+        setInput('');
+        setMessages((prev) => [...prev, { role: 'user', text: query }]);
+        await runProposal(picked, lastIdx);
+        return;
+      }
+    }
 
     setInput('');
     const history = messages
@@ -336,8 +477,8 @@ export function AskLocatiumWidget() {
     };
 
     try {
-      const lat = selectedLocation?.lat ?? view?.lat;
-      const lng = selectedLocation?.lng ?? view?.lng;
+      const lat = selectionIsExplicit ? selectedLocation?.lat : view?.lat;
+      const lng = selectionIsExplicit ? selectedLocation?.lng : view?.lng;
 
       await askLocatiumStream(
         {
@@ -365,7 +506,7 @@ export function AskLocatiumWidget() {
               resolvedReferences: meta.resolvedReferences,
             });
             const hl = meta.mapActions?.find((a) => a.type === 'highlightOpportunities');
-            if (hl?.highlights?.length) setInvestorHighlights(hl.highlights);
+            if (hl?.params?.highlights?.length) setInvestorHighlights(hl.params.highlights);
           },
           onToken: (chunk) => {
             setPhase('');
@@ -420,11 +561,9 @@ export function AskLocatiumWidget() {
   }
 
   const pinLabel =
-    selectedLocation?.name && selectedLocation.name !== 'Gurugram Industrial Corridor'
+    selectionIsExplicit && selectedLocation?.name
       ? selectedLocation.name
-      : selectedLocation?.lat != null
-        ? `${Number(selectedLocation.lat).toFixed(3)}, ${Number(selectedLocation.lng).toFixed(3)}`
-        : 'No pin yet';
+      : 'Map center (no pin yet)';
 
   const shellClass = expanded
     ? 'fixed inset-3 z-50 flex flex-col overflow-hidden rounded-2xl border border-ds-border-default bg-ds-surface-raised shadow-2xl'
@@ -535,7 +674,7 @@ export function AskLocatiumWidget() {
                     </div>
                   ) : null}
                   <p className="whitespace-pre-wrap">
-                    {m.text}
+                    <InlineMarkdown text={m.text} />
                     {m.streaming ? (
                       <span className="ml-0.5 inline-block h-3.5 w-1.5 animate-pulse bg-ds-accent align-middle" />
                     ) : null}

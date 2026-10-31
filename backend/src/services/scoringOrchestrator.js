@@ -5,9 +5,58 @@ const { enrichWithNarrative } = require('./narrative-insights.service');
 const { estimateLandValue } = require('./land-value.service');
 const { findComparableSites } = require('./comparable-sites.service');
 const { logEvent } = require('../utils/structured-logger');
+const scoringTelemetry = require('./scoring-telemetry');
+
+const redisCache = require('./redis-cache.service');
 
 const HEURISTIC_VERSION = 'heuristic-v1';
 const SCORE_ENDPOINT = '/api/analysis/score-location';
+
+/**
+ * Whole-pipeline cache for a scored pin.
+ *
+ * A map click costs ~30 PostGIS lookups, an ML round trip, land/comparable/policy
+ * queries and (optionally) an LLM memo. The underlying HARSAC/PostGIS data is a static
+ * import, so re-deriving all of that for a pin somebody just clicked is pure waste —
+ * and users click around the same parcel repeatedly while reading the panel.
+ *
+ * ~111 m of rounding on the key. Every input uses 2-5 km radii, so two clicks this
+ * close describe the same site.
+ */
+const SCORE_CACHE_TTL_SEC = Number(process.env.SCORE_CACHE_TTL_SEC) || 600;
+const SCORE_CACHE_MAX = 400;
+
+function scoreCacheKey(input) {
+  const lat = Number(input?.lat);
+  const lng = Number(input?.lng);
+  if (!Number.isFinite(lat) || !Number.isFinite(lng)) return null;
+  const sector = typeof input?.sector === 'string' && input.sector.trim() ? input.sector.trim().toLowerCase() : 'industrial';
+  return `score:v1:${sector}:${lat.toFixed(3)}:${lng.toFixed(3)}`;
+}
+
+async function readScoreCache(scoreMemory, key) {
+  if (!key) return null;
+  const mem = scoreMemory.get(key);
+  if (mem && Date.now() - mem.at < SCORE_CACHE_TTL_SEC * 1000) return mem.value;
+  if (mem) scoreMemory.delete(key);
+
+  const raw = await redisCache.getString(key);
+  if (!raw) return null;
+  try {
+    const value = JSON.parse(raw);
+    scoreMemory.set(key, { at: Date.now(), value });
+    return value;
+  } catch {
+    return null;
+  }
+}
+
+async function writeScoreCache(scoreMemory, key, value) {
+  if (!key || !value) return;
+  scoreMemory.set(key, { at: Date.now(), value });
+  if (scoreMemory.size > SCORE_CACHE_MAX) scoreMemory.delete(scoreMemory.keys().next().value);
+  await redisCache.setString(key, JSON.stringify(value), SCORE_CACHE_TTL_SEC);
+}
 
 function mergeMlInvestment(heuristicResult, mlPayload) {
   const mlResult = mlPayload.result || {};
@@ -71,23 +120,64 @@ async function finalizeScoreResponse(merged) {
 }
 
 function createScoringOrchestrator({ mlClient = defaultMlClient, fallbackScoring = defaultFallbackScoring } = {}) {
-  async function scoreLocation(input, { requestId } = {}) {
-    const heuristicPromise = fallbackScoring.scoreLocation(input);
+  // Per-instance so two orchestrators never serve each other's answers. Redis, when
+  // configured, is deliberately shared — that is the point of a distributed cache.
+  const scoreMemory = new Map();
 
+  async function scoreLocation(input, { requestId } = {}) {
+    const startedAt = Date.now();
+    const cacheKey = scoreCacheKey(input);
+    const cached = await readScoreCache(scoreMemory, cacheKey);
+    // A cache hit did no scoring work, so counting it would flatter the health numbers.
+    if (cached) return { ...cached, cached: true };
+
+    // The heuristic and the ML call run together, but the heuristic is only awaited
+    // *after* the ML round trip. Reifying it into a settled result observes any
+    // rejection right away: a bad-input rejection left unobserved across that await is
+    // an unhandled rejection, and Node's default policy terminates the process for it —
+    // so `POST /api/analysis/score-location {}` used to take the whole API down.
+    const heuristicSettled = fallbackScoring
+      .scoreLocation(input)
+      .then((value) => ({ ok: true, value }), (error) => ({ ok: false, error }));
+
+    let mlPayload = null;
+    let mlError = null;
     try {
-      const mlPayload = await mlClient.scoreInvestment(input, { requestId });
-      const heuristicResult = await heuristicPromise;
-      return finalizeScoreResponse(mergeMlInvestment(heuristicResult, mlPayload));
+      mlPayload = await mlClient.scoreInvestment(input, { requestId });
     } catch (err) {
-      const reason = err.reason || err.message || 'unknown';
+      mlError = err;
+    }
+
+    const heuristic = await heuristicSettled;
+    // Invalid input is a client error whatever the ML service did; surface it as-is
+    // rather than reporting it as an ML fallback.
+    if (!heuristic.ok) throw heuristic.error;
+
+    let response;
+    if (mlError) {
+      const reason = mlError.reason || mlError.message || 'unknown';
       logEvent('ml_fallback_triggered', {
         endpoint: SCORE_ENDPOINT,
         reason,
         requestId: requestId || null,
       });
-      const heuristicResult = await heuristicPromise;
-      return finalizeScoreResponse(attachFallbackMetadata(heuristicResult, reason));
+      response = await finalizeScoreResponse(attachFallbackMetadata(heuristic.value, reason));
+    } else {
+      response = await finalizeScoreResponse(mergeMlInvestment(heuristic.value, mlPayload));
     }
+
+    scoringTelemetry.recordScore({
+      method: response?.method,
+      modelVersion: response?.model_version,
+      fallback: Boolean(response?.fallback),
+      reason: response?.fallbackReason,
+      elapsedMs: Date.now() - startedAt,
+    });
+
+    // Only cache a complete answer. A fallback response is a degraded snapshot of a
+    // transient outage and must not be pinned in front of a recovered ML service.
+    if (!response?.fallback) await writeScoreCache(scoreMemory, cacheKey, response);
+    return response;
   }
 
   async function scoreBatch(input) {

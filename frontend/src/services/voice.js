@@ -1,4 +1,5 @@
 import { getMapsApiOrigin } from '../config/api';
+import { authFetch } from './auth';
 
 /**
  * Voice support for Ask LOCATIUM.
@@ -49,12 +50,14 @@ export async function startRecording() {
     });
   } catch (err) {
     if (err.name === 'NotAllowedError' || err.name === 'SecurityError') {
-      throw new Error('Microphone permission was blocked. Allow mic access and try again.');
+      throw new Error('Microphone permission was blocked. Allow mic access and try again.', {
+        cause: err,
+      });
     }
     if (err.name === 'NotFoundError') {
-      throw new Error('No microphone found on this device.');
+      throw new Error('No microphone found on this device.', { cause: err });
     }
-    throw new Error(`Could not access the microphone: ${err.message}`);
+    throw new Error(`Could not access the microphone: ${err.message}`, { cause: err });
   }
 
   const mimeType = pickMimeType();
@@ -110,7 +113,7 @@ export async function startRecording() {
 export async function transcribeAudio(blob, { language, signal } = {}) {
   const origin = getMapsApiOrigin();
   const qs = language ? `?language=${encodeURIComponent(language)}` : '';
-  const res = await fetch(`${origin}/api/assistant/voice${qs}`, {
+  const res = await authFetch(`${origin}/api/assistant/voice${qs}`, {
     method: 'POST',
     headers: { 'Content-Type': blob.type || 'audio/webm' },
     body: blob,

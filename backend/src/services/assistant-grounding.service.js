@@ -7,6 +7,8 @@ const scoringOrchestrator = require('./scoringOrchestrator');
 const investorOpportunities = require('./investor-opportunities.service');
 const { retrievePolicyContext } = require('./policy-rag.service');
 const { extractEntities } = require('./assistant-nlu.service');
+const { getForecast } = require('./land-forecast.service');
+const { getFacilityGap } = require('./facility-gap.service');
 
 /**
  * A chat turn must return something useful in seconds. Grounding jobs that overrun this budget
@@ -114,6 +116,129 @@ function compactOpportunity(row) {
   };
 }
 
+function opportunitiesFromMemory(rows = []) {
+  return (rows || [])
+    .filter((r) => r?.id || r?.name)
+    .map((r) => ({
+      id: r.id,
+      name: r.name,
+      district: r.district,
+      opportunityScore: r.score ?? r.opportunityScore ?? null,
+      verdict: r.verdict || null,
+      center:
+        r.center ||
+        (r.lat != null && r.lng != null ? { lat: r.lat, lng: r.lng } : null),
+      areaAcres: r.areaAcres ?? null,
+      zoneType: r.zoneType || null,
+      landValue: r.landValue || null,
+      landCostBand: r.landCostBand || null,
+      keyRisk: r.keyRisk || null,
+    }));
+}
+
+function compactForecast(band) {
+  if (!band) return null;
+  return {
+    horizon: band.horizon || 'current_band',
+    method: band.method,
+    p10: band.p10 ?? null,
+    p50: band.p50 ?? null,
+    p90: band.p90 ?? null,
+    confidence: band.confidence || null,
+    district: band.district || null,
+    unit: band.unit || 'INR_per_sq_yard',
+    note: band.note || null,
+  };
+}
+
+function forecastFromScoredLand(landValue) {
+  if (!landValue) return null;
+  const p50 = landValue.estimatedPerSqYardInr ?? null;
+  if (p50 == null) return null;
+  return {
+    horizon: 'current_band',
+    method: 'circle_rate_comps_band',
+    p10: landValue.estimatedLowPerSqYardInr ?? p50,
+    p50,
+    p90: landValue.estimatedHighPerSqYardInr ?? p50,
+    confidence: landValue.confidence || null,
+    district: landValue.district || null,
+    unit: 'INR_per_sq_yard',
+    note: 'Current collector-rate + comps band, not a future-year forecast.',
+  };
+}
+
+function compactFacilityGap(payload) {
+  if (!payload) return null;
+  const features = payload.features || [];
+  return {
+    district: payload.district || null,
+    summary: payload.summary || null,
+    weakest: features.slice(0, 5).map((f) => ({
+      zoneId: f.properties?.zoneId,
+      district: f.properties?.district,
+      gapClass: f.properties?.gapClass,
+      gapScore: f.properties?.gapScore,
+      hospitals5km: f.properties?.hospitals5km,
+      schools5km: f.properties?.schools5km,
+    })),
+  };
+}
+
+const DILIGENCE_STEPS = [
+  'Confirm master-plan / intended use vs current classification (CLU if the plot is agricultural).',
+  'Title check: jamabandi, mutation, encumbrance — do not rely on a verbal claim of ownership.',
+  'Walk the site: access road, power, drainage, waterlogging / flood marks, neighbouring uses.',
+  'All-in cost: collector-rate floor + stamp duty + registration, not just the asking ₹/sq yd.',
+  'If HSIIDC/HSVP: allotment and building bylaws; if private: licensed colony / conveyance chain.',
+];
+
+function buildDiligence(context) {
+  const steps = [...DILIGENCE_STEPS];
+  const cautions = context.scoredLocation?.insights?.cautions || [];
+  const extra = [];
+  if (context.scoredLocation?.zoning && !context.scoredLocation.zoning.insideHsiidc) {
+    extra.push('Pin is outside an HSIIDC estate — treat CLU / controlled-area rules as a first-order check.');
+  }
+  if (cautions[0]) extra.push(`From live scoring: ${cautions[0]}`);
+  return { steps, extra, policies: (context.policies || []).slice(0, 2) };
+}
+
+function resolvePendingAct(query, session = {}) {
+  const q = String(query || '').toLowerCase();
+  const top = session.lastResults?.[0];
+  const last = session.lastProposals?.[0];
+  if (/email/.test(q) && top?.id) return { type: 'emailReport', params: { zoneId: top.id } };
+  if (/\b(report|pdf)\b/.test(q) && top?.id) return { type: 'generateReport', params: { zoneId: top.id } };
+  if (/\balert\b/.test(q)) {
+    return {
+      type: 'createAlert',
+      params: {
+        sector: session.sector,
+        district: session.district,
+        budgetInr: session.budgetInr,
+      },
+    };
+  }
+  if (/save search|bookmark search/.test(q)) {
+    return {
+      type: 'saveSearch',
+      params: {
+        sector: session.sector,
+        district: session.district,
+        budgetInr: session.budgetInr,
+        risk: session.risk,
+      },
+    };
+  }
+  if (/\b(add|pipeline|shortlist|save it|save this|do it|go ahead|yes|confirm|kar do)\b/.test(q) && top?.id) {
+    return { type: 'addToPipeline', params: { zoneId: top.id, stage: 'shortlisted' } };
+  }
+  if (last?.type) return { type: last.type, params: last.params || {} };
+  if (top?.id) return { type: 'addToPipeline', params: { zoneId: top.id, stage: 'shortlisted' } };
+  return null;
+}
+
 function wants(intents, ...keys) {
   return keys.some((k) => intents.includes(k));
 }
@@ -133,10 +258,19 @@ async function fetchGroundingContext(input = {}) {
   const session = input.session || {};
   const lat = Number(input.lat);
   const lng = Number(input.lng);
-  const entities = extractEntities(input.query, session, { lat, lng });
-
-  if (input.sector) entities.sector = input.sector;
-  if (input.district) entities.district = input.district;
+  // The sentence the user just typed wins. A sector/district from the UI context or from
+  // carried memory fills what the sentence left out — it must never override what the
+  // sentence says, or "best industrial zones in Rewari" keeps answering about whichever
+  // district the conversation was last parked on.
+  const entities = extractEntities(
+    input.query,
+    {
+      ...session,
+      sector: input.sector || session.sector,
+      district: input.district || session.district,
+    },
+    { lat, lng }
+  );
 
   const context = {
     product: 'LOCATIUM',
@@ -148,6 +282,7 @@ async function fetchGroundingContext(input = {}) {
     district: entities.district,
     budgetInr: entities.budgetInr,
     risk: entities.risk,
+    preference: entities.preference || null,
     mapPoint: entities.hasPoint ? { lat, lng } : null,
     scoredLocation: null,
     opportunities: [],
@@ -158,6 +293,11 @@ async function fetchGroundingContext(input = {}) {
     howItWorks: null,
     notes: [],
     filtersUsed: null,
+    forecast: null,
+    facilityGap: null,
+    diligence: null,
+    pendingAct: null,
+    cheaperPicks: [],
   };
 
   if (entities.clarification?.needed) {
@@ -190,9 +330,20 @@ async function fetchGroundingContext(input = {}) {
   const district = entities.district;
   const budgetInr = entities.budgetInr;
   const hasPoint = entities.hasPoint;
+  const reuseLast = opportunitiesFromMemory(session.lastResults);
+  const skipFreshShortlist =
+    (entities.primaryIntent === 'act' || entities.primaryIntent === 'diligence') &&
+    reuseLast.length > 0;
+
+  if (entities.preference === 'cheaper' && budgetInr && session.budgetInr && budgetInr < session.budgetInr) {
+    context.notes.push(
+      `Tightened the ₹ cap because you said the last set was too expensive — now screening around ₹${Math.round(budgetInr / 1e7 * 10) / 10} Cr all-in.`
+    );
+  }
 
   const needScore =
-    wants(intents, 'score', 'nearby', 'how_it_works') ||
+    wants(intents, 'score', 'nearby', 'how_it_works', 'forecast') ||
+    (wants(intents, 'diligence') && hasPoint) ||
     (wants(intents, 'land') && !wants(intents, 'opportunities')) ||
     (wants(intents, 'opportunities') && hasPoint && !district);
 
@@ -208,12 +359,12 @@ async function fetchGroundingContext(input = {}) {
             context.notes.push(`Score unavailable: ${err.message}`);
           })
       );
-    } else if (!district) {
+    } else if (!district && !reuseLast.length) {
       context.notes.push('No map pin yet — click the map, or name a district.');
     }
   }
 
-  if (wants(intents, 'opportunities', 'land', 'compare', 'navigate')) {
+  if (wants(intents, 'opportunities', 'land', 'compare', 'navigate', 'risk') && !skipFreshShortlist) {
     const oppQuery = {
       sector,
       limit: wants(intents, 'compare') ? 3 : 6,
@@ -278,7 +429,7 @@ async function fetchGroundingContext(input = {}) {
     );
   }
 
-  if (wants(intents, 'policy') || /clu|eia|incentive|stamp|hsiidc|hsvp/i.test(entities.raw)) {
+  if (wants(intents, 'policy') || /clu|eia|incentive|stamp|hsiidc|hsvp|diligence|jamabandi/i.test(entities.raw)) {
     jobs.push(
       retrievePolicyContext({
         sector,
@@ -296,6 +447,36 @@ async function fetchGroundingContext(input = {}) {
         })
         .catch(() => {
           context.notes.push('Policy corpus unavailable.');
+        })
+    );
+  }
+
+  const wantsGap =
+    wants(intents, 'nearby') &&
+    /hospital|school|gap|amenity|facility|underserv|missing/i.test(entities.raw);
+  if (wantsGap) {
+    jobs.push(
+      getFacilityGap({ district: district || undefined, limit: 80 })
+        .then((payload) => {
+          context.facilityGap = compactFacilityGap(payload);
+        })
+        .catch(() => {
+          context.notes.push('Facility-gap overlay is unavailable right now.');
+        })
+    );
+  }
+
+  const wantsBand =
+    wants(intents, 'forecast') ||
+    (wants(intents, 'land') && /band|forecast|range|p10|all.?in/i.test(entities.raw));
+  if (wantsBand && hasPoint) {
+    jobs.push(
+      getForecast({ lat, lng, sector })
+        .then((band) => {
+          context.forecast = compactForecast(band);
+        })
+        .catch((err) => {
+          context.notes.push(`Land-price band unavailable: ${err.message}`);
         })
     );
   }
@@ -330,6 +511,37 @@ async function fetchGroundingContext(input = {}) {
     };
   }
 
+  if (!context.opportunities.length && reuseLast.length && wants(intents, 'act', 'diligence', 'risk', 'compare', 'navigate')) {
+    context.opportunities = reuseLast;
+    context.notes.push('Using the last shortlist from this conversation.');
+  }
+
+  if (!context.forecast) {
+    context.forecast = forecastFromScoredLand(context.scoredLocation?.landValue);
+  }
+
+  if (entities.preference === 'cheaper' && context.opportunities.length) {
+    context.cheaperPicks = [...context.opportunities]
+      .filter((z) => z.landValue?.estimatedPerSqYardInr != null)
+      .sort((a, b) => a.landValue.estimatedPerSqYardInr - b.landValue.estimatedPerSqYardInr)
+      .slice(0, 3);
+  }
+
+  if (entities.primaryIntent === 'diligence' || wants(intents, 'diligence')) {
+    context.diligence = buildDiligence(context);
+  }
+
+  if (entities.primaryIntent === 'act' || entities.confirmTurn) {
+    context.pendingAct = resolvePendingAct(entities.raw, {
+      lastResults: session.lastResults,
+      lastProposals: session.lastProposals,
+      sector: context.sector,
+      district: context.district,
+      budgetInr: context.budgetInr,
+      risk: context.risk,
+    });
+  }
+
   return context;
 }
 
@@ -337,4 +549,6 @@ module.exports = {
   fetchGroundingContext,
   compactScore,
   compactOpportunity,
+  resolvePendingAct,
+  DILIGENCE_STEPS,
 };

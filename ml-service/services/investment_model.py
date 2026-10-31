@@ -4,6 +4,7 @@ from __future__ import annotations
 
 from pathlib import Path
 from typing import Any
+import logging
 
 import joblib
 import numpy as np
@@ -12,6 +13,8 @@ from services.heuristic_scoring import clamp_score, feature_vector
 from services.registry import MODELS_DIR, get_model_entry, is_model_deployed, min_rows_threshold
 
 _model_cache: Any | None = None
+_model_load_failed = False
+logger = logging.getLogger("locatium.ml.model")
 
 
 def _model_path() -> Path:
@@ -21,13 +24,20 @@ def _model_path() -> Path:
 
 
 def load_model():
-    global _model_cache
+    global _model_cache, _model_load_failed
     if _model_cache is not None:
         return _model_cache
+    if _model_load_failed:
+        return None
     path = _model_path()
     if not path.is_file():
         return None
-    _model_cache = joblib.load(path)
+    try:
+        _model_cache = joblib.load(path)
+    except Exception as exc:  # the heuristic remains available if an artifact is incompatible
+        _model_load_failed = True
+        logger.error("Investment model could not be loaded: %s", exc)
+        return None
     return _model_cache
 
 

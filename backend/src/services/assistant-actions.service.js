@@ -94,6 +94,41 @@ const CATALOG = {
     params: ['zoneIds'],
     beginnerHint: 'Saves the list to your computer as a spreadsheet.',
   },
+  overlayFacilityGap: {
+    kind: 'map',
+    readOnly: true,
+    label: 'Overlay hospital/school gaps',
+    params: ['district'],
+    beginnerHint: 'Shows which industrial estates have few hospitals or schools nearby.',
+  },
+  showLandBand: {
+    kind: 'panel',
+    readOnly: true,
+    label: 'Show land-price band',
+    params: ['lat', 'lng', 'sector', 'zoneId'],
+    beginnerHint: 'Opens the current collector-rate + comps range for this pin. Not a future-year forecast.',
+  },
+  openFacilities: {
+    kind: 'panel',
+    readOnly: true,
+    label: 'Find nearby facilities',
+    params: [],
+    beginnerHint: 'Opens the nearest-hospital / school / amenity finder on the map.',
+  },
+  copyEmbed: {
+    kind: 'export',
+    readOnly: true,
+    label: 'Copy embed link',
+    params: ['zoneId'],
+    beginnerHint: 'Copies a public zone card URL you can paste into a memo or website.',
+  },
+  openReports: {
+    kind: 'panel',
+    readOnly: true,
+    label: 'Open Reports',
+    params: [],
+    beginnerHint: 'Your saved PDFs and activity.',
+  },
 
   // ---------- mutating — must be confirmed by the user ----------
   addToPipeline: {
@@ -205,7 +240,14 @@ function proposeActions(context = {}, { authenticated = false, beginner = false 
     else proposals.push(entry);
   };
 
+  const primary = context.primaryIntent;
   const top = context.opportunities?.[0];
+  const pin = context.mapPoint;
+
+  // The action they just asked for ("email me", "add it") must be the first confirm chip.
+  if (context.pendingAct?.type) {
+    add(context.pendingAct.type, context.pendingAct.params || {});
+  }
 
   if (top?.center?.lat != null) {
     add('flyTo', {
@@ -215,9 +257,33 @@ function proposeActions(context = {}, { authenticated = false, beginner = false 
       name: top.name,
       zoneId: top.id,
     }, { label: `Show ${top.name} on map` });
-  } else if (context.scoredLocation && context.mapPoint) {
-    add('flyTo', { lat: context.mapPoint.lat, lng: context.mapPoint.lng, zoom: 13, name: 'Selected site' },
+  } else if (context.scoredLocation && pin) {
+    add('flyTo', { lat: pin.lat, lng: pin.lng, zoom: 13, name: 'Selected site' },
       { label: 'Center on this site' });
+  }
+
+  if (primary === 'nearby' || context.facilityGap) {
+    add('overlayFacilityGap', { district: context.district || undefined });
+    add('openFacilities');
+    add('toggleLayer', { layerId: 'hospitals', visible: true }, { label: 'Show hospitals layer' });
+  }
+
+  if (primary === 'forecast' || primary === 'land' || context.forecast) {
+    add('showLandBand', {
+      lat: pin?.lat,
+      lng: pin?.lng,
+      sector: context.sector,
+      zoneId: top?.id,
+    });
+  }
+
+  if (primary === 'diligence') {
+    add('openAnalysis');
+    add('openReports');
+    if (top?.id) {
+      add('generateReport', { zoneId: top.id });
+      add('addToPipeline', { zoneId: top.id, stage: 'shortlisted' });
+    }
   }
 
   if (context.opportunities?.length) {
@@ -230,6 +296,9 @@ function proposeActions(context = {}, { authenticated = false, beginner = false 
     if (top?.id) {
       add('generateReport', { zoneId: top.id });
       add('addToPipeline', { zoneId: top.id, stage: 'shortlisted' });
+      add('addToPortfolio', { zoneId: top.id });
+      add('emailReport', { zoneId: top.id });
+      add('copyEmbed', { zoneId: top.id }, { label: `Copy embed link for ${top.name}` });
     }
   }
 
@@ -238,8 +307,6 @@ function proposeActions(context = {}, { authenticated = false, beginner = false 
     add('explainScore');
   }
 
-  // Re-applying the resolved filters is the fastest way for a beginner to see
-  // the conversation reflected in the real tool.
   if (context.sector || context.district || context.budgetInr) {
     add('applyFilters', {
       sector: context.sector,
@@ -267,7 +334,17 @@ function proposeActions(context = {}, { authenticated = false, beginner = false 
     add('startTour');
   }
 
-  return { actions: actions.slice(0, 8), proposals: proposals.slice(0, 4) };
+  // Deduplicate by type so intent-specific adds don't double the same chip.
+  const uniq = (list) => {
+    const seen = new Set();
+    return list.filter((item) => {
+      if (seen.has(item.type)) return false;
+      seen.add(item.type);
+      return true;
+    });
+  };
+
+  return { actions: uniq(actions).slice(0, 8), proposals: uniq(proposals).slice(0, 4) };
 }
 
 module.exports = { CATALOG, proposeActions, validateAction, describe };

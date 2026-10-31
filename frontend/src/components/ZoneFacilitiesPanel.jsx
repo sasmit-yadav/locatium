@@ -1,4 +1,6 @@
-import { useEffect, useState } from 'react';
+/* A changed zone intentionally resets the panel before fetching its new summary. */
+/* eslint-disable react-hooks/set-state-in-effect */
+import { useCallback, useEffect, useState } from 'react';
 import {
   ArrowLeft,
   Building2,
@@ -49,7 +51,7 @@ export function ZoneFacilitiesPanel({ open, onClose, zoneId, zoneName, lng, lat 
   const [error, setError] = useState(null);
   const [tab, setTab] = useState('nearby');
 
-  function buildQuery() {
+  const buildQuery = useCallback(() => {
     const params = new URLSearchParams();
     if (zoneId) params.set('zoneId', zoneId);
     if (lng != null && lat != null) {
@@ -57,7 +59,7 @@ export function ZoneFacilitiesPanel({ open, onClose, zoneId, zoneName, lng, lat 
       params.set('lat', String(lat));
     }
     return params.toString();
-  }
+  }, [lat, lng, zoneId]);
 
   useEffect(() => {
     if (!open || (!zoneId && (lng == null || lat == null))) return undefined;
@@ -88,7 +90,7 @@ export function ZoneFacilitiesPanel({ open, onClose, zoneId, zoneName, lng, lat 
     return () => {
       cancelled = true;
     };
-  }, [open, zoneId, lng, lat]);
+  }, [open, zoneId, lng, lat, buildQuery]);
 
   const fetchFacilitiesByType = async (facilityType) => {
     setLoading(true);

@@ -10,6 +10,8 @@ require('dotenv').config({ path: require('path').join(__dirname, '..', '.env') }
 const assert = require('assert').strict;
 
 const API_URL = process.env.API_URL || `http://localhost:${process.env.PORT || 3002}`;
+const TEST_USER_EMAIL = process.env.TEST_USER_EMAIL;
+const TEST_USER_PASSWORD = process.env.TEST_USER_PASSWORD;
 
 const results = [];
 
@@ -70,21 +72,33 @@ async function run() {
   pass('tiles list');
   const tile = await fetch(`${API_URL}/api/tiles/district_boundary/9/365/214.pbf?v=mvt-v5`);
   assert.equal(tile.status, 200, 'tile status');
+  assert.match(
+    tile.headers.get('content-type') || '',
+    /application\/(vnd\.mapbox-vector-tile|x-protobuf|octet-stream)/i,
+    'tile content type'
+  );
   const tileBuf = Buffer.from(await tile.arrayBuffer());
   assert.ok(tileBuf.length > 0, 'tile has bytes');
   results.push({ method: 'GET', path: '/api/tiles/district_boundary/…', status: 200, ms: 0, ok: true });
   pass(`tile district_boundary (${tileBuf.length}b)`);
 
-  // ── Auth (silent login used by every protected button) ─────────────
+  // ── Auth ────────────────────────────────────────────────────────────
   console.log('\nAuth');
-  const login = await req('POST', '/api/auth/login', {
-    body: { email: 'analyst@locatium.in', password: 'sas@123456789' },
-  });
+  const login = TEST_USER_EMAIL && TEST_USER_PASSWORD
+    ? await req('POST', '/api/auth/login', {
+        body: { email: TEST_USER_EMAIL, password: TEST_USER_PASSWORD },
+      })
+    : await req('POST', '/api/auth/demo');
   assert.ok(login.json.accessToken, 'accessToken');
   const auth = { Authorization: `Bearer ${login.json.accessToken}` };
   pass('login');
   await req('GET', '/api/auth/profile', { headers: auth });
   pass('profile');
+  await req('PUT', '/api/auth/profile', {
+    headers: auth,
+    body: { displayName: 'Demo investor' },
+  });
+  pass('update profile');
 
   // ── Search / geocode (GlobalSearch, CommandPalette) ────────────────
   console.log('\nSearch & geocode');
@@ -143,6 +157,18 @@ async function run() {
   assert.ok(typeof score.json.overallScore === 'number', 'overallScore');
   pass(`score-location (${score.json.overallScore})`);
 
+  const forecast = await req('GET', '/api/analysis/forecast?lat=28.45&lng=76.9&sector=industrial');
+  assert.ok(forecast.json.horizon === 'current_band', 'forecast horizon');
+  pass(`land forecast (${forecast.json.method})`);
+
+  const gap = await req('GET', '/api/analysis/facility-gap?limit=50');
+  assert.equal(gap.json.type, 'FeatureCollection');
+  pass(`facility-gap (${gap.json.features?.length || 0} zones)`);
+
+  const transparency = await req('GET', '/api/public/transparency');
+  assert.ok(transparency.json.scoringVersion, 'transparency scoringVersion');
+  pass('public transparency');
+
   // ── Investor (opportunities, zone analysis, compare, report) ───────
   console.log('\nInvestor');
   const opp = await req('GET', '/api/investor/opportunities?sector=industrial&limit=5');
@@ -152,6 +178,9 @@ async function run() {
 
   await req('GET', `/api/investor/zone-analysis/${encodeURIComponent(zoneId)}?sector=industrial`);
   pass('zone-analysis');
+
+  await req('GET', `/api/public/zones/${encodeURIComponent(zoneId)}/card`);
+  pass('public zone card');
 
   const ids = opp.json.opportunities
     .slice(0, 2)
@@ -163,7 +192,7 @@ async function run() {
   // generate-report — frontend uses POST and expects a PDF blob
   const reportRes = await fetch(
     `${API_URL}/api/investor/generate-report?zoneId=${encodeURIComponent(zoneId)}&sector=industrial`,
-    { method: 'POST' }
+    { method: 'POST', headers: auth }
   );
   assert.equal(reportRes.status, 200, `generate-report status ${reportRes.status}`);
   const reportBuf = Buffer.from(await reportRes.arrayBuffer());
@@ -177,13 +206,13 @@ async function run() {
   });
   pass(`generate-report PDF (${reportBuf.length}b)`);
 
-  const reports = await req('GET', '/api/investor/reports?limit=5');
+  const reports = await req('GET', '/api/investor/reports?limit=5', { headers: auth });
   assert.ok(Array.isArray(reports.json.reports), 'reports list');
   pass(`reports list (${reports.json.reports.length})`);
 
   if (reports.json.reports[0]?.id) {
     const rid = reports.json.reports[0].id;
-    const dl = await fetch(`${API_URL}/api/investor/reports/${encodeURIComponent(rid)}/download`);
+    const dl = await fetch(`${API_URL}/api/investor/reports/${encodeURIComponent(rid)}/download`, { headers: auth });
     assert.equal(dl.status, 200, 'download status');
     const buf = Buffer.from(await dl.arrayBuffer());
     assert.ok(buf.length > 100, 'pdf bytes');
@@ -221,6 +250,7 @@ async function run() {
   // ── Portal (Projects panel + toolbar share) ────────────────────────
   console.log('\nPortal (projects / share / history)');
   const share = await req('POST', '/api/portal/share', {
+    headers: auth,
     body: {
       centerLng: 76.9,
       centerLat: 28.45,
@@ -282,19 +312,24 @@ async function run() {
   pass('list history');
   await req('GET', '/api/portal/stats', { headers: auth });
   pass('workspace stats');
+  await req('GET', '/api/portal/notifications', { headers: auth });
+  pass('notifications');
+  await req('GET', '/api/assistant/memory', { headers: auth });
+  pass('assistant memory');
   await req('DELETE', '/api/portal/history', { headers: auth });
   pass('clear history');
 
-  // ── Admin panel refresh buttons ────────────────────────────────────
-  console.log('\nAdmin');
-  await req('GET', '/api/admin/layer-status', { headers: auth });
-  pass('layer-status');
-  await req('GET', '/api/admin/user-statistics', { headers: auth });
-  pass('user-statistics');
-  await req('GET', '/api/admin/data-analytics', { headers: auth });
-  pass('data-analytics');
-  await req('GET', '/api/admin/audit-logs?limit=10', { headers: auth });
-  pass('audit-logs');
+  // ── Admin role boundary (showcase identity must never be admin) ────
+  console.log('\nAdmin security');
+  for (const path of [
+    '/api/admin/layer-status',
+    '/api/admin/user-statistics',
+    '/api/admin/data-analytics',
+    '/api/admin/audit-logs?limit=10',
+  ]) {
+    await req('GET', path, { headers: auth, expectStatus: 403 });
+  }
+  pass('investor identity blocked from all admin endpoints');
 
   // Summary
   const failed = results.filter((r) => !r.ok);

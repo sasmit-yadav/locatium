@@ -12,9 +12,13 @@ export function getMapsApiOrigin() {
   }
   const raw = import.meta.env.VITE_API_URL;
   if (typeof raw === 'string' && raw.trim()) {
-    return raw.replace(/\/+$/, '');
+    const origin = raw.replace(/\/+$/, '');
+    if (!/^https:\/\//i.test(origin)) {
+      throw new Error('VITE_API_URL must use HTTPS in production');
+    }
+    return origin;
   }
-  return 'http://localhost:3001';
+  throw new Error('VITE_API_URL is required for a production build');
 }
 
 /** Bump when backend tile projection/rendering changes, so browser tile cache is bypassed. */

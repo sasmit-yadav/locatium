@@ -36,7 +36,7 @@ const INTENT_PATTERNS = {
   score: [
     'score', 'suitab', 'analys', 'rate this', 'this site', 'this spot', 'this location',
     'this point', 'yaha', 'yahan', 'yahaa', 'idhar', 'ye jagah', 'ye place', 'kaisi hai',
-    'kaisa hai', 'good place', 'worth', 'evaluate', 'assess', 'diligence', 'feasib',
+    'kaisa hai', 'good place', 'worth', 'evaluate', 'assess', 'feasib',
     'how good', 'is it good', 'check here', 'pin', 'clicked', 'selected',
   ],
   opportunities: [
@@ -64,6 +64,7 @@ const INTENT_PATTERNS = {
     'nearby', 'near me', 'around', 'close to', 'facility', 'hospital', 'school', 'metro',
     'airport', 'highway', 'road', 'rail', 'bus', 'distance', 'kitni door', 'paas',
     'nearest', 'proximity', 'access', 'connectivity', 'infra around',
+    'amenity', 'underserved', 'facility gap', 'missing hospital', 'missing school',
   ],
   how_it_works: [
     'how score', 'how calculation', 'formula', 'methodology', 'explain score',
@@ -72,6 +73,26 @@ const INTENT_PATTERNS = {
   navigate: [
     'show on map', 'fly', 'zoom', 'go to', 'open map', 'highlight', 'take me',
     'map pe', 'dikha map',
+  ],
+  diligence: [
+    'next step', 'what should i do', 'what do i do', 'due diligence', 'diligence',
+    'checklist', 'site visit', 'walk me', 'walkthrough', 'how to proceed',
+    'kaise aage', 'aage kya', 'kya karna', 'paperwork', 'documents needed',
+    'what next', 'and then',
+  ],
+  risk: [
+    'risk', 'risks', 'caution', 'watch out', 'watch-out', 'problem', 'issue', 'flood',
+    'forest', 'constraint', 'danger', 'khtra', 'khatra', 'safe option', 'safer',
+    'kam risk', 'too risky',
+  ],
+  act: [
+    'add to pipeline', 'save this', 'save it', 'bookmark', 'email me', 'email this',
+    'generate report', 'pdf', 'report please', 'do it', 'go ahead', 'confirm',
+    'kar do', 'save kar', 'bhej do', 'add it', 'shortlist it',
+  ],
+  forecast: [
+    'forecast', 'price band', 'price range', 'p10', 'p90', 'estimate range',
+    'land band', 'future price', 'kitna padega', 'all in cost', 'all-in',
   ],
 };
 
@@ -136,11 +157,26 @@ function detectIntents(query = '', session = {}) {
     scores[intent] = scoreIntent(norm, patterns);
   }
 
+  const raw = String(query || '').trim();
+  if (CONFIRM_RE.test(raw) && (session.lastIntent || session.lastProposals?.length || session.lastResults?.length)) {
+    scores.act = (scores.act || 0) + 8;
+  }
+  if (/^(next\??|what next|and then|phir kya|aage kya)$/.test(norm)) {
+    scores.diligence = (scores.diligence || 0) + 10;
+  }
+
   // Session follow-ups: short replies like "same for faridabad" / "and land?"
-  if (norm.length < 40 && session.lastIntent) {
-    if (/\b(same|also|aur|and|phir|fir|now|uske|uska)\b/.test(norm)) {
+  if (norm.length < 48 && session.lastIntent) {
+    if (/\b(same|also|aur|and|phir|fir|now|uske|uska|ok now|what about)\b/.test(norm)) {
       scores[session.lastIntent] = (scores[session.lastIntent] || 0) + 4;
     }
+  }
+
+  if (detectPreference(query) === 'cheaper') {
+    scores.opportunities = (scores.opportunities || 0) + 6;
+  }
+  if (detectPreference(query) === 'safer') {
+    scores.risk = (scores.risk || 0) + 5;
   }
 
   const ranked = Object.entries(scores)
@@ -148,6 +184,9 @@ function detectIntents(query = '', session = {}) {
     .sort((a, b) => b[1] - a[1]);
 
   if (!ranked.length) {
+    if (session.lastIntent && session.lastIntent !== 'help') {
+      return [session.lastIntent];
+    }
     // Default: if map point likely → score; else opportunities explorer
     return session.hasMapPoint ? ['score', 'land'] : ['opportunities', 'help'];
   }
@@ -161,6 +200,14 @@ function detectIntents(query = '', session = {}) {
   if (primary === 'score' && scores.nearby > 0) intents.push('nearby');
   if (primary === 'land' && scores.score > 0) intents.push('score');
   if (primary === 'nearby') intents.push('score');
+  if (primary === 'diligence' && scores.score > 0) intents.push('score');
+  if (primary === 'risk' && (scores.score > 0 || scores.opportunities > 0)) {
+    intents.push(scores.opportunities >= scores.score ? 'opportunities' : 'score');
+  }
+  if (primary === 'forecast') intents.push('land');
+  if (primary === 'act' && session.lastIntent && session.lastIntent !== 'act') {
+    intents.push(session.lastIntent);
+  }
   if ((primary === 'opportunities' || primary === 'score') && scores.policy > 0) intents.push('policy');
   if (ranked[1] && ranked[1][1] >= 2 && !intents.includes(ranked[1][0])) {
     intents.push(ranked[1][0]);
@@ -240,15 +287,38 @@ function parseBudgetInr(query = '', session = {}) {
 
 function parseRisk(query = '') {
   const q = normalizeText(query);
-  if (/\b(low risk|safe|conservative)\b/.test(q)) return 'low';
-  if (/\b(high risk|aggressive)\b/.test(q)) return 'high';
+  if (/\b(low risk|safer|safe option|conservative|kam risk)\b/.test(q)) return 'low';
+  if (/\b(high risk|aggressive|too risky)\b/.test(q)) return 'high';
   if (/\b(medium risk)\b/.test(q)) return 'medium';
   return null;
 }
 
-function needsClarification({ intents, district, budgetInr, hasPoint, query }) {
+function detectPreference(query = '') {
+  const q = normalizeText(query);
+  if (/\b(cheaper|sasta|lower budget|kam daam|too expensive|mehnga|mahanga|can t afford|cant afford)\b/.test(q)) {
+    return 'cheaper';
+  }
+  if (/\b(closer|paas|nearer|nearby only)\b/.test(q)) return 'closer';
+  if (/\b(safer|kam risk|low risk)\b/.test(q)) return 'safer';
+  return null;
+}
+
+const CONFIRM_RE =
+  /^(yes|yep|yeah|ok|okay|do it|go ahead|please do|add it|save it|email it|haan|ha|kar do|theek hai|ok kar do)(?:\s+(?:add it|save it|email it|do it|please|kar do))?[.!?]*$/i;
+
+function hasExplicitBudget(query = '') {
+  return /(?:cr|crore|karod|lakh|lac|under|below|budget|₹|rs\s*\d)/i.test(String(query || ''));
+}
+
+function needsClarification({ intents, district, budgetInr, hasPoint, query, session }) {
   const primary = intents[0];
   const q = normalizeText(query);
+  if (['help', 'how_it_works', 'act', 'diligence'].includes(primary)) {
+    return { needed: false };
+  }
+  if (session?.lastResults?.length && q.split(/\s+/).length <= 6) {
+    return { needed: false };
+  }
   if (primary === 'opportunities' && !district && !hasPoint && !budgetInr) {
     // Vague shortlist with no anchor — ask once instead of dumping statewide noise
     if (q.split(/\s+/).length <= 5) {
@@ -264,7 +334,7 @@ function needsClarification({ intents, district, budgetInr, hasPoint, query }) {
       };
     }
   }
-  if ((primary === 'score' || primary === 'land' || primary === 'nearby') && !hasPoint && !district) {
+  if ((primary === 'score' || primary === 'land' || primary === 'nearby' || primary === 'forecast') && !hasPoint && !district) {
     return {
       needed: true,
       question:
@@ -281,17 +351,22 @@ function needsClarification({ intents, district, budgetInr, hasPoint, query }) {
 
 function extractEntities(query, session = {}, mapState = {}) {
   const hasPoint = Number.isFinite(Number(mapState.lat)) && Number.isFinite(Number(mapState.lng));
-  const intents = detectIntents(query, { ...session, hasMapPoint: hasPoint });
   const sector = detectSector(query, session);
   const district = detectDistrict(query, session);
-  const budgetInr = parseBudgetInr(query, session);
-  const risk = parseRisk(query);
+  const intents = detectIntents(query, { ...session, hasMapPoint: hasPoint });
+  const risk = parseRisk(query) || session.risk || null;
+  const preference = detectPreference(query);
+  let budgetInr = parseBudgetInr(query, session);
+  if (preference === 'cheaper' && !hasExplicitBudget(query) && session.budgetInr) {
+    budgetInr = Math.round(Number(session.budgetInr) * 0.6);
+  }
   const clarification = needsClarification({
     intents,
     district,
     budgetInr,
     hasPoint,
     query,
+    session,
   });
 
   return {
@@ -303,6 +378,8 @@ function extractEntities(query, session = {}, mapState = {}) {
     district: district || null,
     budgetInr,
     risk,
+    preference,
+    confirmTurn: CONFIRM_RE.test(String(query || '').trim()),
     hasPoint,
     clarification,
   };
@@ -314,6 +391,8 @@ module.exports = {
   detectSector,
   detectDistrict,
   parseBudgetInr,
+  detectPreference,
   normalizeText,
   DISTRICT_ALIASES,
+  CONFIRM_RE,
 };

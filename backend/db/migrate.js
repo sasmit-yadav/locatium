@@ -32,49 +32,51 @@ async function migrate() {
     : '';
 
   const pool = new Pool({ connectionString: url });
+  const strictSpatial =
+    process.env.NODE_ENV === 'production' ||
+    process.env.REQUIRE_SPATIAL_DATA === 'true' ||
+    process.env.ALLOW_PARTIAL_SPATIAL_MIGRATION === 'false';
   try {
+    await pool.query('BEGIN');
     await pool.query(sql);
     console.log('Migration applied:', sqlPath);
 
-    if (zoneFeaturesSql) {
-      try {
-        await pool.query(zoneFeaturesSql);
-        console.log('Migration applied:', zoneFeaturesPath);
-      } catch (zoneErr) {
-        console.warn('zone_features migration skipped or partial:', zoneErr.message);
-        console.warn('Ensure PostGIS layer tables exist, then re-run db:migrate');
-      }
-    }
-
     if (scoringExtensionsSql) {
       try {
+        await pool.query('SAVEPOINT scoring_extensions');
         await pool.query(scoringExtensionsSql);
+        await pool.query('RELEASE SAVEPOINT scoring_extensions');
         console.log('Migration applied:', scoringExtensionsPath);
       } catch (extErr) {
+        await pool.query('ROLLBACK TO SAVEPOINT scoring_extensions');
+        if (strictSpatial) throw extErr;
         console.warn('scoring_extensions migration skipped or partial:', extErr.message);
       }
     }
 
     if (investorExtensionsSql) {
-      try {
-        await pool.query(investorExtensionsSql);
-        console.log('Migration applied:', investorExtensionsPath);
-      } catch (invErr) {
-        console.warn('investor_extensions migration skipped or partial:', invErr.message);
-      }
+      await pool.query(investorExtensionsSql);
+      console.log('Migration applied:', investorExtensionsPath);
     }
 
-    // Seed default user if users table is empty
-    const { rows } = await pool.query('SELECT COUNT(*)::int AS count FROM users');
-    if (rows[0].count === 0) {
-      const bcrypt = require('bcryptjs');
-      const passwordHash = await bcrypt.hash('sas@123456789', 10);
-      await pool.query(
-        'INSERT INTO users (email, password_hash, role) VALUES ($1, $2, $3)',
-        ['analyst@locatium.in', passwordHash, 'admin']
-      );
-      console.log('Seeded default analyst user: analyst@locatium.in / sas@123456789');
+    // Feature-store SQL depends on both extension tables above and imported GIS layers.
+    if (zoneFeaturesSql) {
+      try {
+        await pool.query('SAVEPOINT zone_features');
+        await pool.query(zoneFeaturesSql);
+        await pool.query('RELEASE SAVEPOINT zone_features');
+        console.log('Migration applied:', zoneFeaturesPath);
+      } catch (zoneErr) {
+        await pool.query('ROLLBACK TO SAVEPOINT zone_features');
+        if (strictSpatial) throw zoneErr;
+        console.warn('zone_features migration skipped or partial:', zoneErr.message);
+        console.warn('Restore the GIS tables, then re-run db:migrate');
+      }
     }
+    await pool.query('COMMIT');
+  } catch (err) {
+    await pool.query('ROLLBACK').catch(() => {});
+    throw err;
   } finally {
     await pool.end();
   }

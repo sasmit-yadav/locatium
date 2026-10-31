@@ -25,6 +25,17 @@ async function login(req, res) {
   res.json(result);
 }
 
+async function demo(req, res) {
+  const result = await authService.loginDemo();
+  await auditService.writeAuditFromRequest(req, {
+    userId: result.user.id,
+    action: 'auth.demo',
+    resourceType: 'user',
+    resourceId: result.user.id,
+  });
+  res.json(result);
+}
+
 async function refresh(req, res) {
   const result = await authService.refresh(req.body || {});
   res.json(result);
@@ -40,10 +51,25 @@ async function profile(req, res) {
   res.json(profileData);
 }
 
+async function updateProfile(req, res) {
+  const profileData = await authService.updateProfile(req.user.id, {
+    displayName: req.body?.displayName ?? req.body?.display_name,
+  });
+  await auditService.writeAuditFromRequest(req, {
+    userId: req.user.id,
+    action: 'auth.profile_update',
+    resourceType: 'user',
+    resourceId: req.user.id,
+  });
+  res.json(profileData);
+}
+
 module.exports = {
   register,
   login,
+  demo,
   refresh,
   logout,
   profile,
+  updateProfile,
 };

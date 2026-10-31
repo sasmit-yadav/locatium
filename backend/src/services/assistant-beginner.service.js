@@ -127,6 +127,55 @@ const GLOSSARY = {
     why: 'Buying against the master plan is how people get stuck with land they cannot develop.',
     aliases: ['development plan', 'controlled area'],
   },
+  jamabandi: {
+    term: 'Jamabandi',
+    en: 'The village land-record extract that shows who is recorded as owner or cultivator of a parcel.',
+    hi: 'गाँव का भू-अभिलेख जो बताता है कि ज़मीन किसके नाम दर्ज है।',
+    why: 'It is the starting point for title checks. LOCATIUM does not scrape jamabandi — get a certified copy from revenue records.',
+    aliases: ['jamabandi copy', 'record of rights'],
+  },
+  mutation: {
+    term: 'Mutation (intkal)',
+    en: 'The update of revenue records after a sale, inheritance or gift so the new owner’s name appears.',
+    hi: 'बिक्री या विरासत के बाद राजस्व रिकॉर्ड में नए मालिक का नाम चढ़ाना।',
+    why: 'A registered deed without mutation still leaves the old name on village records — banks and buyers notice.',
+    aliases: ['intkal', 'intkaal', 'dakhil kharij'],
+  },
+  'power of attorney': {
+    term: 'Power of attorney sale',
+    en: 'Someone is authorised to sign on the owner’s behalf. A common way land is transacted, and a common source of disputes.',
+    hi: 'मालिक की ओर से किसी और को हस्ताक्षर का अधिकार — ज़मीन सौदों में आम, विवादों में भी आम।',
+    why: 'Treat POA deals as higher legal risk until a lawyer traces the chain to a registered conveyance.',
+    aliases: ['poa', 'gpa', 'attorney sale'],
+  },
+  'agricultural ceiling': {
+    term: 'Agricultural land ceiling',
+    en: 'A legal cap on how much farmland one person or family may hold in the state.',
+    hi: 'कानून द्वारा एक व्यक्ति या परिवार के पास कितनी कृषि भूमि हो सकती है, इसकी सीमा।',
+    why: 'Buying above the ceiling, or buying farmland you cannot legally hold, can unwind the deal.',
+    aliases: ['land ceiling', 'ceiling act'],
+  },
+  far: {
+    term: 'FAR — Floor Area Ratio',
+    en: 'How much floor space you may build compared with the plot area. A higher FAR means more buildable area on the same land.',
+    hi: 'प्लॉट के क्षेत्र की तुलना में कितना फर्श क्षेत्र बनाया जा सकता है।',
+    why: 'It caps what you can construct, so it changes the economics of a plot even when the land rate looks cheap.',
+    aliases: ['floor area ratio', 'fsi'],
+  },
+  conveyance: {
+    term: 'Conveyance deed',
+    en: 'The registered document that actually transfers ownership of the land.',
+    hi: 'रजिस्टर्ड दस्तावेज़ जो ज़मीन का मालिकाना हक वास्तव में स्थानांतरित करता है।',
+    why: 'An allotment letter or agreement to sell is not the same as conveyance — title is incomplete until this is registered.',
+    aliases: ['sale deed', 'conveyance deed'],
+  },
+  'plot allotment': {
+    term: 'Plot allotment',
+    en: 'HSIIDC or HSVP offering a specific plot, usually by application or auction, subject to their terms.',
+    hi: 'HSIIDC या HSVP द्वारा आवेदन या नीलामी से प्लॉट देना, उनकी शर्तों के साथ।',
+    why: 'Allotted plots come with estate bylaws and timelines. Missing a condition can cost the allotment.',
+    aliases: ['allotment letter', 'hsiidc allotment'],
+  },
 };
 
 /** Suggested opening prompts for a first-time visitor, per language. */

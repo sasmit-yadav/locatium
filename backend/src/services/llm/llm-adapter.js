@@ -23,14 +23,21 @@ function getConfig() {
     provider: process.env.LLM_PROVIDER || 'groq',
     apiKey,
     baseUrl: (process.env.LLM_BASE_URL || 'https://api.groq.com/openai/v1').replace(/\/$/, ''),
-    model: process.env.LLM_MODEL || 'llama-3.3-70b-versatile',
+    model: process.env.LLM_MODEL || 'openai/gpt-oss-120b',
     // Small/fast model for cheap sub-second jobs (query rewriting, classification).
-    fastModel: process.env.LLM_FAST_MODEL || 'llama-3.1-8b-instant',
-    // Comma-separated cascade used when the primary model errors out.
-    fallbackModels: String(process.env.LLM_FALLBACK_MODELS || '')
+    fastModel: process.env.LLM_FAST_MODEL || 'openai/gpt-oss-20b',
+    // Comma-separated cascade used when the primary model errors out. A retired model
+    // answers 404 (not retryable), so without a cascade the copilot silently degrades
+    // to rule-based answers the moment a provider drops a model id.
+    fallbackModels: String(
+      process.env.LLM_FALLBACK_MODELS || 'qwen/qwen3.8-27b,openai/gpt-oss-20b'
+    )
       .split(',')
       .map((m) => m.trim())
       .filter(Boolean),
+    // Reasoning models bill their private reasoning against max_tokens; at assistant-sized
+    // budgets that can consume the whole allowance and return empty content.
+    reasoningEffort: process.env.LLM_REASONING_EFFORT || 'low',
     // on_demand = consistent low latency; flex = 10x rate limits, may reject under load.
     serviceTier: process.env.LLM_SERVICE_TIER || '',
     maxAttempts: Number(process.env.LLM_MAX_ATTEMPTS) || 2,
@@ -91,6 +98,7 @@ function buildBody({ model, chatMessages, maxTokens, temperature, stream, stop, 
   }
   if (jsonMode) body.response_format = { type: 'json_object' };
   if (config.serviceTier) body.service_tier = config.serviceTier;
+  if (config.reasoningEffort) body.reasoning_effort = config.reasoningEffort;
   return body;
 }
 
@@ -214,6 +222,14 @@ async function complete({
         try {
           const data = await response.json();
           const text = data.choices?.[0]?.message?.content?.trim() || '';
+          if (!text) {
+            // 200 with no content (e.g. a reasoning model that spent the whole budget
+            // thinking). Treat it as a model failure so the cascade gets its turn.
+            const empty = new Error(`LLM returned an empty completion (${model})`);
+            empty.code = 'LLM_EMPTY_COMPLETION';
+            empty.retryable = false;
+            throw empty;
+          }
           const elapsedMs = Date.now() - started;
           return {
             text,

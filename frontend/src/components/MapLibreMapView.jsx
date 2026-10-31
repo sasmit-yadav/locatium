@@ -19,6 +19,8 @@ const INVESTOR_ZONE_FILL = 'investor-zone-fill';
 const INVESTOR_ZONE_LINE = 'investor-zone-outline';
 const INVESTOR_ZONE_MARKER = 'investor-zone-marker';
 const INVESTOR_ZONE_LABEL = 'investor-zone-label';
+const GAP_SOURCE = 'facility-gap-overlay';
+const GAP_LAYER = 'facility-gap-circles';
 
 const SCORE_COLOR_EXPR = [
   'interpolate',
@@ -71,11 +73,13 @@ export function MapLibreMapView({
   visibility,
   onIdentifyContext,
   onViewChange,
+  onCursorChange,
   onTileStatusChange,
   goToRequest,
   onMapReady,
   highlightFeature = null,
   investorHighlights = null,
+  analysisOverlay = null,
 }) {
   const containerRef = useRef(null);
   const mapRef = useRef(null);
@@ -83,6 +87,7 @@ export function MapLibreMapView({
   const visibilityRef = useRef(visibility);
   const onIdentifyRef = useRef(onIdentifyContext);
   const onViewChangeRef = useRef(onViewChange);
+  const onCursorChangeRef = useRef(onCursorChange);
   const onTileStatusRef = useRef(onTileStatusChange);
   const onMapReadyRef = useRef(onMapReady);
   const basemapIdRef = useRef(basemapId);
@@ -105,6 +110,10 @@ export function MapLibreMapView({
   }, [onViewChange]);
 
   useEffect(() => {
+    onCursorChangeRef.current = onCursorChange;
+  }, [onCursorChange]);
+
+  useEffect(() => {
     onTileStatusRef.current = onTileStatusChange;
   }, [onTileStatusChange]);
 
@@ -123,20 +132,17 @@ export function MapLibreMapView({
     refreshClusterSources(map, visibilityRef.current, zoomRef.current);
   }, []);
 
-  const debouncedSyncRef = useRef(null);
-  const debouncedClusterRefreshRef = useRef(null);
-
-  debouncedSyncRef.current = (map) => {
+  const debouncedSync = useCallback((map) => {
     if (syncTimerRef.current) clearTimeout(syncTimerRef.current);
     syncTimerRef.current = setTimeout(() => runSync(map), 80);
-  };
+  }, [runSync]);
 
-  debouncedClusterRefreshRef.current = (map) => {
+  const debouncedClusterRefresh = useCallback((map) => {
     if (clusterTimerRef.current) clearTimeout(clusterTimerRef.current);
     clusterTimerRef.current = setTimeout(() => {
       refreshClusterSources(map, visibilityRef.current, zoomRef.current);
     }, 200);
-  };
+  }, []);
 
   const onStyleReady = useCallback(
     (map) => {
@@ -228,14 +234,14 @@ export function MapLibreMapView({
 
     map.on('moveend', () => {
       emitViewChange();
-      debouncedSyncRef.current?.(map);
-      debouncedClusterRefreshRef.current?.(map);
+      debouncedSync(map);
+      debouncedClusterRefresh(map);
     });
 
     map.on('zoomend', () => {
       emitViewChange();
       runSync(map);
-      debouncedClusterRefreshRef.current?.(map);
+      debouncedClusterRefresh(map);
     });
 
     map.on('click', (e) => {
@@ -269,6 +275,10 @@ export function MapLibreMapView({
         dpi: 96,
         visibleLayerIds,
       });
+    });
+
+    map.on('mousemove', (e) => {
+      onCursorChangeRef.current?.({ lng: e.lngLat.lng, lat: e.lngLat.lat });
     });
 
     const resizeObserver = new ResizeObserver(() => {
@@ -498,7 +508,58 @@ export function MapLibreMapView({
     return undefined;
   }, [investorHighlights, basemapId]);
 
+  useEffect(() => {
+    const map = mapRef.current;
+    if (!map || map._removed || !styleReadyRef.current) return undefined;
+
+    const clearGap = () => {
+      if (map.getLayer(GAP_LAYER)) map.removeLayer(GAP_LAYER);
+      if (map.getSource(GAP_SOURCE)) map.removeSource(GAP_SOURCE);
+    };
+
+    const features = analysisOverlay?.features || [];
+    if (!features.length) {
+      clearGap();
+      return undefined;
+    }
+
+    const geojson = { type: 'FeatureCollection', features };
+    if (!map.getSource(GAP_SOURCE)) {
+      map.addSource(GAP_SOURCE, { type: 'geojson', data: geojson });
+    } else {
+      map.getSource(GAP_SOURCE).setData(geojson);
+    }
+
+    if (!map.getLayer(GAP_LAYER)) {
+      map.addLayer({
+        id: GAP_LAYER,
+        type: 'circle',
+        source: GAP_SOURCE,
+        paint: {
+          'circle-radius': ['interpolate', ['linear'], ['get', 'gapScore'], 0, 4, 100, 11],
+          'circle-color': [
+            'interpolate',
+            ['linear'],
+            ['get', 'gapScore'],
+            0,
+            colors.semantic.success,
+            45,
+            colors.semantic.warning,
+            80,
+            colors.semantic.danger,
+          ],
+          'circle-opacity': 0.78,
+          'circle-stroke-width': 1,
+          'circle-stroke-color': '#ffffff',
+        },
+      });
+    }
+
+    return undefined;
+  }, [analysisOverlay, basemapId]);
+
   const highlightCount = investorHighlights?.features?.length || 0;
+  const gapCount = analysisOverlay?.features?.length || 0;
 
   return (
     <div className="relative h-full w-full">
@@ -520,6 +581,14 @@ export function MapLibreMapView({
           <div className="mt-1 text-[10px] font-semibold text-ds-text-secondary">
             Showing {highlightCount} top zone{highlightCount === 1 ? '' : 's'}
           </div>
+        </div>
+      ) : null}
+      {gapCount > 0 ? (
+        <div className="pointer-events-none absolute bottom-14 right-3 z-[1050] max-w-[230px] rounded-lg border border-ds-border bg-ds-surface-raised/95 p-3 shadow-ds-sm backdrop-blur-sm">
+          <div className="text-[10px] font-bold uppercase tracking-[0.14em] text-ds-accent">Facility gap overlay</div>
+          <p className="mt-1 text-[11px] leading-4 text-ds-text-secondary">
+            Colour = inverse hospital + school density within 5 km of HSIIDC estates. Red is more underserved.
+          </p>
         </div>
       ) : null}
       {import.meta.env.DEV && debugInfo ? (

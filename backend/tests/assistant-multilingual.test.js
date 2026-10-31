@@ -175,3 +175,55 @@ test('beginner mode offers orientation, normal mode does not', () => {
   assert.ok(withTour.actions.some((a) => a.type === 'startTour'));
   assert.ok(!without.actions.some((a) => a.type === 'startTour'));
 });
+
+test('nearby and land-band intents propose overlay chips', () => {
+  const nearby = actions.proposeActions(
+    {
+      primaryIntent: 'nearby',
+      district: 'Gurugram',
+      facilityGap: { summary: { zones: 12, severe: 2, gap: 4, served: 6 } },
+      opportunities: [
+        { id: 'z1', name: 'IMT Manesar', district: 'Gurugram', center: { lat: 28.3, lng: 76.9 } },
+        { id: 'z2', name: 'Sohna Estate', district: 'Gurugram', center: { lat: 28.2, lng: 77.0 } },
+      ],
+      scoredLocation: { overallScore: 70 },
+      mapHighlights: [],
+    },
+    { authenticated: true }
+  );
+  assert.ok(nearby.actions.some((a) => a.type === 'overlayFacilityGap'));
+  assert.ok(nearby.actions.some((a) => a.type === 'openFacilities'));
+
+  const land = actions.proposeActions(
+    {
+      primaryIntent: 'forecast',
+      mapPoint: { lat: 28.4, lng: 76.9 },
+      forecast: { p50: 12000 },
+      opportunities: [],
+      mapHighlights: [],
+    },
+    { authenticated: false }
+  );
+  assert.ok(land.actions.some((a) => a.type === 'showLandBand'));
+});
+
+test('pending act is the first mutating proposal', () => {
+  const { proposals } = actions.proposeActions(
+    {
+      primaryIntent: 'act',
+      pendingAct: { type: 'emailReport', params: { zoneId: 'z1' } },
+      opportunities: [
+        { id: 'z1', name: 'IMT Manesar', district: 'Gurugram', center: { lat: 28.3, lng: 76.9 } },
+      ],
+      mapHighlights: [],
+    },
+    { authenticated: true }
+  );
+  assert.equal(proposals[0].type, 'emailReport');
+});
+
+test('glossary covers revenue-law terms a first-timer hits', () => {
+  assert.ok(beginner.detectTerms('what is jamabandi').some((t) => /Jamabandi/.test(t.term)));
+  assert.ok(beginner.detectTerms('mutation / intkal').some((t) => /Mutation/.test(t.term)));
+  assert.ok(beginner.detectTerms('FAR for this plot').some((t) => /FAR/.test(t.term)));
+});

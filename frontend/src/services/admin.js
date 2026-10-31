@@ -30,3 +30,9 @@ export async function getAdminAuditLogs({ limit = 50 } = {}) {
   const res = await authFetch(`${getMapsApiOrigin()}/api/admin/audit-logs?${params.toString()}`);
   return parseJsonResponse(res, 'Failed to load audit logs');
 }
+
+/** Week 16 model monitoring: ML uptime, scoring fallback rate, LLM health, data freshness. */
+export async function getAdminModelHealth() {
+  const res = await authFetch(`${getMapsApiOrigin()}/api/admin/model-health`);
+  return parseJsonResponse(res, 'Failed to load model health');
+}

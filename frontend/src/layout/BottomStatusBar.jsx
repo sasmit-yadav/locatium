@@ -14,7 +14,7 @@ export function BottomStatusBar() {
   const tileLabel = tileStatus.loading
     ? 'Fetching tiles…'
     : tileStatus.error
-      ? "Couldn't load tiles — retry"
+      ? "Tile load issue"
       : 'Tiles ready';
 
   return (

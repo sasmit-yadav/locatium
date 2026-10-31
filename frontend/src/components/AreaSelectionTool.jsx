@@ -1,6 +1,7 @@
 import { useState, useCallback, useEffect } from 'react';
 import { IconClose, IconSearch, IconMapPin, IconCircle, IconLayers } from './UiIcons';
 import { colors } from '../design-system/tokens';
+import { getMapsApiOrigin } from '../config/api';
 
 const [c0, c2, c3] = [colors.dataCategorical[0], colors.dataCategorical[2], colors.dataCategorical[3]];
 
@@ -54,7 +55,7 @@ export function AreaSelectionTool({
     try {
       const layersParam = selectedLayers.join(',');
       const response = await fetch(
-        `/api/harsac/multi-nearby?lat=${lat}&lng=${lng}&radius=${radius}&layers=${layersParam}`
+        `${getMapsApiOrigin()}/api/harsac/multi-nearby?lat=${lat}&lng=${lng}&radius=${radius}&layers=${layersParam}`
       );
 
       if (!response.ok) {

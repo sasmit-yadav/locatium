@@ -8,10 +8,16 @@ const MEMORY = new Map();
 const DEFAULT_TTL_SEC = Number(process.env.INVESTOR_SCORE_CACHE_TTL_SEC) || 3600;
 const MEMORY_TTL_MS = DEFAULT_TTL_SEC * 1000;
 
-const CACHE_VERSION = 'v7';
+const CACHE_VERSION = 'v8';
 
-function key(zoneId, sector) {
-  return `investor:score:${CACHE_VERSION}:${sector}:${zoneId}`;
+/**
+ * `depth` keeps the fast ranking payload and the fully enriched payload in separate
+ * slots. Without it whichever request warmed a zone first decided what every later
+ * caller saw — a list scan could starve the detail view of plots/policy/comparables,
+ * and a detail hit could make a lite list look richer than the lite path can promise.
+ */
+function key(zoneId, sector, depth = 'full') {
+  return `investor:score:${CACHE_VERSION}:${depth}:${sector}:${zoneId}`;
 }
 
 function getMemory(k) {
@@ -28,8 +34,8 @@ function setMemory(k, data) {
   if (MEMORY.size > 5000) MEMORY.delete(MEMORY.keys().next().value);
 }
 
-async function getCachedZoneScore(zoneId, sector) {
-  const k = key(zoneId, sector);
+async function getCachedZoneScore(zoneId, sector, depth = 'full') {
+  const k = key(zoneId, sector, depth);
   const mem = getMemory(k);
   if (mem) return { ...mem, cacheSource: 'memory' };
 
@@ -46,8 +52,8 @@ async function getCachedZoneScore(zoneId, sector) {
   return null;
 }
 
-async function setCachedZoneScore(zoneId, sector, data) {
-  const k = key(zoneId, sector);
+async function setCachedZoneScore(zoneId, sector, data, depth = 'full') {
+  const k = key(zoneId, sector, depth);
   const payload = { ...data, cachedAt: new Date().toISOString() };
   setMemory(k, payload);
   await redis.setString(k, JSON.stringify(payload), DEFAULT_TTL_SEC);

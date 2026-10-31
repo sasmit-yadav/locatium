@@ -12,6 +12,7 @@ const investorRoutes = require('./routes/investor.routes');
 const portalRoutes = require('./routes/portal.routes');
 const adminRoutes = require('./routes/admin.routes');
 const assistantRoutes = require('./routes/assistant.routes');
+const publicRoutes = require('./routes/public.routes');
 const mapsController = require('./controllers/maps.controller');
 const { proxyMapService } = require('./controllers/mapservice-proxy.controller');
 const { mapsRateLimiter } = require('./middleware/maps-rate-limit.middleware');
@@ -31,10 +32,15 @@ function createApp() {
   const app = express();
 
   app.disable('x-powered-by');
+  const trustProxyHops = Number(process.env.TRUST_PROXY_HOPS) || 0;
+  if (trustProxyHops > 0) {
+    app.set('trust proxy', trustProxyHops);
+  }
 
   app.use(requestId);
 
   const allowAllCors = corsOrigins.includes('*');
+  const allowVercelPreviews = process.env.ALLOW_VERCEL_PREVIEWS === 'true';
   app.use(
     cors({
       origin(origin, callback) {
@@ -47,8 +53,8 @@ function createApp() {
           callback(null, true);
           return;
         }
-        // Resume / preview deploys on any *.vercel.app
-        if (/\.vercel\.app$/i.test(origin)) {
+        // Optional preview support. Keep disabled for the production showcase.
+        if (allowVercelPreviews && /^https:\/\/[a-z0-9-]+\.vercel\.app$/i.test(origin)) {
           callback(null, true);
           return;
         }
@@ -76,6 +82,7 @@ function createApp() {
   app.use('/api/portal', portalLimiter, portalRoutes);
   app.use('/api/admin', adminLimiter, adminRoutes);
   app.use('/api/assistant', assistantLimiter, assistantRoutes);
+  app.use('/api/public', mapsRateLimiter, publicRoutes);
 
   /** Optional ArcGIS MapServer REST proxy (legacy / tools). Frontend uses cached `/api/tiles` instead. */
   app.use('/api/mapservice', mapsRateLimiter, asyncHandler(proxyMapService));

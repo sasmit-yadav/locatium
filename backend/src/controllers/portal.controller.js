@@ -149,6 +149,11 @@ async function getSharedPortfolio(req, res) {
   res.json(portfolio);
 }
 
+async function listNotifications(req, res) {
+  const result = await portalService.listNotifications(req.user.id, { limit: req.query.limit });
+  res.json(result);
+}
+
 module.exports = {
   saveSearch,
   listSearches,
@@ -173,4 +178,5 @@ module.exports = {
   subscribeSearchAlert,
   listSearchAlerts,
   deleteSearchAlert,
+  listNotifications,
 };

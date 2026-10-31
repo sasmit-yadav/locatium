@@ -1,3 +1,5 @@
+/* Closing the modal intentionally clears its transient result state. */
+/* eslint-disable react-hooks/set-state-in-effect */
 import { useEffect, useState } from 'react';
 import {
   Hospital,

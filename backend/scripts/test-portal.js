@@ -8,9 +8,14 @@ const assert = require('assert').strict;
 const { Pool } = require('pg');
 
 const API_URL = process.env.API_URL || `http://localhost:${process.env.PORT || 3001}`;
+const TEST_USER_EMAIL = process.env.TEST_USER_EMAIL;
+const TEST_USER_PASSWORD = process.env.TEST_USER_PASSWORD;
 
 async function runTests() {
   console.log('🚀 Starting portal integration tests...');
+  if (!TEST_USER_EMAIL || !TEST_USER_PASSWORD) {
+    throw new Error('TEST_USER_EMAIL and TEST_USER_PASSWORD are required');
+  }
   
   // 1. Check if database is ready and backend is running
   const url = process.env.DATABASE_URL;
@@ -27,12 +32,12 @@ async function runTests() {
     process.exit(1);
   }
 
-  // 2. Perform Login as default analyst
-  console.log('🔑 Authenticating as default analyst...');
+  // 2. Authenticate with an explicitly provisioned test user.
+  console.log('🔑 Authenticating test user...');
   const loginRes = await fetch(`${API_URL}/api/auth/login`, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ email: 'analyst@locatium.in', password: 'sas@123456789' }),
+    body: JSON.stringify({ email: TEST_USER_EMAIL, password: TEST_USER_PASSWORD }),
   });
 
   if (!loginRes.ok) {
@@ -146,7 +151,7 @@ async function runTests() {
   assert.equal(deleteFavRes.status, 200);
   console.log('  - Delete Bookmark: PASS');
 
-  // 6. Test Shared Snapshots (Public endpoints)
+  // 6. Test Shared Snapshots (authenticated creation, public resolution)
   console.log('🔗 Testing Shared Snapshots Sharing...');
   const snapshotPayload = {
     centerLng: 76.75,
@@ -156,10 +161,10 @@ async function runTests() {
     selectedZoneId: sampleZoneId,
   };
 
-  // Create snapshot (Public)
+  // Create snapshot (Authenticated)
   const shareRes = await fetch(`${API_URL}/api/portal/share`, {
     method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
+    headers: { ...authHeader, 'Content-Type': 'application/json' },
     body: JSON.stringify(snapshotPayload),
   });
   assert.equal(shareRes.status, 201, 'Share snapshot should return 201');

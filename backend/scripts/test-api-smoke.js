@@ -8,6 +8,8 @@ require('dotenv').config({ path: require('path').join(__dirname, '..', '.env') }
 const assert = require('assert').strict;
 
 const API_URL = process.env.API_URL || `http://localhost:${process.env.PORT || 3001}`;
+const TEST_USER_EMAIL = process.env.TEST_USER_EMAIL;
+const TEST_USER_PASSWORD = process.env.TEST_USER_PASSWORD;
 
 async function json(path, options = {}) {
   const res = await fetch(`${API_URL}${path}`, options);
@@ -29,11 +31,13 @@ async function run() {
   console.log('✅ GET /api/ready');
 
   // Auth
-  const login = await json('/api/auth/login', {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ email: 'analyst@locatium.in', password: 'sas@123456789' }),
-  });
+  const login = TEST_USER_EMAIL && TEST_USER_PASSWORD
+    ? await json('/api/auth/login', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email: TEST_USER_EMAIL, password: TEST_USER_PASSWORD }),
+      })
+    : await json('/api/auth/demo', { method: 'POST' });
   assert.equal(login.res.status, 200, 'login status');
   assert.ok(login.body.accessToken, 'access token');
   const authHeader = { Authorization: `Bearer ${login.body.accessToken}` };
@@ -53,7 +57,7 @@ async function run() {
   });
   assert.equal(score.res.status, 200);
   assert.ok(score.body.overallScore >= 0, 'overall score');
-  assert.equal(score.body.method, 'heuristic', 'scoring method');
+  assert.ok(['ml', 'heuristic'].includes(score.body.method), 'scoring method');
   assert.ok(score.body.model_version, 'model version');
   console.log(`✅ POST /api/analysis/score-location (overall=${score.body.overallScore}, method=${score.body.method})`);
 
@@ -63,7 +67,7 @@ async function run() {
   assert.ok(opp.body.opportunities?.length > 0, 'opportunities');
   console.log(`✅ GET /api/investor/opportunities (${opp.body.opportunities.length} zones)`);
 
-  const reports = await json('/api/investor/reports?limit=5');
+  const reports = await json('/api/investor/reports?limit=5', { headers: authHeader });
   assert.equal(reports.res.status, 200);
   assert.ok(Array.isArray(reports.body.reports), 'reports array');
   console.log(`✅ GET /api/investor/reports (${reports.body.reports.length} reports)`);
@@ -90,16 +94,25 @@ async function run() {
   assert.ok(email.body.deliveryMode, 'delivery mode');
   console.log(`✅ POST /api/investor/email-report (${email.body.deliveryMode})`);
 
-  // Admin (default analyst is admin)
-  const adminStats = await json('/api/admin/data-analytics', { headers: authHeader });
-  assert.equal(adminStats.res.status, 200);
-  assert.ok(typeof adminStats.body.reportCount === 'number', 'admin analytics');
-  console.log('✅ GET /api/admin/data-analytics');
+  // Admin routes. Only an admin token may read them; a demo/investor token must be refused.
+  const isAdmin = login.body.user?.role === 'admin';
 
+  const adminStats = await json('/api/admin/data-analytics', { headers: authHeader });
   const auditLogs = await json('/api/admin/audit-logs?limit=5', { headers: authHeader });
-  assert.equal(auditLogs.res.status, 200);
-  assert.ok(Array.isArray(auditLogs.body.logs), 'audit logs');
-  console.log(`✅ GET /api/admin/audit-logs (${auditLogs.body.logs.length} entries)`);
+
+  if (isAdmin) {
+    assert.equal(adminStats.res.status, 200, 'admin analytics status');
+    assert.ok(typeof adminStats.body.reportCount === 'number', 'admin analytics');
+    console.log('✅ GET /api/admin/data-analytics');
+
+    assert.equal(auditLogs.res.status, 200, 'audit logs status');
+    assert.ok(Array.isArray(auditLogs.body.logs), 'audit logs');
+    console.log(`✅ GET /api/admin/audit-logs (${auditLogs.body.logs.length} entries)`);
+  } else {
+    assert.equal(adminStats.res.status, 403, 'admin analytics must be forbidden for non-admin');
+    assert.equal(auditLogs.res.status, 403, 'audit logs must be forbidden for non-admin');
+    console.log('✅ Admin routes correctly refused for non-admin token (set TEST_USER_EMAIL/TEST_USER_PASSWORD to an admin to cover them)');
+  }
 
   console.log('\n🎉 ALL API SMOKE TESTS PASSED\n');
 }

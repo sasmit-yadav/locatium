@@ -16,6 +16,7 @@
  * government-facing product; the adapter shape below leaves room for it without touching callers.
  */
 
+const { AppError } = require('../middleware/error.middleware');
 const DEFAULT_MODEL = process.env.SPEECH_MODEL || 'whisper-large-v3-turbo';
 const DEFAULT_TIMEOUT_MS = Number(process.env.SPEECH_TIMEOUT_MS) || 20000;
 const MAX_BYTES = Number(process.env.SPEECH_MAX_BYTES) || 25 * 1024 * 1024; // Groq free-tier ceiling
@@ -68,20 +69,15 @@ async function transcribe({
 }) {
   const config = getConfig();
   if (!config.enabled) {
-    const err = new Error('Speech-to-text is not configured');
+    const err = AppError.serviceUnavailable('Speech-to-text is not configured');
     err.code = 'SPEECH_DISABLED';
-    err.status = 503;
     throw err;
   }
-  if (!buffer || !buffer.length) {
-    const err = new Error('Empty audio payload');
-    err.status = 400;
-    throw err;
-  }
+  if (!buffer || !buffer.length) throw AppError.badRequest('Empty audio payload');
   if (buffer.length > MAX_BYTES) {
-    const err = new Error(`Audio too large (${Math.round(buffer.length / 1024)}KB, max ${Math.round(MAX_BYTES / 1024)}KB)`);
-    err.status = 413;
-    throw err;
+    throw AppError.payloadTooLarge(
+      `Audio too large (${Math.round(buffer.length / 1024)}KB, max ${Math.round(MAX_BYTES / 1024)}KB)`
+    );
   }
 
   const started = Date.now();
@@ -119,8 +115,12 @@ async function transcribe({
       } catch {
         /* ignore */
       }
-      const err = new Error(`Speech HTTP ${response.status}${detail ? ` — ${detail}` : ''}`);
-      err.status = response.status === 429 ? 429 : 502;
+      // The upstream body can carry provider internals, so it is logged, never returned.
+      const err =
+        response.status === 429
+          ? AppError.tooManyRequests('Speech provider rate limit reached; retry shortly')
+          : AppError.badGateway('Speech provider rejected the request');
+      err.upstream = `Speech HTTP ${response.status}${detail ? ` — ${detail}` : ''}`;
       throw err;
     }
 
@@ -134,11 +134,7 @@ async function transcribe({
       elapsedMs: Date.now() - started,
     };
   } catch (err) {
-    if (err.name === 'AbortError') {
-      const e = new Error('Transcription timed out');
-      e.status = 504;
-      throw e;
-    }
+    if (err.name === 'AbortError') throw AppError.gatewayTimeout('Transcription timed out');
     throw err;
   } finally {
     clearTimeout(timer);

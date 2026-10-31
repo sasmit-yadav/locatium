@@ -29,7 +29,11 @@ async function compareZones(req, res) {
 
 async function generateReport(req, res) {
   const zoneId = req.params.zoneId || req.query.zoneId || req.body?.zoneId;
-  const report = await investorReports.generateReport(zoneId, req.query || req.body || {});
+  const report = await investorReports.generateReport(
+    zoneId,
+    req.query || req.body || {},
+    req.user.id
+  );
 
   await auditService.writeAuditFromRequest(req, {
     action: 'investor.report_generated',
@@ -49,12 +53,18 @@ async function generateReport(req, res) {
 }
 
 async function listReports(req, res) {
-  const reports = await investorReports.listReports({ limit: req.query.limit });
+  const reports = await investorReports.listReports({
+    limit: req.query.limit,
+    userId: req.user.id,
+  });
   res.json({ count: reports.length, reports });
 }
 
 async function downloadReport(req, res) {
-  const { report, buffer } = await investorReports.getReportById(req.params.reportId);
+  const { report, buffer } = await investorReports.getReportById(
+    req.params.reportId,
+    req.user.id
+  );
   res.setHeader('Content-Type', 'application/pdf');
   res.setHeader('Content-Disposition', `attachment; filename="${report.filename}"`);
   res.setHeader('Content-Length', buffer.length);
@@ -69,6 +79,7 @@ async function emailReport(req, res) {
     reportId: body.reportId,
     message: body.message,
     query: { ...(req.query || {}), sector: body.sector || req.query?.sector },
+    userId: req.user.id,
   });
 
   await auditService.writeAuditFromRequest(req, {

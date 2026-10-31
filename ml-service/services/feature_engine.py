@@ -45,10 +45,7 @@ async def _count_within(conn: asyncpg.Connection, table: str, lng: float, lat: f
         WHERE geom && ST_Expand(ST_SetSRID(ST_MakePoint($1, $2), 4326), $3)
           AND ST_DWithin(geom, ST_SetSRID(ST_MakePoint($1, $2), 4326), $3)
     """
-    try:
-        return int(await conn.fetchval(sql, lng, lat, radius_deg) or 0)
-    except Exception:
-        return 0
+    return int(await conn.fetchval(sql, lng, lat, radius_deg) or 0)
 
 
 async def _min_distance_km(conn: asyncpg.Connection, table: str, lng: float, lat: float, max_radius_m: float) -> float | None:
@@ -65,36 +62,34 @@ async def _min_distance_km(conn: asyncpg.Connection, table: str, lng: float, lat
         FROM nearest
         WHERE ST_DWithin(geom, ST_SetSRID(ST_MakePoint($1, $2), 4326), $3)
     """
-    try:
-        value = await conn.fetchval(sql, lng, lat, radius_deg)
-        return float(value) if value is not None else None
-    except Exception:
-        return None
+    value = await conn.fetchval(sql, lng, lat, radius_deg)
+    return float(value) if value is not None else None
 
 
 async def _nearest_from_tables(conn: asyncpg.Connection, tables: list[str], lng: float, lat: float, max_radius_m: float) -> float | None:
-    distances = await asyncio.gather(
-        *[_min_distance_km(conn, table, lng, lat, max_radius_m) for table in tables]
-    )
+    distances = [
+        await _min_distance_km(conn, table, lng, lat, max_radius_m)
+        for table in tables
+    ]
     valid = [d for d in distances if d is not None]
     return min(valid) if valid else None
 
 
 async def _count_civic(conn: asyncpg.Connection, lng: float, lat: float, radius_m: float) -> int:
     tables = ["electric_station", "distribution_transformer"]
-    counts = await asyncio.gather(*[_count_within(conn, table, lng, lat, radius_m) for table in tables])
+    counts = [await _count_within(conn, table, lng, lat, radius_m) for table in tables]
     return sum(counts)
 
 
 async def _count_power_assets(conn: asyncpg.Connection, lng: float, lat: float, radius_m: float) -> int:
     tables = ["electric_station", "distribution_transformer", "hv_transformer"]
-    counts = await asyncio.gather(*[_count_within(conn, table, lng, lat, radius_m) for table in tables])
+    counts = [await _count_within(conn, table, lng, lat, radius_m) for table in tables]
     return sum(counts)
 
 
 async def _count_utility_lines(conn: asyncpg.Connection, lng: float, lat: float, radius_m: float) -> int:
     tables = ["water_network", "sewerage_line", "pri_oh_electric_line", "sec_oh_electric_line", "hvpnl_line"]
-    counts = await asyncio.gather(*[_count_within(conn, table, lng, lat, radius_m) for table in tables])
+    counts = [await _count_within(conn, table, lng, lat, radius_m) for table in tables]
     return sum(counts)
 
 
@@ -115,10 +110,7 @@ async def _count_schools(conn: asyncpg.Connection, lng: float, lat: float, radiu
           AND geom && ST_Expand(ST_SetSRID(ST_MakePoint($1, $2), 4326), $3)
           AND ST_DWithin(geom, ST_SetSRID(ST_MakePoint($1, $2), 4326), $3)
     """
-    try:
-        return int(await conn.fetchval(sql, lng, lat, radius_deg) or 0)
-    except Exception:
-        return 0
+    return int(await conn.fetchval(sql, lng, lat, radius_deg) or 0)
 
 
 async def _resolve_district(conn: asyncpg.Connection, lng: float, lat: float) -> str | None:
@@ -129,10 +121,7 @@ async def _resolve_district(conn: asyncpg.Connection, lng: float, lat: float) ->
         AND ST_Contains(geom, ST_SetSRID(ST_MakePoint($1, $2), 4326))
       LIMIT 1
     """
-    try:
-        return await conn.fetchval(sql, lng, lat)
-    except Exception:
-        return None
+    return await conn.fetchval(sql, lng, lat)
 
 
 def _district_aliases(district: str | None) -> list[str]:
@@ -248,50 +237,54 @@ async def extract_land_features(
 
 async def extract_location_features(lat: float, lng: float, sector: str = "industrial") -> dict[str, Any]:
     pool = await get_pool()
-    async with pool.acquire() as conn:
-        (
-            hospitals,
-            schools,
-            civic,
-            iti,
-            highway_km,
-            rail_km,
-            airport_km,
-            urban_km,
-            metro_km,
-            bus_stops,
-            forest_km,
-            flood_km,
-            water_km,
-            industrial_km,
-            licensed_km,
-            water_network,
-            utility_lines,
-            power_assets,
-            roads,
-        ) = await asyncio.gather(
-            _count_within(conn, "hospitals", lng, lat, 5000),
-            _count_schools(conn, lng, lat, 5000),
-            _count_civic(conn, lng, lat, 5000),
-            _count_within(conn, "iti", lng, lat, 5000),
-            _min_distance_km(conn, "roads_line", lng, lat, 20000),
-            _min_distance_km(conn, "rail_network", lng, lat, 30000),
-            _min_distance_km(conn, "airports", lng, lat, 60000),
-            _min_distance_km(conn, "municipal_boundary", lng, lat, 50000),
-            _nearest_metro(conn, lng, lat),
-            _count_within(conn, "bus_stops", lng, lat, 2000),
-            _min_distance_km(conn, "forest_area", lng, lat, 10000),
-            _min_distance_km(conn, "low_lying_area", lng, lat, 10000),
-            _nearest_from_tables(conn, ["haryana_rivers", "ponds", "wetlands"], lng, lat, 5000),
-            _min_distance_km(conn, "hsiidc_boundary", lng, lat, 10000),
-            _min_distance_km(conn, "licensed_colony", lng, lat, 2000),
-            _count_within(conn, "water_network", lng, lat, 2000),
-            _count_utility_lines(conn, lng, lat, 2000),
-            _count_power_assets(conn, lng, lat, 3000),
-            _count_within(conn, "roads_line", lng, lat, 3000),
-        )
-        # Land queries share this connection — run after spatial gather (asyncpg is not concurrent-safe per conn).
-        land = await extract_land_features(conn, lat, lng, sector)
+
+    async def run(fn, *args):
+        async with pool.acquire() as conn:
+            return await fn(conn, *args)
+
+    (
+        hospitals,
+        schools,
+        civic,
+        iti,
+        highway_km,
+        rail_km,
+        airport_km,
+        urban_km,
+        metro_km,
+        bus_stops,
+        forest_km,
+        flood_km,
+        water_km,
+        industrial_km,
+        licensed_km,
+        water_network,
+        utility_lines,
+        power_assets,
+        roads,
+        land,
+    ) = await asyncio.gather(
+        run(_count_within, "hospitals", lng, lat, 5000),
+        run(_count_schools, lng, lat, 5000),
+        run(_count_civic, lng, lat, 5000),
+        run(_count_within, "iti", lng, lat, 5000),
+        run(_min_distance_km, "roads_line", lng, lat, 20000),
+        run(_min_distance_km, "rail_network", lng, lat, 30000),
+        run(_min_distance_km, "airports", lng, lat, 60000),
+        run(_min_distance_km, "municipal_boundary", lng, lat, 50000),
+        run(_nearest_metro, lng, lat),
+        run(_count_within, "bus_stops", lng, lat, 2000),
+        run(_min_distance_km, "forest_area", lng, lat, 10000),
+        run(_min_distance_km, "low_lying_area", lng, lat, 10000),
+        run(_nearest_from_tables, ["haryana_rivers", "ponds", "wetlands"], lng, lat, 5000),
+        run(_min_distance_km, "hsiidc_boundary", lng, lat, 10000),
+        run(_min_distance_km, "licensed_colony", lng, lat, 2000),
+        run(_count_within, "water_network", lng, lat, 2000),
+        run(_count_utility_lines, lng, lat, 2000),
+        run(_count_power_assets, lng, lat, 3000),
+        run(_count_within, "roads_line", lng, lat, 3000),
+        run(extract_land_features, lat, lng, sector),
+    )
 
     return {
         "hospitals_5km": hospitals,

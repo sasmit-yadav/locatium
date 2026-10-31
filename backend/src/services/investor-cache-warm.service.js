@@ -4,9 +4,20 @@
 
 const investorOpportunities = require('./investor-opportunities.service');
 
+/**
+ * The queries a first visitor actually triggers.
+ *
+ * A cold statewide scan enriches ~50 zones and takes ~33s; whoever arrives first pays
+ * all of it. These are the four sector landing queries the Investor tab issues plus the
+ * busiest district, warmed in the background at boot so nobody waits on a cold cache.
+ * Ordered cheapest-first so the common case is covered earliest.
+ */
 const WARM_QUERIES = [
   { sector: 'industrial', district: 'Gurugram', limit: 10 },
   { sector: 'industrial', limit: 10 },
+  { sector: 'commercial', limit: 10 },
+  { sector: 'residential', limit: 10 },
+  { sector: 'agricultural', limit: 10 },
 ];
 
 async function warmInvestorCache(options = {}) {

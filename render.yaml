@@ -1,10 +1,6 @@
-# LOCATIUM — Render Blueprint
-# Frontend stays on Vercel. This file deploys API (+ optional Redis) on Render.
-# Docs: https://render.com/docs/blueprint-spec
-#
-# PostGIS: after the DB is up, run:
-#   CREATE EXTENSION IF NOT EXISTS postgis;
-# then restore your Haryana dump / run migrations.
+# LOCATIUM showcase services.
+# The 3+ GB PostGIS database is external (Neon Launch or another durable provider).
+# Set the same DATABASE_URL secret on both services after creating the Blueprint.
 
 services:
   - type: web
@@ -13,43 +9,81 @@ services:
     plan: free
     region: singapore
     rootDir: backend
-    buildCommand: npm install
+    buildCommand: npm ci
     startCommand: npm start
-    healthCheckPath: /health
+    healthCheckPath: /ready
+    autoDeploy: true
     envVars:
       - key: NODE_ENV
         value: production
+      - key: TRUST_PROXY_HOPS
+        value: "1"
+      - key: PUBLIC_APP_URL
+        value: https://locatium-eta.vercel.app
+      - key: CORS_ORIGINS
+        value: https://locatium-eta.vercel.app
+      - key: ALLOW_VERCEL_PREVIEWS
+        value: "false"
       - key: INVESTOR_CACHE_WARM
+        value: "false"
+      - key: INVESTOR_ALERTS_ENABLED
         value: "false"
       - key: DATABASE_SSL
         value: "true"
+      - key: REQUIRE_SPATIAL_DATA
+        value: "true"
+      - key: ALLOW_PARTIAL_SPATIAL_MIGRATION
+        value: "false"
       - key: PG_STATEMENT_TIMEOUT_MS
         value: "60000"
       - key: PG_QUERY_TIMEOUT_MS
         value: "90000"
+      - key: PG_POOL_MAX
+        value: "8"
       - key: JWT_ACCESS_SECRET
         generateValue: true
       - key: JWT_REFRESH_SECRET
         generateValue: true
-      - key: CORS_ORIGINS
-        sync: false
       - key: DATABASE_URL
-        fromDatabase:
-          name: locatium-db
-          property: connectionString
+        sync: false
       - key: REDIS_URL
         value: ""
+      - key: DEMO_MODE
+        value: "true"
+      - key: DEMO_USER_EMAIL
+        value: demo@locatium.app
+      - key: REPORT_STORAGE
+        value: database
       - key: LLM_ENABLED
         value: "false"
       - key: GROQ_API_KEY
         sync: false
       - key: ML_SERVICE_URL
-        value: ""
+        sync: false
+      - key: ML_SERVICE_TIMEOUT_MS
+        value: "75000"
+      - key: SMTP_HOST
+        sync: false
+      - key: SMTP_PORT
+        value: "587"
+      - key: SMTP_USER
+        sync: false
+      - key: SMTP_PASSWORD
+        sync: false
+      - key: SMTP_FROM
+        sync: false
 
-databases:
-  - name: locatium-db
+  - type: web
+    name: locatium-ml
+    runtime: docker
     plan: free
     region: singapore
-    databaseName: locatium
-    user: locatium
-    postgresMajorVersion: "16"
+    rootDir: ml-service
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /ready
+    autoDeploy: true
+    envVars:
+      - key: LOG_LEVEL
+        value: info
+      - key: DATABASE_URL
+        sync: false

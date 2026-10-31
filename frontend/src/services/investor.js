@@ -82,7 +82,7 @@ export async function downloadInvestorReport({ zoneId, sector = 'industrial', in
   params.set('sector', sector);
   params.set('includeGeometry', includeGeometry ? 'true' : 'false');
 
-  const res = await fetch(`${getMapsApiOrigin()}/api/investor/generate-report?${params.toString()}`, {
+  const res = await authFetch(`${getMapsApiOrigin()}/api/investor/generate-report?${params.toString()}`, {
     method: 'POST',
   });
 
@@ -104,13 +104,13 @@ export async function listInvestorReports({ limit = 20 } = {}) {
   const params = new URLSearchParams();
   params.set('limit', String(limit));
 
-  const res = await fetch(`${getMapsApiOrigin()}/api/investor/reports?${params.toString()}`);
+  const res = await authFetch(`${getMapsApiOrigin()}/api/investor/reports?${params.toString()}`);
   const data = await parseJsonResponse(res, 'Failed to list investor reports');
   return data.reports || [];
 }
 
 export async function downloadInvestorReportById(reportId) {
-  const res = await fetch(`${getMapsApiOrigin()}/api/investor/reports/${encodeURIComponent(reportId)}/download`);
+  const res = await authFetch(`${getMapsApiOrigin()}/api/investor/reports/${encodeURIComponent(reportId)}/download`);
 
   if (!res.ok) {
     const text = await res.text().catch(() => '');

@@ -1,9 +1,10 @@
 import { useQuery } from '@tanstack/react-query';
-import { Activity, Database, Layers3, RefreshCw, ShieldAlert, Users } from 'lucide-react';
+import { Activity, BrainCircuit, Database, Layers3, RefreshCw, ShieldAlert, Users } from 'lucide-react';
 import {
   getAdminAuditLogs,
   getAdminDataAnalytics,
   getAdminLayerStatus,
+  getAdminModelHealth,
   getAdminUserStatistics,
 } from '../services/admin';
 
@@ -27,6 +28,53 @@ function MetricCard({ label, value }) {
     </div>
   );
 }
+
+/**
+ * Health verdicts carry three levels, not two, so a stale-but-working system reads
+ * differently from an outage. StatusPill's ok/not-ok is too blunt for that.
+ */
+const LEVEL_STYLES = {
+  ok: 'bg-ds-success-subtle text-ds-success',
+  warn: 'bg-ds-warning-subtle text-ds-warning',
+  critical: 'bg-ds-danger-subtle text-ds-danger',
+};
+
+function LevelPill({ level, label }) {
+  return (
+    <span
+      className={`inline-flex rounded-full px-2 py-0.5 text-[10px] font-bold uppercase tracking-wider ${
+        LEVEL_STYLES[level] || LEVEL_STYLES.warn
+      }`}
+    >
+      {label || level}
+    </span>
+  );
+}
+
+function HealthRow({ label, value, level }) {
+  return (
+    <div className="flex items-center justify-between gap-2">
+      <span className="text-ds-text-secondary">{label}</span>
+      {level ? <LevelPill level={level} label={value} /> : (
+        <span className="font-semibold text-ds-text-primary">{value}</span>
+      )}
+    </div>
+  );
+}
+
+/** `null` reads as "not measured yet", which is a different thing from zero. */
+function fmt(value, suffix = '') {
+  if (value == null) return '—';
+  return `${value}${suffix}`;
+}
+
+function fallbackLevel(pct) {
+  if (pct == null) return 'ok';
+  if (pct >= 50) return 'critical';
+  return pct >= 10 ? 'warn' : 'ok';
+}
+
+const SOURCE_LEVEL = { ok: 'ok', stale: 'warn', empty: 'warn', error: 'critical' };
 
 export function AdminPanel() {
   const layerQuery = useQuery({
@@ -53,19 +101,34 @@ export function AdminPanel() {
     staleTime: 1000 * 15,
   });
 
+  // Polls, unlike the other panels: this is what an operator watches during an incident,
+  // and a minute-old fallback rate is not much use then.
+  const modelQuery = useQuery({
+    queryKey: ['admin-model-health'],
+    queryFn: getAdminModelHealth,
+    staleTime: 1000 * 10,
+    refetchInterval: 1000 * 30,
+  });
+
   function refreshAll() {
     layerQuery.refetch();
     usersQuery.refetch();
     analyticsQuery.refetch();
     auditQuery.refetch();
+    modelQuery.refetch();
   }
 
   const layerStatus = layerQuery.data;
   const users = usersQuery.data;
   const analytics = analyticsQuery.data;
   const audits = auditQuery.data?.logs || [];
+  const health = modelQuery.data;
   const isRefreshing =
-    layerQuery.isFetching || usersQuery.isFetching || analyticsQuery.isFetching || auditQuery.isFetching;
+    layerQuery.isFetching ||
+    usersQuery.isFetching ||
+    analyticsQuery.isFetching ||
+    auditQuery.isFetching ||
+    modelQuery.isFetching;
 
   return (
     <div className="flex h-full flex-col">
@@ -117,6 +180,132 @@ export function AdminPanel() {
               <div className="flex items-center justify-between gap-2">
                 <span className="text-ds-text-secondary">Operational layers</span>
                 <span className="font-semibold text-ds-text-primary">{layerStatus.layerCount}</span>
+              </div>
+            </div>
+          ) : null}
+        </section>
+
+        <section className="rounded-lg border border-ds-border-subtle bg-ds-surface-raised p-3">
+          <div className="mb-3 flex items-center justify-between gap-2">
+            <div className="flex items-center gap-2 text-xs font-bold uppercase tracking-[0.16em] text-ds-text-secondary">
+              <BrainCircuit size={14} className="text-ds-accent" /> Model health
+            </div>
+            {health ? <LevelPill level={health.overall.level} /> : null}
+          </div>
+
+          {modelQuery.isLoading ? (
+            <div className="text-xs text-ds-text-secondary">Probing models...</div>
+          ) : null}
+          {modelQuery.error ? (
+            <div className="text-xs text-ds-danger">{modelQuery.error.message}</div>
+          ) : null}
+
+          {health ? (
+            <div className="space-y-3 text-xs">
+              {health.overall.issues.length ? (
+                <ul className="space-y-1">
+                  {health.overall.issues.map((issue) => (
+                    <li
+                      key={issue.message}
+                      className={`rounded-md px-2 py-1 ${
+                        issue.level === 'critical'
+                          ? 'bg-ds-danger-subtle text-ds-danger'
+                          : 'bg-ds-warning-subtle text-ds-warning'
+                      }`}
+                    >
+                      {issue.message}
+                    </li>
+                  ))}
+                </ul>
+              ) : (
+                <div className="rounded-md bg-ds-success-subtle px-2 py-1 text-ds-success">
+                  Models, data and copilot all reporting healthy.
+                </div>
+              )}
+
+              <div className="space-y-2">
+                <div className="text-[10px] font-bold uppercase tracking-wider text-ds-text-tertiary">
+                  ML service
+                </div>
+                <HealthRow
+                  label="Status"
+                  value={health.ml.status}
+                  level={health.ml.reachable ? 'ok' : 'critical'}
+                />
+                <HealthRow label="Probe latency" value={fmt(health.ml.latencyMs, ' ms')} />
+                <HealthRow label="Model" value={fmt(health.ml.model)} />
+                <HealthRow label="Training data" value={fmt(health.ml.database)} />
+              </div>
+
+              <div className="space-y-2">
+                <div className="text-[10px] font-bold uppercase tracking-wider text-ds-text-tertiary">
+                  Scoring ({health.scoringVersion})
+                </div>
+                <HealthRow label="Scores this run" value={health.scoring.total} />
+                <HealthRow label="Used the ML model" value={fmt(health.scoring.byMethod?.ml ?? 0)} />
+                <HealthRow
+                  label="Fell back to heuristic"
+                  value={`${health.scoring.fallbacks} (${health.scoring.fallbackRatePct}%)`}
+                  level={fallbackLevel(health.scoring.fallbackRatePct)}
+                />
+                <HealthRow
+                  label={`Recent success (last ${health.scoring.recentWindow})`}
+                  value={fmt(health.scoring.recentSuccessRatePct, '%')}
+                />
+                <HealthRow
+                  label="Latency p50 / p90"
+                  value={`${fmt(health.scoring.latencyMs.p50)} / ${fmt(health.scoring.latencyMs.p90)} ms`}
+                />
+                {Object.keys(health.scoring.fallbackReasons || {}).length ? (
+                  <div className="text-[11px] text-ds-text-tertiary">
+                    Fallback reasons:{' '}
+                    {Object.entries(health.scoring.fallbackReasons)
+                      .map(([reason, count]) => `${reason} x${count}`)
+                      .join(', ')}
+                  </div>
+                ) : null}
+              </div>
+
+              <div className="space-y-2">
+                <div className="text-[10px] font-bold uppercase tracking-wider text-ds-text-tertiary">
+                  Copilot LLM
+                </div>
+                <HealthRow
+                  label="Configured"
+                  value={health.llm.enabled ? health.llm.model || 'on' : 'off'}
+                  level={health.llm.enabled ? 'ok' : 'warn'}
+                />
+                <HealthRow label="Answers" value={`${health.llm.ok} ok / ${health.llm.failed} failed`} />
+                <HealthRow
+                  label="Rule-based fallback"
+                  value={fmt(health.llm.fallbackRatePct, '%')}
+                  level={fallbackLevel(health.llm.fallbackRatePct)}
+                />
+                <HealthRow label="Model fallbacks" value={health.llm.modelFallbacks} />
+                <HealthRow label="Tokens used" value={fmt(health.llm.tokens?.total)} />
+                {health.llm.lastError ? (
+                  <div className="truncate text-[11px] text-ds-danger" title={String(health.llm.lastError)}>
+                    Last error: {String(health.llm.lastError)}
+                  </div>
+                ) : null}
+              </div>
+
+              <div className="space-y-2">
+                <div className="text-[10px] font-bold uppercase tracking-wider text-ds-text-tertiary">
+                  Data freshness
+                </div>
+                {health.data.sources.map((source) => (
+                  <HealthRow
+                    key={source.key}
+                    label={source.label}
+                    value={
+                      source.ageDays != null
+                        ? `${source.count} rows · ${source.ageDays}d old`
+                        : `${source.count} rows`
+                    }
+                    level={SOURCE_LEVEL[source.status] || 'warn'}
+                  />
+                ))}
               </div>
             </div>
           ) : null}

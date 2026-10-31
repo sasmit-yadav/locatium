@@ -1,4 +1,4 @@
-const { checkDatabase } = require('../db/pool');
+const { checkDatabaseReadiness } = require('../db/pool');
 const { pingRedis } = require('../services/redis-cache.service');
 
 function livePayload() {
@@ -39,7 +39,9 @@ async function healthLive(_req, res) {
 }
 
 async function healthReady(_req, res) {
-  const dbStatus = await checkDatabase();
+  const dbStatus = await checkDatabaseReadiness({
+    requireSpatial: process.env.REQUIRE_SPATIAL_DATA === 'true',
+  });
   const redisStatus = await pingRedis();
   const payload = readyPayload(dbStatus, redisStatus);
 

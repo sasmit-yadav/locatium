@@ -3,7 +3,7 @@ import { Badge } from './ui/Badge';
 /**
  * Shows whether a score used AI adjustment or the standard location model.
  */
-export function MethodBadge({ method, modelVersion, fallback }) {
+export function MethodBadge({ method, fallback }) {
   if (fallback) {
     return (
       <Badge variant="warning" className="gap-1">

@@ -78,3 +78,45 @@ test('map actions and follow-ups', () => {
   });
   assert.ok(chips.length >= 2);
 });
+
+test('NLU reads diligence, act, cheaper follow-ups like a human', () => {
+  const diligence = detectIntents('what should I do next');
+  assert.ok(diligence.includes('diligence'), JSON.stringify(diligence));
+
+  const risks = detectIntents('risks?', { lastIntent: 'opportunities' });
+  assert.equal(risks[0], 'risk');
+
+  const act = extractEntities('yes add it', {
+    lastIntent: 'opportunities',
+    lastResults: [{ id: 'z1', name: 'IMT Manesar' }],
+    lastProposals: [{ type: 'addToPipeline', params: { zoneId: 'z1' } }],
+  });
+  assert.equal(act.primaryIntent, 'act');
+  assert.equal(act.confirmTurn, true);
+
+  const cheap = extractEntities('too expensive', {
+    lastIntent: 'opportunities',
+    district: 'Gurugram',
+    budgetInr: 5e7,
+    lastResults: [{ id: 'z1' }],
+  }, { lat: 28.45, lng: 77.03 });
+  assert.equal(cheap.preference, 'cheaper');
+  assert.ok(cheap.budgetInr < 5e7);
+  assert.equal(cheap.clarification.needed, false);
+  assert.ok(cheap.intents.includes('opportunities'), JSON.stringify(cheap.intents));
+});
+
+test('rule-based answer covers diligence and land band', () => {
+  const text = ruleBasedAnswer('what next', {
+    primaryIntent: 'diligence',
+    intents: ['diligence'],
+    diligence: { steps: ['Confirm CLU vs intended use.'], extra: [] },
+    forecast: { p10: 9000, p50: 12000, p90: 16000, confidence: 'medium' },
+    pendingAct: { type: 'addToPipeline', params: { zoneId: 'z1' } },
+    opportunities: [],
+    notes: [],
+  });
+  assert.match(text, /CLU/);
+  assert.match(text, /12,000/);
+  assert.match(text, /Confirm/i);
+});

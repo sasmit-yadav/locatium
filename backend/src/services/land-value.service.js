@@ -316,7 +316,54 @@ async function resolveCircleMedian(pool, location, districtNames, sector) {
   };
 }
 
-async function estimateLandValue(location, sector = 'industrial') {
+/**
+ * Resolving "which district is this point in?" costs ~140ms, because it measures the
+ * point against 22 very detailed district multipolygons. A full-district investor scan
+ * called it once per candidate (1,564 in Gurugram), which alone accounted for most of a
+ * multi-minute cold scan.
+ *
+ * Two ways out, in order of preference:
+ *  1. The caller usually already knows the district (the zone row carries it, resolved
+ *     from the same `district_boundary` table), so it can pass `districtHint` and skip
+ *     the query entirely — exact, not an approximation.
+ *  2. Otherwise memoise by a ~111 m cell. Districts are tens of kilometres across, so a
+ *     cell that small cannot straddle a boundary in any way that changes the answer.
+ */
+const DISTRICT_CELL_DECIMALS = 3;
+const DISTRICT_MEMO_TTL_MS = 30 * 60 * 1000;
+const DISTRICT_MEMO_MAX = 5000;
+const districtMemo = new Map();
+
+/** The generic fallbacks a zone row uses when it could not resolve a real district. */
+const PLACEHOLDER_DISTRICTS = new Set(['haryana', '']);
+
+function districtCellKey(location) {
+  return `${Number(location.lng).toFixed(DISTRICT_CELL_DECIMALS)},${Number(location.lat).toFixed(DISTRICT_CELL_DECIMALS)}`;
+}
+
+async function resolveDistrictForPoint(pool, location, districtHint) {
+  const hint = typeof districtHint === 'string' ? districtHint.trim() : '';
+  if (hint && !PLACEHOLDER_DISTRICTS.has(hint.toLowerCase())) return hint;
+
+  const key = districtCellKey(location);
+  const memo = districtMemo.get(key);
+  if (memo && Date.now() - memo.at < DISTRICT_MEMO_TTL_MS) return memo.district;
+
+  const districtRow = await pool.query(
+    `SELECT COALESCE(NULLIF(TRIM(n_d_name), ''), NULLIF(TRIM(dis_abb), '')) AS district
+     FROM district_boundary
+     WHERE geom IS NOT NULL
+     ORDER BY geom <-> ST_SetSRID(ST_MakePoint($1, $2), 4326)
+     LIMIT 1`,
+    [location.lng, location.lat]
+  );
+  const district = districtRow.rows[0]?.district || null;
+  districtMemo.set(key, { at: Date.now(), district });
+  if (districtMemo.size > DISTRICT_MEMO_MAX) districtMemo.delete(districtMemo.keys().next().value);
+  return district;
+}
+
+async function estimateLandValue(location, sector = 'industrial', options = {}) {
   const pool = getPool();
   if (!pool) {
     return { method: 'unavailable', reason: 'database_not_configured' };
@@ -325,15 +372,7 @@ async function estimateLandValue(location, sector = 'industrial') {
   const normalizedSector = (sector || 'industrial').trim().toLowerCase();
 
   try {
-    const districtRow = await pool.query(
-      `SELECT COALESCE(NULLIF(TRIM(n_d_name), ''), NULLIF(TRIM(dis_abb), '')) AS district
-       FROM district_boundary
-       WHERE geom IS NOT NULL
-       ORDER BY geom <-> ST_SetSRID(ST_MakePoint($1, $2), 4326)
-       LIMIT 1`,
-      [location.lng, location.lat]
-    );
-    const district = districtRow.rows[0]?.district || null;
+    const district = await resolveDistrictForPoint(pool, location, options.districtHint);
     if (!district) {
       return {
         method: 'insufficient_data',

@@ -1,3 +1,15 @@
+/**
+ * Basemap registry.
+ *
+ * Every entry must render without an API key. CARTO's `basemaps.cartocdn.com` rasters
+ * used to qualify, but they now return key-gated tiles stamped "API KEY REQUIRED" when
+ * requested from a browser origin, so the vector styles below come from OpenFreeMap
+ * (free, keyless, unmetered) — the provider this app was documented against.
+ *
+ * A spec carries either `styleUrl` (a hosted MapLibre style JSON) or `inlineStyle`
+ * (a raster style we assemble here). MapLibre accepts both forms of style input.
+ */
+
 function rasterBasemapStyle(tiles, attribution) {
   return {
     version: 8,
@@ -14,20 +26,20 @@ function rasterBasemapStyle(tiles, attribution) {
   };
 }
 
-const CARTO = 'https://basemaps.cartocdn.com/rastertiles';
+const OPENFREEMAP = 'https://tiles.openfreemap.org/styles';
 
 export const BASEMAPS = [
   {
     id: 'dark',
     label: 'Dark',
     thumbnail: 'linear-gradient(145deg,#0B1020,#1A2333)',
-    inlineStyle: rasterBasemapStyle([`${CARTO}/dark_all/{z}/{x}/{y}.png`], 'OpenStreetMap contributors, CARTO'),
+    styleUrl: `${OPENFREEMAP}/dark`,
   },
   {
     id: 'light',
     label: 'Light',
     thumbnail: 'linear-gradient(145deg,#F8FAFC,#CBD5E1)',
-    inlineStyle: rasterBasemapStyle([`${CARTO}/light_all/{z}/{x}/{y}.png`], 'OpenStreetMap contributors, CARTO'),
+    styleUrl: `${OPENFREEMAP}/positron`,
   },
   {
     id: 'satellite',
@@ -48,7 +60,7 @@ export const BASEMAPS = [
     id: 'streets',
     label: 'Streets',
     thumbnail: 'linear-gradient(145deg,#f5f0e6,#d4cbb8)',
-    inlineStyle: rasterBasemapStyle([`${CARTO}/voyager/{z}/{x}/{y}.png`], 'OpenStreetMap contributors, CARTO'),
+    styleUrl: `${OPENFREEMAP}/liberty`,
   },
   {
     id: 'osm',
@@ -73,5 +85,7 @@ export function getBasemapSpec(id) {
 
 export function getBasemapStyleInput(id) {
   const spec = getBasemapSpec(id);
-  return structuredClone(spec.inlineStyle);
+  // A URL is handed to MapLibre as-is; inline styles are cloned so a mutation by the
+  // map (MapLibre rewrites the object it is given) cannot leak into the next switch.
+  return spec.styleUrl ?? structuredClone(spec.inlineStyle);
 }

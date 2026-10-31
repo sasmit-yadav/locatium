@@ -2,7 +2,7 @@ import { DATA_LAYERS } from './layers';
 import { getLayersForCategory } from './layer-registry';
 import { colors } from '../design-system/tokens';
 
-const [c0, c1, c2, c3, c4, c5, c6, c7] = colors.dataCategorical;
+const [c0, c1, c2, , c4, c5, c6, c7] = colors.dataCategorical;
 
 const CATEGORY_META = {
   administrative: { name: 'Administrative', color: c0, group: 'Administrative' },
