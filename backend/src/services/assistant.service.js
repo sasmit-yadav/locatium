@@ -22,6 +22,7 @@ const { renderContext } = require('./assistant-context.service');
 const memoryService = require('./assistant-memory.service');
 const { verifyGrounding } = require('./assistant-guardrail.service');
 const language = require('./assistant-language.service');
+const { localizeTurn } = require('./assistant-i18n.service');
 const beginner = require('./assistant-beginner.service');
 const actions = require('./assistant-actions.service');
 const redisCache = require('./redis-cache.service');
@@ -491,7 +492,8 @@ async function prepareTurn(input = {}) {
 
 function turnEnvelope({ context, memory, refs, rewriteInfo, rendered, groundingMs, startedAt, answer, method, provider, model, usage, ttftMs, guardrail, cacheHit, nextMemory, replyLanguage, detectedLanguage, isNewUser, glossaryTerms, proposed }) {
   const lang = replyLanguage || 'en';
-  return {
+  // Hindi display text for buttons, chips and the disclaimer (answers are already in Hindi).
+  return localizeTurn({
     answer,
     method,
     provider: provider || null,
@@ -563,7 +565,7 @@ function turnEnvelope({ context, memory, refs, rewriteInfo, rendered, groundingM
     usage: usage || null,
     ttftMs: ttftMs ?? null,
     elapsedMs: Date.now() - startedAt,
-  };
+  }, lang);
 }
 
 /** True when the model must not be trusted to narrate (nothing to narrate from). */

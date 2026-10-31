@@ -205,8 +205,12 @@ async function capabilities(req, res) {
     voiceInput: speech.isEnabled(),
     languages: ['en', 'hi', 'hinglish'],
     starters: beginnerService.starterPrompts(lang),
-    glossary: Object.values(beginnerService.GLOSSARY).map((g) => ({
+    glossary: Object.entries(beginnerService.GLOSSARY).map(([key, g]) => ({
+      key,
       term: g.term,
+      en: g.en,
+      hi: g.hi,
+      aliases: g.aliases || [],
       explanation: lang === 'hi' ? g.hi : g.en,
       why: g.why,
     })),
