@@ -729,7 +729,6 @@ async function emailReport({ to, zoneId, reportId, message, query = {}, userId }
     to: delivery.to,
     deliveryMode: delivery.deliveryMode,
     messageId: delivery.messageId,
-    outboxPath: delivery.outboxPath || null,
   };
 }
 

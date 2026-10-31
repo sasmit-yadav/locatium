@@ -114,7 +114,10 @@ async function executeAction({ user, type, params = {} }) {
         type,
         executed: true,
         result: emailed,
-        message: emailed.deliveryMode === 'outbox' ? `Saved to outbox for ${emailed.to}.` : `Emailed ${emailed.to}.`,
+        message:
+          emailed.deliveryMode === 'outbox'
+            ? `Email isn't set up on this server, so nothing was sent to ${emailed.to}. The report is saved under Reports.`
+            : `Emailed ${emailed.to}.`,
       };
     }
     default:

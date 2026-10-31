@@ -36,7 +36,7 @@ export function ReportsPanel() {
       const result = await emailInvestorReport({ to: to.trim(), reportId: report.id });
       const modeNote =
         result.deliveryMode === 'outbox'
-          ? 'Saved to server outbox (SMTP not configured).'
+          ? "Email isn't set up on this server, so nothing was sent. The report is saved: download it from Reports."
           : 'Email sent successfully.';
       alert(`${modeNote}\nDelivered to ${result.to}`);
     } catch (err) {
