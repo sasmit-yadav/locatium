@@ -1,4 +1,7 @@
 import { useEffect, useRef, useState } from 'react';
+import { AnimatePresence, motion } from 'framer-motion';
+import { useFloatingPanel } from './copilot/useFloatingPanel';
+import { usePrefersReducedMotion } from '../design-system/usePrefersReducedMotion';
 import {
   MessageCircle,
   Send,
@@ -29,6 +32,7 @@ import {
 } from '../services/voice';
 import { useDashboardStore } from '../stores/useDashboardStore';
 import { InlineMarkdown } from './ui/InlineMarkdown';
+import { downloadInvestorReportById } from '../services/investor';
 
 // Ordered for a first-time visitor: orientation, then budget, then vocabulary, then analysis.
 const STARTER_CHIPS = [
@@ -121,6 +125,11 @@ function OppList({ opportunities, onFly }) {
 export function AskLocatiumWidget() {
   const [open, setOpen] = useState(false);
   const [expanded, setExpanded] = useState(false);
+  const reduceMotion = usePrefersReducedMotion();
+  const leftCollapsedForLayout = useDashboardStore((s) => s.leftCollapsed);
+  const rightCollapsedForLayout = useDashboardStore((s) => s.rightCollapsed);
+  // Re-measure the map area whenever a side panel opens or closes.
+  const panel = useFloatingPanel({ open, deps: [leftCollapsedForLayout, rightCollapsedForLayout, expanded] });
   const [input, setInput] = useState('');
   const [busy, setBusy] = useState(false);
   const [phase, setPhase] = useState('');
@@ -299,6 +308,29 @@ export function AskLocatiumWidget() {
   /**
    * Mutating actions run only after this click. The server still requires `confirmed: true`.
    */
+  /** Fetches a generated report with the visitor's token and hands it to the browser as a file. */
+  async function downloadReport(reportId, msgIdx) {
+    try {
+      const { blob, filename } = await downloadInvestorReportById(reportId);
+      const url = URL.createObjectURL(blob);
+      const link = document.createElement('a');
+      link.href = url;
+      link.download = filename;
+      document.body.appendChild(link);
+      link.click();
+      link.remove();
+      setTimeout(() => URL.revokeObjectURL(url), 10_000);
+    } catch (err) {
+      setMessages((prev) => {
+        const next = [...prev];
+        const m = next[msgIdx];
+        if (!m) return prev;
+        next[msgIdx] = { ...m, actionNote: `Download failed: ${err.message}. Try Reports in the top bar.` };
+        return next;
+      });
+    }
+  }
+
   async function runProposal(proposal, msgIdx) {
     setMessages((prev) => {
       const next = [...prev];
@@ -322,9 +354,17 @@ export function AskLocatiumWidget() {
           ...m,
           proposals: (m.proposals || []).filter((p) => p.type !== proposal.type),
           actionNote: result.message || 'Done.',
+          actionReport:
+            proposal.type === 'generateReport' && result.result?.reportId
+              ? { id: result.result.reportId, filename: result.result.filename }
+              : m.actionReport,
         };
         return next;
       });
+      // A generated report downloads straight away; the button below lets the visitor fetch it again.
+      if (proposal.type === 'generateReport' && result.result?.reportId) {
+        downloadReport(result.result.reportId, msgIdx);
+      }
     } catch (err) {
       setMessages((prev) => {
         const next = [...prev];
@@ -565,34 +605,93 @@ export function AskLocatiumWidget() {
       ? selectedLocation.name
       : 'Map center (no pin yet)';
 
-  const shellClass = expanded
-    ? 'fixed inset-3 z-50 flex flex-col overflow-hidden rounded-2xl border border-ds-border-default bg-ds-surface-raised shadow-2xl'
-    : 'pointer-events-auto fixed bottom-16 right-4 z-40 flex h-[min(620px,78vh)] w-[min(440px,calc(100vw-1.5rem))] flex-col overflow-hidden rounded-2xl border border-ds-border-default bg-ds-surface-raised shadow-2xl shadow-black/15';
+  const shellBase =
+    'pointer-events-auto fixed flex flex-col overflow-hidden border border-ds-border-default bg-ds-surface-raised shadow-2xl shadow-black/20';
+  let shellClass;
+  let shellStyle;
+  if (expanded) {
+    shellClass = `${shellBase} inset-3 z-[1200] rounded-2xl`;
+    shellStyle = undefined;
+  } else if (panel.compact) {
+    // Phones: a bottom sheet that leaves the top of the map visible.
+    shellClass = `${shellBase} inset-x-0 bottom-0 z-[1200] h-[78vh] rounded-t-2xl`;
+    shellStyle = undefined;
+  } else {
+    shellClass = `${shellBase} z-[1100] rounded-2xl`;
+    shellStyle = panel.style;
+  }
+
+  const motionProps = reduceMotion
+    ? { initial: false, animate: { opacity: 1 }, exit: { opacity: 0 } }
+    : {
+        initial: { opacity: 0, y: 24, scale: 0.96 },
+        animate: { opacity: 1, y: 0, scale: 1 },
+        exit: { opacity: 0, y: 16, scale: 0.97 },
+        transition: { type: 'spring', stiffness: 420, damping: 34, mass: 0.8 },
+      };
 
   return (
     <>
-      {!open && (
-        <button
-          type="button"
-          onClick={() => setOpen(true)}
-          className="pointer-events-auto fixed bottom-20 right-4 z-40 flex items-center gap-2 rounded-full border border-ds-border-default bg-ds-surface-raised px-4 py-2.5 text-sm font-medium text-ds-text-primary shadow-lg shadow-black/10 transition hover:border-ds-accent hover:text-ds-accent"
-          aria-label="Ask LOCATIUM copilot"
-        >
-          <Sparkles size={18} className="text-ds-accent" />
-          Ask LOCATIUM
-        </button>
-      )}
+      <AnimatePresence>
+        {!open && (
+          <motion.button
+            key="launcher"
+            type="button"
+            onClick={() => setOpen(true)}
+            style={panel.launcherStyle || undefined}
+            initial={reduceMotion ? false : { opacity: 0, scale: 0.9 }}
+            animate={{ opacity: 1, scale: 1 }}
+            exit={{ opacity: 0, scale: 0.9 }}
+            whileHover={reduceMotion ? undefined : { y: -2 }}
+            whileTap={reduceMotion ? undefined : { scale: 0.96 }}
+            className={`pointer-events-auto fixed z-[1100] flex items-center gap-2 rounded-full border border-ds-border-default bg-ds-surface-raised px-4 py-2.5 text-sm font-medium text-ds-text-primary shadow-lg shadow-black/15 transition-colors hover:border-ds-accent hover:text-ds-accent ${
+              panel.launcherStyle ? '' : 'bottom-4 right-4'
+            }`}
+            aria-label="Ask LOCATIUM copilot"
+          >
+            <Sparkles size={18} className="text-ds-accent" />
+            Ask LOCATIUM
+          </motion.button>
+        )}
+      </AnimatePresence>
 
+      <AnimatePresence>
       {open && (
-        <div className={shellClass}>
-          <header className="flex items-start justify-between gap-2 border-b border-ds-border-subtle bg-gradient-to-r from-ds-accent-subtle to-transparent px-4 py-3">
+        <motion.div
+          key="panel"
+          role="dialog"
+          aria-label="Ask LOCATIUM copilot"
+          className={`${shellClass} ${panel.dragging ? 'select-none' : ''}`}
+          style={{ ...(shellStyle || {}), transformOrigin: 'bottom right' }}
+          {...motionProps}
+        >
+          {!expanded && !panel.compact ? (
+            <div
+              onPointerDown={panel.onResizeStart}
+              className="absolute left-0 top-0 z-10 h-4 w-4 cursor-nwse-resize rounded-tl-2xl"
+              title="Drag to resize"
+              aria-hidden
+            >
+              <span className="absolute left-1 top-1 h-2 w-2 rounded-tl-sm border-l-2 border-t-2 border-ds-text-tertiary/50" />
+            </div>
+          ) : null}
+          <header
+            onPointerDown={expanded ? undefined : panel.onDragStart}
+            onDoubleClick={expanded || panel.compact ? undefined : panel.redock}
+            title={expanded || panel.compact ? undefined : 'Drag to move · double-click to dock'}
+            className={`flex items-start justify-between gap-2 border-b border-ds-border-subtle bg-gradient-to-r from-ds-accent-subtle to-transparent px-4 py-3 ${
+              expanded || panel.compact ? '' : panel.dragging ? 'cursor-grabbing' : 'cursor-grab'
+            }`}
+          >
             <div className="min-w-0">
               <div className="flex items-center gap-2">
                 <Sparkles size={16} className="text-ds-accent" />
-                <div className="text-sm font-semibold text-ds-text-primary">Ask LOCATIUM</div>
-                <span className="rounded-full bg-ds-accent/10 px-2 py-0.5 text-[10px] font-semibold uppercase tracking-wide text-ds-accent">
-                  Copilot
-                </span>
+                <div className="whitespace-nowrap text-sm font-semibold text-ds-text-primary">Ask LOCATIUM</div>
+                {panel.style && panel.style.width < 400 ? null : (
+                  <span className="rounded-full bg-ds-accent/10 px-2 py-0.5 text-[10px] font-semibold uppercase tracking-wide text-ds-accent">
+                    Copilot
+                  </span>
+                )}
               </div>
               <div className="mt-1 flex items-center gap-1 text-[11px] text-ds-text-tertiary">
                 <MapPin size={11} />
@@ -768,6 +867,15 @@ export function AskLocatiumWidget() {
                       {m.actionNote}
                     </p>
                   ) : null}
+                  {m.actionReport ? (
+                    <button
+                      type="button"
+                      onClick={() => downloadReport(m.actionReport.id, idx)}
+                      className="mt-1.5 inline-flex items-center gap-1 rounded-full border border-ds-accent px-3 py-1 text-[11px] font-semibold text-ds-accent hover:bg-ds-accent/10"
+                    >
+                      Download PDF
+                    </button>
+                  ) : null}
                   {m.disclaimer ? (
                     <p className="mt-2 text-[10px] leading-4 text-ds-text-tertiary">{m.disclaimer}</p>
                   ) : null}
@@ -854,8 +962,9 @@ export function AskLocatiumWidget() {
                     : 'Enter to send · Shift+Enter for newline · remembers this chat'}
             </div>
           </form>
-        </div>
+        </motion.div>
       )}
+      </AnimatePresence>
     </>
   );
 }
