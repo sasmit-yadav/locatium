@@ -25,6 +25,7 @@ const {
   assistantLimiter,
 } = require('./middleware/general-rate-limit.middleware');
 const { requestId } = require('./middleware/request-id.middleware');
+const { securityHeaders } = require('./middleware/security-headers.middleware');
 const { notFoundHandler, errorHandler } = require('./middleware/error.middleware');
 const asyncHandler = require('./middleware/async-handler');
 
@@ -38,6 +39,7 @@ function createApp() {
   }
 
   app.use(requestId);
+  app.use(securityHeaders);
 
   const allowAllCors = corsOrigins.includes('*');
   const allowVercelPreviews = process.env.ALLOW_VERCEL_PREVIEWS === 'true';
@@ -64,7 +66,7 @@ function createApp() {
     })
   );
 
-  app.use(express.json());
+  app.use(express.json({ limit: '256kb' }));
 
   app.get('/health', asyncHandler(healthLive));
   app.get('/api/health', asyncHandler(healthLive));
