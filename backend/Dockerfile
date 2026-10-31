@@ -9,6 +9,8 @@ RUN npm ci --omit=dev
 COPY db ./db
 COPY scripts ./scripts
 COPY src ./src
+# Fonts for the English/Hindi "Check my plot" PDF.
+COPY assets ./assets
 
 USER node
 EXPOSE 3001

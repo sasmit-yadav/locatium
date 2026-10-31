@@ -15,7 +15,7 @@
     "db:inspect": "node scripts/inspect-database.js",
     "verify": "node scripts/verify-setup.js",
     "deploy:verify": "node scripts/verify-deployment.js",
-    "test": "node --test tests/scoring-engine.test.js tests/scoring-orchestrator.test.js tests/investor-opportunity.engine.test.js tests/assistant.test.js tests/assistant-upgrades.test.js tests/assistant-multilingual.test.js tests/score-insights.land.test.js tests/land-value.service.test.js tests/roadmap-features.test.js tests/model-health.test.js tests/heavy-work-guard.test.js",
+    "test": "node --test tests/scoring-engine.test.js tests/scoring-orchestrator.test.js tests/investor-opportunity.engine.test.js tests/assistant.test.js tests/assistant-upgrades.test.js tests/assistant-multilingual.test.js tests/score-insights.land.test.js tests/land-value.service.test.js tests/roadmap-features.test.js tests/model-health.test.js tests/heavy-work-guard.test.js tests/plot-tools.test.js",
     "test:portal": "node scripts/test-portal.js",
     "test:investor": "node scripts/test-investor-api.js",
     "test:investor-portal": "node scripts/test-investor-portal.js",
