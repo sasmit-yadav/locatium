@@ -53,3 +53,6 @@ ops/tunnel/runtime/
 backend/backups/
 .claude/
 .agents/
+
+# Legacy qgis2web export (large rasters, not used by the app)
+map_new/
