@@ -69,7 +69,7 @@ There is no documented shared password. Older docs that mentioned one are obsole
 
 ```powershell
 cd backend
-npm test                        # scoring, investor engine, copilot, model health, load guard (97 tests)
+npm test                        # scoring, investor engine, copilot, model health, load guard (102 tests)
 npm run verify                  # DB, JWT, ports
 node scripts/test-api-smoke.js  # backend must be running
 ```
@@ -90,6 +90,9 @@ service tests on every push. Manual QA scripts (fuzz, IDOR, load, parity) live i
 
 | Area | Status |
 |------|--------|
+| Welcome screen + full English / हिंदी switch for everyday users | Done |
+| **Check my plot** — plain Good/Average/Weak summary, land price with source + date, total cost calculator (stamp duty by buyer and urban/rural, registration, loan EMI), verify-before-you-buy checklist, English/Hindi PDF | Done |
+| Place search — villages (incl. hadbast no.), towns, HSVP sectors and plots, e.g. “sector 46 gurugram” | Done |
 | Map viewer (HARSAC layers, identify, basemaps, facility finder) | Done |
 | Spatial scoring **v3-investment** + formula breakdown | Done |
 | ML overlay (`investment-v2`) | **Experimental, shown only** — trained on 30 synthetic labels derived from its own input features, so it never changes a score unless `ML_OVERRIDE_ENABLED=true` |
@@ -121,6 +124,11 @@ GET  /api/features/search | /nearby | /statistics
 POST /api/analysis/score-location | /score-batch      # score-batch: auth, ≤25 points, one at a time per user
 GET  /api/analysis/forecast          # current p10/p50/p90 band; ?horizon=1,3,5 adds an outlook
 GET  /api/analysis/facility-gap
+GET  /api/analysis/plot-summary       # plain bilingual summary (?lat&lng&sector&lang=en|hi)
+GET  /api/analysis/plot-report        # PDF, auth (&area&buyer&areaType&lang)
+POST /api/analysis/acquisition-cost   # land + stamp duty + registration + EMI
+GET  /api/analysis/buyer-checklist    # ?lang=en|hi
+GET  /api/features/places?q=          # ranked village / sector / plot search
 
 GET  /api/investor/opportunities | /compare-zones | /districts   # ranking + zone analysis need a token; district scans are concurrency-bounded
 POST /api/investor/generate-report | /email-report
