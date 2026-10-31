@@ -252,6 +252,7 @@ function addClusterLayers(map, cfg, opacityMultiplier) {
       filter: ['has', 'point_count'],
       layout: {
         'text-field': '{point_count_abbreviated}',
+        'text-font': ['Noto Sans Bold'],
         'text-size': 9,
         'text-allow-overlap': true,
       },

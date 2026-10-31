@@ -177,7 +177,7 @@ export function FacilityMarkers({
         source: 'facility-markers',
         layout: {
           'text-field': ['get', 'name'],
-          'text-font': ['Open Sans Regular', 'Arial Unicode MS Regular'],
+          'text-font': ['Noto Sans Regular'],
           'text-size': 11,
           'text-offset': [0, 1.2],
           'text-anchor': 'top',

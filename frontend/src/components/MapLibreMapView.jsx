@@ -96,6 +96,8 @@ export function MapLibreMapView({
   const clusterTimerRef = useRef(null);
   const zoomRef = useRef(DEFAULT_ZOOM);
   const [debugInfo, setDebugInfo] = useState(null);
+  /** Bumps each time a style finishes loading, so overlays re-attach after a basemap switch. */
+  const [styleRevision, setStyleRevision] = useState(0);
 
   useEffect(() => {
     visibilityRef.current = visibility;
@@ -127,7 +129,10 @@ export function MapLibreMapView({
   }, []);
 
   const runSync = useCallback((map) => {
-    if (!map || map._removed || !styleReadyRef.current || !map.isStyleLoaded()) return;
+    // styleReadyRef is set on 'load' / 'style.load'. Don't also require isStyleLoaded():
+    // after a basemap switch it stays false until every basemap tile arrives, which
+    // silently skipped re-adding the data layers.
+    if (!map || map._removed || !styleReadyRef.current) return;
     syncOperationalLayers(map, visibilityRef.current, zoomRef.current);
     refreshClusterSources(map, visibilityRef.current, zoomRef.current);
   }, []);
@@ -151,6 +156,7 @@ export function MapLibreMapView({
         if (map._removed) return;
         map.resize();
         runSync(map);
+        setStyleRevision((v) => v + 1);
       });
     },
     [runSync]
@@ -321,12 +327,14 @@ export function MapLibreMapView({
       onStyleReady(map);
     };
 
-    map.setStyle(getBasemapStyleInput(nextBasemap));
-    if (map.isStyleLoaded()) {
-      onStyleApplied();
-    } else {
-      map.once('style.load', onStyleApplied);
-    }
+    // Listen before swapping, and always wait for the new style: right after setStyle()
+    // isStyleLoaded() can still report the *old* style, and layers re-added then are
+    // wiped when the new style lands — which made every basemap switch drop all data layers.
+    map.once('style.load', onStyleApplied);
+    map.setStyle(getBasemapStyleInput(nextBasemap), { diff: false });
+    return () => {
+      map.off('style.load', onStyleApplied);
+    };
   }, [basemapId, onStyleReady]);
 
   useEffect(() => {
@@ -412,7 +420,7 @@ export function MapLibreMapView({
     }
 
     return undefined;
-  }, [highlightFeature, basemapId]);
+  }, [highlightFeature, styleRevision]);
 
   useEffect(() => {
     const map = mapRef.current;
@@ -491,7 +499,7 @@ export function MapLibreMapView({
         layout: {
           'text-field': ['get', 'label'],
           'text-size': 11,
-          'text-font': ['Open Sans Semibold', 'Arial Unicode MS Regular'],
+          'text-font': ['Noto Sans Bold'],
           'text-offset': [0, 1.35],
           'text-anchor': 'top',
           'text-allow-overlap': true,
@@ -506,7 +514,7 @@ export function MapLibreMapView({
     }
 
     return undefined;
-  }, [investorHighlights, basemapId]);
+  }, [investorHighlights, styleRevision]);
 
   useEffect(() => {
     const map = mapRef.current;
@@ -556,7 +564,7 @@ export function MapLibreMapView({
     }
 
     return undefined;
-  }, [analysisOverlay, basemapId]);
+  }, [analysisOverlay, styleRevision]);
 
   const highlightCount = investorHighlights?.features?.length || 0;
   const gapCount = analysisOverlay?.features?.length || 0;

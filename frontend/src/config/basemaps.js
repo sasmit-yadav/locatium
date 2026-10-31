@@ -13,6 +13,8 @@
 function rasterBasemapStyle(tiles, attribution) {
   return {
     version: 8,
+    // Raster basemaps carry no fonts of their own; labels drawn by our layers need glyphs.
+    glyphs: 'https://tiles.openfreemap.org/fonts/{fontstack}/{range}.pbf',
     sources: {
       basemap: {
         type: 'raster',

@@ -93,7 +93,7 @@ export function MapToolbar() {
 
   return (
     <>
-      <MapControlCluster position="top-right" orientation="vertical" className="pointer-events-auto">
+      <MapControlCluster position="top-right" orientation="vertical" clip={false} className="pointer-events-auto">
         <IconButton icon={Layers} tooltip="Layers" onClick={openLayers} />
         <IconButton
           icon={MessageCircle}

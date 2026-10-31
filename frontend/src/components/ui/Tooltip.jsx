@@ -1,10 +1,13 @@
-import { useEffect, useId, useRef, useState } from 'react';
+import { useContext, useEffect, useId, useRef, useState } from 'react';
+import { TooltipSideContext } from './tooltip-context';
 import { layout } from '../../design-system/tokens';
 
 /**
  * Hover tooltip with 300ms delay — wraps icon-only controls.
  */
-export function Tooltip({ content, children, side = 'bottom' }) {
+export function Tooltip({ content, children, side: sideProp }) {
+  const contextSide = useContext(TooltipSideContext);
+  const side = sideProp || contextSide || 'bottom';
   const id = useId();
   const [visible, setVisible] = useState(false);
   const timer = useRef(null);
