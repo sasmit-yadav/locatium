@@ -4,6 +4,7 @@ const { createApp } = require('./app');
 const { PORT, validateProductionConfig } = require('./config');
 const { checkDatabase, closePool } = require('./db/pool');
 const { startInvestorAlertJob } = require('./jobs/investor-alerts.job');
+const { startDemoCleanupJob } = require('./jobs/demo-cleanup.job');
 const { warmInvestorCache } = require('./services/investor-cache-warm.service');
 const { logEvent } = require('./utils/structured-logger');
 
@@ -27,6 +28,7 @@ const server = app.listen(PORT, HOST, () => {
     else console.warn('Database: not configured or unreachable');
   })();
   startInvestorAlertJob();
+  startDemoCleanupJob();
   if (process.env.INVESTOR_CACHE_WARM === 'true') {
     warmInvestorCache()
       .then((r) => console.log(`Investor cache warm: ${r.success}/${r.queries} queries`))

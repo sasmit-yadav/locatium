@@ -1,3 +1,4 @@
+const crypto = require('crypto');
 const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
 const { getPool } = require('../db/pool');
@@ -45,7 +46,7 @@ function validatePassword(password) {
   }
 }
 
-function issueAccessToken(user) {
+function issueAccessToken(user, expiresIn = jwtAccessExpires) {
   return jwt.sign(
     {
       sub: user.id,
@@ -54,8 +55,54 @@ function issueAccessToken(user) {
       typ: 'access',
     },
     jwtAccessSecret,
-    { expiresIn: jwtAccessExpires }
+    { expiresIn }
   );
+}
+
+/**
+ * Showcase visitors each get their own throwaway investor account, so one visitor's
+ * pipeline, portfolios, saved searches, reports and copilot memory are never visible
+ * to the next. Accounts live DEMO_TTL_DAYS; the token expires with them and the purge
+ * job deletes them a day later (every user-owned table cascades on user delete).
+ */
+const DEMO_EMAIL_DOMAIN = 'demo.locatium.app';
+const DEMO_EMAIL_PATTERN = `demo+%@${DEMO_EMAIL_DOMAIN}`;
+
+function demoTtlDays() {
+  const n = Number(process.env.DEMO_TTL_DAYS);
+  return Number.isFinite(n) && n >= 1 && n <= 30 ? Math.floor(n) : 7;
+}
+
+function demoIsolated() {
+  return process.env.DEMO_ISOLATED !== 'false';
+}
+
+async function createIsolatedDemoUser(pool) {
+  const suffix = crypto.randomBytes(8).toString('hex');
+  const email = `demo+${suffix}@${DEMO_EMAIL_DOMAIN}`;
+  // Unguessable, never disclosed: the account can only be reached through its token.
+  const passwordHash = await bcrypt.hash(crypto.randomBytes(24).toString('hex'), 4);
+  const { rows } = await pool.query(
+    `INSERT INTO users (email, password_hash, role, display_name)
+     VALUES ($1, $2, 'investor', 'Demo visitor')
+     RETURNING id, email, role, created_at`,
+    [email, passwordHash]
+  );
+  return rows[0];
+}
+
+/** Deletes expired isolated demo accounts (and, by cascade, everything they own). */
+async function purgeExpiredDemoUsers() {
+  const pool = getPool();
+  if (!pool) return { deleted: 0 };
+  const { rowCount } = await pool.query(
+    `DELETE FROM users
+     WHERE email LIKE $1
+       AND role = 'investor'
+       AND created_at < now() - make_interval(days => $2)`,
+    [DEMO_EMAIL_PATTERN, demoTtlDays() + 1]
+  );
+  return { deleted: rowCount || 0 };
 }
 
 function issueRefreshToken(userId) {
@@ -162,6 +209,23 @@ async function loginDemo() {
 
   assertJwtSecrets();
   const pool = assertDb();
+
+  if (demoIsolated()) {
+    const user = await createIsolatedDemoUser(pool);
+    return {
+      user: {
+        id: user.id,
+        email: user.email,
+        role: user.role,
+        created_at: user.created_at,
+      },
+      accessToken: issueAccessToken(user, `${demoTtlDays()}d`),
+      demo: true,
+      isolated: true,
+      expiresInDays: demoTtlDays(),
+    };
+  }
+
   const email = validateEmail(process.env.DEMO_USER_EMAIL);
   const { rows } = await pool.query(
     `SELECT id, email, role, created_at
@@ -327,6 +391,7 @@ module.exports = {
   register,
   login,
   loginDemo,
+  purgeExpiredDemoUsers,
   refresh,
   logout,
   getProfile,
