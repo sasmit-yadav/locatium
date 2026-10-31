@@ -4,6 +4,8 @@ import { useEffect, useMemo, useRef, useState } from 'react';
 import { Command, Layers, Layers3, MapPin, Search } from 'lucide-react';
 import { filterHaryanaPlaces } from '../data/haryanaPlaces';
 import { searchFeatures } from '../services/features';
+import { searchPlaces } from '../services/plot';
+import { useT } from '../i18n';
 import { useDashboardStore } from '../stores/useDashboardStore';
 import { BASEMAPS } from '../config/basemaps';
 import { ENTERPRISE_LAYER_CATEGORIES } from '../config/enterpriseLayers';
@@ -22,7 +24,10 @@ export function CommandPalette() {
   const toggleLayer = useDashboardStore((s) => s.toggleLayer);
   const setActiveWorkspace = useDashboardStore((s) => s.setActiveWorkspace);
 
+  const t = useT();
+  const openInspector = useDashboardStore((s) => s.openInspector);
   const [query, setQuery] = useState('');
+  const [placeResults, setPlaceResults] = useState([]);
   const [remoteResults, setRemoteResults] = useState([]);
   const [loadingRemote, setLoadingRemote] = useState(false);
   const inputRef = useRef(null);
@@ -40,12 +45,43 @@ export function CommandPalette() {
     const q = query.trim();
     if (q.length < 2) {
       setRemoteResults([]);
+      setPlaceResults([]);
       return undefined;
     }
 
     let cancelled = false;
     const timeout = setTimeout(async () => {
       setLoadingRemote(true);
+      // Ranked places (villages, sectors, plots…) come back fast and go first; the slower
+      // all-layer feature search fills in below.
+      searchPlaces(q, { limit: 8 })
+        .then((json) => {
+          if (cancelled) return;
+          setPlaceResults(
+            (json.places || []).map((p, i) => ({
+              id: `place-${p.kind}-${i}-${p.name}`,
+              label: p.name,
+              subtitle: p.subtitle,
+              type: t(`search.kind.${p.kind}`),
+              icon: MapPin,
+              action: () => {
+                flyTo({
+                  lng: p.lng,
+                  lat: p.lat,
+                  zoom: p.zoom,
+                  name: p.name,
+                  type: t(`search.kind.${p.kind}`),
+                  district: p.district,
+                  tehsil: p.tehsil,
+                });
+                openInspector('overview');
+              },
+            }))
+          );
+        })
+        .catch(() => {
+          if (!cancelled) setPlaceResults([]);
+        });
       try {
         const json = await searchFeatures(q, { limit: 10 });
         if (!cancelled) {
@@ -81,11 +117,13 @@ export function CommandPalette() {
       cancelled = true;
       clearTimeout(timeout);
     };
-  }, [query, flyTo]);
+  }, [query, flyTo, openInspector, t]);
 
   const suggestions = useMemo(() => {
     const q = query.toLowerCase().trim();
     const items = [];
+
+    if (q.length >= 2) items.push(...placeResults);
 
     const commands = [
       { id: 'ws-explore', label: 'Switch to Explore', type: 'command', icon: Command, action: () => setActiveWorkspace('explore') },
@@ -140,7 +178,7 @@ export function CommandPalette() {
 
     items.push(...remoteResults);
     return items.slice(0, q ? 15 : 10);
-  }, [query, remoteResults, setActiveWorkspace, setBasemapId, toggleLayer, flyTo]);
+  }, [query, remoteResults, placeResults, setActiveWorkspace, setBasemapId, toggleLayer, flyTo]);
 
   useEffect(() => {
     setSelectedIndex(0);
@@ -171,9 +209,9 @@ export function CommandPalette() {
           value={query}
           onChange={(e) => setQuery(e.target.value)}
           onKeyDown={handleKeyDown}
-          placeholder="Search places, layers, commands…"
+          placeholder={t('search.placeholder')}
           className="min-w-0 flex-1 bg-transparent text-ds-title text-ds-text-primary outline-none placeholder:text-ds-text-tertiary"
-          aria-label="Search places, layers, and commands"
+          aria-label={t('search.placeholder')}
         />
         {loadingRemote ? <Skeleton variant="text" className="w-8" /> : null}
         <Badge>Esc</Badge>
@@ -216,7 +254,7 @@ export function CommandPalette() {
           <EmptyState
             icon={Search}
             title="No matches"
-            description="Try a place name, layer, or workspace command."
+            description={t('search.tip')}
           />
         ) : null}
       </div>
