@@ -27,6 +27,24 @@ export default defineConfig(({ command, mode }) => {
 
   return {
     plugins: [react()],
+    build: {
+      rolldownOptions: {
+        output: {
+          // Heavy libraries get their own long-cached chunks, so an app change does not
+          // force visitors to re-download the map engine or the chart library.
+          codeSplitting: {
+            groups: [
+              { name: 'maplibre', test: /node_modules[\\/]maplibre-gl/ },
+              { name: 'echarts', test: /node_modules[\\/](echarts|zrender)/ },
+              {
+                name: 'react-vendor',
+                test: /node_modules[\\/](react|react-dom|scheduler|@tanstack|zustand|framer-motion)[\\/]/,
+              },
+            ],
+          },
+        },
+      },
+    },
     server: {
       proxy: proxyApi,
     },
