@@ -19,6 +19,9 @@ services:
         value: production
       - key: NODE_VERSION
         value: "22"
+      # Render routes traffic to 0.0.0.0:$PORT (the API binds to 127.0.0.1 by default).
+      - key: HOST
+        value: 0.0.0.0
       - key: TRUST_PROXY_HOPS
         value: "1"
       - key: PUBLIC_APP_URL
