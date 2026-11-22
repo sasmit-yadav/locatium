@@ -17,6 +17,7 @@ import {
 import { InvestorPipelineBoard } from './InvestorPipelineBoard';
 import { MethodBadge } from './MethodBadge';
 import { ScoreWord } from './ui/ScoreWord';
+import { Disclaimer } from './ui/Disclaimer';
 import { useT } from '../i18n';
 
 function formatInr(value) {
@@ -162,8 +163,6 @@ export function InvestorPublicSection({
   portfolios = [],
   onPortfolioPdf,
   onDeletePortfolio,
-  alertEmail,
-  setAlertEmail,
   onSubscribeAlert,
   alertMsg,
   selectedSavedSearchId,
@@ -705,27 +704,17 @@ export function InvestorPublicSection({
             ) : null}
           </div>
 
-          <p className="text-[10px] leading-4 text-ds-text-tertiary">
-            {t('inv.disclaimer')}
-          </p>
+          <Disclaimer />
 
           {/* Quick actions for public */}
-          <div className="flex flex-col gap-2 sm:flex-row">
-            <input
-              type="email"
-              value={alertEmail}
-              onChange={(e) => setAlertEmail(e.target.value)}
-              placeholder="Email me if better matches appear"
-              className="h-9 min-w-0 flex-1 rounded-lg border border-ds-border-subtle bg-ds-surface-sunken px-3 text-xs"
-            />
-            <button
-              type="button"
-              onClick={onSubscribeAlert}
-              className="h-9 rounded-lg border border-ds-border-subtle px-3 text-xs font-semibold hover:border-ds-accent"
-            >
-              Alert me
-            </button>
-          </div>
+          {/* Alerts always go to the signed-in account's own confirmed email. */}
+          <button
+            type="button"
+            onClick={onSubscribeAlert}
+            className="h-9 w-full rounded-lg border border-ds-border-subtle px-3 text-xs font-semibold hover:border-ds-accent"
+          >
+            Email me if better matches appear
+          </button>
           {alertMsg ? <div className="text-xs text-ds-text-secondary">{alertMsg}</div> : null}
 
           <div className="flex flex-col gap-2 sm:flex-row">

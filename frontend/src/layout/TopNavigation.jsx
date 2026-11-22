@@ -6,7 +6,7 @@ import { IconButton } from '../components/ui/IconButton';
 import { GlobalSearch } from './GlobalSearch';
 import { useDashboardStore } from '../stores/useDashboardStore';
 import { layout } from '../design-system/tokens';
-import { getProfile } from '../services/auth';
+import { getProfile, openAccountDialog, useAuthStore } from '../services/auth';
 import { listNotifications } from '../services/portal';
 
 const WORKSPACES = [
@@ -34,8 +34,12 @@ export function TopNavigation({ onSearchSelect }) {
   const setLang = useLangStore((s) => s.setLang);
   const t = useT();
   const [dropdownOpen, setDropdownOpen] = useState(false);
-  const [profileLabel, setProfileLabel] = useState('Investor');
-  const [isAdmin, setIsAdmin] = useState(false);
+  const authUser = useAuthStore((s) => s.user);
+  const isGuest = !authUser || authUser.is_demo;
+  const isAdmin = authUser?.role === 'admin';
+  const profileLabel = isGuest
+    ? t('account.guest')
+    : authUser.display_name || String(authUser.email || '').split('@')[0] || 'Investor';
   const [notesOpen, setNotesOpen] = useState(false);
   const dropdownRef = useRef(null);
   const notesRef = useRef(null);
@@ -60,13 +64,7 @@ export function TopNavigation({ onSearchSelect }) {
   }, []);
 
   useEffect(() => {
-    getProfile()
-      .then((profile) => {
-        const prefix = profile.display_name || String(profile.email || '').split('@')[0];
-        setProfileLabel(prefix === 'demo' ? 'Demo investor' : prefix || profile.role || 'Investor');
-        setIsAdmin(profile.role === 'admin');
-      })
-      .catch(() => {});
+    getProfile().catch(() => {});
   }, []);
 
   // Hiding the entry is a courtesy, not the control: every /api/admin route independently
@@ -186,6 +184,15 @@ export function TopNavigation({ onSearchSelect }) {
             </div>
           ) : null}
         </div>
+        {isGuest ? (
+          <button
+            type="button"
+            onClick={() => openAccountDialog('signin')}
+            className="ml-ds-2 flex h-8 items-center rounded-ds-sm bg-ds-accent px-ds-3 text-xs font-bold text-white hover:bg-ds-accent-hover focus-visible:outline-none focus-visible:shadow-ds-focus"
+          >
+            {t('account.signIn')}
+          </button>
+        ) : null}
         <button
           type="button"
           onClick={() => {

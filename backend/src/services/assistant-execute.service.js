@@ -100,11 +100,9 @@ async function executeAction({ user, type, params = {} }) {
       };
     }
     case 'emailReport': {
-      const to = params.email || user.email;
-      if (!to) throw AppError.badRequest('email is required');
+      // Always the user's own verified address — never an address taken from the chat.
       if (!params.zoneId) throw AppError.badRequest('zoneId is required');
       const emailed = await investorReports.emailReport({
-        to,
         zoneId: params.zoneId,
         userId: user.id,
         query: {},

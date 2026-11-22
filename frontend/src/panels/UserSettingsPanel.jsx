@@ -3,6 +3,7 @@ import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query';
 import { CircleUser, Mail, ShieldCheck, CalendarClock, Database } from 'lucide-react';
 import { getProfile, updateProfile } from '../services/auth';
 import { getTransparencyStats, getWorkspaceStats } from '../services/portal';
+import { AccountSecurity } from '../components/account/AccountSecurity';
 
 function InfoRow({ icon: Icon, label, value }) {
   return (
@@ -72,7 +73,8 @@ export function UserSettingsPanel() {
           )}
           {profile ? (
             <>
-              <InfoRow icon={Mail} label="Email" value={profile.email} />
+              <AccountSecurity profile={profile} />
+              {!profile.is_demo ? <InfoRow icon={Mail} label="Email" value={profile.email} /> : null}
               <InfoRow icon={ShieldCheck} label="Role" value={profile.role} />
               <InfoRow
                 icon={CalendarClock}

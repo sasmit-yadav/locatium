@@ -111,6 +111,8 @@ try {
     $env:ML_SERVICE_URL = 'http://127.0.0.1:8002'
     $env:ML_SERVICE_TIMEOUT_MS = '75000'
     $env:DEMO_MODE = 'true'
+    # Links in verify-email / reset-password emails point at the public frontend.
+    $env:PUBLIC_APP_URL = $frontendUrl
     $env:DEMO_USER_EMAIL = 'demo@locatium.app'
     $env:REPORT_STORAGE = 'database'
 

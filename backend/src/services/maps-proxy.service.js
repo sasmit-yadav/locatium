@@ -458,7 +458,9 @@ async function identifyAtPoint(slug, payload) {
   const lat = Number(payload.lat);
   if (Number.isNaN(lng) || Number.isNaN(lat)) throw AppError.badRequest('lng and lat must be numbers');
 
-  const tables = postgisRegistry.getTablesForLayer(slug);
+  // Tables the browser identifies itself (static PMTiles layers) are skipped here.
+  const exclude = new Set(Array.isArray(payload.excludeTables) ? payload.excludeTables : []);
+  const tables = postgisRegistry.getTablesForLayer(slug).filter((t) => !exclude.has(t));
   const pool = getPool();
   if (!pool) throw AppError.serviceUnavailable('Database not configured');
 

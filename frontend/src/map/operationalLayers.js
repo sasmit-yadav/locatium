@@ -3,6 +3,17 @@ import { getLayersForCategory, LAYER_CONFIGS } from '../config/layer-registry';
 import { getMapsApiOrigin, getTableTileUrl } from '../config/api';
 import { HARYANA_BOUNDS } from '../config/layers';
 import { ensureOperationalMapIcons } from './mapIcons';
+import maplibregl from 'maplibre-gl';
+import { Protocol } from 'pmtiles';
+import { isStaticTileLayer, staticTileUrl } from '../config/static-tiles';
+
+let pmtilesProtocolAdded = false;
+function ensurePmtilesProtocol() {
+  if (pmtilesProtocolAdded) return;
+  const protocol = new Protocol();
+  maplibregl.addProtocol('pmtiles', protocol.tile);
+  pmtilesProtocolAdded = true;
+}
 
 export const SOURCE_PREFIX = 'operational-src-';
 export const LAYER_PREFIX = 'operational-lyr-';
@@ -65,6 +76,12 @@ function buildCirclePaint(cfg, opacityMultiplier) {
 function ensureVectorSource(map, cfg) {
   const srcId = `${SOURCE_PREFIX}${cfg.id}`;
   if (map.getSource(srcId)) return srcId;
+  if (isStaticTileLayer(cfg.id)) {
+    // Pre-built file (see config/static-tiles.js); MapLibre overzooms past its z14 detail.
+    ensurePmtilesProtocol();
+    map.addSource(srcId, { type: 'vector', url: staticTileUrl(cfg.id) });
+    return srcId;
+  }
   map.addSource(srcId, {
     type: 'vector',
     tiles: [getTableTileUrl(cfg.id)],
@@ -328,4 +345,42 @@ export function syncOperationalLayers(map, visibility, zoom) {
 
 export function isOperationalSourceId(sourceId) {
   return typeof sourceId === 'string' && sourceId.startsWith(SOURCE_PREFIX);
+}
+
+/**
+ * Identify for static (PMTiles) layers: reads attributes from the features drawn under the
+ * click, in the same shape as the API's identify hits, so the details panel is unchanged.
+ * Returns one entry per visible category (layerKey) plus the list of tables handled here,
+ * which the API is then told to skip.
+ */
+export function identifyStaticLayers(map, point, categoryIds, tolerancePx = 6) {
+  const box = [
+    [point.x - tolerancePx, point.y - tolerancePx],
+    [point.x + tolerancePx, point.y + tolerancePx],
+  ];
+  const layers = [];
+  const tables = [];
+  for (const categoryId of categoryIds) {
+    const staticCfgs = getLayersForCategory(categoryId).filter((cfg) => isStaticTileLayer(cfg.id));
+    if (!staticCfgs.length) continue;
+    const hits = [];
+    for (const cfg of staticCfgs) {
+      tables.push(cfg.id);
+      const layerIds = subLayerIds(cfg.id).filter((id) => map.getLayer(id));
+      if (!layerIds.length) continue;
+      const seen = new Set();
+      for (const f of map.queryRenderedFeatures(box, { layers: layerIds })) {
+        const attrs = { ...(f.properties || {}) };
+        // A feature split across tile edges is returned once per tile; keep one.
+        const key = attrs.id ?? attrs.objectid ?? JSON.stringify(attrs);
+        if (seen.has(key)) continue;
+        seen.add(key);
+        const value = attrs.name || attrs.feederid || attrs.divisionname || attrs.id || attrs.objectid || '';
+        hits.push({ layerId: cfg.id, layerName: cfg.id, displayFieldName: '', value: String(value), attributes: attrs });
+        if (seen.size >= 25) break;
+      }
+    }
+    layers.push({ layerKey: categoryId, ok: true, hits, rawResultCount: hits.length });
+  }
+  return { layers, tables };
 }

@@ -1,4 +1,5 @@
 const { getPool } = require('../db/pool');
+const usageQuota = require('./usage-quota.service');
 const { AppError } = require('../middleware/error.middleware');
 const crypto = require('crypto');
 const investorOpportunities = require('./investor-opportunities.service');
@@ -418,15 +419,42 @@ async function upsertPortfolio(userId, { id, name, zoneIds, notes }) {
   return rows[0];
 }
 
-async function subscribeSearchAlert(userId, { savedSearchId, email, minScoreDelta = 5 }) {
+const MAX_ALERTS_PER_USER = 10;
+
+/**
+ * Alerts are always delivered to the account's own verified email. Any `email` sent by the
+ * client is ignored (kept in the signature for older clients) so alerts cannot target strangers.
+ */
+async function subscribeSearchAlert(userId, { savedSearchId, minScoreDelta = 5 } = {}) {
   const pool = ensurePool();
-  if (!email?.trim()) throw AppError.badRequest('email is required');
+  const { rows: users } = await pool.query(
+    `SELECT email, email_verified_at FROM users WHERE id = $1`,
+    [userId]
+  );
+  const owner = users[0];
+  if (!owner) throw AppError.unauthorized('User not found');
+  if (usageQuota.isDemoEmail(owner.email)) {
+    throw AppError.forbidden('Create a free account to get email alerts.');
+  }
+  if (!owner.email_verified_at) {
+    throw AppError.forbidden('Please confirm your email address first (check your inbox), then try again.');
+  }
+  const email = owner.email;
+  const delta = Math.min(50, Math.max(1, Number(minScoreDelta) || 5));
+  const { rows: countRows } = await pool.query(
+    `SELECT count(*)::int AS n FROM investor_search_alerts WHERE user_id = $1`,
+    [userId]
+  ).catch(() => ({ rows: [{ n: 0 }] }));
+  if ((countRows[0]?.n || 0) >= MAX_ALERTS_PER_USER) {
+    throw AppError.badRequest(`You can have at most ${MAX_ALERTS_PER_USER} alerts. Delete one first.`);
+  }
+  const minScoreDeltaSafe = delta;
   try {
     const { rows } = await pool.query(
       `INSERT INTO investor_search_alerts (user_id, saved_search_id, email, min_score_delta)
        VALUES ($1, $2, $3, $4)
        RETURNING id, saved_search_id AS "savedSearchId", email, min_score_delta AS "minScoreDelta", active, created_at AS "createdAt"`,
-      [userId, savedSearchId || null, email.trim(), minScoreDelta]
+      [userId, savedSearchId || null, email, minScoreDeltaSafe]
     );
     return {
       ...rows[0],

@@ -1,9 +1,10 @@
 const { getPool } = require('../db/pool');
 
 function getClientIp(req) {
+  // req.ip honours TRUST_PROXY_HOPS; the raw first X-Forwarded-For entry can be forged.
+  if (req.ip) return req.ip;
   const forwarded = req.headers['x-forwarded-for'];
-  if (forwarded) return String(forwarded).split(',')[0].trim();
-  return req.ip || null;
+  return forwarded ? String(forwarded).split(',')[0].trim() : null;
 }
 
 async function writeAudit({ userId = null, action, resourceType = null, resourceId = null, metadata = {}, ipAddress = null }) {

@@ -7,7 +7,7 @@
 require('dotenv').config({ path: require('path').join(__dirname, '..', '.env') });
 const assert = require('assert').strict;
 
-const API_URL = process.env.API_URL || `http://localhost:${process.env.PORT || 3001}`;
+const API_URL = process.env.API_URL || `http://localhost:${process.env.PORT || 3002}`;
 const TEST_USER_EMAIL = process.env.TEST_USER_EMAIL;
 const TEST_USER_PASSWORD = process.env.TEST_USER_PASSWORD;
 

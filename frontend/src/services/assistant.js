@@ -54,13 +54,19 @@ export async function askLocatiumStream(payload, handlers = {}) {
 
   if (!res.ok) {
     let message = `Assistant failed (${res.status})`;
+    let data = {};
     try {
-      const data = await res.json();
+      data = await res.json();
       message = data.error || data.message || message;
     } catch {
       /* SSE endpoints don't always return JSON errors */
     }
-    throw new Error(message);
+    const err = new Error(message);
+    if (res.status === 429 || data.code === 'DAILY_LIMIT') {
+      err.code = 'DAILY_LIMIT';
+      err.messageHi = data.errorHi;
+    }
+    throw err;
   }
   if (!res.body) throw new Error('Streaming not supported by this browser.');
 

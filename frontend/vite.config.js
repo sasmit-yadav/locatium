@@ -5,7 +5,7 @@ import react from '@vitejs/plugin-react';
 // https://vite.dev/config/
 export default defineConfig(({ command, mode }) => {
   const env = loadEnv(mode, cwd(), '');
-  const apiTarget = (env.VITE_API_URL || 'http://localhost:3001').replace(/\/+$/, '');
+  const apiTarget = (env.VITE_API_URL || 'http://localhost:3002').replace(/\/+$/, '');
 
   if (
     command === 'build' &&

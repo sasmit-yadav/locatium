@@ -8,8 +8,10 @@ const {
   jwtRefreshSecret,
   jwtAccessExpires,
   jwtRefreshExpires,
+  appPublicUrl,
   passwordMinLength,
 } = require('../config');
+const emailService = require('./email.service');
 const { sha256Hex } = require('../utils/hash-token');
 
 const BCRYPT_ROUNDS = 12;
@@ -44,6 +46,30 @@ function validatePassword(password) {
   if (typeof password !== 'string' || password.length < passwordMinLength) {
     throw AppError.badRequest(`Password must be at least ${passwordMinLength} characters`);
   }
+  // bcrypt ignores everything after 72 bytes; refuse rather than silently truncate.
+  if (Buffer.byteLength(password, 'utf8') > 72) {
+    throw AppError.badRequest('Password must be at most 72 bytes');
+  }
+}
+
+function publicUser(u) {
+  return {
+    id: u.id,
+    email: u.email,
+    role: u.role,
+    display_name: u.display_name || null,
+    email_verified: Boolean(u.email_verified_at),
+    is_demo: isDemoEmail(u.email),
+    created_at: u.created_at,
+  };
+}
+
+function isDemoEmail(email) {
+  return typeof email === 'string' && email.toLowerCase().endsWith(`@${DEMO_EMAIL_DOMAIN}`);
+}
+
+function registrationOpen() {
+  return process.env.ALLOW_PUBLIC_REGISTRATION !== 'false';
 }
 
 function issueAccessToken(user, expiresIn = jwtAccessExpires) {
@@ -105,10 +131,82 @@ async function purgeExpiredDemoUsers() {
   return { deleted: rowCount || 0 };
 }
 
-function issueRefreshToken(userId) {
-  return jwt.sign({ sub: userId, typ: 'refresh' }, jwtRefreshSecret, {
-    expiresIn: jwtRefreshExpires,
+function issueRefreshToken(userId, expiresIn = jwtRefreshExpires) {
+  return jwt.sign(
+    // jti makes two tokens issued in the same second distinct (token_hash lookups).
+    { sub: userId, typ: 'refresh', jti: crypto.randomBytes(8).toString('hex') },
+    jwtRefreshSecret,
+    { expiresIn }
+  );
+}
+
+async function issueSession(db, user) {
+  const accessToken = issueAccessToken(user);
+  const refreshToken = issueRefreshToken(user.id);
+  await persistRefreshToken(db, user.id, refreshToken);
+  return { user: publicUser(user), accessToken, refreshToken };
+}
+
+// ── One-time tokens (verify email, reset password) ──────────────────────────
+const TOKEN_TTL_MIN = { verify_email: 24 * 60, reset_password: 30 };
+const TOKEN_RESEND_COOLDOWN_SEC = 60;
+
+async function createOneTimeToken(db, userId, purpose) {
+  const recent = await db.query(
+    `SELECT 1 FROM auth_tokens
+     WHERE user_id = $1 AND purpose = $2 AND used_at IS NULL
+       AND created_at > now() - make_interval(secs => $3)
+     LIMIT 1`,
+    [userId, purpose, TOKEN_RESEND_COOLDOWN_SEC]
+  );
+  if (recent.rows.length) return null; // throttled: a fresh link was just sent
+  // Only the newest link of each kind works.
+  await db.query(
+    `UPDATE auth_tokens SET used_at = now() WHERE user_id = $1 AND purpose = $2 AND used_at IS NULL`,
+    [userId, purpose]
+  );
+  const raw = crypto.randomBytes(32).toString('base64url');
+  await db.query(
+    `INSERT INTO auth_tokens (user_id, purpose, token_hash, expires_at)
+     VALUES ($1, $2, $3, now() + make_interval(mins => $4))`,
+    [userId, purpose, sha256Hex(raw), TOKEN_TTL_MIN[purpose]]
+  );
+  return raw;
+}
+
+async function consumeOneTimeToken(db, rawToken, purpose) {
+  if (typeof rawToken !== 'string' || rawToken.trim().length < 20) {
+    throw AppError.badRequest('This link is invalid or has expired');
+  }
+  const { rows } = await db.query(
+    `UPDATE auth_tokens SET used_at = now()
+     WHERE token_hash = $1 AND purpose = $2 AND used_at IS NULL AND expires_at > now()
+     RETURNING user_id`,
+    [sha256Hex(rawToken.trim()), purpose]
+  );
+  if (!rows[0]) throw AppError.badRequest('This link is invalid or has expired');
+  return rows[0].user_id;
+}
+
+async function sendVerificationEmail(db, user) {
+  const raw = await createOneTimeToken(db, user.id, 'verify_email');
+  if (!raw) return { sent: false, throttled: true };
+  const link = `${appPublicUrl}/verify-email?token=${encodeURIComponent(raw)}`;
+  await emailService.sendEmail({
+    to: user.email,
+    subject: 'Confirm your LOCATIUM email / अपना ईमेल पुष्टि करें',
+    text: [
+      'Welcome to LOCATIUM.',
+      '',
+      'Please confirm your email address by opening this link (valid for 24 hours):',
+      link,
+      '',
+      'LOCATIUM में आपका स्वागत है। अपना ईमेल पुष्टि करने के लिए ऊपर दिया गया लिंक खोलें (24 घंटे के लिए मान्य)।',
+      '',
+      "If you didn't create this account, you can ignore this email.",
+    ].join('\n'),
   });
+  return { sent: true };
 }
 
 async function persistRefreshToken(db, userId, refreshToken) {
@@ -122,46 +220,65 @@ async function persistRefreshToken(db, userId, refreshToken) {
   );
 }
 
-async function register({ email, password }) {
-  if (
-    process.env.NODE_ENV === 'production' &&
-    process.env.ALLOW_PUBLIC_REGISTRATION !== 'true'
-  ) {
-    throw AppError.forbidden('Public registration is disabled for this showcase');
+/**
+ * Creates a real account. If the caller is currently using an isolated demo account, that
+ * account is upgraded in place, so everything they saved as a guest is kept.
+ */
+async function register({ email, password, acceptTerms, displayName } = {}, { currentUser } = {}) {
+  if (!registrationOpen()) {
+    throw AppError.forbidden('New sign-ups are closed right now');
   }
   assertJwtSecrets();
   const pool = assertDb();
   const emailNorm = validateEmail(email);
+  if (isDemoEmail(emailNorm)) throw AppError.badRequest('Please use your own email address');
   validatePassword(password);
+  if (acceptTerms !== true) {
+    throw AppError.badRequest('Please accept the Terms of Use and Privacy Policy');
+  }
+  const name = typeof displayName === 'string' && displayName.trim() ? displayName.trim().slice(0, 80) : null;
 
   const passwordHash = await bcrypt.hash(password, BCRYPT_ROUNDS);
 
+  const client = await pool.connect();
   try {
-    const { rows } = await pool.query(
-      `INSERT INTO users (email, password_hash, role)
-       VALUES ($1, $2, 'investor')
-       RETURNING id, email, role, created_at`,
-      [emailNorm, passwordHash]
+    await client.query('BEGIN');
+    let user;
+    if (currentUser?.id && isDemoEmail(currentUser.email)) {
+      const { rows } = await client.query(
+        `UPDATE users
+         SET email = $2, password_hash = $3, display_name = $4, terms_accepted_at = now(), updated_at = now()
+         WHERE id = $1 AND email LIKE $5
+         RETURNING id, email, role, display_name, email_verified_at, created_at`,
+        [currentUser.id, emailNorm, passwordHash, name, DEMO_EMAIL_PATTERN]
+      );
+      user = rows[0];
+      // Old demo refresh tokens expire with the demo TTL; replace them with normal ones.
+      if (user) await client.query(`DELETE FROM refresh_tokens WHERE user_id = $1`, [user.id]);
+    }
+    if (!user) {
+      const { rows } = await client.query(
+        `INSERT INTO users (email, password_hash, role, display_name, terms_accepted_at)
+         VALUES ($1, $2, 'investor', $3, now())
+         RETURNING id, email, role, display_name, email_verified_at, created_at`,
+        [emailNorm, passwordHash, name]
+      );
+      user = rows[0];
+    }
+    const session = await issueSession(client, user);
+    await client.query('COMMIT');
+    await sendVerificationEmail(pool, user).catch((err) =>
+      console.warn('[auth] verification email failed:', err.message)
     );
-    const user = rows[0];
-    const accessToken = issueAccessToken(user);
-    const refreshToken = issueRefreshToken(user.id);
-    await persistRefreshToken(pool, user.id, refreshToken);
-    return {
-      user: {
-        id: user.id,
-        email: user.email,
-        role: user.role,
-        created_at: user.created_at,
-      },
-      accessToken,
-      refreshToken,
-    };
+    return { ...session, upgradedFromDemo: Boolean(currentUser?.id && isDemoEmail(currentUser.email)) };
   } catch (err) {
+    await client.query('ROLLBACK').catch(() => {});
     if (err.code === '23505') {
       throw AppError.conflict('An account with this email already exists');
     }
     throw err;
+  } finally {
+    client.release();
   }
 }
 
@@ -174,32 +291,144 @@ async function login({ email, password }) {
   }
 
   const { rows } = await pool.query(
-    `SELECT id, email, password_hash, role, created_at FROM users WHERE email = $1`,
+    `SELECT id, email, password_hash, role, display_name, email_verified_at, created_at
+     FROM users WHERE email = $1`,
     [emailNorm]
   );
-  if (rows.length === 0) {
-    throw AppError.unauthorized('Invalid email or password');
-  }
+  // Compare against a dummy hash when the email is unknown, so response time does not
+  // reveal which emails have accounts.
   const user = rows[0];
-  const match = await bcrypt.compare(password, user.password_hash);
-  if (!match) {
+  const match = await bcrypt.compare(password, user ? user.password_hash : DUMMY_HASH);
+  if (!user || !match) {
     throw AppError.unauthorized('Invalid email or password');
   }
+  return issueSession(pool, user);
+}
 
-  const accessToken = issueAccessToken(user);
-  const refreshToken = issueRefreshToken(user.id);
-  await persistRefreshToken(pool, user.id, refreshToken);
+const DUMMY_HASH = bcrypt.hashSync('locatium-timing-equaliser', BCRYPT_ROUNDS);
 
-  return {
-    user: {
-      id: user.id,
-      email: user.email,
-      role: user.role,
-      created_at: user.created_at,
-    },
-    accessToken,
-    refreshToken,
+async function verifyEmail({ token } = {}) {
+  const pool = assertDb();
+  const userId = await consumeOneTimeToken(pool, token, 'verify_email');
+  const { rows } = await pool.query(
+    `UPDATE users SET email_verified_at = COALESCE(email_verified_at, now()), updated_at = now()
+     WHERE id = $1
+     RETURNING id, email, role, display_name, email_verified_at, created_at`,
+    [userId]
+  );
+  if (!rows[0]) throw AppError.badRequest('This link is invalid or has expired');
+  return { ok: true, user: publicUser(rows[0]) };
+}
+
+async function resendVerification(userId) {
+  const pool = assertDb();
+  const { rows } = await pool.query(
+    `SELECT id, email, email_verified_at FROM users WHERE id = $1`,
+    [userId]
+  );
+  const user = rows[0];
+  if (!user) throw AppError.unauthorized('User not found');
+  if (isDemoEmail(user.email)) throw AppError.badRequest('Create an account first');
+  if (user.email_verified_at) return { ok: true, alreadyVerified: true };
+  const r = await sendVerificationEmail(pool, user);
+  return { ok: true, sent: r.sent, throttled: Boolean(r.throttled) };
+}
+
+/** Always answers the same way, so it cannot be used to find out who has an account. */
+async function forgotPassword({ email } = {}) {
+  const pool = assertDb();
+  const emailNorm = validateEmail(email);
+  const generic = {
+    ok: true,
+    message: 'If an account exists for that email, a reset link has been sent.',
   };
+  if (isDemoEmail(emailNorm)) return generic;
+  const { rows } = await pool.query(`SELECT id, email FROM users WHERE email = $1`, [emailNorm]);
+  const user = rows[0];
+  if (!user) return generic;
+  const raw = await createOneTimeToken(pool, user.id, 'reset_password');
+  if (!raw) return generic;
+  const link = `${appPublicUrl}/reset-password?token=${encodeURIComponent(raw)}`;
+  await emailService
+    .sendEmail({
+      to: user.email,
+      subject: 'Reset your LOCATIUM password / पासवर्ड रीसेट करें',
+      text: [
+        'Someone (hopefully you) asked to reset your LOCATIUM password.',
+        '',
+        'Open this link to choose a new password (valid for 30 minutes):',
+        link,
+        '',
+        'अपना नया पासवर्ड चुनने के लिए ऊपर दिया गया लिंक खोलें (30 मिनट के लिए मान्य)।',
+        '',
+        "If you didn't ask for this, ignore this email — your password stays the same.",
+      ].join('\n'),
+    })
+    .catch((err) => console.warn('[auth] reset email failed:', err.message));
+  return generic;
+}
+
+/** Sets a new password and signs out every device. */
+async function resetPassword({ token, password } = {}) {
+  const pool = assertDb();
+  validatePassword(password);
+  const userId = await consumeOneTimeToken(pool, token, 'reset_password');
+  const passwordHash = await bcrypt.hash(password, BCRYPT_ROUNDS);
+  // Opening the reset link proves the user controls the inbox, so it also verifies it.
+  await pool.query(
+    `UPDATE users SET password_hash = $2, email_verified_at = COALESCE(email_verified_at, now()), updated_at = now()
+     WHERE id = $1`,
+    [userId, passwordHash]
+  );
+  await pool.query(`DELETE FROM refresh_tokens WHERE user_id = $1`, [userId]);
+  return { ok: true, message: 'Password changed. Please sign in with your new password.' };
+}
+
+async function loadUserWithHash(pool, userId) {
+  const { rows } = await pool.query(
+    `SELECT id, email, password_hash, role, display_name, email_verified_at, created_at
+     FROM users WHERE id = $1`,
+    [userId]
+  );
+  if (!rows[0]) throw AppError.unauthorized('User not found');
+  return rows[0];
+}
+
+/** Changes the password, signs out every other device and returns a fresh session. */
+async function changePassword(userId, { currentPassword, newPassword } = {}) {
+  const pool = assertDb();
+  const user = await loadUserWithHash(pool, userId);
+  if (isDemoEmail(user.email)) throw AppError.badRequest('Create an account first');
+  if (typeof currentPassword !== 'string' || !(await bcrypt.compare(currentPassword, user.password_hash))) {
+    throw AppError.badRequest('Current password is incorrect');
+  }
+  validatePassword(newPassword);
+  const passwordHash = await bcrypt.hash(newPassword, BCRYPT_ROUNDS);
+  await pool.query(`UPDATE users SET password_hash = $2, updated_at = now() WHERE id = $1`, [
+    userId,
+    passwordHash,
+  ]);
+  await pool.query(`DELETE FROM refresh_tokens WHERE user_id = $1`, [userId]);
+  return issueSession(pool, user);
+}
+
+/**
+ * Permanently deletes the account and everything it owns (every user table cascades;
+ * audit log rows keep the action but lose the user link).
+ */
+async function deleteAccount(userId, { password } = {}) {
+  const pool = assertDb();
+  const user = await loadUserWithHash(pool, userId);
+  if (user.role === 'admin') {
+    throw AppError.forbidden('Admin accounts must be removed by another admin');
+  }
+  if (!isDemoEmail(user.email)) {
+    if (typeof password !== 'string' || !(await bcrypt.compare(password, user.password_hash))) {
+      throw AppError.badRequest('Password is incorrect');
+    }
+  }
+  await pool.query(`DELETE FROM users WHERE id = $1`, [userId]);
+  return { ok: true, deleted: true };
 }
 
 async function loginDemo() {
@@ -212,14 +441,13 @@ async function loginDemo() {
 
   if (demoIsolated()) {
     const user = await createIsolatedDemoUser(pool);
+    // Short access token + a refresh token that lives exactly as long as the demo account.
+    const refreshToken = issueRefreshToken(user.id, `${demoTtlDays()}d`);
+    await persistRefreshToken(pool, user.id, refreshToken);
     return {
-      user: {
-        id: user.id,
-        email: user.email,
-        role: user.role,
-        created_at: user.created_at,
-      },
-      accessToken: issueAccessToken(user, `${demoTtlDays()}d`),
+      user: publicUser(user),
+      accessToken: issueAccessToken(user),
+      refreshToken,
       demo: true,
       isolated: true,
       expiresInDays: demoTtlDays(),
@@ -281,7 +509,7 @@ async function refresh({ refreshToken }) {
   }
 
   const userResult = await pool.query(
-    `SELECT id, email, role, created_at FROM users WHERE id = $1`,
+    `SELECT id, email, role, display_name, email_verified_at, created_at FROM users WHERE id = $1`,
     [payload.sub]
   );
   if (userResult.rows.length === 0) {
@@ -289,7 +517,7 @@ async function refresh({ refreshToken }) {
   }
   const user = userResult.rows[0];
   const accessToken = issueAccessToken(user);
-  return { accessToken, user: { id: user.id, email: user.email, role: user.role } };
+  return { accessToken, user: publicUser(user) };
 }
 
 async function logout({ refreshToken }) {
@@ -317,40 +545,15 @@ async function logout({ refreshToken }) {
 
 async function getProfile(userId) {
   const pool = assertDb();
-  try {
-    const { rows } = await pool.query(
-      `SELECT id, email, role, display_name, created_at, updated_at FROM users WHERE id = $1`,
-      [userId]
-    );
-    if (rows.length === 0) {
-      throw AppError.unauthorized('User not found');
-    }
-    const u = rows[0];
-    return {
-      id: u.id,
-      email: u.email,
-      role: u.role,
-      display_name: u.display_name || null,
-      created_at: u.created_at,
-      updated_at: u.updated_at,
-    };
-  } catch (err) {
-    if (err.code !== '42703') throw err;
-    const { rows } = await pool.query(
-      `SELECT id, email, role, created_at, updated_at FROM users WHERE id = $1`,
-      [userId]
-    );
-    if (rows.length === 0) throw AppError.unauthorized('User not found');
-    const u = rows[0];
-    return {
-      id: u.id,
-      email: u.email,
-      role: u.role,
-      display_name: null,
-      created_at: u.created_at,
-      updated_at: u.updated_at,
-    };
+  const { rows } = await pool.query(
+    `SELECT id, email, role, display_name, email_verified_at, created_at, updated_at
+     FROM users WHERE id = $1`,
+    [userId]
+  );
+  if (rows.length === 0) {
+    throw AppError.unauthorized('User not found');
   }
+  return { ...publicUser(rows[0]), updated_at: rows[0].updated_at };
 }
 
 async function updateProfile(userId, { displayName } = {}) {
@@ -366,19 +569,11 @@ async function updateProfile(userId, { displayName } = {}) {
     const { rows } = await pool.query(
       `UPDATE users SET display_name = $2, updated_at = now()
        WHERE id = $1
-       RETURNING id, email, role, display_name, created_at, updated_at`,
+       RETURNING id, email, role, display_name, email_verified_at, created_at, updated_at`,
       [userId, name]
     );
     if (!rows[0]) throw AppError.unauthorized('User not found');
-    const u = rows[0];
-    return {
-      id: u.id,
-      email: u.email,
-      role: u.role,
-      display_name: u.display_name,
-      created_at: u.created_at,
-      updated_at: u.updated_at,
-    };
+    return { ...publicUser(rows[0]), updated_at: rows[0].updated_at };
   } catch (err) {
     if (err.code === '42703') {
       throw AppError.serviceUnavailable('Run db:migrate to enable profile names');
@@ -389,6 +584,14 @@ async function updateProfile(userId, { displayName } = {}) {
 
 module.exports = {
   register,
+  verifyEmail,
+  resendVerification,
+  forgotPassword,
+  resetPassword,
+  changePassword,
+  deleteAccount,
+  isDemoEmail,
+  registrationOpen,
   login,
   loginDemo,
   purgeExpiredDemoUsers,

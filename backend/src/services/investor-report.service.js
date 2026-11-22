@@ -5,6 +5,7 @@ const { AppError } = require('../middleware/error.middleware');
 const { getPool } = require('../db/pool');
 const investorOpportunities = require('./investor-opportunities.service');
 const emailService = require('./email.service');
+const usageQuota = require('./usage-quota.service');
 
 const REPORTS_DIR = path.join(__dirname, '..', '..', 'reports');
 let investorReportsTableReady = false;
@@ -671,7 +672,40 @@ async function getReportById(reportId, userId) {
   return { report, buffer };
 }
 
-async function emailReport({ to, zoneId, reportId, message, query = {}, userId }) {
+/**
+ * Reports are only ever emailed to the signed-in user's own, verified address, with no
+ * free text: the endpoint cannot be used to send mail to strangers from our domain.
+ * `to` is accepted for backwards compatibility but must match the account email.
+ */
+async function resolveOwnRecipient(userId, requestedTo) {
+  const pool = getPool();
+  if (!pool) throw AppError.serviceUnavailable('Database is not configured');
+  const { rows } = await pool.query(
+    `SELECT id, email, role, email_verified_at FROM users WHERE id = $1`,
+    [userId]
+  );
+  const user = rows[0];
+  if (!user) throw AppError.unauthorized('User not found');
+  if (usageQuota.isDemoEmail(user.email)) {
+    throw AppError.forbidden('Create a free account to email reports to yourself. You can still download the PDF.');
+  }
+  if (!user.email_verified_at) {
+    throw AppError.forbidden('Please confirm your email address first (check your inbox), then try again.');
+  }
+  if (requestedTo && String(requestedTo).trim().toLowerCase() !== user.email.toLowerCase()) {
+    throw AppError.badRequest('Reports can only be emailed to your own account email.');
+  }
+  return user;
+}
+
+async function emailReport({ to, zoneId, reportId, query = {}, userId }) {
+  const owner = await resolveOwnRecipient(userId, to);
+  if (!reportId && (!zoneId || typeof zoneId !== 'string' || !zoneId.trim())) {
+    throw AppError.badRequest('zoneId or reportId is required');
+  }
+  await usageQuota.consume('email_report', owner, {
+    message: 'You have reached today\'s limit for emailed reports. You can still download the PDF.',
+  });
   let buffer;
   let filename;
   let metadata;
@@ -701,8 +735,6 @@ async function emailReport({ to, zoneId, reportId, message, query = {}, userId }
   const score = analysis?.opportunity?.opportunityScore ?? metadata?.opportunity_score ?? 'N/A';
   const subject = `LOCATIUM investment brief: ${zoneName}`;
   const text = [
-    message?.trim() || '',
-    message?.trim() ? '' : null,
     `Zone: ${zoneName}`,
     `District: ${district}`,
     `Opportunity score: ${score}`,
@@ -714,7 +746,7 @@ async function emailReport({ to, zoneId, reportId, message, query = {}, userId }
     .join('\n');
 
   const delivery = await emailService.sendReportEmail({
-    to,
+    to: owner.email,
     subject,
     text,
     filename,

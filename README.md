@@ -4,7 +4,7 @@ Haryana geospatial investment intelligence — official HARSAC layers, PostGIS a
 
 **Stack:** React + MapLibre · Node.js + Express + PostGIS · optional FastAPI ML
 
-**Public showcase:** `https://locatium-eta.vercel.app` (frontend). Postgres and ML stay on the private machine; see [`DEPLOYMENT.md`](./DEPLOYMENT.md).
+**Public site:** `https://locatium-eta.vercel.app`. Free 24/7 hosting (Vercel + Render + Neon, compact ~438 MB database) is described in [`DEPLOYMENT.md`](./DEPLOYMENT.md#free-hosting-no-vm-neon--render--vercel).
 
 **Docs index:** [`docs/README.md`](./docs/README.md)
 
@@ -30,7 +30,7 @@ npm run db:migrate
 npm run dev
 ```
 
-Default in `.env.example` is port **3001**. This repo’s verified local / showcase setup uses **3002** (`PORT=3002` in `backend/.env`, `VITE_API_URL=http://localhost:3002` in `frontend/.env`).
+The API runs on port **3002** (`PORT=3002` in `backend/.env`, `VITE_API_URL=http://localhost:3002` in `frontend/.env`).
 
 ### Frontend
 
@@ -74,7 +74,7 @@ npm run verify                  # DB, JWT, ports
 node scripts/test-api-smoke.js  # backend must be running
 ```
 
-If the API is on 3002:
+The smoke test talks to the API on 3002:
 
 ```powershell
 $env:API_URL='http://localhost:3002'; node scripts/test-api-smoke.js

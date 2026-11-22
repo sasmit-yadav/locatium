@@ -29,11 +29,9 @@ export function ReportsPanel() {
   });
 
   async function handleEmail(report) {
-    const to = window.prompt('Send report to email address:');
-    if (!to?.trim()) return;
-
     try {
-      const result = await emailInvestorReport({ to: to.trim(), reportId: report.id });
+      // Always delivered to the signed-in user's own confirmed email.
+      const result = await emailInvestorReport({ reportId: report.id });
       const modeNote =
         result.deliveryMode === 'outbox'
           ? "Email isn't set up on this server, so nothing was sent. The report is saved: download it from Reports."

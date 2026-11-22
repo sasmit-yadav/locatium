@@ -4,6 +4,7 @@ import 'maplibre-gl/dist/maplibre-gl.css';
 import { DATA_LAYERS, DEFAULT_ZOOM, INITIAL_MAP_CENTER } from '../config/layers';
 import { getBasemapStyleInput } from '../config/basemaps';
 import {
+  identifyStaticLayers,
   isOperationalSourceId,
   refreshClusterSources,
   syncOperationalLayers,
@@ -266,8 +267,11 @@ export function MapLibreMapView({
 
       const b = map.getBounds();
       const el = map.getContainer();
+      const staticResult = identifyStaticLayers(map, e.point, visibleLayerIds);
       cb({
         kind: 'identify',
+        staticLayers: staticResult.layers,
+        staticTables: staticResult.tables,
         lng: e.lngLat.lng,
         lat: e.lngLat.lat,
         extent4326: {

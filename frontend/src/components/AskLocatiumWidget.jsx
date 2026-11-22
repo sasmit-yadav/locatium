@@ -614,6 +614,14 @@ export function AskLocatiumWidget() {
         patchLast({ streaming: false });
         return;
       }
+      if (err.code === 'DAILY_LIMIT') {
+        patchLast({
+          text: (useLangStore.getState().lang === 'hi' && err.messageHi) || err.message,
+          method: 'limit',
+          streaming: false,
+        });
+        return;
+      }
       patchLast({
         text: `Couldn’t reach the copilot — ${err.message}. Try again, or use Investor filters on the right.`,
         method: 'error',

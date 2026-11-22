@@ -34,6 +34,27 @@ function authenticate(req, _res, next) {
   }
 }
 
+/**
+ * Like `authenticate`, but never rejects: sets `req.user` when a valid access token is
+ * present and otherwise continues anonymously (used by register to upgrade a demo account).
+ */
+function optionalAuthenticate(req, _res, next) {
+  const header = req.headers.authorization;
+  if (!header || !header.startsWith('Bearer ') || !jwtAccessSecret) {
+    next();
+    return;
+  }
+  try {
+    const payload = jwt.verify(header.slice(7).trim(), jwtAccessSecret);
+    if (payload.typ === 'access') {
+      req.user = { id: payload.sub, email: payload.email, role: payload.role };
+    }
+  } catch {
+    /* anonymous */
+  }
+  next();
+}
+
 /** Call after `authenticate`. Restricts to given roles. */
 function requireRole(...allowed) {
   return (req, _res, next) => {
@@ -49,4 +70,4 @@ function requireRole(...allowed) {
   };
 }
 
-module.exports = { authenticate, requireRole };
+module.exports = { authenticate, optionalAuthenticate, requireRole };

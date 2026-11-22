@@ -7,11 +7,33 @@ const DashboardMapPage = lazy(() =>
 const SharedPortfolioPage = lazy(() =>
   import('./pages/SharedPortfolioPage').then((module) => ({ default: module.SharedPortfolioPage }))
 );
+const LegalPage = lazy(() =>
+  import('./pages/LegalPage').then((module) => ({ default: module.LegalPage }))
+);
+const AuthLinkPage = lazy(() =>
+  import('./pages/AuthLinkPage').then((module) => ({ default: module.AuthLinkPage }))
+);
 const EmbedZonePage = lazy(() =>
   import('./pages/EmbedZonePage').then((module) => ({ default: module.EmbedZonePage }))
 );
 
 export default function App() {
+  const path = window.location.pathname.replace(/\/+$/, '') || '/';
+  // Static pages that must work even when the API is down: no ServiceGate.
+  if (path === '/terms' || path === '/privacy') {
+    return (
+      <Suspense fallback={null}>
+        <LegalPage page={path.slice(1)} />
+      </Suspense>
+    );
+  }
+  if (path === '/verify-email' || path === '/reset-password') {
+    return (
+      <Suspense fallback={null}>
+        <AuthLinkPage kind={path === '/verify-email' ? 'verify' : 'reset'} />
+      </Suspense>
+    );
+  }
   const portfolioMatch = window.location.pathname.match(/^\/portfolio\/([^/]+)\/?$/);
   const embedMatch = window.location.pathname.match(/^\/embed\/(.+?)\/?$/);
   return (

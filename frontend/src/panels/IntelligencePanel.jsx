@@ -11,6 +11,7 @@ import {
 } from '../analytics/chartOptions';
 import { ScoreGauge } from '../analytics/ScoreGauge';
 import { ScoreBreakdown } from '../analytics/ScoreBreakdown';
+import { Disclaimer } from '../components/ui/Disclaimer';
 import { MethodBadge } from '../components/MethodBadge';
 import { CheckPlotCard } from '../components/plot/CheckPlotCard';
 import { ScoreWord } from '../components/ui/ScoreWord';
@@ -287,15 +288,12 @@ export function IntelligencePanel({ collapsed }) {
   const [saveSearchMsg, setSaveSearchMsg] = useState('');
   const [portfolioName, setPortfolioName] = useState('');
   const [portfolioMsg, setPortfolioMsg] = useState('');
-  const [alertEmail, setAlertEmail] = useState('');
   const [selectedSavedSearchId, setSelectedSavedSearchId] = useState('');
   const [alertMsg, setAlertMsg] = useState('');
   const [compareIds, setCompareIds] = useState([]);
   const [reportState, setReportState] = useState({ loading: false, error: '' });
   const [emailState, setEmailState] = useState({
     open: false,
-    to: '',
-    message: '',
     loading: false,
     error: '',
     success: '',
@@ -580,16 +578,13 @@ export function IntelligencePanel({ collapsed }) {
   }
 
   async function handleSubscribeAlert() {
-    if (!alertEmail.trim()) return;
     setAlertMsg('');
     try {
       const result = await subscribeSearchAlert({
-        email: alertEmail.trim(),
         savedSearchId: selectedSavedSearchId || null,
         minScoreDelta: 5,
       });
       setAlertMsg(result.note || 'Alert subscription saved');
-      setAlertEmail('');
       queryClient.invalidateQueries({ queryKey: ['portal-search-alerts'] });
     } catch (err) {
       setAlertMsg(err.message || 'Alert subscription failed');
@@ -756,35 +751,18 @@ export function IntelligencePanel({ collapsed }) {
 
   async function handleEmailReport() {
     if (!selectedInvestorZoneId) return;
-
-    if (!emailState.open) {
-      setEmailState((prev) => ({ ...prev, open: true, error: '', success: '' }));
-      return;
-    }
-
-    if (!emailState.to.trim()) {
-      setEmailState((prev) => ({ ...prev, error: 'Recipient email is required' }));
-      return;
-    }
-
+    // Reports go only to the signed-in user's own confirmed email (enforced by the API).
     try {
-      setEmailState((prev) => ({ ...prev, loading: true, error: '', success: '' }));
+      setEmailState((prev) => ({ ...prev, open: true, loading: true, error: '', success: '' }));
       const result = await emailInvestorReport({
-        to: emailState.to.trim(),
         zoneId: selectedInvestorZoneId,
         sector: investorFilters.sector,
-        message: emailState.message.trim() || undefined,
       });
       const modeNote =
         result.deliveryMode === 'outbox'
           ? "Email isn't set up on this server, so nothing was sent. The report is saved: download it from Reports."
-          : `Email sent successfully to ${result.to}.`;
-      setEmailState((prev) => ({
-        ...prev,
-        loading: false,
-        success: modeNote,
-        error: '',
-      }));
+          : `Report sent to ${result.to}.`;
+      setEmailState((prev) => ({ ...prev, loading: false, success: modeNote, error: '' }));
     } catch (error) {
       setEmailState((prev) => ({
         ...prev,
@@ -946,6 +924,7 @@ export function IntelligencePanel({ collapsed }) {
             <div className="space-y-ds-4 border-t border-ds-border-subtle p-3">
               <ScoreInsightsBlock analysis={analysis} loading={analysisQuery.isLoading} />
               <ScoreBreakdown breakdown={analysis?.scoreBreakdown} />
+              <Disclaimer className="mt-2" />
             </div>
           </details>
         ) : null}
@@ -996,34 +975,10 @@ export function IntelligencePanel({ collapsed }) {
               disabled={!selectedInvestorZoneId || emailState.loading}
               className="mt-2 flex h-9 w-full items-center justify-center gap-2 rounded-lg border border-ds-border-subtle bg-ds-surface-sunken px-3 text-ds-small text-ds-text-primary transition hover:border-ds-accent hover:bg-ds-accent-subtle disabled:cursor-not-allowed disabled:opacity-50"
             >
-              <Mail size={13} /> {emailState.open ? (emailState.loading ? 'Sending...' : 'Send report email') : 'Email report'}
+              <Mail size={13} /> {emailState.loading ? 'Sending...' : 'Email report to me'}
             </button>
-            {emailState.open ? (
-              <div className="mt-2 space-y-2 rounded-lg border border-ds-border-subtle bg-ds-surface-sunken p-3">
-                <label className="block text-[10px] font-semibold uppercase tracking-[0.14em] text-ds-text-secondary">
-                  Recipient email
-                  <input
-                    type="email"
-                    value={emailState.to}
-                    onChange={(event) => setEmailState((prev) => ({ ...prev, to: event.target.value, error: '', success: '' }))}
-                    placeholder="stakeholder@example.com"
-                    className="mt-1 h-9 w-full rounded-lg border border-ds-border-subtle bg-ds-surface-sunken px-2 text-xs text-ds-text-primary outline-none focus:border-ds-accent"
-                  />
-                </label>
-                <label className="block text-[10px] font-semibold uppercase tracking-[0.14em] text-ds-text-secondary">
-                  Optional message
-                  <textarea
-                    value={emailState.message}
-                    onChange={(event) => setEmailState((prev) => ({ ...prev, message: event.target.value }))}
-                    rows={3}
-                    placeholder="Add context for the recipient..."
-                    className="mt-1 w-full rounded-lg border border-ds-border-subtle bg-ds-surface-sunken px-2 py-2 text-xs text-ds-text-primary outline-none focus:border-ds-accent"
-                  />
-                </label>
-                {emailState.error ? <div className="text-xs text-red-300">{emailState.error}</div> : null}
-                {emailState.success ? <div className="text-xs text-ds-success">{emailState.success}</div> : null}
-              </div>
-            ) : null}
+            {emailState.error ? <div className="mt-2 text-xs text-red-300">{emailState.error}</div> : null}
+            {emailState.success ? <div className="mt-2 text-xs text-ds-success">{emailState.success}</div> : null}
             
             {/* Bookmark Section */}
             <div className="mt-4 border-t border-ds-border-subtle pt-4 space-y-3">
@@ -1208,6 +1163,7 @@ export function IntelligencePanel({ collapsed }) {
         ) : null}
 
         <ScoreBreakdown breakdown={analysis?.scoreBreakdown} />
+        <Disclaimer className="mt-2" />
 
         <section className="grid grid-cols-1 gap-3">
           <div className="rounded-lg border border-ds-border-subtle bg-ds-surface-raised p-4">
@@ -1315,8 +1271,6 @@ export function IntelligencePanel({ collapsed }) {
                 await deletePortfolio(id);
                 queryClient.invalidateQueries({ queryKey: ['portal-portfolios'] });
               }}
-              alertEmail={alertEmail}
-              setAlertEmail={setAlertEmail}
               onSubscribeAlert={handleSubscribeAlert}
               alertMsg={alertMsg}
               selectedSavedSearchId={selectedSavedSearchId}

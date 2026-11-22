@@ -11,8 +11,19 @@ concurrency:
 
 jobs:
   backend:
-    name: Backend unit tests
+    name: Backend unit + account integration tests
     runs-on: ubuntu-latest
+    services:
+      postgres:
+        image: postgis/postgis:16-3.4
+        env:
+          POSTGRES_PASSWORD: postgres
+          POSTGRES_DB: itest
+        ports: ['5432:5432']
+        options: >-
+          --health-cmd "pg_isready -U postgres" --health-interval 5s --health-timeout 5s --health-retries 10
+    env:
+      TEST_DATABASE_URL: postgres://postgres:postgres@localhost:5432/itest
     defaults:
       run:
         working-directory: backend
@@ -24,6 +35,8 @@ jobs:
           cache: npm
           cache-dependency-path: backend/package-lock.json
       - run: npm ci
+      - name: Create test schema
+        run: psql "$TEST_DATABASE_URL" -q -f db/schema.sql && psql "$TEST_DATABASE_URL" -q -f db/investor_extensions.sql
       - run: npm test
 
   frontend:

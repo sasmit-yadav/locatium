@@ -20,6 +20,7 @@ import { postIdentifyBatch } from '../services/mapsIdentify';
 import { AskLocatiumWidget } from '../components/AskLocatiumWidget';
 import { WelcomeScreen } from '../components/home/WelcomeScreen';
 import { MapLegend } from '../components/MapLegend';
+import { AccountDialog } from '../components/account/AccountDialog';
 import { TileStatusOverlay } from '../components/TileStatusOverlay';
 import { DATA_LAYERS } from '../config/layers';
 
@@ -214,6 +215,9 @@ export function DashboardMapPage() {
       });
 
       try {
+        // Static (PMTiles) layers were identified in the browser; the API skips those tables
+        // and their hits are merged into the matching category.
+        const staticLayers = ctx.staticLayers || [];
         const json = await postIdentifyBatch({
           lng: ctx.lng,
           lat: ctx.lat,
@@ -222,8 +226,14 @@ export function DashboardMapPage() {
           height: ctx.height,
           dpi: ctx.dpi,
           layerKeys: ctx.visibleLayerIds,
+          excludeTables: ctx.staticTables || [],
         });
-        const layers = json.layers || json.results || [];
+        const layers = (json.layers || json.results || []).map((layer) => {
+          const extra = staticLayers.find((s) => s.layerKey === layer.layerKey);
+          if (!extra || !extra.hits.length) return layer;
+          const hits = [...(layer.hits || []), ...extra.hits];
+          return { ...layer, ok: true, hits, rawResultCount: hits.length };
+        });
         setIdentify((prev) => ({ ...prev, loading: false, layers }));
 
         const district = findAttribute(layers, DISTRICT_FIELDS, 'district_boundary');
@@ -357,6 +367,7 @@ export function DashboardMapPage() {
       <CommandPalette />
       <AskLocatiumWidget />
       <WelcomeScreen />
+      <AccountDialog />
     </div>
   );
 }

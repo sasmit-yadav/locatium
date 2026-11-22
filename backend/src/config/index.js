@@ -3,7 +3,7 @@
  * Load dotenv in server.js (or tests) before importing this module.
  */
 
-const PORT = Number(process.env.PORT) || 3001;
+const PORT = Number(process.env.PORT) || 3002;
 
 const rawOrigins = process.env.CORS_ORIGINS || 'http://localhost:5173,http://127.0.0.1:5173';
 const corsOrigins = rawOrigins
@@ -13,8 +13,12 @@ const corsOrigins = rawOrigins
 
 const jwtAccessSecret = process.env.JWT_ACCESS_SECRET;
 const jwtRefreshSecret = process.env.JWT_REFRESH_SECRET;
-const jwtAccessExpires = process.env.JWT_ACCESS_EXPIRES || '7d';
+/** Short-lived access tokens; the frontend renews them silently with the refresh token. */
+const jwtAccessExpires = process.env.JWT_ACCESS_EXPIRES || '15m';
 const jwtRefreshExpires = process.env.JWT_REFRESH_EXPIRES || '30d';
+
+/** Public URL of the frontend — used to build verify-email and reset-password links. */
+const appPublicUrl = (process.env.PUBLIC_APP_URL || corsOrigins[0] || 'http://localhost:5173').replace(/\/$/, '');
 
 /** Minimum password length (README security checklist: 12+) */
 const passwordMinLength = Math.max(8, Number(process.env.PASSWORD_MIN_LENGTH) || 12);
@@ -63,6 +67,11 @@ const mapServerExchangeUrl =
 
 /** ML service base URL (Phase 4 — optional; scoring falls back when unreachable) */
 const mlServiceUrl = (process.env.ML_SERVICE_URL || 'http://localhost:8000').replace(/\/$/, '');
+/**
+ * ML_SERVICE_URL=disabled turns the (experimental, display-only) ML service off entirely, e.g.
+ * on free hosting. Scores then come straight from the formula, which is what users see anyway.
+ */
+const mlServiceEnabled = !/^(disabled|off|false|none)$/i.test((process.env.ML_SERVICE_URL || '').trim());
 
 /**
  * Allow a sleeping showcase ML service to wake. Locally we still fail fast, but the
@@ -110,6 +119,15 @@ function validateProductionConfig() {
     errors.push('CORS_ORIGINS cannot contain localhost in production');
   }
 
+  if (!process.env.PUBLIC_APP_URL?.trim()) {
+    errors.push('PUBLIC_APP_URL is required (frontend URL used in verify / reset emails)');
+  }
+  if (!process.env.SMTP_HOST?.trim() || !process.env.SMTP_FROM?.trim()) {
+    console.warn(
+      '[config] SMTP_HOST / SMTP_FROM are not set: verification, password-reset and report emails will NOT be delivered.'
+    );
+  }
+
   if (errors.length) {
     throw new Error(`Invalid production configuration:\n- ${errors.join('\n- ')}`);
   }
@@ -122,6 +140,7 @@ module.exports = {
   jwtRefreshSecret,
   jwtAccessExpires,
   jwtRefreshExpires,
+  appPublicUrl,
   passwordMinLength,
   redisUrl,
   tileCacheTtlSec,
@@ -138,6 +157,7 @@ module.exports = {
   mapServerReferer,
   mapServerExchangeUrl,
   mlServiceUrl,
+  mlServiceEnabled,
   mlServiceTimeoutMs,
   mlOverrideEnabled,
   validateProductionConfig,

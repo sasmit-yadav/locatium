@@ -6,6 +6,7 @@ import { useLang, useT } from '../../i18n';
 import { ScoreWord } from '../ui/ScoreWord';
 import { Term } from '../ui/Term';
 import { CostCalculator } from './CostCalculator';
+import { Disclaimer } from '../ui/Disclaimer';
 import { BuyerChecklist } from './BuyerChecklist';
 
 const USES = ['industrial', 'commercial', 'residential', 'agricultural'];
@@ -186,6 +187,7 @@ export function CheckPlotCard({ location }) {
         />
       ) : null}
       {s ? <BuyerChecklist items={s.checklist} /> : null}
+      {s ? <Disclaimer className="px-1" /> : null}
     </div>
   );
 }

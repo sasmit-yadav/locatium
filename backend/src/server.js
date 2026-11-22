@@ -3,8 +3,11 @@ require('dotenv').config();
 const { createApp } = require('./app');
 const { PORT, validateProductionConfig } = require('./config');
 const { checkDatabase, closePool } = require('./db/pool');
+const { ensureAccountSchema } = require('./db/ensure-account-schema');
 const { startInvestorAlertJob } = require('./jobs/investor-alerts.job');
 const { startDemoCleanupJob } = require('./jobs/demo-cleanup.job');
+const { startHousekeepingJob } = require('./jobs/housekeeping.job');
+const { alertError } = require('./utils/error-alert');
 const { warmInvestorCache } = require('./services/investor-cache-warm.service');
 const { logEvent } = require('./utils/structured-logger');
 
@@ -24,11 +27,16 @@ const server = app.listen(PORT, HOST, () => {
   console.log(`        GET  http://localhost:${PORT}/api/maps/:layerKey?bbox=minLon,minLat,maxLon,maxLat`);
   (async () => {
     const db = await checkDatabase();
-    if (db.ok) console.log('Database: connected');
-    else console.warn('Database: not configured or unreachable');
+    if (db.ok) {
+      console.log('Database: connected');
+      await ensureAccountSchema().catch((err) =>
+        console.error('Account schema check failed (run npm run db:migrate):', err.message)
+      );
+    } else console.warn('Database: not configured or unreachable');
   })();
   startInvestorAlertJob();
   startDemoCleanupJob();
+  startHousekeepingJob();
   if (process.env.INVESTOR_CACHE_WARM === 'true') {
     const warm = () =>
       warmInvestorCache()
@@ -74,6 +82,7 @@ process.on('unhandledRejection', (reason) => {
   const err = reason instanceof Error ? reason : new Error(String(reason));
   logEvent('unhandled_rejection', { message: err.message, stack: err.stack });
   console.error('Unhandled promise rejection (kept serving):', err);
+  alertError(err, { path: 'unhandledRejection' });
 });
 
 /**
@@ -84,5 +93,6 @@ process.on('unhandledRejection', (reason) => {
 process.on('uncaughtException', (err) => {
   logEvent('uncaught_exception', { message: err?.message, stack: err?.stack });
   console.error('Uncaught exception; shutting down:', err);
+  alertError(err, { path: 'uncaughtException' });
   shutdown('uncaughtException').finally(() => process.exit(1));
 });

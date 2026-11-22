@@ -168,7 +168,7 @@ function createScoringOrchestrator({ mlClient = defaultMlClient, fallbackScoring
     let response;
     if (mlError) {
       const reason = mlError.reason || mlError.message || 'unknown';
-      logEvent('ml_fallback_triggered', {
+      if (reason !== 'disabled') logEvent('ml_fallback_triggered', {
         endpoint: SCORE_ENDPOINT,
         reason,
         requestId: requestId || null,

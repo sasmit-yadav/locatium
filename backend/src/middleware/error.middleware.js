@@ -1,3 +1,5 @@
+const { alertError } = require('../utils/error-alert');
+
 class AppError extends Error {
   constructor(statusCode, message, details) {
     super(message);
@@ -71,6 +73,10 @@ function errorHandler(err, req, res, _next) {
   if (!isClientError) {
     if (req?.requestId) console.error(`[${req.requestId}]`, err);
     else console.error(err);
+    // Upstream 502/503/504s are expected while ML/LLM wake up; alert on real 500s only.
+    if (status === 500) {
+      alertError(err, { method: req?.method, path: req?.path, requestId: req?.requestId });
+    }
   }
 
   const body = {

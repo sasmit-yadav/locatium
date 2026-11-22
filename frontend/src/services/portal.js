@@ -170,12 +170,12 @@ export async function upsertPortfolio(payload) {
   return parseJsonResponse(res, 'Failed to save portfolio');
 }
 
-export async function subscribeSearchAlert({ savedSearchId, email, minScoreDelta = 5 }) {
+export async function subscribeSearchAlert({ savedSearchId, minScoreDelta = 5 }) {
   const origin = getMapsApiOrigin();
   const res = await authFetch(`${origin}/api/portal/search-alerts`, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ savedSearchId, email, minScoreDelta }),
+    body: JSON.stringify({ savedSearchId, minScoreDelta }),
   });
   return parseJsonResponse(res, 'Failed to subscribe to alerts');
 }

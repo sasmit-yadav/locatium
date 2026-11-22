@@ -126,11 +126,11 @@ export async function downloadInvestorReportById(reportId) {
   };
 }
 
-export async function emailInvestorReport({ to, zoneId, reportId, sector = 'industrial', message }) {
+export async function emailInvestorReport({ zoneId, reportId, sector = 'industrial' }) {
   const res = await authFetch(`${getMapsApiOrigin()}/api/investor/email-report`, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ to, zoneId, reportId, sector, message }),
+    body: JSON.stringify({ zoneId, reportId, sector }),
   });
   return parseJsonResponse(res, 'Failed to email report');
 }

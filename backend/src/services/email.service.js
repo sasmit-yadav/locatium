@@ -38,12 +38,15 @@ function createSmtpTransport() {
 
 async function saveToOutbox({ to, subject, text, filename, pdfBuffer }) {
   await fs.mkdir(OUTBOX_DIR, { recursive: true });
-  const stamp = Date.now();
-  const safeName = (filename || 'report.pdf').replace(/[^\w.-]+/g, '_');
-  const pdfPath = path.join(OUTBOX_DIR, `${stamp}-${safeName}`);
+  const stamp = `${Date.now()}-${Math.random().toString(36).slice(2, 8)}`;
+  let pdfPath = null;
+  let safeName = null;
+  if (pdfBuffer) {
+    safeName = (filename || 'report.pdf').replace(/[^\w.-]+/g, '_');
+    pdfPath = path.join(OUTBOX_DIR, `${stamp}-${safeName}`);
+    await fs.writeFile(pdfPath, pdfBuffer);
+  }
   const metaPath = path.join(OUTBOX_DIR, `${stamp}-meta.json`);
-
-  await fs.writeFile(pdfPath, pdfBuffer);
   await fs.writeFile(
     metaPath,
     JSON.stringify({ to, subject, text, filename: safeName, pdfPath, savedAt: new Date().toISOString() }, null, 2)
@@ -51,33 +54,43 @@ async function saveToOutbox({ to, subject, text, filename, pdfBuffer }) {
 
   return {
     deliveryMode: 'outbox',
-    outboxPath: pdfPath,
+    outboxPath: pdfPath || metaPath,
     messageId: `outbox-${stamp}`,
   };
 }
 
-async function sendReportEmail({ to, subject, text, filename, pdfBuffer }) {
+/**
+ * Sends one email. Without SMTP it is written to backend/email-outbox/ instead, so local
+ * development (and verify / reset links) still works — open the meta.json to copy the link.
+ */
+async function sendEmail({ to, subject, text, filename, pdfBuffer }) {
   const recipient = validateRecipient(to);
 
   if (!smtpConfigured()) {
+    if (process.env.NODE_ENV === 'production') {
+      console.warn('[email] SMTP is not configured; message saved to outbox, not sent:', subject);
+    }
     const outbox = await saveToOutbox({ to: recipient, subject, text, filename, pdfBuffer });
     return { to: recipient, ...outbox };
   }
 
   const transporter = createSmtpTransport();
-  const info = await transporter.sendMail({
+  const message = {
     from: process.env.SMTP_FROM,
     to: recipient,
     subject,
     text,
-    attachments: [
+  };
+  if (pdfBuffer) {
+    message.attachments = [
       {
         filename: filename || 'locatium-report.pdf',
         content: pdfBuffer,
         contentType: 'application/pdf',
       },
-    ],
-  });
+    ];
+  }
+  const info = await transporter.sendMail(message);
 
   return {
     to: recipient,
@@ -86,7 +99,13 @@ async function sendReportEmail({ to, subject, text, filename, pdfBuffer }) {
   };
 }
 
+async function sendReportEmail(args) {
+  return sendEmail(args);
+}
+
 module.exports = {
+  sendEmail,
   sendReportEmail,
   smtpConfigured,
+  OUTBOX_DIR,
 };

@@ -77,7 +77,6 @@ async function emailReport(req, res) {
     to: body.to,
     zoneId: body.zoneId || req.query.zoneId,
     reportId: body.reportId,
-    message: body.message,
     query: { ...(req.query || {}), sector: body.sector || req.query?.sector },
     userId: req.user.id,
   });

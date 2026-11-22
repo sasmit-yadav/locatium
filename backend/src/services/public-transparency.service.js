@@ -19,6 +19,19 @@ async function safeCount(pool, sql) {
   }
 }
 
+async function safeDate(pool, sql) {
+  try {
+    const { rows } = await pool.query(sql);
+    const v = rows[0]?.latest;
+    return v ? new Date(v).toISOString().slice(0, 10) : null;
+  } catch {
+    return null;
+  }
+}
+
+/** Circle rates are revised yearly; flag them once the newest set is over ~13 months old. */
+const CIRCLE_RATE_STALE_DAYS = 400;
+
 async function getTransparencyStats() {
   const pool = getPool();
   const llm = telemetry.snapshot();
@@ -59,6 +72,13 @@ async function getTransparencyStats() {
     safeCount(pool, 'SELECT COUNT(*)::int AS count FROM circle_rates'),
     safeCount(pool, `SELECT COUNT(*)::int AS count FROM land_transactions WHERE source <> 'seed_comparable'`),
   ]);
+  const [circleRatesAsOf, transactionsAsOf] = await Promise.all([
+    safeDate(pool, 'SELECT MAX(effective_from) AS latest FROM circle_rates'),
+    safeDate(pool, `SELECT MAX(transaction_date) AS latest FROM land_transactions WHERE source <> 'seed_comparable'`),
+  ]);
+  const circleAgeDays = circleRatesAsOf
+    ? Math.floor((Date.now() - new Date(circleRatesAsOf).getTime()) / 86_400_000)
+    : null;
 
   return {
     ...catalog,
@@ -70,6 +90,11 @@ async function getTransparencyStats() {
       schools,
       collectorRateRows: circleRates,
       marketTransactions: transactions,
+    },
+    dataAsOf: {
+      circleRates: circleRatesAsOf,
+      marketTransactions: transactionsAsOf,
+      circleRatesStale: circleAgeDays != null && circleAgeDays > CIRCLE_RATE_STALE_DAYS,
     },
     assistant: publicAssistantStats(llm),
     generatedAt: new Date().toISOString(),

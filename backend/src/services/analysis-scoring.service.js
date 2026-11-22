@@ -60,12 +60,55 @@ function tablePointSql() {
   return 'ST_SetSRID(ST_MakePoint($1, $2), 4326)';
 }
 
+/**
+ * Compact hosting (small free databases): the largest count-only layers can be stored
+ * as weighted density points instead of raw features — `<table>_density(geom, weight)`, one
+ * point per ~100 m cell carrying how many original features it stands for. Counting
+ * SUM(weight) within a radius matches COUNT(*) on the original table to within ~1–2%, and
+ * all 371 sampled location scores were identical to the full database (see
+ * db/compact-for-free-hosting.sql).
+ * When the original table exists it is always preferred, so the full database is unchanged.
+ */
+const DENSITY_CAPABLE = ['sec_oh_electric_line', 'distribution_transformer', 'sewerage_line'];
+const densityTables = new Map(); // original table -> density table (only when original is absent)
+let densityResolved = null;
+
+async function resolveDensityTables(pool) {
+  if (densityResolved) return densityResolved;
+  densityResolved = (async () => {
+    try {
+      const { rows } = await pool.query(
+        `SELECT t, to_regclass('public.' || t) IS NOT NULL AS has_orig,
+                to_regclass('public.' || t || '_density') IS NOT NULL AS has_density
+         FROM unnest($1::text[]) AS t`,
+        [DENSITY_CAPABLE]
+      );
+      for (const r of rows) {
+        if (!r.has_orig && r.has_density) densityTables.set(r.t, `${r.t}_density`);
+      }
+    } catch (err) {
+      console.warn('[analysis] density table check failed:', err.message);
+    }
+  })();
+  return densityResolved;
+}
+
+/** `COUNT(*)` over the original table, or `SUM(weight)` over its density stand-in. */
+function countSource(table) {
+  const density = densityTables.get(table);
+  return density
+    ? { from: density, agg: 'COALESCE(SUM(weight), 0)' }
+    : { from: table, agg: 'COUNT(*)' };
+}
+
 async function countWithin(pool, table, location, radiusM) {
+  await resolveDensityTables(pool);
   const point = tablePointSql();
   const radiusDeg = radiusM / 111320.0;
+  const src = countSource(table);
   const sql = `
-    SELECT COUNT(*)::int AS count
-    FROM ${table}
+    SELECT (${src.agg})::int AS count
+    FROM ${src.from}
     WHERE geom && ST_Expand(${point}, $3)
       AND ST_DWithin(geom, ${point}, $3)
   `;
@@ -174,11 +217,13 @@ function buildFeatureSql() {
 
   for (const [key, tables, radiusM] of FEATURE_COUNTS) {
     const deg = (radiusM / 111320.0).toFixed(8);
-    const perTable = tables.map(
-      (t) =>
-        `(SELECT COUNT(*) FROM ${safeIdentifier(t)} x ` +
+    const perTable = tables.map((t) => {
+      const src = countSource(safeIdentifier(t));
+      return (
+        `(SELECT ${src.agg} FROM ${safeIdentifier(src.from)} x ` +
         `WHERE x.geom && ST_Expand(p.g, ${deg}) AND ST_DWithin(x.geom, p.g, ${deg}))`
-    );
+      );
+    });
     selects.push(`(${perTable.join(' + ')})::int AS "c_${key}"`);
   }
 
@@ -200,7 +245,7 @@ function buildFeatureSql() {
   ].join('\n');
 }
 
-const FEATURE_SQL = buildFeatureSql();
+let FEATURE_SQL = null;
 
 function mapFeatureRow(row) {
   const out = {};
@@ -213,6 +258,8 @@ function mapFeatureRow(row) {
 }
 
 async function gatherLocationFeatures(pool, location) {
+  await resolveDensityTables(pool);
+  if (!FEATURE_SQL) FEATURE_SQL = buildFeatureSql();
   try {
     const { rows } = await pool.query(FEATURE_SQL, [location.lng, location.lat]);
     if (rows[0]) return mapFeatureRow(rows[0]);

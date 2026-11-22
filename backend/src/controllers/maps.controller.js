@@ -113,6 +113,9 @@ async function identifyBatch(req, res) {
     height: body.height,
     dpi: body.dpi,
     tolerance: body.tolerance,
+    excludeTables: Array.isArray(body.excludeTables)
+      ? body.excludeTables.filter((t) => typeof t === 'string').slice(0, 100)
+      : [],
   };
 
   const layers = await Promise.all(

@@ -159,7 +159,16 @@ export function WelcomeScreen() {
                 {t('welcome.dontShow')}
               </label>
             </div>
-            <p className="mt-4 text-[11px] leading-4 text-ds-text-tertiary">{t('welcome.trust')}</p>
+            <p className="mt-4 text-[11px] leading-4 text-ds-text-tertiary">
+              {t('welcome.trust')}{' '}
+              <a href="/terms" target="_blank" rel="noreferrer" className="underline-offset-2 hover:underline">
+                {t('legal.terms')}
+              </a>{' '}
+              ·{' '}
+              <a href="/privacy" target="_blank" rel="noreferrer" className="underline-offset-2 hover:underline">
+                {t('legal.privacy')}
+              </a>
+            </p>
           </motion.div>
         </motion.div>
       ) : null}

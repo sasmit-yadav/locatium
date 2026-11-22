@@ -12,7 +12,7 @@
 const scoringTelemetry = require('./scoring-telemetry');
 const llmTelemetry = require('./llm/llm-telemetry');
 const { getPool } = require('../db/pool');
-const { mlServiceUrl, mlServiceTimeoutMs } = require('../config');
+const { mlServiceUrl, mlServiceTimeoutMs, mlServiceEnabled } = require('../config');
 const { SCORING_VERSION } = require('./scoring-engine');
 
 const ML_PROBE_TIMEOUT_MS = Math.min(Number(mlServiceTimeoutMs) || 8000, 8000);
@@ -32,6 +32,9 @@ const STALE_AFTER_DAYS = {
 };
 
 async function probeMlService() {
+  if (!mlServiceEnabled) {
+    return { configured: false, url: null, reachable: false, status: 'disabled', latencyMs: 0 };
+  }
   const started = Date.now();
   const controller = new AbortController();
   const timer = setTimeout(() => controller.abort(), ML_PROBE_TIMEOUT_MS);
@@ -142,11 +145,13 @@ async function dataFreshness() {
 function overallStatus({ ml, scoring, llm, data }) {
   const issues = [];
 
-  if (!ml.reachable) issues.push({ level: 'critical', message: `ML service ${ml.status}` });
+  // A deliberately disabled ML service is not a fault, and every score is then formula-based.
+  const mlDisabled = ml.configured === false;
+  if (!mlDisabled && !ml.reachable) issues.push({ level: 'critical', message: `ML service ${ml.status}` });
 
   const recent = scoring.recentSuccessRatePct;
   const fallbackPct = recent == null ? scoring.fallbackRatePct : 100 - recent;
-  if (scoring.total > 0) {
+  if (!mlDisabled && scoring.total > 0) {
     if (fallbackPct >= FALLBACK_CRITICAL_PCT) {
       issues.push({ level: 'critical', message: `${fallbackPct}% of recent scores fell back to the heuristic` });
     } else if (fallbackPct >= FALLBACK_WARN_PCT) {

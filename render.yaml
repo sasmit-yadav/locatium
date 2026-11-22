@@ -1,6 +1,6 @@
-# LOCATIUM showcase services.
-# The 3+ GB PostGIS database is external (Neon Launch or another durable provider).
-# Set the same DATABASE_URL secret on both services after creating the Blueprint.
+# LOCATIUM on free hosting: Render (API) + Neon (compact PostGIS, ~430 MB) + Vercel (frontend
+# and static map tiles). See DEPLOYMENT.md → "Free hosting (no VM)".
+# After creating the Blueprint, fill the `sync: false` values in the Render dashboard.
 
 services:
   - type: web
@@ -9,13 +9,16 @@ services:
     plan: free
     region: singapore
     rootDir: backend
-    buildCommand: npm ci
+    buildCommand: npm ci --omit=dev
     startCommand: npm start
-    healthCheckPath: /ready
+    # Liveness only (no DB query), so health checks and keep-awake pings let Neon sleep.
+    healthCheckPath: /health
     autoDeploy: true
     envVars:
       - key: NODE_ENV
         value: production
+      - key: NODE_VERSION
+        value: "22"
       - key: TRUST_PROXY_HOPS
         value: "1"
       - key: PUBLIC_APP_URL
@@ -24,44 +27,54 @@ services:
         value: https://locatium-eta.vercel.app
       - key: ALLOW_VERCEL_PREVIEWS
         value: "false"
-      - key: INVESTOR_CACHE_WARM
-        value: "false"
-      - key: INVESTOR_ALERTS_ENABLED
-        value: "false"
+      # Neon connection string (use the *pooled* one, ends with -pooler...; sslmode=require)
+      - key: DATABASE_URL
+        sync: false
       - key: DATABASE_SSL
         value: "true"
-      - key: REQUIRE_SPATIAL_DATA
-        value: "true"
-      - key: ALLOW_PARTIAL_SPATIAL_MIGRATION
-        value: "false"
+      - key: PG_POOL_MAX
+        value: "5"
       - key: PG_STATEMENT_TIMEOUT_MS
         value: "60000"
       - key: PG_QUERY_TIMEOUT_MS
         value: "90000"
-      - key: PG_POOL_MAX
-        value: "8"
+      - key: REQUIRE_SPATIAL_DATA
+        value: "true"
+      - key: ALLOW_PARTIAL_SPATIAL_MIGRATION
+        value: "false"
       - key: JWT_ACCESS_SECRET
         generateValue: true
       - key: JWT_REFRESH_SECRET
         generateValue: true
-      - key: DATABASE_URL
-        sync: false
-      - key: REDIS_URL
-        value: ""
+      - key: JWT_ACCESS_EXPIRES
+        value: 15m
       - key: DEMO_MODE
         value: "true"
       - key: DEMO_USER_EMAIL
         value: demo@locatium.app
+      - key: ALLOW_PUBLIC_REGISTRATION
+        value: "true"
       - key: REPORT_STORAGE
         value: database
-      - key: LLM_ENABLED
+      # The experimental ML service is not deployed; scores come from the formula (as shown to users).
+      - key: ML_SERVICE_URL
+        value: disabled
+      - key: INVESTOR_CACHE_WARM
         value: "false"
+      - key: INVESTOR_ALERTS_ENABLED
+        value: "false"
+      - key: REDIS_URL
+        value: ""
+      - key: LLM_ENABLED
+        value: "true"
       - key: GROQ_API_KEY
         sync: false
-      - key: ML_SERVICE_URL
-        sync: false
-      - key: ML_SERVICE_TIMEOUT_MS
-        value: "75000"
+      - key: ASSISTANT_DAILY_LIMIT
+        value: "60"
+      - key: ASSISTANT_DEMO_DAILY_LIMIT
+        value: "20"
+      - key: EMAIL_REPORT_DAILY_LIMIT
+        value: "10"
       - key: SMTP_HOST
         sync: false
       - key: SMTP_PORT
@@ -72,18 +85,5 @@ services:
         sync: false
       - key: SMTP_FROM
         sync: false
-
-  - type: web
-    name: locatium-ml
-    runtime: docker
-    plan: free
-    region: singapore
-    rootDir: ml-service
-    dockerfilePath: ./Dockerfile
-    healthCheckPath: /ready
-    autoDeploy: true
-    envVars:
-      - key: LOG_LEVEL
-        value: info
-      - key: DATABASE_URL
+      - key: ALERT_WEBHOOK_URL
         sync: false

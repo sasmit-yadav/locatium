@@ -1,4 +1,4 @@
-const { mlServiceUrl, mlServiceTimeoutMs } = require('../config');
+const { mlServiceUrl, mlServiceTimeoutMs, mlServiceEnabled } = require('../config');
 const { logEvent } = require('../utils/structured-logger');
 
 class MlClientError extends Error {
@@ -69,6 +69,9 @@ function resetMlBreaker() {
 }
 
 async function requestMl(path, { method = 'GET', body, requestId, timeoutMs } = {}) {
+  if (!mlServiceEnabled) {
+    throw new MlClientError('ML service is disabled (ML_SERVICE_URL=disabled)', { reason: 'disabled' });
+  }
   const timeout = timeoutMs || mlServiceTimeoutMs;
   const controller = new AbortController();
   const timer = setTimeout(() => controller.abort(), timeout);

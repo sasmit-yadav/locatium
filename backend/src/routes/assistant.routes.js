@@ -3,10 +3,12 @@ const asyncHandler = require('../middleware/async-handler');
 const assistant = require('../controllers/assistant.controller');
 const { MAX_BYTES } = require('../services/speech.service');
 const { authenticate, requireRole } = require('../middleware/auth.middleware');
+const { dailyQuota } = require('../middleware/daily-quota.middleware');
 
 const router = express.Router();
 
-router.post('/ask', authenticate, asyncHandler(assistant.ask));
+// Each question can spend LLM tokens: per-user daily cap (ASSISTANT_DAILY_LIMIT).
+router.post('/ask', authenticate, dailyQuota('assistant'), asyncHandler(assistant.ask));
 // Token spend, model ids and failure rates are operator data, not investor data.
 router.get('/metrics', authenticate, requireRole('admin'), asyncHandler(assistant.metrics));
 router.get('/capabilities', asyncHandler(assistant.capabilities));
@@ -19,6 +21,7 @@ router.delete('/memory', authenticate, asyncHandler(assistant.clearMemory));
 router.post(
   '/voice',
   authenticate,
+  dailyQuota('assistant'),
   express.raw({ type: ['audio/*', 'application/octet-stream'], limit: MAX_BYTES }),
   asyncHandler(assistant.voice)
 );

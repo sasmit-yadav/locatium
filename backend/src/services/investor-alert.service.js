@@ -75,12 +75,10 @@ async function processAlert(alert) {
       `Checked at: ${new Date().toISOString()}`,
     ].filter(Boolean);
 
-    await emailService.sendReportEmail({
+    await emailService.sendEmail({
       to: alert.email,
       subject,
-      text: lines.join('\n'),
-      filename: 'alert.txt',
-      pdfBuffer: Buffer.from(lines.join('\n'), 'utf8'),
+      text: [...lines, '', 'Manage or delete alerts in LOCATIUM → Saved searches.'].join('\n'),
     });
 
     await pool.query(
@@ -101,10 +99,16 @@ async function runAllAlerts() {
   const pool = getPool();
   if (!pool) return { processed: 0, notified: 0 };
 
+  // Deliver only to the owner's current, verified account email (never a stored free-text
+  // address), and skip guest accounts.
   const { rows } = await pool.query(
-    `SELECT id, user_id, saved_search_id, email, min_score_delta, last_snapshot,
-            (SELECT name FROM saved_searches WHERE id = saved_search_id) AS search_name
-     FROM investor_search_alerts WHERE active = true`
+    `SELECT a.id, a.user_id, a.saved_search_id, u.email, a.min_score_delta, a.last_snapshot,
+            (SELECT name FROM saved_searches WHERE id = a.saved_search_id) AS search_name
+     FROM investor_search_alerts a
+     JOIN users u ON u.id = a.user_id
+     WHERE a.active = true
+       AND u.email_verified_at IS NOT NULL
+       AND u.email NOT LIKE '%@demo.locatium.app'`
   );
 
   let notified = 0;
