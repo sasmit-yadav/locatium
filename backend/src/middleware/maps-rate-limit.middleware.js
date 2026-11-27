@@ -1,8 +1,9 @@
 const rateLimit = require('express-rate-limit');
-const { mapRateLimitWindowMs, mapRateLimitMax } = require('../config');
+const { mapRateLimitWindowMs, mapRateLimitMax, tileRateLimitMax } = require('../config');
 
 /**
- * Limits requests per IP for MapServer proxy routes (README: ~100 req/min per user — anonymous uses IP).
+ * Limits requests per IP for map API routes (geocode, identify, layer info, public cards).
+ * Mount each limiter on an exact path prefix so a request is counted once, never twice.
  */
 const mapsRateLimiter = rateLimit({
   windowMs: mapRateLimitWindowMs,
@@ -12,4 +13,13 @@ const mapsRateLimiter = rateLimit({
   message: { error: 'Too many map requests, please slow down.' },
 });
 
-module.exports = { mapsRateLimiter };
+/** Separate, larger budget for tiles so panning the map never blocks "Check this place". */
+const tileRateLimiter = rateLimit({
+  windowMs: mapRateLimitWindowMs,
+  max: tileRateLimitMax,
+  standardHeaders: true,
+  legacyHeaders: false,
+  message: { error: 'Too many map tile requests, please slow down.' },
+});
+
+module.exports = { mapsRateLimiter, tileRateLimiter };

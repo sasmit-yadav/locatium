@@ -15,7 +15,7 @@ const assistantRoutes = require('./routes/assistant.routes');
 const publicRoutes = require('./routes/public.routes');
 const mapsController = require('./controllers/maps.controller');
 const { proxyMapService } = require('./controllers/mapservice-proxy.controller');
-const { mapsRateLimiter } = require('./middleware/maps-rate-limit.middleware');
+const { mapsRateLimiter, tileRateLimiter } = require('./middleware/maps-rate-limit.middleware');
 const {
   authLimiter,
   portalLimiter,
@@ -75,8 +75,12 @@ function createApp() {
 
   app.use('/api/auth', authLimiter, authRoutes);
 
-  app.use('/api', mapsRateLimiter, geocodeRoutes);
-  app.use('/api', mapsRateLimiter, mapsRoutes);
+  // Limiters are mounted on exact prefixes. Mounting one on '/api' counted every API call
+  // (tiles, analysis, public cards) two or three times and exhausted the budget in seconds.
+  app.use('/api/tiles', tileRateLimiter);
+  app.use(['/api/geocode', '/api/maps'], mapsRateLimiter);
+  app.use('/api', geocodeRoutes);
+  app.use('/api', mapsRoutes);
   app.use('/api/features', mapsRateLimiter, featuresRoutes);
   app.use('/api/harsac', mapsRateLimiter, harsacRoutes);
   app.use('/api/analysis', analysisLimiter, analysisRoutes);
@@ -90,8 +94,8 @@ function createApp() {
   app.use('/api/mapservice', mapsRateLimiter, asyncHandler(proxyMapService));
 
   /** README legacy paths without `/api` prefix */
-  app.get('/tiles/:layer/metadata.json', mapsRateLimiter, asyncHandler(mapsController.getTileMetadata));
-  app.get('/tiles/:layer/:z/:x/:y.png', mapsRateLimiter, asyncHandler(mapsController.getTile));
+  app.get('/tiles/:layer/metadata.json', tileRateLimiter, asyncHandler(mapsController.getTileMetadata));
+  app.get('/tiles/:layer/:z/:x/:y.png', tileRateLimiter, asyncHandler(mapsController.getTile));
 
   app.use(notFoundHandler);
   app.use(errorHandler);

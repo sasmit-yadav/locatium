@@ -44,6 +44,10 @@ const mapRateLimitWindowMs = Number(process.env.MAP_RATE_LIMIT_WINDOW_MS) || 60_
 const mapRateLimitMax =
   Number(process.env.MAP_RATE_LIMIT_MAX) ||
   (process.env.NODE_ENV === 'production' ? 100 : 2000);
+/** Vector/raster tile requests per IP per window. One pan or zoom loads dozens of tiles per layer. */
+const tileRateLimitMax =
+  Number(process.env.TILE_RATE_LIMIT_MAX) ||
+  (process.env.NODE_ENV === 'production' ? 1500 : 5000);
 
 /** Identify tolerance (screen px); wider picks symbols easier on dense tiles */
 const mapIdentifyTolerancePx = Number(process.env.MAP_IDENTIFY_TOLERANCE_PX);
@@ -149,6 +153,7 @@ module.exports = {
   mapQueryLayerIdSafe,
   mapRateLimitWindowMs,
   mapRateLimitMax,
+  tileRateLimitMax,
   mapIdentifyTolerancePxSafe,
   mapServerToken,
   mapServerUsername,
